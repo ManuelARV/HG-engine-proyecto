@@ -1,12 +1,12 @@
-USAR
-TIRAR
-REGISTRAR
-DAR
+Usar
+Tirar
+Registrar
+Dar
      
-CONFIRMAR
-CAMINAR
+Confirmar
+Caminar
    
-CANCELAR
+Cancelar
    
    
      
@@ -14,9 +14,9 @@ CANCELAR
    
     
     
-COMPROBAR
+Comprobar
   
-DESELECCIONAR
+Deseleccionar
    
      
  
@@ -78,19 +78,19 @@ MOVER
 ¿{STRVAR_1 8, 0, 0}? \n¿Cuántos quieres vender?
 Puedo pagar ${STRVAR_1 55, 0, 0}.\n¿Te parece bien?
 Vendiste el {STRVAR_1 8, 0, 0}\ny recibiste ${STRVAR_1 55, 1, 0}.
-DINERO
+Dinero
 ${STRVAR_1 55, 0, 0}
       
 +${STRVAR_1 55, 0, 0}
   
    
-VENDER
+Vender
 x{STRVAR_1 52, 0, 0}
     
 PP
-POTENCIA
-PRECISIÓN
-CATEGORÍA
+Potencia
+Precisión
+Categoría
 {STRVAR_1 51, 0, 0}
 {STRVAR_1 52, 0, 0}
 Sellos: {STRVAR_1 53, 0, 0}
@@ -99,7 +99,7 @@ Accesorios: {STRVAR_1 52, 0, 0}\nFondos: {STRVAR_1 51, 1, 0}
    
    
 Puntos de batalla guardados:\n{STRVAR_1 53, 0, 0} PB
-TIPO
+Tipo
 Un objeto importante de la Bolsa puede\nasignarse a este botón para uso instantáneo.
 ¡Solo puedes registrar hasta dos objetos\nen los botones!
 ¡Se activó la potencia de\nlos sonidos GB!
