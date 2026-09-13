@@ -1,121 +1,121 @@
-Hello, and welcome to\nthe Pokémon Center.\rWe restore your tired Pokémon\nto full health.\rWould you like to rest your\nPokémon?{YESNO 0}
-OK, I’ll take your Pokémon for a few\nseconds.
-Thank you for waiting.\rWe’ve restored your Pokémon to full\nhealth.\r
-Please, come back again any time!
-Hello, and welcome to\nthe Pokémon Center.\rWe restore your tired Pokémon\nto full health.\rWould you like to...\r
-Th-that Trainer Card!\rThat wonderful shade!\nAnd all those stars!\rI’ve seen several Trainers with\nViolet Trainer Cards up to now...\rBut you’re the first to top them\nwith that impressive Trainer Card.\rPlease, {STRVAR_1 3, 0, 0}, may I please\nheal your Pokémon? {YESNO 0}
-Great to see you, {STRVAR_1 3, 0, 0}!\nYou want the usual, right? {YESNO 0}
-I will be pleased to take your\nPokémon for a few seconds.
-Thank you for waiting.
-We hope to see you again!
-Your Pokémon may be infected with\nthe Pokérus.\rLittle is known about the Pokérus\nexcept that they are microscopic\flife-forms that attach to Pokémon.\rWhile infected, Pokémon are said to\ngrow exceptionally well.
-{STRVAR_1 3, 0, 0} is out of battle-ready\nPokémon!\r{STRVAR_1 3, 0, 0}’s vision dimmed!
+¡Hola! Bienvenido al\nCentro Pokémon.\rCuramos a tus Pokémon cansados\ny los dejamos como nuevos.\r¿Quieres que descanse tu\nPokémon?{YESNO 0}
+Vale, cuidaré de tus Pokémon unos\nsegundos.
+Gracias por esperar.\rTus Pokémon ya están como nuevos.\r
+¡Vuelve cuando quieras!
+¡Hola! Bienvenido al\nCentro Pokémon.\rCuramos a tus Pokémon cansados\ny los dejamos como nuevos.\r¿Quieres que...?\r
+¡E-esa Tarjeta de Entrenador!\r¡Qué color tan bonito!\n¡Y cuántas estrellas!\rHasta ahora he visto varios\nEntrenadores con tarjetas violetas...\rPero tú eres el primero que las\nsupera con una tarjeta tan genial.\r{STRVAR_1 3, 0, 0}, ¿me dejas\ncurar a tus Pokémon? {YESNO 0}
+¡Qué alegría verte, {STRVAR_1 3, 0, 0}!\nQuieres lo de siempre, ¿verdad? {YESNO 0}
+Estaré encantado de cuidar de tus\nPokémon unos segundos.
+Gracias por esperar.
+¡Esperamos verte otra vez!
+Puede que tus Pokémon tengan\nel Pokérus.\rSe sabe muy poco del Pokérus,\nsalvo que son formas de vida\fmicroscópicas que se pegan a los Pokémon.\rDicen que los Pokémon infectados\ncrecen muchísimo mejor.
+¡A {STRVAR_1 3, 0, 0} ya no le quedan\nPokémon listos para combatir!\r¡La vista de {STRVAR_1 3, 0, 0}\nse le nubló!
 
-Would you like to\nsave your adventure so far? {YESNO 0}
-There is already a saved file.\nIs it OK to overwrite it? {YESNO 0}
-Now saving your Pokémon adventure...\nDon’t turn off the power.
-You saved your progress!
+¿Quieres guardar tu aventura\nhasta ahora? {YESNO 0}
+Ya hay una partida guardada.\n¿Quieres sobrescribirla? {YESNO 0}
+Guardando tu aventura Pokémon...\nNo apagues la consola.
+¡Progreso guardado!
 
-Save error.
+Error al guardar.
 
-There is already a saved game file.\nIt is impossible to save.\rPlease refer to the Instruction\nBooklet for details.\rPress Up + SELECT + B Button on\nthe title screen if you want to erase\fthe current saved game file.
-Saving a lot of data...\nDon’t turn off the power.
+Ya hay una partida guardada.\nNo se puede guardar.\rConsulta el manual de instrucciones\npara más detalles.\rPulsa Arriba + SELECT + B en\nla pantalla del título si quieres borrar\fla partida guardada actual.
+Guardando muchos datos...\nNo apagues la consola.
 
 
 
-Obtained {STRVAR_1 8, 0, 0}!
+¡Has conseguido {STRVAR_1 8, 0, 0}!
 
-Too bad!\nThe Bag is full...
-{STRVAR_1 3, 0, 0} obtained\n{COLOR 2}{STRVAR_1 8, 1, 0}{COLOR 0}!
-{STRVAR_1 3, 0, 0} obtained\n{COLOR 1}{STRVAR_1 8, 1, 0}{COLOR 0}!
-{STRVAR_1 3, 0, 0} put the {STRVAR_1 8, 1, 0}\nin the {COLOR 2}{STRVAR_1 31, 2, 0}{COLOR 0} Pocket.
-{STRVAR_1 3, 0, 0} put the {STRVAR_1 8, 1, 0}\nin the {COLOR 2}{STRVAR_1 31, 2, 0}{COLOR 0} Pocket.
-{STRVAR_1 3, 0, 0} put away the\n{STRVAR_1 31, 1, 0} in the Fashion Case.
-{STRVAR_1 3, 0, 0} booted up the PC.\r
-Which PC should be accessed? {YESNO 0}
-The Pokémon Storage System\nwas accessed.\r
-Accessed {STRVAR_1 3, 0, 0}’s PC.\r
-Oak’s words echoed...\n{STRVAR_1 3, 0, 0}! There’s a time and\fplace for everything! But not now.
-Welcome!\nWhat do you need?
+¡Qué pena!\nLa Bolsa está llena...
+¡{STRVAR_1 3, 0, 0} ha conseguido\n{COLOR 2}{STRVAR_1 8, 1, 0}{COLOR 0}!
+¡{STRVAR_1 3, 0, 0} ha conseguido\n{COLOR 1}{STRVAR_1 8, 1, 0}{COLOR 0}!
+{STRVAR_1 3, 0, 0} ha guardado {STRVAR_1 8, 1, 0}\nen el bolsillo de {COLOR 2}{STRVAR_1 31, 2, 0}{COLOR 0}.
+{STRVAR_1 3, 0, 0} ha guardado {STRVAR_1 8, 1, 0}\nen el bolsillo de {COLOR 2}{STRVAR_1 31, 2, 0}{COLOR 0}.
+{STRVAR_1 3, 0, 0} ha guardado\n{STRVAR_1 31, 1, 0} en el Estuche.
+{STRVAR_1 3, 0, 0} ha encendido el PC.\r
+¿A qué PC quieres acceder? {YESNO 0}
+Has accedido al sistema de\nAlmacenamiento Pokémon.\r
+Has accedido al PC de {STRVAR_1 3, 0, 0}.\r
+Las palabras de Oak resonaron...\n¡{STRVAR_1 3, 0, 0}! Cada cosa tiene su\fmomento, ¡pero ahora no toca!
+¡Bienvenido!\n¿Qué necesitas?
 
-There! All happy and healthy!\nGood luck and take care!
-Mom: {STRVAR_1 3, 0, 0}!\nWelcome home.\rIt sounds like you had quite the\nexperience out there.\rMaybe you should take a quick\nrest so you can relax.\r...\n...
-Mom: Oh, good! You and your\nPokémon are looking great.\rOh, yes, I heard from Professor Elm.\rHe said that a Pokémon’s energy is\nmeasured in HP (Hit Points).\rIf your Pokémon lose their HP,\nyou can restore it at any\fPokémon Center.\rIf you’re going to travel far away,\nthe smart Trainer stocks up on\fPotions at the Pokémon Mart.\rMake me proud, honey!\nTake care!
-Mom: Oh, good! You and your\nPokémon are looking great.\rOh yes, {STRVAR_1 3, 0, 0}, your Pokémon\nwill faint if it runs out of HP.\rIf your Pokémon loses its HP, come\nhome before it faints.\rIt will be healed to full health by\ntaking a rest.\rWell, honey, make me proud!\nTake care!
-First, let’s restore your Pokémon\nto full health.
-Your Pokémon have been healed\nto perfect health.
-Please visit a Pokémon Center when\nyour Pokémon’s HP goes down.\rIf you’re planning to travel any\ndistance, you should stock up on\fPotions at a Pokémon Mart.\rGood luck, Trainer!
-There’s no Mail in the Mailbox.\r
+¡Listo! ¡Están sanos y felices!\n¡Cuídate mucho!
+Mamá: ¡{STRVAR_1 3, 0, 0}!\nBienvenido a casa.\rParece que has vivido un montón de\naventuras ahí fuera.\rQuizá deberías descansar un poco\npara relajarte.\r...\n...
+Mamá: ¡Qué bien! Tú y tus\nPokémon tenéis muy buen aspecto.\rAh, sí, he hablado con el profesor Elm.\rMe ha dicho que la energía de un Pokémon\nse mide en PS (Puntos de Salud).\rSi tus Pokémon pierden PS,\npuedes recuperarlos en cualquier\fCentro Pokémon.\rSi vas a viajar lejos,\nlo mejor es llevar algunas\fPociones de la Tienda Pokémon.\r¡Hazme sentir orgullosa, cariño!\n¡Cuídate!
+Mamá: ¡Qué bien! Tú y tus\nPokémon tenéis muy buen aspecto.\rAh, sí, {STRVAR_1 3, 0, 0}, tus Pokémon\nse debilitarán si se quedan sin PS.\rSi un Pokémon pierde todos sus PS,\nvuelve a casa antes de que caiga.\rSe recuperará por completo\nsi descansa un poco.\rBueno, cariño, ¡hazme sentir orgullosa!\n¡Cuídate!
+Primero, vamos a curar a tus Pokémon\ny dejarlos como nuevos.
+Tus Pokémon ya están completamente\nrecuperados.
+Pásate por un Centro Pokémon cuando\ntus Pokémon anden bajos de PS.\rSi piensas viajar lejos,\nserá mejor que compres\fPociones en una Tienda Pokémon.\r¡Buena suerte, Entrenador!
+No hay correo en el buzón.\r
 
-Not even a nibble...
-The Pokémon got away...
-Reeled it in too quickly...
-Landed a Pokémon!
-{STRVAR_1 1, 0, 0} survived the poisoning.\nThe poison faded away!\r
+Ni siquiera ha picado...
+El Pokémon se ha escapado...
+Has recogido demasiado rápido...
+¡Has pescado un Pokémon!
+{STRVAR_1 1, 0, 0} ha sobrevivido al veneno.\n¡El veneno ha desaparecido!\r
 
 ♂
 ♀
-There appears to be nothing here...
-The sweet scent faded for some\nreason...
-Ride your Bike? {YESNO 0}
-Get off your Bike? {YESNO 0}
-You can’t dismount your Bike here!
-Oh?
-{STRVAR_1 0, 0, 0} hatched from the Egg!
-Would you like to give a nickname to the\nnewly hatched {STRVAR_1 0, 0, 0}?
-The repellent’s effect wore off!
+Parece que aquí no hay nada...
+El dulce aroma desapareció por\nalgún motivo...
+¿Quieres montar en bici? {YESNO 0}
+¿Quieres bajarte de la bici? {YESNO 0}
+¡Aquí no puedes bajarte de la bici!
+¿Eh?
+¡{STRVAR_1 0, 0, 0} salió del Huevo!
+¿Quieres ponerle un mote al\n{STRVAR_1 0, 0, 0} recién nacido?
+¡El efecto del repelente se ha acabado!
 
 
-I’m very sorry.\rWe are working underground right now.\nIt’s off-limits to the public.\rPlease try later on.
+Lo siento mucho.\rAhora mismo estamos trabajando bajo tierra.\nEl acceso está prohibido.\rVuelve a intentarlo más tarde.
 
 
-There is text engraved in the back\nof the obtained Plate...\r“When the universe was created,\nits shards became this Plate.”\r
-There is text engraved in the back\nof the obtained Plate...\r“The power of defeated giants\ninfuses this Plate.”\r
-There is text engraved in the back\nof the obtained Plate...\r“Two beings of time and space set\nfree from the Original One.”\r
-There is text engraved in the back\nof the obtained Plate...\r“Three beings were born to bind\ntime and space.”\r
-There is text engraved in the back\nof the obtained Plate...\r“Two make matter, and three make\nspirit, shaping the world.”\r
-There is text engraved in the back\nof the obtained Plate...\r“The Original One breathed alone\nbefore the universe came.”\r
-There is text engraved in the back\nof the obtained Plate...\r“The powers of Plates are shared\namong Pokémon.”\r
-There is text engraved in the back\nof the obtained Plate...\r“The rightful bearer of a Plate\ndraws from the Plate it holds.”\r
-Ball Capsules can’t be used because\nyou don’t have any Seals.\r
+Hay un texto grabado en la parte trasera\nde la Tabla obtenida...\r“Cuando nació el universo,\nsus fragmentos formaron esta Tabla”.\r
+Hay un texto grabado en la parte trasera\nde la Tabla obtenida...\r“El poder de los gigantes derrotados\nimpregna esta Tabla”.\r
+Hay un texto grabado en la parte trasera\nde la Tabla obtenida...\r“Dos seres de tiempo y espacio fueron\nliberados por el Uno Original”.\r
+Hay un texto grabado en la parte trasera\nde la Tabla obtenida...\r“Tres seres nacieron para unir\nel tiempo y el espacio”.\r
+Hay un texto grabado en la parte trasera\nde la Tabla obtenida...\r“Dos crean la materia y tres crean\nel espíritu que da forma al mundo”.\r
+Hay un texto grabado en la parte trasera\nde la Tabla obtenida...\r“El Uno Original respiró a solas\nantes de que naciera el universo”.\r
+Hay un texto grabado en la parte trasera\nde la Tabla obtenida...\r“El poder de las Tablas se comparte\nentre los Pokémon”.\r
+Hay un texto grabado en la parte trasera\nde la Tabla obtenida...\r“El legítimo portador de una Tabla\nextrae su poder al llevarla”.\r
+No puedes usar las Cajas Ball porque\nno tienes ningún Sello.\r
 
-Would you like to\nsave your adventure so far?
-There is already a saved file.\nIs it OK to overwrite it?
-Good morning!\nWelcome to the Pokémon Center.\rWe restore your tired Pokémon\nto full health.\rWould you like to rest your\nPokémon? {YESNO 0}
-Hello, and welcome to\nthe Pokémon Center.\rWe restore your tired Pokémon\nto full health.\rWould you like to rest your\nPokémon? {YESNO 0}
-{STRVAR_1 3, 0, 0}’s Azure Flute is making\na sound!\rWould you like to blow into the\nAzure Flute? {YESNO 0}
-{STRVAR_1 3, 0, 0} blew the Azure Flute.\r
-A glowing stairway appeared!
-The Azure Flute echoed hollowly...\rIt appears to be meaningless using\nthe Azure Flute here...
-{STRVAR_1 3, 0, 0} put the {STRVAR_1 8, 1, 0}\nin the {COLOR 2}{STRVAR_1 27, 2, 0}{COLOR 0} Pocket.\r
-{STRVAR_1 3, 0, 0} put away the\n{STRVAR_1 31, 1, 0} in the Fashion Case.\r
+¿Quieres guardar tu aventura\nhasta ahora?
+Ya hay una partida guardada.\n¿Quieres sobrescribirla?
+¡Buenos días!\nBienvenido al Centro Pokémon.\rCuramos a tus Pokémon cansados\ny los dejamos como nuevos.\r¿Quieres que descanse tu\nPokémon? {YESNO 0}
+¡Hola! Bienvenido al\nCentro Pokémon.\rCuramos a tus Pokémon cansados\ny los dejamos como nuevos.\r¿Quieres que descanse tu\nPokémon? {YESNO 0}
+¡La Flauta Azur de {STRVAR_1 3, 0, 0}\nestá sonando!\r¿Quieres tocar la\nFlauta Azur? {YESNO 0}
+{STRVAR_1 3, 0, 0} ha tocado la Flauta Azur.\r
+¡Ha aparecido una escalera brillante!
+La Flauta Azur resonó en el vacío...\rParece que aquí no sirve de nada\nusar la Flauta Azur...
+{STRVAR_1 3, 0, 0} ha guardado {STRVAR_1 8, 1, 0}\nen el bolsillo de {COLOR 2}{STRVAR_1 27, 2, 0}{COLOR 0}.\r
+{STRVAR_1 3, 0, 0} ha guardado\n{STRVAR_1 31, 1, 0} en el Estuche.\r
 
 
-Your Bag is full.\rThe Griseous Orb could not be removed,\nso you cannot enter.
-Your Hall of Fame data is corrupted.\rIt will be fixed if you enter the\nHall of Fame again.\r
-{STRVAR_1 3, 0, 0} received\n{STRVAR_1 31, 1, 0}!\rBut the Fashion Case is already full!
+La Bolsa está llena.\rNo se ha podido quitar la Gran Esfera,\nasí que no puedes entrar.
+Los datos del Hall de la Fama están dañados.\rSe arreglarán si vuelves a entrar\nen el Hall de la Fama.\r
+¡{STRVAR_1 3, 0, 0} ha recibido\n{STRVAR_1 31, 1, 0}!\r¡Pero el Estuche ya está lleno!
 
-{STRVAR_1 3, 0, 0} found a Shiny Leaf!\r{STRVAR_1 3, 0, 0} put the Shiny Leaf on\n{STRVAR_1 1, 1, 0}!
-{STRVAR_1 3, 0, 0} found a Shiny Leaf!\rBut {STRVAR_1 1, 1, 0} already has a\nShiny Leaf!
-Oh?\n{STRVAR_1 1, 0, 0}’s state...\r
-{STRVAR_1 1, 0, 0} changed into its\nLand Forme!
-Registered the phone number in the\nPokégear!\r
-{STRVAR_1 0, 0, 0} is feeling better, so you\ndecided to take {STRVAR_1 0, 0, 0} with you!\r
-Hey!\rCan you tell me how you feel right\nbefore a match? How you feel when you\fwin or lose? What it would be\flike to be number one? {YESNO 0}
-All right, tell me how you feel\nbefore battle!\r
-All right, tell me how you feel after\nyou win!\r
-All right, tell me how you feel after\nyou lose!\r
-All right, tell me how it would feel to be\nnumber one!\r
-Excuse me? You won’t say?\nThat’s too bad...
-Thank you! Will you tell me about\nanything else? {YESNO 0}
-Got it! Thanks!
-Got it! Thanks!\n{STRVAR_1 28, 0, 0}, huh...
-BEFORE BATTLE
-WHEN YOU WIN
-WHEN YOU LOSE
-WHEN YOU’RE #1
-NOT TELLING
+¡{STRVAR_1 3, 0, 0} ha encontrado una Hoja Dorada!\r¡{STRVAR_1 3, 0, 0} se la ha puesto a\n{STRVAR_1 1, 1, 0}!
+¡{STRVAR_1 3, 0, 0} ha encontrado una Hoja Dorada!\r¡Pero {STRVAR_1 1, 1, 0} ya tiene una\nHoja Dorada!
+¿Eh?\nEl estado de {STRVAR_1 1, 0, 0}...\r
+¡{STRVAR_1 1, 0, 0} ha cambiado a su\nForma Tierra!
+¡Número de teléfono registrado en\nel Pokégear!\r
+{STRVAR_1 0, 0, 0} se encuentra mejor, así que\nhas decidido llevarte a {STRVAR_1 0, 0, 0}.\r
+¡Oye!\r¿Me cuentas cómo te sientes\njusto antes de combatir? ¿Y al\fganar o perder? ¿Cómo sería\fser el número uno? {YESNO 0}
+¡Vale! ¡Cuéntame cómo te sientes\nantes de combatir!\r
+¡Vale! ¡Cuéntame cómo te sientes\ndespués de ganar!\r
+¡Vale! ¡Cuéntame cómo te sientes\ndespués de perder!\r
+¡Vale! ¡Cuéntame cómo sería ser\nel número uno!\r
+¿Perdona? ¿No quieres decirlo?\nQué pena...
+¡Gracias! ¿Me cuentas algo más? {YESNO 0}
+¡Entendido! ¡Gracias!
+¡Entendido! ¡Gracias!\n{STRVAR_1 28, 0, 0}, ¿eh...?
+ANTES DE COMBATIR
+AL GANAR
+AL PERDER
+SER EL NÚMERO 1
+NO LO CUENTO
 
-The repellent’s effect wore off!\nWould you like to use another one?
-You used the {STRVAR_1 8, 1, 0}.
-Begin auto-battle.
+¡El efecto del repelente se ha acabado!\n¿Quieres usar otro?
+Has usado {STRVAR_1 8, 1, 0}.
+Comienza el combate automático.

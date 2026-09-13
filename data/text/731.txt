@@ -2,128 +2,132 @@ a ₧₦ Trainer
 a ₧₦ Trainer
 a Youngster
 a Lass
-a Camper
-a Picnicker
-a Bug Catcher
-an Aroma Lady
-the Twins
-a Hiker
-a Battle Girl
-a Fisherman
-a Cyclist
-a Cyclist
-a Black Belt
-an Artist
-a ₧₦ Breeder
-a ₧₦ Breeder
-a Cowgirl
-a Jogger
-a Pokéfan
-a Pokéfan
-a Poké Kid
-a rival
-an Ace Trainer
-an Ace Trainer
-a Waitress
-a Veteran
-a Ninja Boy
-a Dragon Tamer
-a Bird Keeper
-a Juggler
-a Rich Boy
-a Lady
-a Gentleman
-a Socialite
-a Beauty
-a Collector
-a Policeman
-a ₧₦ Ranger
-a ₧₦ Ranger
-a Scientist
-a Swimmer♂
-a Swimmer♀
-a Tuber
-a Tuber
-a Sailor
-a Kimono Girl
-a Ruin Maniac
-a Psychic
-a Psychic
-a PI
-a Guitarist
-an Ace Trainer
-an Ace Trainer
-a Team Rocket
-a Skier
-a Roughneck
-a Clown
-a Worker
-a School Kid
-a School Kid
-a Team Rocket
-a Burglar
-a Firebreather
-a Biker
-a Leader
-a Leader
-a Poké Maniac
-a Bird Keeper
-a Leader
-a Rancher
-a Leader
-a Leader
-a Leader
-a Leader
-a Leader
-a Teacher
-a Super Nerd
-a Sage
-a Parasol Lady
-a Waiter
-a Medium
-a Cameraman
-a Reporter
-an Idol
-a Champion
-an Elite Four
-an Elite Four
-an Elite Four
-a ₧₦ Trainer
-a ₧₦ Trainer
-a ₧₦ Trainer
-a ₧₦ Trainer
-a ₧₦ Trainer
-a ₧₦ Trainer
-a ₧₦ Trainer
-a Tower Tycoon
-a Leader
-a Hall Matron
-a Factory Head
-an Arcade Star
-a Castle Valet
-a Leader
-a Leader
-a Leader
-a Leader
-a Leader
-a Leader
-a ₧₦ Trainer
-a Leader
-an Elder
-an Elite Four
-a Scientist
-an Executive
-a Boarder
-an Executive
-an Executive
-an Executive
-a Passerby
-a Mystery Man
-a Double Team
-a Young Couple
-a ₧₦ Trainer
-a Rocket Boss
-a ₧₦ Trainer
-a ₧₦ Trainer
-a ₧₦ Trainer
-a ₧₦ Trainer
+un Entrenador ₧₦
+un Entrenador ₧₦
+un Joven Promesa
+una Chica
+un Excursionista
+un Pícnic
+un Cazabichos
+una Señorita Aroma
+las Gemelas
+un Montañero
+una Luchadora
+un Pescador
+un Ciclista
+un Ciclista
+un Cinturón Negro
+un Artista
+un Criador ₧₦
+un Criador ₧₦
+una Vaquera
+un Corredor
+un Pokéfan
+un Pokéfan
+un Pokéfan Joven
+un rival
+un Entrenador Guay
+un Entrenador Guay
+una Camarera
+un Veterano
+un Ninja
+un Domadragones
+un Ornitólogo
+un Malabarista
+un Niño Rico
+una Señorita
+un Caballero
+una Socialité
+una Bella
+un Coleccionista
+un Policía
+un Ranger ₧₦
+un Ranger ₧₦
+un Científico
+un Nadador♂
+una Nadadora♀
+un Chico Tubérculo
+una Chica Tubérculo
+un Marinero
+una Chica Kimono
+un Maníaco Ruinas
+un Psíquico
+una Psíquica
+un Estafador
+un Guitarrista
+un Entrenador Guay
+un Entrenador Guay
+un miembro del Team Rocket
+un Esquiador
+un Rufián
+un Payaso
+un Trabajador
+un Escolar
+un Escolar
+un miembro del Team Rocket
+un Ladrón
+un Domafuegos
+un Motorista
+un Líder
+un Líder
+un Pokémaniaco
+un Ornitólogo
+un Líder
+un Ganadero
+un Líder
+un Líder
+un Líder
+un Líder
+un Líder
+un Profesor
+un Supernerd
+un Sabio
+una Señorita Parasol
+un Camarero
+un Médium
+un Cámara
+un Reportero
+un Ídolo
+un Campeón
+un miembro del Alto Mando
+un miembro del Alto Mando
+un miembro del Alto Mando
+un Entrenador ₧₦
+un Entrenador ₧₦
+un Entrenador ₧₦
+un Entrenador ₧₦
+un Entrenador ₧₦
+un Entrenador ₧₦
+un Entrenador ₧₦
+un Magnate Torre
+un Líder
+una Matrona Sala
+un Jefe Fábrica
+una Estrella Arcade
+un Ayudante Castillo
+un Líder
+un Líder
+un Líder
+un Líder
+un Líder
+un Líder
+un Entrenador ₧₦
+un Líder
+un Anciano
+un miembro del Alto Mando
+un Científico
+un Ejecutivo
+un Snowboarder
+un Ejecutivo
+un Ejecutivo
+un Ejecutivo
+un Transeúnte
+un Hombre Misterioso
+un equipo doble
+una Pareja Joven
+un Entrenador ₧₦
+un Jefe Rocket
+un Entrenador ₧₦
+un Entrenador ₧₦
+un Entrenador ₧₦
+un Entrenador ₧₦
