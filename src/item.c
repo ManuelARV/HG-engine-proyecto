@@ -1,12 +1,18 @@
 #include "../include/item.h"
 
 #include "../include/config.h"
+#include "../include/constants/buttons.h"
 #include "../include/constants/file.h"
 #include "../include/constants/item.h"
 #include "../include/constants/moves.h"
+#include "../include/map_events_internal.h"
 #include "../include/message.h"
+#include "../include/pokemon.h"
+#include "../include/save.h"
 #include "../include/script.h"
+#include "../include/system.h"
 #include "../include/types.h"
+#include "../include/window.h"
 
 #define GFX_ITEM_DUMMY_ID  ((MAX_TOTAL_ITEM_NUM) * 2 + 2)
 #define GFX_ITEM_RETURN_ID ((MAX_TOTAL_ITEM_NUM + 1) * 2 + 4)
@@ -378,6 +384,8 @@ void ItemMenuUseFunc_AbilityCapsule(struct ItemMenuUseData *data, const struct I
 void ItemMenuUseFunc_Mint(struct ItemMenuUseData *data, const struct ItemCheckUseData *dat2 UNUSED);
 void ItemMenuUseFunc_Nectar(struct ItemMenuUseData *data, const struct ItemCheckUseData *dat2 UNUSED);
 void ItemMenuUseFunc_RotomCatalog(struct ItemMenuUseData *data, const struct ItemCheckUseData *dat2 UNUSED);
+void ItemMenuUseFunc_ExpSharePro(struct ItemMenuUseData *data, const struct ItemCheckUseData *dat2 UNUSED);
+BOOL ItemFieldUseFunc_ExpSharePro(struct ItemFieldUseData *data);
 
 const struct ItemUseFuncDat sNewItemFieldUseFuncs[] = {
     { ItemMenuUseFunc_RevealGlass, ItemFieldUseFunc_RevealGlass, NULL },
@@ -386,6 +394,7 @@ const struct ItemUseFuncDat sNewItemFieldUseFuncs[] = {
     { ItemMenuUseFunc_Mint, NULL, NULL },
     { ItemMenuUseFunc_Nectar, NULL, NULL },
     { ItemMenuUseFunc_RotomCatalog, NULL, NULL },
+    { ItemMenuUseFunc_ExpSharePro, ItemFieldUseFunc_ExpSharePro, NULL },
 };
 
 extern const struct ItemUseFuncDat sItemFieldUseFuncs[NUM_VANILLA_FIELD_USE_FUNCS];
@@ -670,4 +679,155 @@ void ItemMenuUseFunc_RotomCatalog(struct ItemMenuUseData *data, const struct Ite
     struct BagViewAppWork *env = data->taskManager->env; // TaskManager_GetEnvironment(data->taskManager);
     env->atexit_TaskEnv = sub_0203FAE8(fieldSystem, HEAPID_WORLD, ITEM_ROTOM_CATALOG);
     sub_0203C8F0(env, 0x0203CA9C | 1);
+}
+
+/**
+ *  @brief toggles EXP_SHARE_PRO_ENABLED_FLAG, the flag that makes the whole party earn experience
+ */
+static void ExpSharePro_ToggleFlag(void)
+{
+    if (CheckScriptFlag(EXP_SHARE_PRO_ENABLED_FLAG)) {
+        ClearScriptFlag(EXP_SHARE_PRO_ENABLED_FLAG);
+    } else {
+        SetScriptFlag(EXP_SHARE_PRO_ENABLED_FLAG);
+    }
+}
+
+// field dialog box layout, mirroring the vanilla dialog box (DialogBox_AddWindowToLayer3)
+#define GF_BG_LYR_MAIN_3        3
+#define DIALOG_BOX_BASE_TILE    0x237
+#define DIALOG_FRAME_BASE_TILE  0x3E2
+#define DIALOG_BOX_PLTT_NUM     12
+#define DIALOG_FRAME_PLTT_NUM   10
+
+// FieldSystem.textbox_open, bit 6 of the byte at 0xD2.  The field only stops handling the button
+// presses itself while it is set, so a message task has to flag that it owns a textbox.
+#define FIELDSYS_TEXTBOX_OPEN_BYTE(fieldSystem) ((fieldSystem)->unkBC[0xD2 - 0xBC])
+#define FIELDSYS_TEXTBOX_OPEN_BIT               0x40
+
+// a027 file 010 (data/text/010.txt) holds the item use messages that are printed in the field
+#define MSG_DATA_ITEM_USE_MESSAGES 10
+#define MSG_EXP_SHARE_PRO_ON       129 // data/text/010.txt line 130
+#define MSG_EXP_SHARE_PRO_OFF      130 // data/text/010.txt line 131
+
+void *LONG_CALL Heap_Alloc(int heapId, u32 size);
+void LONG_CALL AddWindowParameterized(void *bgConfig, void *window, u8 bgId, u8 x, u8 y, u8 width, u8 height, u8 paletteNum, u16 baseTile);
+void LONG_CALL DrawFrameAndWindow2(void *window, BOOL dont_copy_to_vram, u16 baseTile, u8 palette_num);
+
+struct ExpShareProMessageData {
+    struct Window window;
+    String *str;
+    u8 printerId;
+    u8 state;
+    u16 frames;
+};
+
+static struct ExpShareProMessageData *ExpSharePro_MessageData_New(void)
+{
+    struct ExpShareProMessageData *env = Heap_Alloc(HEAPID_WORLD, sizeof(struct ExpShareProMessageData));
+
+    env->str = NULL;
+    env->printerId = 0;
+    env->state = 0;
+    env->frames = 0;
+
+    return env;
+}
+
+/**
+ *  @brief prints the Exp. Share Pro on/off message in a field message box
+ *         the text shown depends on EXP_SHARE_PRO_ENABLED_FLAG, which is toggled before the task is created
+ *
+ *  @param taskManager task running the message, its environment is a struct ExpShareProMessageData
+ *  @return TRUE once the player closed the message box
+ */
+static BOOL Task_ExpSharePro_ShowMessage(TaskManager *taskManager)
+{
+    FieldSystem *fieldSystem = taskManager->fieldSystem;
+    struct ExpShareProMessageData *env = taskManager->env;
+
+    switch (env->state) {
+    case 0: {
+        MsgData *msgData = NewMsgDataFromNarc(MSGDATA_LOAD_LAZY, ARC_MSG_DATA, MSG_DATA_ITEM_USE_MESSAGES, HEAPID_WORLD);
+        u32 msgNo = CheckScriptFlag(EXP_SHARE_PRO_ENABLED_FLAG) ? MSG_EXP_SHARE_PRO_ON : MSG_EXP_SHARE_PRO_OFF;
+
+        env->str = NewString_ReadMsgData(msgData, msgNo);
+        DestroyMsgData(msgData);
+
+        FIELDSYS_TEXTBOX_OPEN_BYTE(fieldSystem) |= FIELDSYS_TEXTBOX_OPEN_BIT;
+        MapObjectMan_PauseAllMovement(fieldSystem->mapObjectMan);
+
+        AddWindowParameterized(fieldSystem->bg_config, &env->window, GF_BG_LYR_MAIN_3, 2, 19, 27, 4, DIALOG_BOX_PLTT_NUM, DIALOG_BOX_BASE_TILE);
+        LoadUserFrameGfx2(fieldSystem->bg_config, GF_BG_LYR_MAIN_3, DIALOG_FRAME_BASE_TILE, DIALOG_FRAME_PLTT_NUM, 0, HEAPID_WORLD);
+        FillWindowPixelBuffer(&env->window, 15);
+        DrawFrameAndWindow2(&env->window, FALSE, DIALOG_FRAME_BASE_TILE, DIALOG_FRAME_PLTT_NUM);
+
+        env->printerId = AddTextPrinterParameterized(&env->window, 1, env->str, 0, 0, 0, NULL);
+        env->state++;
+    } break;
+    case 1: {
+        u32 keys;
+
+        env->frames++;
+        // the printer check is skipped after a short delay in case it never reports as finished
+        if (!TextPrinterCheckActive(env->printerId) || env->frames > 20) {
+            keys = gSystem.newKeys | gSystem.newAndRepeatedKeys | gSystem.simulatedInputs;
+
+            if (keys & (PAD_BUTTON_A | PAD_BUTTON_B | PAD_KEY_UP | PAD_KEY_DOWN | PAD_KEY_LEFT | PAD_KEY_RIGHT)) {
+                env->state++;
+            } else if (env->frames > 90 && (gSystem.heldKeys & (PAD_BUTTON_A | PAD_BUTTON_B))) {
+                // safety net: let the box be closed by holding a button if the press never arrives as a new key
+                env->state++;
+            }
+        }
+    } break;
+    case 2:
+        FIELDSYS_TEXTBOX_OPEN_BYTE(fieldSystem) &= ~FIELDSYS_TEXTBOX_OPEN_BIT;
+        ClearFrameAndWindow2(&env->window, FALSE);
+        RemoveWindow(&env->window);
+        String_Delete(env->str);
+        MapObjectMan_UnpauseAllMovement(fieldSystem->mapObjectMan);
+        Heap_FreeExplicit(HEAPID_WORLD, env);
+        return TRUE;
+    }
+
+    return FALSE;
+}
+
+/**
+ *  @brief menu use function for the Exp. Share Pro key item
+ *         toggles EXP_SHARE_PRO_ENABLED_FLAG and shows the new state in a message box
+ *
+ *         Nothing is launched, so instead of waiting for an application this drives the start menu to
+ *         START_MENU_STATE_12, which fades the field back in and then runs the message as its exit task.
+ *
+ *  @param data item menu use data
+ */
+void ItemMenuUseFunc_ExpSharePro(struct ItemMenuUseData *data, const struct ItemCheckUseData *dat2 UNUSED)
+{
+    FieldSystem *fieldSystem = data->taskManager->fieldSystem; // TaskManager_GetFieldSystem(data->taskManager);
+    struct BagViewAppWork *env = data->taskManager->env; // TaskManager_GetEnvironment(data->taskManager);
+
+    ExpSharePro_ToggleFlag();
+
+    FieldSystem_LoadFieldOverlay(fieldSystem);
+    env->atexit_TaskEnv = ExpSharePro_MessageData_New();
+    env->atexit_TaskFunc = Task_ExpSharePro_ShowMessage;
+    env->state = 12; // START_MENU_STATE_12
+}
+
+/**
+ *  @brief field use function for the Exp. Share Pro key item, used from the registered item button
+ *         toggles EXP_SHARE_PRO_ENABLED_FLAG and shows the new state in a message box
+ *
+ *  @param data item field use data
+ *  @return FALSE so that the caller frees the item field use data; the message runs as its own task
+ */
+BOOL ItemFieldUseFunc_ExpSharePro(struct ItemFieldUseData *data)
+{
+    ExpSharePro_ToggleFlag();
+
+    // TaskManager_Call runs the message on top of the field and resumes the field once the box is closed
+    TaskManager_Call((TaskManager *)data->fieldSystem->taskman, Task_ExpSharePro_ShowMessage, ExpSharePro_MessageData_New());
+    return FALSE;
 }

@@ -657,6 +657,7 @@ SetBothScreensModesAndDisable = 0x0201ACB0 | 1;
 InitBgFromTemplate = 0x0201B1E4 | 1;
 BgClearTilemapBufferAndCommit = 0x0201CAE0 | 1;
 LoadUserFrameGfx1 = 0x0200E3DC | 1;
+LoadUserFrameGfx2 = 0x0200E644 | 1;
 LoadFontPal0 = 0x02003030 | 1;
 BG_ClearCharDataRange = 0x0201C1C4 | 1;
 BG_SetMaskColor = 0x0201C2D8 | 1;

@@ -1314,6 +1314,35 @@ u8 ALIGN4 scratchpad[4] = { 0, 0, 0, 0 };
 #define trackPartyExperience scratchpad[2]
 
 /**
+ *  @brief check whether the Exp. Share Pro key item is currently toggled on
+ *
+ *  @return TRUE if the whole party should receive experience, FALSE otherwise
+ */
+static BOOL IsExpShareProEnabled(void)
+{
+    return CheckScriptFlag(EXP_SHARE_PRO_ENABLED_FLAG);
+}
+
+/**
+ *  @brief mark every healthy party member as having earned experience so the base task hands experience to all of them
+ *
+ *  @param expcalc exp calculator structure
+ *  @param client_no side index used to index the experience-earned flags
+ */
+static void GrantExpShareProExperienceFlags(struct EXP_CALCULATOR *expcalc, int client_no)
+{
+    struct BattleStruct *sp = expcalc->sp;
+    struct Party *party = BattleWorkPokePartyGet(expcalc->bw, 0);
+
+    for (int i = 0; i < party->count; i++) {
+        struct PartyPokemon *mon = BattleWorkPokemonParamGet(expcalc->bw, 0, i);
+        if (GetMonData(mon, MON_DATA_SPECIES, NULL) && GetMonData(mon, MON_DATA_HP, NULL)) {
+            sp->obtained_exp_right_flag[client_no] |= No2Bit(i);
+        }
+    }
+}
+
+/**
  *  @brief task to distribute experience
  *
  *  @param arg0 task structure
@@ -1331,6 +1360,13 @@ void Task_DistributeExp_Extend(void *arg0, void *work)
     struct BattleStruct *sp = expcalc->sp;
 
     client_no = (sp->fainting_client >> 1) & 1;
+
+    // Exp. Share Pro key item: while it is toggled on, treat every healthy party member
+    // as if it earned experience so the base task gives experience to the whole party.
+    BOOL expShareProEnabled = IsExpShareProEnabled();
+    if (expShareProEnabled && expcalc->seq_no < 37) {
+        GrantExpShareProExperienceFlags(expcalc, client_no);
+    }
 
     if (expcalc->seq_no < 37) {
         // grab the pokémon that is actually gaining the experience
@@ -1368,7 +1404,8 @@ void Task_DistributeExp_Extend(void *arg0, void *work)
                 item = GetMonData(pploop, MON_DATA_HELD_ITEM, NULL);
                 eqp = BattleItemDataGet(sp, item, 1);
 
-                if (eqp == HOLD_EFFECT_EXP_SHARE) {
+                // Exp. Share Pro already marks the whole party, so don't split experience for held EXP Shares
+                if (!expShareProEnabled && eqp == HOLD_EFFECT_EXP_SHARE) {
                     monCountFromItem++;
                 }
             }
@@ -1455,7 +1492,8 @@ void Task_DistributeExp_Extend(void *arg0, void *work)
                     item = GetMonData(pploop, MON_DATA_HELD_ITEM, NULL);
                     eqp = BattleItemDataGet(sp, item, 1);
 
-                    if (eqp == HOLD_EFFECT_EXP_SHARE) {
+                    // Exp. Share Pro already marks the whole party, so don't split experience for held EXP Shares
+                    if (!expShareProEnabled && eqp == HOLD_EFFECT_EXP_SHARE) {
                         monCountFromItem++;
                     }
                 }
@@ -1543,6 +1581,11 @@ BOOL Task_DistributeExp_capture_experience(void *arg0, void *work, u32 get_clien
     expcalc->sp->fainting_client = get_client_no;
     for (int i = 0; i < (s32)NELEMS(store_work_params); i++) {
         expcalc->work[i] = store_work_params[i];
+    }
+
+    // Exp. Share Pro key item: make sure the whole party is eligible for capture experience as well.
+    if (IsExpShareProEnabled()) {
+        GrantExpShareProExperienceFlags(expcalc, (expcalc->sp->fainting_client >> 1) & 1);
     }
 
     if (expcalc->seq_no == 0) // set first pokemon gaining experience to a specific one so that it doesn't try to give experience to something that doesn't need it

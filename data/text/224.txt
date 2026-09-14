@@ -1,1 +1,2 @@
-{COLOR 255}Custom Items{COLOR 0}
+{COLOR 255}Rep. Exp. PRO{COLOR 0}
+{COLOR 255}Caramelos Infinitos{COLOR 0}

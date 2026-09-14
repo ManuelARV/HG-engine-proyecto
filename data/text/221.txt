@@ -1,1 +1,2 @@
-Custom item description
+Repartir Experiencia mejorado.\nAfecta al equipo entero.
+Caramelo cargado de energía.\nSi se consume, sube un nivel\nal Pokémon que lo tome.

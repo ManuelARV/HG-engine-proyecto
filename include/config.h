@@ -97,6 +97,11 @@
 #define FLAG_DYNAMAX_ENABLED         2520
 #define FLAG_TERASTALIZATION_ENABLED 2521
 
+// EXP_SHARE_PRO_ENABLED_FLAG is the script flag that stores the on/off state of the Exp. Share Pro key item.
+// while it is set, every healthy party member earns experience in battle even without holding an EXP Share.
+// remember to change it in flags.s as well for consistency
+#define EXP_SHARE_PRO_ENABLED_FLAG 2522
+
 // UPDATE_OVERWORLD_POISON will remove overworld poison if enabled
 // comment the line out below to retain overworld poison
 #define UPDATE_OVERWORLD_POISON

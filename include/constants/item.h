@@ -2691,10 +2691,12 @@
 
 #define MAX_BASE_ITEM_NUM ITEM_CANARI_BREAD
 
-// define your custom move effects below like this
+// define your custom items below like this
 // #define ITEM_CUSTOM_1 (MAX_BASE_ITEM_NUM + 1)
+#define ITEM_EXP_SHARE_PRO (MAX_BASE_ITEM_NUM + 1)
+#define ITEM_INFINITE_RARE_CANDY (MAX_BASE_ITEM_NUM + 2)
 
-#define MAX_TOTAL_ITEM_NUM ITEM_CANARI_BREAD
+#define MAX_TOTAL_ITEM_NUM ITEM_INFINITE_RARE_CANDY
 
 #define NUM_MEGA_STONES (48) // includes the pixie plate, doesn't include plza megas due to overflowing bag
 #define NUM_HMS         (ITEM_HM08 - ITEM_HM01 + 1) // intentionally do not include HM07_ORAS (Dive)
@@ -2873,7 +2875,7 @@ enum ItemGeneration {
 #define NUM_BAG_BERRIES      64
 #define NUM_BAG_MAIL         12
 #define NUM_BAG_BATTLE_ITEMS 30
-#define NUM_BAG_KEY_ITEMS    50 + 42
+#define NUM_BAG_KEY_ITEMS    51 + 42
 
 #else
 
@@ -2884,7 +2886,7 @@ enum ItemGeneration {
 #define NUM_BAG_BERRIES      64
 #define NUM_BAG_MAIL         12
 #define NUM_BAG_BATTLE_ITEMS 30
-#define NUM_BAG_KEY_ITEMS    50
+#define NUM_BAG_KEY_ITEMS    51
 
 #endif
 

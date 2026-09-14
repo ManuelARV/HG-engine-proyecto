@@ -885,7 +885,7 @@ El {STRVAR_1 1, 0, 0} rival usó {STRVAR_1 8, 1, 0}\npara curar su quemadura.
 ¡{STRVAR_1 8, 1, 0} usó {STRVAR_1 1, 0, 0}\npara descongelarse!
 El {STRVAR_1 1, 0, 0} salvaje usó {STRVAR_1 8, 1, 0}\npara descongelarse.
 El {STRVAR_1 1, 0, 0} rival usó {STRVAR_1 8, 1, 0}\npara descongelarse.
-¡{STRVAR_1 8, 1, 0} de {STRVAR_1 1, 0, 0} \lo despertó!
+¡{STRVAR_1 8, 1, 0} de {STRVAR_1 1, 0, 0} \nlo despertó!
 El {STRVAR_1 1, 0, 0} salvaje usó {STRVAR_1 8, 1, 0}\npara despertarse.
 El {STRVAR_1 1, 0, 0} rival usó {STRVAR_1 8, 1, 0}\npara despertarse.
 {STRVAR_1 1, 0, 0} usó {STRVAR_1 8, 1, 0}\npara salir de su confusión.
@@ -975,7 +975,7 @@ Quedan: {STRVAR_1 51, 0, 0}
 ¡{STRVAR_1 3, 0, 0} envía a\n{STRVAR_1 1, 1, 0}!
 ¡{STRVAR_1 3, 0, 0} envía\na {STRVAR_1 1, 1, 0} y {STRVAR_1 1, 2, 0}!
 ¡{STRVAR_1 3, 0, 0} envía a {STRVAR_1 1, 1, 0}!\n¡{STRVAR_1 3, 2, 0} envía a {STRVAR_1 1, 3, 0}!
-¡{STRVAR_1 3, 0, 0} envía a\n{STRVAR_1 1, 1, 0}!\¡Adelante! {STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 3, 0, 0} envía a\n{STRVAR_1 1, 1, 0}!¡Adelante! {STRVAR_1 1, 2, 0}!
 ¡Adelante, {STRVAR_1 1, 0, 0}\ny {STRVAR_1 1, 1, 0}!
 ¡Adelante! {STRVAR_1 1, 0, 0}!
 ¡Te toca a tí, {STRVAR_1 1, 0, 0}!
@@ -1104,7 +1104,7 @@ El {STRVAR_1 1, 2, 0} rival sufrió daño por\nla habilidad {STRVAR_1 5, 1, 0} d
 El {STRVAR_1 1, 2, 0} salvaje sufrió daño por la habilidad\n{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0} salvaje!
 {STRVAR_1 1, 2, 0} sufrió daño por\nla habilidad {STRVAR_1 5, 1, 0} del rival!
 El {STRVAR_1 1, 2, 0} rival sufrió daño por\nla habilidad {STRVAR_1 5, 1, 0}\fdel {STRVAR_1 1, 0, 0} rival!
-¡{STRVAR_1 5, 0, 0} de {STRVAR_1 1, 1, 0}\le hizo estremecerse!
+¡{STRVAR_1 5, 0, 0} de {STRVAR_1 1, 1, 0}\nle hizo estremecerse!
 El {STRVAR_1 1, 1, 0} salvaje hizo estremecerse\na su rival con {STRVAR_1 5, 0, 0}.
 El {STRVAR_1 1, 1, 0} rival hizo estremecerse\na su rival con {STRVAR_1 5, 0, 0}.
 ¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nle alertó de {STRVAR_1 6, 2, 0}!

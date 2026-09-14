@@ -127,3 +127,5 @@ Bolsillo de correo\nPara guardar y ordenar cartas\nvibrantes.
 Bolsillo de objetos de batalla\nPara objetos útiles durante la batalla.
 Bolsillo de objetos clave\nPara objetos indispensables para\ntu aventura.
 PARAR
+Rep. Exp. Pro activado
+Rep. Exp. Pro desactivado
