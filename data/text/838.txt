@@ -1,137 +1,137 @@
-An item to be held by a Pokémon.\nAttack and Sp. Atk sharply increase if\nthe holder is hit by a move it’s weak to.
-An item to be held by a Pokémon.\nThis offensive vest raises Sp. Def\nbut prevents the use of status moves.
-A device that allows you to view the\nhologram clips you have received at\nany time.
-A letter that Professor Sycamore wrote\nto your mother. A faint but pleasant\nperfume seems to cling to the paper.
-Attaches roller skates to the bottom\nof your shoes, allowing you to glide\nquickly around and perform tricks.
-An item to be held by a Pokémon.\nIt’s a stone tablet that boosts\nthe power of Fairy-type moves.
-A capsule that allows a Pokémon to\nswitch its current Ability to the\nother Ability its species can have.
-A soft and sweet treat made of fluffy,\npuffy, whipped, and whirled cream.\nIt’s loved by a certain Pokémon.
-A sachet filled with fragrant perfumes\nthat are just slightly overwhelming.\nYet it’s loved by a certain Pokémon.
-An item to be held by a Pokémon.\nBoosts Sp. Def if the holder is hit by\na Water-type attack--but only once.
-An item to be held by a Pokémon.\nBoosts Attack if the holder is hit by\na Ice-type attack--but only once.
-An item to be held by a Pokémon.\nThese goggles protect the holder from\nboth weather-related damage and powder.
-A flute that can play with such a\nbeautiful tone that even sleeping\nPokémon find themselves woken up.
-A fertilizer for growing Berries. However,\nit appears to be unsuitable for the soil\nin the Johto region and has no effect.
-A fertilizer for growing Berries. However,\nit appears to be unsuitable for the soil\nin the Johto region and has no effect.
-A fertilizer for growing Berries. However,\nit appears to be unsuitable for the soil\nin the Johto region and has no effect.
-A fertilizer for growing Berries. However,\nit appears to be unsuitable for the soil\nin the Johto region and has no effect.
-A variety of the mysterious Mega Stones.\nA Gengar holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Gardevoir holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nAn Ampharos holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Venusaur holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Charizard holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Blastoise holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Mewtwo holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Mewtwo holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Blaziken holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Medicham holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Houndoom holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nAn Aggron holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Banette holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Tyranitar holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Scizor holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Pinsir holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nAn Aerodactyl holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Lucario holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nAn Abomasnow holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Kangaskhan holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Gyarados holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nAn Absol holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Charizard holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nAn Alakazam holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Heracross holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Mawile holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Manectric holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Garchomp holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Latias holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Latios holding this stone will be\nable to Mega Evolve during battle.
-If a Pokémon holding this Berry is hit\nwith a supereffective Fairy-type move,\nthe power of that move will be weakened.
-If a Pokémon holding this Berry is hit\nwith a physical move, the holder’s\nDefense stat will be boosted.
-If a Pokémon holding this Berry is hit\nwith a special move, the holder’s\nSp. Def stat will be boosted.
-A watering can shaped like a Lotad.\nIt helps promote the healthy growth of\nany Berries planted in good, soft soil.
-The user’s body generates an eerie impulse.\nExposing the target to it harshly lowers\nthe target’s Sp. Atk stat.
-The user soars, then strikes on the\nsecond turn. It can also be used for\nflying to any familiar town.
-The user employs its psychic power\nto exchange abilities with the foe.
-The foe slams the target with its\nsteel-hard head. It may also make\nthe target flinch.
-The user tells the target a secret, and\nthe target loses its ability to concentrate.\nThis lowers the target’s Sp. Atk stat.
-This pass serves as an ID card for\ngaining access to the Power Plant\nthat lies along Route 13.
-This ring contains an untold power that\nsomehow enables Pokémon carrying a\nMega Stone to Mega Evolve in battle.
-A rather curious stone that\nmight appear valuable to some.\nIt’s all in the eye of the beholder.
-A perfectly normal stone that\nmight appear valuable to some.\nIt’s all in the eye of the beholder.
-This special coupon allows you to\nbuy items at a discount when you are\nshopping at a boutique.
-A card key that activates the elevator\nin Lysandre Labs.\nIt is emblazoned with Team Flare’s logo.
-A commuter pass that allows the holder\nto ride the TMV between Lumiose City\nand Kiloude City at any time.
-A precious symbol that is awarded to\nindividuals who have done great\nthings for the Kalos region.
-A mysterious and convenient notebook that\ncontains all the advice a Trainer receives\nout on an adventure.
-An ornament depicting a Pokémon\nthat is venerated as a protector\nin some region far from Kalos.
-A rather chic-looking case for\ncarrying contact lenses.
-A chic-looking case for carrying\nlipsticks.
-A light and yet incredibly effective trunk,\nwhich can contain every last piece of\nclothing that can be bought.
-A popular treat in Lumiose City. It\ncan be used to cure any status\ncondition a Pokémon may have.
-Shalour City’s famous shortbread. It\ncan be used to cure any status\ncondition a Pokémon may have.
-A fossil from a prehistoric Pokémon\nthat once lived on the land. It looks\nas if it could be a piece of a large jaw.
-A fossil from a prehistoric Pokémon\nthat once lived on the land. It looks\nlike the impression from a skin sail.
-A ticket that was handmade by\nLooker. It’s decorated with a\nliberal amount of glittery paint.
-A folding bike that enables a rider\nto get around much faster than with\nRunning Shoes.
-A device that allows you to view the\nhologram clips you have received at\nany time.
-A gem with an essence of the fey.\nWhen held, it strengthens the power\nof a Fairy-type move one time.
-This charm contains an untold power\nthat somehow enables Pokémon carrying\na Mega Stone to Mega Evolve in battle.
-This glove contains an untold power\nthat somehow enables Pokémon carrying\na Mega Stone to Mega Evolve in battle.
-This folding bike more than doubles\nyour movement speed.
-This folding bike allows you to\nperform actions such as wheelies and\nbunny hops.
-A watering can shaped like a Wailmer.\nIt helps promote the healthy growth\nof any Berries planted in soil.
-A case that contains mechanical\nparts of some sort made by the Devon\nCorporation.
-A sack used to gather and hold\nvolcanic ash.
-The key to New Mauville, which was\nconstructed beneath Mauville City.
-A set containing a Berry Blender for\nmaking Pokéblocks and a Pokéblock\nCase for storing Pokéblocks.
-An extremely important letter to\nSteven from the president of Devon\nCorporation.
-The ticket required for sailing on a ferry\nto the Southern Island. Does Norman, the\nPetalburg Gym Leader, know a secret?!
-A device found inside Sea Mauville.
-Nifty goggles to protect eyes from\ndesert sandstorms.
-A meteorite originally found at\nMeteor Falls.\nYou got it at Mt. Chimney.
-A key that opens a door inside Sea\nMauville.
-A key that opens a door inside Sea\nMauville.
-A key that opens a door inside Sea\nMauville.
-A key that opens a door inside Sea\nMauville.
-A key that opens the storage hold\ninside Sea Mauville.
-A special device made by Devon\nCorporation that signals the\npresence of any unseen Pokémon.
-Ticket required for sailing on a\nferry.
-Diving on the first turn, the user\nfloats up and attacks on the next\nturn.
-A device made by Devon Corporation\nthat provides oxygen to users during\nthe use of Dive.
-A very cool suit to be worn during\nthe Contest Spectacular.
-A very cute dress to be worn during\nthe Contest Spectacular.
-A suit made with the collective\ntechnological know-how of Team Magma.\nIt can withstand any impact.
-A suit made with the collective\ntechnological know-how of Team Aqua.\nIt can withstand any impact.
-Tickets for two to the astronomical\nshow being held at the Mossdeep\nSpace Center.
-This bracelet contains an untold power\nthat somehow enables Pokémon carrying\na Mega Stone to Mega Evolve in battle.
-This necklace contains an untold power\nthat somehow enables Pokémon carrying\na Mega Stone to Mega Evolve in battle.
-These glasses contain an untold power\nthat somehow enables Pokémon carrying\na Mega Stone to Mega Evolve in battle.
-This anchor contains an untold power\nthat somehow enables Pokémon carrying\na Mega Stone to Mega Evolve in battle.
-This stickpin contains an untold power\nthat somehow enables Pokémon carrying\na Mega Stone to Mega Evolve in battle.
-This tiara contains an untold power\nthat somehow enables Pokémon carrying\na Mega Stone to Mega Evolve in battle.
-This anklet contains an untold power\nthat somehow enables Pokémon carrying\na Mega Stone to Mega Evolve in battle.
-A meteorite that you got at Mt. Chimney.\nIt gives off a faint glow.
-A variety of the mysterious Mega Stones.\nA Swampert holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Sceptile holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Sableye holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nAn Altaria holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Gallade holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nAn Audino holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Metagross holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Sharpedo holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Slowbro holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Steelix holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Pidgeot holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Glalie holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Diancie holding this stone will be\nable to Mega Evolve during battle.
-A bottle believed to have been used\nto seal away the power of a certain\nPokémon long, long ago.
-This cuff contains an unknown power that\nsomehow enables a Pokémon carrying\na Mega Stone to Mega Evolve in battle.
-A variety of the mysterious Mega Stones.\nA Camerupt holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Lopunny holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Salamence holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Beedrill holding this stone will be\nable to Mega Evolve during battle.
-A meteorite that you got at Mt. Chimney.\nIt continues to give off a faint glow\nand is slightly warm to the touch.
-A meteorite that you got at Mt. Chimney.\nA pattern has risen to the surface,\nand it’s shining with rainbow-colored light.
-A stone filled with an unexplained power.\nIt makes Pokémon that battle with\na Mega Stone Mega Evolve.
-One of the fragments of a\nmeteorite from Granite Cave.\nIt’s faintly warm to the touch.
-A flute that can be used to summon\nLatios or Latias no matter where you\nare.
+Objeto que debe llevar un Pokémon.\nSi recibe un movimiento supereficaz,\nsuben mucho su Ataque y Ata. Especial.
+Objeto que debe llevar un Pokémon.\nChaleco ofensivo que sube la Def.\nEspecial y veta los movimientos de estado.
+Dispositivo que permite ver los\nclips holográficos recibidos en\ncualquier momento.
+Carta que el profesor Ciprés escribió\na tu madre. El papel desprende un\nperfume tenue y agradable.
+Pone patines en la suela de tus\nzapatos para deslizarte rápido y\nhacer trucos.
+Objeto que debe llevar un Pokémon.\nTabla de piedra que potencia\nlos movimientos de tipo Hada.
+Cápsula que permite a un Pokémon\ncambiar su habilidad actual por\nla otra que puede tener su especie.
+Dulce y suave manjar de nata\nmontada y batida.\nCierto Pokémon lo adora.
+Saquito lleno de perfumes algo\nabrumadores.\nAun así, cierto Pokémon lo adora.
+Objeto que debe llevar un Pokémon.\nSube la Def. Especial si recibe un\nataque de tipo Agua, solo una vez.
+Objeto que debe llevar un Pokémon.\nSube el Ataque si recibe un\nataque de tipo Hielo, solo una vez.
+Objeto que debe llevar un Pokémon.\nEstas gafas protegen del daño\nclimático y de los polvos.
+Flauta con un tono tan bello que\ndespierta incluso a los Pokémon\nque duermen.
+Abono para cultivar Bayas. Sin\nembargo, parece inadecuado para el\nsuelo de Johto y no surte efecto.
+Abono para cultivar Bayas. Sin\nembargo, parece inadecuado para el\nsuelo de Johto y no surte efecto.
+Abono para cultivar Bayas. Sin\nembargo, parece inadecuado para el\nsuelo de Johto y no surte efecto.
+Abono para cultivar Bayas. Sin\nembargo, parece inadecuado para el\nsuelo de Johto y no surte efecto.
+Una de las misteriosas Megapiedras.\nSi Gengar lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi Gardevoir lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi An Ampharos lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Venusaur lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Charizard lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Blastoise lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Mewtwo lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Mewtwo lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Blaziken lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Medicham lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Houndoom lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi An Aggron lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Banette lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Tyranitar lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Scizor lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Pinsir lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi An Aerodactyl lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Lucario lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi An Abomasnow lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Kangaskhan lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Gyarados lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi An Absol lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Charizard lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi An Alakazam lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Heracross lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Mawile lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Manectric lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Garchomp lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Latias lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Latios lleva esta piedra, podrá\nmega evolucionar en combate.
+Si un Pokémon que lleve esta Baya\nrecibe un movimiento supereficaz\nde tipo Hada, este pierde fuerza.
+Si un Pokémon que lleve esta Baya\nrecibe un movimiento físico, sube\nsu Defensa.
+Si un Pokémon que lleve esta Baya\nrecibe un movimiento especial, sube\nsu Def. Especial.
+Regadera con forma de Lotad.\nFavorece el buen crecimiento de las\nBayas plantadas en tierra blanda.
+El cuerpo del usuario genera un impulso\nfantasmal. Expuesto a él, el objetivo\nve muy reducido su Ata. Especial.
+El usuario alza el vuelo y ataca en el\nsegundo turno. También sirve para\nvolar a cualquier pueblo conocido.
+El usuario usa su poder psíquico\npara intercambiar habilidades con el rival.
+El objetivo es golpeado con una\ncabeza de acero. Puede también\nhacerlo retroceder.
+El usuario le cuenta un secreto al\nobjetivo, que pierde la concentración\ny ve reducido su Ata. Especial.
+Pase que sirve de identificación para\nacceder a la Central Energía\nsituada en la Ruta 13.
+Este anillo contiene un poder\nincalculable que permite mega evolucionar\na los Pokémon con una Megapiedra.
+Piedra bastante curiosa que a\nalgunos puede parecer valiosa.\nLa belleza está en quien la mira.
+Piedra perfectamente normal que a\nalgunos puede parecer valiosa.\nLa belleza está en quien la mira.
+Cupón especial que permite comprar\nartículos con descuento en las\nboutiques.
+Tarjeta-llave que activa el ascensor\nde los Laboratorios Lysson.\nLleva el logotipo del Team Flare.
+Abono que permite viajar en el TMV\nentre Ciudad Luminalia y Ciudad\nFicus a cualquier hora.
+Símbolo valioso que se entrega a\nquienes han hecho grandes cosas\npor la región de Kalos.
+Cuaderno misterioso y práctico que\ncontiene los consejos que recibe un\nEntrenador en su aventura.
+Adorno que representa a un Pokémon\nvenerado como protector en una\nregión muy lejana de Kalos.
+Estuche bastante elegante para\nguardar lentillas.
+Estuche elegante para guardar\npintalabios.
+Baúl ligero pero increíblemente\neficaz, capaz de guardar toda la ropa\nque se pueda comprar.
+Dulce típico de Ciudad Luminalia.\nCura cualquier problema de estado\nde un Pokémon.
+Famoso pan de mantequilla de\nCiudad Yantra. Cura cualquier problema\nde estado de un Pokémon.
+Fósil de un Pokémon prehistórico\nque vivió en tierra firme. Parece\nser parte de una gran mandíbula.
+Fósil de un Pokémon prehistórico\nque vivió en tierra firme. Parece la\nhuella de una aleta de piel.
+Ticket hecho a mano por el\nInvestigador. Está decorado con\nabundante pintura brillante.
+Bici plegable que permite avanzar\nmucho más rápido que con las\nZapatillas Deportivas.
+Dispositivo que permite ver los\nclips holográficos recibidos en\ncualquier momento.
+Gema con esencia feérica.\nAl llevarla, refuerza una vez la\npotencia de un movimiento de Hada.
+Este amuleto contiene un poder\nincalculable que permite mega evolucionar\na los Pokémon con una Megapiedra.
+Este guante contiene un poder\nincalculable que permite mega evolucionar\na los Pokémon con una Megapiedra.
+Esta bici plegable más que duplica\ntu velocidad al desplazarte.
+Esta bici plegable permite hacer\nmaniobras como caballitos\ny saltos de conejo.
+Regadera con forma de Wailmer.\nFavorece el buen crecimiento de las\nBayas plantadas en la tierra.
+Estuche que contiene piezas\nmecánicas de algún tipo hechas por\nDevon S.A.
+Saco para recoger y guardar\nceniza volcánica.
+Llave de Malvalona Nueva, construida\nbajo Ciudad Malvalona.
+Set que contiene un Licuabayas y un\nEstuche de Pokécubos para\nguardar Pokécubos.
+Importantísima carta para Máximo\ndel presidente de\nDevon S.A.
+Billete necesario para ir en ferry a la\nIsla del Sur. ¿Sabrá algo Norman, el\nlíder del Gimnasio de Petalburg?
+Dispositivo hallado en Malvalona Mar.
+Gafas excelentes para proteger los\nojos de las tormentas de arena.
+Meteorito hallado originalmente en\nla Cascada Meteoro.\nLo conseguiste en el Monte Cenizo.
+Llave que abre una puerta en el\ninterior de Malvalona Mar.
+Llave que abre una puerta en el\ninterior de Malvalona Mar.
+Llave que abre una puerta en el\ninterior de Malvalona Mar.
+Llave que abre una puerta en el\ninterior de Malvalona Mar.
+Llave que abre la bodega de\nalmacenamiento de Malvalona Mar.
+Dispositivo especial de Devon S.A.\nque detecta la presencia de\nPokémon invisibles.
+Billete necesario para\nviajar en ferry.
+Se sumerge el primer turno; el\nusuario emerge y ataca en el\nturno siguiente.
+Dispositivo de Devon S.A. que\nproporciona oxígeno al usarlo\npara bucear.
+Elegante traje para lucir en el\nGran Concurso.
+Adorable vestido para lucir en\nel Gran Concurso.
+Traje hecho con la tecnología\ndel Team Magma.\nResiste cualquier impacto.
+Traje hecho con la tecnología\ndel Team Aqua.\nResiste cualquier impacto.
+Entradas para dos al espectáculo\nastronómico que se celebra en el\nCentro Espacial de Ciudad Algaria.
+Esta pulsera contiene un poder\nincalculable que permite mega evolucionar\na los Pokémon con una Megapiedra.
+Este collar contiene un poder\nincalculable que permite mega evolucionar\na los Pokémon con una Megapiedra.
+Estas gafas contienen un poder\nincalculable que permite mega evolucionar\na los Pokémon con una Megapiedra.
+Este ancla contiene un poder\nincalculable que permite mega evolucionar\na los Pokémon con una Megapiedra.
+Este alfiler contiene un poder\nincalculable que permite mega evolucionar\na los Pokémon con una Megapiedra.
+Esta diadema contiene un poder\nincalculable que permite mega evolucionar\na los Pokémon con una Megapiedra.
+Esta tobillera contiene un poder\nincalculable que permite mega evolucionar\na los Pokémon con una Megapiedra.
+Meteorito que conseguiste en el\nMonte Cenizo. Despide un débil resplandor.
+Una de las misteriosas Megapiedras.\nSi A Swampert lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Sceptile lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Sableye lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi An Altaria lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Gallade lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi An Audino lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Metagross lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Sharpedo lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Slowbro lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Steelix lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Pidgeot lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Glalie lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Diancie lleva esta piedra, podrá\nmega evolucionar en combate.
+Botella que, según se cree, se usó\npara sellar el poder de cierto Pokémon\nhace mucho, mucho tiempo.
+Este brazalete contiene un poder\nincalculable que permite mega evolucionar\na los Pokémon con una Megapiedra.
+Una de las misteriosas Megapiedras.\nSi A Camerupt lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Lopunny lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Salamence lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Beedrill lleva esta piedra, podrá\nmega evolucionar en combate.
+Meteorito que conseguiste en el\nMonte Cenizo. Sigue despidiendo un\ndébil resplandor y está algo caliente.
+Meteorito que conseguiste en el\nMonte Cenizo. Ha surgido un dibujo en\nsu superficie que brilla con colores.
+Piedra llena de un poder inexplicable.\nHace mega evolucionar a los Pokémon\nque combaten con una Megapiedra.
+Uno de los fragmentos de un\nmeteorito de la Cueva Granito.\nEstá ligeramente caliente al tacto.
+Flauta que sirve para invocar a\nLatios o Latias estés donde\nestés.

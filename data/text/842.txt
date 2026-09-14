@@ -1,285 +1,285 @@
-This is a crystallized form of Z-Power.\nIt upgrades Normal-type moves to\nZ-Moves.
-This is a crystallized form of Z-Power.\nIt upgrades Fire-type moves to\nZ-Moves.
-This is a crystallized form of Z-Power.\nIt upgrades Water-type moves to\nZ-Moves.
-This is a crystallized form of Z-Power.\nIt upgrades Electric-type moves to\nZ-Moves.
-This is a crystallized form of Z-Power.\nIt upgrades Grass-type moves to\nZ-Moves.
-This is a crystallized form of Z-Power.\nIt upgrades Ice-type moves to\nZ-Moves.
-This is a crystallized form of Z-Power.\nIt upgrades Fighting-type moves to\nZ-Moves.
-This is a crystallized form of Z-Power.\nIt upgrades Poison-type moves to\nZ-Moves.
-This is a crystallized form of Z-Power.\nIt upgrades Ground-type moves to\nZ-Moves.
-This is a crystallized form of Z-Power.\nIt upgrades Flying-type moves to\nZ-Moves.
-This is a crystallized form of Z-Power.\nIt upgrades Psychic-type moves to\nZ-Moves.
-This is a crystallized form of Z-Power.\nIt upgrades Bug-type moves to\nZ-Moves.
-This is a crystallized form of Z-Power.\nIt upgrades Rock-type moves to\nZ-Moves.
-This is a crystallized form of Z-Power.\nIt upgrades Ghost-type moves to\nZ-Moves.
-This is a crystallized form of Z-Power.\nIt upgrades Dragon-type moves to\nZ-Moves.
-This is a crystallized form of Z-Power.\nIt upgrades Dark-type moves to\nZ-Moves.
-This is a crystallized form of Z-Power.\nIt upgrades Steel-type moves to\nZ-Moves.
-This is a crystallized form of Z-Power.\nIt upgrades Fairy-type moves to\nZ-Moves.
-This is a crystallized form of Z-Power.\nIt upgrades Pikachu’s Volt Tackle\nto a Z-Move.
-A lovely silver bottle cap.\nCertain people are delighted\nto be given one of these.
-A lovely gold bottle cap.\nCertain people are delighted\nto be given one of these.
-A ring that lets Pokémon use Z-Power.\nIt requires both the willpower and\nphysical power of the Trainer wearing it.
-This is a crystallized form of Z-Power.\nIt upgrades Decidueye’s Spirit Shackle\nto a Z-Move.
-This is a crystallized form of Z-Power.\nIt upgrades Incineroar’s Darkest Lariat\nto a Z-Move.
-This is a crystallized form of Z-Power.\nIt upgrades Primarina’s Sparkling Aria\nto a Z-Move.
-This is a crystallized form of Z-Power.\nIt upgrades the tapu’s Nature’s Madness\nto a Z-Move.
-This is a crystallized form of Z-Power.\nIt upgrades Marshadow’s Spectral Thief\nto a Z-Move.
-This is a crystallized form of Z-Power.\nIt upgrades Alolan Raichu’s Thunderbolt\nto a Z-Move.
-This is a crystallized form of Z-Power.\nIt upgrades Snorlax’s Giga Impact\nto a Z-Move.
-This is a crystallized form of Z-Power.\nIt upgrades Eevee’s Last Resort\nto a Z-Move.
-This is a crystallized form of Z-Power.\nIt upgrades Mew’s Psychic\nto a Z-Move.
-It converts Z-Power into crystals\nthat upgrade Normal-type moves\nto Normal-type Z-Moves.
-It converts Z-Power into crystals\nthat upgrade Fire-type moves\nto Fire-type Z-Moves.
-It converts Z-Power into crystals\nthat upgrade Water-type moves\nto Water-type Z-Moves.
-It converts Z-Power into crystals\nthat upgrade Electric-type moves\nto Electric-type Z-Moves.
-It converts Z-Power into crystals\nthat upgrade Grass-type moves\nto Grass-type Z-Moves.
-It converts Z-Power into crystals\nthat upgrade Ice-type moves\nto Ice-type Z-Moves.
-It converts Z-Power into crystals\nthat upgrade Fighting-type moves\nto Fighting-type Z-Moves.
-It converts Z-Power into crystals\nthat upgrade Poison-type moves\nto Poison-type Z-Moves.
-It converts Z-Power into crystals\nthat upgrade Ground-type moves\nto Ground-type Z-Moves.
-It converts Z-Power into crystals\nthat upgrade Flying-type moves\nto Flying-type Z-Moves.
-It converts Z-Power into crystals\nthat upgrade Psychic-type moves\nto Psychic-type Z-Moves.
-It converts Z-Power into crystals\nthat upgrade Bug-type moves\nto Bug-type Z-Moves.
-It converts Z-Power into crystals\nthat upgrade Rock-type moves\nto Rock-type Z-Moves.
-It converts Z-Power into crystals\nthat upgrade Ghost-type moves\nto Ghost-type Z-Moves.
-It converts Z-Power into crystals\nthat upgrade Dragon-type moves\nto Dragon-type Z-Moves.
-It converts Z-Power into crystals\nthat upgrade Dark-type moves\nto Dark-type Z-Moves.
-It converts Z-Power into crystals\nthat upgrade Steel-type moves\nto Steel-type Z-Moves.
-It converts Z-Power into crystals\nthat upgrade Fairy-type moves\nto Fairy-type Z-Moves.
-It converts Z-Power into crystals\nthat upgrade Pikachu’s Volt Tackle\nto a Z-Move.
-It converts Z-Power into crystals that\nupgrade Decidueye’s Spirit Shackle\nto a Z-Move.
-It converts Z-Power into crystals that\nupgrade Incineroar’s Darkest Lariat\nto a Z-Move.
-It converts Z-Power into crystals that\nupgrade Primarina’s Sparkling Aria\nto a Z-Move.
-IIt converts Z-Power into crystals that\nupgrade the tapu’s Nature’s Madness\nto a Z-Move.
-It converts Z-Power into crystals that\nupgrade Marshadow’s Spectral Thief\nto a Z-Move.
-It converts Z-Power into crystals that\nupgrade Alolan Raichu’s Thunderbolt\nto a Z-Move.
-It converts Z-Power into crystals\nthat upgrade Snorlax’s Giga Impact\nto a Z-Move.
-It converts Z-Power into crystals\nthat upgrade Eevee’s Last Resort\nto a Z-Move.
-It converts Z-Power into crystals\nthat upgrade Mew’s Psychic\nto a Z-Move.
-It converts Z-Power into crystals that\nupgrade Thunderbolt to a Z-Move when\nused by a Pikachu wearing a cap.
-This is a crystallized form of Z-Power.\nIt upgrades Thunderbolt to a Z-Move\nwhen used by a Pikachu wearing a cap.
+Forma cristalizada del Poder Z.\nMejora los movimientos de tipo Normal\ny los convierte en Movimientos Z.
+Forma cristalizada del Poder Z.\nMejora los movimientos de tipo Fuego\ny los convierte en Movimientos Z.
+Forma cristalizada del Poder Z.\nMejora los movimientos de tipo Agua\ny los convierte en Movimientos Z.
+Forma cristalizada del Poder Z.\nMejora los movimientos de tipo Eléctrico\ny los convierte en Movimientos Z.
+Forma cristalizada del Poder Z.\nMejora los movimientos de tipo Planta\ny los convierte en Movimientos Z.
+Forma cristalizada del Poder Z.\nMejora los movimientos de tipo Hielo\ny los convierte en Movimientos Z.
+Forma cristalizada del Poder Z.\nMejora los movimientos de tipo Lucha\ny los convierte en Movimientos Z.
+Forma cristalizada del Poder Z.\nMejora los movimientos de tipo Veneno\ny los convierte en Movimientos Z.
+Forma cristalizada del Poder Z.\nMejora los movimientos de tipo Tierra\ny los convierte en Movimientos Z.
+Forma cristalizada del Poder Z.\nMejora los movimientos de tipo Volador\ny los convierte en Movimientos Z.
+Forma cristalizada del Poder Z.\nMejora los movimientos de tipo Psíquico\ny los convierte en Movimientos Z.
+Forma cristalizada del Poder Z.\nMejora los movimientos de tipo Bicho\ny los convierte en Movimientos Z.
+Forma cristalizada del Poder Z.\nMejora los movimientos de tipo Roca\ny los convierte en Movimientos Z.
+Forma cristalizada del Poder Z.\nMejora los movimientos de tipo Fantasma\ny los convierte en Movimientos Z.
+Forma cristalizada del Poder Z.\nMejora los movimientos de tipo Dragón\ny los convierte en Movimientos Z.
+Forma cristalizada del Poder Z.\nMejora los movimientos de tipo Siniestro\ny los convierte en Movimientos Z.
+Forma cristalizada del Poder Z.\nMejora los movimientos de tipo Acero\ny los convierte en Movimientos Z.
+Forma cristalizada del Poder Z.\nMejora los movimientos de tipo Hada\ny los convierte en Movimientos Z.
+Forma cristalizada del Poder Z.\nMejora Placaje Eléctrico de Pikachu\ny lo convierte en un Movimiento Z.
+Un bello tapón de botella de plata.\nHay gente encantada de que\nse lo den.
+Un bello tapón de botella de oro.\nHay gente encantada de que\nse lo den.
+Anillo que permite a los Pokémon\nusar el Poder Z. Requiere la voluntad\ny la fuerza de quien lo lleve.
+Forma cristalizada del Poder Z.\nMejora Puntada Sombría de Decidueye\ny lo convierte en un Movimiento Z.
+Forma cristalizada del Poder Z.\nMejora Lariat Oscuro de Incineroar\ny lo convierte en un Movimiento Z.
+Forma cristalizada del Poder Z.\nMejora Aria Burbuja de Primarina\ny lo convierte en un Movimiento Z.
+Forma cristalizada del Poder Z.\nMejora Furia Natural de los Tapu\ny lo convierte en un Movimiento Z.
+Forma cristalizada del Poder Z.\nMejora Robasombra de Marshadow\ny lo convierte en un Movimiento Z.
+Forma cristalizada del Poder Z.\nMejora Rayo de Raichu de Alola\ny lo convierte en un Movimiento Z.
+Forma cristalizada del Poder Z.\nMejora Giga Impacto de Snorlax\ny lo convierte en un Movimiento Z.
+Forma cristalizada del Poder Z.\nMejora Última Baza de Eevee\ny lo convierte en un Movimiento Z.
+Forma cristalizada del Poder Z.\nMejora Psíquico de Mew\ny lo convierte en un Movimiento Z.
+Convierte el Poder Z en cristales\nque mejoran los movimientos de tipo Normal\ny los transforman en Movimientos Z.
+Convierte el Poder Z en cristales\nque mejoran los movimientos de tipo Fuego\ny los transforman en Movimientos Z.
+Convierte el Poder Z en cristales\nque mejoran los movimientos de tipo Agua\ny los transforman en Movimientos Z.
+Convierte el Poder Z en cristales\nque mejoran los movimientos de tipo Eléctrico\ny los transforman en Movimientos Z.
+Convierte el Poder Z en cristales\nque mejoran los movimientos de tipo Planta\ny los transforman en Movimientos Z.
+Convierte el Poder Z en cristales\nque mejoran los movimientos de tipo Hielo\ny los transforman en Movimientos Z.
+Convierte el Poder Z en cristales\nque mejoran los movimientos de tipo Lucha\ny los transforman en Movimientos Z.
+Convierte el Poder Z en cristales\nque mejoran los movimientos de tipo Veneno\ny los transforman en Movimientos Z.
+Convierte el Poder Z en cristales\nque mejoran los movimientos de tipo Tierra\ny los transforman en Movimientos Z.
+Convierte el Poder Z en cristales\nque mejoran los movimientos de tipo Volador\ny los transforman en Movimientos Z.
+Convierte el Poder Z en cristales\nque mejoran los movimientos de tipo Psíquico\ny los transforman en Movimientos Z.
+Convierte el Poder Z en cristales\nque mejoran los movimientos de tipo Bicho\ny los transforman en Movimientos Z.
+Convierte el Poder Z en cristales\nque mejoran los movimientos de tipo Roca\ny los transforman en Movimientos Z.
+Convierte el Poder Z en cristales\nque mejoran los movimientos de tipo Fantasma\ny los transforman en Movimientos Z.
+Convierte el Poder Z en cristales\nque mejoran los movimientos de tipo Dragón\ny los transforman en Movimientos Z.
+Convierte el Poder Z en cristales\nque mejoran los movimientos de tipo Siniestro\ny los transforman en Movimientos Z.
+Convierte el Poder Z en cristales\nque mejoran los movimientos de tipo Acero\ny los transforman en Movimientos Z.
+Convierte el Poder Z en cristales\nque mejoran los movimientos de tipo Hada\ny los transforman en Movimientos Z.
+Convierte el Poder Z en cristales\nque mejoran Placaje Eléctrico de Pikachu\ny lo transforman en un Movimiento Z.
+Convierte el Poder Z en cristales que\nmejoran Puntada Sombría de Decidueye\ny lo transforman en un Movimiento Z.
+Convierte el Poder Z en cristales que\nmejoran Lariat Oscuro de Incineroar\ny lo transforman en un Movimiento Z.
+Convierte el Poder Z en cristales que\nmejoran Aria Burbuja de Primarina\ny lo transforman en un Movimiento Z.
+Convierte el Poder Z en cristales que\nmejoran Furia Natural de los Tapu\ny lo transforman en un Movimiento Z.
+Convierte el Poder Z en cristales que\nmejoran Robasombra de Marshadow\ny lo transforman en un Movimiento Z.
+Convierte el Poder Z en cristales que\nmejoran Rayo de Raichu de Alola\ny lo transforman en un Movimiento Z.
+Convierte el Poder Z en cristales\nque mejoran Giga Impacto de Snorlax\ny lo transforman en un Movimiento Z.
+Convierte el Poder Z en cristales\nque mejoran Última Baza de Eevee\ny lo transforman en un Movimiento Z.
+Convierte el Poder Z en cristales\nque mejoran Psíquico de Mew\ny lo transforman en un Movimiento Z.
+Convierte el Poder Z en cristales que\nmejoran Rayo cuando lo usa un\nPikachu con gorra.
+Forma cristalizada del Poder Z.\nMejora Rayo cuando lo usa un\nPikachu con gorra.
 - - -
 - - -
 - - -
 - - -
-A bag to carry ingredients gathered\nduring Mallow’s trial in the jungle.
-A fishing rod made by Captain Lana.\nCast a line over piles of underwater\nrocks to fish for wild aquatic Pokémon.
-The mask that belongs to The Masked Royal.\nThis pro wrestler apparently sews his mask\non a machine himself.
-A ticket that allows you to host a\nmission in Festival Plaza.
-A stone entrusted to you by a\nPokémon that has been venerated as a\nguardian deity in the Alola region.\rThere is said to be some secret in\nhow it sparkles.
-An item to be held by a Pokémon.\nThis orb boosts the Speed stat\nif the holder is intimidated.
-An item in which Zygarde Cores and Cells\nare gathered. You can also use it to\nchange Zygarde’s forms.
+Bolsa para llevar los ingredientes\nde la prueba de Lylia en la jungla.
+Caña de pescar hecha por la\nCapitana Nereida. Pesca Pokémon\nacuáticos lanzando entre las rocas.
+La máscara del Rey Enmascarado.\nAl parecer, este luchador cose su\nmáscara él mismo a máquina.
+Ticket que permite celebrar una\nmisión en la Plaza Festival.
+Piedra que te confió un Pokémon\nvenerado como deidad protectora en\nla región de Alola.\rSe dice que su forma de\nbrillar esconde algún secreto.
+Objeto que debe llevar un Pokémon.\nOrbe que sube la Velocidad si el\nportador es intimidado.
+Cubo donde se reúnen las Células y\nNúcleos de Zygarde. También sirve\npara cambiar sus formas.
 - - -
-A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt has a snowflake pattern in it.
-By entering certain numbers on this\npager, you can summon Ride Pokémon\nin an instant.
-A somewhat different Poké Ball that\nis not very effective when catching\nPokémon.
-The Alola region’s famous fried confection.\nIt can be used to cure any status condition\na Pokémon may have.
-Flower nectar obtained from a red flower.\nIt changes the form of a certain species\nof Pokémon.
-Flower nectar obtained from a yellow flower.\nIt changes the form of a certain species\nof Pokémon.
-Flower nectar obtained from a pink flower.\nIt changes the form of a certain species\nof Pokémon.
-Flower nectar obtained from a purple flower.\nIt changes the form of a certain species\nof Pokémon.
-It is said that the tones it produces were\noffered up as an expression of gratitude\nto the Legendary Pokémon of the sun.
-It is said that the tones it produces were\noffered up as an expression of gratitude\nto the Legendary Pokémon of the moon.
+Piedra peculiar que hace\nevolucionar a ciertas especies de\nPokémon. Tiene un copo de nieve.
+Introduciendo ciertos números en\neste buscapersonas, invocas al\nPokémon Correpasillos al instante.
+Poké Ball algo peculiar que no es\nmuy eficaz a la hora de\natrapar Pokémon.
+Famoso dulce frito de la región de\nAlola. Cura cualquier problema de\nestado de un Pokémon.
+Néctar obtenido de una flor roja.\nCambia la forma de cierta especie\nde Pokémon.
+Néctar obtenido de una flor amarilla.\nCambia la forma de cierta especie\nde Pokémon.
+Néctar obtenido de una flor rosa.\nCambia la forma de cierta especie\nde Pokémon.
+Néctar obtenido de una flor morada.\nCambia la forma de cierta especie\nde Pokémon.
+Se dice que sus tonos se ofrecían\ncomo muestra de gratitud al\nPokémon legendario del sol.
+Se dice que sus tonos se ofrecían\ncomo muestra de gratitud al\nPokémon legendario de la luna.
 - - -
-A mysterious card. Written on it is\na request that you go to a guest room\nin the motel on Akala Island’s Route 8.
-A Berry that makes it easier to\ncatch Pokémon when given to them.
-A Berry that makes it drastically\neasier to catch Pokémon when given\nto them.
-A Berry that calms Pokémon you’re\ntrying to catch when given to them.
-A Berry that drastically calms\nPokémon you’re trying to catch when\ngiven to them.
-A Berry that makes you more likely\nto get an item when given to Pokémon\nyou’re trying to catch.
-A Berry that makes you drastically\nmore likely to get an item when given\nto Pokémon you’re trying to catch.
-- - -
-- - -
+Misteriosa tarjeta. En ella se te pide\nque vayas a una habitación del motel\nde la Ruta 8 de la isla de Akala.
+Baya que facilita la captura de\nPokémon si se les da.
+Baya que facilita mucho más la\ncaptura de Pokémon\nsi se les da.
+Baya que calma a los Pokémon que\nintentas capturar si se les da.
+Baya que calma mucho a los\nPokémon que intentas capturar\nsi se les da.
+Baya que aumenta la probabilidad de\nobtener un objeto de los Pokémon que\nintentas capturar si se les da.
+Baya que aumenta mucho la\nprobabilidad de obtener un objeto de\nlos Pokémon que intentas capturar.
 - - -
 - - -
 - - -
-The key that unlocks the front door\nof the Pokémon Gym on Cinnabar\nIsland. It has a red decoration.
-The ticket required to board the\nS.S. Anne. It has a drawing of a\nship on it.
-A scope that lets you see what\ncannot usually be seen. It is made\nby Silph Co.
-A parcel you were asked to deliver\nto Professor Oak from Viridian\nCity’s Poké Mart.
-A card key that unlocks doors in\nSilph Co.’s head office in Saffron\nCity.
-A set of golden false teeth lost by\nthe Safari Zone’s warden. They make\nhis smile sparkle.
-A key that operates the elevator in\nthe Team Rocket Hideout. It bears\nthe Team Rocket logo.
-An item to be held by a Pokémon.\nIt extends the duration of terrain\ncaused by the holder’s move or Ability.
-An item to be held by a Pokémon.\nThese pads protect from effects caused\nby making direct contact with the target.
-An item to be held by a Pokémon.\nIt boosts Defense on Electric Terrain.\nIt can only be used once.
-An item to be held by a Pokémon.\nIt boosts Sp. Def on Psychic Terrain.\nIt can only be used once.
-An item to be held by a Pokémon.\nIt boosts Sp. Def on Misty Terrain.\nIt can only be used once.
-An item to be held by a Pokémon.\nIt boosts Defense on Grassy Terrain.\nIt can only be used once.
-A thin small spring.\nIt’s totally stretched out, and what\nit’s used for is unknown.
-A small whitish stone picked up at\nthe edge of the road.
-A round glass marble.\nYou can see colored glass\ninside the transparent marble.
-A single earring that somebody\ndropped.
-A piece of colored glass.\nWaves have rounded its edges.\nIt’s slightly rough to the touch.
-A mysterious gold leaf.\nNo trees with this leaf\nhave been found yet.
-A mysterious silver leaf.\nNo trees with this leaf\nhave been found yet.
-A ball made of mud.\nIt had been polished for such a long time\nthat the surface is very shiny.
-A beautiful white shell that may\nhave drifted from a sea in a warm\nregion.
-A letter written on a leaf.\nSomething is written using Pikachu’s\nfootprints.
-A letter written on a leaf.\nSomething is written using Eevee’s\nfootprints.
-A small bouquet that was made with\nheart and soul for a single Trainer.
+- - -
+- - -
+Llave que abre la puerta del\nGimnasio Pokémon de Isla Canela.\nTiene una decoración roja.
+Billete necesario para subir al\nS.S. Anne. Lleva dibujado un\nbarco.
+Visor que permite ver lo que\nnormalmente no se ve. Lo fabrica\nSilph S.A.
+Paquete que debes entregar al\nprofesor Oak de parte de la Tienda\nPokémon de Ciudad Verde.
+Tarjeta-llave que abre puertas de\nla sede de Silph S.A. en Ciudad\nAzulona.
+Dentadura postiza de oro que perdió\nel guarda de la Zona Safari.\nHace que su sonrisa brille.
+Llave que acciona el ascensor del\nEscondite del Team Rocket. Lleva\nsu logotipo.
+Objeto que debe llevar un Pokémon.\nAlarga la duración del campo creado\npor su movimiento o habilidad.
+Objeto que debe llevar un Pokémon.\nEstas almohadillas protegen de los\nefectos del contacto directo.
+Objeto que debe llevar un Pokémon.\nSube la Defensa en el Campo\nEléctrico. Solo puede usarse una vez.
+Objeto que debe llevar un Pokémon.\nSube la Def. Especial en el Campo\nPsíquico. Solo puede usarse una vez.
+Objeto que debe llevar un Pokémon.\nSube la Def. Especial en la Niebla\nMística. Solo puede usarse una vez.
+Objeto que debe llevar un Pokémon.\nSube la Defensa en el Campo de\nHierba. Solo puede usarse una vez.
+Un muelle fino y pequeño.\nEstá totalmente estirado y se\ndesconoce para qué sirve.
+Piedrecita blanquecina recogida\nal borde del camino.
+Canica redonda de cristal.\nSe ve cristal de color en su\ninterior transparente.
+Un pendiente que alguien\nperdió.
+Trozo de cristal de color.\nLas olas han redondeado sus bordes,\nque raspan un poco al tacto.
+Misteriosa hoja de oro.\nTodavía no se ha encontrado\nningún árbol con estas hojas.
+Misteriosa hoja de plata.\nTodavía no se ha encontrado\nningún árbol con estas hojas.
+Bola hecha de barro.\nEstuvo puliéndose tanto tiempo que\nsu superficie es muy brillante.
+Bonita concha blanca que quizá\nllegó flotando desde un mar de\nuna región cálida.
+Carta escrita en una hoja.\nHay algo escrito con las huellas\nde Pikachu.
+Carta escrita en una hoja.\nHay algo escrito con las huellas\nde Eevee.
+Pequeño ramo hecho con todo el\ncariño para un solo Entrenador.
 - - -
 - - -
 - - -
-A glass bottle of perfume that makes\nrare Pokémon more likely to appear.
-A glass bottle of perfume that makes\nrare Pokémon more likely to appear.\nIt lasts longer than a Lure.
-A glass bottle of perfume that makes\nrare Pokémon more likely to appear.\nIt lasts longer than a Super Lure.
-Pewter City’s famous crunchy snack.\nThey can be used to cure any status\ncondition a Pokémon may have.
-A memory disc that contains Fighting-type\ndata. It changes the type of the holder\nif held by a certain species of Pokémon.
-A memory disc that contains Flying-type\ndata. It changes the type of the holder\nif held by a certain species of Pokémon.
-A memory disc that contains Poison-type\ndata. It changes the type of the holder\nif held by a certain species of Pokémon.
-A memory disc that contains Ground-type\ndata. It changes the type of the holder\nif held by a certain species of Pokémon.
-A memory disc that contains Rock-type\ndata. It changes the type of the holder\nif held by a certain species of Pokémon.
-A memory disc that contains Bug-type\ndata. It changes the type of the holder\nif held by a certain species of Pokémon.
-A memory disc that contains Ghost-type\ndata. It changes the type of the holder\nif held by a certain species of Pokémon.
-A memory disc that contains Steel-type\ndata. It changes the type of the holder\nif held by a certain species of Pokémon.
-A memory disc that contains Fire-type\ndata. It changes the type of the holder\nif held by a certain species of Pokémon.
-A memory disc that contains Water-type\ndata. It changes the type of the holder\nif held by a certain species of Pokémon.
-A memory disc that contains Grass-type\ndata. It changes the type of the holder\nif held by a certain species of Pokémon.
-A memory disc that contains Electric-type\ndata. It changes the type of the holder\nif held by a certain species of Pokémon.
-A memory disc that contains Psychic-type\ndata. It changes the type of the holder\nif held by a certain species of Pokémon.
-A memory disc that contains Ice-type\ndata. It changes the type of the holder\nif held by a certain species of Pokémon.
-A memory disc that contains Dragon-type\ndata. It changes the type of the holder\nif held by a certain species of Pokémon.
-A memory disc that contains Dark-type\ndata. It changes the type of the holder\nif held by a certain species of Pokémon.
-A memory disc that contains Fairy-type\ndata. It changes the type of the holder\nif held by a certain species of Pokémon.
-This is a crystallized form of Z-Power.\nIt upgrades Solgaleo’s Sunsteel Strike\nto a Z-Move.
-This is a crystallized form of Z-Power.\nIt upgrades Lunala’s Moongeist Beam\nto a Z-Move.
-This is a crystallized form of Z-Power.\nIt upgrades Necrozma’s Photon Geyser\nto a Z-Move.
-This is a crystallized form of Z-Power.\nIt upgrades Mimikyu’s Play Rough\nto a Z-Move.
-This is a crystallized form of Z-Power.\nIt upgrades Lycanroc’s Stone Edge\nto a Z-Move.
-This is a crystallized form of Z-Power.\nIt upgrades Kommo-o’s Clanging Scales\nto a Z-Move.
-It converts Z-Power into crystals that\nupgrade Solgaleo’s Sunsteel Strike\nto a Z-Move.
-It converts Z-Power into crystals that\nupgrade Lunala’s Moongeist Beam\nto a Z-Move.
-It’s a crystal that turns Necrozma\nfused with Solgaleo or Lunala into\na new form.
-It converts Z-Power into crystals that\nupgrade Mimikyu’s Play Rough to\na Z-Move.
-It converts Z-Power into crystals that\nupgrade Lycanroc’s Stone Edge\nto a Z-Move.
-It converts Z-Power into crystals that\nupgrade Kommo-o’s Clanging Scales\nto a Z-Move.
-A ring that lets Pokémon use Z-Power.\nIt requires both the willpower and\nphysical power of the Trainer wearing it.
-A pressed flower petal you receive from\nMina during Mina’s trial. The goal is to\ncollect seven different kinds of petals.
-A pressed flower petal you receive from\nIlima during Mina’s trial. The goal is to\ncollect seven different kinds of petals.
-A pressed flower petal you receive from\nLana during Mina’s trial. The goal is to\ncollect seven different kinds of petals.
-A pressed flower petal you receive from\nKiawe during Mina’s trial. The goal is to\ncollect seven different kinds of petals.
-A pressed flower petal you receive from\nMallow during Mina’s trial. The goal is to\ncollect seven different kinds of petals.
-A pressed flower petal you receive from\nSophocles during Mina’s trial. The goal is\nto collect seven different kinds of petals.
-A pressed flower petal you receive from\nNanu during Mina’s trial. The goal is to\ncollect seven different kinds of petals.
-A flower made of the petals you received\nfrom captains. It’s proof that your growth\nhas been recognized by them.
-A novelty badge that you can receive at\nthe Kantonian Gym. Rumor has it that it\nimitates the Badge of a Gym somewhere.
-A machine to fuse Necrozma, which\nneeds light, and Solgaleo.
-A machine to fuse Necrozma, which\nneeds light, and Lunala.
-A machine to separate Necrozma,\nwhich needed light, from Solgaleo.
-A machine to separate Necrozma,\nwhich needed light, from Lunala.
-The Normalium Z you were entrusted with\nby Ilima. You were asked to place it on the\npedestal at the back of Verdant Cavern.
-A Poké Ball containing a Pokémon\nthat lost its Trainer. It seems the\nTrainer hails from Ula’ula Island.
-One of the Rotom Powers.\nWhen used, it helps Eggs hatch faster.
-One of the Rotom Powers.\nWhen used, it reduces the prices\nof products at Poké Marts by half.
-One of the Rotom Powers.\nWhen used, it triples the prize\nmoney you receive after battle.
-One of the Rotom Powers.\nWhen used, it slightly increases the Exp.\nPoints your Pokémon receive after battle.
-One of the Rotom Powers.\nWhen used, it helps Pokémon in your\nparty grow friendly quite a lot faster.
-One of the Rotom Powers.\nWhen used, it increases the chance of\nencountering high-level wild Pokémon.
-One of the Rotom Powers.\nWhen used, it prevents you from\nencountering any wild Pokémon.
-One of the Rotom Powers.\nWhen used, it fully restores the\nmax HP of your battling Pokémon.
-One of the Rotom Powers.\nWhen used, it fully restores the\nmax PP of your battling Pokémon.
-One of the Rotom Powers.\nWhen used, it boosts all stats\nfor your battling Pokémon.
-One of the Rotom Powers.\nWhen used, it makes you far likelier to\nsucceed at catching the wild Pokémon.
-A candy that is packed with energy.\nWhen given to a Pokémon, it will increase\nthat Pokémon’s HP.
-A candy that is packed with energy.\nWhen given to a Pokémon, it will increase\nthat Pokémon’s Attack stat.
-A candy that is packed with energy.\nWhen given to a Pokémon, it will increase\nthat Pokémon’s Defense stat.
-A candy that is packed with energy.\nWhen given to a Pokémon, it will increase\nthat Pokémon’s Sp. Atk stat.
-A candy that is packed with energy.\nWhen given to a Pokémon, it will increase\nthat Pokémon’s Sp. Def stat.
-A candy that is packed with energy.\nWhen given to a Pokémon, it will increase\nthat Pokémon’s Speed stat.
-A big candy that is packed with energy.\nWhen given to a Pokémon at Lv. 30 or higher,\nit will increase that Pokémon’s HP.
-A big candy that is packed with energy.\nWhen given to a Pokémon at Lv. 30 or higher,\nit will increase that Pokémon’s Attack stat.
-A big candy that is packed with energy.\nWhen given to a Pokémon at Lv. 30 or higher,\nit will increase that Pokémon’s Defense stat.
-A big candy that is packed with energy.\nWhen given to a Pokémon at Lv. 30 or higher,\nit will increase that Pokémon’s Sp. Atk stat.
-A big candy that is packed with energy.\nWhen given to a Pokémon at Lv. 30 or higher,\nit will increase that Pokémon’s Sp. Def stat.
-A big candy that is packed with energy.\nWhen given to a Pokémon at Lv. 30 or higher,\nit will increase that Pokémon’s Speed stat.
-A huge candy that is packed with energy.\nWhen given to a Pokémon at Lv. 30 or higher,\nit will increase that Pokémon’s HP.
-A huge candy that is packed with energy.\nWhen given to a Pokémon at Lv. 30 or higher,\nit will increase that Pokémon’s Attack stat.
-A huge candy that is packed with energy.\nWhen given to a Pokémon at Lv. 30 or higher,\nit will increase that Pokémon’s Defense stat.
-A huge candy that is packed with energy.\nWhen given to a Pokémon at Lv. 30 or higher,\nit will increase that Pokémon’s Sp. Atk stat.
-A huge candy that is packed with energy.\nWhen given to a Pokémon at Lv. 30 or higher,\nit will increase that Pokémon’s Sp. Def stat.
-A huge candy that is packed with energy.\nWhen given to a Pokémon at Lv. 30 or higher,\nit will increase that Pokémon’s Speed stat.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
-A candy that is packed with energy.\nWhen given to certain Pokémon, it\nwill increase all their stats at once.
+Frasco de perfume que hace que\naparezcan más Pokémon raros.
+Frasco de perfume que hace que\naparezcan más Pokémon raros.\nDura más que la Colonia.
+Frasco de perfume que hace que\naparezcan más Pokémon raros.\nDura más que la Supercolonia.
+Famoso aperitivo crujiente de\nCiudad Plateada. Cura cualquier\nproblema de estado de un Pokémon.
+Disco de memoria que contiene datos de\ntipo Lucha. Cambia el tipo del portador\nsi lo lleva cierta especie de Pokémon.
+Disco de memoria que contiene datos de\ntipo Volador. Cambia el tipo del portador\nsi lo lleva cierta especie de Pokémon.
+Disco de memoria que contiene datos de\ntipo Veneno. Cambia el tipo del portador\nsi lo lleva cierta especie de Pokémon.
+Disco de memoria que contiene datos de\ntipo Tierra. Cambia el tipo del portador\nsi lo lleva cierta especie de Pokémon.
+Disco de memoria que contiene datos de\ntipo Roca. Cambia el tipo del portador\nsi lo lleva cierta especie de Pokémon.
+Disco de memoria que contiene datos de\ntipo Bicho. Cambia el tipo del portador\nsi lo lleva cierta especie de Pokémon.
+Disco de memoria que contiene datos de\ntipo Fantasma. Cambia el tipo del portador\nsi lo lleva cierta especie de Pokémon.
+Disco de memoria que contiene datos de\ntipo Acero. Cambia el tipo del portador\nsi lo lleva cierta especie de Pokémon.
+Disco de memoria que contiene datos de\ntipo Fuego. Cambia el tipo del portador\nsi lo lleva cierta especie de Pokémon.
+Disco de memoria que contiene datos de\ntipo Agua. Cambia el tipo del portador\nsi lo lleva cierta especie de Pokémon.
+Disco de memoria que contiene datos de\ntipo Planta. Cambia el tipo del portador\nsi lo lleva cierta especie de Pokémon.
+Disco de memoria que contiene datos de\ntipo Eléctrico. Cambia el tipo del portador\nsi lo lleva cierta especie de Pokémon.
+Disco de memoria que contiene datos de\ntipo Psíquico. Cambia el tipo del portador\nsi lo lleva cierta especie de Pokémon.
+Disco de memoria que contiene datos de\ntipo Hielo. Cambia el tipo del portador\nsi lo lleva cierta especie de Pokémon.
+Disco de memoria que contiene datos de\ntipo Dragón. Cambia el tipo del portador\nsi lo lleva cierta especie de Pokémon.
+Disco de memoria que contiene datos de\ntipo Siniestro. Cambia el tipo del portador\nsi lo lleva cierta especie de Pokémon.
+Disco de memoria que contiene datos de\ntipo Hada. Cambia el tipo del portador\nsi lo lleva cierta especie de Pokémon.
+Forma cristalizada del Poder Z.\nMejora Meteoimpacto de Solgaleo\ny lo convierte en un Movimiento Z.
+Forma cristalizada del Poder Z.\nMejora Rayo Umbrío de Lunala\ny lo convierte en un Movimiento Z.
+Forma cristalizada del Poder Z.\nMejora Géiser Fotónico de Necrozma\ny lo convierte en un Movimiento Z.
+Forma cristalizada del Poder Z.\nMejora Carantoña de Mimikyu\ny lo convierte en un Movimiento Z.
+Forma cristalizada del Poder Z.\nMejora Tumba Rocas de Lycanroc\ny lo convierte en un Movimiento Z.
+Forma cristalizada del Poder Z.\nMejora Fragor Escamas de Kommo-o\ny lo convierte en un Movimiento Z.
+Convierte el Poder Z en cristales que\nmejoran Meteoimpacto de Solgaleo\ny lo transforman en un Movimiento Z.
+Convierte el Poder Z en cristales que\nmejoran Rayo Umbrío de Lunala\ny lo transforman en un Movimiento Z.
+Cristal que transforma a Necrozma\nfusionado con Solgaleo o Lunala\nen una nueva forma.
+Convierte el Poder Z en cristales que\nmejoran Carantoña de Mimikyu\ny lo transforman en un Movimiento Z.
+Convierte el Poder Z en cristales que\nmejoran Tumba Rocas de Lycanroc\ny lo transforman en un Movimiento Z.
+Convierte el Poder Z en cristales que\nmejoran Fragor Escamas de Kommo-o\ny lo transforman en un Movimiento Z.
+Anillo que permite a los Pokémon\nusar el Poder Z. Requiere la voluntad\ny la fuerza de quien lo lleve.
+Pétalo de flor prensado que te da\nMina en su prueba. El objetivo es\nreunir siete tipos distintos de pétalos.
+Pétalo de flor prensado que te da\nIlima en su prueba. El objetivo es\nreunir siete tipos distintos de pétalos.
+Pétalo de flor prensado que te da\nNereida en su prueba. El objetivo es\nreunir siete tipos distintos de pétalos.
+Pétalo de flor prensado que te da\nKiawe en su prueba. El objetivo es\nreunir siete tipos distintos de pétalos.
+Pétalo de flor prensado que te da\nLylia en su prueba. El objetivo es\nreunir siete tipos distintos de pétalos.
+Pétalo de flor prensado que te da\nSófocles en su prueba. El objetivo es\nreunir siete tipos distintos de pétalos.
+Pétalo de flor prensado que te da\nNanu en su prueba. El objetivo es\nreunir siete tipos distintos de pétalos.
+Flor hecha con los pétalos que te\ndieron los capitanes. Prueba de que han\nreconocido tu crecimiento.
+Insignia de recuerdo que se recibe en\nel Gimnasio Kanto. Se rumorea que\nimita la medalla de algún Gimnasio.
+Máquina para fusionar a Necrozma,\nque necesita luz, con Solgaleo.
+Máquina para fusionar a Necrozma,\nque necesita luz, con Lunala.
+Máquina para separar a Necrozma,\nque necesitaba luz, de Solgaleo.
+Máquina para separar a Necrozma,\nque necesitaba luz, de Lunala.
+El Normastal Z que te confió Ilima.\nTe pidió que lo colocaras en el pedestal\ndel fondo de la Cueva Verdant.
+Poké Ball que contiene a un Pokémon\nque perdió a su Entrenador. Parece que\nes de la isla de Ula-Ula.
+Uno de los Poderes Rotom.\nAl usarlo, los Huevos eclosionan antes.
+Uno de los Poderes Rotom.\nAl usarlo, reduce a la mitad los precios\nde las Tiendas Pokémon.
+Uno de los Poderes Rotom.\nAl usarlo, triplica el dinero que\nrecibes tras un combate.
+Uno de los Poderes Rotom.\nAl usarlo, aumenta un poco los puntos de\nEXP que reciben tus Pokémon al combatir.
+Uno de los Poderes Rotom.\nAl usarlo, ayuda a que los Pokémon de tu\nequipo se encariñen mucho más rápido.
+Uno de los Poderes Rotom.\nAl usarlo, aumenta la probabilidad de\nencontrar Pokémon salvajes de nivel alto.
+Uno de los Poderes Rotom.\nAl usarlo, evita que te encuentres\ncon Pokémon salvajes.
+Uno de los Poderes Rotom.\nAl usarlo, restaura todos los PS de\ntu Pokémon en combate.
+Uno de los Poderes Rotom.\nAl usarlo, restaura todos los PP de\ntu Pokémon en combate.
+Uno de los Poderes Rotom.\nAl usarlo, sube todas las estadísticas\nde tu Pokémon en combate.
+Uno de los Poderes Rotom.\nAl usarlo, aumenta mucho la probabilidad\nde capturar al Pokémon salvaje.
+Caramelo cargado de energía.\nSi se le da a un Pokémon, aumenta\nsus PS.
+Caramelo cargado de energía.\nSi se le da a un Pokémon, aumenta\nsu Ataque.
+Caramelo cargado de energía.\nSi se le da a un Pokémon, aumenta\nsu Defensa.
+Caramelo cargado de energía.\nSi se le da a un Pokémon, aumenta\nsu Ata. Especial.
+Caramelo cargado de energía.\nSi se le da a un Pokémon, aumenta\nsu Def. Especial.
+Caramelo cargado de energía.\nSi se le da a un Pokémon, aumenta\nsu Velocidad.
+Caramelo grande cargado de energía.\nSi se le da a un Pokémon de nivel 30\no más, aumenta sus PS.
+Caramelo grande cargado de energía.\nSi se le da a un Pokémon de nivel 30\no más, aumenta su Ataque.
+Caramelo grande cargado de energía.\nSi se le da a un Pokémon de nivel 30\no más, aumenta su Defensa.
+Caramelo grande cargado de energía.\nSi se le da a un Pokémon de nivel 30\no más, aumenta su Ata. Especial.
+Caramelo grande cargado de energía.\nSi se le da a un Pokémon de nivel 30\no más, aumenta su Def. Especial.
+Caramelo grande cargado de energía.\nSi se le da a un Pokémon de nivel 30\no más, aumenta su Velocidad.
+Caramelo enorme cargado de energía.\nSi se le da a un Pokémon de nivel 30\no más, aumenta sus PS.
+Caramelo enorme cargado de energía.\nSi se le da a un Pokémon de nivel 30\no más, aumenta su Ataque.
+Caramelo enorme cargado de energía.\nSi se le da a un Pokémon de nivel 30\no más, aumenta su Defensa.
+Caramelo enorme cargado de energía.\nSi se le da a un Pokémon de nivel 30\no más, aumenta su Ata. Especial.
+Caramelo enorme cargado de energía.\nSi se le da a un Pokémon de nivel 30\no más, aumenta su Def. Especial.
+Caramelo enorme cargado de energía.\nSi se le da a un Pokémon de nivel 30\no más, aumenta su Velocidad.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
+Caramelo cargado de energía.\nSi se le da a ciertos Pokémon, sube\ntodas sus estadísticas de golpe.
 - - -
 - - -
 - - -

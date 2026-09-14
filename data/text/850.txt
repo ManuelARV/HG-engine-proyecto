@@ -1,121 +1,18 @@
-The latest model of smartphone.\nA Pokémon called Rotom lives within it, and\nit can be used to run all sorts of handy apps.
-A dish made by sandwiching vegetables,\nmeat, or other ingredients between\ntwo pieces of bread.\rIt makes a fantastic meal when out on a\npicnic.
-A Poké Ball that can hold the mysterious\nPokémon known as Koraidon.\nA boy named Arven gave it to you.
-A Poké Ball that can hold the mysterious\nPokémon known as Miraidon.\nA boy named Arven gave it to you.
-An orb that holds within it the power\nto crystallize. When it is charged with\nenergy, it can be used to Terastallize.
-A record of the expedition that the author,\nHeath, went on within the Great Crater\nof Paldea.\rThe book has the name “Sada” written on it\nin clumsy handwriting.
-A record of the expedition that the author,\nHeath, went on within the Great Crater\nof Paldea.\rThe book has the name “Turo” written on it\nin clumsy handwriting.
-A wallet that was left behind\nby Kofu, the Gym Leader at\nthe Cascarrafa Gym.\rYou’re to deliver it to him\nat the market in Porto Marinada.
+El modelo más reciente de teléfono\ninteligente. Dentro vive un Pokémon\nllamado Rotom, que permite usar apps.
+Plato hecho poniendo verduras, carne\nu otros ingredientes entre dos\nrebanadas de pan.\rEs una comida fantástica para\nllevar de pícnic.
+Poké Ball que puede contener al\nmisterioso Pokémon conocido como Koraidon.\nTe la dio un chico llamado Arven.
+Poké Ball que puede contener al\nmisterioso Pokémon conocido como Miraidon.\nTe la dio un chico llamado Arven.
+Orbe que contiene el poder de\ncristalizar. Cuando se carga de energía,\npermite teracristalizar.
+Crónica de la expedición que el autor,\nHeath, hizo al Gran Cráter de\nPaldea.\rEl libro lleva escrito el nombre “Sada”\ncon una caligrafía torpe.
+Crónica de la expedición que el autor,\nHeath, hizo al Gran Cráter de\nPaldea.\rEl libro lleva escrito el nombre “Turo”\ncon una caligrafía torpe.
+Cartera que se dejó olvidada\nKofu, el líder del\nGimnasio de Cascarrafa.\rDebes entregársela en el\nmercado de Puerto Marinada.
 N/A
 N/A
 N/A
 N/A
 N/A
-A small and rare bamboo shoot.\nIt’s quite popular with a\ncertain class of gourmands.
-A large and rare bamboo shoot.\nIt’s extremely popular with a\ncertain class of gourmands.
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-- - -
-- - -
-- - -
-A scroll that can make a certain species\nof Pokémon evolve. Written upon it are\nthe true secrets of the path of darkness.
-A scroll that can make a certain species\nof Pokémon evolve. Written upon it are\nthe true secrets of the path of water.
-N/A
-N/A
-A peculiar set of armor that can make\na certain species of Pokémon evolve.\nMalicious will lurks within it.
-On rare occasions, these shards form\nwhen a Tera Pokémon falls in battle\nand its Tera Jewel shatters.
-On rare occasions, these shards form\nwhen a Tera Pokémon falls in battle\nand its Tera Jewel shatters.
-On rare occasions, these shards form\nwhen a Tera Pokémon falls in battle\nand its Tera Jewel shatters.
-On rare occasions, these shards form\nwhen a Tera Pokémon falls in battle\nand its Tera Jewel shatters.
-On rare occasions, these shards form\nwhen a Tera Pokémon falls in battle\nand its Tera Jewel shatters.
-On rare occasions, these shards form\nwhen a Tera Pokémon falls in battle\nand its Tera Jewel shatters.
-On rare occasions, these shards form\nwhen a Tera Pokémon falls in battle\nand its Tera Jewel shatters.
-On rare occasions, these shards form\nwhen a Tera Pokémon falls in battle\nand its Tera Jewel shatters.
-On rare occasions, these shards form\nwhen a Tera Pokémon falls in battle\nand its Tera Jewel shatters.
-On rare occasions, these shards form\nwhen a Tera Pokémon falls in battle\nand its Tera Jewel shatters.
-On rare occasions, these shards form\nwhen a Tera Pokémon falls in battle\nand its Tera Jewel shatters.
-On rare occasions, these shards form\nwhen a Tera Pokémon falls in battle\nand its Tera Jewel shatters.
-On rare occasions, these shards form\nwhen a Tera Pokémon falls in battle\nand its Tera Jewel shatters.
-On rare occasions, these shards form\nwhen a Tera Pokémon falls in battle\nand its Tera Jewel shatters.
-On rare occasions, these shards form\nwhen a Tera Pokémon falls in battle\nand its Tera Jewel shatters.
-On rare occasions, these shards form\nwhen a Tera Pokémon falls in battle\nand its Tera Jewel shatters.
-On rare occasions, these shards form\nwhen a Tera Pokémon falls in battle\nand its Tera Jewel shatters.
-On rare occasions, these shards form\nwhen a Tera Pokémon falls in battle\nand its Tera Jewel shatters.
-An item to be held by Pokémon with select\nAbilities. The energy within this capsule\nboosts the strength of the Pokémon.
-An item to be held by a Pokémon.\nThis cute shield protects the holder\nfrom having its Ability changed by others.
-An item to be held by a Pokémon.\nThis amulet protects from stat drops\nfrom opposing moves or abilities.
-An item to be held by a Pokémon.\nThis herb allows the holder to mirror an\nopponent’s stat increases--but only once.
-An item to be held by a Pokémon.\nThis glove boosts the power of punching\nmoves and prevents direct contact.
-An item to be held by a Pokémon.\nThis cloak conceals the holder, protecting\nit from the additional effects of moves.
-An item to be held by a Pokémon.\nThis dice always rolls a good number,\nensuring multistrike moves hit more times.
-N/A
-A long loaf sliced\ninto top and bottom\nhalves.\rIts aroma of wheat and its straightforward,\nsalty flavor make it pair well with all\nkinds of sandwich ingredients.
-A condiment that packs a very tart\npunch yet pairs well with various\ningredients.
-A condiment with\nvery salty and\ntart flavor.\rWhile a number of other ingredients\ngo into its signature flavor, the\nnoble tomato is its heart and soul.
-A very spicy condiment that’s indispensable\nwhen bread is on the table.\nIt pairs tremendously with ketchup.
-A condiment that unites salty and\nsweet and also packs a richness\nthat makes bread a delight to eat.\rThe finest butter products are\nmade of 100 percent Moomoo Milk.
-A very sweet condiment.\nPeople in Paldea seem to favor the\nsweet varieties over the unsweetened.
-A condiment with a very spicy kick.\nIt’s thanks to Scovillain that this sauce\ngets its signature mouth-tingling burn.
-A very salty\nseasoning,\nunsurprisingly.\rPeople quite like the grains of salt that\ncan be gathered from the footprints of\nparticularly jagged Naclstack.
-A seasoning\npacking very\nspicy flavor.\rIt goes nicely with oilier foods and works\nespecially well when you add just a pinch\nfor a hint of flavor.
-A condiment that’s very sweet and very sour.\nIt goes especially well with fruit and\nis easy to incorporate into a sandwich.
-A very sweet condiment.\nFolks in Paldea seem to love the varieties\nthat really let the sweetness sing.
-A condiment offering\nvery sweet and very\ntart flavor.\rIt goes well with more ingredients\nthan you’d expect, making it a\nconvenient go-to.
-A condiment that’s very\nsweet and likewise very\nsour.\rTake care when adding it to sandwiches,\nas the sweet side can overwhelm.
-A condiment with sour and bitter notes.\nIt’s surprisingly useful, as it makes\na nice counterpoint to oilier foods.
-A condiment offering\nfaint notes of sour\nand bitter flavors.\rThe most prized varieties are the ones\nSmoliv love the smell of--such oils’\nquality is assured.
-A very sour condiment.\nVinegars derived from grapes\nare popular in Paldea.\rHighly effective when used to\nadd just a light note of flavor.
-A legendary condiment\ntold of only in\nbooks.\rWord has it that one taste of its sweet\nflavor stimulates the digestive system and\ncures a lack of appetite.
-One of the condiments\nspoken of as\nlegends.\rIts mellow saltiness is said to be\ntremendously effective when it comes to\npromoting health.
-This surpassingly sour condiment is\nsaid to be super effective in helping\nthe eater recover from exhaustion.\rOnly a scant few people know it exists.
-A legendary condiment\nwith a deeply bitter\ntaste.\rIt’s said to dramatically bolster a body’s\nimmune defenses, though that hasn’t\nbeen proven.
-The legendary condiment\nsaid to have the mightiest\nof all spicy flavors.\rIt’s said that a single bite\nwill kick the metabolism\ninto high gear immediately.
-This bitter-tasting ingredient is simple\nand straightforward--just add it to all\nkinds of other ingredients for a\rdelightfully crunchy time.
-This very tart ingredient has a lot\nof savory elements to it, making it\npopular with many Pokémon.
-A very tart ingredient. Some varieties\nare also very sweet, and these are prized\nabove all others by the people of Paldea.
-A tart and bitter ingredient.\nUsing it together with rich-tasting\ningredients in a sandwich will really\rmake the most of a cucumber’s fresh-veggie\naroma.
-This very sour ingredient is made by\npickling veggies in a flavorful\nbrine made from spices and vinegar.
-This spicy veggie is indispensable\nto many sandwiches. It goes well\nwith rich ingredients.
-An ingredient with\nsome sweetness to\nit.\rIts spiciness and fragrance are milder\nthan those of other onions, making it\na pleasant bite.
-An ingredient with some bitterness.\nWhen sliced, it adds a nice accent\nto a sandwich.
-An ingredient with some bitterness--but\nits bitter notes and overall flavor are\npleasantly mild compared to its green\rcousin.
-An ingredient with some bitterness.\nIt’s not much different from its red\ncounterpart in flavor, but mixing\rthe colors makes a feast for the\neyes.
-An ingredient with sweet notes--though its\nflavor is very mild. The avocado’s richness,\nhowever, makes it satisfying to eat.
-This very salty ingredient has been\ncooked just shy of charred, making it\nburst with fragrance and tasty flavor.
-A very salty ingredient-and that\nvery saltiness is what makes it such\na nice companion to veggies.
-This ingredient is very salty like regular\nham, but the difference is prosciutto is\nnot cooked after it is cured, giving it a\rfun freshness.
-A very salty and spicy ingredient.\nThis type of sausage has\nparticularly robust salty flavor,\rand the spicier varieties are extra\npopular.
-A very salty and bitter ingredient.\nThe balance between the potent\nsaltiness and the herbs’ bitterness\rmake this sausage a pleasure.
-This very salty ingredient is the\nthing to add if you want to make\nyour sandwich truly filling.
-A very sweet and salty ingredient.\nIt’s a nutritious processed food made with a\nconcentrate derived from shed Klawf shells.
-A very salty and bitter ingredient with\nthat unmistakable smoky flavor.\nIt pairs exceptionally well with veggies.
-When used in a sandwich, this very salty\nand bitter ingredient is at its best paired\nwith sour seasonings.
-An ingredient with a touch of saltiness.\nIt’s full of nutrients and can be enjoyed\nwith all sorts of seasonings.
-A very salty ingredient and\na popular dish in Paldea.\nIt’s undeniably filling.
-An ingredient with a touch of sweetness.\nIt’s unclear how well this raw block of\ntofu will serve as a sandwich filling.
-An ingredient with a touch of sweetness.\nIt’s unclear how well this cooked rice\nwill serve as a sandwich filling.
-A nice salty ingredient.\nIt’s unclear how well these boiled noodles\nwill serve as a sandwich filling.
-This very tart ingredient--a soft\nsalad that’s all about potatoes--pairs\ntremendously well with bread.
-A very salty ingredient. This thinly\nsliced cheese is perfect for adding\nto a sandwich.
-A very sweet ingredient. This go-to\nfruit is sweet and rich, and it’s\nbeloved by many Pokémon.
-A very tart and sweet ingredient,\npopular for its ability to make a\nsandwich visually striking.
-This very sweet ingredient is sliced\nthin to make it easy to add into a\nsandwich.
-A very tart ingredient that has a\nlight touch of sweetness as well. It\ngoes well with rich ingredients.
-This very tart ingredient is a fruit\nof southern lands, and its color\nand texture are a thrill.\rIt’s been cut into chunks to be easily\nmanageable.
-A very spicy ingredient-so spicy as to\nleave no room for ambivalence about it.\nYou either like it or you don’t.
-A very spicy condiment.\nIts distinctive sharp sizzle in your sinuses\nmakes it a good match for rich fillings.
-A very spicy condiment. Just watch out--use\ntoo much of this potent seasoning, and it’ll\ncancel out the other flavors.
-This very spicy condiment seems close\nto horseradish at first, but you’ll find\nthat it has a superb flavor all its own.
-A very bitter ingredient that\nstands out among veggies for\nits quirky flavor.\rPeople tend to either like it or\nnot like it--they rarely sit on\nthe fence.
-A very bitter ingredient that’s quite\nversatile, as herbs go.\nIt’s fragrant and goes well with tomatoes.
+Brote de bambú pequeño y raro.\nEs bastante popular entre cierto\ntipo de gourmets.
+Brote de bambú grande y raro.\nEs extremadamente popular entre\ncierto tipo de gourmets.
 N/A
 N/A
 N/A
@@ -125,340 +22,291 @@ N/A
 N/A
 N/A
 N/A
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
+N/A
 - - -
 - - -
 - - -
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
+Pergamino que hace evolucionar a\ncierta especie de Pokémon. En él están\nlos secretos de la senda de la oscuridad.
+Pergamino que hace evolucionar a\ncierta especie de Pokémon. En él están\nlos secretos de la senda del agua.
+N/A
+N/A
+Conjunto de armadura peculiar que\nhace evolucionar a cierta especie de\nPokémon. Alberga una voluntad malvada.
+En raras ocasiones, estos fragmentos\nse forman al caer en combate un\nPokémon tera y romperse su joya tera.
+En raras ocasiones, estos fragmentos\nse forman al caer en combate un\nPokémon tera y romperse su joya tera.
+En raras ocasiones, estos fragmentos\nse forman al caer en combate un\nPokémon tera y romperse su joya tera.
+En raras ocasiones, estos fragmentos\nse forman al caer en combate un\nPokémon tera y romperse su joya tera.
+En raras ocasiones, estos fragmentos\nse forman al caer en combate un\nPokémon tera y romperse su joya tera.
+En raras ocasiones, estos fragmentos\nse forman al caer en combate un\nPokémon tera y romperse su joya tera.
+En raras ocasiones, estos fragmentos\nse forman al caer en combate un\nPokémon tera y romperse su joya tera.
+En raras ocasiones, estos fragmentos\nse forman al caer en combate un\nPokémon tera y romperse su joya tera.
+En raras ocasiones, estos fragmentos\nse forman al caer en combate un\nPokémon tera y romperse su joya tera.
+En raras ocasiones, estos fragmentos\nse forman al caer en combate un\nPokémon tera y romperse su joya tera.
+En raras ocasiones, estos fragmentos\nse forman al caer en combate un\nPokémon tera y romperse su joya tera.
+En raras ocasiones, estos fragmentos\nse forman al caer en combate un\nPokémon tera y romperse su joya tera.
+En raras ocasiones, estos fragmentos\nse forman al caer en combate un\nPokémon tera y romperse su joya tera.
+En raras ocasiones, estos fragmentos\nse forman al caer en combate un\nPokémon tera y romperse su joya tera.
+En raras ocasiones, estos fragmentos\nse forman al caer en combate un\nPokémon tera y romperse su joya tera.
+En raras ocasiones, estos fragmentos\nse forman al caer en combate un\nPokémon tera y romperse su joya tera.
+En raras ocasiones, estos fragmentos\nse forman al caer en combate un\nPokémon tera y romperse su joya tera.
+En raras ocasiones, estos fragmentos\nse forman al caer en combate un\nPokémon tera y romperse su joya tera.
+Objeto que deben llevar Pokémon con\nciertas habilidades. La energía de esta\ncápsula aumenta su fuerza.
+Objeto que debe llevar un Pokémon.\nEste bonito escudo protege al portador\nde que otros cambien su habilidad.
+Objeto que debe llevar un Pokémon.\nEste amuleto protege de las bajadas de\nestadísticas de movimientos rivales.
+Objeto que debe llevar un Pokémon.\nEsta hierba permite copiar una subida de\nestadísticas del rival, solo una vez.
+Objeto que debe llevar un Pokémon.\nEste guante aumenta la potencia de los\npuñetazos y evita el contacto directo.
+Objeto que debe llevar un Pokémon.\nEsta capa oculta al portador y lo protege\nde los efectos adicionales de movimientos.
+Objeto que debe llevar un Pokémon.\nEste dado siempre saca un buen número\ny hace que los golpes múltiples acierten más.
+N/A
+Hogaza alargada cortada\nen mitad superior e\ninferior.\rSu aroma a trigo y su sabor salado\ny sencillo combinan bien con todo\ntipo de ingredientes.
+Condimento con un toque muy ácido\nque combina bien con\nvarios ingredientes.
+Condimento de sabor\nmuy salado y\nácido.\rAunque lleva otros ingredientes,\nel noble tomate es su\nalma y corazón.
+Condimento muy picante e indispensable\ncuando hay pan en la mesa.\nCombina de maravilla con el kétchup.
+Condimento que une lo salado y lo\ndulce y aporta una cremosidad que\nhace del pan un placer.\rLas mejores mantequillas se hacen\ncon leche Mu-mu al cien por cien.
+Condimento muy dulce.\nEn Paldea parece que prefieren las\nvariedades dulces a las sin azúcar.
+Condimento con un toque muy picante.\nGracias a Scovillain, esta salsa tiene\nesa sensación tan característica.
+Un condimento\nmuy salado,\ncomo era de esperar.\rA la gente le gustan los granos de sal\nque se recogen de las huellas de los\nNaclstack más angulosos.
+Condimento con un\nsabor muy\npicante.\rCombina bien con comidas grasas y\nfunciona de maravilla con solo una\npizca para dar sabor.
+Condimento muy dulce y muy ácido.\nCombina muy bien con la fruta y es\nfácil de incorporar a un bocadillo.
+Condimento muy dulce.\nEn Paldea adoran las variedades que\nhacen cantar al dulzor.
+Condimento de sabor\nmuy dulce y\nmuy ácido.\rCombina con más ingredientes de\nlos que pensarías, así que siempre\nviene bien tenerlo a mano.
+Condimento muy dulce\ny a la vez muy\nácido.\rTen cuidado al añadirlo al bocadillo,\nporque su dulzor puede imponerse.
+Condimento con notas ácidas y amargas.\nEs sorprendentemente útil: hace un buen\ncontrapunto a las comidas grasas.
+Condimento con ligeras\nnotas ácidas\ny amargas.\rLas variedades más cotizadas son las\nque huelen bien a Smoliv: su\ncalidad está garantizada.
+Condimento muy ácido.\nLos vinagres de uva son\nmuy populares en Paldea.\rMuy eficaz cuando se usa para\nañadir un ligero toque de sabor.
+Condimento legendario del\nque solo hablan los\nlibros.\rDicen que un solo sorbo de su dulzor\nestimula la digestión y cura\nla falta de apetito.
+Uno de los condimentos\nde los que se habla\ncomo leyendas.\rSe dice que su salinidad suave es\ntremendamente eficaz para\npromover la salud.
+Se dice que este condimento tan\nsumamente ácido ayuda a recuperarse\ndel agotamiento.\rMuy pocas personas saben que existe.
+Condimento legendario de\nsabor profundamente\namargo.\rSe dice que refuerza mucho las defensas\ndel organismo, aunque no está\ndemostrado.
+El condimento legendario\ncon el sabor más picante\nde todos.\rSe dice que un solo bocado\nacelera el metabolismo\nal instante.
+Este ingrediente de sabor amargo es\nsencillo y directo: añádelo a todo tipo\nde ingredientes y disfruta de un\rtoque crujiente delicioso.
+Este ingrediente tan ácido tiene\nmuchos matices sabrosos, por lo que\ngusta a muchos Pokémon.
+Ingrediente muy ácido. Algunas\nvariedades también son muy dulces, y la\ngente de Paldea las valora por encima de todo.
+Ingrediente ácido y amargo.\nUsarlo con ingredientes sabrosos\nen un bocadillo aprovecha el aroma\rfresco y vegetal del\npepino.
+Este ingrediente tan ácido se hace\nconservando verduras en una\nsalmuera con especias y vinagre.
+Esta verdura picante es indispensable\nen muchos bocadillos. Combina bien\ncon ingredientes sabrosos.
+Ingrediente con\ncierto toque\ndulce.\rSu picante y su aroma son más suaves\nque los de otras cebollas, por lo que\nresulta agradable al morder.
+Ingrediente con cierto amargor.\nCortado en rodajas, da un buen\ntoque al bocadillo.
+Ingrediente con cierto amargor, pero\nsus notas amargas y su sabor son\nsuaves comparados con los de su\rprimo verde.
+Ingrediente con cierto amargor.\nSu sabor no difiere mucho del de su\nprimo rojo, pero mezclar\rlos colores es un festín\npara la vista.
+Ingrediente con notas dulces, aunque\nsu sabor es muy suave. La cremosidad\ndel aguacate lo hace saciante.
+Este ingrediente tan salado se ha\ncocinado al borde de quemarse, lo que\nlo llena de aroma y sabor.
+Ingrediente muy salado, y esa\nsalinidad lo convierte en un gran\nacompañante de las verduras.
+Este ingrediente es muy salado como el\njamón normal, pero el prosciutto no se\ncuece tras el curado, lo que le da\run frescor divertido.
+Ingrediente muy salado y picante.\nEste tipo de salchicha tiene un sabor\nsalado muy intenso,\ry las variedades más picantes\ntriunfan.
+Ingrediente muy salado y amargo.\nEl equilibrio entre la potente salinidad\ny el amargor de las hierbas\rhace de esta salchicha un placer.
+Este ingrediente tan salado es lo\nque hay que añadir si quieres que tu\nbocadillo sea de verdad contundente.
+Ingrediente muy dulce y salado.\nEs un alimento procesado y nutritivo\nhecho con concentrado de Klawf.
+Ingrediente muy salado y amargo con\nun inconfundible sabor ahumado.\nCombina de maravilla con las verduras.
+En un bocadillo, este ingrediente tan\nsalado y amargo luce más si se combina\ncon condimentos ácidos.
+Ingrediente con un toque salado.\nEstá lleno de nutrientes y combina con\ntodo tipo de condimentos.
+Ingrediente muy salado y\nun plato popular en Paldea.\nSin duda, es contundente.
+Ingrediente con un toque dulce.\nNo está claro qué tal quedará este bloque\nde tofu crudo en un bocadillo.
+Ingrediente con un toque dulce.\nNo está claro qué tal quedará este arroz\ncocido como relleno de bocadillo.
+Un buen ingrediente salado.\nNo está claro qué tal quedarán estos\nfideos cocidos en un bocadillo.
+Este ingrediente tan ácido (una suave\nensalada de patata) combina\nde maravilla con el pan.
+Ingrediente muy salado. Este queso\ncortado en lonchas finas es perfecto\npara un bocadillo.
+Ingrediente muy dulce. Esta fruta\nde siempre es dulce y sabrosa, y la\nadoran muchos Pokémon.
+Ingrediente muy ácido y dulce,\npopular por su capacidad de hacer que\nun bocadillo llame la atención.
+Este ingrediente tan dulce se corta\nen lonchas finas para añadirlo\nfácilmente a un bocadillo.
+Ingrediente muy ácido con un ligero\ntoque dulce. Combina bien con\ningredientes sabrosos.
+Este ingrediente tan ácido es una fruta\ndel sur, y su color y su textura\nson una delicia.\rSe ha cortado en trozos para que\nsea más fácil de manejar.
+Ingrediente muy picante, tanto que no\ndeja lugar a dudas: o te gusta\no no te gusta.
+Condimento muy picante.\nSu característico escozor nasal lo hace\nideal para rellenos sabrosos.
+Condimento muy picante. Cuidado: si usas\ndemasiado de esta potente especia,\nanulará los demás sabores.
+Este condimento tan picante parece\nrábano picante al principio, pero tiene\nun sabor excelente y propio.
+Ingrediente muy amargo que\ndestaca entre las verduras por\nsu sabor peculiar.\rA la gente suele gustarle o no\ngustarle: rara vez se queda\nindiferente.
+Ingrediente muy amargo y bastante\nversátil, dentro de las hierbas.\nEs aromático y combina con tomate.
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
 - - -
 - - -
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by a\nPokémon. It seems that Gimmighoul\ntreasure and hoard these.
+- - -
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
 - - -
 - - -
-- - -
-- - -
-- - -
-- - -
-- - -
-- - -
-- - -
-- - -
-- - -
-- - -
-- - -
-- - -
-- - -
-- - -
-- - -
-- - -
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-The user vigorously performs a\nmystic, powerful dance that boosts\nits Attack and Speed stats.
-The user attacks with a ray of light\nthat sparkles as if it were made of\ngemstones.
-The user shoots filthy garbage at\nthe foe to attack. It may also\npoison the target.
-The user makes a copy of itself\nusing some of its HP. The copy\nserves as the user’s decoy.
-The user hardens its body’s surface\nlike iron, sharply raising its\nDefense stat.
-The user slashes at the foe by\ncrossing its scythes or claws as if\nthey were a pair of scissors.
-The user rotates its body like a\ndrill. It has a high critical-hit\nratio.
-The user shoots a sinister, bluish\nwhite flame at the foe to inflict a\nburn.
-The user crunches up the foe with\nsharp fangs. It may also lower the\ntarget’s Defense stat.
-The user catches the foe off guard\nand swaps the foe’s held item with\nits own.
-The user slams into the target using\na full-force blast of water. This may\nalso lower the target’s Defense stat.
-A nutrient-draining attack. The\nuser’s HP is restored by half the\ndamage taken by the target.
-The user looses a blast of aura\npower from deep within its body.\nThis move is certain to hit.
-The user whips up a turbulent\nwhirlwind that ups the Speed of all\nparty Pokémon for three turns.
-The user hurls a shadowy blob at the\nfoe. It may also lower the foe’s Sp.\nDef stat.
-The foe is attacked with a shock\nwave generated by the user’s gaping\nmouth.
-The user lays a trap of levitating\nstones around the foe. The trap\nhurts foes that switch into battle.
-The user lets loose a horribly\nechoing shout with the power to\ninflict damage.
-The user exhales a heated breath on\nthe foe to attack. It may also leave\nthe target with a burn.
-The user draws power from nature and\nfires it at the foe. It may also\nlower the target’s Sp. Def.
-The foe is hit by a strong\ntelekinetic force. It may also\nreduce the foe’s Sp. Def stat.
-The user slams into the target. The\ngreater the weight difference, the\ngreater the damage.
-The user compels the foe to keep\nusing only the move it last used for\nthree to seven turns.
-It swamps the entire battlefield\nwith a giant wave. It can also be\nused for crossing water.
-The user covers its feet in\nthin ice and twirls around,\nslamming into the target.\rThis move’s spinning motion\nalso destroys the terrain.
-The foe is scorched with an intense\nblast of fire. The target may also\nbe left with a burn.
-A strong electric blast is loosed at\nthe foe. It may also leave the foe\nparalyzed.
-The user attacks by playing rough\nwith the target. This may also lower\nthe target’s Attack stat.
-The user temporarily empties\nits mind to forget its concerns.\nIt sharply raises the user’s Sp. Def stat.
-The user quietly focuses its mind\nand calms its spirit to raise its\nSp. Atk and Sp. Def stats.
-A move that boosts the power of the\nally’s attack in a Double Battle.
-The user attacks the enemy\nwith a pollen puff that\nexplodes.\rIf the target is an ally,\nit gives the ally a pollen puff\nthat restores its HP instead.
-The user switches places with a\nparty Pokémon in waiting, passing\nalong any stat changes.
-The user makes the ground under the\nfoe erupt with power. It may also\nlower the target’s Sp. Def.
-An all-out attack that becomes more\npowerful the less HP the user has.
-The foe is struck with an icy-cold\nbeam of energy. It may also freeze\nthe target solid.
-The user turns the ground into\nElectric Terrain for five turns,\npowering up Electric-type moves.\rPokémon on the ground can no longer\nfall asleep.
-The user turns the ground into\nGrassy Terrain for five turns.\nThis powers up Grass-type moves.
-This protects Pokémon on the ground\nfrom priority moves and powers up\nPsychic-type moves for five turns.
-This protects Pokémon on the ground from\nstatus conditions and halves damage from\nDragon-type moves for five turns.
-The user stimulates its brain by\nthinking bad thoughts. It sharply\nraises the user’s Sp. Atk.
-The foe is attacked with an intense\nblast of all-consuming fire. It may\nalso leave the target with a burn.
-The foe is blasted by a huge volume\nof water launched under great\npressure.
-A howling blizzard is summoned to\nstrike the foe. It may also freeze\nthe target solid.
-When used with its grass equivalent,\nits power increases and a vast sea\nof fire appears.
-When combined with its fire\nequivalent, its power increases and\na rainbow appears.
-When used with its water equivalent,\nits power increases and a vast swamp\nappears.
-The user throws an electrified\ntackle. It hurts the user a little.
-The user attacks by hurling filthy\nsludge at the foe. It may also\npoison the target.
-The user sets off an earthquake that\nhits all the Pokémon in the battle.
-The user stabs the foe with a\nsharpened stone. It has a high\ncritical-hit ratio.
-The user vanishes somewhere, then strikes\nthe target on the next turn. This move hits\neven if the target protects itself.
-The user charges at the foe using\nevery bit of its power. The user\nmust rest on the next turn.
-The foe is razed by a fiery\nexplosion. The user must rest on the\nnext turn, however.
-The foe is hit with a watery blast.\nThe user must rest on the next turn,\nhowever.
-The foe is slammed with an enormous\ntree. The user can’t move on the\nnext turn.
-The user rampages and attacks for\ntwo to three turns. However, it then\nbecomes confused.
-The user attacks the foe at full\npower. The attack’s recoil sharply\nreduces the user’s Sp. Atk stat.
-The user heightens its mental focus\nand unleashes its power. It may also\nlower the target’s Sp. Def.
-A storm of sharp leaves is whipped\nup. The attack’s recoil sharply\nreduces the user’s Sp. Atk stat.
-The user attacks by wrapping its\nopponent in a fierce wind. This may\nalso confuse the target.
-The user creates a bizarre area in\nwhich slower Pokémon get to move\nfirst for five turns.
-The user vibrates its wings to generate\na damaging sound wave.\nIt may also lower the foe’s Sp. Def stat.
-The foe is attacked with a powerful\nbeam. The user must rest on the next\nturn to regain its energy.
-The user tucks in its wings and\ncharges from a low altitude. The\nuser also takes serious damage.
-The user cloaks itself in fire and\ncharges at the foe. The user\nsustains serious damage, too.
-A wicked thunderbolt is dropped on the\nfoe to inflict damage.\nIt may also leave the target paralyzed.
-The user fights the foe up close without\nguarding itself. It also cuts the user’s\nDefense and Sp. Def.
-A two-turn attack.\nThe user gathers light, then blasts\na bundled beam on the second turn.
-Comets are summoned down from the\nsky. The attack’s recoil sharply\nreduces the user’s Sp. Atk stat.
-The user fires a beam of steel that\nit collected from its entire body.\nThis also damages the user.
-If the user has Terastallized,\nit unleashes energy of its\nTera Type.\rThis move inflicts damage using the\nAttack or Sp. Atk stat--whichever is\nhigher for the user.
-The foe is scared off, to be\nreplaced by another Pokémon in its\nparty. In the wild, the battle ends.
-The user boosts the power of the\nElectric move it uses next. It also\nraises the user’s Sp. Def stat.
-The user creates a haze that\neliminates every stat change among\nall the Pokémon engaged in battle.
-A move that leaves the target badly\npoisoned.\nIts poison damage worsens every turn.
-The user traps the foe inside a\nharshly raging sandstorm for two to\nfive turns.
-The user looses its grudge on the\nmove last used by the foe by cutting\n4 PP from it.
-Gravity is intensified for five\nturns, making moves involving flying\nunusable and negating Levitation.
-A projectile is thrown at the\nopponent. A flying Pokémon will fall\nto the ground.
-The user tackles the foe with a\nhigh-speed spin. The slower the\nuser, the greater the damage.
-The user slaps down the foe’s held\nitem, preventing the item from being\nused during the battle.
-The user bites the foe. If the foe\nis holding a Berry, the user eats it\nand gains its effect.
-The user chomps hard on the\nfoe with its sharp front fangs.\nIt cuts the target’s HP to half.
-The user whirls its fists to send a\nwave of pure vacuum at the foe.\nThis move always goes first.
-The user makes a lunge at the target,\nattacking with full force.\nThis also lowers the target’s Attack stat.
-The user fiercely attacks the target\nusing its entire body.
-The user launches sharp icicles\nat the foe.\nIt strikes two to five times in a row.
-Boiling water is shot at the foe.\nIt may also cause a burn.
-The user slams down with fire.\nThe more the user outweighs the foe,\nthe greater the damage.
-The user gathers light on the first turn,\nthen fills a blade with the light’s energy\nand attacks on the next turn.
-The user attacks in an uproar for\ntwo to five turns. Over that time,\nno one can fall asleep.
-The user focuses its mind before\nlaunching a punch. It will fail if\nthe user is hit before it is used.
-An attack move that varies in power\nand type depending on the weather.
-Gliding on the ground, the user\nattacks the target. This move always\ngoes first on Grassy Terrain.
-The user attacks with energy from\njealousy. This leaves all opposing\nPokémon that have had their stats\rboosted during the turn with a burn.
-After making its attack, the user\nrushes back to switch places with a\nparty Pokémon in waiting.
-The user slams the target with its\nwings to inflict damage. The target\nis hit twice in a row.
-The user attacks by controlling the\ntarget’s item. This move fails if\nthe foe isn’t holding an item.
-The user lashes out to vent its\nfrustration toward the target. This\nmove’s power is doubled if the\ruser’s stats were lowered during\nthis turn.
-The user attacks by shooting scales\ntwo to five times in a row. This\nraises Speed but lowers Defense.
-The user attacks everything around it and\nfaints upon using this move. This move’s\npower is boosted on Misty Terrain.
-The user adds its HP to the foe’s\nHP, then equally shares the combined\nHP with the foe.
-The user hypnotizes itself into\ncopying any stat change made by the\nfoe.
-A reckless, life- risking tackle. It\nalso damages the user by a fairly\nlarge amount, however.
-An attack move that cuts down the\nfoe’s HP to equal the user’s HP.
-The user stirs up a violent petal\nblizzard and attacks everything\naround it.
-Spurred by desperation, the user attacks\nthe target. This move’s power is doubled\nif the user’s previous move failed.
-Traps the foe inside a whirlpool\nthat lasts for two to five turns.\nThe user can pass through whirlpools.
-The user attacks by shooting out\nmuddy water. It may also lower the\nfoe’s accuracy.
-The user electrifies its body and drops onto\nthe target to inflict damage. If this move\nmisses, the user takes damage instead.
-The user traps the foe in an\nelectric net. It also lowers the\nfoe’s Speed.
-A consecutive three-kick attack that\nbecomes more powerful with each\nsuccessful hit.
-The user properly coaches its ally\nPokémon, boosting their Attack and\nDefense stats.
-The area around the user is swamped by\na giant sludge wave.\nIt may also poison those hit.
-The user throws scorching sand at\nthe target to attack.\nThe target may also be left with a burn.
-The user covers the foe with a mass\nof down that sharply lowers the\nAttack stat.
-Two turns after this move is used,\nthe foe is attacked with a hunk of\npsychic energy.
-The user attacks\nthe target with\nits psychic power.\rWhen the ground is Psychic Terrain,\nthis move’s power is boosted and it\ndamages all opposing Pokémon.
-The user skitters behind the target\nto attack. This also lowers the\ntarget’s Sp. Atk stat.
-The user gathers energy from space\nto raise its Sp. Atk on the first\nturn, then attacks on the next.
-The user attacks the target’s throat,\npreventing the target from using\nsound-based moves for two turns.
-The user swings its tough tail\nand attacks opposing Pokémon.\nThis also lowers their Attack stats.
-A horrible sound like scraping metal\nis emitted to sharply reduce the\nfoe’s Sp. Def stat.
-A move that works differently for\nthe Ghost type than for all the\nother types.
-The target is crushed with an arm, a claw,\nor the like to inflict damage. The attack is\nmore powerful the more HP the foe has left.
-The user raises its allies’ morale\nwith a draconic cry so that their\nfuture attacks have a heightened\rchance of landing critical hits.\nThis rouses Dragon types more.
-The user attacks the target using its angelic\nvoice. This also confuses the target if its\nstats have been boosted during the turn.
-The user attacks the target with\nunpleasant sound waves. For two\nturns, the target is prevented from\rrecovering HP through moves,\nAbilities, or held items.
-The user reacts to the target’s\nmovement and strikes with the heel\nof its palm, making the target flinch.\rThis move fails if the target is not\nreadying a priority move.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer. Parece que los Gimmighoul\nlos atesoran y acumulan.
 - - -
 - - -
 - - -
@@ -477,285 +325,437 @@ The user reacts to the target’s\nmovement and strikes with the heel\nof its pa
 - - -
 - - -
 - - -
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+El usuario ejecuta con brío una danza\nmística y potente que sube su\nAtaque y su Velocidad.
+El usuario ataca con un rayo de luz\nque brilla como si estuviera hecho\nde gemas.
+El usuario dispara basura inmunda\nal objetivo. Puede también\nenvenenarlo.
+El usuario crea una copia usando\nalgunos de sus PS. La copia sirve\nde señuelo.
+El usuario endurece la superficie de su\ncuerpo como el hierro y sube mucho\nsu Defensa.
+El usuario raja al objetivo cruzando\nsus guadañas o garras como si\nfueran unas tijeras.
+El usuario gira como un taladro.\nTiene una alta ratio de golpes\ncríticos.
+El usuario lanza una llama siniestra\nde tono blanco azulado que causa\nquemaduras.
+El usuario muerde al objetivo con\ncolmillos afilados. Puede también\nreducir su Defensa.
+El usuario pilla desprevenido al\nobjetivo e intercambia su objeto\ncon el suyo.
+El usuario embiste con un chorro de\nagua a plena potencia. Puede también\nreducir la Defensa del objetivo.
+Ataque que absorbe nutrientes. El\nusuario recupera la mitad del daño\ncausado al objetivo.
+El usuario lanza una descarga de aura\ndesde lo más profundo de su cuerpo.\nEste movimiento acierta siempre.
+El usuario levanta un turbulento\nremolino que sube la Velocidad de todo\nel equipo durante tres turnos.
+El usuario lanza una masa de sombras\nal objetivo. Puede también reducir\nsu Def. Especial.
+Ataca al objetivo con una onda de\nchoque generada por la boca\nabierta del usuario.
+El usuario tiende una trampa de piedras\nflotantes. Daña a los rivales que\nentren en combate.
+El usuario suelta un grito que\nresuena horriblemente y que\nhace daño.
+El usuario exhala un aliento ardiente\nsobre el rival. Puede también\ncausarle quemaduras.
+El usuario toma el poder de la\nnaturaleza y lo dispara al objetivo.\nPuede reducir su Def. Especial.
+El objetivo recibe una fuerte fuerza\ntelequinética. Puede también\nreducir su Def. Especial.
+El usuario embiste al objetivo. Cuanto\nmayor sea la diferencia de peso,\nmayor será el daño.
+El usuario obliga al objetivo a seguir\nusando su último movimiento durante\ntres a siete turnos.
+Inunda todo el campo de batalla con\nuna ola gigante. También sirve para\ncruzar el agua.
+El usuario se cubre los pies de\nhielo fino y gira sobre sí\nmismo para golpear.\rEse giro también\ndestruye el terreno.
+El objetivo es chamuscado con una\nintensa llamarada. Puede también\ncausarle quemaduras.
+Lanza una fuerte descarga eléctrica\nal objetivo. Puede también\nparalizarlo.
+El usuario ataca jugando con\nrudeza. Puede también reducir\nel Ataque del objetivo.
+El usuario vacía temporalmente\nsu mente para olvidar sus preocupaciones.\nSube mucho su Defensa Especial.
+El usuario concentra su mente y calma\nsu espíritu para subir su Ataque y\nsu Defensa Especial.
+Movimiento que aumenta la potencia\ndel ataque del aliado en combate doble.
+El usuario ataca al enemigo\ncon una bola de polen\nexplosiva.\rSi el objetivo es un aliado,\nle da una bola de polen que\nle restaura PS.
+El usuario cambia de sitio con otro\nPokémon del equipo y le transmite\nlos cambios de estadísticas.
+El usuario hace erupcionar el suelo\nbajo el rival. Puede también\nreducir su Def. Especial.
+Ataque total que se hace más potente\ncuanto menos PS le quedan al usuario.
+Golpea al objetivo con un rayo de\nenergía gélida. Puede también\ncongelarlo.
+El usuario convierte el suelo en un\nCampo Eléctrico durante cinco turnos,\npotenciando los movimientos Eléctricos.\rLos Pokémon en el suelo ya no\npueden quedarse dormidos.
+El usuario convierte el suelo en un\nCampo de Hierba durante cinco turnos.\nEsto potencia los movimientos de Planta.
+Protege a los Pokémon del suelo de los\nmovimientos con prioridad y potencia\nlos Psíquicos durante cinco turnos.
+Protege a los Pokémon del suelo de los\nproblemas de estado y reduce a la mitad\nel daño Dragón durante cinco turnos.
+El usuario estimula su cerebro con\nmalos pensamientos. Sube mucho\nsu Ataque Especial.
+Ataca al objetivo con una intensa\nllamarada abrasadora. Puede también\ncausarle quemaduras.
+El objetivo recibe un enorme chorro\nde agua lanzado a\ngran presión.
+Invoca una ventisca aullante que\ngolpea al objetivo. Puede también\ncongelarlo.
+Al usarlo junto a su equivalente de\ntipo Planta, su potencia aumenta y\naparece un vasto mar de fuego.
+Al combinarlo con su equivalente de\ntipo Fuego, su potencia aumenta y\naparece un arcoíris.
+Al usarlo junto a su equivalente de\ntipo Agua, su potencia aumenta y\naparece un vasto pantano.
+El usuario lanza una embestida\nelectrificada. También se daña un poco.
+El usuario ataca lanzando lodo inmundo\nal rival. Puede también\nenvenenarlo.
+El usuario provoca un terremoto que\ngolpea a todos los Pokémon en combate.
+El usuario clava una piedra afilada en\nel rival. Tiene una alta ratio de\ngolpes críticos.
+El usuario desaparece y golpea al\nobjetivo en el turno siguiente. Acierta\naunque se proteja.
+El usuario embiste al rival con toda\nsu potencia. Debe descansar el\nturno siguiente.
+El rival es arrasado por una explosión\nardiente. El usuario debe descansar\nel turno siguiente.
+El rival recibe un chorro de agua.\nEl usuario debe descansar el turno\nsiguiente.
+El rival es golpeado con un árbol\ngigantesco. El usuario no puede\nmoverse el turno siguiente.
+El usuario ataca sin control durante\ndos o tres turnos, pero luego\nqueda confuso.
+El usuario ataca a máxima potencia.\nEl retroceso reduce mucho su\nAtaque Especial.
+El usuario agudiza su concentración\ny libera su poder. Puede también\nreducir la Def. Especial del objetivo.
+Se levanta una tormenta de hojas\ncortantes. El retroceso reduce mucho\nsu Ataque Especial.
+El usuario envuelve al rival en un\nviento furioso. Puede también\nconfundirlo.
+El usuario crea una zona extraña en\nla que los Pokémon lentos se mueven\nprimero durante cinco turnos.
+El usuario hace vibrar sus alas y\ngenera una onda de sonido dañina.\nPuede reducir la Def. Especial del rival.
+Ataca al objetivo con un rayo muy\npotente. El usuario debe descansar\nel turno siguiente.
+El usuario repliega las alas y embiste\ndesde baja altura. También\nrecibe mucho daño.
+El usuario se cubre de fuego y\nembiste al rival. También recibe\nmucho daño.
+Deja caer un rayo devastador sobre\nel rival para hacerle daño.\nPuede también paralizarlo.
+El usuario lucha cuerpo a cuerpo sin\nprotegerse. También reduce su propia\nDefensa y Def. Especial.
+Ataque de dos turnos.\nEl usuario absorbe luz y dispara un rayo\nconcentrado en el segundo turno.
+Se invocan cometas desde el cielo.\nEl retroceso reduce mucho su\nAtaque Especial.
+El usuario dispara un rayo de acero\nrecogido de todo su cuerpo.\nTambién se daña.
+Si el usuario ha teracristalizado,\nlibera energía de su\nTipo Tera.\rEste movimiento inflige daño usando el\nAtaque o el Ataque Especial,\nel que sea mayor.
+El rival huye asustado y es sustituido\npor otro Pokémon de su equipo.\nEn estado salvaje, acaba el combate.
+El usuario aumenta la potencia del\nmovimiento Eléctrico que use después.\nTambién sube su Def. Especial.
+El usuario crea una neblina que\nelimina todos los cambios de\nestadísticas de los Pokémon en combate.
+Movimiento que envenena gravemente\nal objetivo.\nEl daño del veneno aumenta cada turno.
+El usuario atrapa al rival dentro de\nuna violenta tormenta de arena durante\ndos a cinco turnos.
+El usuario guarda rencor por el último\nmovimiento del rival y le resta\n4 PP.
+La gravedad se intensifica durante\ncinco turnos: los movimientos de vuelo\nno sirven y se anula la levitación.
+Se lanza un proyectil al\nrival. Un Pokémon volador caerá\nal suelo.
+El usuario embiste girando a gran\nvelocidad. Cuanto más lento\nel usuario, mayor el daño.
+El usuario tira el objeto que lleva el\nrival y evita que pueda usarlo\ndurante el combate.
+El usuario muerde al rival. Si este\nlleva una Baya, se la come y\nobtiene su efecto.
+El usuario muerde con fuerza al\nrival con sus afilados colmillos.\nReduce a la mitad sus PS.
+El usuario gira los puños y lanza\nuna onda de vacío al rival.\nEste movimiento va siempre primero.
+El usuario se abalanza sobre el objetivo\ny ataca con todas sus fuerzas.\nTambién reduce su Ataque.
+El usuario ataca con ferocidad al\nobjetivo usando todo su cuerpo.
+El usuario lanza carámbanos afilados\nal rival.\nGolpea de dos a cinco veces seguidas.
+Se lanza agua hirviendo al rival.\nPuede también causarle quemaduras.
+El usuario golpea con fuego.\nCuanto más pesa que el rival,\nmayor es el daño.
+El usuario absorbe luz el primer turno\ny luego llena una hoja con su energía\npara atacar el turno siguiente.
+El usuario ataca con alboroto durante\ndos a cinco turnos. Durante ese tiempo,\nnadie puede quedarse dormido.
+El usuario concentra su mente antes\nde lanzar un puñetazo. Falla si\nrecibe un golpe antes de usarlo.
+Ataque que varía de potencia\ny de tipo según el tiempo atmosférico.
+El usuario se desliza por el suelo\npara atacar. Va siempre primero\nen el Campo de Hierba.
+El usuario ataca con energía de\nlos celos. Quema a todos los rivales\nque hayan subido sus estadísticas\rdurante el turno.
+Tras atacar, el usuario vuelve para\ncambiar de sitio con otro Pokémon\ndel equipo que espere.
+El usuario golpea al objetivo con\nsus alas para hacerle daño. Lo\ngolpea dos veces seguidas.
+El usuario ataca controlando el\nobjeto del objetivo. Falla si el\nrival no lleva ningún objeto.
+El usuario arremete para desahogar\nsu frustración con el objetivo. Su\npotencia se duplica si\rsus estadísticas bajaron\ndurante este turno.
+El usuario dispara escamas\ndos a cinco veces seguidas. Sube\nsu Velocidad, pero reduce su Defensa.
+El usuario ataca todo lo que le rodea y\nse debilita al usarlo. Su potencia\naumenta en la Niebla Mística.
+El usuario suma sus PS a los del\nrival y luego reparte el total\na partes iguales con él.
+El usuario se hipnotiza para copiar\ncualquier cambio de estadísticas\nhecho por el rival.
+Una embestida temeraria que pone\nen riesgo la vida. También daña\nbastante al usuario.
+Ataque que reduce los PS del rival\nhasta igualarlos con los del usuario.
+El usuario desata una violenta\ntormenta de pétalos y ataca todo\nlo que le rodea.
+El usuario ataca llevado por la\ndesesperación. Su potencia se duplica\nsi falló su movimiento anterior.
+Atrapa al rival en un remolino que dura\nde dos a cinco turnos.\nEl usuario puede cruzar remolinos.
+El usuario ataca disparando agua\nembarrada. Puede también reducir\nla Precisión del rival.
+El usuario electrifica su cuerpo y cae\nsobre el objetivo. Si el movimiento falla,\nel usuario recibe el daño.
+El usuario atrapa al rival en una\nred eléctrica. También reduce\nsu Velocidad.
+Ataque de tres patadas seguidas\nque se hace más potente con cada\ngolpe acertado.
+El usuario instruye a su Pokémon\naliado y sube su Ataque y\nsu Defensa.
+La zona alrededor del usuario queda\nanegada por una gran ola de lodo.\nPuede también envenenar a quienes alcanza.
+El usuario lanza arena abrasadora\nal objetivo.\nPuede también causarle quemaduras.
+El usuario cubre al rival con una\nmasa de plumón que reduce mucho\nsu Ataque.
+Dos turnos después de usar este\nmovimiento, el rival recibe el ataque\nde un bloque de energía psíquica.
+El usuario ataca\nal objetivo con\nsu poder psíquico.\rEn el Campo Psíquico, su potencia\naumenta y daña a todos los\nPokémon rivales.
+El usuario se escabulle tras el\nobjetivo para atacarlo. También reduce\nsu Ataque Especial.
+El usuario absorbe energía del espacio\npara subir su Ataque Especial el primer\nturno y ataca el siguiente.
+El usuario ataca la garganta del\nobjetivo y le impide usar movimientos\nde sonido durante dos turnos.
+El usuario golpea con su robusta\ncola a los rivales.\nTambién reduce su Ataque.
+Emite un sonido horrible, como de\nmetal raspado, que reduce mucho\nla Def. Especial del rival.
+Movimiento que funciona de forma\ndistinta para el tipo Fantasma que\npara el resto de tipos.
+El objetivo es aplastado con un brazo\no una garra. Cuantos más PS le queden\nal rival, más potente es el ataque.
+El usuario anima a sus aliados con\nun grito dracónico para que sus\nataques tengan más probabilidad\rde ser críticos.\nA los de tipo Dragón los anima más.
+El usuario ataca al objetivo con su\nvoz angelical. También lo confunde si\nsus estadísticas han subido este turno.
+El usuario ataca con ondas sonoras\ndesagradables. Durante dos turnos,\nel objetivo no podrá\rrecuperar PS con movimientos,\nhabilidades ni objetos.
+El usuario reacciona al movimiento\ndel objetivo y golpea con el talón\nde la mano, haciéndolo retroceder.\rFalla si el objetivo no está\npreparando un movimiento con prioridad.
 - - -
 - - -
 - - -
-A roomy basket packed with all sorts\nof things for use when enjoying\npicnicking with your Pokémon.
-- - -
-A bottle emblazoned\nwith the academy’s\nemblem.\rIt’s light, sturdy, and vacuum insulated,\nso it’ll keep your hots hot and your colds\ncold.
-A bottle emblazoned\nwith the academy’s\nemblem.\rIt’s light, sturdy, and vacuum insulated,\nso it’ll keep your hots hot and your colds\ncold.
-A polka-dot-patterned bottle\nthat’s small, light, and even\ncomes with a cup.\rThe detachable strap makes\nit handy for walking around\nwith.
-A striped bottle that’s\nsmall, light, and even\ncomes with a cup.\rThe detachable strap\nmakes it handy for\nwalking around with.
-A diamond-patterned bottle\nthat’s small, light, and even\ncomes with a cup.\rThe detachable strap makes\nit handy for walking around\nwith.
-The academy’s standard-issue cup for\npicnicking. The careful design of\nits mouth makes it popular both\rinside and outside the academy.
-The academy’s standard-issue cup for\npicnicking. The careful design of\nits mouth makes it popular both\rinside and outside the academy.
-A cup for kids to use at picnics. It’s made\nof light but strong material. It’s stackable,\nwhich makes it handy for carrying around.
-A cup for kids to use at picnics. It’s made\nof light but strong material. It’s stackable,\nwhich makes it handy for carrying around.
-A cup for kids to use at picnics. It’s made\nof light but strong material. It’s stackable,\nwhich makes it handy for carrying around.
-The academy’s standard-issue\ntablecloth. It’s made with the\nlatest fiber-processing technology\rand is so tough that not even a\nRazor Claw can tear it.
-The academy’s standard-issue\ntablecloth. It’s made with the\nlatest fiber-processing technology\rand is so tough that not even a\nRazor Claw can tear it.
-A tablecloth made in collaboration\nwith a popular picture-book\nauthor.\rThe gently drawn Pokémon make\neven the loveliest picnic table\nmore charming.
-A botanically themed tablecloth featuring\nGrass-type Pokémon. Can you find the\nPokémon that doesn’t quite fit in?
-A pop-art-style tablecloth with\nPokémon faces floating up from\nthe deep nighttime blue.\rThis is a must-have for fans of\nGhost types.
-- - -
-The academy’s standard-issue ball in\na regulation size. Lots of students\nbelieve that if you kick it right on\rthe academy emblem, it’ll fly in a\nstraight line.
-The academy’s standard-issue ball in\na regulation size. Lots of students\nbelieve that if you kick it right on\rthe academy emblem, it’ll fly in a\nstraight line.
-A Marill-themed ball. It’s soft and springy.\nMake sure you haven’t mistaken a real\nMarill for this ball before throwing.
-A small ball of yarn. It’s woven\ntight so as not to unravel, but even\nif it were to come undone, at least\ryou could still use the yarn for\nsomething.
-A ball themed after hardcore gaming PCs.\nIt may not light up like its inspiration,\nbut it still stands out.
-A golden pick that oozes class.\nUsing it on a sandwich lends an\nextravagant air that’ll make you\rwant to eat up, even if you don’t\nlove the fillings.
-A silver pick that oozes class.\nUsing it on a sandwich lends an\nextravagant air that’ll make you\rwant to eat up, even if you don’t\nlove the fillings.
-This pick flies a red flag that\nlends an air of adventure. The flag\nitself is made of card stock, so\rit’ll fly proudly even with no wind.
-This pick flies a blue flag that\nlends an air of adventure. The flag\nitself is made of card stock, so\rit’ll fly proudly even with no wind.
-A Pick-achu, as it were, sporting\nPikachu’s usual expression. It’s\neasy to grab by the ears, which is\rpart of why it’s so popular.
-A Pick-achu, if you will, sporting\nPikachu’s winking face. It’s easy to\ngrab by the ears, which is part of\rwhy it’s so popular.
-A pick designed after Eevee,\nsporting the Pokémon’s usual\nexpression. It’s easy to grab by the\rears, which is part of why it’s so\npopular.
-A pick designed after Eevee,\nsporting the Pokémon’s smiling face.\nIt’s easy to grab by the ears, which\ris part of why it’s so popular.
-A sandwich pick with a simple blue\nPoké Ball design. Often used by\nTrainers who picked a Water-type\rPokémon for their first partner.
-- - -
-A peculiar set of armor that can make\na certain species of Pokémon evolve.\nAuspicious wishes live within it.
-A shard of what appears to be an old blade\nof some sort. It is held only by Bisharp\nthat head up a group of Pawniard.
 - - -
 - - -
-A go-to bottle widely used for drinks at\npicnics. Its simple design and portability\nmake it popular among all sorts of people.
-A go-to bottle widely used for drinks at\npicnics. Its simple design and portability\nmake it popular among all sorts of people.
-A go-to bottle widely used for drinks at\npicnics. Its simple design and portability\nmake it popular among all sorts of people.
-A go-to bottle sometimes used while\ncamping. The stainless steel keeps\nthe temperature inside steady,\rmaking it great for keeping drinks\nhot or cold.
-A go-to bottle sometimes used while\ncamping. The stainless steel keeps\nthe temperature inside steady,\rmaking it great for keeping drinks\nhot or cold.
-A go-to bottle sometimes used while\ncamping. The stainless steel keeps\nthe temperature inside steady,\rmaking it great for keeping drinks\nhot or cold.
-A popular option among hikers. It’s\nmade with titanium, so it doesn’t\nrust even if it’s used to hold\rdrinks with high sodium content.
-A cup that’s as good for using at\nhome as on a picnic. It’s light,\nsturdy, and stacks well, so it’s a\rcinch to pack up and carry around.
-A cup that’s as good for using at\nhome as on a picnic. It’s light,\nsturdy, and stacks well, so it’s a\rcinch to pack up and carry around.
-A cup that’s as good for using at\nhome as on a picnic. It’s light,\nsturdy, and stacks well, so it’s a\rcinch to pack up and carry around.
-A cup sold with the Pink Bottle. The\ntwo don’t stack, so they’re tough to\npack-but they look good, so they’re\rpopular with those who like to post\npicnic photos.
-A cup sold with the Blue Bottle. The\ntwo don’t stack, so they’re tough to\npack-but they look good, so they’re\rpopular with those who like to post\npicnic photos.
-A cup sold with the Yellow Bottle.\nThe two don’t stack, so they’re\ntough to pack-but they look good, so\rthey’re popular with those who like\nto post picnic photos.
-A cup for big-time Pokémon fans.\nKids will happily drink out of it,\nmaking it a boon to parents.
-A cup for big-time Pokémon fans.\nKids will happily drink out of it,\nmaking it a boon to parents.
-A cup for big-time Pokémon fans.\nKids will happily drink out of it,\nmaking it a boon to parents.
-A popular option among hikers. It’s\nmade with titanium, so it doesn’t\nrust even if it’s used to hold\rdrinks with high sodium content.
-A big ball designed for exercising.\nIt can work as a seat if you get\ntired, too.
-A sturdy tablecloth made of thick\nfabric. The cheery yellow plaid\nbrightens up a table.
-A sturdy tablecloth made of thick\nfabric. The gentle blue plaid gives\na table a crisp look.
-A sturdy tablecloth made of thick\nfabric. The quietly composed red\nplaid gives the table some flair.
-A tablecloth with a fun, trendy\nblack-and-white design featuring\nPokémon that seem poised to leap\rfrom the tall grass at any moment.
-A garish, eye-catching tablecloth.\nPutting this on your picnic table\nwill inspire any person or Pokémon\rwho eats there to do their best.
-A tablecloth designed by the Pewter Museum\nof Science. The academic air of the pattern\nis a big hit with kids and adults alike.
-A tablecloth with a fashionable striped\npattern. It’s great at repelling water and\nmold, and stains and smudges wipe right off.
-A tablecloth with a fashionable diamond\npattern. It’s great at repelling water and\nmold, and stains and smudges wipe right off.
-A tablecloth with a fashionable polka-dot\npattern. It’s great at repelling water and\nmold, and stains and smudges wipe right off.
-A light purple tablecloth. It’s smooth\nand pleasant to the touch, and dishes\ncan be placed on it with hardly a sound.
-A light mint-colored tablecloth. It’s\nsmooth and pleasant to the touch, and dishes\ncan be placed on it with hardly a sound.
-A light peach-colored tablecloth. It’s\nsmooth and pleasant to the touch, and dishes\ncan be placed on it with hardly a sound.
-A simple yellow tablecloth. It’s smooth\nand pleasant to the touch, and dishes\ncan be placed on it with hardly a sound.
-A simple blue tablecloth. It’s smooth\nand pleasant to the touch, and dishes\ncan be placed on it with hardly a sound.
-A simple pink tablecloth. It’s smooth\nand pleasant to the touch, and dishes\ncan be placed on it with hardly a sound.
-A popular option among hikers. It’s\nmade with titanium, so it doesn’t\nrust even if it’s used to hold\rdrinks with high sodium content.
-A popular option among hikers. It’s\nmade with titanium, so it doesn’t\nrust even if it’s used to hold\rdrinks with high sodium content.
-A popular option among hikers. It’s\nmade with titanium, so it doesn’t\nrust even if it’s used to hold\rdrinks with high sodium content.
-A popular option among hikers. It’s\nmade with titanium, so it doesn’t\nrust even if it’s used to hold\rdrinks with high sodium content.
-A sandwich pick with a simple green\nPoké Ball design. Often used by\nTrainers who picked a Grass-type\rPokémon for their first partner.
-A sandwich pick with a simple red Poké Ball\ndesign. Often used by Trainers who picked a\nFire-type Pokémon for their first partner.
-This pick features a small sparkler that\ngoes off automatically.\nIt’s used at parties or for guests of honor.\rIt leaves an oddly appealing aroma once it’s\nburned out.
-A pick made to be the coolest.\nOnce you’ve eaten, you can pretend\nyou’re a hero of legend.\rSouvenir shops at tourist spots\nsell these for some reason.
-A pick shaped after a magic wand.\nPerhaps the real magic is the food\nmaker’s wish for a delicious dish.
-A pick shaped after a magic wand.\nPerhaps the real magic is the food\nmaker’s wish for a delicious dish.
-Some complain that the parasol part\nof this pick is hard to hold on to,\nso your fingers get messy.\rStill, it’s fun to twirl this all\naround after you’ve eaten.
-A flower pick designed to evoke\na blue sky. It’s part of a line of\n“sky-flower” picks.\rUsing a few is guaranteed to boost\nthat special picnic spirit.
-A flower pick designed to evoke\na blazing sunset. It’s part of\na line of “sky-flower” picks.\rUsing a few is guaranteed to boost\nthat special picnic spirit.
-A flower pick designed to evoke\na glorious sunrise. It’s part of\na line of “sky-flower” picks.\rUsing a few is guaranteed to boost\nthat special picnic spirit.
-A dish for picnics.\nComes in plenty of colors to choose\nfrom based on the food or the mood.\rThe blue variety is a consistent strong\nseller.
-A dish for picnics.\nComes in plenty of colors to choose\nfrom based on the food or the mood.\rThe green variety is quite popular.
-A dish for picnics.\nComes in plenty of colors to choose\nfrom based on the food or the mood.\rThe orange variety is the most popular\nof all.
-A dish for picnics.\nComes in plenty of colors to choose\nfrom based on the food or the mood.\rThe red variety never fails to sell well.
-A dish for picnics.\nComes in plenty of colors to choose\nfrom based on the food or the mood.\rThe white variety comes recommended\nby sellers.
-A dish for picnics.\nComes in plenty of colors to choose\nfrom based on the food or the mood.\rThe yellow variety is impossible to go\nwrong with.
-An item to be held by a Pokémon.\nThis feather, which gleams faintly in the\nlight, boosts the power of Fairy-type moves.
-A peculiar apple that can make a\ncertain species of Pokémon evolve.\nIt’s exceptionally syrupy.
-A teacup that can make a certain species\nof Pokémon evolve. It may be cracked,\nbut tea drunk from it is delicious.
-A teacup that can make a certain species\nof Pokémon evolve. It may be chipped,\nbut tea drunk from it is delicious.
-A teal mask patterned after the face of an\nogre. Ogerpon dropped it while fleeing up the\nstairs after visiting the Festival of Masks.
-An item to be held by Ogerpon. This wooden\nmask is adorned with crystals and allows\nOgerpon to wield the Rock type in battle.
-An item to be held by Ogerpon. This wooden\nmask is adorned with crystals and allows\nOgerpon to wield the Water type in battle.
-An item to be held by Ogerpon. This wooden\nmask is adorned with crystals and allows\nOgerpon to wield the Fire type in battle.
-Having one of these cards increases\nthe selection available to you in\nboutiques and hair salons.
-A cluster of the crystals\nfound within the Crystal\nPool.\rThey sparkle brilliantly and are\napparently necessary to repair\na certain mask.
-A mochi cake with Berries kneaded into\nits dough. It increases base points for\na Pokémon’s HP stat.
-A mochi cake with Berries kneaded into\nits dough. It increases base points for\na Pokémon’s Attack stat.
-A mochi cake with Berries kneaded into\nits dough. It increases base points for\na Pokémon’s Defense stat.
-A mochi cake with Berries kneaded into\nits dough. It increases base points for\na Pokémon’s Sp. Atk stat.
-A mochi cake with Berries kneaded into\nits dough. It increases base points for\na Pokémon’s Sp. Def stat.
-A mochi cake with Berries kneaded into\nits dough. It increases base points for\na Pokémon’s Speed stat.
-A set of chairs that are ideal for picnicking.\nThey have a simple design that can stand up\nto both dirt and physical impacts.
-A set of chairs that are ideal for picnicking.\nTheir design was inspired by the Academy\nTablecloth.
-A set of chairs that are ideal for picnicking.\nTheir design was inspired by the Academy\nTablecloth.
-A set of chairs that are ideal for picnicking.\nTheir design was inspired by the Whimsical\nTablecloth.
-A set of chairs that are ideal for picnicking.\nTheir design was inspired by the Leafy\nTablecloth.
-A set of chairs that are ideal for picnicking.\nTheir design was inspired by the Spooky\nTablecloth.
-A set of chairs that are ideal for picnicking.\nTheir design was inspired by the yellow Plaid\ntablecloth.
-A set of chairs that are ideal for picnicking.\nTheir design was inspired by the blue Plaid\ntablecloth.
-A set of chairs that are ideal for picnicking.\nTheir design was inspired by the red Plaid\ntablecloth.
-A set of chairs that are ideal for picnicking.\nTheir design was inspired by the B&W Grass\ntablecloth.
-A set of chairs that are ideal for picnicking.\nTheir design was inspired by the Battle\nTablecloth.
-A set of chairs that are ideal for picnicking.\nTheir design was inspired by the Monstrous\ntablecloth.
-A set of chairs that are ideal for picnicking.\nTheir design was inspired by the Striped\nTablecloth.
-A set of chairs that are ideal for picnicking.\nTheir design was inspired by the Diamond\nTablecloth.
-A set of chairs that are ideal for picnicking.\nTheir design was inspired by the Polka-Dot\ntablecloth.
-A set of chairs that are ideal for picnicking.\nTheir design was inspired by the Lilac\nTablecloth.
-A set of chairs that are ideal for picnicking.\nTheir design was inspired by the Mint\nTablecloth.
-A set of chairs that are ideal for picnicking.\nTheir design was inspired by the Peach\nTablecloth.
-A set of chairs that are ideal for picnicking.\nTheir design was inspired by the Yellow\nTablecloth.
-A set of chairs that are ideal for picnicking.\nTheir design was inspired by the Blue\nTablecloth.
-A set of chairs that are ideal for picnicking.\nTheir design was inspired by the Pink\nTablecloth.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-A mochi cake with Berries kneaded into\nits dough. It causes a Pokémon to lose\nall its base points.
-A stick to rest a Rotom Phone on.\nIt allows you to take selfies from a little\nbit farther away than you could on your own.
-Having one of these mysterious glimmering\ncharms increases the number of Tera Shards\nyou receive from Tera Raid Battles.
-A peculiar metal that can make\ncertain species of Pokémon evolve.\nIt is composed of many layers.
-Having one of these cards increases\nthe selection available to you in\nboutiques and hair salons.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-Material accidentally dropped by\na Pokémon.\nIt can be used to make TMs.
-A snack made from ingredients favored\nby the Legendary Pokémon Articuno.
-A snack made from ingredients favored\nby the Legendary Pokémon Zapdos.
-A snack made from ingredients favored\nby the Legendary Pokémon Moltres.
-A snack made from ingredients favored\nby the Legendary Pokémon Raikou.
-A snack made from ingredients favored\nby the Legendary Pokémon Entei.
-A snack made from ingredients favored\nby the Legendary Pokémon Suicune.
-A snack made from ingredients favored\nby the Legendary Pokémon Lugia.
-A snack made from ingredients favored\nby the Legendary Pokémon Ho-Oh.
-A snack made from ingredients favored\nby the Legendary Pokémon Latias.
-A snack made from ingredients favored\nby the Legendary Pokémon Latios.
-A snack made from ingredients favored\nby the Legendary Pokémon Kyogre.
-A snack made from ingredients favored\nby the Legendary Pokémon Groudon.
-A snack made from ingredients favored\nby the Legendary Pokémon Rayquaza.
-A snack made from ingredients favored\nby the Legendary Pokémon Cobalion.
-A snack made from ingredients favored\nby the Legendary Pokémon Terrakion.
-A snack made from ingredients favored\nby the Legendary Pokémon Virizion.
-A snack made from ingredients favored\nby the Legendary Pokémon Reshiram.
-A snack made from ingredients favored\nby the Legendary Pokémon Zekrom.
-A snack made from ingredients favored\nby the Legendary Pokémon Kyurem.
-A snack made from ingredients favored\nby the Legendary Pokémon Solgaleo.
-A snack made from ingredients favored\nby the Legendary Pokémon Lunala.
-A snack made from ingredients favored\nby the Legendary Pokémon Necrozma.
-A snack made from ingredients favored\nby the Legendary Pokémon Kubfu.
-A snack made from ingredients favored\nby the Legendary Pokémon Glastrier.
-A snack made from ingredients favored\nby the Legendary Pokémon Spectrier.
-A mysterious disk with an indigo shine\nto it, given to you by the Top Champion.\nIt seems to be tied to Area Zero.
-A pick designed after Magmortar. It’s said\nthat using this pick makes any sandwich\nlook like it’s fresh out of the oven.
-On rare occasions, these shards form\nwhen a Tera Pokémon falls in battle\nand its Tera Jewel shatters.
-A Pecha Berry of the highest quality.\nIt’s said that a Pecha Berry tree\ncarefully tended by an expert gardener\rwill produce just one of these Berries\nevery few years.
-Blueberry Academy’s standard issue\ntablecloth, made with the latest\nfiber-processing technology.\rIt’s heat-resistant and so tough\neven a Razor Claw can’t tear it.
-A set of chairs that are ideal\nfor picnicking. Their design was\ninspired by the Blueberry Tablecloth.
-A device that synchronizes your mind\nand feelings with your Pokémon’s so\nthat you can work as one.\rIt’s still a prototype-hence its\nunrefined appearance.
-A rock that fell to earth from space.\nIt’s warm to the touch. It changes the\nform of a certain species of Pokémon.
-A record of an expedition to the\nGreat Crater of Paldea, given\nto you by Professor Sada.\rThe book has the name “Sada” written\non it in clumsy handwriting.
-A record of an expedition to the\nGreat Crater of Paldea, given\nto you by Professor Turo.\rThe book has the name “Turo” written\non it in clumsy handwriting.
-A proof copy of the\nexploration notes covering\nthe Area Zero Underdepths.\rIt’s filled with long paragraphs\ndescribing what happened,\nalong with Briar’s thoughts.
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+Cesta amplia repleta de todo tipo\nde cosas para disfrutar de un\npícnic con tus Pokémon.
+- - -
+Botella con el emblema\nde la academia\ngrabado.\rEs ligera, resistente y con aislamiento\ntérmico: mantiene lo caliente caliente\ny lo frío frío.
+Botella con el emblema\nde la academia\ngrabado.\rEs ligera, resistente y con aislamiento\ntérmico: mantiene lo caliente caliente\ny lo frío frío.
+Botella de lunares\npequeña y ligera que\nincluye un vaso.\rSu correa desmontable la hace\nmuy práctica para\nllevarla encima.
+Botella de rayas\npequeña y ligera que\nincluye un vaso.\rSu correa desmontable la hace\nmuy práctica para\nllevarla encima.
+Botella de rombos\npequeña y ligera que\nincluye un vaso.\rSu correa desmontable la hace\nmuy práctica para\nllevarla encima.
+El vaso oficial de la academia para\nel pícnic. El cuidado diseño de su\nborde lo hace popular tanto\rdentro como fuera de la academia.
+El vaso oficial de la academia para\nel pícnic. El cuidado diseño de su\nborde lo hace popular tanto\rdentro como fuera de la academia.
+Vaso para que los niños lo usen en\nlos pícnic. Es de material ligero pero\nfuerte. Es apilable y muy fácil de llevar.
+Vaso para que los niños lo usen en\nlos pícnic. Es de material ligero pero\nfuerte. Es apilable y muy fácil de llevar.
+Vaso para que los niños lo usen en\nlos pícnic. Es de material ligero pero\nfuerte. Es apilable y muy fácil de llevar.
+El mantel oficial de la academia.\nEstá hecho con la última tecnología\nde fibras y es tan resistente que ni\runas Garras Afiladas\nlo rompen.
+El mantel oficial de la academia.\nEstá hecho con la última tecnología\nde fibras y es tan resistente que ni\runas Garras Afiladas\nlo rompen.
+Mantel hecho en colaboración con\nun popular autor de libros\nilustrados.\rLos Pokémon dibujados con\ndelicadeza hacen aún más bonita\ncualquier mesa de pícnic.
+Mantel de temática botánica con\nPokémon de tipo Planta. ¿Sabrás\nencontrar al Pokémon que no encaja?
+Mantel de estilo pop-art con caras\nde Pokémon que emergen del\nazul profundo de la noche.\rEs indispensable para los\nfans de los Pokémon Fantasma.
+- - -
+El balón oficial de la academia en\ntamaño reglamentario. Muchos alumnos\ncreen que si lo pateas justo en\rel emblema de la academia,\nsaldrá en línea recta.
+El balón oficial de la academia en\ntamaño reglamentario. Muchos alumnos\ncreen que si lo pateas justo en\rel emblema de la academia,\nsaldrá en línea recta.
+Balón con temática de Marill. Es blando\ny elástico. Antes de lanzarlo, no lo\nconfundas con un Marill de verdad.
+Ovillo de lana pequeño. Está tejido\nbien apretado para no deshacerse,\npero si se deshiciera, al menos\rla lana podría servir\npara algo.
+Balón con temática de ordenadores.\nPuede que no se ilumine como su\ninspiración, pero no pasa desapercibido.
+Un palillo dorado con mucho\nestilo. Usarlo en un bocadillo le da\nun aire de lujo que te dará\rganas de comértelo todo,\naunque no te encante el relleno.
+Un palillo plateado con mucho\nestilo. Usarlo en un bocadillo le da\nun aire de lujo que te dará\rganas de comértelo todo,\naunque no te encante el relleno.
+Este palillo lleva una bandera roja\nque le da un aire de aventura. La\nbandera es de cartulina, así que\rondeará con orgullo aunque no haya viento.
+Este palillo lleva una bandera azul\nque le da un aire de aventura. La\nbandera es de cartulina, así que\rondeará con orgullo aunque no haya viento.
+Un Pikapalillo, por así decirlo,\ncon la expresión habitual de Pikachu.\nEs fácil de agarrar por las orejas,\rlo que en parte explica su éxito.
+Un Pikapalillo, por así decirlo,\ncon la cara de Pikachu guiñando un\nojo. Es fácil de agarrar por las\rorejas, y por eso es tan popular.
+Palillo con diseño de Eevee,\ncon la expresión habitual del\nPokémon. Es fácil de agarrar por las\rorejas, lo que en parte explica\nsu éxito.
+Palillo con diseño de Eevee, con la\ncara sonriente del Pokémon. Es fácil\nde agarrar por las orejas, y por\reso es tan popular.
+Palillo de bocadillo con un sencillo\ndiseño de Poké Ball azul. Lo usan a\nmenudo Entrenadores que eligieron\run Pokémon de tipo Agua como primer compañero.
+- - -
+Conjunto de armadura peculiar que\nhace evolucionar a cierta especie de\nPokémon. Alberga deseos de buen agüero.
+Fragmento de lo que parece ser una\nvieja hoja de algún tipo. Solo lo llevan\nlos Bisharp que lideran grupos de Pawniard.
+- - -
+- - -
+Botella de uso común para las bebidas\nde pícnic. Su diseño sencillo y su\nportabilidad la hacen popular.
+Botella de uso común para las bebidas\nde pícnic. Su diseño sencillo y su\nportabilidad la hacen popular.
+Botella de uso común para las bebidas\nde pícnic. Su diseño sencillo y su\nportabilidad la hacen popular.
+Botella de uso habitual al acampar.\nEl acero inoxidable mantiene la\ntemperatura estable, por lo que es\rperfecta para mantener las bebidas\nfrías o calientes.
+Botella de uso habitual al acampar.\nEl acero inoxidable mantiene la\ntemperatura estable, por lo que es\rperfecta para mantener las bebidas\nfrías o calientes.
+Botella de uso habitual al acampar.\nEl acero inoxidable mantiene la\ntemperatura estable, por lo que es\rperfecta para mantener las bebidas\nfrías o calientes.
+Opción popular entre montañeros. Está\nhecha de titanio, así que no se oxida\naunque se use para bebidas\rcon mucho sodio.
+Vaso igual de bueno en casa que en\nun pícnic. Es ligero, resistente y se\napila bien, así que es\rmuy fácil de guardar y llevar.
+Vaso igual de bueno en casa que en\nun pícnic. Es ligero, resistente y se\napila bien, así que es\rmuy fácil de guardar y llevar.
+Vaso igual de bueno en casa que en\nun pícnic. Es ligero, resistente y se\napila bien, así que es\rmuy fácil de guardar y llevar.
+Vaso que se vende con la Botella\nRosa. No se apilan, así que cuesta\nguardarlos, pero son bonitos\ry populares entre quienes publican\nfotos de pícnic.
+Vaso que se vende con la Botella\nAzul. No se apilan, así que cuesta\nguardarlos, pero son bonitos\ry populares entre quienes publican\nfotos de pícnic.
+Vaso que se vende con la Botella\nAmarilla. No se apilan, así que cuesta\nguardarlos, pero son bonitos, así que\rson populares entre quienes\npublican fotos de pícnic.
+Vaso para los grandes fans de\nPokémon. Los niños beberán de él\nencantados, para alivio de sus padres.
+Vaso para los grandes fans de\nPokémon. Los niños beberán de él\nencantados, para alivio de sus padres.
+Vaso para los grandes fans de\nPokémon. Los niños beberán de él\nencantados, para alivio de sus padres.
+Opción popular entre montañeros. Está\nhecha de titanio, así que no se oxida\naunque se use para bebidas\rcon mucho sodio.
+Balón grande diseñado para hacer\nejercicio. También sirve de asiento\nsi te cansas.
+Mantel resistente de tejido grueso.\nEl alegre cuadro amarillo\nilumina cualquier mesa.
+Mantel resistente de tejido grueso.\nEl suave cuadro azul da a la mesa\nun aire fresco.
+Mantel resistente de tejido grueso.\nEl sobrio cuadro rojo da a la mesa\nun toque de estilo.
+Mantel con un diseño divertido y\nmoderno en blanco y negro con\nPokémon que parecen a punto de\rsaltar de la hierba alta en cualquier momento.
+Mantel llamativo y colorido.\nPonerlo en tu mesa de pícnic\nmotivará a cualquiera que coma allí,\rpersona o Pokémon, a dar lo mejor de sí.
+Mantel diseñado por el Museo de\nCiencia de Ciudad Plateada. Su aire\nacadémico triunfa entre niños y adultos.
+Mantel con un elegante estampado\nde rayas. Repele muy bien el agua y el\nmoho, y las manchas se limpian sin más.
+Mantel con un elegante estampado\nde rombos. Repele muy bien el agua y el\nmoho, y las manchas se limpian sin más.
+Mantel con un elegante estampado\nde lunares. Repele muy bien el agua y el\nmoho, y las manchas se limpian sin más.
+Mantel de color lila claro. Es suave\ny agradable al tacto, y los platos\nse apoyan casi sin hacer ruido.
+Mantel de color menta claro. Es suave\ny agradable al tacto, y los platos\nse apoyan casi sin hacer ruido.
+Mantel de color melocotón claro. Es suave\ny agradable al tacto, y los platos\nse apoyan casi sin hacer ruido.
+Sencillo mantel amarillo. Es suave\ny agradable al tacto, y los platos\nse apoyan casi sin hacer ruido.
+Sencillo mantel azul. Es suave\ny agradable al tacto, y los platos\nse apoyan casi sin hacer ruido.
+Sencillo mantel rosa. Es suave\ny agradable al tacto, y los platos\nse apoyan casi sin hacer ruido.
+Opción popular entre montañeros. Está\nhecha de titanio, así que no se oxida\naunque se use para bebidas\rcon mucho sodio.
+Opción popular entre montañeros. Está\nhecha de titanio, así que no se oxida\naunque se use para bebidas\rcon mucho sodio.
+Opción popular entre montañeros. Está\nhecha de titanio, así que no se oxida\naunque se use para bebidas\rcon mucho sodio.
+Opción popular entre montañeros. Está\nhecha de titanio, así que no se oxida\naunque se use para bebidas\rcon mucho sodio.
+Palillo de bocadillo con un sencillo\ndiseño de Poké Ball verde. Lo usan a\nmenudo Entrenadores que eligieron\run Pokémon de tipo Planta como primer compañero.
+Palillo de bocadillo con un sencillo\ndiseño de Poké Ball roja. Lo usan a menudo\nEntrenadores que eligieron un Pokémon de tipo Fuego.
+Este palillo incluye una pequeña bengala\nque se enciende sola.\nSe usa en fiestas o para invitados de honor.\rDeja un aroma curiosamente\natractivo al apagarse.
+Un palillo diseñado para ser lo más\nguay. Cuando termines de comer, puedes\nimaginar que eres un héroe de leyenda.\rEn las tiendas de recuerdos de los sitios\nturísticos se venden, por algún motivo.
+Palillo con forma de varita mágica.\nQuizá la verdadera magia sea el deseo\nde quien cocina de que el plato esté rico.
+Palillo con forma de varita mágica.\nQuizá la verdadera magia sea el deseo\nde quien cocina de que el plato esté rico.
+Algunos se quejan de que la parte del\nparasol de este palillo es difícil de\nagarrar y te manchas los dedos.\rAun así, es divertido hacerlo girar\ncuando terminas de comer.
+Palillo con forma de flor inspirado\nen un cielo azul. Forma parte de los\npalillos “flor del cielo”.\rUsar varios garantiza\nun ambiente de pícnic único.
+Palillo con forma de flor inspirado\nen un atardecer llameante. Forma parte\nde los palillos “flor del cielo”.\rUsar varios garantiza\nun ambiente de pícnic único.
+Palillo con forma de flor inspirado\nen un amanecer glorioso. Forma parte\nde los palillos “flor del cielo”.\rUsar varios garantiza\nun ambiente de pícnic único.
+Plato para pícnic.\nDisponible en muchos colores según\nla comida o el ánimo.\rLa variedad azul es una apuesta\nsegura en ventas.
+Plato para pícnic.\nDisponible en muchos colores según\nla comida o el ánimo.\rLa variedad verde es muy popular.
+Plato para pícnic.\nDisponible en muchos colores según\nla comida o el ánimo.\rLa variedad naranja es la más\npopular de todas.
+Plato para pícnic.\nDisponible en muchos colores según\nla comida o el ánimo.\rLa variedad roja nunca falla en ventas.
+Plato para pícnic.\nDisponible en muchos colores según\nla comida o el ánimo.\rLos vendedores recomiendan\nla variedad blanca.
+Plato para pícnic.\nDisponible en muchos colores según\nla comida o el ánimo.\rCon la variedad amarilla es\nimposible fallar.
+Objeto que debe llevar un Pokémon.\nEsta pluma, que brilla débilmente con la\nluz, potencia los movimientos de Hada.
+Manzana peculiar que hace\nevolucionar a cierta especie de\nPokémon. Es excepcionalmente empalagosa.
+Taza que hace evolucionar a cierta\nespecie de Pokémon. Puede estar\nagrietada, pero su té está delicioso.
+Taza que hace evolucionar a cierta\nespecie de Pokémon. Puede estar\ndesconchada, pero su té está delicioso.
+Máscara verde azulada inspirada en\nla cara de un ogro. Ogerpon la perdió al\nsubir las escaleras tras el Festival de Máscaras.
+Objeto que debe llevar Ogerpon. Esta\nmáscara de madera está adornada con\ncristales y le permite usar el tipo Roca.
+Objeto que debe llevar Ogerpon. Esta\nmáscara de madera está adornada con\ncristales y le permite usar el tipo Agua.
+Objeto que debe llevar Ogerpon. Esta\nmáscara de madera está adornada con\ncristales y le permite usar el tipo Fuego.
+Tener una de estas tarjetas amplía\nla selección disponible en boutiques\ny peluquerías.
+Conjunto de cristales\nhallados en la\nFuente Cristal.\rBrillan intensamente y al parecer\nson necesarios para reparar\ncierta máscara.
+Mochi con Bayas amasadas en la masa.\nAumenta los puntos base de la\nestadística de PS.
+Mochi con Bayas amasadas en la masa.\nAumenta los puntos base de la\nestadística de Ataque.
+Mochi con Bayas amasadas en la masa.\nAumenta los puntos base de la\nestadística de Defensa.
+Mochi con Bayas amasadas en la masa.\nAumenta los puntos base de la\nestadística de Ata. Especial.
+Mochi con Bayas amasadas en la masa.\nAumenta los puntos base de la\nestadística de Def. Especial.
+Mochi con Bayas amasadas en la masa.\nAumenta los puntos base de la\nestadística de Velocidad.
+Juego de sillas ideales para hacer\npícnic. Tienen un diseño sencillo que\nresiste la suciedad y los golpes.
+Juego de sillas ideales para hacer\npícnic. Su diseño se inspira en el\nMantel de la Academia.
+Juego de sillas ideales para hacer\npícnic. Su diseño se inspira en el\nMantel de la Academia.
+Juego de sillas ideales para hacer\npícnic. Su diseño se inspira en el\nMantel Caprichoso.
+Juego de sillas ideales para hacer\npícnic. Su diseño se inspira en el\nMantel de Hojarasca.
+Juego de sillas ideales para hacer\npícnic. Su diseño se inspira en el\nMantel Espeluznante.
+Juego de sillas ideales para hacer\npícnic. Su diseño se inspira en el\nMantel de Cuadros Amarillos.
+Juego de sillas ideales para hacer\npícnic. Su diseño se inspira en el\nMantel de Cuadros Azules.
+Juego de sillas ideales para hacer\npícnic. Su diseño se inspira en el\nMantel de Cuadros Rojos.
+Juego de sillas ideales para hacer\npícnic. Su diseño se inspira en el\nMantel de Hierba en B&N.
+Juego de sillas ideales para hacer\npícnic. Su diseño se inspira en el\nMantel de Combate.
+Juego de sillas ideales para hacer\npícnic. Su diseño se inspira en el\nMantel Monstruoso.
+Juego de sillas ideales para hacer\npícnic. Su diseño se inspira en el\nMantel de Rayas.
+Juego de sillas ideales para hacer\npícnic. Su diseño se inspira en el\nMantel de Rombos.
+Juego de sillas ideales para hacer\npícnic. Su diseño se inspira en el\nMantel de Lunares.
+Juego de sillas ideales para hacer\npícnic. Su diseño se inspira en el\nMantel Lila.
+Juego de sillas ideales para hacer\npícnic. Su diseño se inspira en el\nMantel Menta.
+Juego de sillas ideales para hacer\npícnic. Su diseño se inspira en el\nMantel Melocotón.
+Juego de sillas ideales para hacer\npícnic. Su diseño se inspira en el\nMantel Amarillo.
+Juego de sillas ideales para hacer\npícnic. Su diseño se inspira en el\nMantel Azul.
+Juego de sillas ideales para hacer\npícnic. Su diseño se inspira en el\nMantel Rosa.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Mochi con Bayas amasadas en la masa.\nHace que un Pokémon pierda\ntodos sus puntos base.
+Palo para sujetar un Rotomóvil.\nPermite hacerte selfis desde un poco\nmás lejos que si lo sujetas tú.
+Tener uno de estos misteriosos amuletos\nrelucientes aumenta el número de Fragmentos\nTera que recibes en las incursiones tera.
+Metal peculiar que hace evolucionar a\nciertas especies de Pokémon.\nEstá compuesto por muchas capas.
+Tener una de estas tarjetas amplía\nla selección disponible en boutiques\ny peluquerías.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Material que un Pokémon deja caer\nsin querer.\nSirve para fabricar MT.
+Aperitivo hecho con ingredientes que\ngustan al Pokémon legendario Articuno.
+Aperitivo hecho con ingredientes que\ngustan al Pokémon legendario Zapdos.
+Aperitivo hecho con ingredientes que\ngustan al Pokémon legendario Moltres.
+Aperitivo hecho con ingredientes que\ngustan al Pokémon legendario Raikou.
+Aperitivo hecho con ingredientes que\ngustan al Pokémon legendario Entei.
+Aperitivo hecho con ingredientes que\ngustan al Pokémon legendario Suicune.
+Aperitivo hecho con ingredientes que\ngustan al Pokémon legendario Lugia.
+Aperitivo hecho con ingredientes que\ngustan al Pokémon legendario Ho-Oh.
+Aperitivo hecho con ingredientes que\ngustan al Pokémon legendario Latias.
+Aperitivo hecho con ingredientes que\ngustan al Pokémon legendario Latios.
+Aperitivo hecho con ingredientes que\ngustan al Pokémon legendario Kyogre.
+Aperitivo hecho con ingredientes que\ngustan al Pokémon legendario Groudon.
+Aperitivo hecho con ingredientes que\ngustan al Pokémon legendario Rayquaza.
+Aperitivo hecho con ingredientes que\ngustan al Pokémon legendario Cobalion.
+Aperitivo hecho con ingredientes que\ngustan al Pokémon legendario Terrakion.
+Aperitivo hecho con ingredientes que\ngustan al Pokémon legendario Virizion.
+Aperitivo hecho con ingredientes que\ngustan al Pokémon legendario Reshiram.
+Aperitivo hecho con ingredientes que\ngustan al Pokémon legendario Zekrom.
+Aperitivo hecho con ingredientes que\ngustan al Pokémon legendario Kyurem.
+Aperitivo hecho con ingredientes que\ngustan al Pokémon legendario Solgaleo.
+Aperitivo hecho con ingredientes que\ngustan al Pokémon legendario Lunala.
+Aperitivo hecho con ingredientes que\ngustan al Pokémon legendario Necrozma.
+Aperitivo hecho con ingredientes que\ngustan al Pokémon legendario Kubfu.
+Aperitivo hecho con ingredientes que\ngustan al Pokémon legendario Glastrier.
+Aperitivo hecho con ingredientes que\ngustan al Pokémon legendario Spectrier.
+Misterioso disco con brillo añil que te\nentregó el Campeón de la Liga.\nParece estar ligado al Área Cero.
+Palillo con diseño de Magmortar. Dicen\nque usarlo hace que cualquier bocadillo\nparezca recién salido del horno.
+En raras ocasiones, estos fragmentos\nse forman al caer en combate un\nPokémon tera y romperse su joya tera.
+Una Baya Meloc de la mejor calidad.\nSe dice que un árbol cuidado por un\nexperto jardinero\rproduce solo una de estas Bayas\ncada pocos años.
+El mantel oficial de la Academia\nArándano, hecho con la última tecnología\nde fibras.\rResiste el calor y es tan duro que ni\nunas Garras Afiladas lo rompen.
+Juego de sillas ideales para hacer\npícnic. Su diseño se inspira en el\nMantel de Arándano.
+Dispositivo que sincroniza tu mente y\ntus sentimientos con los de tu Pokémon\npara que actuéis como uno solo.\rSigue siendo un prototipo: de ahí\nsu aspecto poco refinado.
+Roca que cayó a la Tierra desde el\nespacio. Está caliente al tacto. Cambia\nla forma de cierta especie de Pokémon.
+Crónica de una expedición al Gran\nCráter de Paldea que te entregó la\nprofesora Sada.\rEl libro lleva escrito el nombre “Sada”\ncon una caligrafía torpe.
+Crónica de una expedición al Gran\nCráter de Paldea que te entregó el\nprofesor Turo.\rEl libro lleva escrito el nombre “Turo”\ncon una caligrafía torpe.
+Copia de prueba de las notas de\nexploración sobre las Profundidades\ndel Área Cero.\rEstá llena de largos párrafos que\ndescriben lo ocurrido, junto con\nlos pensamientos de Briar.
 TEMP
-A variety of the mysterious Mega Stones.\nA Clefable holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Victreebel holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Starmie holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Dragonite holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Meganium holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Feraligatr holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Skarmory holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Froslass holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Heatran holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Darkrai holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Emboar holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Excadrill holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Scolipede holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Scrafty holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Eelektross holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Chandelure holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Chesnaught holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Delphox holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Greninja holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Pyroar holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Floette holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Malamar holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Barbaracle holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Dragalge holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Hawlucha holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Zygarde holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Drampa holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Falinks holding this stone will be\nable to Mega Evolve during battle.
+Una de las misteriosas Megapiedras.\nSi A Clefable lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Victreebel lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Starmie lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Dragonite lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Meganium lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Feraligatr lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Skarmory lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Froslass lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Heatran lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Darkrai lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Emboar lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Excadrill lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Scolipede lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Scrafty lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Eelektross lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Chandelure lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Chesnaught lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Delphox lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Greninja lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Pyroar lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Floette lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Malamar lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Barbaracle lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Dragalge lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Hawlucha lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Zygarde lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Drampa lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Falinks lleva esta piedra, podrá\nmega evolucionar en combate.
 TEMP
 TEMP
 TEMP
@@ -800,22 +800,22 @@ TEMP
 TEMP
 TEMP
 TEMP
-A variety of the mysterious Mega Stones.\nA Raichu holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Raichu holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Chimecho holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nAn Absol holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Staraptor holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Garchomp holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Lucario holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Golurk holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Meowstic holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Crabominable holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Golisopod holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Magearna holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Scovillain holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Baxcalibur holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Tatsugiri holding this stone will be\nable to Mega Evolve during battle.
-A variety of the mysterious Mega Stones.\nA Glimmora holding this stone will be\nable to Mega Evolve during battle.
+Una de las misteriosas Megapiedras.\nSi A Raichu lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Raichu lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Chimecho lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi An Absol lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Staraptor lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Garchomp lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Lucario lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Golurk lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Meowstic lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Crabominable lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Golisopod lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Magearna lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Scovillain lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Baxcalibur lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Tatsugiri lleva esta piedra, podrá\nmega evolucionar en combate.
+Una de las misteriosas Megapiedras.\nSi A Glimmora lleva esta piedra, podrá\nmega evolucionar en combate.
 TEMP
 TEMP
 TEMP

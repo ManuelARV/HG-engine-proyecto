@@ -1,137 +1,137 @@
-a {COLOR 255}Weakness Policy{COLOR 0}
-an {COLOR 255}Assault Vest{COLOR 0}
-a {COLOR 255}Holo Caster{COLOR 0}
-a {COLOR 255}Prof’s Letter{COLOR 0}
-the {COLOR 255}pair of Roller Skates{COLOR 0}
-a {COLOR 255}Pixie Plate{COLOR 0}
-an {COLOR 255}Ability Capsule{COLOR 0}
-a {COLOR 255}dollop of Whipped Dream{COLOR 0}
-a {COLOR 255}Sachet{COLOR 0}
-a {COLOR 255}clump of Luminous Moss{COLOR 0}
-a {COLOR 255}Snowball{COLOR 0}
-the {COLOR 255}pair of Safety Goggles{COLOR 0}
-a {COLOR 255}Poké Flute{COLOR 0}
-a {COLOR 255}bag of Rich Mulch{COLOR 0}
-a {COLOR 255}bag of Surprise Mulch{COLOR 0}
-a {COLOR 255}bag of Boost Mulch{COLOR 0}
-a {COLOR 255}bag of Amaze Mulch{COLOR 0}
-a {COLOR 255}Gengarite{COLOR 0}
-a {COLOR 255}Gardevoirite{COLOR 0}
-an {COLOR 255}Ampharosite{COLOR 0}
-a {COLOR 255}Venusaurite{COLOR 0}
-a {COLOR 255}Charizardite X{COLOR 0}
-a {COLOR 255}Blastoisinite{COLOR 0}
-a {COLOR 255}Mewtwonite X{COLOR 0}
-a {COLOR 255}Mewtwonite Y{COLOR 0}
-a {COLOR 255}Blazikenite{COLOR 0}
-a {COLOR 255}Medichamite{COLOR 0}
-a {COLOR 255}Houndoominite{COLOR 0}
-an {COLOR 255}Aggronite{COLOR 0}
-a {COLOR 255}Banettite{COLOR 0}
-a {COLOR 255}Tyranitarite{COLOR 0}
-a {COLOR 255}Scizorite{COLOR 0}
-a {COLOR 255}Pinsirite{COLOR 0}
-an {COLOR 255}Aerodactylite{COLOR 0}
-a {COLOR 255}Lucarionite{COLOR 0}
-an {COLOR 255}Abomasite{COLOR 0}
-a {COLOR 255}Kangaskhanite{COLOR 0}
-a {COLOR 255}Gyaradosite{COLOR 0}
-an {COLOR 255}Absolite{COLOR 0}
-a {COLOR 255}Charizardite Y{COLOR 0}
-an {COLOR 255}Alakazite{COLOR 0}
-a {COLOR 255}Heracronite{COLOR 0}
-a {COLOR 255}Mawilite{COLOR 0}
-a {COLOR 255}Manectite{COLOR 0}
-a {COLOR 255}Garchompite{COLOR 0}
-a {COLOR 255}Latiasite{COLOR 0}
-a {COLOR 255}Latiosite{COLOR 0}
-a {COLOR 255}Roseli Berry{COLOR 0}
-a {COLOR 255}Kee Berry{COLOR 0}
-a {COLOR 255}Maranga Berry{COLOR 0}
-a {COLOR 255}Sprinklotad{COLOR 0}
-a {COLOR 255}TM096{COLOR 0}
-a {COLOR 255}TM097{COLOR 0}
-a {COLOR 255}TM098{COLOR 0}
-a {COLOR 255}TM099{COLOR 0}
-a {COLOR 255}TM100{COLOR 0}
-a {COLOR 255}Power Plant Pass{COLOR 0}
-a {COLOR 255}Mega Ring{COLOR 0}
-an {COLOR 255}Intriguing Stone{COLOR 0}
-a {COLOR 255}Common Stone{COLOR 0}
-a {COLOR 255}Discount Coupon{COLOR 0}
-an {COLOR 255}Elevator Key{COLOR 0}
-a {COLOR 255}TMV Pass{COLOR 0}
-an {COLOR 255}Honor of Kalos emblem{COLOR 0}
-an {COLOR 255}Adventure Guide{COLOR 0}
-a {COLOR 255}Strange Souvenir{COLOR 0}
-a {COLOR 255}Lens Case{COLOR 0}
-a {COLOR 255}Makeup Bag{COLOR 0}
-a {COLOR 255}Travel Trunk{COLOR 0}
-a {COLOR 255}Lumiose Galette{COLOR 0}
-a {COLOR 255}Shalour Sable{COLOR 0}
-a {COLOR 255}Jaw Fossil{COLOR 0}
-a {COLOR 255}Sail Fossil{COLOR 0}
-a {COLOR 255}Looker Ticket{COLOR 0}
-a {COLOR 255}Bike{COLOR 0}
-a {COLOR 255}Holo Caster{COLOR 0}
-a {COLOR 255}Fairy Gem{COLOR 0}
-a {COLOR 255}Mega Charm{COLOR 0}
-a {COLOR 255}Mega Glove{COLOR 0}
-a {COLOR 255}Mach Bike{COLOR 0}
-an {COLOR 255}Acro Bike{COLOR 0}
-a {COLOR 255}Wailmer Pail{COLOR 0}
-the {COLOR 255}case of Devon Parts{COLOR 0}
-a {COLOR 255}Soot Sack{COLOR 0}
-a {COLOR 255}Basement Key{COLOR 0}
-a {COLOR 255}Pokéblock Kit{COLOR 0}
-a {COLOR 255}Letter{COLOR 0}
-an {COLOR 255}Eon Ticket{COLOR 0}
-a {COLOR 255}Scanner{COLOR 0}
-the {COLOR 255}pair of Go-Goggles{COLOR 0}
-a {COLOR 255}Meteorite{COLOR 0}
-a {COLOR 255}Key to Room 1{COLOR 0}
-a {COLOR 255}Key to Room 2{COLOR 0}
-a {COLOR 255}Key to Room 4{COLOR 0}
-a {COLOR 255}Key to Room 6{COLOR 0}
-a {COLOR 255}Storage Key{COLOR 0}
-a {COLOR 255}Devon Scope{COLOR 0}
-an {COLOR 255}S.S. Ticket{COLOR 0}
-an {COLOR 255}HM07{COLOR 0}
-a {COLOR 255}set of Devon Scuba Gear{COLOR 0}
-a {COLOR 255}Contest Costume{COLOR 0}
-a {COLOR 255}Contest Costume{COLOR 0}
-a {COLOR 255}Magma Suit{COLOR 0}
-an {COLOR 255}Aqua Suit{COLOR 0}
-the {COLOR 255}Pair of Tickets{COLOR 0}
-a {COLOR 255}Mega Bracelet{COLOR 0}
-a {COLOR 255}Mega Pendant{COLOR 0}
-the {COLOR 255}pair of Mega Glasses{COLOR 0}
-a {COLOR 255}Mega Anchor{COLOR 0}
-a {COLOR 255}Mega Stickpin{COLOR 0}
-a {COLOR 255}Mega Tiara{COLOR 0}
-a {COLOR 255}Mega Anklet{COLOR 0}
-a {COLOR 255}Meteorite{COLOR 0}
-a {COLOR 255}Swampertite{COLOR 0}
-a {COLOR 255}Sceptilite{COLOR 0}
-a {COLOR 255}Sablenite{COLOR 0}
-an {COLOR 255}Altarianite{COLOR 0}
-a {COLOR 255}Galladite{COLOR 0}
-an {COLOR 255}Audinite{COLOR 0}
-a {COLOR 255}Metagrossite{COLOR 0}
-a {COLOR 255}Sharpedonite{COLOR 0}
-a {COLOR 255}Slowbronite{COLOR 0}
-a {COLOR 255}Steelixite{COLOR 0}
-a {COLOR 255}Pidgeotite{COLOR 0}
-a {COLOR 255}Glalitite{COLOR 0}
-a {COLOR 255}Diancite{COLOR 0}
-a {COLOR 255}Prison Bottle{COLOR 0}
-a {COLOR 255}Mega Cuff{COLOR 0}
-a {COLOR 255}Cameruptite{COLOR 0}
-a {COLOR 255}Lopunnite{COLOR 0}
-a {COLOR 255}Salamencite{COLOR 0}
-a {COLOR 255}Beedrillite{COLOR 0}
-a {COLOR 255}Meteorite{COLOR 0}
-a {COLOR 255}Meteorite{COLOR 0}
-a {COLOR 255}Key Stone{COLOR 0}
-a {COLOR 255}Meteorite Shard{COLOR 0}
-an {COLOR 255}Eon Flute{COLOR 0}
+un {COLOR 255}Seguro debilidad{COLOR 0}
+un {COLOR 255}Chaleco asalto{COLOR 0}
+un {COLOR 255}Holomisor{COLOR 0}
+una {COLOR 255}Carta profesor{COLOR 0}
+un {COLOR 255}par de Patines{COLOR 0}
+una {COLOR 255}Tabla duende{COLOR 0}
+una {COLOR 255}Cápsula habilidad{COLOR 0}
+una {COLOR 255}cucharada de Dulce de nata{COLOR 0}
+un {COLOR 255}Saquito fragante{COLOR 0}
+una {COLOR 255}mata de Musgo brillante{COLOR 0}
+una {COLOR 255}Bola de nieve{COLOR 0}
+un {COLOR 255}par de Gafa protectora{COLOR 0}
+una {COLOR 255}Pokéflauta{COLOR 0}
+una {COLOR 255}bolsa de Abono fértil{COLOR 0}
+una {COLOR 255}bolsa de Abono sorpresa{COLOR 0}
+una {COLOR 255}bolsa de Abono fructífero{COLOR 0}
+una {COLOR 255}bolsa de Abono insólito{COLOR 0}
+una {COLOR 255}Gengarita{COLOR 0}
+una {COLOR 255}Gardevoirita{COLOR 0}
+una {COLOR 255}Ampharosita{COLOR 0}
+una {COLOR 255}Venusaurita{COLOR 0}
+una {COLOR 255}Charizardita X{COLOR 0}
+una {COLOR 255}Blastoisita{COLOR 0}
+una {COLOR 255}Mewtwoita X{COLOR 0}
+una {COLOR 255}Mewtwoita Y{COLOR 0}
+una {COLOR 255}Blazikenita{COLOR 0}
+una {COLOR 255}Medichamita{COLOR 0}
+una {COLOR 255}Houndoomita{COLOR 0}
+una {COLOR 255}Aggronita{COLOR 0}
+una {COLOR 255}Banettita{COLOR 0}
+una {COLOR 255}Tyranitarita{COLOR 0}
+una {COLOR 255}Scizorita{COLOR 0}
+una {COLOR 255}Pinsirita{COLOR 0}
+una {COLOR 255}Aerodactylita{COLOR 0}
+una {COLOR 255}Lucarita{COLOR 0}
+una {COLOR 255}Abomasnowita{COLOR 0}
+una {COLOR 255}Kangaskhanita{COLOR 0}
+una {COLOR 255}Gyaradosita{COLOR 0}
+una {COLOR 255}Absolita{COLOR 0}
+una {COLOR 255}Charizardita Y{COLOR 0}
+una {COLOR 255}Alakazamita{COLOR 0}
+una {COLOR 255}Heracrossita{COLOR 0}
+una {COLOR 255}Mawilita{COLOR 0}
+una {COLOR 255}Manectricita{COLOR 0}
+una {COLOR 255}Garchompita{COLOR 0}
+una {COLOR 255}Latiasita{COLOR 0}
+una {COLOR 255}Latiosita{COLOR 0}
+una {COLOR 255}Baya Hibis{COLOR 0}
+una {COLOR 255}Baya Biglia{COLOR 0}
+una {COLOR 255}Baya Maranga{COLOR 0}
+una {COLOR 255}Lotadgadera{COLOR 0}
+un {COLOR 255}MT096{COLOR 0}
+un {COLOR 255}MT097{COLOR 0}
+un {COLOR 255}MT098{COLOR 0}
+un {COLOR 255}MT099{COLOR 0}
+un {COLOR 255}MT100{COLOR 0}
+un {COLOR 255}Pase de la central{COLOR 0}
+un {COLOR 255}Mega-aro{COLOR 0}
+una {COLOR 255}Piedra insólita{COLOR 0}
+una {COLOR 255}Piedra común{COLOR 0}
+un {COLOR 255}Vale de descuento{COLOR 0}
+una {COLOR 255}Llave del ascensor{COLOR 0}
+un {COLOR 255}Abono del TMV{COLOR 0}
+un {COLOR 255}emblema de Emblema de Kalos{COLOR 0}
+una {COLOR 255}Guía de aventura{COLOR 0}
+una {COLOR 255}Estatuilla rara{COLOR 0}
+un {COLOR 255}Portalentillas{COLOR 0}
+un {COLOR 255}Kit maquillaje{COLOR 0}
+una {COLOR 255}Maleta{COLOR 0}
+un {COLOR 255}Crêpe Luminalia{COLOR 0}
+una {COLOR 255}Galleta Yantra{COLOR 0}
+un {COLOR 255}Fósil mandíbula{COLOR 0}
+un {COLOR 255}Fósil aleta{COLOR 0}
+un {COLOR 255}Boleto Handsome{COLOR 0}
+un {COLOR 255}Bici{COLOR 0}
+un {COLOR 255}Holomisor{COLOR 0}
+una {COLOR 255}Gema hada{COLOR 0}
+un {COLOR 255}Megacolgante{COLOR 0}
+un {COLOR 255}Megaguante{COLOR 0}
+un {COLOR 255}Bici de carreras{COLOR 0}
+un {COLOR 255}Bici acrobática{COLOR 0}
+una {COLOR 255}Wailmegadera{COLOR 0}
+una {COLOR 255}caja de Piezas Devon{COLOR 0}
+un {COLOR 255}Saco hollín{COLOR 0}
+una {COLOR 255}Llave del Sótano{COLOR 0}
+un {COLOR 255}Kit de Pokécubos{COLOR 0}
+una {COLOR 255}Carta a Máximo{COLOR 0}
+un {COLOR 255}Ticket eón{COLOR 0}
+un {COLOR 255}Escáner{COLOR 0}
+un {COLOR 255}par de Gafas aislantes{COLOR 0}
+un {COLOR 255}Meteorito{COLOR 0}
+una {COLOR 255}Llave habitación 1{COLOR 0}
+una {COLOR 255}Llave habitación 2{COLOR 0}
+una {COLOR 255}Llave habitación 4{COLOR 0}
+una {COLOR 255}Llave habitación 6{COLOR 0}
+una {COLOR 255}Llave del almacén{COLOR 0}
+un {COLOR 255}Detector Devon{COLOR 0}
+un {COLOR 255}Ticket del barco{COLOR 0}
+un {COLOR 255}MO07{COLOR 0}
+un {COLOR 255}juego de Bombona Devon{COLOR 0}
+un {COLOR 255}Traje de gala{COLOR 0}
+un {COLOR 255}Vestido de gala{COLOR 0}
+un {COLOR 255}Traje Magma{COLOR 0}
+un {COLOR 255}Traje Aqua{COLOR 0}
+la {COLOR 255}Entrada para dos{COLOR 0}
+una {COLOR 255}Megapulsera{COLOR 0}
+un {COLOR 255}Megacollar{COLOR 0}
+un {COLOR 255}par de Megagafas{COLOR 0}
+una {COLOR 255}Megaancla{COLOR 0}
+un {COLOR 255}Megabroche{COLOR 0}
+una {COLOR 255}Megatiara{COLOR 0}
+una {COLOR 255}Megatobillera{COLOR 0}
+un {COLOR 255}Meteorito{COLOR 0}
+una {COLOR 255}Swampertita{COLOR 0}
+una {COLOR 255}Sceptilita{COLOR 0}
+una {COLOR 255}Sableynita{COLOR 0}
+una {COLOR 255}Altarianita{COLOR 0}
+una {COLOR 255}Galladita{COLOR 0}
+una {COLOR 255}Audinita{COLOR 0}
+una {COLOR 255}Metagrossita{COLOR 0}
+una {COLOR 255}Sharpedonita{COLOR 0}
+una {COLOR 255}Slowbronita{COLOR 0}
+una {COLOR 255}Steelixita{COLOR 0}
+una {COLOR 255}Pidgeotita{COLOR 0}
+una {COLOR 255}Glalita{COLOR 0}
+una {COLOR 255}Diancita{COLOR 0}
+una {COLOR 255}Vasija castigo{COLOR 0}
+un {COLOR 255}Megabrazalete{COLOR 0}
+una {COLOR 255}Cameruptita{COLOR 0}
+una {COLOR 255}Lopunnita{COLOR 0}
+una {COLOR 255}Salamencita{COLOR 0}
+una {COLOR 255}Beedrillita{COLOR 0}
+un {COLOR 255}Meteorito{COLOR 0}
+un {COLOR 255}Meteorito{COLOR 0}
+una {COLOR 255}Piedra activadora{COLOR 0}
+un {COLOR 255}Fragmento meteorito{COLOR 0}
+una {COLOR 255}Flauta eón{COLOR 0}

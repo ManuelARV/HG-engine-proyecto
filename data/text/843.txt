@@ -1,285 +1,285 @@
-a {COLOR 255}Normalium Z{COLOR 0}
-a {COLOR 255}Firium Z{COLOR 0}
-a {COLOR 255}Waterium Z{COLOR 0}
-an {COLOR 255}Electrium Z{COLOR 0}
-a {COLOR 255}Grassium Z{COLOR 0}
-an {COLOR 255}Icium Z{COLOR 0}
-a {COLOR 255}Fightinium Z{COLOR 0}
-a {COLOR 255}Poisonium Z{COLOR 0}
-a {COLOR 255}Groundium Z{COLOR 0}
-a {COLOR 255}Flyinium Z{COLOR 0}
-a {COLOR 255}Psychium Z{COLOR 0}
-a {COLOR 255}Buginium Z{COLOR 0}
-a {COLOR 255}Rockium Z{COLOR 0}
-a {COLOR 255}Ghostium Z{COLOR 0}
-a {COLOR 255}Dragonium Z{COLOR 0}
-a {COLOR 255}Darkinium Z{COLOR 0}
-a {COLOR 255}Steelium Z{COLOR 0}
-a {COLOR 255}Fairium Z{COLOR 0}
-a {COLOR 255}Pikanium Z{COLOR 0}
-a {COLOR 255}Bottle Cap{COLOR 0}
-a {COLOR 255}Gold Bottle Cap{COLOR 0}
-a {COLOR 255}Z-Ring{COLOR 0}
-a {COLOR 255}Decidium Z{COLOR 0}
-an {COLOR 255}Incinium Z{COLOR 0}
-a {COLOR 255}Primarium Z{COLOR 0}
-a {COLOR 255}Tapunium Z{COLOR 0}
-a {COLOR 255}Marshadium Z{COLOR 0}
-an {COLOR 255}Aloraichium Z{COLOR 0}
-a {COLOR 255}Snorlium Z{COLOR 0}
-an {COLOR 255}Eevium Z{COLOR 0}
-a {COLOR 255}Mewnium Z{COLOR 0}
-a {COLOR 255}Normalium Z{COLOR 0}
-a {COLOR 255}Firium Z{COLOR 0}
-a {COLOR 255}Waterium Z{COLOR 0}
-an {COLOR 255}Electrium Z{COLOR 0}
-a {COLOR 255}Grassium Z{COLOR 0}
-an {COLOR 255}Icium Z{COLOR 0}
-a {COLOR 255}Fightinium Z{COLOR 0}
-a {COLOR 255}Poisonium Z{COLOR 0}
-a {COLOR 255}Groundium Z{COLOR 0}
-a {COLOR 255}Flyinium Z{COLOR 0}
-a {COLOR 255}Psychium Z{COLOR 0}
-a {COLOR 255}Buginium Z{COLOR 0}
-a {COLOR 255}Rockium Z{COLOR 0}
-a {COLOR 255}Ghostium Z{COLOR 0}
-a {COLOR 255}Dragonium Z{COLOR 0}
-a {COLOR 255}Darkinium Z{COLOR 0}
-a {COLOR 255}Steelium Z{COLOR 0}
-a {COLOR 255}Fairium Z{COLOR 0}
-a {COLOR 255}Pikanium Z{COLOR 0}
-a {COLOR 255}Decidium Z{COLOR 0}
-an {COLOR 255}Incinium Z{COLOR 0}
-a {COLOR 255}Primarium Z{COLOR 0}
-a {COLOR 255}Tapunium Z{COLOR 0}
-a {COLOR 255}Marshadium Z{COLOR 0}
-an {COLOR 255}Aloraichium Z{COLOR 0}
-a {COLOR 255}Snorlium Z{COLOR 0}
-an {COLOR 255}Eevium Z{COLOR 0}
-a {COLOR 255}Mewnium Z{COLOR 0}
-a {COLOR 255}Pikashunium Z{COLOR 0}
-a {COLOR 255}Pikashunium Z{COLOR 0}
+un {COLOR 255}Normastal Z{COLOR 0}
+un {COLOR 255}Pirostal Z{COLOR 0}
+un {COLOR 255}Hidrostal Z{COLOR 0}
+un {COLOR 255}Electrostal Z{COLOR 0}
+un {COLOR 255}Fitostal Z{COLOR 0}
+un {COLOR 255}Criostal Z{COLOR 0}
+un {COLOR 255}Lizastal Z{COLOR 0}
+un {COLOR 255}Toxistal Z{COLOR 0}
+un {COLOR 255}Geostal Z{COLOR 0}
+un {COLOR 255}Aerostal Z{COLOR 0}
+un {COLOR 255}Psicostal Z{COLOR 0}
+un {COLOR 255}Insectostal Z{COLOR 0}
+un {COLOR 255}Litostal Z{COLOR 0}
+un {COLOR 255}Espectrostal Z{COLOR 0}
+un {COLOR 255}Dracostal Z{COLOR 0}
+un {COLOR 255}Nictostal Z{COLOR 0}
+un {COLOR 255}Metalostal Z{COLOR 0}
+un {COLOR 255}Feeristal Z{COLOR 0}
+un {COLOR 255}Pikastal Z{COLOR 0}
+una {COLOR 255}Tapa Plateada{COLOR 0}
+una {COLOR 255}Tapa Dorada{COLOR 0}
+una {COLOR 255}Pulsera Z{COLOR 0}
+un {COLOR 255}Dueyestal Z{COLOR 0}
+un {COLOR 255}Incinostal Z{COLOR 0}
+un {COLOR 255}Primastal Z{COLOR 0}
+un {COLOR 255}Tapistal Z{COLOR 0}
+un {COLOR 255}Marshastal Z{COLOR 0}
+un {COLOR 255}Alo-Raistal Z{COLOR 0}
+un {COLOR 255}Snorlastal Z{COLOR 0}
+un {COLOR 255}Eeveestal Z{COLOR 0}
+un {COLOR 255}Mewstal Z{COLOR 0}
+un {COLOR 255}Normastal Z{COLOR 0}
+un {COLOR 255}Pirostal Z{COLOR 0}
+un {COLOR 255}Hidrostal Z{COLOR 0}
+un {COLOR 255}Electrostal Z{COLOR 0}
+un {COLOR 255}Fitostal Z{COLOR 0}
+un {COLOR 255}Criostal Z{COLOR 0}
+un {COLOR 255}Lizastal Z{COLOR 0}
+un {COLOR 255}Toxistal Z{COLOR 0}
+un {COLOR 255}Geostal Z{COLOR 0}
+un {COLOR 255}Aerostal Z{COLOR 0}
+un {COLOR 255}Psicostal Z{COLOR 0}
+un {COLOR 255}Insectostal Z{COLOR 0}
+un {COLOR 255}Litostal Z{COLOR 0}
+un {COLOR 255}Espectrostal Z{COLOR 0}
+un {COLOR 255}Dracostal Z{COLOR 0}
+un {COLOR 255}Nictostal Z{COLOR 0}
+un {COLOR 255}Metalostal Z{COLOR 0}
+un {COLOR 255}Feeristal Z{COLOR 0}
+un {COLOR 255}Pikastal Z{COLOR 0}
+un {COLOR 255}Dueyestal Z{COLOR 0}
+un {COLOR 255}Incinostal Z{COLOR 0}
+un {COLOR 255}Primastal Z{COLOR 0}
+un {COLOR 255}Tapistal Z{COLOR 0}
+un {COLOR 255}Marshastal Z{COLOR 0}
+un {COLOR 255}Alo-Raistal Z{COLOR 0}
+un {COLOR 255}Snorlastal Z{COLOR 0}
+un {COLOR 255}Eeveestal Z{COLOR 0}
+un {COLOR 255}Mewstal Z{COLOR 0}
+un {COLOR 255}Ash-Pikastal Z{COLOR 0}
+un {COLOR 255}Ash-Pikastal Z{COLOR 0}
 ???
 ???
 ???
 ???
-a {COLOR 255}Forage Bag{COLOR 0}
-a {COLOR 255}Fishing Rod{COLOR 0}
-a {COLOR 255}Professor’s Mask{COLOR 0}
-a {COLOR 255}Festival Ticket{COLOR 0}
-a {COLOR 255}Sparkling Stone{COLOR 0}
-an {COLOR 255}Adrenaline Orb{COLOR 0}
-a {COLOR 255}Zygarde Cube{COLOR 0}
+un {COLOR 255}Zurrón{COLOR 0}
+una {COLOR 255}Caña{COLOR 0}
+una {COLOR 255}Máscara profesor{COLOR 0}
+un {COLOR 255}Festicupón{COLOR 0}
+una {COLOR 255}Piedra brillante{COLOR 0}
+una {COLOR 255}Nerviosfera{COLOR 0}
+una {COLOR 255}Arca de Zygarde{COLOR 0}
 ???
-an {COLOR 255}Ice Stone{COLOR 0}
-a {COLOR 255}Ride Pager{COLOR 0}
-a {COLOR 255}Beast Ball{COLOR 0}
-a {COLOR 255}Big Malasada{COLOR 0}
-a {COLOR 255}Red Nectar{COLOR 0}
-a {COLOR 255}Yellow Nectar{COLOR 0}
-a {COLOR 255}Pink Nectar{COLOR 0}
-a {COLOR 255}Purple Nectar{COLOR 0}
-a {COLOR 255}Sun Flute{COLOR 0}
-a {COLOR 255}Moon Flute{COLOR 0}
+una {COLOR 255}Piedra hielo{COLOR 0}
+una {COLOR 255}Buscamontura{COLOR 0}
+una {COLOR 255}Ente Ball{COLOR 0}
+una {COLOR 255}Malasada maxi{COLOR 0}
+un {COLOR 255}Néctar rojo{COLOR 0}
+un {COLOR 255}Néctar amarillo{COLOR 0}
+un {COLOR 255}Néctar rosa{COLOR 0}
+un {COLOR 255}Néctar violeta{COLOR 0}
+una {COLOR 255}Flauta solar{COLOR 0}
+una {COLOR 255}Flauta lunar{COLOR 0}
 ???
-an {COLOR 255}Enigmatic Card{COLOR 0}
-a {COLOR 255}Silver Razz Berry{COLOR 0}
-a {COLOR 255}Golden Razz Berry{COLOR 0}
-a {COLOR 255}Silver Nanab Berry{COLOR 0}
-a {COLOR 255}Golden Nanab Berry{COLOR 0}
-a {COLOR 255}Silver Pinap Berry{COLOR 0}
-a {COLOR 255}Golden Pinap Berry{COLOR 0}
-???
-???
+una {COLOR 255}Nota intrigante{COLOR 0}
+una {COLOR 255}Baya Frambu plateada{COLOR 0}
+una {COLOR 255}Baya Frambu dorada{COLOR 0}
+una {COLOR 255}Baya Latano plateada{COLOR 0}
+una {COLOR 255}Baya Latano dorada{COLOR 0}
+una {COLOR 255}Baya Pinia plateada{COLOR 0}
+una {COLOR 255}Baya Pinia dorada{COLOR 0}
 ???
 ???
 ???
-a {COLOR 255}Secret Key{COLOR 0}
-an {COLOR 255}S.S. Ticket{COLOR 0}
-a {COLOR 255}Silph Scope{COLOR 0}
-a {COLOR 255}Parcel{COLOR 0}
-a {COLOR 255}Card Key{COLOR 0}
-a {COLOR 255}Gold Teeth{COLOR 0}
-a {COLOR 255}Lift Key{COLOR 0}
-a {COLOR 255}Terrain Extender{COLOR 0}
-the {COLOR 255}Protective Pads{COLOR 0}
-an {COLOR 255}Electric Seed{COLOR 0}
-a {COLOR 255}Psychic Seed{COLOR 0}
-a {COLOR 255}Misty Seed{COLOR 0}
-a {COLOR 255}Grassy Seed{COLOR 0}
-a {COLOR 255}Stretchy Spring{COLOR 0}
-a {COLOR 255}Chalky Stone{COLOR 0}
-a {COLOR 255}Marble{COLOR 0}
-a {COLOR 255}Lone Earring{COLOR 0}
-a {COLOR 255}Beach Glass{COLOR 0}
-a {COLOR 255}Gold Leaf{COLOR 0}
-a {COLOR 255}Silver Leaf{COLOR 0}
-a {COLOR 255}Polished Mud Ball{COLOR 0}
-a {COLOR 255}Tropical Shell{COLOR 0}
-a {COLOR 255}Leaf Letter{COLOR 0}
-a {COLOR 255}Leaf Letter{COLOR 0}
-a {COLOR 255}Small Bouquet{COLOR 0}
+???
+???
+una {COLOR 255}Llave secreta{COLOR 0}
+un {COLOR 255}Ticket del barco{COLOR 0}
+un {COLOR 255}Visor Silph{COLOR 0}
+un {COLOR 255}Paquete{COLOR 0}
+una {COLOR 255}Llave magnética{COLOR 0}
+una {COLOR 255}Dentadura de oro{COLOR 0}
+una {COLOR 255}Llave del ascensor{COLOR 0}
+un {COLOR 255}Cubresuelos{COLOR 0}
+el {COLOR 255}Paracontacto{COLOR 0}
+una {COLOR 255}Semilla electro{COLOR 0}
+una {COLOR 255}Semilla psique{COLOR 0}
+una {COLOR 255}Semilla bruma{COLOR 0}
+una {COLOR 255}Semilla hierba{COLOR 0}
+un {COLOR 255}Muelle estirado{COLOR 0}
+una {COLOR 255}Tiza{COLOR 0}
+una {COLOR 255}Canica{COLOR 0}
+un {COLOR 255}Pendiente{COLOR 0}
+un {COLOR 255}Cristal marino{COLOR 0}
+una {COLOR 255}Hoja de oro{COLOR 0}
+una {COLOR 255}Hoja de plata{COLOR 0}
+una {COLOR 255}Bola de arcilla{COLOR 0}
+una {COLOR 255}Concha tropical{COLOR 0}
+una {COLOR 255}Hoja escrita{COLOR 0}
+una {COLOR 255}Hoja escrita{COLOR 0}
+un {COLOR 255}Ramo pequeño{COLOR 0}
 ???
 ???
 ???
-a {COLOR 255}Lure{COLOR 0}
-a {COLOR 255}Super Lure{COLOR 0}
-a {COLOR 255}Max Lure{COLOR 0}
-the {COLOR 255}Pewter Crunchies{COLOR 0}
-a {COLOR 255}Fighting Memory{COLOR 0}
-a {COLOR 255}Flying Memory{COLOR 0}
-a {COLOR 255}Poison Memory{COLOR 0}
-a {COLOR 255}Ground Memory{COLOR 0}
-a {COLOR 255}Rock Memory{COLOR 0}
-a {COLOR 255}Bug Memory{COLOR 0}
-a {COLOR 255}Ghost Memory{COLOR 0}
-a {COLOR 255}Steel Memory{COLOR 0}
-a {COLOR 255}Fire Memory{COLOR 0}
-a {COLOR 255}Water Memory{COLOR 0}
-a {COLOR 255}Grass Memory{COLOR 0}
-an {COLOR 255}Electric Memory{COLOR 0}
-a {COLOR 255}Psychic Memory{COLOR 0}
-an {COLOR 255}Ice Memory{COLOR 0}
-a {COLOR 255}Dragon Memory{COLOR 0}
-a {COLOR 255}Dark Memory{COLOR 0}
-a {COLOR 255}Fairy Memory{COLOR 0}
-a {COLOR 255}Solganium Z{COLOR 0}
-a {COLOR 255}Lunalium Z{COLOR 0}
-an {COLOR 255}Ultranecrozium Z{COLOR 0}
-a {COLOR 255}Mimikium Z{COLOR 0}
-a {COLOR 255}Lycanium Z{COLOR 0}
-a {COLOR 255}Kommonium Z{COLOR 0}
-a {COLOR 255}Solganium Z{COLOR 0}
-a {COLOR 255}Lunalium Z{COLOR 0}
-an {COLOR 255}Ultranecrozium Z{COLOR 0}
-a {COLOR 255}Mimikium Z{COLOR 0}
-a {COLOR 255}Lycanium Z{COLOR 0}
-a {COLOR 255}Kommonium Z{COLOR 0}
-a {COLOR 255}Z-Power Ring{COLOR 0}
-a {COLOR 255}Pink Petal{COLOR 0}
-an {COLOR 255}Orange Petal{COLOR 0}
-a {COLOR 255}Blue Petal{COLOR 0}
-a {COLOR 255}Red Petal{COLOR 0}
-a {COLOR 255}Green Petal{COLOR 0}
-a {COLOR 255}Yellow Petal{COLOR 0}
-a {COLOR 255}Purple Petal{COLOR 0}
-a {COLOR 255}Rainbow Flower{COLOR 0}
-a {COLOR 255}Surge Badge{COLOR 0}
-an {COLOR 255}N-Solarizer{COLOR 0}
-an {COLOR 255}N-Lunarizer{COLOR 0}
-an {COLOR 255}N-Solarizer{COLOR 0}
-an {COLOR 255}N-Lunarizer{COLOR 0}
-an {COLOR 255}Ilima’s Normalium Z{COLOR 0}
-a {COLOR 255}Left Poké Ball{COLOR 0}
-a {COLOR 255}Roto Hatch{COLOR 0}
-a {COLOR 255}Roto Bargain{COLOR 0}
-a {COLOR 255}Roto Prize Money{COLOR 0}
-the {COLOR 255}Roto Exp. Points{COLOR 0}
-a {COLOR 255}Roto Friendship{COLOR 0}
-a {COLOR 255}Roto Encounter{COLOR 0}
-a {COLOR 255}Roto Stealth{COLOR 0}
-a {COLOR 255}Roto HP Restore{COLOR 0}
-a {COLOR 255}Roto PP Restore{COLOR 0}
-a {COLOR 255}Roto Boost{COLOR 0}
-a {COLOR 255}Roto Catch{COLOR 0}
-a {COLOR 255}Health Candy{COLOR 0}
-a {COLOR 255}Mighty Candy{COLOR 0}
-a {COLOR 255}Tough Candy{COLOR 0}
-a {COLOR 255}Smart Candy{COLOR 0}
-a {COLOR 255}Courage Candy{COLOR 0}
-a {COLOR 255}Quick Candy{COLOR 0}
-a {COLOR 255}Health Candy L{COLOR 0}
-a {COLOR 255}Mighty Candy L{COLOR 0}
-a {COLOR 255}Tough Candy L{COLOR 0}
-a {COLOR 255}Smart Candy L{COLOR 0}
-a {COLOR 255}Courage Candy L{COLOR 0}
-a {COLOR 255}Quick Candy L{COLOR 0}
-a {COLOR 255}Health Candy XL{COLOR 0}
-a {COLOR 255}Mighty Candy XL{COLOR 0}
-a {COLOR 255}Tough Candy XL{COLOR 0}
-a {COLOR 255}Smart Candy XL{COLOR 0}
-a {COLOR 255}Courage Candy XL{COLOR 0}
-a {COLOR 255}Quick Candy XL{COLOR 0}
-a {COLOR 255}Bulbasaur Candy{COLOR 0}
-a {COLOR 255}Charmander Candy{COLOR 0}
-a {COLOR 255}Squirtle Candy{COLOR 0}
-a {COLOR 255}Caterpie Candy{COLOR 0}
-a {COLOR 255}Weedle Candy{COLOR 0}
-a {COLOR 255}Pidgey Candy{COLOR 0}
-a {COLOR 255}Rattata Candy{COLOR 0}
-a {COLOR 255}Spearow Candy{COLOR 0}
-an {COLOR 255}Ekans Candy{COLOR 0}
-a {COLOR 255}Pikachu Candy{COLOR 0}
-a {COLOR 255}Sandshrew Candy{COLOR 0}
-a {COLOR 255}Nidoran♀ Candy{COLOR 0}
-a {COLOR 255}Nidoran♂ Candy{COLOR 0}
-a {COLOR 255}Clefairy Candy{COLOR 0}
-a {COLOR 255}Vulpix Candy{COLOR 0}
-a {COLOR 255}Jigglypuff Candy{COLOR 0}
-a {COLOR 255}Zubat Candy{COLOR 0}
-an {COLOR 255}Oddish Candy{COLOR 0}
-a {COLOR 255}Paras Candy{COLOR 0}
-a {COLOR 255}Venonat Candy{COLOR 0}
-a {COLOR 255}Diglett Candy{COLOR 0}
-a {COLOR 255}Meowth Candy{COLOR 0}
-a {COLOR 255}Psyduck Candy{COLOR 0}
-a {COLOR 255}Mankey Candy{COLOR 0}
-a {COLOR 255}Growlithe Candy{COLOR 0}
-a {COLOR 255}Poliwag Candy{COLOR 0}
-an {COLOR 255}Abra Candy{COLOR 0}
-a {COLOR 255}Machop Candy{COLOR 0}
-a {COLOR 255}Bellsprout Candy{COLOR 0}
-a {COLOR 255}Tentacool Candy{COLOR 0}
-a {COLOR 255}Geodude Candy{COLOR 0}
-a {COLOR 255}Ponyta Candy{COLOR 0}
-a {COLOR 255}Slowpoke Candy{COLOR 0}
-a {COLOR 255}Magnemite Candy{COLOR 0}
-a {COLOR 255}Farfetch’d Candy{COLOR 0}
-a {COLOR 255}Doduo Candy{COLOR 0}
-a {COLOR 255}Seel Candy{COLOR 0}
-a {COLOR 255}Grimer Candy{COLOR 0}
-a {COLOR 255}Shellder Candy{COLOR 0}
-a {COLOR 255}Gastly Candy{COLOR 0}
-an {COLOR 255}Onix Candy{COLOR 0}
-a {COLOR 255}Drowzee Candy{COLOR 0}
-a {COLOR 255}Krabby Candy{COLOR 0}
-a {COLOR 255}Voltorb Candy{COLOR 0}
-an {COLOR 255}Exeggcute Candy{COLOR 0}
-a {COLOR 255}Cubone Candy{COLOR 0}
-a {COLOR 255}Hitmonlee Candy{COLOR 0}
-a {COLOR 255}Hitmonchan Candy{COLOR 0}
-a {COLOR 255}Lickitung Candy{COLOR 0}
-a {COLOR 255}Koffing Candy{COLOR 0}
-a {COLOR 255}Rhyhorn Candy{COLOR 0}
-a {COLOR 255}Chansey Candy{COLOR 0}
-a {COLOR 255}Tangela Candy{COLOR 0}
-a {COLOR 255}Kangaskhan Candy{COLOR 0}
-a {COLOR 255}Horsea Candy{COLOR 0}
-a {COLOR 255}Goldeen Candy{COLOR 0}
-a {COLOR 255}Staryu Candy{COLOR 0}
-a {COLOR 255}Mr. Mime Candy{COLOR 0}
-a {COLOR 255}Scyther Candy{COLOR 0}
-a {COLOR 255}Jynx Candy{COLOR 0}
-an {COLOR 255}Electabuzz Candy{COLOR 0}
-a {COLOR 255}Pinsir Candy{COLOR 0}
-a {COLOR 255}Tauros Candy{COLOR 0}
-a {COLOR 255}Magikarp Candy{COLOR 0}
-a {COLOR 255}Lapras Candy{COLOR 0}
-a {COLOR 255}Ditto Candy{COLOR 0}
-an {COLOR 255}Eevee Candy{COLOR 0}
-a {COLOR 255}Porygon Candy{COLOR 0}
-an {COLOR 255}Omanyte Candy{COLOR 0}
-a {COLOR 255}Kabuto Candy{COLOR 0}
-an {COLOR 255}Aerodactyl Candy{COLOR 0}
-a {COLOR 255}Snorlax Candy{COLOR 0}
-an {COLOR 255}Articuno Candy{COLOR 0}
-a {COLOR 255}Zapdos Candy{COLOR 0}
-a {COLOR 255}Moltres Candy{COLOR 0}
-a {COLOR 255}Dratini Candy{COLOR 0}
-a {COLOR 255}Mewtwo Candy{COLOR 0}
-a {COLOR 255}Mew Candy{COLOR 0}
-a {COLOR 255}Meltan Candy{COLOR 0}
-a {COLOR 255}Magmar Candy{COLOR 0}
+una {COLOR 255}Colonia{COLOR 0}
+una {COLOR 255}Supercolonia{COLOR 0}
+una {COLOR 255}Colonia máxima{COLOR 0}
+los {COLOR 255}Rokikos{COLOR 0}
+un {COLOR 255}Disco lucha{COLOR 0}
+un {COLOR 255}Disco volador{COLOR 0}
+un {COLOR 255}Disco veneno{COLOR 0}
+un {COLOR 255}Disco tierra{COLOR 0}
+un {COLOR 255}Disco roca{COLOR 0}
+un {COLOR 255}Disco bicho{COLOR 0}
+un {COLOR 255}Disco fantasma{COLOR 0}
+un {COLOR 255}Disco acero{COLOR 0}
+un {COLOR 255}Disco fuego{COLOR 0}
+un {COLOR 255}Disco agua{COLOR 0}
+un {COLOR 255}Disco planta{COLOR 0}
+un {COLOR 255}Disco eléctrico{COLOR 0}
+un {COLOR 255}Disco psíquico{COLOR 0}
+un {COLOR 255}Disco hielo{COLOR 0}
+un {COLOR 255}Disco dragón{COLOR 0}
+un {COLOR 255}Disco siniestro{COLOR 0}
+un {COLOR 255}Disco hada{COLOR 0}
+un {COLOR 255}Solgaleostal Z{COLOR 0}
+un {COLOR 255}Lunalastal Z{COLOR 0}
+un {COLOR 255}Ultranecrostal Z{COLOR 0}
+un {COLOR 255}Mimikyustal Z{COLOR 0}
+un {COLOR 255}Lycanrostal Z{COLOR 0}
+un {COLOR 255}Kommostal Z{COLOR 0}
+un {COLOR 255}Solgaleostal Z{COLOR 0}
+un {COLOR 255}Lunalastal Z{COLOR 0}
+un {COLOR 255}Ultranecrostal Z{COLOR 0}
+un {COLOR 255}Mimikyustal Z{COLOR 0}
+un {COLOR 255}Lycanrostal Z{COLOR 0}
+un {COLOR 255}Kommostal Z{COLOR 0}
+una {COLOR 255}Superpulsera Z{COLOR 0}
+un {COLOR 255}Pétalo rosa{COLOR 0}
+un {COLOR 255}Pétalo naranja{COLOR 0}
+un {COLOR 255}Pétalo azul{COLOR 0}
+un {COLOR 255}Pétalo rojo{COLOR 0}
+un {COLOR 255}Pétalo verde{COLOR 0}
+un {COLOR 255}Pétalo amarillo{COLOR 0}
+un {COLOR 255}Pétalo violeta{COLOR 0}
+una {COLOR 255}Flor irisada{COLOR 0}
+una {COLOR 255}Medalla Fulgor{COLOR 0}
+un {COLOR 255}Necrosol{COLOR 0}
+una {COLOR 255}Necroluna{COLOR 0}
+un {COLOR 255}Necrosol{COLOR 0}
+una {COLOR 255}Necroluna{COLOR 0}
+un {COLOR 255}Cristal Z (Liam){COLOR 0}
+una {COLOR 255}Pokébola Ajena{COLOR 0}
+un {COLOR 255}Cupón eclosión{COLOR 0}
+un {COLOR 255}Cupón rebaja{COLOR 0}
+un {COLOR 255}Cupón botín{COLOR 0}
+el {COLOR 255}Cupón exp{COLOR 0}
+un {COLOR 255}Cupón amistad{COLOR 0}
+un {COLOR 255}Cupón reclamo{COLOR 0}
+un {COLOR 255}Cupón sigilo{COLOR 0}
+un {COLOR 255}Cupón PS{COLOR 0}
+un {COLOR 255}Cupón PP{COLOR 0}
+un {COLOR 255}Cupón refuerzo{COLOR 0}
+un {COLOR 255}Cupón captura{COLOR 0}
+un {COLOR 255}Caramelo vigor{COLOR 0}
+un {COLOR 255}Caramelo músculo{COLOR 0}
+un {COLOR 255}Caramelo aguante{COLOR 0}
+un {COLOR 255}Caramelo intelecto{COLOR 0}
+un {COLOR 255}Caramelo mente{COLOR 0}
+un {COLOR 255}Caramelo ímpetu{COLOR 0}
+un {COLOR 255}Caramelo vigor +{COLOR 0}
+un {COLOR 255}Caramelo músculo +{COLOR 0}
+un {COLOR 255}Caramelo aguante +{COLOR 0}
+un {COLOR 255}Caramelo intelecto +{COLOR 0}
+un {COLOR 255}Caramelo mente +{COLOR 0}
+un {COLOR 255}Caramelo ímpetu +{COLOR 0}
+un {COLOR 255}Caramelo vigor ++{COLOR 0}
+un {COLOR 255}Caramelo músculo ++{COLOR 0}
+un {COLOR 255}Caramelo aguante ++{COLOR 0}
+un {COLOR 255}Caramelo intelecto ++{COLOR 0}
+un {COLOR 255}Caramelo mente ++{COLOR 0}
+un {COLOR 255}Caramelo ímpetu ++{COLOR 0}
+un {COLOR 255}Caramelo Bulbasaur{COLOR 0}
+un {COLOR 255}Caramelo Charmander{COLOR 0}
+un {COLOR 255}Caramelo Squirtle{COLOR 0}
+un {COLOR 255}Caramelo Caterpie{COLOR 0}
+un {COLOR 255}Caramelo Weedle{COLOR 0}
+un {COLOR 255}Caramelo Pidgey{COLOR 0}
+un {COLOR 255}Caramelo Rattata{COLOR 0}
+un {COLOR 255}Caramelo Spearow{COLOR 0}
+un {COLOR 255}Caramelo Ekans{COLOR 0}
+un {COLOR 255}Caramelo Pikachu{COLOR 0}
+un {COLOR 255}Caramelo Sandshrew{COLOR 0}
+un {COLOR 255}Caramelo Nidoran♀{COLOR 0}
+un {COLOR 255}Caramelo Nidoran♂{COLOR 0}
+un {COLOR 255}Caramelo Clefairy{COLOR 0}
+un {COLOR 255}Caramelo Vulpix{COLOR 0}
+un {COLOR 255}Caramelo Jigglypuff{COLOR 0}
+un {COLOR 255}Caramelo Zubat{COLOR 0}
+un {COLOR 255}Caramelo Oddish{COLOR 0}
+un {COLOR 255}Caramelo Paras{COLOR 0}
+un {COLOR 255}Caramelo Venonat{COLOR 0}
+un {COLOR 255}Caramelo Diglett{COLOR 0}
+un {COLOR 255}Caramelo Meowth{COLOR 0}
+un {COLOR 255}Caramelo Psyduck{COLOR 0}
+un {COLOR 255}Caramelo Mankey{COLOR 0}
+un {COLOR 255}Caramelo Growlithe{COLOR 0}
+un {COLOR 255}Caramelo Poliwag{COLOR 0}
+un {COLOR 255}Caramelo Abra{COLOR 0}
+un {COLOR 255}Caramelo Machop{COLOR 0}
+un {COLOR 255}Caramelo Bellsprout{COLOR 0}
+un {COLOR 255}Caramelo Tentacool{COLOR 0}
+un {COLOR 255}Caramelo Geodude{COLOR 0}
+un {COLOR 255}Caramelo Ponyta{COLOR 0}
+un {COLOR 255}Caramelo Slowpoke{COLOR 0}
+un {COLOR 255}Caramelo Magnemite{COLOR 0}
+un {COLOR 255}Caramelo Farfetch’d{COLOR 0}
+un {COLOR 255}Caramelo Doduo{COLOR 0}
+un {COLOR 255}Caramelo Seel{COLOR 0}
+un {COLOR 255}Caramelo Grimer{COLOR 0}
+un {COLOR 255}Caramelo Shellder{COLOR 0}
+un {COLOR 255}Caramelo Gastly{COLOR 0}
+un {COLOR 255}Caramelo Onix{COLOR 0}
+un {COLOR 255}Caramelo Drowzee{COLOR 0}
+un {COLOR 255}Caramelo Krabby{COLOR 0}
+un {COLOR 255}Caramelo Voltorb{COLOR 0}
+un {COLOR 255}Caramelo Exeggcute{COLOR 0}
+un {COLOR 255}Caramelo Cubone{COLOR 0}
+un {COLOR 255}Caramelo Hitmonlee{COLOR 0}
+un {COLOR 255}Caramelo Hitmonchan{COLOR 0}
+un {COLOR 255}Caramelo Lickitung{COLOR 0}
+un {COLOR 255}Caramelo Koffing{COLOR 0}
+un {COLOR 255}Caramelo Rhyhorn{COLOR 0}
+un {COLOR 255}Caramelo Chansey{COLOR 0}
+un {COLOR 255}Caramelo Tangela{COLOR 0}
+un {COLOR 255}Caramelo Kangaskhan{COLOR 0}
+un {COLOR 255}Caramelo Horsea{COLOR 0}
+un {COLOR 255}Caramelo Goldeen{COLOR 0}
+un {COLOR 255}Caramelo Staryu{COLOR 0}
+un {COLOR 255}Caramelo Mr. Mime{COLOR 0}
+un {COLOR 255}Caramelo Scyther{COLOR 0}
+un {COLOR 255}Caramelo Jynx{COLOR 0}
+un {COLOR 255}Caramelo Electabuzz{COLOR 0}
+un {COLOR 255}Caramelo Pinsir{COLOR 0}
+un {COLOR 255}Caramelo Tauros{COLOR 0}
+un {COLOR 255}Caramelo Magikarp{COLOR 0}
+un {COLOR 255}Caramelo Lapras{COLOR 0}
+un {COLOR 255}Caramelo Ditto{COLOR 0}
+un {COLOR 255}Caramelo Eevee{COLOR 0}
+un {COLOR 255}Caramelo Porygon{COLOR 0}
+un {COLOR 255}Caramelo Omanyte{COLOR 0}
+un {COLOR 255}Caramelo Kabuto{COLOR 0}
+un {COLOR 255}Caramelo Aerodactyl{COLOR 0}
+un {COLOR 255}Caramelo Snorlax{COLOR 0}
+un {COLOR 255}Caramelo Articuno{COLOR 0}
+un {COLOR 255}Caramelo Zapdos{COLOR 0}
+un {COLOR 255}Caramelo Moltres{COLOR 0}
+un {COLOR 255}Caramelo Dratini{COLOR 0}
+un {COLOR 255}Caramelo Mewtwo{COLOR 0}
+un {COLOR 255}Caramelo Mew{COLOR 0}
+un {COLOR 255}Caramelo Meltan{COLOR 0}
+un {COLOR 255}Caramelo Magmar{COLOR 0}
 ???
 ???
 ???

@@ -1,7 +1,7 @@
-a ₧₦ Trainer
-a ₧₦ Trainer
-a Youngster
-a Lass
+un Entrenador ₧₦
+un Entrenador ₧₦
+un Joven
+una Chica
 un Entrenador ₧₦
 un Entrenador ₧₦
 un Joven Promesa

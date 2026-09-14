@@ -1,319 +1,319 @@
  -
-The stench helps keep\nwild Pokémon away.
-The Pokémon makes it rain\nif it appears in battle.
-Its Speed stat is\ngradually boosted.
-The Pokémon is protected\nagainst critical hits.
-It is protected against\n1-hit KO attacks.
-Prevents combatants\nfrom self-destructing.
-The Pokémon is protected\nfrom paralysis.
-Boosts the Pokémon’s\nevasion in a sandstorm.
-Contact with the Pokémon\nmay cause paralysis.
-Restores HP if hit by an\nElectric-type move.
-Restores HP if hit by a\nWater-type move.
-Prevents it from\nbecoming infatuated.
-Eliminates the effects of\nweather.
-The Pokémon’s accuracy\nis boosted.
-Prevents the Pokémon\nfrom falling asleep.
-Changes the Pokémon’s\ntype to the foe’s move.
-Prevents the Pokémon\nfrom getting poisoned.
-It powers up Fire-type\nmoves if it’s hit by one.
-Blocks the added effects\nof attacks taken.
-Prevents the Pokémon\nfrom becoming confused.
-Negates foes’ moves that\nforce switching out.
-Lowers the foe’s\nAttack stat.
-Prevents the foe from\nescaping.
-Inflicts damage to the\nfoe on contact.
-Only supereffective\nmoves will hit.
-Gives full immunity to all\nGround-type moves.
-Contact may paralyze,\npoison, or cause sleep.
-Passes a burn, poison,\nor paralysis to the foe.
-Prevents its stats from\nbeing lowered.
-All status problems heal\nwhen it switches out.
-The Pokémon draws in all\nElectric-type moves.
-Boosts the likelihood of\nadded effects appearing.
-Boosts the Pokémon’s\nSpeed in rain.
-Boosts the Pokémon’s\nSpeed in sunshine.
-Raises the likelihood of\nmeeting wild Pokémon.
-The Pokémon copies the\nfoe’s ability.
-Raises the Pokémon’s\nAttack stat.
-Contact with the Pokémon\nmay poison the foe.
-The Pokémon is protected\nfrom flinching.
-Prevents the Pokémon\nfrom becoming frozen.
-Prevents the Pokémon\nfrom getting a burn.
-Prevents Steel-type\nPokémon from escaping.
-Gives full immunity to all\nsound-based moves.
-The Pokémon gradually\nrecovers HP in rain.
-The Pokémon summons a\nsandstorm in battle.
-The Pokémon raises the\nfoe’s PP usage.
-Ups resistance to Fire-\nand Ice-type moves.
-The Pokémon awakens\nquickly from sleep.
-Contact with the Pokémon\nmay burn the foe.
-Enables sure getaway\nfrom wild Pokémon.
-Prevents the Pokémon\nfrom losing accuracy.
-Prevents the Attack\nstat from being lowered.
-The Pokémon may\npick up items.
-Pokémon can’t attack\non consecutive turns.
-Boosts the Attack stat,\nbut lowers accuracy.
-Contact with the Pokémon\nmay cause infatuation.
-Ups Sp. Atk if another\nPokémon has Minus.
-Ups Sp. Atk if another\nPokémon has Plus.
-CASTFORM transforms with\nthe weather.
-Protects the Pokémon\nfrom item theft.
-The Pokémon may heal its\nown status problems.
-Boosts Attack if there is\na status problem.
-Ups Defense if there is\na status problem.
-Inflicts damage on foes\nusing any draining move.
-Powers up Grass-type\nmoves in a pinch.
-Powers up Fire-type\nmoves in a pinch.
-Powers up Water-type\nmoves in a pinch.
-Powers up Bug-type\nmoves in a pinch.
-Protects the Pokémon\nfrom recoil damage.
-The Pokémon makes it\nsunny if it is in battle.
-Prevents the foe from\nfleeing.
-Prevents the Pokémon\nfrom falling asleep.
-Prevents its stats from\nbeing lowered.
-Boosts the power of\nphysical attacks.
-The Pokémon is protected\nagainst critical hits.
-Eliminates the effects of\nweather.
-Raises evasion if the\nPokémon is confused.
-Raises Speed if hit by an\nElectric-type move.
-Raises Attack if the foe\nis of the same gender.
-Raises Speed each time\nthe Pokémon flinches.
-Raises evasion in a\nhailstorm.
-Encourages the early use\nof a held Berry.
-Raises Attack upon\ntaking a critical hit.
-Raises Speed if a held\nitem is used.
-Weakens the power of\nFire-type moves.
-The Pokémon is prone to\nwild stat changes.
-Reduces HP if it is hot.\nWater restores HP.
-Adjusts power according\nto the foe’s ability.
-Boosts the power of\npunching moves.
-Restores HP if the\nPokémon is poisoned.
-Powers up moves of the\nsame type.
-Increases the frequency\nof multi-strike moves.
-Heals status problems if\nit is raining.
-Boosts Sp. Atk, but\nlowers HP in sunshine.
-Boosts Speed if there is\na status problem.
-All the Pokémon’s moves\nbecome the Normal type.
-Powers up moves if they\nbecome critical hits.
-The Pokémon only takes\ndamage from attacks.
-Ensures both Pokémon’s\nand foe’s attacks land.
-The Pokémon moves after\neven slower foes.
-Powers up the Pokémon’s\nweaker moves.
-Prevents problems with\nstatus in sunny weather.
-The Pokémon can’t use\nany held items.
-Moves can be used\nregardless of abilities.
-Heightens the critical-\nhit ratios of moves.
-Damages the foe landing\nthe finishing hit.
-Senses the foe’s\ndangerous moves.
-Determines what moves\nthe foe has.
-Ignores any change in\nability by the foe.
-Powers up “not very\neffective” moves.
-Reduces damage from\nsupereffective attacks.
-Temporarily halves\nAttack and Speed.
-Enables moves to hit\nGhost-type foes.
-The Pokémon draws in all\nWater-type moves.
-The Pokémon regains HP in\na hailstorm.
-Reduces damage from\nsupereffective attacks
-The Pokémon summons a\nhailstorm in battle.
-The Pokémon may gather\nHoney from somewhere.
-The Pokémon can check\nthe foe’s held item.
-Powers up moves that\nhave recoil damage.
-Changes type to match\nthe held Plate.
-Powers up party Pokémon\nwhen it is sunny.
-Reduces a sleeping\nfoe’s HP.
-Steals an item when\nhit by another Pokémon.
-Removes added effects to\nincrease move damage.
-Makes stat changes\nhave an opposite effect.
-Makes the opponents\nunable to eat Berries.
-When its stats are lowered\nits Attack increases.
-Lowers stats when\nHP becomes half or less.
-May disable a move\nused on the Pokémon.
-May heal an ally’s\nstatus conditions.
-Reduces damage\ndone to allies.
-Physical attacks lower\nDefense and raise Speed.
-Doubles the\nPokémon’s weight.
-Halves the\nPokémon’s weight.
-Reduces damage\nwhen HP is full.
-Powers up physical\nattacks when poisoned.
-Powers up special\nattacks when burned.
-May create another Berry\nafter one is used.
-Anticipates an ally’s\nattack and dodges it.
-Sharply raises one stat\nand lowers another.
-Protects the Pokémon from\ndamage from weather.
-May poison targets when\na Pokémon makes contact.
-Restores a little HP when\nwithdrawn from battle.
-Protects from\nDefense-lowering attacks.
-Boosts the Pokémon’s\nSpeed in a sandstorm.
-Makes status moves more\nlikely to miss.
-Boosts move power when\nthe Pokémon moves last.
-Comes out disguised as\nthe Pokémon in back.
-It transforms itself into\nthe Pokémon it is facing.
-Passes through the foe’s\nbarrier and strikes.
-Contact with this Pokémon\nspreads this Ability.
-Boosts Attack after\nknocking out any Pokémon.
-Raises Attack when\nhit by a Dark-type move.
-Some move types scare\nit and boost its Speed.
-Reflects\nstatus-changing moves.
-Boosts Attack when\nhit by a Grass-type move.
-Gives priority to\na status move.
-Boosts certain moves’\npower in a sandstorm.
-Inflicts damage to\nthe Pokémon on contact.
-Changes the Pokémon’s\nshape when HP is halved.
-Boosts the accuracy of\nits allies and itself.
-Moves can be used\nregardless of Abilities.
-Moves can be used\nregardless of Abilities.
-Protects against attacks\nthat limit move choices.
-Protects Grass-type allies\nfrom stat/status effects.
-Restores HP as well when\nthe Pokémon eats a Berry.
-It changes type to that\nof the move it’s about to use.
-Halves the damage from\nphysical moves.
-Steals the held item of\na Pokémon it hits.
-Protects the Pokémon from\nsome ball and bomb moves.
-Sharply boosts Sp. Atk\nwhen a stat is lowered.
-Boosts the power of\nbiting moves.
-Normal-type moves become\nIce-type and powered up.
-Prevents itself and\nallies from falling asleep.
-Changes between Blade and\nShield Forme with attacks.
-Flying-type moves gain\npriority when its HP is full.
-Powers up aura and\npulse moves.
-Boosts the Defense stat\non Grassy Terrain.
-Passes its held item to\nan ally that has used theirs.
-Powers up moves that\nmake direct contact.
-Normal-type moves become\nFairy-type and powered up.
-Contact with it lowers the\nattacker’s Speed stat.
-Normal-type moves become\nFlying-type and power up.
-Parent and child\neach attacks.
-Powers up each Pokémon’s\nDark-type moves.
-Powers up each Pokémon’s\nFairy-type moves.
-The effects of “Aura”\nAbilities are reversed.
-Changes the weather\nto nullify Fire-type moves.
-Changes the weather\nto nullify Water-type moves.
-Alters weather to\nremove Flying-type’s weaknesses.
-Boosts Defense when\nhit by an attack.
-Wimpily switches out if its\nHP becomes half or less.
-Switches out if its HP\nbecomes half or less.
-Sharply ups Defense when\nhit by a Water-type move.
-Its attacks are critical\nhits if target is poisoned.
-Its shell breaks if its\nHP becomes half or less.
-Deals doubles damage to\na target’s replacement.
-Weakens incoming Fire-type\nmoves and prevents burns.
-Powers up\nSteel-type moves.
-Ups Sp. Atk if a hit\nmakes its HP half or less.
-Boosts the Pokémon’s\nSpeed stat in a hailstorm.
-Uses moves without\nmaking contact with the target.
-Its sound-based moves\nbecome Water-type.
-Gives priority to\na healing move.
-Normal-type moves become\nElectric-type and powered.
-Doubles Speed on\nElectric Terrain.
-Forms a powerful school\nwhile it has a lot of HP.
-Its shroud protects it\nfrom an attack just once.
-Defeating a foe\nlets it become Ash-Greninja.
-Changes with other Cells\nif HP becomes half or less.
-It can poison Steel- and\nPoison-type targets.
-It’s always drowsing, and\nattacks without waking.
-Makes foes unable to\nuse priority attacks.
-Damages an attacker that\nlands the finishing hit.
-Repeats another Pokémon’s\ndance move immediately.
-Powers up ally\nPokémon’s special moves.
-Resists contact damage\nbut weaker to Fire-type.
-Makes foes unable to\nuse priority attacks.
-Boosts Sp. Atk each\ntime a Pokémon faints.
-Contact with it lowers\nthe attacker’s Speed.
-Copies the Ability of\na defeated ally.
-Copies the Ability of\na defeated ally.
-Boosts its best stat\neach time it deals a KO.
-Its type matches\nthe memory disc it holds.
-Turns the ground\ninto Electric Terrain.
-Turns the ground\ninto Psychic Terrain.
-Turns the ground\ninto Misty Terrain.
-Turns the ground\ninto Grassy Terrain.
-Prevents other Pokémon\nfrom lowering its stats.
-Resists damage while\nits HP is full.
-Reduces damage from\nsuper-effective attacks.
-Powers up moves that\nare super-effective.
-Boosts Attack when\nentering a battle.
-Boosts Defense when\nentering a battle.
-It changes type to that\nof the move it’s about to use.
-Retrieves the first thrown\nPoké Ball if it failed.
-Scatters Speed-lowering\ncotton fluff when hit.
-This Pokémon’s\nmoves cannot be redirected.
-Bounces back\nstat-lowering effects.
-Catches prey via Surf or Dive\nand spits it out when hit.
-This Pokémon’s moves\ncannot be redirected.
-Boosts Speed drastically\nif hit by Fire or Water.
-Powers up own sound moves.\nResists other sound moves.
-Creates a sandstorm\nwhen hit by an attack.
-Halves the damage\ntaken from special moves.
-Ripens Berries and\ndoubles their effect.
-Blocks a physical hit, but\nthe ice head breaks.
-Just being next to the\nPokémon powers up moves.
-Changes type depending\non the terrain.
-On entering battle, clears\neffects of Reflect, etc.
-Powers up ally Pokémon’s\nSteel-type moves.
-Both Pokémon faint 3 turns\nafter taking a contact hit.
-Swaps Abilities with\ncontact-making Pokémon.
-Boosts Attack, but allows\nonly one move to be used.
-Nullifies the effects of\nall other Abilities.
-Protects the Pokémon and\nits allies from poisoning.
-Changes between Full Belly\nand Hangry Mode each turn.
-Enables the Pokémon to\nmove first occasionally.
-The Pokémon’s contact\nmoves ignore protections.
-Removes all allies’ stat\nchanges on joining battle.
-Powers up\nElectric-type moves.
-Powers up\nDragon-type moves.
-When knocking out a\ntarget, raises Attack.
-When knocking out a\ntarget, raises Sp. Atk.
-Combines Unnerve\nand Chilling Neigh.
-Combines Unnerve\nand Grim Neigh.
-Contact with this Pokémon\nspreads this Ability.
-Turns the ground into\nGrassy Terrain if attacked.
-Ups Attack if hit\nby Fire moves. Prevents burns.
-Ups stats if a hit\nmakes its HP half or less.
-Prevents status problems.\nWeakens Ghost moves.
-Raises Defense if hit\nby a Fire-type move.
-Raises Attack if hit\nby a wind-based move.
-Ups Attack if intimidated.\nStops forced switching.
-Powers up\nRock-type moves.
-Becomes charged if hit\nby a wind-based move.
-Becomes Hero Form upon\nswitching out.
-Enters the mouth of\nan ally Dondozo.
-Becomes charged when\nhit by an attack.
-Boosts its best stat\nin harsh sunlight.
-Boosts its best stat\nin Electric Terrain.
-This Pokémon is immune\nto all status moves.
-Lowers the Sp. Atk\nstat of other Pokémon.
-Lowers the Defense\nstat of other Pokémon.
-Lowers the Attack\nstat of other Pokémon.
-Lowers the Sp. Def\nstat of other Pokémon.
-Makes the weather sunny.\nUps Attack in sun.
-Makes Electric Terrain.\nUps Sp. Atk on Electric Terrain.
-If foe raises a stat,\nboosts the stat itself.
-After eating a Berry,\nit’s eaten again next turn.
-Powers up\nslicing moves.
-Ups Attack and Sp. Atk\nif allies were defeated.
-Copies an ally’s stat\nchanges when sent out.
-Scatters poison spikes\nif hit by physical moves.
-Makes foes unable to\nuse priority attacks.
-Restores HP if hit by a\nGround-type move.
-Status moves go last\nbut ignore abilities.
-Upon entry, restores\nan allies HP.
-Ignores accuracy changes\nand Ghost type immunities.
-The Teal Mask shines,\nboosting the Speed stat.
-The Wellspring Mask shines,\nboosting the Sp. Def stat.
-The Hearthflame Mask shines,\nboosting the Attack stat.
-The Cornerstone Mask shines,\nboosting the Defense stat.
-May badly poison targets when\na Pokémon makes contact.
-Lowers evasiveness of\nPokémon upon first entry.
-Transforms into Terastal Form\nupon entering battle.
-Resists all damage when\nHP is full.
-Reduces effects of weather\nand terrain to zero.
-Poison-inflicting moves\nwill also cause confusion.
-The Pokémon’s contact\nmoves ignore protections.
-Normal-type moves become\nDragon-type and powered up.
+El hedor ayuda a mantener\na raya a los Pokémon salvajes.
+El Pokémon hace que llueva\nsi entra en combate.
+Su estadística de Velocidad\nsube poco a poco.
+El Pokémon está protegido\ncontra los golpes críticos.
+Está protegido contra los\nataques fulminantes.
+Evita que los combatientes\nse autodestruyan.
+El Pokémon está protegido\ncontra la parálisis.
+Aumenta la Evasión del Pokémon\nen las tormentas de arena.
+El contacto con el Pokémon\npuede causar parálisis.
+Restaura PS si recibe un\nmovimiento de tipo Eléctrico.
+Restaura PS si recibe un\nmovimiento de tipo Agua.
+Evita que el Pokémon\nse enamore.
+Elimina los efectos del\ntiempo atmosférico.
+Aumenta la Precisión del\nPokémon.
+Evita que el Pokémon\nse duerma.
+Cambia el tipo del Pokémon\nal del movimiento rival.
+Evita que el Pokémon\nse envenene.
+Potencia los movimientos de tipo\nFuego si recibe uno de ellos.
+Bloquea los efectos adicionales\nde los ataques recibidos.
+Evita que el Pokémon\nse confunda.
+Anula los movimientos rivales\nque fuerzan el cambio.
+Reduce el Ataque\ndel rival.
+Impide que el rival\nescape.
+Inflige daño al rival\nal entrar en contacto.
+Solo le aciertan los\nmovimientos supereficaces.
+Otorga inmunidad total a los\nmovimientos de tipo Tierra.
+El contacto puede paralizar,\nenvenenar o dormir.
+Contagia al rival quemaduras,\nveneno o parálisis.
+Evita que bajen sus\nestadísticas.
+Cura todos los problemas de\nestado al ser cambiado.
+El Pokémon atrae todos los\nmovimientos de tipo Eléctrico.
+Aumenta la probabilidad de que\naparezcan efectos adicionales.
+Aumenta la Velocidad del\nPokémon bajo la lluvia.
+Aumenta la Velocidad del\nPokémon bajo el sol.
+Aumenta la probabilidad de\nencontrar Pokémon salvajes.
+El Pokémon copia la\nhabilidad del rival.
+Aumenta el Ataque\ndel Pokémon.
+El contacto con el Pokémon\npuede envenenar al rival.
+El Pokémon está protegido\ncontra el amedrentamiento.
+Evita que el Pokémon\nse congele.
+Evita que el Pokémon\nsufra quemaduras.
+Impide que los Pokémon de\ntipo Acero escapen.
+Otorga inmunidad total a los\nmovimientos de sonido.
+El Pokémon recupera PS\npoco a poco bajo la lluvia.
+El Pokémon invoca una\ntormenta de arena en combate.
+El Pokémon aumenta el\ngasto de PP del rival.
+Aumenta la resistencia a los\nmovimientos de Fuego y Hielo.
+El Pokémon se despierta\nantes de lo normal.
+El contacto con el Pokémon\npuede quemar al rival.
+Permite huir siempre de\nlos Pokémon salvajes.
+Evita que el Pokémon\npierda Precisión.
+Evita que baje su\nestadística de Ataque.
+El Pokémon puede\nrecoger objetos.
+El Pokémon no puede atacar\nen turnos consecutivos.
+Sube el Ataque, pero\nreduce la Precisión.
+El contacto con el Pokémon\npuede enamorar.
+Sube el Ata. Especial si otro\nPokémon tiene Menos.
+Sube el Ata. Especial si otro\nPokémon tiene Más.
+CASTFORM se transforma\ncon el tiempo atmosférico.
+Protege al Pokémon del\nrobo de objetos.
+El Pokémon puede curarse\nsus problemas de estado.
+Sube el Ataque si tiene\nun problema de estado.
+Sube la Defensa si tiene\nun problema de estado.
+Daña a los rivales que usen\nmovimientos que drenan PS.
+Potencia los movimientos de\ntipo Planta en apuros.
+Potencia los movimientos de\ntipo Fuego en apuros.
+Potencia los movimientos de\ntipo Agua en apuros.
+Potencia los movimientos de\ntipo Bicho en apuros.
+Protege al Pokémon del\ndaño por retroceso.
+El Pokémon hace que salga\nel sol si entra en combate.
+Impide que el rival\nhuya.
+Evita que el Pokémon\nse duerma.
+Evita que bajen sus\nestadísticas.
+Aumenta la potencia de\nlos ataques físicos.
+El Pokémon está protegido\ncontra los golpes críticos.
+Elimina los efectos del\ntiempo atmosférico.
+Sube la Evasión si el\nPokémon está confuso.
+Sube la Velocidad si recibe un\nmovimiento de tipo Eléctrico.
+Sube el Ataque si el rival\nes del mismo sexo.
+Sube la Velocidad cada vez\nque el Pokémon se amedrenta.
+Sube la Evasión en las\ntormentas de granizo.
+Anima a usar antes la\nBaya que lleve.
+Sube el Ataque al recibir\nun golpe crítico.
+Sube la Velocidad si se usa\nun objeto que lleve.
+Debilita la potencia de\nlos movimientos de tipo Fuego.
+El Pokémon es propenso a\ncambios de estadísticas.
+Pierde PS con el calor.\nEl agua los restaura.
+Ajusta la potencia según la\nhabilidad del rival.
+Aumenta la potencia de\nlos puñetazos.
+Restaura PS si el\nPokémon está envenenado.
+Potencia los movimientos del\nmismo tipo.
+Aumenta la frecuencia de los\nmovimientos de varios golpes.
+Cura los problemas de estado\nsi está lloviendo.
+Sube el Ata. Especial, pero\nresta PS bajo el sol.
+Sube la Velocidad si tiene\nun problema de estado.
+Todos los movimientos del\nPokémon pasan a ser Normal.
+Potencia los movimientos\nsi aciertan golpes críticos.
+El Pokémon solo recibe\ndaño de los ataques.
+Garantiza que acierten los\nataques propios y del rival.
+El Pokémon se mueve después\nincluso de rivales más lentos.
+Potencia los movimientos\nmás débiles del Pokémon.
+Evita problemas de estado\nbajo el sol.
+El Pokémon no puede usar\nobjetos que lleve.
+Los movimientos se usan\nsin tener en cuenta habilidades.
+Aumenta la ratio de golpes\ncríticos de los movimientos.
+Daña al rival que da\nel golpe de gracia.
+Intuye los movimientos\npeligrosos del rival.
+Revela los movimientos\nque tiene el rival.
+Ignora cualquier cambio de\nhabilidad del rival.
+Potencia los movimientos\n“poco eficaces”.
+Reduce el daño de los\nataques supereficaces.
+Reduce a la mitad el Ataque\ny la Velocidad temporalmente.
+Permite acertar a los\nrivales de tipo Fantasma.
+El Pokémon atrae todos los\nmovimientos de tipo Agua.
+El Pokémon recupera PS en\nlas tormentas de granizo.
+Reduce el daño de los\nataques supereficaces
+El Pokémon invoca una\ntormenta de granizo en combate.
+El Pokémon puede recoger\nMiel de algún sitio.
+El Pokémon puede ver el\nobjeto que lleva el rival.
+Potencia los movimientos\ncon daño por retroceso.
+Cambia de tipo según la\nTablilla que lleve.
+Potencia al equipo\ncuando hace sol.
+Reduce los PS de un\nrival dormido.
+Roba un objeto al recibir\nun golpe de otro Pokémon.
+Elimina efectos adicionales\na cambio de más daño.
+Invierte los cambios\nde estadísticas.
+Impide a los rivales\ncomer Bayas.
+Cuando bajan sus estadísticas,\nsube su Ataque.
+Bajan sus estadísticas al quedarse\ncon la mitad de PS o menos.
+Puede anular un movimiento\nusado contra el Pokémon.
+Puede curar los problemas de\nestado de un aliado.
+Reduce el daño\nque reciben los aliados.
+Los ataques físicos bajan la\nDefensa y suben la Velocidad.
+Duplica el peso\ndel Pokémon.
+Reduce a la mitad el peso\ndel Pokémon.
+Reduce el daño cuando\ntiene los PS al máximo.
+Potencia los ataques físicos\ncuando está envenenado.
+Potencia los ataques especiales\ncuando tiene quemaduras.
+Puede crear otra Baya\ntras usar una.
+Anticipa el ataque de un\naliado y lo esquiva.
+Sube mucho una estadística\ny baja otra.
+Protege al Pokémon del\ndaño del tiempo atmosférico.
+Puede envenenar al objetivo\nal entrar en contacto.
+Restaura algo de PS al ser\nretirado del combate.
+Protege de los ataques que\nreducen la Defensa.
+Aumenta la Velocidad del Pokémon\nen la tormenta de arena.
+Hace que los movimientos de\nestado fallen más a menudo.
+Aumenta la potencia si el\nPokémon se mueve al final.
+Aparece disfrazado del\nPokémon que está detrás.
+Se transforma en el\nPokémon al que se enfrenta.
+Atraviesa la barrera del\nrival y lo golpea.
+El contacto con este Pokémon\npropaga esta habilidad.
+Sube el Ataque al debilitar\na cualquier Pokémon.
+Sube el Ataque al recibir un\nmovimiento de tipo Siniestro.
+Algunos tipos de movimiento lo\nasustan y suben su Velocidad.
+Refleja los movimientos\nque cambian el estado.
+Sube el Ataque al recibir un\nmovimiento de tipo Planta.
+Da prioridad a los\nmovimientos de estado.
+Potencia ciertos movimientos\nen la tormenta de arena.
+Inflige daño al Pokémon\nal entrar en contacto.
+Cambia la forma del Pokémon\nal quedar con la mitad de PS.
+Aumenta la Precisión de sus\naliados y de sí mismo.
+Los movimientos se usan\nsin tener en cuenta habilidades.
+Los movimientos se usan\nsin tener en cuenta habilidades.
+Protege de los ataques que\nlimitan la elección de movimientos.
+Protege a los aliados de tipo\nPlanta de efectos de estado.
+También restaura PS cuando\nel Pokémon come una Baya.
+Cambia su tipo al del movimiento\nque está a punto de usar.
+Reduce a la mitad el daño de\nlos movimientos físicos.
+Roba el objeto que lleva el\nPokémon al que golpea.
+Protege al Pokémon de algunos\nmovimientos de bola y bomba.
+Sube mucho el Ata. Especial\ncuando baja una estadística.
+Aumenta la potencia de los\nmovimientos de mordisco.
+Los movimientos de tipo Normal\npasan a Hielo y se potencian.
+Evita que él y sus aliados\nse duerman.
+Cambia entre Forma Filo y\nForma Escudo con los ataques.
+Los movimientos de tipo Volador\nganan prioridad con los PS llenos.
+Potencia los movimientos de\naura y de pulso.
+Sube la Defensa en el\nCampo de Hierba.
+Pasa su objeto a un aliado\nque ya haya usado el suyo.
+Potencia los movimientos que\ntienen contacto directo.
+Los movimientos de tipo Normal\npasan a Hada y se potencian.
+El contacto reduce la\nVelocidad del atacante.
+Los movimientos de tipo Normal\npasan a Volador y se potencian.
+Madre e hijo\natacan a la vez.
+Potencia los movimientos de tipo\nSiniestro de todos.
+Potencia los movimientos de tipo\nHada de todos.
+Los efectos de las habilidades\nde “aura” se invierten.
+Cambia el tiempo para anular\nlos movimientos de tipo Fuego.
+Cambia el tiempo para anular\nlos movimientos de tipo Agua.
+Cambia el tiempo y elimina\nlas debilidades de tipo Volador.
+Sube la Defensa al\nrecibir un ataque.
+Huye cobardemente al quedar\ncon la mitad de PS o menos.
+Se retira al quedar con la\nmitad de PS o menos.
+Sube mucho la Defensa al recibir\nun movimiento de tipo Agua.
+Sus ataques son críticos si\nel objetivo está envenenado.
+Su coraza se rompe al quedar\ncon la mitad de PS o menos.
+Inflige el doble de daño al\nsustituto del objetivo.
+Debilita los movimientos de tipo\nFuego y evita las quemaduras.
+Potencia los movimientos\nde tipo Acero.
+Sube el Ata. Especial si un golpe\nlo deja con la mitad de PS o menos.
+Aumenta la Velocidad del Pokémon\nen la tormenta de granizo.
+Usa movimientos sin entrar\nen contacto con el objetivo.
+Sus movimientos de sonido\npasan a ser de tipo Agua.
+Da prioridad a los\nmovimientos de curación.
+Los movimientos de tipo Normal\npasan a Eléctrico y se potencian.
+Duplica la Velocidad en el\nCampo Eléctrico.
+Forma un banco poderoso\nmientras tiene muchos PS.
+Su sudario lo protege de\nun ataque, solo una vez.
+Al debilitar a un rival,\nse convierte en Greninja Ash.
+Cambia con otras Células si\nsus PS bajan a la mitad o menos.
+Puede envenenar a objetivos\nde tipo Acero y Veneno.
+Está siempre somnoliento y\nataca sin despertarse.
+Impide a los rivales usar\nataques con prioridad.
+Daña al atacante que da\nel golpe de gracia.
+Repite al instante el movimiento\nde danza de otro Pokémon.
+Potencia los movimientos especiales\nde los Pokémon aliados.
+Resiste el daño por contacto,\npero es débil al tipo Fuego.
+Impide a los rivales usar\nataques con prioridad.
+Sube el Ata. Especial cada vez\nque un Pokémon se debilita.
+El contacto reduce la\nVelocidad del atacante.
+Copia la habilidad de\nun aliado debilitado.
+Copia la habilidad de\nun aliado debilitado.
+Sube su mejor estadística cada\nvez que debilita a un rival.
+Su tipo coincide con el\ndisco de memoria que lleve.
+Convierte el suelo en un\nCampo Eléctrico.
+Convierte el suelo en un\nCampo Psíquico.
+Convierte el suelo en una\nNiebla Mística.
+Convierte el suelo en un\nCampo de Hierba.
+Impide que otros Pokémon\nreduzcan sus estadísticas.
+Resiste el daño mientras\ntiene los PS al máximo.
+Reduce el daño de los\nataques supereficaces.
+Potencia los movimientos\nsupereficaces.
+Sube el Ataque al\nentrar en combate.
+Sube la Defensa al\nentrar en combate.
+Cambia su tipo al del movimiento\nque está a punto de usar.
+Recupera la primera Poké Ball\nlanzada si falló.
+Esparce pelusa que reduce la\nVelocidad al recibir un golpe.
+Los movimientos de este Pokémon\nno pueden redirigirse.
+Rechaza los efectos que\nreducen estadísticas.
+Atrapa presas con Surf o Buceo\ny las escupe al recibir un golpe.
+Los movimientos de este Pokémon\nno pueden redirigirse.
+Sube mucho la Velocidad si\nrecibe un golpe de Fuego o Agua.
+Potencia sus movimientos de sonido.\nResiste los de los demás.
+Crea una tormenta de arena\nal recibir un ataque.
+Reduce a la mitad el daño\nrecibido de movimientos especiales.
+Madura las Bayas y\nduplica su efecto.
+Bloquea un golpe físico, pero\nla cabeza de hielo se rompe.
+Solo con estar cerca del Pokémon\nse potencian los movimientos.
+Cambia de tipo según\nel terreno.
+Al entrar en combate, elimina\nReflejo y efectos similares.
+Potencia los movimientos de tipo\nAcero de los aliados.
+Ambos Pokémon se debilitan 3 turnos\ntras un golpe por contacto.
+Intercambia su habilidad con quien\nentra en contacto.
+Sube el Ataque, pero solo permite\nusar un movimiento.
+Anula los efectos del\nresto de habilidades.
+Protege al Pokémon y a sus\naliados del envenenamiento.
+Alterna entre Modo Saciado y\nModo Voraz cada turno.
+Permite al Pokémon moverse\nprimero de vez en cuando.
+Los movimientos de contacto del\nPokémon ignoran las protecciones.
+Elimina los cambios de estadísticas\nde los aliados al entrar en combate.
+Potencia los movimientos\nde tipo Eléctrico.
+Potencia los movimientos\nde tipo Dragón.
+Al debilitar a un objetivo,\nsube el Ataque.
+Al debilitar a un objetivo,\nsube el Ataque Especial.
+Combina Nerviosismo\ny Relincho Blanco.
+Combina Nerviosismo\ny Relincho Negro.
+El contacto con este Pokémon\npropaga esta habilidad.
+Convierte el suelo en un Campo\nde Hierba si recibe un ataque.
+Sube el Ataque si recibe un\nmovimiento de Fuego. Evita quemaduras.
+Sube sus estadísticas si un golpe\nlo deja con la mitad de PS o menos.
+Evita problemas de estado.\nDebilita los movimientos Fantasma.
+Sube la Defensa si recibe\nun movimiento de tipo Fuego.
+Sube el Ataque si recibe\nun movimiento de viento.
+Sube el Ataque al ser intimidado.\nImpide los cambios forzados.
+Potencia los movimientos\nde tipo Roca.
+Se carga si recibe un\nmovimiento de viento.
+Adopta la Forma Héroe al\nser cambiado.
+Entra en la boca de\nun Dondozo aliado.
+Se carga al recibir\nun ataque.
+Sube su mejor estadística\ncon sol abrumador.
+Sube su mejor estadística\nen el Campo Eléctrico.
+Este Pokémon es inmune a\ntodos los movimientos de estado.
+Reduce el Ataque Especial\nde los demás Pokémon.
+Reduce la Defensa\nde los demás Pokémon.
+Reduce el Ataque\nde los demás Pokémon.
+Reduce la Defensa Especial\nde los demás Pokémon.
+Hace que salga el sol.\nSube el Ataque bajo el sol.
+Crea un Campo Eléctrico.\nSube el Ata. Especial dentro de él.
+Si el rival sube una estadística,\nsube esa misma estadística.
+Tras comer una Baya,\nla vuelve a comer al turno siguiente.
+Potencia los movimientos\nde corte.
+Sube el Ataque y el Ata. Especial\nsi sus aliados han caído.
+Copia los cambios de estadísticas\nde un aliado al salir.
+Esparce púas venenosas si\nrecibe movimientos físicos.
+Impide a los rivales usar\nataques con prioridad.
+Restaura PS si recibe un\nmovimiento de tipo Tierra.
+Los movimientos de estado van al\nfinal, pero ignoran las habilidades.
+Al entrar, restaura los PS\nde un aliado.
+Ignora los cambios de Precisión\ny la inmunidad de tipo Fantasma.
+La Máscara Turquesa brilla\ny sube la Velocidad.
+La Máscara Manantial brilla\ny sube la Def. Especial.
+La Máscara Hoguera brilla\ny sube el Ataque.
+La Máscara Cimiento brilla\ny sube la Defensa.
+Puede envenenar gravemente al\nobjetivo al entrar en contacto.
+Reduce la Evasión de los\nPokémon al entrar por primera vez.
+Adopta la Forma Teracristal\nal entrar en combate.
+Resiste todo el daño cuando\ntiene los PS al máximo.
+Anula los efectos del tiempo\natmosférico y del terreno.
+Los movimientos que envenenan\ntambién causan confusión.
+Los movimientos de contacto del\nPokémon ignoran las protecciones.
+Los movimientos de tipo Normal\npasan a Dragón y se potencian.
 Placeholder
 Placeholder
-All moves act as if\nHarsh Sunlight is active.
+Todos los movimientos actúan como\nsi hubiera sol abrumador.
 Placeholder
 Placeholder
-Burns the attacker upon\ntaking damage.
+Quema al atacante al\nrecibir daño.

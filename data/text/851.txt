@@ -1,856 +1,856 @@
-a {COLOR 255}Rotom Phone{COLOR 0}
-a {COLOR 255}Sandwich{COLOR 0}
-a {COLOR 255}Koraidon’s Poké Ball{COLOR 0}
-a {COLOR 255}Miraidon’s Poké Ball{COLOR 0}
-a {COLOR 255}Tera Orb{COLOR 0}
-a {COLOR 255}Scarlet Book{COLOR 0}
-a {COLOR 255}Violet Book{COLOR 0}
-a {COLOR 255}Kofu’s Wallet{COLOR 0}
-
-
-
-
-
-a {COLOR 255}Tiny Bamboo Shoot{COLOR 0}
-a {COLOR 255}Big Bamboo Shoot{COLOR 0}
-
-
-
-
-
-
-
-
-
-
-
-
-
-a {COLOR 255}Scroll of Darkness{COLOR 0}
-the {COLOR 255}Scroll of Waters{COLOR 0}
-
-
-a {COLOR 255}Malicious Armor{COLOR 0}
-a {COLOR 255}Normal Tera Shard{COLOR 0}
-a {COLOR 255}Fire Tera Shard{COLOR 0}
-a {COLOR 255}Water Tera Shard{COLOR 0}
-an {COLOR 255}Electric Tera Shard{COLOR 0}
-a {COLOR 255}Grass Tera Shard{COLOR 0}
-an {COLOR 255}Ice Tera Shard{COLOR 0}
-a {COLOR 255}Fighting Tera Shard{COLOR 0}
-a {COLOR 255}Poison Tera Shard{COLOR 0}
-a {COLOR 255}Ground Tera Shard{COLOR 0}
-a {COLOR 255}Flying Tera Shard{COLOR 0}
-a {COLOR 255}Psychic Tera Shard{COLOR 0}
-a {COLOR 255}Bug Tera Shard{COLOR 0}
-a {COLOR 255}Rock Tera Shard{COLOR 0}
-a {COLOR 255}Ghost Tera Shard{COLOR 0}
-a {COLOR 255}Dragon Tera Shard{COLOR 0}
-a {COLOR 255}Dark Tera Shard{COLOR 0}
-a {COLOR 255}Steel Tera Shard{COLOR 0}
-a {COLOR 255}Fairy Tera Shard{COLOR 0}
-a {COLOR 255}Booster Energy{COLOR 0}
-an {COLOR 255}Ability Shield{COLOR 0}
-a {COLOR 255}Clear Amulet{COLOR 0}
-a {COLOR 255}Mirror Herb{COLOR 0}
-a {COLOR 255}Punching Glove{COLOR 0}
-a {COLOR 255}Covert Cloak{COLOR 0}
-a {COLOR 255}Loaded Dice{COLOR 0}
-
-a {COLOR 255}Baguette{COLOR 0}
-a {COLOR 255}Mayonnaise{COLOR 0}
-a {COLOR 255}Ketchup{COLOR 0}
-a {COLOR 255}Mustard{COLOR 0}
-a {COLOR 255}Butter{COLOR 0}
-a {COLOR 255}Peanut Butter{COLOR 0}
-a {COLOR 255}Chili Sauce{COLOR 0}
-a {COLOR 255}Salt{COLOR 0}
-a {COLOR 255}Pepper{COLOR 0}
-a {COLOR 255}Yogurt{COLOR 0}
-a {COLOR 255}Whipped Cream{COLOR 0}
-a {COLOR 255}Cream Cheese{COLOR 0}
-a {COLOR 255}Jam{COLOR 0}
-a {COLOR 255}Marmalade{COLOR 0}
-an {COLOR 255}Olive Oil{COLOR 0}
-a {COLOR 255}Vinegar{COLOR 0}
-a {COLOR 255}Sweet Herba Mystica{COLOR 0}
-a {COLOR 255}Salty Herba Mystica{COLOR 0}
-a {COLOR 255}Sour Herba Mystica{COLOR 0}
-a {COLOR 255}Bitter Herba Mystica{COLOR 0}
-a {COLOR 255}Spicy Herba Mystica{COLOR 0}
-a {COLOR 255}Lettuce{COLOR 0}
-a {COLOR 255}Tomato{COLOR 0}
-the {COLOR 255}Cherry Tomatoes{COLOR 0}
-a {COLOR 255}Cucumber{COLOR 0}
-a {COLOR 255}Pickle{COLOR 0}
-an {COLOR 255}Onion{COLOR 0}
-a {COLOR 255}Red Onion{COLOR 0}
-a {COLOR 255}Green Bell Pepper{COLOR 0}
-a {COLOR 255}Red Bell Pepper{COLOR 0}
-a {COLOR 255}Yellow Bell Pepper{COLOR 0}
-an {COLOR 255}Avocado{COLOR 0}
-a {COLOR 255}Bacon{COLOR 0}
-a {COLOR 255}Ham{COLOR 0}
-a {COLOR 255}Prosciutto{COLOR 0}
-a {COLOR 255}Chorizo{COLOR 0}
-a {COLOR 255}Herbed Sausage{COLOR 0}
-a {COLOR 255}Hamburger{COLOR 0}
-a {COLOR 255}Klawf Stick{COLOR 0}
-a {COLOR 255}Smoked Fillet{COLOR 0}
-a {COLOR 255}Fried Fillet{COLOR 0}
-an {COLOR 255}Egg{COLOR 0}
-a {COLOR 255}Potato Tortilla{COLOR 0}
-a {COLOR 255}Tofu{COLOR 0}
-a {COLOR 255}Rice{COLOR 0}
-the {COLOR 255}Noodles{COLOR 0}
-a {COLOR 255}Potato Salad{COLOR 0}
-a {COLOR 255}Cheese{COLOR 0}
-a {COLOR 255}Banana{COLOR 0}
-a {COLOR 255}Strawberry{COLOR 0}
-an {COLOR 255}Apple{COLOR 0}
-a {COLOR 255}Kiwi{COLOR 0}
-a {COLOR 255}Pineapple{COLOR 0}
-a {COLOR 255}Jalapeño{COLOR 0}
-a {COLOR 255}Horseradish{COLOR 0}
-a {COLOR 255}Curry Powder{COLOR 0}
-a {COLOR 255}Wasabi{COLOR 0}
-a {COLOR 255}Watercress{COLOR 0}
-a {COLOR 255}Basil{COLOR 0}
-
-
-
-
-
-
-
-
-
-a {COLOR 255}Venonat Fang{COLOR 0}
-a {COLOR 255}Diglett Dirt{COLOR 0}
-a {COLOR 255}Meowth Fur{COLOR 0}
-a {COLOR 255}Psyduck Down{COLOR 0}
-a {COLOR 255}Mankey Fur{COLOR 0}
-a {COLOR 255}Growlithe Fur{COLOR 0}
-a {COLOR 255}Slowpoke Claw{COLOR 0}
-a {COLOR 255}Magnemite Screw{COLOR 0}
-a {COLOR 255}Grimer Toxin{COLOR 0}
-a {COLOR 255}Shellder Pearl{COLOR 0}
-the {COLOR 255}Gastly Gas{COLOR 0}
-a {COLOR 255}Drowzee Fur{COLOR 0}
-the {COLOR 255}Voltorb Sparks{COLOR 0}
-a {COLOR 255}Scyther Claw{COLOR 0}
-a {COLOR 255}Tauros Hair{COLOR 0}
-the {COLOR 255}Magikarp Scales{COLOR 0}
-a {COLOR 255}Ditto Goo{COLOR 0}
-an {COLOR 255}Eevee Fur{COLOR 0}
-the {COLOR 255}Dratini Scales{COLOR 0}
-a {COLOR 255}Pichu Fur{COLOR 0}
-an {COLOR 255}Igglybuff Fluff{COLOR 0}
-a {COLOR 255}Mareep Wool{COLOR 0}
-a {COLOR 255}Hoppip Leaf{COLOR 0}
-a {COLOR 255}Sunkern Leaf{COLOR 0}
-a {COLOR 255}Murkrow Bauble{COLOR 0}
-the {COLOR 255}Misdreavus Tears{COLOR 0}
-a {COLOR 255}Girafarig Fur{COLOR 0}
-a {COLOR 255}Pineco Husk{COLOR 0}
-the {COLOR 255}Dunsparce Scales{COLOR 0}
-the {COLOR 255}Qwilfish Spines{COLOR 0}
-a {COLOR 255}Heracross Claw{COLOR 0}
-a {COLOR 255}Sneasel Claw{COLOR 0}
-a {COLOR 255}Teddiursa Claw{COLOR 0}
-a {COLOR 255}Delibird Parcel{COLOR 0}
-a {COLOR 255}Houndour Fang{COLOR 0}
-a {COLOR 255}Phanpy Nail{COLOR 0}
-a {COLOR 255}Stantler Hair{COLOR 0}
-a {COLOR 255}Larvitar Claw{COLOR 0}
-a {COLOR 255}Wingull Feather{COLOR 0}
-a {COLOR 255}Ralts Dust{COLOR 0}
-a {COLOR 255}Surskit Syrup{COLOR 0}
-the {COLOR 255}Shroomish Spores{COLOR 0}
-a {COLOR 255}Slakoth Fur{COLOR 0}
-a {COLOR 255}Makuhita Sweat{COLOR 0}
-an {COLOR 255}Azurill Fur{COLOR 0}
-a {COLOR 255}Sableye Gem{COLOR 0}
-a {COLOR 255}Meditite Sweat{COLOR 0}
-a {COLOR 255}Gulpin Mucus{COLOR 0}
-a {COLOR 255}Numel Lava{COLOR 0}
-a {COLOR 255}Torkoal Coal{COLOR 0}
-a {COLOR 255}Spoink Pearl{COLOR 0}
-a {COLOR 255}Cacnea Needle{COLOR 0}
-a {COLOR 255}Swablu Fluff{COLOR 0}
-a {COLOR 255}Zangoose Claw{COLOR 0}
-a {COLOR 255}Seviper Fang{COLOR 0}
-a {COLOR 255}Barboach Slime{COLOR 0}
-a {COLOR 255}Shuppet Scrap{COLOR 0}
-a {COLOR 255}Tropius Leaf{COLOR 0}
-a {COLOR 255}Snorunt Fur{COLOR 0}
-the {COLOR 255}Luvdisc Scales{COLOR 0}
-the {COLOR 255}Bagon Scales{COLOR 0}
-a {COLOR 255}Starly Feather{COLOR 0}
-a {COLOR 255}Kricketot Shell{COLOR 0}
-a {COLOR 255}Shinx Fang{COLOR 0}
-a {COLOR 255}Combee Honey{COLOR 0}
-a {COLOR 255}Pachirisu Fur{COLOR 0}
-a {COLOR 255}Buizel Fur{COLOR 0}
-a {COLOR 255}Shellos Mucus{COLOR 0}
-the {COLOR 255}Drifloon Gas{COLOR 0}
-a {COLOR 255}Stunky Fur{COLOR 0}
-a {COLOR 255}Bronzor Fragment{COLOR 0}
-the {COLOR 255}Bonsly Tears{COLOR 0}
-a {COLOR 255}Happiny Dust{COLOR 0}
-a {COLOR 255}Spiritomb Fragment{COLOR 0}
-the {COLOR 255}Gible Scales{COLOR 0}
-a {COLOR 255}Riolu Fur{COLOR 0}
-a {COLOR 255}Hippopotas Sand{COLOR 0}
-a {COLOR 255}Croagunk Poison{COLOR 0}
-the {COLOR 255}Finneon Scales{COLOR 0}
-the {COLOR 255}Snover Berries{COLOR 0}
-the {COLOR 255}Rotom Sparks{COLOR 0}
-a {COLOR 255}Petilil Leaf{COLOR 0}
-a {COLOR 255}Basculin Fang{COLOR 0}
-a {COLOR 255}Sandile Claw{COLOR 0}
-a {COLOR 255}Zorua Fur{COLOR 0}
-a {COLOR 255}Gothita Eyelash{COLOR 0}
-a {COLOR 255}Deerling Hair{COLOR 0}
-the {COLOR 255}Foongus Spores{COLOR 0}
-an {COLOR 255}Alomomola Mucus{COLOR 0}
-a {COLOR 255}Tynamo Slime{COLOR 0}
-the {COLOR 255}Axew Scales{COLOR 0}
-a {COLOR 255}Cubchoo Fur{COLOR 0}
-a {COLOR 255}Cryogonal Ice{COLOR 0}
-a {COLOR 255}Pawniard Blade{COLOR 0}
-a {COLOR 255}Rufflet Feather{COLOR 0}
-the {COLOR 255}Deino Scales{COLOR 0}
-a {COLOR 255}Larvesta Fuzz{COLOR 0}
-a {COLOR 255}Fletchling Feather{COLOR 0}
-a {COLOR 255}Scatterbug Powder{COLOR 0}
-a {COLOR 255}Litleo Tuft{COLOR 0}
-a {COLOR 255}Flabébé Pollen{COLOR 0}
-a {COLOR 255}Skiddo Leaf{COLOR 0}
-a {COLOR 255}Skrelp Kelp{COLOR 0}
-a {COLOR 255}Clauncher Claw{COLOR 0}
-a {COLOR 255}Hawlucha Down{COLOR 0}
-a {COLOR 255}Dedenne Fur{COLOR 0}
-a {COLOR 255}Goomy Goo{COLOR 0}
-a {COLOR 255}Klefki Key{COLOR 0}
-a {COLOR 255}Bergmite Ice{COLOR 0}
-a {COLOR 255}Noibat Fur{COLOR 0}
-a {COLOR 255}Yungoos Fur{COLOR 0}
-a {COLOR 255}Crabrawler Shell{COLOR 0}
-an {COLOR 255}Oricorio Feather{COLOR 0}
-a {COLOR 255}Rockruff Rock{COLOR 0}
-a {COLOR 255}Mareanie Spike{COLOR 0}
-a {COLOR 255}Mudbray Mud{COLOR 0}
-a {COLOR 255}Fomantis Leaf{COLOR 0}
-the {COLOR 255}Salandit Gas{COLOR 0}
-a {COLOR 255}Bounsweet Sweat{COLOR 0}
-an {COLOR 255}Oranguru Fur{COLOR 0}
-a {COLOR 255}Passimian Fur{COLOR 0}
-a {COLOR 255}Sandygast Sand{COLOR 0}
-a {COLOR 255}Komala Claw{COLOR 0}
-a {COLOR 255}Mimikyu Scrap{COLOR 0}
-a {COLOR 255}Bruxish Tooth{COLOR 0}
-a {COLOR 255}Chewtle Claw{COLOR 0}
-a {COLOR 255}Skwovet Fur{COLOR 0}
-the {COLOR 255}Arrokuda Scales{COLOR 0}
-a {COLOR 255}Rookidee Feather{COLOR 0}
-the {COLOR 255}Toxel Sparks{COLOR 0}
-a {COLOR 255}Falinks Sweat{COLOR 0}
-a {COLOR 255}Cufant Tarnish{COLOR 0}
-a {COLOR 255}Rolycoly Coal{COLOR 0}
-a {COLOR 255}Silicobra Sand{COLOR 0}
-an {COLOR 255}Indeedee Fur{COLOR 0}
-the {COLOR 255}Pincurchin Spines{COLOR 0}
-a {COLOR 255}Snom Thread{COLOR 0}
-an {COLOR 255}Impidimp Hair{COLOR 0}
-an {COLOR 255}Applin Juice{COLOR 0}
-a {COLOR 255}Sinistea Chip{COLOR 0}
-a {COLOR 255}Hatenna Dust{COLOR 0}
-a {COLOR 255}Stonjourner Stone{COLOR 0}
-an {COLOR 255}Eiscue Down{COLOR 0}
-a {COLOR 255}Dreepy Powder{COLOR 0}
-
-
-
-a {COLOR 255}Lechonk Hair{COLOR 0}
-a {COLOR 255}Tarountula Thread{COLOR 0}
-a {COLOR 255}Nymble Claw{COLOR 0}
-a {COLOR 255}Rellor Mud{COLOR 0}
-a {COLOR 255}Greavard Wax{COLOR 0}
-a {COLOR 255}Flittle Down{COLOR 0}
-a {COLOR 255}Wiglett Sand{COLOR 0}
-a {COLOR 255}Dondozo Whisker{COLOR 0}
-a {COLOR 255}Veluza Fillet{COLOR 0}
-a {COLOR 255}Finizen Mucus{COLOR 0}
-a {COLOR 255}Smoliv Oil{COLOR 0}
-a {COLOR 255}Capsakid Seed{COLOR 0}
-a {COLOR 255}Tadbulb Mucus{COLOR 0}
-a {COLOR 255}Varoom Fume{COLOR 0}
-an {COLOR 255}Orthworm Tarnish{COLOR 0}
-a {COLOR 255}Tandemaus Fur{COLOR 0}
-a {COLOR 255}Cetoddle Grease{COLOR 0}
-the {COLOR 255}Frigibax Scales{COLOR 0}
-the {COLOR 255}Tatsugiri Scales{COLOR 0}
-the {COLOR 255}Cyclizar Scales{COLOR 0}
-a {COLOR 255}Pawmi Fur{COLOR 0}
-
-
-a {COLOR 255}Wattrel Feather{COLOR 0}
-a {COLOR 255}Bombirdier Feather{COLOR 0}
-a {COLOR 255}Squawkabilly Feather{COLOR 0}
-a {COLOR 255}Flamigo Down{COLOR 0}
-a {COLOR 255}Klawf Claw{COLOR 0}
-a {COLOR 255}Nacli Salt{COLOR 0}
-a {COLOR 255}Glimmet Crystal{COLOR 0}
-a {COLOR 255}Shroodle Ink{COLOR 0}
-a {COLOR 255}Fidough Fur{COLOR 0}
-a {COLOR 255}Maschiff Fang{COLOR 0}
-a {COLOR 255}Bramblin Twig{COLOR 0}
-a {COLOR 255}Gimmighoul Coin{COLOR 0}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-a {COLOR 255}Tinkatink Hair{COLOR 0}
-a {COLOR 255}Charcadet Soot{COLOR 0}
-the {COLOR 255}Toedscool Flaps{COLOR 0}
-a {COLOR 255}Wooper Slime{COLOR 0}
-a {COLOR 255}TM100{COLOR 0}
-a {COLOR 255}TM101{COLOR 0}
-a {COLOR 255}TM102{COLOR 0}
-a {COLOR 255}TM103{COLOR 0}
-a {COLOR 255}TM104{COLOR 0}
-a {COLOR 255}TM105{COLOR 0}
-a {COLOR 255}TM106{COLOR 0}
-a {COLOR 255}TM107{COLOR 0}
-a {COLOR 255}TM108{COLOR 0}
-a {COLOR 255}TM109{COLOR 0}
-a {COLOR 255}TM110{COLOR 0}
-a {COLOR 255}TM111{COLOR 0}
-a {COLOR 255}TM112{COLOR 0}
-a {COLOR 255}TM113{COLOR 0}
-a {COLOR 255}TM114{COLOR 0}
-a {COLOR 255}TM115{COLOR 0}
-a {COLOR 255}TM116{COLOR 0}
-a {COLOR 255}TM117{COLOR 0}
-a {COLOR 255}TM118{COLOR 0}
-a {COLOR 255}TM119{COLOR 0}
-a {COLOR 255}TM120{COLOR 0}
-a {COLOR 255}TM121{COLOR 0}
-a {COLOR 255}TM122{COLOR 0}
-a {COLOR 255}TM123{COLOR 0}
-a {COLOR 255}TM124{COLOR 0}
-a {COLOR 255}TM125{COLOR 0}
-a {COLOR 255}TM126{COLOR 0}
-a {COLOR 255}TM127{COLOR 0}
-a {COLOR 255}TM128{COLOR 0}
-a {COLOR 255}TM129{COLOR 0}
-a {COLOR 255}TM130{COLOR 0}
-a {COLOR 255}TM131{COLOR 0}
-a {COLOR 255}TM132{COLOR 0}
-a {COLOR 255}TM133{COLOR 0}
-a {COLOR 255}TM134{COLOR 0}
-a {COLOR 255}TM135{COLOR 0}
-a {COLOR 255}TM136{COLOR 0}
-a {COLOR 255}TM137{COLOR 0}
-a {COLOR 255}TM138{COLOR 0}
-a {COLOR 255}TM139{COLOR 0}
-a {COLOR 255}TM140{COLOR 0}
-a {COLOR 255}TM141{COLOR 0}
-a {COLOR 255}TM142{COLOR 0}
-a {COLOR 255}TM143{COLOR 0}
-a {COLOR 255}TM144{COLOR 0}
-a {COLOR 255}TM145{COLOR 0}
-a {COLOR 255}TM146{COLOR 0}
-a {COLOR 255}TM147{COLOR 0}
-a {COLOR 255}TM148{COLOR 0}
-a {COLOR 255}TM149{COLOR 0}
-a {COLOR 255}TM150{COLOR 0}
-a {COLOR 255}TM151{COLOR 0}
-a {COLOR 255}TM152{COLOR 0}
-a {COLOR 255}TM153{COLOR 0}
-a {COLOR 255}TM154{COLOR 0}
-a {COLOR 255}TM155{COLOR 0}
-a {COLOR 255}TM156{COLOR 0}
-a {COLOR 255}TM157{COLOR 0}
-a {COLOR 255}TM158{COLOR 0}
-a {COLOR 255}TM159{COLOR 0}
-a {COLOR 255}TM160{COLOR 0}
-a {COLOR 255}TM161{COLOR 0}
-a {COLOR 255}TM162{COLOR 0}
-a {COLOR 255}TM163{COLOR 0}
-a {COLOR 255}TM164{COLOR 0}
-a {COLOR 255}TM165{COLOR 0}
-a {COLOR 255}TM166{COLOR 0}
-a {COLOR 255}TM167{COLOR 0}
-a {COLOR 255}TM168{COLOR 0}
-a {COLOR 255}TM169{COLOR 0}
-a {COLOR 255}TM170{COLOR 0}
-a {COLOR 255}TM171{COLOR 0}
-a {COLOR 255}TM172{COLOR 0}
-a {COLOR 255}TM173{COLOR 0}
-a {COLOR 255}TM174{COLOR 0}
-a {COLOR 255}TM175{COLOR 0}
-a {COLOR 255}TM176{COLOR 0}
-a {COLOR 255}TM177{COLOR 0}
-a {COLOR 255}TM178{COLOR 0}
-a {COLOR 255}TM179{COLOR 0}
-a {COLOR 255}TM180{COLOR 0}
-a {COLOR 255}TM181{COLOR 0}
-a {COLOR 255}TM182{COLOR 0}
-a {COLOR 255}TM183{COLOR 0}
-a {COLOR 255}TM184{COLOR 0}
-a {COLOR 255}TM185{COLOR 0}
-a {COLOR 255}TM186{COLOR 0}
-a {COLOR 255}TM187{COLOR 0}
-a {COLOR 255}TM188{COLOR 0}
-a {COLOR 255}TM189{COLOR 0}
-a {COLOR 255}TM190{COLOR 0}
-a {COLOR 255}TM191{COLOR 0}
-a {COLOR 255}TM192{COLOR 0}
-a {COLOR 255}TM193{COLOR 0}
-a {COLOR 255}TM194{COLOR 0}
-a {COLOR 255}TM195{COLOR 0}
-a {COLOR 255}TM196{COLOR 0}
-a {COLOR 255}TM197{COLOR 0}
-a {COLOR 255}TM198{COLOR 0}
-a {COLOR 255}TM199{COLOR 0}
-a {COLOR 255}TM200{COLOR 0}
-a {COLOR 255}TM201{COLOR 0}
-a {COLOR 255}TM202{COLOR 0}
-a {COLOR 255}TM203{COLOR 0}
-a {COLOR 255}TM204{COLOR 0}
-a {COLOR 255}TM205{COLOR 0}
-a {COLOR 255}TM206{COLOR 0}
-a {COLOR 255}TM207{COLOR 0}
-a {COLOR 255}TM208{COLOR 0}
-a {COLOR 255}TM209{COLOR 0}
-a {COLOR 255}TM210{COLOR 0}
-a {COLOR 255}TM211{COLOR 0}
-a {COLOR 255}TM212{COLOR 0}
-a {COLOR 255}TM213{COLOR 0}
-a {COLOR 255}TM214{COLOR 0}
-a {COLOR 255}TM215{COLOR 0}
-a {COLOR 255}TM216{COLOR 0}
-a {COLOR 255}TM217{COLOR 0}
-a {COLOR 255}TM218{COLOR 0}
-a {COLOR 255}TM219{COLOR 0}
-a {COLOR 255}TM220{COLOR 0}
-a {COLOR 255}TM221{COLOR 0}
-a {COLOR 255}TM222{COLOR 0}
-a {COLOR 255}TM223{COLOR 0}
-a {COLOR 255}TM224{COLOR 0}
-a {COLOR 255}TM225{COLOR 0}
-a {COLOR 255}TM226{COLOR 0}
-a {COLOR 255}TM227{COLOR 0}
-a {COLOR 255}TM228{COLOR 0}
-a {COLOR 255}TM229{COLOR 0}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-a {COLOR 255}Picnic Set{COLOR 0}
-
-an {COLOR 255}Academy Bottle{COLOR 0}
-an {COLOR 255}Academy Bottle{COLOR 0}
-a {COLOR 255}Polka-Dot Bottle{COLOR 0}
-a {COLOR 255}Striped Bottle{COLOR 0}
-a {COLOR 255}Diamond Bottle{COLOR 0}
-an {COLOR 255}Academy Cup{COLOR 0}
-an {COLOR 255}Academy Cup{COLOR 0}
-a {COLOR 255}Striped Cup{COLOR 0}
-a {COLOR 255}Polka-Dot Cup{COLOR 0}
-a {COLOR 255}Flower Pattern Cup{COLOR 0}
-an {COLOR 255}Academy Tablecloth{COLOR 0}
-an {COLOR 255}Academy Tablecloth{COLOR 0}
-a {COLOR 255}Whimsical Tablecloth{COLOR 0}
-a {COLOR 255}Leafy Tablecloth{COLOR 0}
-a {COLOR 255}Spooky Tablecloth{COLOR 0}
-
-an {COLOR 255}Academy Ball{COLOR 0}
-an {COLOR 255}Academy Ball{COLOR 0}
-a {COLOR 255}Marill Ball{COLOR 0}
-a {COLOR 255}Yarn Ball{COLOR 0}
-a {COLOR 255}Cyber Ball{COLOR 0}
-a {COLOR 255}Gold Pick{COLOR 0}
-a {COLOR 255}Silver Pick{COLOR 0}
-a {COLOR 255}Red-Flag Pick{COLOR 0}
-a {COLOR 255}Blue-Flag Pick{COLOR 0}
-a {COLOR 255}Pika-Pika Pick{COLOR 0}
-a {COLOR 255}Winking Pika Pick{COLOR 0}
-a {COLOR 255}Vee-Vee Pick{COLOR 0}
-a {COLOR 255}Smiling Vee Pick{COLOR 0}
-a {COLOR 255}Blue Poké Ball Pick{COLOR 0}
-
-an {COLOR 255}Auspicious Armor{COLOR 0}
-a {COLOR 255}Leader’s Crest{COLOR 0}
-
-
-a {COLOR 255}Pink Bottle{COLOR 0}
-a {COLOR 255}Blue Bottle{COLOR 0}
-a {COLOR 255}Yellow Bottle{COLOR 0}
-a {COLOR 255}Steel Bottle (R){COLOR 0}
-a {COLOR 255}Steel Bottle (Y){COLOR 0}
-a {COLOR 255}Steel Bottle (B){COLOR 0}
-a {COLOR 255}Silver Bottle{COLOR 0}
-a {COLOR 255}Barred Cup{COLOR 0}
-a {COLOR 255}Diamond Pattern Cup{COLOR 0}
-a {COLOR 255}Fire Pattern Cup{COLOR 0}
-a {COLOR 255}Pink Cup{COLOR 0}
-a {COLOR 255}Blue Cup{COLOR 0}
-a {COLOR 255}Yellow Cup{COLOR 0}
-a {COLOR 255}Pikachu Cup{COLOR 0}
-an {COLOR 255}Eevee Cup{COLOR 0}
-a {COLOR 255}Slowpoke Cup{COLOR 0}
-a {COLOR 255}Silver Cup{COLOR 0}
-an {COLOR 255}Exercise Ball{COLOR 0}
-a {COLOR 255}Plaid Tablecloth (Y){COLOR 0}
-a {COLOR 255}Plaid Tablecloth (B){COLOR 0}
-a {COLOR 255}Plaid Tablecloth (R){COLOR 0}
-a {COLOR 255}B&W Grass Tablecloth{COLOR 0}
-a {COLOR 255}Battle Tablecloth{COLOR 0}
-a {COLOR 255}Monstrous Tablecloth{COLOR 0}
-a {COLOR 255}Striped Tablecloth{COLOR 0}
-a {COLOR 255}Diamond Tablecloth{COLOR 0}
-a {COLOR 255}Polka-Dot Tablecloth{COLOR 0}
-a {COLOR 255}Lilac Tablecloth{COLOR 0}
-a {COLOR 255}Mint Tablecloth{COLOR 0}
-a {COLOR 255}Peach Tablecloth{COLOR 0}
-a {COLOR 255}Yellow Tablecloth{COLOR 0}
-a {COLOR 255}Blue Tablecloth{COLOR 0}
-a {COLOR 255}Pink Tablecloth{COLOR 0}
-a {COLOR 255}Gold Bottle{COLOR 0}
-a {COLOR 255}Bronze Bottle{COLOR 0}
-a {COLOR 255}Gold Cup{COLOR 0}
-a {COLOR 255}Bronze Cup{COLOR 0}
-a {COLOR 255}Green Poké Ball Pick{COLOR 0}
-a {COLOR 255}Red Poké Ball Pick{COLOR 0}
-a {COLOR 255}Party Sparkler Pick{COLOR 0}
-a {COLOR 255}Heroic Sword Pick{COLOR 0}
-a {COLOR 255}Magical Star Pick{COLOR 0}
-a {COLOR 255}Magical Heart Pick{COLOR 0}
-a {COLOR 255}Parasol Pick{COLOR 0}
-a {COLOR 255}Blue-Sky Flower Pick{COLOR 0}
-a {COLOR 255}Sunset Flower Pick{COLOR 0}
-a {COLOR 255}Sunrise Flower Pick{COLOR 0}
-a {COLOR 255}Blue Dish{COLOR 0}
-a {COLOR 255}Green Dish{COLOR 0}
-an {COLOR 255}Orange Dish{COLOR 0}
-a {COLOR 255}Red Dish{COLOR 0}
-a {COLOR 255}White Dish{COLOR 0}
-a {COLOR 255}Yellow Dish{COLOR 0}
-a {COLOR 255}Fairy Feather{COLOR 0}
-a {COLOR 255}Syrupy Apple{COLOR 0}
-an {COLOR 255}Unremarkable Teacup{COLOR 0}
-a {COLOR 255}Masterpiece Teacup{COLOR 0}
-a {COLOR 255}Teal Mask{COLOR 0}
-a {COLOR 255}Cornerstone Mask{COLOR 0}
-a {COLOR 255}Wellspring Mask{COLOR 0}
-a {COLOR 255}Hearthflame Mask{COLOR 0}
-a {COLOR 255}Teal Style Card{COLOR 0}
-a {COLOR 255}Crystal Cluster{COLOR 0}
-a {COLOR 255}Health Mochi{COLOR 0}
-a {COLOR 255}Muscle Mochi{COLOR 0}
-a {COLOR 255}Resist Mochi{COLOR 0}
-a {COLOR 255}Genius Mochi{COLOR 0}
-a {COLOR 255}Clever Mochi{COLOR 0}
-a {COLOR 255}Swift Mochi{COLOR 0}
-the {COLOR 255}Simple Chairs{COLOR 0}
-the {COLOR 255}Academy Chairs{COLOR 0}
-the {COLOR 255}Academy Chairs{COLOR 0}
-the {COLOR 255}Whimsical Chairs{COLOR 0}
-the {COLOR 255}Leafy Chairs{COLOR 0}
-the {COLOR 255}Spooky Chairs{COLOR 0}
-a {COLOR 255}Plaid Chairs (Y){COLOR 0}
-a {COLOR 255}Plaid Chairs (B){COLOR 0}
-a {COLOR 255}Plaid Chairs (R){COLOR 0}
-the {COLOR 255}B&W Grass Chairs{COLOR 0}
-the {COLOR 255}Battle Chairs{COLOR 0}
-the {COLOR 255}Monstrous Chairs{COLOR 0}
-the {COLOR 255}Striped Chairs{COLOR 0}
-the {COLOR 255}Diamond Chairs{COLOR 0}
-the {COLOR 255}Polka-Dot Chairs{COLOR 0}
-the {COLOR 255}Lilac Chairs{COLOR 0}
-the {COLOR 255}Mint Chairs{COLOR 0}
-the {COLOR 255}Peach Chairs{COLOR 0}
-the {COLOR 255}Yellow Chairs{COLOR 0}
-the {COLOR 255}Blue Chairs{COLOR 0}
-the {COLOR 255}Pink Chairs{COLOR 0}
-an {COLOR 255}Ekans Fang{COLOR 0}
-a {COLOR 255}Sandshrew Claw{COLOR 0}
-a {COLOR 255}Cleffa Fur{COLOR 0}
-a {COLOR 255}Vulpix Fur{COLOR 0}
-a {COLOR 255}Poliwag Slime{COLOR 0}
-a {COLOR 255}Bellsprout Vine{COLOR 0}
-a {COLOR 255}Geodude Fragment{COLOR 0}
-the {COLOR 255}Koffing Gas{COLOR 0}
-a {COLOR 255}Munchlax Fang{COLOR 0}
-a {COLOR 255}Sentret Fur{COLOR 0}
-a {COLOR 255}Hoothoot Feather{COLOR 0}
-a {COLOR 255}Spinarak Thread{COLOR 0}
-an {COLOR 255}Aipom Hair{COLOR 0}
-a {COLOR 255}Yanma Spike{COLOR 0}
-a {COLOR 255}Gligar Fang{COLOR 0}
-a {COLOR 255}Slugma Lava{COLOR 0}
-a {COLOR 255}Swinub Hair{COLOR 0}
-a {COLOR 255}Poochyena Fang{COLOR 0}
-a {COLOR 255}Lotad Leaf{COLOR 0}
-a {COLOR 255}Seedot Stem{COLOR 0}
-a {COLOR 255}Nosepass Fragment{COLOR 0}
-a {COLOR 255}Volbeat Fluid{COLOR 0}
-an {COLOR 255}Illumise Fluid{COLOR 0}
-a {COLOR 255}Corphish Shell{COLOR 0}
-the {COLOR 255}Feebas Scales{COLOR 0}
-a {COLOR 255}Duskull Fragment{COLOR 0}
-a {COLOR 255}Chingling Fragment{COLOR 0}
-a {COLOR 255}Timburr Sweat{COLOR 0}
-a {COLOR 255}Sewaddle Leaf{COLOR 0}
-a {COLOR 255}Ducklett Feather{COLOR 0}
-a {COLOR 255}Litwick Soot{COLOR 0}
-a {COLOR 255}Mienfoo Claw{COLOR 0}
-a {COLOR 255}Vullaby Feather{COLOR 0}
-a {COLOR 255}Carbink Jewel{COLOR 0}
-a {COLOR 255}Phantump Twig{COLOR 0}
-a {COLOR 255}Grubbin Thread{COLOR 0}
-a {COLOR 255}Cutiefly Powder{COLOR 0}
-the {COLOR 255}Jangmo-o Scales{COLOR 0}
-a {COLOR 255}Cramorant Down{COLOR 0}
-a {COLOR 255}Morpeko Snack{COLOR 0}
-a {COLOR 255}Poltchageist Powder{COLOR 0}
-a {COLOR 255}Fresh-Start Mochi{COLOR 0}
-a {COLOR 255}Roto-Stick{COLOR 0}
-a {COLOR 255}Glimmering Charm{COLOR 0}
-a {COLOR 255}Metal Alloy{COLOR 0}
-an {COLOR 255}Indigo Style Card{COLOR 0}
-an {COLOR 255}Oddish Leaf{COLOR 0}
-a {COLOR 255}Tentacool Stinger{COLOR 0}
-a {COLOR 255}Doduo Down{COLOR 0}
-a {COLOR 255}Seel Fur{COLOR 0}
-an {COLOR 255}Exeggcute Shell{COLOR 0}
-a {COLOR 255}Tyrogue Sweat{COLOR 0}
-a {COLOR 255}Rhyhorn Fang{COLOR 0}
-a {COLOR 255}Horsea Ink{COLOR 0}
-an {COLOR 255}Elekid Fur{COLOR 0}
-a {COLOR 255}Magby Hair{COLOR 0}
-a {COLOR 255}Lapras Teardrop{COLOR 0}
-a {COLOR 255}Porygon Fragment{COLOR 0}
-the {COLOR 255}Chinchou Sparks{COLOR 0}
-a {COLOR 255}Snubbull Hair{COLOR 0}
-a {COLOR 255}Skarmory Feather{COLOR 0}
-a {COLOR 255}Smeargle Paint{COLOR 0}
-a {COLOR 255}Plusle Fur{COLOR 0}
-a {COLOR 255}Minun Fur{COLOR 0}
-a {COLOR 255}Trapinch Shell{COLOR 0}
-a {COLOR 255}Beldum Claw{COLOR 0}
-a {COLOR 255}Cranidos Spike{COLOR 0}
-a {COLOR 255}Shieldon Claw{COLOR 0}
-a {COLOR 255}Blitzle Mane Hair{COLOR 0}
-a {COLOR 255}Drilbur Claw{COLOR 0}
-a {COLOR 255}Cottonee Fluff{COLOR 0}
-a {COLOR 255}Scraggy Sweat{COLOR 0}
-a {COLOR 255}Minccino Fur{COLOR 0}
-a {COLOR 255}Solosis Gel{COLOR 0}
-a {COLOR 255}Joltik Thread{COLOR 0}
-a {COLOR 255}Golett Shard{COLOR 0}
-an {COLOR 255}Espurr Fur{COLOR 0}
-an {COLOR 255}Inkay Ink{COLOR 0}
-a {COLOR 255}Pikipek Feather{COLOR 0}
-a {COLOR 255}Dewpider Thread{COLOR 0}
-a {COLOR 255}Comfey Flower{COLOR 0}
-a {COLOR 255}Minior Shell{COLOR 0}
-a {COLOR 255}Milcery Cream{COLOR 0}
-a {COLOR 255}Duraludon Tarnish{COLOR 0}
-an {COLOR 255}Articuno Treat{COLOR 0}
-a {COLOR 255}Zapdos Treat{COLOR 0}
-a {COLOR 255}Moltres Treat{COLOR 0}
-a {COLOR 255}Raikou Treat{COLOR 0}
-an {COLOR 255}Entei Treat{COLOR 0}
-a {COLOR 255}Suicune Treat{COLOR 0}
-a {COLOR 255}Lugia Treat{COLOR 0}
-a {COLOR 255}Ho-Oh Treat{COLOR 0}
-a {COLOR 255}Latias Treat{COLOR 0}
-a {COLOR 255}Latios Treat{COLOR 0}
-a {COLOR 255}Kyogre Treat{COLOR 0}
-a {COLOR 255}Groudon Treat{COLOR 0}
-a {COLOR 255}Rayquaza Treat{COLOR 0}
-a {COLOR 255}Cobalion Treat{COLOR 0}
-a {COLOR 255}Terrakion Treat{COLOR 0}
-a {COLOR 255}Virizion Treat{COLOR 0}
-a {COLOR 255}Reshiram Treat{COLOR 0}
-a {COLOR 255}Zekrom Treat{COLOR 0}
-a {COLOR 255}Kyurem Treat{COLOR 0}
-a {COLOR 255}Solgaleo Treat{COLOR 0}
-a {COLOR 255}Lunala Treat{COLOR 0}
-a {COLOR 255}Necrozma Treat{COLOR 0}
-a {COLOR 255}Kubfu Treat{COLOR 0}
-a {COLOR 255}Glastrier Treat{COLOR 0}
-a {COLOR 255}Spectrier Treat{COLOR 0}
-an {COLOR 255}Indigo Disk{COLOR 0}
-a {COLOR 255}Fiery Pick{COLOR 0}
-a {COLOR 255}Stellar Tera Shard{COLOR 0}
-a {COLOR 255}Mythical Pecha Berry{COLOR 0}
-a {COLOR 255}Blueberry Tablecloth{COLOR 0}
-the {COLOR 255}Blueberry Chairs{COLOR 0}
-a {COLOR 255}Synchro Machine{COLOR 0}
-a {COLOR 255}Meteorite{COLOR 0}
-a {COLOR 255}Scarlet Book{COLOR 0}
-a {COLOR 255}Violet Book{COLOR 0}
-a {COLOR 255}Briar’s Book{COLOR 0}
-a {COLOR 255}Seed of Mastery{COLOR 0}
-a {COLOR 255}Clefablite{COLOR 0}
-a {COLOR 255}Victreebelite{COLOR 0}
-a {COLOR 255}Starminite{COLOR 0}
-a {COLOR 255}Dragoninite{COLOR 0}
-a {COLOR 255}Meganiumite{COLOR 0}
-a {COLOR 255}Feraligite{COLOR 0}
-a {COLOR 255}Skarmorite{COLOR 0}
-a {COLOR 255}Froslassite{COLOR 0}
-a {COLOR 255}Heatranite{COLOR 0}
-a {COLOR 255}Darkranite{COLOR 0}
-a {COLOR 255}Emboarite{COLOR 0}
-a {COLOR 255}Excadrite{COLOR 0}
-a {COLOR 255}Scolipite{COLOR 0}
-a {COLOR 255}Scraftinite{COLOR 0}
-an {COLOR 255}Eelektrossite{COLOR 0}
-a {COLOR 255}Chandelurite{COLOR 0}
-a {COLOR 255}Chesnaughtite{COLOR 0}
-a {COLOR 255}Delphoxite{COLOR 0}
-a {COLOR 255}Greninjite{COLOR 0}
-a {COLOR 255}Pyroarite{COLOR 0}
-a {COLOR 255}Floettite{COLOR 0}
-a {COLOR 255}Malamarite{COLOR 0}
-a {COLOR 255}Barbaracite{COLOR 0}
-a {COLOR 255}Dragalgite{COLOR 0}
-a {COLOR 255}Hawluchanite{COLOR 0}
-a {COLOR 255}Zygardite{COLOR 0}
-a {COLOR 255}Drampanite{COLOR 0}
-a {COLOR 255}Zeraorite{COLOR 0}
-a {COLOR 255}Falinksite{COLOR 0}
-a {COLOR 255}Key to Room 202{COLOR 0}
-a {COLOR 255}Super Lumiose Galette{COLOR 0}
-a {COLOR 255}Lab Key Card A{COLOR 0}
-a {COLOR 255}Lab Key Card B{COLOR 0}
-a {COLOR 255}Lab Key Card C{COLOR 0}
+un {COLOR 255}SmartRotom{COLOR 0}
+un {COLOR 255}Bocadillo{COLOR 0}
+una {COLOR 255}Poké Ball de Koraidon{COLOR 0}
+una {COLOR 255}Poké Ball de Miraidon{COLOR 0}
+un {COLOR 255}Orbe Teracristal{COLOR 0}
+un {COLOR 255}Libro Escarlata{COLOR 0}
+un {COLOR 255}Libro Púrpura{COLOR 0}
+una {COLOR 255}Cartera de Fuco{COLOR 0}
+
+
+
+
+
+un {COLOR 255}Bambú pequeño{COLOR 0}
+un {COLOR 255}Bambú grande{COLOR 0}
+
+
+
+
+
+
+
+
+
+
+
+
+
+un {COLOR 255}Manuscrito sombras{COLOR 0}
+el {COLOR 255}Manuscrito aguas{COLOR 0}
+
+
+una {COLOR 255}Armadura maldita{COLOR 0}
+un {COLOR 255}Teralito normal{COLOR 0}
+un {COLOR 255}Teralito fuego{COLOR 0}
+un {COLOR 255}Teralito agua{COLOR 0}
+un {COLOR 255}Teralito eléctrico{COLOR 0}
+un {COLOR 255}Teralito planta{COLOR 0}
+un {COLOR 255}Teralito hielo{COLOR 0}
+un {COLOR 255}Teralito lucha{COLOR 0}
+un {COLOR 255}Teralito veneno{COLOR 0}
+un {COLOR 255}Teralito tierra{COLOR 0}
+un {COLOR 255}Teralito volador{COLOR 0}
+un {COLOR 255}Teralito psíquico{COLOR 0}
+un {COLOR 255}Teralito bicho{COLOR 0}
+un {COLOR 255}Teralito roca{COLOR 0}
+un {COLOR 255}Teralito fantasma{COLOR 0}
+un {COLOR 255}Teralito dragón{COLOR 0}
+un {COLOR 255}Teralito siniestro{COLOR 0}
+un {COLOR 255}Teralito acero{COLOR 0}
+un {COLOR 255}Teralito hada{COLOR 0}
+una {COLOR 255}Energía potenciadora{COLOR 0}
+un {COLOR 255}Escudo habilidad{COLOR 0}
+un {COLOR 255}Amuleto puro{COLOR 0}
+una {COLOR 255}Hierba copia{COLOR 0}
+un {COLOR 255}Guante de boxeo{COLOR 0}
+una {COLOR 255}Capa furtiva{COLOR 0}
+un {COLOR 255}Dado trucado{COLOR 0}
+
+una {COLOR 255}Barra de pan{COLOR 0}
+una {COLOR 255}Mayonesa{COLOR 0}
+un {COLOR 255}Kétchup{COLOR 0}
+una {COLOR 255}Mostaza{COLOR 0}
+una {COLOR 255}Mantequilla{COLOR 0}
+una {COLOR 255}Crema de cacahuete{COLOR 0}
+una {COLOR 255}Salsa picante{COLOR 0}
+una {COLOR 255}Sal{COLOR 0}
+una {COLOR 255}Pimienta{COLOR 0}
+un {COLOR 255}Yogur{COLOR 0}
+una {COLOR 255}Nata montada{COLOR 0}
+un {COLOR 255}Queso crema{COLOR 0}
+una {COLOR 255}Confitura de bayas{COLOR 0}
+una {COLOR 255}Mermelada{COLOR 0}
+un {COLOR 255}Aceite de oliva{COLOR 0}
+un {COLOR 255}Vinagre{COLOR 0}
+una {COLOR 255}Especia oculta dulce{COLOR 0}
+una {COLOR 255}Especia oculta salada{COLOR 0}
+una {COLOR 255}Especia oculta ácida{COLOR 0}
+una {COLOR 255}Especia oculta amarga{COLOR 0}
+una {COLOR 255}Especia oculta picante{COLOR 0}
+una {COLOR 255}Lechuga{COLOR 0}
+un {COLOR 255}Tomate{COLOR 0}
+el {COLOR 255}Tomate Cherry{COLOR 0}
+un {COLOR 255}Pepino{COLOR 0}
+un {COLOR 255}Pepinillo{COLOR 0}
+una {COLOR 255}Cebolla{COLOR 0}
+una {COLOR 255}Cebolla Roja{COLOR 0}
+un {COLOR 255}Pimiento Verde{COLOR 0}
+un {COLOR 255}Pimiento Rojo{COLOR 0}
+un {COLOR 255}Pimiento Amarillo{COLOR 0}
+un {COLOR 255}Aguacate{COLOR 0}
+una {COLOR 255}Panceta{COLOR 0}
+un {COLOR 255}Jamón cocido{COLOR 0}
+un {COLOR 255}Jamón Serrano{COLOR 0}
+un {COLOR 255}Chorizo{COLOR 0}
+una {COLOR 255}Butifarra{COLOR 0}
+una {COLOR 255}Hamburguesa{COLOR 0}
+un {COLOR 255}Surimi de Klawf{COLOR 0}
+un {COLOR 255}Filete Ahumado{COLOR 0}
+un {COLOR 255}Filete frito{COLOR 0}
+un {COLOR 255}Huevo cocido{COLOR 0}
+una {COLOR 255}Tortilla{COLOR 0}
+un {COLOR 255}Tofu{COLOR 0}
+un {COLOR 255}Arroz{COLOR 0}
+los {COLOR 255}Fideos{COLOR 0}
+una {COLOR 255}Ensaladilla{COLOR 0}
+un {COLOR 255}Queso{COLOR 0}
+un {COLOR 255}Plátano{COLOR 0}
+una {COLOR 255}Fresa{COLOR 0}
+una {COLOR 255}Manzana{COLOR 0}
+un {COLOR 255}Kiwi{COLOR 0}
+una {COLOR 255}Piña{COLOR 0}
+un {COLOR 255}Jalapeño{COLOR 0}
+un {COLOR 255}Rábano picante{COLOR 0}
+un {COLOR 255}Curri en polvo{COLOR 0}
+un {COLOR 255}Wasabi{COLOR 0}
+un {COLOR 255}Berros{COLOR 0}
+una {COLOR 255}Albahaca{COLOR 0}
+
+
+
+
+
+
+
+
+
+un {COLOR 255}Colmillo de Venonat{COLOR 0}
+una {COLOR 255}Tierra de Diglett{COLOR 0}
+un {COLOR 255}Pelo de Meowth{COLOR 0}
+un {COLOR 255}Plumón de Psyduck{COLOR 0}
+un {COLOR 255}Pelo de Mankey{COLOR 0}
+un {COLOR 255}Pelo de Growlithe{COLOR 0}
+una {COLOR 255}Garra de Slowpoke{COLOR 0}
+un {COLOR 255}Tornillo de Magnemite{COLOR 0}
+una {COLOR 255}Toxina de Grimer{COLOR 0}
+una {COLOR 255}Perla de Shellder{COLOR 0}
+el {COLOR 255}Gas de Gastly{COLOR 0}
+un {COLOR 255}Pelo de Drowzee{COLOR 0}
+los {COLOR 255}Chispas de Voltorb{COLOR 0}
+una {COLOR 255}Garra de Scyther{COLOR 0}
+un {COLOR 255}Pelo de Tauros{COLOR 0}
+los {COLOR 255}Escamas de Magikarp{COLOR 0}
+un {COLOR 255}Moco de Ditto{COLOR 0}
+un {COLOR 255}Pelo de Eevee{COLOR 0}
+los {COLOR 255}Escamas de Dratini{COLOR 0}
+un {COLOR 255}Pelo de Pichu{COLOR 0}
+una {COLOR 255}Pelusa de Igglybuff{COLOR 0}
+una {COLOR 255}Lana de Mareep{COLOR 0}
+una {COLOR 255}Hoja de Hoppip{COLOR 0}
+una {COLOR 255}Hoja de Sunkern{COLOR 0}
+un {COLOR 255}Abalorio de Murkrow{COLOR 0}
+los {COLOR 255}Lágrimas de Misdreavus{COLOR 0}
+un {COLOR 255}Pelo de Girafarig{COLOR 0}
+una {COLOR 255}Corteza de Pineco{COLOR 0}
+los {COLOR 255}Escamas de Dunsparce{COLOR 0}
+los {COLOR 255}Púas de Qwilfish{COLOR 0}
+una {COLOR 255}Garra de Heracross{COLOR 0}
+una {COLOR 255}Garra de Sneasel{COLOR 0}
+una {COLOR 255}Garra de Teddiursa{COLOR 0}
+un {COLOR 255}Paquete de Delibird{COLOR 0}
+un {COLOR 255}Colmillo de Houndour{COLOR 0}
+una {COLOR 255}Uña de Phanpy{COLOR 0}
+un {COLOR 255}Pelo de Stantler{COLOR 0}
+una {COLOR 255}Garra de Larvitar{COLOR 0}
+una {COLOR 255}Pluma de Wingull{COLOR 0}
+un {COLOR 255}Polvo de Ralts{COLOR 0}
+un {COLOR 255}Jarabe de Surskit{COLOR 0}
+los {COLOR 255}Esporas de Shroomish{COLOR 0}
+un {COLOR 255}Pelo de Slakoth{COLOR 0}
+un {COLOR 255}Sudor de Makuhita{COLOR 0}
+un {COLOR 255}Pelo de Azurill{COLOR 0}
+una {COLOR 255}Gema de Sableye{COLOR 0}
+un {COLOR 255}Sudor de Meditite{COLOR 0}
+una {COLOR 255}Mucosidad de Gulpin{COLOR 0}
+una {COLOR 255}Lava de Numel{COLOR 0}
+un {COLOR 255}Carbón de Torkoal{COLOR 0}
+una {COLOR 255}Perla de Spoink{COLOR 0}
+una {COLOR 255}Aguja de Cacnea{COLOR 0}
+una {COLOR 255}Pelusa de Swablu{COLOR 0}
+una {COLOR 255}Garra de Zangoose{COLOR 0}
+un {COLOR 255}Colmillo de Seviper{COLOR 0}
+una {COLOR 255}Baba de Barboach{COLOR 0}
+un {COLOR 255}Retal de Shuppet{COLOR 0}
+una {COLOR 255}Hoja de Tropius{COLOR 0}
+un {COLOR 255}Pelo de Snorunt{COLOR 0}
+los {COLOR 255}Escamas de Luvdisc{COLOR 0}
+los {COLOR 255}Escamas de Bagon{COLOR 0}
+una {COLOR 255}Pluma de Starly{COLOR 0}
+un {COLOR 255}Caparazón de Kricketot{COLOR 0}
+un {COLOR 255}Colmillo de Shinx{COLOR 0}
+una {COLOR 255}Miel de Combee{COLOR 0}
+un {COLOR 255}Pelo de Pachirisu{COLOR 0}
+un {COLOR 255}Pelo de Buizel{COLOR 0}
+una {COLOR 255}Mucosidad de Shellos{COLOR 0}
+el {COLOR 255}Gas de Drifloon{COLOR 0}
+un {COLOR 255}Pelo de Stunky{COLOR 0}
+un {COLOR 255}Fragmento de Bronzor{COLOR 0}
+los {COLOR 255}Lágrimas de Bonsly{COLOR 0}
+un {COLOR 255}Polvo de Happiny{COLOR 0}
+un {COLOR 255}Fragmento de Spiritomb{COLOR 0}
+los {COLOR 255}Escamas de Gible{COLOR 0}
+un {COLOR 255}Pelo de Riolu{COLOR 0}
+una {COLOR 255}Arena de Hippopotas{COLOR 0}
+un {COLOR 255}Veneno de Croagunk{COLOR 0}
+los {COLOR 255}Escamas de Finneon{COLOR 0}
+los {COLOR 255}Bayas de Snover{COLOR 0}
+los {COLOR 255}Chispas de Rotom{COLOR 0}
+una {COLOR 255}Hoja de Petilil{COLOR 0}
+un {COLOR 255}Colmillo de Basculin{COLOR 0}
+una {COLOR 255}Garra de Sandile{COLOR 0}
+un {COLOR 255}Pelo de Zorua{COLOR 0}
+una {COLOR 255}Pestaña de Gothita{COLOR 0}
+un {COLOR 255}Pelo de Deerling{COLOR 0}
+los {COLOR 255}Esporas de Foongus{COLOR 0}
+una {COLOR 255}Mucosidad de Alomomola{COLOR 0}
+una {COLOR 255}Baba de Tynamo{COLOR 0}
+los {COLOR 255}Escamas de Axew{COLOR 0}
+un {COLOR 255}Pelo de Cubchoo{COLOR 0}
+un {COLOR 255}Hielo de Cryogonal{COLOR 0}
+una {COLOR 255}Cuchilla de Pawniard{COLOR 0}
+una {COLOR 255}Pluma de Rufflet{COLOR 0}
+los {COLOR 255}Escamas de Deino{COLOR 0}
+una {COLOR 255}Pelusa de Larvesta{COLOR 0}
+una {COLOR 255}Pluma de Fletchling{COLOR 0}
+un {COLOR 255}Polvo de Scatterbug{COLOR 0}
+un {COLOR 255}Mechón de Litleo{COLOR 0}
+un {COLOR 255}Polen de Flabébé{COLOR 0}
+una {COLOR 255}Hoja de Skiddo{COLOR 0}
+una {COLOR 255}Alga de Skrelp{COLOR 0}
+una {COLOR 255}Pinza de Clauncher{COLOR 0}
+un {COLOR 255}Plumón de Hawlucha{COLOR 0}
+un {COLOR 255}Pelo de Dedenne{COLOR 0}
+una {COLOR 255}Baba de Goomy{COLOR 0}
+una {COLOR 255}Llave de Klefki{COLOR 0}
+un {COLOR 255}Hielo de Bergmite{COLOR 0}
+un {COLOR 255}Pelo de Noibat{COLOR 0}
+un {COLOR 255}Pelo de Yungoos{COLOR 0}
+un {COLOR 255}Caparazón de Crabrawler{COLOR 0}
+una {COLOR 255}Pluma de Oricorio{COLOR 0}
+una {COLOR 255}Roca de Rockruff{COLOR 0}
+una {COLOR 255}Púa de Mareanie{COLOR 0}
+un {COLOR 255}Lodo de Mudbray{COLOR 0}
+una {COLOR 255}Hoja de Fomantis{COLOR 0}
+el {COLOR 255}Gas de Salandit{COLOR 0}
+un {COLOR 255}Sudor de Bounsweet{COLOR 0}
+un {COLOR 255}Pelo de Oranguru{COLOR 0}
+un {COLOR 255}Pelo de Passimian{COLOR 0}
+una {COLOR 255}Arena de Sandygast{COLOR 0}
+una {COLOR 255}Garra de Komala{COLOR 0}
+un {COLOR 255}Retal de Mimikyu{COLOR 0}
+un {COLOR 255}Diente de Bruxish{COLOR 0}
+una {COLOR 255}Garra de Chewtle{COLOR 0}
+un {COLOR 255}Pelo de Skwovet{COLOR 0}
+los {COLOR 255}Escamas de Arrokuda{COLOR 0}
+una {COLOR 255}Pluma de Rookidee{COLOR 0}
+los {COLOR 255}Chispas de Toxel{COLOR 0}
+un {COLOR 255}Sudor de Falinks{COLOR 0}
+una {COLOR 255}Herrumbre de Cufant{COLOR 0}
+un {COLOR 255}Carbón de Rolycoly{COLOR 0}
+una {COLOR 255}Arena de Silicobra{COLOR 0}
+un {COLOR 255}Pelo de Indeedee{COLOR 0}
+los {COLOR 255}Púas de Pincurchin{COLOR 0}
+un {COLOR 255}Hilo de Snom{COLOR 0}
+un {COLOR 255}Pelo de Impidimp{COLOR 0}
+un {COLOR 255}Jugo de Applin{COLOR 0}
+un {COLOR 255}Fragmento de Sinistea{COLOR 0}
+un {COLOR 255}Polvo de Hatenna{COLOR 0}
+una {COLOR 255}Piedra de Stonjourner{COLOR 0}
+un {COLOR 255}Plumón de Eiscue{COLOR 0}
+un {COLOR 255}Polvo de Dreepy{COLOR 0}
+
+
+
+un {COLOR 255}Pelo de Lechonk{COLOR 0}
+un {COLOR 255}Hilo de Tarountula{COLOR 0}
+una {COLOR 255}Garra de Nymble{COLOR 0}
+un {COLOR 255}Lodo de Rellor{COLOR 0}
+una {COLOR 255}Cera de Greavard{COLOR 0}
+un {COLOR 255}Plumón de Flittle{COLOR 0}
+una {COLOR 255}Arena de Wiglett{COLOR 0}
+un {COLOR 255}Bigote de Dondozo{COLOR 0}
+un {COLOR 255}Filete de Veluza{COLOR 0}
+una {COLOR 255}Mucosidad de Finizen{COLOR 0}
+un {COLOR 255}Aceite de Smoliv{COLOR 0}
+una {COLOR 255}Semilla de Capsakid{COLOR 0}
+una {COLOR 255}Mucosidad de Tadbulb{COLOR 0}
+un {COLOR 255}Gas de Varoom{COLOR 0}
+una {COLOR 255}Herrumbre de Orthworm{COLOR 0}
+un {COLOR 255}Pelo de Tandemaus{COLOR 0}
+una {COLOR 255}Grasa de Cetoddle{COLOR 0}
+los {COLOR 255}Escamas de Frigibax{COLOR 0}
+los {COLOR 255}Escamas de Tatsugiri{COLOR 0}
+los {COLOR 255}Escamas de Cyclizar{COLOR 0}
+un {COLOR 255}Pelo de Pawmi{COLOR 0}
+
+
+una {COLOR 255}Pluma de Wattrel{COLOR 0}
+una {COLOR 255}Pluma de Bombirdier{COLOR 0}
+una {COLOR 255}Pluma de Squawkabilly{COLOR 0}
+un {COLOR 255}Plumón de Flamigo{COLOR 0}
+una {COLOR 255}Pinza de Klawf{COLOR 0}
+una {COLOR 255}Sal de Nacli{COLOR 0}
+un {COLOR 255}Cristal de Glimmet{COLOR 0}
+una {COLOR 255}Tinta de Shroodle{COLOR 0}
+un {COLOR 255}Pelo de Fidough{COLOR 0}
+un {COLOR 255}Colmillo de Maschiff{COLOR 0}
+una {COLOR 255}Rama de Bramblin{COLOR 0}
+una {COLOR 255}Moneda de Gimmighoul{COLOR 0}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+un {COLOR 255}Pelo de Tinkatink{COLOR 0}
+un {COLOR 255}Hollín de Charcadet{COLOR 0}
+la {COLOR 255}Lámina de Toedscool{COLOR 0}
+una {COLOR 255}Baba de Wooper{COLOR 0}
+un {COLOR 255}MT100{COLOR 0}
+un {COLOR 255}MT101{COLOR 0}
+un {COLOR 255}MT102{COLOR 0}
+un {COLOR 255}MT103{COLOR 0}
+un {COLOR 255}MT104{COLOR 0}
+un {COLOR 255}MT105{COLOR 0}
+un {COLOR 255}MT106{COLOR 0}
+un {COLOR 255}MT107{COLOR 0}
+un {COLOR 255}MT108{COLOR 0}
+un {COLOR 255}MT109{COLOR 0}
+un {COLOR 255}MT110{COLOR 0}
+un {COLOR 255}MT111{COLOR 0}
+un {COLOR 255}MT112{COLOR 0}
+un {COLOR 255}MT113{COLOR 0}
+un {COLOR 255}MT114{COLOR 0}
+un {COLOR 255}MT115{COLOR 0}
+un {COLOR 255}MT116{COLOR 0}
+un {COLOR 255}MT117{COLOR 0}
+un {COLOR 255}MT118{COLOR 0}
+un {COLOR 255}MT119{COLOR 0}
+un {COLOR 255}MT120{COLOR 0}
+un {COLOR 255}MT121{COLOR 0}
+un {COLOR 255}MT122{COLOR 0}
+un {COLOR 255}MT123{COLOR 0}
+un {COLOR 255}MT124{COLOR 0}
+un {COLOR 255}MT125{COLOR 0}
+un {COLOR 255}MT126{COLOR 0}
+un {COLOR 255}MT127{COLOR 0}
+un {COLOR 255}MT128{COLOR 0}
+un {COLOR 255}MT129{COLOR 0}
+un {COLOR 255}MT130{COLOR 0}
+un {COLOR 255}MT131{COLOR 0}
+un {COLOR 255}MT132{COLOR 0}
+un {COLOR 255}MT133{COLOR 0}
+un {COLOR 255}MT134{COLOR 0}
+un {COLOR 255}MT135{COLOR 0}
+un {COLOR 255}MT136{COLOR 0}
+un {COLOR 255}MT137{COLOR 0}
+un {COLOR 255}MT138{COLOR 0}
+un {COLOR 255}MT139{COLOR 0}
+un {COLOR 255}MT140{COLOR 0}
+un {COLOR 255}MT141{COLOR 0}
+un {COLOR 255}MT142{COLOR 0}
+un {COLOR 255}MT143{COLOR 0}
+un {COLOR 255}MT144{COLOR 0}
+un {COLOR 255}MT145{COLOR 0}
+un {COLOR 255}MT146{COLOR 0}
+un {COLOR 255}MT147{COLOR 0}
+un {COLOR 255}MT148{COLOR 0}
+un {COLOR 255}MT149{COLOR 0}
+un {COLOR 255}MT150{COLOR 0}
+un {COLOR 255}MT151{COLOR 0}
+un {COLOR 255}MT152{COLOR 0}
+un {COLOR 255}MT153{COLOR 0}
+un {COLOR 255}MT154{COLOR 0}
+un {COLOR 255}MT155{COLOR 0}
+un {COLOR 255}MT156{COLOR 0}
+un {COLOR 255}MT157{COLOR 0}
+un {COLOR 255}MT158{COLOR 0}
+un {COLOR 255}MT159{COLOR 0}
+un {COLOR 255}MT160{COLOR 0}
+un {COLOR 255}MT161{COLOR 0}
+un {COLOR 255}MT162{COLOR 0}
+un {COLOR 255}MT163{COLOR 0}
+un {COLOR 255}MT164{COLOR 0}
+un {COLOR 255}MT165{COLOR 0}
+un {COLOR 255}MT166{COLOR 0}
+un {COLOR 255}MT167{COLOR 0}
+un {COLOR 255}MT168{COLOR 0}
+un {COLOR 255}MT169{COLOR 0}
+un {COLOR 255}MT170{COLOR 0}
+un {COLOR 255}MT171{COLOR 0}
+un {COLOR 255}MT172{COLOR 0}
+un {COLOR 255}MT173{COLOR 0}
+un {COLOR 255}MT174{COLOR 0}
+un {COLOR 255}MT175{COLOR 0}
+un {COLOR 255}MT176{COLOR 0}
+un {COLOR 255}MT177{COLOR 0}
+un {COLOR 255}MT178{COLOR 0}
+un {COLOR 255}MT179{COLOR 0}
+un {COLOR 255}MT180{COLOR 0}
+un {COLOR 255}MT181{COLOR 0}
+un {COLOR 255}MT182{COLOR 0}
+un {COLOR 255}MT183{COLOR 0}
+un {COLOR 255}MT184{COLOR 0}
+un {COLOR 255}MT185{COLOR 0}
+un {COLOR 255}MT186{COLOR 0}
+un {COLOR 255}MT187{COLOR 0}
+un {COLOR 255}MT188{COLOR 0}
+un {COLOR 255}MT189{COLOR 0}
+un {COLOR 255}MT190{COLOR 0}
+un {COLOR 255}MT191{COLOR 0}
+un {COLOR 255}MT192{COLOR 0}
+un {COLOR 255}MT193{COLOR 0}
+un {COLOR 255}MT194{COLOR 0}
+un {COLOR 255}MT195{COLOR 0}
+un {COLOR 255}MT196{COLOR 0}
+un {COLOR 255}MT197{COLOR 0}
+un {COLOR 255}MT198{COLOR 0}
+un {COLOR 255}MT199{COLOR 0}
+un {COLOR 255}MT200{COLOR 0}
+un {COLOR 255}MT201{COLOR 0}
+un {COLOR 255}MT202{COLOR 0}
+un {COLOR 255}MT203{COLOR 0}
+un {COLOR 255}MT204{COLOR 0}
+un {COLOR 255}MT205{COLOR 0}
+un {COLOR 255}MT206{COLOR 0}
+un {COLOR 255}MT207{COLOR 0}
+un {COLOR 255}MT208{COLOR 0}
+un {COLOR 255}MT209{COLOR 0}
+un {COLOR 255}MT210{COLOR 0}
+un {COLOR 255}MT211{COLOR 0}
+un {COLOR 255}MT212{COLOR 0}
+un {COLOR 255}MT213{COLOR 0}
+un {COLOR 255}MT214{COLOR 0}
+un {COLOR 255}MT215{COLOR 0}
+un {COLOR 255}MT216{COLOR 0}
+un {COLOR 255}MT217{COLOR 0}
+un {COLOR 255}MT218{COLOR 0}
+un {COLOR 255}MT219{COLOR 0}
+un {COLOR 255}MT220{COLOR 0}
+un {COLOR 255}MT221{COLOR 0}
+un {COLOR 255}MT222{COLOR 0}
+un {COLOR 255}MT223{COLOR 0}
+un {COLOR 255}MT224{COLOR 0}
+un {COLOR 255}MT225{COLOR 0}
+un {COLOR 255}MT226{COLOR 0}
+un {COLOR 255}MT227{COLOR 0}
+un {COLOR 255}MT228{COLOR 0}
+un {COLOR 255}MT229{COLOR 0}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+un {COLOR 255}Kit de pícnic{COLOR 0}
+
+una {COLOR 255}Botella Academia{COLOR 0}
+una {COLOR 255}Botella Academia{COLOR 0}
+una {COLOR 255}Botella Topos{COLOR 0}
+una {COLOR 255}Botella Rayas{COLOR 0}
+una {COLOR 255}Botella Rombo{COLOR 0}
+una {COLOR 255}Taza Academia{COLOR 0}
+una {COLOR 255}Taza Academia{COLOR 0}
+una {COLOR 255}Taza Rayas{COLOR 0}
+una {COLOR 255}Taza Topos{COLOR 0}
+una {COLOR 255}Taza Flores{COLOR 0}
+un {COLOR 255}Mantel Academia{COLOR 0}
+un {COLOR 255}Mantel Academia{COLOR 0}
+un {COLOR 255}Mantel Fantasía{COLOR 0}
+un {COLOR 255}Mantel Hojas{COLOR 0}
+un {COLOR 255}Mantel Espanto{COLOR 0}
+
+un {COLOR 255}Balón Academia{COLOR 0}
+un {COLOR 255}Balón Academia{COLOR 0}
+un {COLOR 255}Balón Marill{COLOR 0}
+un {COLOR 255}Balón Lana{COLOR 0}
+un {COLOR 255}Balón Ciber{COLOR 0}
+un {COLOR 255}Palillo Dorado{COLOR 0}
+un {COLOR 255}Palillo Plateado{COLOR 0}
+un {COLOR 255}Palillo Bandera Roja{COLOR 0}
+un {COLOR 255}Palillo Bandera Azul{COLOR 0}
+un {COLOR 255}Palillo Pika-Pika{COLOR 0}
+un {COLOR 255}Palillo Pika Guiño{COLOR 0}
+un {COLOR 255}Palillo Vee-Vee{COLOR 0}
+un {COLOR 255}Palillo Vee Sonriente{COLOR 0}
+un {COLOR 255}Palillo Poké Ball Azul{COLOR 0}
+
+una {COLOR 255}Armadura auspiciosa{COLOR 0}
+un {COLOR 255}Distintivo de líder{COLOR 0}
+
+
+una {COLOR 255}Botella Rosa{COLOR 0}
+una {COLOR 255}Botella Azul{COLOR 0}
+una {COLOR 255}Botella Amarilla{COLOR 0}
+una {COLOR 255}Botella Acero (R){COLOR 0}
+una {COLOR 255}Botella Acero (Y){COLOR 0}
+una {COLOR 255}Botella Acero (B){COLOR 0}
+una {COLOR 255}Botella Plata{COLOR 0}
+una {COLOR 255}Taza Barrada{COLOR 0}
+una {COLOR 255}Taza Rombo{COLOR 0}
+una {COLOR 255}Taza Fuego{COLOR 0}
+una {COLOR 255}Taza Rosa{COLOR 0}
+una {COLOR 255}Taza Azul{COLOR 0}
+una {COLOR 255}Taza Amarilla{COLOR 0}
+una {COLOR 255}Taza Pikachu{COLOR 0}
+una {COLOR 255}Taza Eevee{COLOR 0}
+una {COLOR 255}Taza Slowpoke{COLOR 0}
+una {COLOR 255}Taza Plata{COLOR 0}
+un {COLOR 255}Balón de ejercicio{COLOR 0}
+un {COLOR 255}Mantel Cuadros (Y){COLOR 0}
+un {COLOR 255}Mantel Cuadros (B){COLOR 0}
+un {COLOR 255}Mantel Cuadros (R){COLOR 0}
+un {COLOR 255}Mantel Hierba B/N{COLOR 0}
+un {COLOR 255}Mantel Combate{COLOR 0}
+un {COLOR 255}Mantel Monstruoso{COLOR 0}
+un {COLOR 255}Mantel Rayas{COLOR 0}
+un {COLOR 255}Mantel Rombo{COLOR 0}
+un {COLOR 255}Mantel Topos{COLOR 0}
+un {COLOR 255}Mantel Lila{COLOR 0}
+un {COLOR 255}Mantel Menta{COLOR 0}
+un {COLOR 255}Mantel Melocotón{COLOR 0}
+un {COLOR 255}Mantel Amarillo{COLOR 0}
+un {COLOR 255}Mantel Azul{COLOR 0}
+un {COLOR 255}Mantel Rosa{COLOR 0}
+una {COLOR 255}Botella Oro{COLOR 0}
+una {COLOR 255}Botella Bronce{COLOR 0}
+una {COLOR 255}Taza Oro{COLOR 0}
+una {COLOR 255}Taza Bronce{COLOR 0}
+un {COLOR 255}Palillo Poké Ball Verde{COLOR 0}
+un {COLOR 255}Palillo Poké Ball Rojo{COLOR 0}
+un {COLOR 255}Palillo Bengalas{COLOR 0}
+un {COLOR 255}Palillo Espada Heroica{COLOR 0}
+un {COLOR 255}Palillo Estrella Mágica{COLOR 0}
+un {COLOR 255}Palillo Corazón Mágico{COLOR 0}
+un {COLOR 255}Palillo Sombrilla{COLOR 0}
+un {COLOR 255}Palillo Flor Cielo Azul{COLOR 0}
+un {COLOR 255}Palillo Flor Atardecer{COLOR 0}
+un {COLOR 255}Palillo Flor Amanecer{COLOR 0}
+un {COLOR 255}Plato Azul{COLOR 0}
+un {COLOR 255}Plato Verde{COLOR 0}
+un {COLOR 255}Plato Naranja{COLOR 0}
+un {COLOR 255}Plato Rojo{COLOR 0}
+un {COLOR 255}Plato Blanco{COLOR 0}
+un {COLOR 255}Plato Amarillo{COLOR 0}
+una {COLOR 255}Pluma feérica{COLOR 0}
+una {COLOR 255}Manzana melosa{COLOR 0}
+un {COLOR 255}Cuenco mediocre{COLOR 0}
+un {COLOR 255}Cuenco exquisito{COLOR 0}
+una {COLOR 255}Máscara turquesa{COLOR 0}
+una {COLOR 255}Máscara cimiento{COLOR 0}
+una {COLOR 255}Máscara fuente{COLOR 0}
+una {COLOR 255}Máscara horno{COLOR 0}
+una {COLOR 255}Tarjeta chic verde{COLOR 0}
+un {COLOR 255}Fragmento de cristal{COLOR 0}
+un {COLOR 255}Mochi vigor{COLOR 0}
+un {COLOR 255}Mochi músculo{COLOR 0}
+un {COLOR 255}Mochi aguante{COLOR 0}
+un {COLOR 255}Mochi intelecto{COLOR 0}
+un {COLOR 255}Mochi mente{COLOR 0}
+un {COLOR 255}Mochi ímpetu{COLOR 0}
+los {COLOR 255}Sillas Sencillas{COLOR 0}
+los {COLOR 255}Sillas Academia{COLOR 0}
+los {COLOR 255}Sillas Academia{COLOR 0}
+los {COLOR 255}Sillas Fantasía{COLOR 0}
+los {COLOR 255}Sillas Hojas{COLOR 0}
+los {COLOR 255}Sillas Espanto{COLOR 0}
+un {COLOR 255}Sillas Cuadros (Y){COLOR 0}
+un {COLOR 255}Sillas Cuadros (B){COLOR 0}
+un {COLOR 255}Sillas Cuadros (R){COLOR 0}
+los {COLOR 255}Sillas Hierba B/N{COLOR 0}
+los {COLOR 255}Sillas Combate{COLOR 0}
+los {COLOR 255}Sillas Monstruosas{COLOR 0}
+los {COLOR 255}Sillas Rayas{COLOR 0}
+los {COLOR 255}Sillas Rombo{COLOR 0}
+los {COLOR 255}Sillas Topos{COLOR 0}
+los {COLOR 255}Sillas Lila{COLOR 0}
+los {COLOR 255}Sillas Menta{COLOR 0}
+los {COLOR 255}Sillas Melocotón{COLOR 0}
+los {COLOR 255}Sillas Amarillas{COLOR 0}
+los {COLOR 255}Sillas Azules{COLOR 0}
+los {COLOR 255}Sillas Rosas{COLOR 0}
+un {COLOR 255}Colmillo de Ekans{COLOR 0}
+una {COLOR 255}Garra de Sandshrew{COLOR 0}
+un {COLOR 255}Pelo de Cleffa{COLOR 0}
+un {COLOR 255}Pelo de Vulpix{COLOR 0}
+una {COLOR 255}Baba de Poliwag{COLOR 0}
+una {COLOR 255}Liana de Bellsprout{COLOR 0}
+un {COLOR 255}Fragmento de Geodude{COLOR 0}
+el {COLOR 255}Gas de Koffing{COLOR 0}
+un {COLOR 255}Colmillo de Munchlax{COLOR 0}
+un {COLOR 255}Pelo de Sentret{COLOR 0}
+una {COLOR 255}Pluma de Hoothoot{COLOR 0}
+un {COLOR 255}Hilo de Spinarak{COLOR 0}
+un {COLOR 255}Pelo de Aipom{COLOR 0}
+una {COLOR 255}Púa de Yanma{COLOR 0}
+un {COLOR 255}Colmillo de Gligar{COLOR 0}
+una {COLOR 255}Lava de Slugma{COLOR 0}
+un {COLOR 255}Pelo de Swinub{COLOR 0}
+un {COLOR 255}Colmillo de Poochyena{COLOR 0}
+una {COLOR 255}Hoja de Lotad{COLOR 0}
+un {COLOR 255}Tallo de Seedot{COLOR 0}
+un {COLOR 255}Fragmento de Nosepass{COLOR 0}
+un {COLOR 255}Fluido de Volbeat{COLOR 0}
+un {COLOR 255}Fluido de Illumise{COLOR 0}
+un {COLOR 255}Caparazón de Corphish{COLOR 0}
+los {COLOR 255}Escamas de Feebas{COLOR 0}
+un {COLOR 255}Fragmento de Duskull{COLOR 0}
+un {COLOR 255}Fragmento de Chingling{COLOR 0}
+un {COLOR 255}Sudor de Timburr{COLOR 0}
+una {COLOR 255}Hoja de Sewaddle{COLOR 0}
+una {COLOR 255}Pluma de Ducklett{COLOR 0}
+un {COLOR 255}Hollín de Litwick{COLOR 0}
+una {COLOR 255}Garra de Mienfoo{COLOR 0}
+una {COLOR 255}Pluma de Vullaby{COLOR 0}
+una {COLOR 255}Joya de Carbink{COLOR 0}
+una {COLOR 255}Rama de Phantump{COLOR 0}
+un {COLOR 255}Hilo de Grubbin{COLOR 0}
+un {COLOR 255}Polvo de Cutiefly{COLOR 0}
+los {COLOR 255}Escamas de Jangmo-o{COLOR 0}
+un {COLOR 255}Plumón de Cramorant{COLOR 0}
+un {COLOR 255}Aperitivo de Morpeko{COLOR 0}
+un {COLOR 255}Polvo de Poltchageist{COLOR 0}
+un {COLOR 255}Mochi reinicio{COLOR 0}
+un {COLOR 255}Paloselfi Rotom{COLOR 0}
+un {COLOR 255}Amuleto cristalino{COLOR 0}
+un {COLOR 255}Metal compuesto{COLOR 0}
+una {COLOR 255}Tarjeta chic azul{COLOR 0}
+una {COLOR 255}Hoja de Oddish{COLOR 0}
+un {COLOR 255}Aguijón de Tentacool{COLOR 0}
+un {COLOR 255}Plumón de Doduo{COLOR 0}
+un {COLOR 255}Pelo de Seel{COLOR 0}
+una {COLOR 255}Cáscara de Exeggcute{COLOR 0}
+un {COLOR 255}Sudor de Tyrogue{COLOR 0}
+un {COLOR 255}Colmillo de Rhyhorn{COLOR 0}
+una {COLOR 255}Tinta de Horsea{COLOR 0}
+un {COLOR 255}Pelo de Elekid{COLOR 0}
+un {COLOR 255}Pelo de Magby{COLOR 0}
+una {COLOR 255}Lágrima de Lapras{COLOR 0}
+un {COLOR 255}Fragmento de Porygon{COLOR 0}
+los {COLOR 255}Chispas de Chinchou{COLOR 0}
+un {COLOR 255}Pelo de Snubbull{COLOR 0}
+una {COLOR 255}Pluma de Skarmory{COLOR 0}
+una {COLOR 255}Pintura de Smeargle{COLOR 0}
+un {COLOR 255}Pelo de Plusle{COLOR 0}
+un {COLOR 255}Pelo de Minun{COLOR 0}
+un {COLOR 255}Caparazón de Trapinch{COLOR 0}
+una {COLOR 255}Garra de Beldum{COLOR 0}
+una {COLOR 255}Púa de Cranidos{COLOR 0}
+una {COLOR 255}Garra de Shieldon{COLOR 0}
+una {COLOR 255}Crin de Blitzle{COLOR 0}
+una {COLOR 255}Garra de Drilbur{COLOR 0}
+una {COLOR 255}Pelusa de Cottonee{COLOR 0}
+un {COLOR 255}Sudor de Scraggy{COLOR 0}
+un {COLOR 255}Pelo de Minccino{COLOR 0}
+un {COLOR 255}Gel de Solosis{COLOR 0}
+un {COLOR 255}Hilo de Joltik{COLOR 0}
+una {COLOR 255}Esquirla de Golett{COLOR 0}
+un {COLOR 255}Pelo de Espurr{COLOR 0}
+una {COLOR 255}Tinta de Inkay{COLOR 0}
+una {COLOR 255}Pluma de Pikipek{COLOR 0}
+un {COLOR 255}Hilo de Dewpider{COLOR 0}
+una {COLOR 255}Flor de Comfey{COLOR 0}
+un {COLOR 255}Caparazón de Minior{COLOR 0}
+una {COLOR 255}Nata de Milcery{COLOR 0}
+una {COLOR 255}Herrumbre de Duraludon{COLOR 0}
+una {COLOR 255}Galleta Articuno{COLOR 0}
+una {COLOR 255}Galleta Zapdos{COLOR 0}
+una {COLOR 255}Galleta Moltres{COLOR 0}
+una {COLOR 255}Galleta Raikou{COLOR 0}
+una {COLOR 255}Galleta Entei{COLOR 0}
+una {COLOR 255}Galleta Suicune{COLOR 0}
+una {COLOR 255}Galleta Lugia{COLOR 0}
+una {COLOR 255}Galleta Ho-Oh{COLOR 0}
+una {COLOR 255}Galleta Latias{COLOR 0}
+una {COLOR 255}Galleta Latios{COLOR 0}
+una {COLOR 255}Galleta Kyogre{COLOR 0}
+una {COLOR 255}Galleta Groudon{COLOR 0}
+una {COLOR 255}Galleta Rayquaza{COLOR 0}
+una {COLOR 255}Galleta Cobalion{COLOR 0}
+una {COLOR 255}Galleta Terrakion{COLOR 0}
+una {COLOR 255}Galleta Virizion{COLOR 0}
+una {COLOR 255}Galleta Reshiram{COLOR 0}
+una {COLOR 255}Galleta Zekrom{COLOR 0}
+una {COLOR 255}Galleta Kyurem{COLOR 0}
+una {COLOR 255}Galleta Solgaleo{COLOR 0}
+una {COLOR 255}Galleta Lunala{COLOR 0}
+una {COLOR 255}Galleta Necrozma{COLOR 0}
+una {COLOR 255}Galleta Kubfu{COLOR 0}
+una {COLOR 255}Galleta Glastrier{COLOR 0}
+una {COLOR 255}Galleta Spectrier{COLOR 0}
+un {COLOR 255}Disco índigo{COLOR 0}
+un {COLOR 255}Palillo Ígneo{COLOR 0}
+un {COLOR 255}Teralito astral{COLOR 0}
+una {COLOR 255}Baya Meloc singular{COLOR 0}
+un {COLOR 255}Mantel Arándano{COLOR 0}
+los {COLOR 255}Sillas Arándano{COLOR 0}
+un {COLOR 255}Sincromisor{COLOR 0}
+un {COLOR 255}Meteorito{COLOR 0}
+un {COLOR 255}Libro Escarlata{COLOR 0}
+un {COLOR 255}Libro Púrpura{COLOR 0}
+un {COLOR 255}Libro de Brie{COLOR 0}
+una {COLOR 255}Semilla dominio{COLOR 0}
+una {COLOR 255}Clefablita{COLOR 0}
+una {COLOR 255}Victreebelita{COLOR 0}
+una {COLOR 255}Starmita{COLOR 0}
+una {COLOR 255}Dragonitita{COLOR 0}
+una {COLOR 255}Meganiumita{COLOR 0}
+una {COLOR 255}Feraligatrita{COLOR 0}
+una {COLOR 255}Skarmorita{COLOR 0}
+una {COLOR 255}Froslassita{COLOR 0}
+una {COLOR 255}Heatranita{COLOR 0}
+una {COLOR 255}Darkraita{COLOR 0}
+una {COLOR 255}Emboarita{COLOR 0}
+una {COLOR 255}Excadrillita{COLOR 0}
+una {COLOR 255}Scolipedita{COLOR 0}
+una {COLOR 255}Scraftita{COLOR 0}
+una {COLOR 255}Eelektrossita{COLOR 0}
+una {COLOR 255}Chandelurita{COLOR 0}
+una {COLOR 255}Chesnaughtita{COLOR 0}
+una {COLOR 255}Delphoxita{COLOR 0}
+una {COLOR 255}Greninjanita{COLOR 0}
+una {COLOR 255}Pyroarita{COLOR 0}
+una {COLOR 255}Floettita{COLOR 0}
+una {COLOR 255}Malamarita{COLOR 0}
+una {COLOR 255}Barbaraclita{COLOR 0}
+una {COLOR 255}Dragalgita{COLOR 0}
+una {COLOR 255}Hawluchanita{COLOR 0}
+una {COLOR 255}Zygardita{COLOR 0}
+una {COLOR 255}Drampanita{COLOR 0}
+una {COLOR 255}Zeraorita{COLOR 0}
+una {COLOR 255}Falinksita{COLOR 0}
+una {COLOR 255}Llave habitación 202{COLOR 0}
+un {COLOR 255}Supergalette Luminalia{COLOR 0}
+una {COLOR 255}Llave laboratorio A{COLOR 0}
+una {COLOR 255}Llave laboratorio B{COLOR 0}
+una {COLOR 255}Llave laboratorio C{COLOR 0}
 ???
 ???
-a {COLOR 255}Pebble{COLOR 0}
-a {COLOR 255}Cherished Ring{COLOR 0}
-an {COLOR 255}Autographed Plush{COLOR 0}
-a {COLOR 255}Tasty Trash{COLOR 0}
-a {COLOR 255}Revitalizing Twig{COLOR 0}
-a {COLOR 255}Lida’s Things{COLOR 0}
-a {COLOR 255}Lumiosian Butter{COLOR 0}
-a {COLOR 255}Nice Butter{COLOR 0}
-a {COLOR 255}Great Butter{COLOR 0}
-an {COLOR 255}Amazing Butter{COLOR 0}
-a {COLOR 255}Supreme Butter{COLOR 0}
-a {COLOR 255}Hyperspace Butter{COLOR 0}
-a {COLOR 255}Hoennian Salt{COLOR 0}
-a {COLOR 255}Épice Noire{COLOR 0}
-an {COLOR 255}Arboliva Oil{COLOR 0}
-a {COLOR 255}Popping Candy{COLOR 0}
-a {COLOR 255}Important Letter{COLOR 0}
-a {COLOR 255}Cherished Ring{COLOR 0}
-a {COLOR 255}Dirty Scarf{COLOR 0}
+una {COLOR 255}Piedrecita{COLOR 0}
+un {COLOR 255}Anillo preciado{COLOR 0}
+un {COLOR 255}Amuleto de Naria firmado{COLOR 0}
+una {COLOR 255}Basura suculenta{COLOR 0}
+una {COLOR 255}Ramita revitalizante{COLOR 0}
+un {COLOR 255}Enseres de Bárbara{COLOR 0}
+una {COLOR 255}Mantequilla de Luminalia{COLOR 0}
+una {COLOR 255}Supermantequilla{COLOR 0}
+una {COLOR 255}Hipermantequilla{COLOR 0}
+una {COLOR 255}Ultramantequilla{COLOR 0}
+una {COLOR 255}Mantequilla máxima{COLOR 0}
+una {COLOR 255}Mantequilla dimensional{COLOR 0}
+una {COLOR 255}Sal gruesa de Hoenn{COLOR 0}
+una {COLOR 255}Especia negra{COLOR 0}
+un {COLOR 255}Aceite de Arboliva{COLOR 0}
+un {COLOR 255}Caramelos chispeantes{COLOR 0}
+una {COLOR 255}Carta Importante{COLOR 0}
+un {COLOR 255}Anillo preciado{COLOR 0}
+un {COLOR 255}Pañuelo mugriento{COLOR 0}
 ???
 ???
 ???
 ???
-a {COLOR 255}Mega Shard{COLOR 0}
-a {COLOR 255}Colorful Screw{COLOR 0}
-a {COLOR 255}Red Canari Plush{COLOR 0}
-a {COLOR 255}Red Canari Plush{COLOR 0}
-a {COLOR 255}Red Canari Plush{COLOR 0}
-a {COLOR 255}Gold Canari Plush{COLOR 0}
-a {COLOR 255}Gold Canari Plush{COLOR 0}
-a {COLOR 255}Gold Canari Plush{COLOR 0}
-a {COLOR 255}Pink Canari Plush{COLOR 0}
-a {COLOR 255}Pink Canari Plush{COLOR 0}
-a {COLOR 255}Pink Canari Plush{COLOR 0}
-a {COLOR 255}Green Canari Plush{COLOR 0}
-a {COLOR 255}Green Canari Plush{COLOR 0}
-a {COLOR 255}Green Canari Plush{COLOR 0}
-a {COLOR 255}Blue Canari Plush{COLOR 0}
-a {COLOR 255}Blue Canari Plush{COLOR 0}
-a {COLOR 255}Blue Canari Plush{COLOR 0}
-a {COLOR 255}Raichunite X{COLOR 0}
-a {COLOR 255}Raichunite Y{COLOR 0}
-a {COLOR 255}Chimechite{COLOR 0}
-a {COLOR 255}Absolite Z{COLOR 0}
-a {COLOR 255}Staraptite{COLOR 0}
-a {COLOR 255}Garchompite Z{COLOR 0}
-a {COLOR 255}Lucarionite Z{COLOR 0}
-a {COLOR 255}Golurkite{COLOR 0}
-a {COLOR 255}Meowsticite{COLOR 0}
-a {COLOR 255}Crabominite{COLOR 0}
-a {COLOR 255}Golisopite{COLOR 0}
-a {COLOR 255}Magearnite{COLOR 0}
-a {COLOR 255}Scovillainite{COLOR 0}
-a {COLOR 255}Baxcalibrite{COLOR 0}
-a {COLOR 255}Tatsugirinite{COLOR 0}
-a {COLOR 255}Glimmoranite{COLOR 0}
-a {COLOR 255}Hyper Cheri Berry{COLOR 0}
-a {COLOR 255}Hyper Chesto Berry{COLOR 0}
-a {COLOR 255}Hyper Pecha Berry{COLOR 0}
-a {COLOR 255}Hyper Rawst Berry{COLOR 0}
-a {COLOR 255}Hyper Aspear Berry{COLOR 0}
-a {COLOR 255}Hyper Oran Berry{COLOR 0}
-a {COLOR 255}Hyper Persim Berry{COLOR 0}
-a {COLOR 255}Hyper Lum Berry{COLOR 0}
-a {COLOR 255}Hyper Sitrus Berry{COLOR 0}
-a {COLOR 255}Hyper Pomeg Berry{COLOR 0}
-a {COLOR 255}Hyper Kelpsy Berry{COLOR 0}
-a {COLOR 255}Hyper Qualot Berry{COLOR 0}
-a {COLOR 255}Hyper Hondew Berry{COLOR 0}
-a {COLOR 255}Hyper Grepa Berry{COLOR 0}
-a {COLOR 255}Hyper Tamato Berry{COLOR 0}
-a {COLOR 255}Hyper Occa Berry{COLOR 0}
-a {COLOR 255}Hyper Passho Berry{COLOR 0}
-a {COLOR 255}Hyper Wacan Berry{COLOR 0}
-a {COLOR 255}Hyper Rindo Berry{COLOR 0}
-a {COLOR 255}Hyper Yache Berry{COLOR 0}
-a {COLOR 255}Hyper Chople Berry{COLOR 0}
-a {COLOR 255}Hyper Kebia Berry{COLOR 0}
-a {COLOR 255}Hyper Shuca Berry{COLOR 0}
-a {COLOR 255}Hyper Coba Berry{COLOR 0}
-a {COLOR 255}Hyper Payapa Berry{COLOR 0}
-a {COLOR 255}Hyper Tanga Berry{COLOR 0}
-a {COLOR 255}Hyper Charti Berry{COLOR 0}
-a {COLOR 255}Hyper Kasib Berry{COLOR 0}
-a {COLOR 255}Hyper Haban Berry{COLOR 0}
-a {COLOR 255}Hyper Colbur Berry{COLOR 0}
-a {COLOR 255}Hyper Babiri Berry{COLOR 0}
-a {COLOR 255}Hyper Chilan Berry{COLOR 0}
-a {COLOR 255}Hyper Roseli Berry{COLOR 0}
-a {COLOR 255}Canari Bread{COLOR 0}
+una {COLOR 255}Megaesquirla{COLOR 0}
+un {COLOR 255}Tornillo colorido{COLOR 0}
+un {COLOR 255}Amuleto de Naria rojo{COLOR 0}
+un {COLOR 255}Amuleto de Naria rojo{COLOR 0}
+un {COLOR 255}Amuleto de Naria rojo{COLOR 0}
+un {COLOR 255}Amuleto de Naria dorado{COLOR 0}
+un {COLOR 255}Amuleto de Naria dorado{COLOR 0}
+un {COLOR 255}Amuleto de Naria dorado{COLOR 0}
+un {COLOR 255}Amuleto de Naria rosa{COLOR 0}
+un {COLOR 255}Amuleto de Naria rosa{COLOR 0}
+un {COLOR 255}Amuleto de Naria rosa{COLOR 0}
+un {COLOR 255}Amuleto de Naria verde{COLOR 0}
+un {COLOR 255}Amuleto de Naria verde{COLOR 0}
+un {COLOR 255}Amuleto de Naria verde{COLOR 0}
+un {COLOR 255}Amuleto de Naria azul{COLOR 0}
+un {COLOR 255}Amuleto de Naria azul{COLOR 0}
+un {COLOR 255}Amuleto de Naria azul{COLOR 0}
+una {COLOR 255}Raichunita X{COLOR 0}
+una {COLOR 255}Raichunita Y{COLOR 0}
+una {COLOR 255}Chimechita{COLOR 0}
+una {COLOR 255}Absolita Z{COLOR 0}
+una {COLOR 255}Staraptorita{COLOR 0}
+una {COLOR 255}Garchompita Z{COLOR 0}
+una {COLOR 255}Lucarita Z{COLOR 0}
+una {COLOR 255}Golurkita{COLOR 0}
+una {COLOR 255}Meowsticita{COLOR 0}
+una {COLOR 255}Crabominablita{COLOR 0}
+una {COLOR 255}Golisopodita{COLOR 0}
+una {COLOR 255}Magearnita{COLOR 0}
+una {COLOR 255}Scovillainita{COLOR 0}
+una {COLOR 255}Baxcaliburita{COLOR 0}
+una {COLOR 255}Tatsugirita{COLOR 0}
+una {COLOR 255}Glimmoranita{COLOR 0}
+una {COLOR 255}Baya Zreza D{COLOR 0}
+una {COLOR 255}Baya Atania D{COLOR 0}
+una {COLOR 255}Baya Duraz D{COLOR 0}
+una {COLOR 255}Baya Safre D{COLOR 0}
+una {COLOR 255}Baya Perasi D{COLOR 0}
+una {COLOR 255}Baya Aranja D{COLOR 0}
+una {COLOR 255}Baya Caquic D{COLOR 0}
+una {COLOR 255}Baya Ziuela D{COLOR 0}
+una {COLOR 255}Baya Zidra D{COLOR 0}
+una {COLOR 255}Baya Grana D{COLOR 0}
+una {COLOR 255}Baya Algama D{COLOR 0}
+una {COLOR 255}Baya Ispero D{COLOR 0}
+una {COLOR 255}Baya Meluce D{COLOR 0}
+una {COLOR 255}Baya Uvav D{COLOR 0}
+una {COLOR 255}Baya Tamate D{COLOR 0}
+una {COLOR 255}Baya Caoca D{COLOR 0}
+una {COLOR 255}Baya Pasio D{COLOR 0}
+una {COLOR 255}Baya Gualot D{COLOR 0}
+una {COLOR 255}Baya Tamar D{COLOR 0}
+una {COLOR 255}Baya Rimoya D{COLOR 0}
+una {COLOR 255}Baya Pomaro D{COLOR 0}
+una {COLOR 255}Baya Kebia D{COLOR 0}
+una {COLOR 255}Baya Acardo D{COLOR 0}
+una {COLOR 255}Baya Kouba D{COLOR 0}
+una {COLOR 255}Baya Payapa D{COLOR 0}
+una {COLOR 255}Baya Yecana D{COLOR 0}
+una {COLOR 255}Baya Alcho D{COLOR 0}
+una {COLOR 255}Baya Drasi D{COLOR 0}
+una {COLOR 255}Baya Anjiro D{COLOR 0}
+una {COLOR 255}Baya Dillo D{COLOR 0}
+una {COLOR 255}Baya Baribá D{COLOR 0}
+una {COLOR 255}Baya Chilan D{COLOR 0}
+una {COLOR 255}Baya Hibis D{COLOR 0}
+un {COLOR 255}Pan de Naria{COLOR 0}
