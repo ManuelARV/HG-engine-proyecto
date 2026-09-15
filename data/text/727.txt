@@ -1,0 +1,28 @@
+NÚM. ID
+NOMBRE
+DINERO
+POKéDEX
+PUNTOS
+TIEMPO
+INICIO AVENTURA
+DEBUT SALÓN FAMA
+VECES ENLAZADO
+COMBATES ENLACE
+INTERCAMBIOS
+:
+--
+--:--
+Cancelar
+Toca la tarjeta y gírala.
+Firmar tarjeta
+¿Firmar tu Tarjeta de\nEntrenador?
+Se borrará tu firma\nactual. ¿De acuerdo?
+${STRVAR_1 55, 5, 0}
+{STRVAR_1 51, 0, 0}:{STRVAR_1 51, 1, 0}
+{STRVAR_1 51, 0, 0}  {STRVAR_1 51, 1, 0}
+{STRVAR_34 16, 3, 0} {STRVAR_1 51, 4, 0}, 20{STRVAR_1 51, 2, 0}
+W
+L
+--- --, ----
+{STRVAR_1 52, 5, 0}
+{STRVAR_1 55, 5, 0}

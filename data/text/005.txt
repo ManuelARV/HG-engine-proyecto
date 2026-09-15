@@ -1,0 +1,49 @@
+PS/PP
+RESTAURAR
+ESTADO
+CURATIVOS
+     
+    
+OBJ. COMBATE
+POKé BALL
+Último objeto usado
+{STRVAR_1 8, 0, 0}
+x{STRVAR_1 52, 0, 0}
+{STRVAR_1 8, 0, 0}
+x{STRVAR_1 52, 0, 0}
+{STRVAR_1 8, 0, 0}
+x{STRVAR_1 52, 0, 0}
+{STRVAR_1 8, 0, 0}
+x{STRVAR_1 52, 0, 0}
+{STRVAR_1 8, 0, 0}
+x{STRVAR_1 52, 0, 0}
+{STRVAR_1 8, 0, 0}
+x{STRVAR_1 52, 0, 0}
+   
+PS/PP
+RESTAURAR
+ESTADO
+CURATIVOS
+POKé BALL
+OBJ. COMBATE
+/
+{STRVAR_1 50, 0, 0}
+{STRVAR_1 50, 0, 0}
+USAR
+{STRVAR_1 8, 0, 0}
+x{STRVAR_1 52, 0, 0}
+¡No serviría de nada usarlo!
+              
+{STRVAR_1 1, 0, 0} está\nmuy motivado!
+¡El Ataque de {STRVAR_1 1, 0, 0}\nha subido!
+¡El Ataque Especial de\n{STRVAR_1 1, 0, 0} ha subido!
+¡La Velocidad de\n{STRVAR_1 1, 0, 0} ha subido!
+¡La Defensa Especial de\n{STRVAR_1 1, 0, 0} ha subido!
+¡La Defensa de\n{STRVAR_1 1, 0, 0} ha subido!
+¡La Precisión de\n{STRVAR_1 1, 0, 0} ha subido!
+¡Se ha usado {STRVAR_1 8, 0, 0}!
+¡No sirve! Es imposible apuntar\nsi hay dos Pokémon!
+¡No queda sitio en el PC!
+{STRVAR_1 6, 1, 0} impide usar\nel objeto en {STRVAR_1 1, 0, 0}!
+¡No sirve! Es imposible apuntar\na un Pokémon que no ves!
+¡No sirve! Es imposible apuntar\na un Pokémon que no ves!

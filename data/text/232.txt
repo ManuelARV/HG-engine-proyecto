@@ -1,0 +1,15 @@
+BUZÓN
+{STRVAR_1 50, 0, 0}
+/
+CANCELAR
+CERRAR
+LEER
+BORRAR
+DAR
+CANCELAR
+¿Qué quieres hacer con el\nCorreo de {STRVAR_1 3, 0, 0}?
+Se perderá el mensaje.\n¿De acuerdo?
+Se ha borrado el mensaje.
+¿Quieres que un Pokémon\nlleve este Correo?
+Se ha borrado el mensaje\ndel Correo y se ha\nguardado en la Bolsa.
+Tu Bolsa está llena...\nSe ha desechado el Correo.

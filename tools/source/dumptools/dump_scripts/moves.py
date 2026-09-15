@@ -64,9 +64,9 @@ def escape_c_string(text):
 
 def get_full_name(used_move_text):
     prefixes = [
-        "{STRVAR_1 1, 0, 0} used\\n",
-        "The wild {STRVAR_1 1, 0, 0} used\\n",
-        "The opposing {STRVAR_1 1, 0, 0} used\\n",
+        "¡{STRVAR_1 1, 0, 0} usó\\n",
+        "¡El {STRVAR_1 1, 0, 0} salvaje usó\\n",
+        "¡El {STRVAR_1 1, 0, 0} rival usó\\n",
     ]
     for prefix in prefixes:
         if used_move_text.startswith(prefix) and used_move_text.endswith("!"):

@@ -90,7 +90,7 @@ x{STRVAR_1 52, 0, 0}
 PP
 Potencia
 Precisión
-Categoría
+Clase
 {STRVAR_1 51, 0, 0}
 {STRVAR_1 52, 0, 0}
 Sellos: {STRVAR_1 53, 0, 0}

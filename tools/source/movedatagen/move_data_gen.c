@@ -126,9 +126,9 @@ int main(int argc, char **argv) {
     for (i = 0; i < NUM_OF_MOVES; i++) {
         WriteTextFile(namesDir, i, sMoveSource[i].names.name);
         WriteTextFile(capsNamesDir, i, sMoveSource[i].names.capsName);
-        WriteUsedMoveText(usedNamesDir, 3 * i, "{STRVAR_1 1, 0, 0} used\\n", sMoveSource[i].names.fullName);
-        WriteUsedMoveText(usedNamesDir, 3 * i + 1, "The wild {STRVAR_1 1, 0, 0} used\\n", sMoveSource[i].names.fullName);
-        WriteUsedMoveText(usedNamesDir, 3 * i + 2, "The opposing {STRVAR_1 1, 0, 0} used\\n", sMoveSource[i].names.fullName);
+        WriteUsedMoveText(usedNamesDir, 3 * i, "{STRVAR_1 1, 0, 0} usó\\n", sMoveSource[i].names.fullName);
+        WriteUsedMoveText(usedNamesDir, 3 * i + 1, "El {STRVAR_1 1, 0, 0} salvaje usó\\n", sMoveSource[i].names.fullName);
+        WriteUsedMoveText(usedNamesDir, 3 * i + 2, "El {STRVAR_1 1, 0, 0} rival usó\\n", sMoveSource[i].names.fullName);
         WriteTextFile(descriptionsDir, i, sMoveSource[i].description);
     }
 

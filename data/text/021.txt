@@ -1,0 +1,134 @@
+Caja de Bonguri
+CERRAR
+USAR
+PROBAR
+CANCELAR
+OK
+CERRAR
+Bonguri rojo
+Bonguri amarillo
+Bonguri azul
+Bonguri verde
+Bonguri rosa
+Bonguri blanco
+Bonguri negro
+Holden
+Elaine
+Gilmore
+Krise
+Victor
+Zumo neutro
+Zumo fuerza
+Zumo aguante
+Zumo destreza
+Zumo salto
+Zumo velocidad
+{STRVAR_1 51, 0, 0}
+
+Dentro están los Bonguri\nque has recogido.
+Pon el Bonguri en la\nLiculadora.
+Aún no se ha licuado\nlo suficiente...
+El zumo ya casi está...
+Falta muy poco para que\nel zumo esté listo.
+¡El zumo de Bonguri\nestá listo!
+Puedes poner {STRVAR_1 50, 0, 0} Bonguri más.
+No puedes poner más\nBonguri.
+¿Qué quieres hacer con\nel zumo de Bonguri?
+¡Has probado el zumo\nde Bonguri!
+Elige los Bonguri que\nvas a dar.
+¿Cuántos quieres dar?
+¿Dar {STRVAR_1 51, 1, 0} {STRVAR_1 8, 0, 0}?
+Bonguri rojo\nUn Bonguri rojo.\nTiene un aroma penetrante.
+Bonguri amarillo\nUn Bonguri amarillo.\nTiene un aroma refrescante.
+Bonguri azul\nUn Bonguri azul.\nHuele un poco a hierba.
+Bonguri verde\nUn Bonguri verde.\nAroma misterioso y balsámico.
+Bonguri rosa\nUn Bonguri rosa.\nTiene un aroma dulce.
+Bonguri blanco\nUn Bonguri blanco.\nNo tiene ningún aroma.
+Bonguri negro\nUn Bonguri negro.\nTiene un olor indescriptible.
+Liculadora
+{STRVAR_1 8, 0, 0}\nSabor {STRVAR_1 52, 1, 0} Suavidad {STRVAR_1 52, 2, 0}\nAún cabe {STRVAR_1 50, 3, 0}
+~CÓMO HACER ZUMO~\n¡Reúne Bonguries y ponlos\nen la Liculadora!\rPuedes hacer una bebida con uno,\n¡pero cuantos más Bonguries,\nmejor sabrá!\r¡Pon los Bonguries y licúa\ncorriendo a la próxima ciudad!
+¡Has hecho zumo!
+¡El sabor del zumo\nha cambiado!
+¡El zumo no está listo!\nPon Bonguries en la Liculadora\ny licúa al caminar!
+¡No cabe ninguno más!\n¡Corre para agitar la Liculadora!
+¡Se está haciendo el zumo!\n¡Agítalo caminando!
+¡Mejorando el zumo!\n¡Agítalo caminando!
+Sabe un poco a picante.
+¡Sabor intenso!
+¡Pica tanto que suda!
+¡Pica tanto que tose!
+¡Un picor rotundo!
+¡El picor supremo!
+Un poco ácido.
+Sabor refrescante.
+¡Mmm! ¡Ácido!
+¡Insoportablemente ácido!
+¡Una acidez profunda!
+¡Un sabor muy ácido!
+Sabor seco y refinado.
+¡Sabor seco y fuerte!
+¡Increíblemente seco!
+¡Sabor seco penetrante!
+¡Sabor seco profundo!
+¡Sabor muy seco!
+Sabe algo amargo.
+Sabor ligeramente amargo.
+¡Amargor intenso!
+¡Sabor muy amargo!
+¡Amargor profundo!
+¡El colmo del amargor!
+Sabe dulce.
+Sabor dulce y agradable.
+¡Muy dulce!
+¡Sabor empalagoso!
+Dulzor que se deshace.
+¡Increíblemente dulce!
+Un asomo de picante...
+Un poco salado...
+Bastante picante...
+Un picante fuerte...
+Un asomo de acidez...
+Un poco ácido...
+Bastante ácido...
+Intensamente ácido...
+Un sabor seco leve...
+Un sabor seco ligero...
+Un sabor bastante seco...
+Un sabor intensamente seco...
+Apenas un amargor leve...
+Un poco amargo...
+Un sabor muy amargo...
+Intensamente amargo...
+Apenas un dulzor leve...
+Un poco dulce...
+Un sabor muy dulce...
+Un sabor intensamente dulce...
+Un picante muy leve.
+Solo un asomo de picante.
+Se nota el picante.
+Una acidez muy leve.
+Solo un asomo de acidez.
+Se nota la acidez.
+Un sabor seco muy leve.
+Un asomo de sabor seco.
+Se nota lo seco.
+Un amargor muy leve.
+Solo un asomo de amargor.
+Se nota el amargor.
+Un dulzor muy leve.
+Solo un asomo de dulzor.
+Se nota el dulzor.
+Un regusto desagradable.
+¡Un regusto refrescante!
+Eliminando el picante...
+Eliminando la acidez...
+Eliminando el sabor seco...
+Eliminando el amargor...
+Eliminando el dulzor...
+El sabor es aún muy flojo.\nSería bueno poner algunos\nBonguries con color...
+¡Sabor increíble e indescriptible!\nSus gustos están equilibrados.\n¡No sé qué sabor es!
+¡Sabor indescriptible!\nSus gustos compiten entre sí.\n¡No sé qué sabor es!
+¡No tiene ningún sabor!\nParece que hay que poner\nun Bonguri de color.
+Picante {STRVAR_1 51, 0, 0} Ácido {STRVAR_1 51, 1, 0} Seco {STRVAR_1 51, 2, 0}\nAmargo {STRVAR_1 51, 3, 0} Dulce {STRVAR_1 51, 4, 0}\nSuave {STRVAR_1 51, 5, 0} Sabor {STRVAR_1 51, 6, 0}
+Ahora {STRVAR_1 59, 0, 0} pasos Reserva {STRVAR_1 50, 1, 0}\n1: {STRVAR_1 50, 2, 0} 2: {STRVAR_1 50, 3, 0} 3: {STRVAR_1 50, 4, 0} 4: {STRVAR_1 50, 5, 0} 5: {STRVAR_1 50, 6, 0}\nZumo INICIO {STRVAR_1 59, 7, 0} pasos Quedan: {STRVAR_1 52, 8, 0}\nSuave INICIO {STRVAR_1 59, 9, 0} pasos Quedan: {STRVAR_1 52, 10, 0}

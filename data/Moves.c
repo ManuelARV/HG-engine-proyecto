@@ -30,9 +30,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_POUND] = {
         .names = {
-            .name = "Pound",
-            .capsName = "POUND",
-            .fullName = "Pound",
+            .name = "Destructor",
+            .capsName = "DESTRUCTOR",
+            .fullName = "Destructor",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -52,14 +52,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The foe is physically\\npounded with a long\\ntail or a foreleg,\\netc.\\n",
+        .description = "Golpea al objetivo\\ncon las extremidades,\\nla cola o similares.\\n",
     },
 
     [MOVE_KARATE_CHOP] = {
         .names = {
-            .name = "Karate Chop",
-            .capsName = "KARATE CHOP",
-            .fullName = "Karate Chop",
+            .name = "Golpe Kárate",
+            .capsName = "GOLPE KÁRATE",
+            .fullName = "Golpe Kárate",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -79,14 +79,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The foe is attacked\\nwith a sharp chop.\\nIt has a high\\ncritical-hit ratio.\\n",
+        .description = "Da un golpe cortante.\\nSuele ser crítico.\\n",
     },
 
     [MOVE_DOUBLE_SLAP] = {
         .names = {
-            .name = "Double Slap",
-            .capsName = "DOUBLE SLAP",
-            .fullName = "Double Slap",
+            .name = "Doblebofetón",
+            .capsName = "DOBLEBOFETÓN",
+            .fullName = "Doble Bofetón",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -106,14 +106,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The foe is slapped\\nrepeatedly, back\\nand forth, two to\\nfive times in a row.\\n",
+        .description = "Abofetea de dos a\\ncinco veces seguidas.\\n",
     },
 
     [MOVE_COMET_PUNCH] = {
         .names = {
-            .name = "Comet Punch",
-            .capsName = "COMET PUNCH",
-            .fullName = "Comet Punch",
+            .name = "Puño Cometa",
+            .capsName = "PUÑO COMETA",
+            .fullName = "Puño Cometa",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -133,14 +133,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The foe is hit with\\na flurry of punches\\nthat strike two to\\nfive times in a row.\\n",
+        .description = "Pega de dos a cinco\\nveces seguidas.\\n",
     },
 
     [MOVE_MEGA_PUNCH] = {
         .names = {
-            .name = "Mega Punch",
-            .capsName = "MEGA PUNCH",
-            .fullName = "Mega Punch",
+            .name = "Megapuño",
+            .capsName = "MEGAPUÑO",
+            .fullName = "Megapuño",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -160,14 +160,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The foe is slugged\\nby a punch thrown\\nwith muscle-packed\\npower.\\n",
+        .description = "Puñetazo de gran\\npotencia.\\n",
     },
 
     [MOVE_PAY_DAY] = {
         .names = {
-            .name = "Pay Day",
-            .capsName = "PAY DAY",
-            .fullName = "Pay Day",
+            .name = "Día de Pago",
+            .capsName = "DÍA DE PAGO",
+            .fullName = "Día de Pago",
         },
         .data = {
             .effect = MOVE_EFFECT_INCREASE_PRIZE_MONEY,
@@ -187,14 +187,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_PITY_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Numerous coins are\\nhurled at the foe to\\ninflict damage.\\nMoney is earned\\nafter battle.",
+        .description = "Ataca arrojando\\nmonedas y las\\nrecupera tras el\\ncombate.\\n",
     },
 
     [MOVE_FIRE_PUNCH] = {
         .names = {
-            .name = "Fire Punch",
-            .capsName = "FIRE PUNCH",
-            .fullName = "Fire Punch",
+            .name = "Puño Fuego",
+            .capsName = "PUÑO FUEGO",
+            .fullName = "Puño Fuego",
         },
         .data = {
             .effect = MOVE_EFFECT_BURN_HIT,
@@ -214,14 +214,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The foe is punched\\nwith a fiery fist.\\nIt may leave the\\ntarget with a burn.\\n",
+        .description = "Puñetazo ardiente\\nque puede causar\\nquemaduras.\\n",
     },
 
     [MOVE_ICE_PUNCH] = {
         .names = {
-            .name = "Ice Punch",
-            .capsName = "ICE PUNCH",
-            .fullName = "Ice Punch",
+            .name = "Puño Hielo",
+            .capsName = "PUÑO HIELO",
+            .fullName = "Puño Hielo",
         },
         .data = {
             .effect = MOVE_EFFECT_FREEZE_HIT,
@@ -241,14 +241,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The foe is punched\\nwith an icy fist.\\nIt may leave the\\ntarget frozen.\\n",
+        .description = "Puñetazo helado que\\npuede llegar a\\ncongelar.\\n",
     },
 
     [MOVE_THUNDER_PUNCH] = {
         .names = {
-            .name = "Thunder Punch",
-            .capsName = "THUNDER PUNCH",
-            .fullName = "Thunder Punch",
+            .name = "Puño Trueno",
+            .capsName = "PUÑO TRUENO",
+            .fullName = "Puño Trueno",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -268,14 +268,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is punched\\nwith an electrified\\nfist. It may leave\\nthe target with\\nparalysis.",
+        .description = "Puñetazo eléctrico\\nque puede paralizar.\\n",
     },
 
     [MOVE_SCRATCH] = {
         .names = {
-            .name = "Scratch",
-            .capsName = "SCRATCH",
-            .fullName = "Scratch",
+            .name = "Arañazo",
+            .capsName = "ARAÑAZO",
+            .fullName = "Arañazo",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -295,14 +295,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Hard, pointed, and\\nsharp claws rake the\\nfoe to inflict damage.\\n\\n",
+        .description = "Araña con afiladas\\ngarras.\\n",
     },
 
     [MOVE_VICE_GRIP] = {
         .names = {
-            .name = "Vise Grip",
-            .capsName = "VISE GRIP",
-            .fullName = "Vise Grip",
+            .name = "Agarre",
+            .capsName = "AGARRE",
+            .fullName = "Agarre",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -322,14 +322,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Huge, impressive\\npincers grip and\\nsqueeze the foe.\\n\\n",
+        .description = "Atenaza al objetivo\\ny le inflige daño.\\n",
     },
 
     [MOVE_GUILLOTINE] = {
         .names = {
-            .name = "Guillotine",
-            .capsName = "GUILLOTINE",
-            .fullName = "Guillotine",
+            .name = "Guillotina",
+            .capsName = "GUILLOTINA",
+            .fullName = "Guillotina",
         },
         .data = {
             .effect = MOVE_EFFECT_ONE_HIT_KO,
@@ -349,14 +349,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_ALL_SAME_JUDGE,
             .contestType = CONTEST_COOL,
         },
-        .description = "A vicious, tearing\\nattack with pincers.\\nThe foe will faint\\ninstantly if this\\nattack hits.",
+        .description = "Ataque con grandes\\npinzas que fulmina\\nal objetivo si\\nacierta.\\n",
     },
 
     [MOVE_RAZOR_WIND] = {
         .names = {
-            .name = "Razor Wind",
-            .capsName = "RAZOR WIND",
-            .fullName = "Razor Wind",
+            .name = "Viento Cort.",
+            .capsName = "VIENTO CORT.",
+            .fullName = "Viento Cortante",
         },
         .data = {
             .effect = MOVE_EFFECT_CHARGE_TURN_HIGH_CRIT,
@@ -376,14 +376,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_UNIQUE_JUDGE,
             .contestType = CONTEST_COOL,
         },
-        .description = "A two-turn attack.\\nBlades of wind hit the\\nfoe on the second\\nturn. It has a high\\ncritical-hit ratio.",
+        .description = "Se prepara y ataca al\\nsegundo turno con\\nráfagas de viento.\\nSuele ser crítico.\\n",
     },
 
     [MOVE_SWORDS_DANCE] = {
         .names = {
-            .name = "Swords Dance",
-            .capsName = "SWORDS DANCE",
-            .fullName = "Swords Dance",
+            .name = "Danza Espada",
+            .capsName = "DANZA ESPADA",
+            .fullName = "Danza Espada",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_UP_2,
@@ -403,14 +403,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "A frenetic dance to\\nuplift the fighting\\nspirit. It sharply\\nraises the user’s\\nAttack stat.",
+        .description = "Frenético baile que\\neleva el ánimo y\\nsube mucho el Ataque.\\n",
     },
 
     [MOVE_CUT] = {
         .names = {
-            .name = "Cut",
-            .capsName = "CUT",
-            .fullName = "Cut",
+            .name = "Corte",
+            .capsName = "CORTE",
+            .fullName = "Corte",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -430,14 +430,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is cut with a\\nscythe or a claw.\\nIt can also be used\\nto cut down thin\\ntrees.",
+        .description = "Corta al objetivo con\\ngarras o guadañas.\\n",
     },
 
     [MOVE_GUST] = {
         .names = {
-            .name = "Gust",
-            .capsName = "GUST",
-            .fullName = "Gust",
+            .name = "Tornado",
+            .capsName = "TORNADO",
+            .fullName = "Tornado",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_DAMAGE_FLY_OR_BOUNCE,
@@ -457,14 +457,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_SMART,
         },
-        .description = "A gust of wind is\\nwhipped up by wings\\nand launched at the\\nfoe to inflict damage.\\n",
+        .description = "Crea un tornado con\\nlas alas y lo lanza\\ncontra el objetivo.\\n",
     },
 
     [MOVE_WING_ATTACK] = {
         .names = {
-            .name = "Wing Attack",
-            .capsName = "WING ATTACK",
-            .fullName = "Wing Attack",
+            .name = "Ataque Ala",
+            .capsName = "ATAQUE ALA",
+            .fullName = "Ataque Ala",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -484,14 +484,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is struck\\nwith large, imposing\\nwings spread wide\\nto inflict damage.\\n",
+        .description = "Golpea con sus\\nextensas y majestuosas\\nalas.\\n",
     },
 
     [MOVE_WHIRLWIND] = {
         .names = {
-            .name = "Whirlwind",
-            .capsName = "WHIRLWIND",
-            .fullName = "Whirlwind",
+            .name = "Remolino",
+            .capsName = "REMOLINO",
+            .fullName = "Remolino",
         },
         .data = {
             .effect = MOVE_EFFECT_FORCE_SWITCH,
@@ -511,14 +511,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_ALL_SAME_JUDGE,
             .contestType = CONTEST_SMART,
         },
-        .description = "The foe is blown away,\\nto be replaced by\\nanother Pokémon\\nin its party. In the\\nwild, the battle ends.",
+        .description = "Se lleva al objetivo y\\nentra otro. Si es\\nsalvaje, acaba el\\ncombate.\\n",
     },
 
     [MOVE_FLY] = {
         .names = {
-            .name = "Fly",
-            .capsName = "FLY",
-            .fullName = "Fly",
+            .name = "Vuelo",
+            .capsName = "VUELO",
+            .fullName = "Vuelo",
         },
         .data = {
             .effect = MOVE_EFFECT_FLY,
@@ -538,14 +538,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_UNIQUE_JUDGE,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user soars, then\\nstrikes on the second\\nturn. It can also be\\nused for flying to\\nany familiar town.",
+        .description = "Vuela en el primer\\nturno y ataca en el\\nsegundo.\\n",
     },
 
     [MOVE_BIND] = {
         .names = {
-            .name = "Bind",
-            .capsName = "BIND",
-            .fullName = "Bind",
+            .name = "Atadura",
+            .capsName = "ATADURA",
+            .fullName = "Atadura",
         },
         .data = {
             .effect = MOVE_EFFECT_BIND_HIT,
@@ -565,14 +565,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LATE_BOOST,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "A long body or\\ntentacles are used\\nto bind and squeeze\\nthe foe for two to\\nfive turns.",
+        .description = "Ata y oprime al\\nobjetivo de cuatro a\\ncinco turnos.\\n",
     },
 
     [MOVE_SLAM] = {
         .names = {
-            .name = "Slam",
-            .capsName = "SLAM",
-            .fullName = "Slam",
+            .name = "Atizar",
+            .capsName = "ATIZAR",
+            .fullName = "Atizar",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -592,14 +592,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The foe is slammed\\nwith a long tail,\\nvines, etc., to inflict\\ndamage.\\n",
+        .description = "Golpea con la cola o\\ncon lianas para\\ncausar daño.\\n",
     },
 
     [MOVE_VINE_WHIP] = {
         .names = {
-            .name = "Vine Whip",
-            .capsName = "VINE WHIP",
-            .fullName = "Vine Whip",
+            .name = "Látigo Cepa",
+            .capsName = "LÁTIGO CEPA",
+            .fullName = "Látigo Cepa",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -619,14 +619,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is struck\\nwith slender, whiplike\\nvines to inflict\\ndamage.\\n",
+        .description = "Azota con lianas\\nlargas y flexibles\\ncomo látigos.\\n",
     },
 
     [MOVE_STOMP] = {
         .names = {
-            .name = "Stomp",
-            .capsName = "STOMP",
-            .fullName = "Stomp",
+            .name = "Pisotón",
+            .capsName = "PISOTÓN",
+            .fullName = "Pisotón",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_MINIMIZE_DOUBLE_HIT,
@@ -646,14 +646,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The foe is stomped\\nwith a big foot.\\nIt may also make the\\ntarget flinch.\\n",
+        .description = "Tremendo pisotón que\\npuede amedrentar al\\nobjetivo.\\n",
     },
 
     [MOVE_DOUBLE_KICK] = {
         .names = {
-            .name = "Double Kick",
-            .capsName = "DOUBLE KICK",
-            .fullName = "Double Kick",
+            .name = "Doble Patada",
+            .capsName = "DOBLE PATADA",
+            .fullName = "Doble Patada",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_TWICE,
@@ -673,14 +673,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is quickly\\nkicked twice in\\nsuccession using both\\nfeet.\\n",
+        .description = "Dos patadas seguidas,\\nuna con cada pie.\\n",
     },
 
     [MOVE_MEGA_KICK] = {
         .names = {
-            .name = "Mega Kick",
-            .capsName = "MEGA KICK",
-            .fullName = "Mega Kick",
+            .name = "Megapatada",
+            .capsName = "MEGAPATADA",
+            .fullName = "Megapatada",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -700,14 +700,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is attacked\\nby a kick launched\\nwith muscle-packed\\npower.\\n",
+        .description = "Patada de extrema\\nfuerza.\\n",
     },
 
     [MOVE_JUMP_KICK] = {
         .names = {
-            .name = "Jump Kick",
-            .capsName = "JUMP KICK",
-            .fullName = "Jump Kick",
+            .name = "Patada Salto",
+            .capsName = "PATADA SALTO",
+            .fullName = "Patada Salto",
         },
         .data = {
             .effect = MOVE_EFFECT_CRASH_ON_MISS,
@@ -727,14 +727,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user jumps up\\nhigh, then strikes\\nwith a kick. If the\\nkick misses, the\\nuser hurts itself.",
+        .description = "Salta y pega una\\npatada. Si falla, se\\nlesiona.\\n",
     },
 
     [MOVE_ROLLING_KICK] = {
         .names = {
-            .name = "Rolling Kick",
-            .capsName = "ROLLING KICK",
-            .fullName = "Rolling Kick",
+            .name = "Patada Giro",
+            .capsName = "PATADA GIRO",
+            .fullName = "Patada Giro",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -754,14 +754,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user lashes \\nout with a quick,\\nspinning kick. It\\nmay also make the\\ntarget flinch.",
+        .description = "Patada rápida y\\ncircular. Puede\\namedrentar al rival.\\n",
     },
 
     [MOVE_SAND_ATTACK] = {
         .names = {
-            .name = "Sand Attack",
-            .capsName = "SAND ATTACK",
-            .fullName = "Sand Attack",
+            .name = "Ataque Arena",
+            .capsName = "ATAQUE ARENA",
+            .fullName = "Ataque Arena",
         },
         .data = {
             .effect = MOVE_EFFECT_ACC_DOWN,
@@ -781,14 +781,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Sand is hurled in the\\nfoe’s face, reducing\\nits accuracy.\\n\\n",
+        .description = "Arroja arena a la\\ncara y reduce la\\nPrecisión.\\n",
     },
 
     [MOVE_HEADBUTT] = {
         .names = {
-            .name = "Headbutt",
-            .capsName = "HEADBUTT",
-            .fullName = "Headbutt",
+            .name = "Golpe Cabeza",
+            .capsName = "GOLPE CABEZA",
+            .fullName = "Golpe Cabeza",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -808,14 +808,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user attacks with\\nits head. It may make\\nthe foe flinch. To find\\nPokémon, hit trees.",
+        .description = "Potente cabezazo que\\npuede amedrentar.\\n",
     },
 
     [MOVE_HORN_ATTACK] = {
         .names = {
-            .name = "Horn Attack",
-            .capsName = "HORN ATTACK",
-            .fullName = "Horn Attack",
+            .name = "Cornada",
+            .capsName = "CORNADA",
+            .fullName = "Cornada",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -835,14 +835,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is jabbed\\nwith a sharply\\npointed horn to\\ninflict damage.\\n",
+        .description = "Ataca con una cornada\\npunzante.\\n",
     },
 
     [MOVE_FURY_ATTACK] = {
         .names = {
-            .name = "Fury Attack",
-            .capsName = "FURY ATTACK",
-            .fullName = "Fury Attack",
+            .name = "Ataque Furia",
+            .capsName = "ATAQUE FURIA",
+            .fullName = "Ataque Furia",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -862,14 +862,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is jabbed\\nrepeatedly with a\\nhorn or beak two to\\nfive times in a row.\\n",
+        .description = "Cornea o picotea de\\ndos a cinco veces\\nseguidas.\\n",
     },
 
     [MOVE_HORN_DRILL] = {
         .names = {
-            .name = "Horn Drill",
-            .capsName = "HORN DRILL",
-            .fullName = "Horn Drill",
+            .name = "Perforador",
+            .capsName = "PERFORADOR",
+            .fullName = "Perforador",
         },
         .data = {
             .effect = MOVE_EFFECT_ONE_HIT_KO,
@@ -889,14 +889,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_ALL_SAME_JUDGE,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is stabbed\\nwith a horn rotating\\nlike a drill.\\nThe foe instantly\\nfaints if it hits.",
+        .description = "Cuerno giratorio que\\nfulmina al objetivo\\nsi acierta.\\n",
     },
 
     [MOVE_TACKLE] = {
         .names = {
-            .name = "Tackle",
-            .capsName = "TACKLE",
-            .fullName = "Tackle",
+            .name = "Placaje",
+            .capsName = "PLACAJE",
+            .fullName = "Placaje",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -916,14 +916,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "A physical attack\\nin which the user\\ncharges and slams\\ninto the foe with\\nits whole body.",
+        .description = "Embestida con todo el\\ncuerpo.\\n",
     },
 
     [MOVE_BODY_SLAM] = {
         .names = {
-            .name = "Body Slam",
-            .capsName = "BODY SLAM",
-            .fullName = "Body Slam",
+            .name = "Golpe Cuerpo",
+            .capsName = "GOLPE CUERPO",
+            .fullName = "Golpe Cuerpo",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -943,14 +943,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user drops onto\\nthe foe with its full\\nbody weight.\\nIt may leave the foe\\nparalyzed.",
+        .description = "Salta sobre el rival\\ncon todo su peso.\\nPuede paralizarlo.\\n",
     },
 
     [MOVE_WRAP] = {
         .names = {
-            .name = "Wrap",
-            .capsName = "WRAP",
-            .fullName = "Wrap",
+            .name = "Constricción",
+            .capsName = "CONSTRICCIÓN",
+            .fullName = "Constricción",
         },
         .data = {
             .effect = MOVE_EFFECT_BIND_HIT,
@@ -970,14 +970,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LATE_BOOST,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "A long body or vines\\nare used to wrap and\\nsqueeze the foe for\\ntwo to five turns.\\n",
+        .description = "Oprime al objetivo de\\ncuatro a cinco turnos\\ncon lianas o su\\ncuerpo.\\n",
     },
 
     [MOVE_TAKE_DOWN] = {
         .names = {
-            .name = "Take Down",
-            .capsName = "TAKE DOWN",
-            .fullName = "Take Down",
+            .name = "Derribo",
+            .capsName = "DERRIBO",
+            .fullName = "Derribo",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOIL_QUARTER,
@@ -997,14 +997,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "A reckless, full-body\\ncharge attack for\\nslamming into the foe.\\nIt also damages the\\nuser a little.",
+        .description = "Carga desmedida que\\ntambién hiere un\\npoco al usuario.\\n",
     },
 
     [MOVE_THRASH] = {
         .names = {
-            .name = "Thrash",
-            .capsName = "THRASH",
-            .fullName = "Thrash",
+            .name = "Saña",
+            .capsName = "SAÑA",
+            .fullName = "Saña",
         },
         .data = {
             .effect = MOVE_EFFECT_CONTINUE_AND_CONFUSE_SELF,
@@ -1024,14 +1024,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user rampages\\nand attacks for two\\nto three turns.\\nIt then becomes\\nconfused, however.",
+        .description = "Ataca enfurecido de\\ndos a tres turnos y\\nluego queda confuso.\\n",
     },
 
     [MOVE_DOUBLE_EDGE] = {
         .names = {
-            .name = "Double-Edge",
-            .capsName = "DOUBLE-EDGE",
-            .fullName = "Double-Edge",
+            .name = "Doble Filo",
+            .capsName = "DOBLE FILO",
+            .fullName = "Doble Filo",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOIL_THIRD,
@@ -1051,14 +1051,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_ALL_SAME_JUDGE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "A reckless, life-\\nrisking tackle.\\nIt also damages the\\nuser by a fairly large\\namount, however.",
+        .description = "Ataque arriesgado que\\ntambién hiere\\nseriamente al\\nusuario.\\n",
     },
 
     [MOVE_TAIL_WHIP] = {
         .names = {
-            .name = "Tail Whip",
-            .capsName = "TAIL WHIP",
-            .fullName = "Tail Whip",
+            .name = "Agitacola",
+            .capsName = "AGITACOLA",
+            .fullName = "Agitacola",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_DOWN,
@@ -1078,14 +1078,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user wags its tail\\ncutely, making the\\nfoe less wary.\\nThe target’s Defense\\nstat is lowered.",
+        .description = "Agita la cola para\\ndespistar y reduce\\nla Defensa.\\n",
     },
 
     [MOVE_POISON_STING] = {
         .names = {
-            .name = "Poison Sting",
-            .capsName = "POISON STING",
-            .fullName = "Poison Sting",
+            .name = "Picot. Ven.",
+            .capsName = "PICOT. VEN.",
+            .fullName = "Picotazo Veneno",
         },
         .data = {
             .effect = MOVE_EFFECT_POISON_HIT,
@@ -1105,14 +1105,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "The foe is stabbed\\nwith a poisonous\\nbarb of some sort.\\nIt may also poison\\nthe target.",
+        .description = "Aguijón tóxico que\\npuede envenenar.\\n",
     },
 
     [MOVE_TWINEEDLE] = {
         .names = {
-            .name = "Twineedle",
-            .capsName = "TWINEEDLE",
-            .fullName = "Twineedle",
+            .name = "Doble Ataque",
+            .capsName = "DOBLE ATAQUE",
+            .fullName = "Doble Ataque",
         },
         .data = {
             .effect = MOVE_EFFECT_POISON_MULTI_HIT,
@@ -1132,14 +1132,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is stabbed\\ntwice by a pair of\\nstingers.\\nIt may also poison\\nthe target.",
+        .description = "Pincha dos veces con\\ndos espinas. Puede\\nenvenenar.\\n",
     },
 
     [MOVE_PIN_MISSILE] = {
         .names = {
-            .name = "Pin Missile",
-            .capsName = "PIN MISSILE",
-            .fullName = "Pin Missile",
+            .name = "Pin Misil",
+            .capsName = "PIN MISIL",
+            .fullName = "Pin Misil",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -1159,14 +1159,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Sharp pins are shot\\nat the foe in rapid\\nsuccession.\\nThey hit two to five\\ntimes in a row.",
+        .description = "Púas afiladas que\\nhieren de dos a cinco\\nveces.\\n",
     },
 
     [MOVE_LEER] = {
         .names = {
-            .name = "Leer",
-            .capsName = "LEER",
-            .fullName = "Leer",
+            .name = "Malicioso",
+            .capsName = "MALICIOSO",
+            .fullName = "Malicioso",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_DOWN,
@@ -1186,14 +1186,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is given an\\nintimidating leer with\\nsharp eyes.\\nThe target’s Defense\\nstat is reduced.",
+        .description = "Mirada torva que\\nintimida y reduce la\\nDefensa.\\n",
     },
 
     [MOVE_BITE] = {
         .names = {
-            .name = "Bite",
-            .capsName = "BITE",
-            .fullName = "Bite",
+            .name = "Mordisco",
+            .capsName = "MORDISCO",
+            .fullName = "Mordisco",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -1213,14 +1213,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The foe is bitten with\\nviciously sharp fangs.\\nIt may make the\\ntarget flinch.\\n",
+        .description = "Voraz bocado que\\npuede amedrentar al\\nobjetivo.\\n",
     },
 
     [MOVE_GROWL] = {
         .names = {
-            .name = "Growl",
-            .capsName = "GROWL",
-            .fullName = "Growl",
+            .name = "Gruñido",
+            .capsName = "GRUÑIDO",
+            .fullName = "Gruñido",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_DOWN,
@@ -1240,14 +1240,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user growls in an\\nendearing way, making\\nthe foe less wary.\\nThe target’s Attack\\nstat is lowered.",
+        .description = "Dulce gruñido que\\ndesconcierta y\\nreduce el Ataque.\\n",
     },
 
     [MOVE_ROAR] = {
         .names = {
-            .name = "Roar",
-            .capsName = "ROAR",
-            .fullName = "Roar",
+            .name = "Rugido",
+            .capsName = "RUGIDO",
+            .fullName = "Rugido",
         },
         .data = {
             .effect = MOVE_EFFECT_FORCE_SWITCH,
@@ -1267,14 +1267,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is scared off,\\nto be replaced by\\nanother Pokémon in\\nits party. In the\\nwild, the battle ends.",
+        .description = "Se lleva al objetivo y\\nentra otro. Si es\\nsalvaje, acaba el\\ncombate.\\n",
     },
 
     [MOVE_SING] = {
         .names = {
-            .name = "Sing",
-            .capsName = "SING",
-            .fullName = "Sing",
+            .name = "Canto",
+            .capsName = "CANTO",
+            .fullName = "Canto",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_SLEEP,
@@ -1294,14 +1294,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_CUTE,
         },
-        .description = "A soothing lullaby is\\nsung in a calming\\nvoice that puts the\\nfoe into a deep\\nslumber.",
+        .description = "Cancioncilla que hace\\ndormir profundamente.\\n",
     },
 
     [MOVE_SUPERSONIC] = {
         .names = {
-            .name = "Supersonic",
-            .capsName = "SUPERSONIC",
-            .fullName = "Supersonic",
+            .name = "Supersónico",
+            .capsName = "SUPERSÓNICO",
+            .fullName = "Supersónico",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_CONFUSE,
@@ -1321,14 +1321,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user generates\\nodd sound waves from\\nits body.\\nIt may confuse the\\ntarget.",
+        .description = "Ondas sónicas que\\nconfunden al\\nobjetivo.\\n",
     },
 
     [MOVE_SONIC_BOOM] = {
         .names = {
-            .name = "Sonic Boom",
-            .capsName = "SONIC BOOM",
-            .fullName = "Sonic Boom",
+            .name = "Bomba Sónica",
+            .capsName = "BOMBA SÓNICA",
+            .fullName = "Bomba Sónica",
         },
         .data = {
             .effect = MOVE_EFFECT_10_DAMAGE_FLAT,
@@ -1348,14 +1348,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is hit with a\\ndestructive shock\\nwave that always\\ninflicts 20 HP damage.\\n",
+        .description = "Ondas de choque que\\nrestan 20 PS.\\n",
     },
 
     [MOVE_DISABLE] = {
         .names = {
-            .name = "Disable",
-            .capsName = "DISABLE",
-            .fullName = "Disable",
+            .name = "Anulación",
+            .capsName = "ANULACIÓN",
+            .fullName = "Anulación",
         },
         .data = {
             .effect = MOVE_EFFECT_DISABLE,
@@ -1375,14 +1375,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "For several turns,\\nthis move prevents\\nthe foe from using\\nthe move it last\\nused.",
+        .description = "Anula el último\\nmovimiento del\\nobjetivo durante\\ncuatro turnos.\\n",
     },
 
     [MOVE_ACID] = {
         .names = {
-            .name = "Acid",
-            .capsName = "ACID",
-            .fullName = "Acid",
+            .name = "Ácido",
+            .capsName = "ÁCIDO",
+            .fullName = "Ácido",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_HIT,
@@ -1402,14 +1402,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_SMART,
         },
-        .description = "The foe is attacked\\nwith a spray of harsh\\nacid. It may also\\nlower the target’s\\nSp. Def stat.",
+        .description = "Ácido corrosivo que\\npuede bajar la\\nDefensa Especial.\\n",
     },
 
     [MOVE_EMBER] = {
         .names = {
-            .name = "Ember",
-            .capsName = "EMBER",
-            .fullName = "Ember",
+            .name = "Ascuas",
+            .capsName = "ASCUAS",
+            .fullName = "Ascuas",
         },
         .data = {
             .effect = MOVE_EFFECT_BURN_HIT,
@@ -1429,14 +1429,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The foe is attacked\\nwith small flames.\\nThe target may also\\nbe left with a burn.\\n",
+        .description = "Llamas pequeñas que\\npueden causar\\nquemaduras.\\n",
     },
 
     [MOVE_FLAMETHROWER] = {
         .names = {
-            .name = "Flamethrower",
-            .capsName = "FLAMETHROWER",
-            .fullName = "Flamethrower",
+            .name = "Lanzallamas",
+            .capsName = "LANZALLAMAS",
+            .fullName = "Lanzallamas",
         },
         .data = {
             .effect = MOVE_EFFECT_BURN_HIT,
@@ -1456,14 +1456,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The foe is scorched\\nwith an intense blast\\nof fire. The target\\nmay also be left with\\na burn.",
+        .description = "Gran ráfaga de fuego\\nque puede causar\\nquemaduras.\\n",
     },
 
     [MOVE_MIST] = {
         .names = {
-            .name = "Mist",
-            .capsName = "MIST",
-            .fullName = "Mist",
+            .name = "Neblina",
+            .capsName = "NEBLINA",
+            .fullName = "Neblina",
         },
         .data = {
             .effect = MOVE_EFFECT_PREVENT_STAT_REDUCTION,
@@ -1483,14 +1483,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user cloaks its\\nbody with a white mist\\nthat prevents any of\\nits stats from being\\ncut for five turns.",
+        .description = "Neblina blanca que\\nimpide reducir las\\ncaracterísticas\\ndurante 5 turnos.\\n",
     },
 
     [MOVE_WATER_GUN] = {
         .names = {
-            .name = "Water Gun",
-            .capsName = "WATER GUN",
-            .fullName = "Water Gun",
+            .name = "Pistola Agua",
+            .capsName = "PISTOLA AGUA",
+            .fullName = "Pistola Agua",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -1510,14 +1510,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The foe is blasted\\nwith a forceful shot\\nof water.\\n\\n",
+        .description = "Dispara agua con gran\\npotencia.\\n",
     },
 
     [MOVE_HYDRO_PUMP] = {
         .names = {
-            .name = "Hydro Pump",
-            .capsName = "HYDRO PUMP",
-            .fullName = "Hydro Pump",
+            .name = "Hidrobomba",
+            .capsName = "HIDROBOMBA",
+            .fullName = "Hidrobomba",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -1537,7 +1537,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The foe is blasted by\\na huge volume of\\nwater launched under\\ngreat pressure.\\n",
+        .description = "Lanza una gran masa\\nde agua a presión.\\n",
     },
 
     [MOVE_SURF] = {
@@ -1564,14 +1564,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "It swamps the entire\\nbattlefield with a\\ngiant wave.\\nIt can also be used\\nfor crossing water.",
+        .description = "Una ola gigante\\ninunda el terreno y\\ngolpea a los\\nadyacentes.\\n",
     },
 
     [MOVE_ICE_BEAM] = {
         .names = {
-            .name = "Ice Beam",
-            .capsName = "ICE BEAM",
-            .fullName = "Ice Beam",
+            .name = "Rayo Hielo",
+            .capsName = "RAYO HIELO",
+            .fullName = "Rayo Hielo",
         },
         .data = {
             .effect = MOVE_EFFECT_FREEZE_HIT,
@@ -1591,14 +1591,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The foe is struck\\nwith an icy-cold\\nbeam of energy.\\nIt may also freeze\\nthe target solid.",
+        .description = "Rayo de hielo que\\npuede llegar a\\ncongelar.\\n",
     },
 
     [MOVE_BLIZZARD] = {
         .names = {
-            .name = "Blizzard",
-            .capsName = "BLIZZARD",
-            .fullName = "Blizzard",
+            .name = "Ventisca",
+            .capsName = "VENTISCA",
+            .fullName = "Ventisca",
         },
         .data = {
             .effect = MOVE_EFFECT_BLIZZARD,
@@ -1618,14 +1618,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "A howling blizzard is\\nsummoned to strike\\nthe foe.\\nIt may also freeze\\nthe target solid.",
+        .description = "Tormenta de hielo que\\npuede llegar a\\ncongelar.\\n",
     },
 
     [MOVE_PSYBEAM] = {
         .names = {
-            .name = "Psybeam",
-            .capsName = "PSYBEAM",
-            .fullName = "Psybeam",
+            .name = "Psicorrayo",
+            .capsName = "PSICORRAYO",
+            .fullName = "Psicorrayo",
         },
         .data = {
             .effect = MOVE_EFFECT_CONFUSE_HIT,
@@ -1645,14 +1645,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The foe is attacked\\nwith a peculiar ray.\\nIt may also leave the\\ntarget confused.\\n",
+        .description = "Extraño rayo que\\npuede causar\\nconfusión.\\n",
     },
 
     [MOVE_BUBBLE_BEAM] = {
         .names = {
-            .name = "Bubble Beam",
-            .capsName = "BUBBLE BEAM",
-            .fullName = "Bubble Beam",
+            .name = "Rayo Burbuja",
+            .capsName = "RAYO BURBUJA",
+            .fullName = "Rayo Burbuja",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SPEED_HIT,
@@ -1672,14 +1672,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_NEXT_TURN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "A spray of bubbles is\\nforcefully ejected\\nat the foe.\\nIt may also lower the\\ntarget’s Speed stat.",
+        .description = "Ráfaga de burbujas que\\npuede reducir la\\nVelocidad.\\n",
     },
 
     [MOVE_AURORA_BEAM] = {
         .names = {
-            .name = "Aurora Beam",
-            .capsName = "AURORA BEAM",
-            .fullName = "Aurora Beam",
+            .name = "Rayo Aurora",
+            .capsName = "RAYO AURORA",
+            .fullName = "Rayo Aurora",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_ATTACK_HIT,
@@ -1699,14 +1699,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The foe is hit with a\\nrainbow-colored beam.\\nIt may also lower the\\ntarget’s Attack\\nstat.",
+        .description = "Rayo multicolor que\\npuede reducir el\\nAtaque.\\n",
     },
 
     [MOVE_HYPER_BEAM] = {
         .names = {
-            .name = "Hyper Beam",
-            .capsName = "HYPER BEAM",
-            .fullName = "Hyper Beam",
+            .name = "Hiperrayo",
+            .capsName = "HIPERRAYO",
+            .fullName = "Hiperrayo",
         },
         .data = {
             .effect = MOVE_EFFECT_RECHARGE_AFTER,
@@ -1726,14 +1726,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is attacked\\nwith a powerful beam.\\nThe user must rest\\non the next turn to\\nregain its energy.",
+        .description = "Potente haz que le\\nobliga a descansar\\nel turno siguiente.\\n",
     },
 
     [MOVE_PECK] = {
         .names = {
-            .name = "Peck",
-            .capsName = "PECK",
-            .fullName = "Peck",
+            .name = "Picotazo",
+            .capsName = "PICOTAZO",
+            .fullName = "Picotazo",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -1753,14 +1753,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is jabbed\\nwith a sharply\\npointed beak or\\nhorn.\\n",
+        .description = "Ensarta con un pico\\no un cuerno\\npunzante.\\n",
     },
 
     [MOVE_DRILL_PECK] = {
         .names = {
-            .name = "Drill Peck",
-            .capsName = "DRILL PECK",
-            .fullName = "Drill Peck",
+            .name = "Pico Taladro",
+            .capsName = "PICO TALADRO",
+            .fullName = "Pico Taladro",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -1780,14 +1780,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "A corkscrewing\\nattack with the\\nsharp beak acting\\nas a drill.\\n",
+        .description = "Picotazo giratorio y\\nperforador muy\\npotente.\\n",
     },
 
     [MOVE_SUBMISSION] = {
         .names = {
-            .name = "Submission",
-            .capsName = "SUBMISSION",
-            .fullName = "Submission",
+            .name = "Sumisión",
+            .capsName = "SUMISIÓN",
+            .fullName = "Sumisión",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOIL_QUARTER,
@@ -1807,14 +1807,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user grabs the\\nfoe and recklessly\\ndives for the ground.\\nIt also hurts the\\nuser slightly.",
+        .description = "Se lanza al suelo con\\nel rival en brazos y\\ntambién se hiere.\\n",
     },
 
     [MOVE_LOW_KICK] = {
         .names = {
-            .name = "Low Kick",
-            .capsName = "LOW KICK",
-            .fullName = "Low Kick",
+            .name = "Patada Baja",
+            .capsName = "PATADA BAJA",
+            .fullName = "Patada Baja",
         },
         .data = {
             .effect = MOVE_EFFECT_INCREASE_POWER_WITH_WEIGHT,
@@ -1834,14 +1834,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "A powerful low kick\\nthat makes the foe\\nfall over. It inflicts\\ngreater damage on\\nheavier foes.",
+        .description = "Patada baja que\\nderriba. Cuanto más\\npesa el objetivo,\\nmás daño causa.\\n",
     },
 
     [MOVE_COUNTER] = {
         .names = {
-            .name = "Counter",
-            .capsName = "COUNTER",
-            .fullName = "Counter",
+            .name = "Contraataque",
+            .capsName = "CONTRAATAQUE",
+            .fullName = "Contraataque",
         },
         .data = {
             .effect = MOVE_EFFECT_COUNTER,
@@ -1861,14 +1861,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "A retaliation move\\nthat counters any\\nphysical attack,\\ninflicting double the\\ndamage taken.",
+        .description = "Devuelve un ataque\\nfísico por duplicado.\\n",
     },
 
     [MOVE_SEISMIC_TOSS] = {
         .names = {
-            .name = "Seismic Toss",
-            .capsName = "SEISMIC TOSS",
-            .fullName = "Seismic Toss",
+            .name = "Sísmico",
+            .capsName = "SÍSMICO",
+            .fullName = "Sísmico",
         },
         .data = {
             .effect = MOVE_EFFECT_LEVEL_DAMAGE_FLAT,
@@ -1888,14 +1888,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The foe is thrown\\nusing the power of\\ngravity. It inflicts\\ndamage equal to\\nthe user’s level.",
+        .description = "Derriba con la\\ngravedad y resta PS\\nigual al nivel del\\nusuario.\\n",
     },
 
     [MOVE_STRENGTH] = {
         .names = {
-            .name = "Strength",
-            .capsName = "STRENGTH",
-            .fullName = "Strength",
+            .name = "Fuerza",
+            .capsName = "FUERZA",
+            .fullName = "Fuerza",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -1915,14 +1915,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The foe is slugged\\nwith a punch thrown\\nat maximum power.\\nIt can also be used\\nto move boulders.",
+        .description = "Golpea al objetivo\\ncon todas sus\\nfuerzas.\\n",
     },
 
     [MOVE_ABSORB] = {
         .names = {
-            .name = "Absorb",
-            .capsName = "ABSORB",
-            .fullName = "Absorb",
+            .name = "Absorber",
+            .capsName = "ABSORBER",
+            .fullName = "Absorber",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOVER_HALF_DAMAGE_DEALT,
@@ -1942,14 +1942,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "A nutrient-draining\\nattack. The user’s\\nHP is restored by\\nhalf the damage taken\\nby the target.",
+        .description = "Absorbe nutrientes.\\nEl usuario recupera\\nla mitad del daño\\nproducido.\\n",
     },
 
     [MOVE_MEGA_DRAIN] = {
         .names = {
-            .name = "Mega Drain",
-            .capsName = "MEGA DRAIN",
-            .fullName = "Mega Drain",
+            .name = "Megaagotar",
+            .capsName = "MEGAAGOTAR",
+            .fullName = "Megaagotar",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOVER_HALF_DAMAGE_DEALT,
@@ -1969,14 +1969,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "A nutrient-draining\\nattack. The user’s\\nHP is restored by\\nhalf the damage taken\\nby the target.",
+        .description = "Absorbe nutrientes.\\nEl usuario recupera\\nla mitad del daño\\nproducido.\\n",
     },
 
     [MOVE_LEECH_SEED] = {
         .names = {
-            .name = "Leech Seed",
-            .capsName = "LEECH SEED",
-            .fullName = "Leech Seed",
+            .name = "Drenadoras",
+            .capsName = "DRENADORAS",
+            .fullName = "Drenadoras",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_LEECH_SEED,
@@ -1996,14 +1996,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LATE_BOOST,
             .contestType = CONTEST_SMART,
         },
-        .description = "A seed is planted on\\nthe foe. It steals\\nsome HP from the foe\\nto heal the user on\\nevery turn.",
+        .description = "Planta semillas que\\nabsorben PS del rival\\nen cada turno.\\n",
     },
 
     [MOVE_GROWTH] = {
         .names = {
-            .name = "Growth",
-            .capsName = "GROWTH",
-            .fullName = "Growth",
+            .name = "Desarrollo",
+            .capsName = "DESARROLLO",
+            .fullName = "Desarrollo",
         },
         .data = {
             .effect = MOVE_EFFECT_SP_ATK_UP,
@@ -2023,14 +2023,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user’s body is\\nforced to grow all at\\nonce. It raises the\\nSp. Atk stat.\\n",
+        .description = "Su cuerpo crece de\\ngolpe y aumentan el\\nAtaque y el Ataque\\nEspecial.\\n",
     },
 
     [MOVE_RAZOR_LEAF] = {
         .names = {
-            .name = "Razor Leaf",
-            .capsName = "RAZOR LEAF",
-            .fullName = "Razor Leaf",
+            .name = "Hoja Afilada",
+            .capsName = "HOJA AFILADA",
+            .fullName = "Hoja Afilada",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -2050,14 +2050,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Sharp-edged leaves\\nare launched to slash\\nat the foe. It has a\\nhigh critical-hit\\nratio.",
+        .description = "Corta con hojas\\nafiladas. Suele ser\\ngolpe crítico.\\n",
     },
 
     [MOVE_SOLAR_BEAM] = {
         .names = {
-            .name = "Solar Beam",
-            .capsName = "SOLAR BEAM",
-            .fullName = "Solar Beam",
+            .name = "Rayo Solar",
+            .capsName = "RAYO SOLAR",
+            .fullName = "Rayo Solar",
         },
         .data = {
             .effect = MOVE_EFFECT_CHARGE_TURN_SUN_SKIPS,
@@ -2077,14 +2077,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_UNIQUE_JUDGE,
             .contestType = CONTEST_COOL,
         },
-        .description = "A two-turn attack.\\nThe user gathers\\nlight, then blasts a\\nbundled beam on the\\nsecond turn.",
+        .description = "Acumula luz en el\\nprimer turno y ataca\\nen el segundo.\\n",
     },
 
     [MOVE_POISON_POWDER] = {
         .names = {
-            .name = "Poison Powder",
-            .capsName = "POISON POWDER",
-            .fullName = "Poison Powder",
+            .name = "Polvo Veneno",
+            .capsName = "POLVO VENENO",
+            .fullName = "Polvo Veneno",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_POISON,
@@ -2104,14 +2104,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "A cloud of poisonous\\ndust is scattered on\\nthe foe.\\nIt may poison the\\ntarget.",
+        .description = "Polvo tóxico que\\nenvenena al\\nobjetivo.\\n",
     },
 
     [MOVE_STUN_SPORE] = {
         .names = {
-            .name = "Stun Spore",
-            .capsName = "STUN SPORE",
-            .fullName = "Stun Spore",
+            .name = "Paralizador",
+            .capsName = "PARALIZADOR",
+            .fullName = "Paralizador",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_PARALYZE,
@@ -2131,14 +2131,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user scatters a\\ncloud of paralyzing\\npowder.\\nIt may paralyze the\\ntarget.",
+        .description = "Polvo que paraliza al\\nobjetivo.\\n",
     },
 
     [MOVE_SLEEP_POWDER] = {
         .names = {
-            .name = "Sleep Powder",
-            .capsName = "SLEEP POWDER",
-            .fullName = "Sleep Powder",
+            .name = "Somnífero",
+            .capsName = "SOMNÍFERO",
+            .fullName = "Somnífero",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_SLEEP,
@@ -2158,14 +2158,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user scatters a\\nbig cloud of sleep-\\ninducing dust around\\nthe foe.\\n",
+        .description = "Polvo que duerme al\\nobjetivo.\\n",
     },
 
     [MOVE_PETAL_DANCE] = {
         .names = {
-            .name = "Petal Dance",
-            .capsName = "PETAL DANCE",
-            .fullName = "Petal Dance",
+            .name = "Danza Pétalo",
+            .capsName = "DANZA PÉTALO",
+            .fullName = "Danza Pétalo",
         },
         .data = {
             .effect = MOVE_EFFECT_CONTINUE_AND_CONFUSE_SELF,
@@ -2185,14 +2185,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LATE_BOOST,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user attacks by\\nscattering petals for\\ntwo to three turns.\\nThe user then\\nbecomes confused.",
+        .description = "Ataca lanzando\\npétalos de dos a tres\\nturnos y queda\\nconfuso.\\n",
     },
 
     [MOVE_STRING_SHOT] = {
         .names = {
-            .name = "String Shot",
-            .capsName = "STRING SHOT",
-            .fullName = "String Shot",
+            .name = "Disp. Demora",
+            .capsName = "DISP. DEMORA",
+            .fullName = "Disparo Demora",
         },
         .data = {
             .effect = MOVE_EFFECT_SPEED_DOWN_2,
@@ -2212,14 +2212,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "The foe is bound with\\nsilk blown from the\\nuser’s mouth.\\nIt reduces the\\ntarget’s Speed stat.",
+        .description = "Lanza seda por la boca\\ny reduce mucho la\\nVelocidad.\\n",
     },
 
     [MOVE_DRAGON_RAGE] = {
         .names = {
-            .name = "Dragon Rage",
-            .capsName = "DRAGON RAGE",
-            .fullName = "Dragon Rage",
+            .name = "Furia Dragón",
+            .capsName = "FURIA DRAGÓN",
+            .fullName = "Furia Dragón",
         },
         .data = {
             .effect = MOVE_EFFECT_40_DAMAGE_FLAT,
@@ -2239,14 +2239,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is stricken\\nby a shock wave.\\nThis attack always\\ninflicts 40 HP\\ndamage.",
+        .description = "Furiosas ondas de\\nchoque que quitan\\n40 PS.\\n",
     },
 
     [MOVE_FIRE_SPIN] = {
         .names = {
-            .name = "Fire Spin",
-            .capsName = "FIRE SPIN",
-            .fullName = "Fire Spin",
+            .name = "Giro Fuego",
+            .capsName = "GIRO FUEGO",
+            .fullName = "Giro Fuego",
         },
         .data = {
             .effect = MOVE_EFFECT_BIND_HIT,
@@ -2266,14 +2266,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LATE_BOOST,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The foe becomes\\ntrapped within a\\nfierce vortex of fire\\nthat rages for two\\nto five turns.",
+        .description = "Aro de fuego que\\natrapa y daña de\\ncuatro a cinco\\nturnos.\\n",
     },
 
     [MOVE_THUNDER_SHOCK] = {
         .names = {
-            .name = "Thunder Shock",
-            .capsName = "THUNDER SHOCK",
-            .fullName = "Thunder Shock",
+            .name = "Impactrueno",
+            .capsName = "IMPACTRUENO",
+            .fullName = "Impactrueno",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -2293,14 +2293,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "A jolt of electricity\\nis hurled at the foe\\nto inflict damage.\\nIt may also leave the\\nfoe paralyzed.",
+        .description = "Ataque eléctrico que\\npuede paralizar al\\nobjetivo.\\n",
     },
 
     [MOVE_THUNDERBOLT] = {
         .names = {
-            .name = "Thunderbolt",
-            .capsName = "THUNDERBOLT",
-            .fullName = "Thunderbolt",
+            .name = "Rayo",
+            .capsName = "RAYO",
+            .fullName = "Rayo",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -2320,14 +2320,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "A strong electric\\nblast is loosed at\\nthe foe.\\nIt may also leave the\\nfoe paralyzed.",
+        .description = "Potente ataque\\neléctrico que puede\\nparalizar.\\n",
     },
 
     [MOVE_THUNDER_WAVE] = {
         .names = {
-            .name = "Thunder Wave",
-            .capsName = "THUNDER WAVE",
-            .fullName = "Thunder Wave",
+            .name = "Onda Trueno",
+            .capsName = "ONDA TRUENO",
+            .fullName = "Onda Trueno",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_PARALYZE,
@@ -2347,14 +2347,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_COOL,
         },
-        .description = "A weak electric\\ncharge is launched at\\nthe foe.\\nIt causes paralysis if\\nit hits.",
+        .description = "Ligera descarga que\\nparaliza al objetivo.\\n",
     },
 
     [MOVE_THUNDER] = {
         .names = {
-            .name = "Thunder",
-            .capsName = "THUNDER",
-            .fullName = "Thunder",
+            .name = "Trueno",
+            .capsName = "TRUENO",
+            .fullName = "Trueno",
         },
         .data = {
             .effect = MOVE_EFFECT_THUNDER,
@@ -2374,14 +2374,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "A wicked thunderbolt\\nis dropped on the foe\\nto inflict damage.\\nIt may also leave the\\ntarget paralyzed.",
+        .description = "Poderoso rayo que\\ndaña y puede\\nparalizar.\\n",
     },
 
     [MOVE_ROCK_THROW] = {
         .names = {
-            .name = "Rock Throw",
-            .capsName = "ROCK THROW",
-            .fullName = "Rock Throw",
+            .name = "Lanzarrocas",
+            .capsName = "LANZARROCAS",
+            .fullName = "Lanzarrocas",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -2401,14 +2401,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user picks up\\nand throws a small\\nrock at the foe to\\nattack.\\n",
+        .description = "Tira una pequeña roca\\nal objetivo.\\n",
     },
 
     [MOVE_EARTHQUAKE] = {
         .names = {
-            .name = "Earthquake",
-            .capsName = "EARTHQUAKE",
-            .fullName = "Earthquake",
+            .name = "Terremoto",
+            .capsName = "TERREMOTO",
+            .fullName = "Terremoto",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_DAMAGE_DIG,
@@ -2428,14 +2428,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user sets off an\\nearthquake that hits\\nall the Pokémon in\\nthe battle.\\n",
+        .description = "Un terremoto que\\nafecta a los Pokémon\\nadyacentes.\\n",
     },
 
     [MOVE_FISSURE] = {
         .names = {
-            .name = "Fissure",
-            .capsName = "FISSURE",
-            .fullName = "Fissure",
+            .name = "Fisura",
+            .capsName = "FISURA",
+            .fullName = "Fisura",
         },
         .data = {
             .effect = MOVE_EFFECT_ONE_HIT_KO,
@@ -2455,14 +2455,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_ALL_SAME_JUDGE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user opens up a\\nfissure in the ground\\nand drops the foe in.\\nThe target instantly\\nfaints if it hits.",
+        .description = "Abre una grieta y mete\\nal objetivo en ella.\\nLo fulmina si acierta.\\n",
     },
 
     [MOVE_DIG] = {
         .names = {
-            .name = "Dig",
-            .capsName = "DIG",
-            .fullName = "Dig",
+            .name = "Excavar",
+            .capsName = "EXCAVAR",
+            .fullName = "Excavar",
         },
         .data = {
             .effect = MOVE_EFFECT_DIG,
@@ -2482,14 +2482,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_UNIQUE_JUDGE,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user burrows,\\nthen attacks on the\\nsecond turn.\\nIt can also be used\\nto exit dungeons.",
+        .description = "Cava en el primer\\nturno y ataca en el\\nsegundo.\\n",
     },
 
     [MOVE_TOXIC] = {
         .names = {
-            .name = "Toxic",
-            .capsName = "TOXIC",
-            .fullName = "Toxic",
+            .name = "Tóxico",
+            .capsName = "TÓXICO",
+            .fullName = "Tóxico",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_BADLY_POISON,
@@ -2509,14 +2509,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "A move that leaves\\nthe target badly\\npoisoned.\\nIts poison damage\\nworsens every turn.",
+        .description = "Envenena gravemente\\ny el daño aumenta\\ncada turno.\\n",
     },
 
     [MOVE_CONFUSION] = {
         .names = {
-            .name = "Confusion",
-            .capsName = "CONFUSION",
-            .fullName = "Confusion",
+            .name = "Confusión",
+            .capsName = "CONFUSIÓN",
+            .fullName = "Confusión",
         },
         .data = {
             .effect = MOVE_EFFECT_CONFUSE_HIT,
@@ -2536,14 +2536,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_SMART,
         },
-        .description = "The foe is hit by a\\nweak telekinetic\\nforce. It may also\\nleave the foe\\nconfused.",
+        .description = "Débil ataque\\ntelequinético que\\npuede causar\\nconfusión.\\n",
     },
 
     [MOVE_PSYCHIC] = {
         .names = {
-            .name = "Psychic",
-            .capsName = "PSYCHIC",
-            .fullName = "Psychic",
+            .name = "Psíquico",
+            .capsName = "PSÍQUICO",
+            .fullName = "Psíquico",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_HIT,
@@ -2563,14 +2563,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "The foe is hit by a\\nstrong telekinetic\\nforce. It may also\\nreduce the foe’s\\nSp. Def stat.",
+        .description = "Fuerte ataque\\ntelequinético que\\npuede bajar la\\nDefensa Especial.\\n",
     },
 
     [MOVE_HYPNOSIS] = {
         .names = {
-            .name = "Hypnosis",
-            .capsName = "HYPNOSIS",
-            .fullName = "Hypnosis",
+            .name = "Hipnosis",
+            .capsName = "HIPNOSIS",
+            .fullName = "Hipnosis",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_SLEEP,
@@ -2590,14 +2590,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user employs\\nhypnotic suggestion\\nto make the target\\nfall into a deep\\nsleep.",
+        .description = "Ataque hipnótico que\\nhace dormir\\nprofundamente.\\n",
     },
 
     [MOVE_MEDITATE] = {
         .names = {
-            .name = "Meditate",
-            .capsName = "MEDITATE",
-            .fullName = "Meditate",
+            .name = "Meditación",
+            .capsName = "MEDITACIÓN",
+            .fullName = "Meditación",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_UP,
@@ -2617,14 +2617,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user meditates\\nto awaken the power\\ndeep within its body\\nand raise its Attack\\nstat.",
+        .description = "Reposa y medita para\\npotenciar el Ataque.\\n",
     },
 
     [MOVE_AGILITY] = {
         .names = {
-            .name = "Agility",
-            .capsName = "AGILITY",
-            .fullName = "Agility",
+            .name = "Agilidad",
+            .capsName = "AGILIDAD",
+            .fullName = "Agilidad",
         },
         .data = {
             .effect = MOVE_EFFECT_SPEED_UP_2,
@@ -2644,14 +2644,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user relaxes and\\nlightens its body to\\nmove faster.\\nIt sharply boosts\\nthe Speed stat.",
+        .description = "Relaja y aligera el\\ncuerpo para aumentar\\nmucho la Velocidad.\\n",
     },
 
     [MOVE_QUICK_ATTACK] = {
         .names = {
-            .name = "Quick Attack",
-            .capsName = "QUICK ATTACK",
-            .fullName = "Quick Attack",
+            .name = "Ataq. Rápido",
+            .capsName = "ATAQ. RÁPIDO",
+            .fullName = "Ataque Rápido",
         },
         .data = {
             .effect = MOVE_EFFECT_PRIORITY_1,
@@ -2671,14 +2671,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user lunges at\\nthe foe at a speed\\nthat makes it almost\\ninvisible. It is sure\\nto strike first.",
+        .description = "Ataca a tal velocidad\\nque es casi\\nimperceptible. Tiene\\nprioridad alta.\\n",
     },
 
     [MOVE_RAGE] = {
         .names = {
-            .name = "Rage",
-            .capsName = "RAGE",
-            .fullName = "Rage",
+            .name = "Furia",
+            .capsName = "FURIA",
+            .fullName = "Furia",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_ATK_WHEN_HIT,
@@ -2698,14 +2698,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_COOL,
         },
-        .description = "While this move is in\\nuse, it gains attack\\npower each time the\\nuser is hit in battle.\\n",
+        .description = "Aumenta el Ataque del\\nusuario cada vez que\\nrecibe un golpe.\\n",
     },
 
     [MOVE_TELEPORT] = {
         .names = {
-            .name = "Teleport",
-            .capsName = "TELEPORT",
-            .fullName = "Teleport",
+            .name = "Teletransp.",
+            .capsName = "TELETRANSP.",
+            .fullName = "Teletransporte",
         },
         .data = {
             .effect = MOVE_EFFECT_FLEE_FROM_WILD_BATTLE,
@@ -2725,14 +2725,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_COOL,
         },
-        .description = "Use it to flee from\\nany wild Pokémon.\\nIt can also warp to\\nthe last Pokémon\\nCenter visited.",
+        .description = "Cambia por otro del\\nequipo o huye de un\\ncombate salvaje.\\n",
     },
 
     [MOVE_NIGHT_SHADE] = {
         .names = {
-            .name = "Night Shade",
-            .capsName = "NIGHT SHADE",
-            .fullName = "Night Shade",
+            .name = "Tinieblas",
+            .capsName = "TINIEBLAS",
+            .fullName = "Tinieblas",
         },
         .data = {
             .effect = MOVE_EFFECT_LEVEL_DAMAGE_FLAT,
@@ -2752,14 +2752,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user makes the\\nfoe see a mirage.\\nIt inflicts damage\\nmatching the user’s\\nlevel.",
+        .description = "Produce un espejismo\\ny el rival pierde PS\\nigual al nivel del\\nusuario.\\n",
     },
 
     [MOVE_MIMIC] = {
         .names = {
-            .name = "Mimic",
-            .capsName = "MIMIC",
-            .fullName = "Mimic",
+            .name = "Mimético",
+            .capsName = "MIMÉTICO",
+            .fullName = "Mimético",
         },
         .data = {
             .effect = MOVE_EFFECT_COPY_MOVE_FOR_BATTLE,
@@ -2779,14 +2779,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_STEAL_VOLTAGE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user copies the\\nmove last used by\\nthe foe. The move can\\nbe used for the rest\\nof the battle.",
+        .description = "Copia el último\\nmovimiento usado por\\nel objetivo.\\n",
     },
 
     [MOVE_SCREECH] = {
         .names = {
-            .name = "Screech",
-            .capsName = "SCREECH",
-            .fullName = "Screech",
+            .name = "Chirrido",
+            .capsName = "CHIRRIDO",
+            .fullName = "Chirrido",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_DOWN_2,
@@ -2806,14 +2806,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOWER_VOLTAGES,
             .contestType = CONTEST_SMART,
         },
-        .description = "An earsplitting\\nscreech is emitted to\\nsharply reduce the\\nfoe’s Defense stat.\\n",
+        .description = "Alarido agudo que\\nreduce mucho la\\nDefensa.\\n",
     },
 
     [MOVE_DOUBLE_TEAM] = {
         .names = {
-            .name = "Double Team",
-            .capsName = "DOUBLE TEAM",
-            .fullName = "Double Team",
+            .name = "Doble Equipo",
+            .capsName = "DOBLE EQUIPO",
+            .fullName = "Doble Equipo",
         },
         .data = {
             .effect = MOVE_EFFECT_EVA_UP,
@@ -2833,14 +2833,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_COOL,
         },
-        .description = "By moving rapidly, the\\nuser makes illusory\\ncopies of itself to\\nraise its evasiveness.\\n",
+        .description = "Crea copias ilusorias\\nde sí mismo y sube\\nla Evasión.\\n",
     },
 
     [MOVE_RECOVER] = {
         .names = {
-            .name = "Recover",
-            .capsName = "RECOVER",
-            .fullName = "Recover",
+            .name = "Recuperación",
+            .capsName = "RECUPERACIÓN",
+            .fullName = "Recuperación",
         },
         .data = {
             .effect = MOVE_EFFECT_RESTORE_HALF_HP,
@@ -2860,14 +2860,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_SMART,
         },
-        .description = "A self-healing move.\\nThe user restores its\\nown HP by up to half\\nof its max HP.\\n",
+        .description = "Regenera sus células y\\nrecupera la mitad de\\nsus PS máximos.\\n",
     },
 
     [MOVE_HARDEN] = {
         .names = {
-            .name = "Harden",
-            .capsName = "HARDEN",
-            .fullName = "Harden",
+            .name = "Fortaleza",
+            .capsName = "FORTALEZA",
+            .fullName = "Fortaleza",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_UP,
@@ -2887,14 +2887,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user stiffens all\\nthe muscles in its\\nbody to raise its\\nDefense stat.\\n",
+        .description = "Tensa su musculatura\\npara aumentar la\\nDefensa.\\n",
     },
 
     [MOVE_MINIMIZE] = {
         .names = {
-            .name = "Minimize",
-            .capsName = "MINIMIZE",
-            .fullName = "Minimize",
+            .name = "Reducción",
+            .capsName = "REDUCCIÓN",
+            .fullName = "Reducción",
         },
         .data = {
             .effect = MOVE_EFFECT_EVA_UP_2_MINIMIZE,
@@ -2914,14 +2914,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user compresses\\nits body to make\\nitself look smaller.\\nThe user’s evasion\\nstat is boosted.",
+        .description = "Mengua para aumentar\\nmucho la Evasión.\\n",
     },
 
     [MOVE_SMOKESCREEN] = {
         .names = {
-            .name = "Smokescreen",
-            .capsName = "SMOKESCREEN",
-            .fullName = "Smokescreen",
+            .name = "Pantallahumo",
+            .capsName = "PANTALLAHUMO",
+            .fullName = "Pantalla de Humo",
         },
         .data = {
             .effect = MOVE_EFFECT_ACC_DOWN,
@@ -2941,14 +2941,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOWER_VOLTAGES,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user releases an\\nobscuring cloud of\\nsmoke or ink.\\nIt reduces the foe’s\\naccuracy.",
+        .description = "Nube de humo o tinta\\nque reduce la\\nPrecisión.\\n",
     },
 
     [MOVE_CONFUSE_RAY] = {
         .names = {
-            .name = "Confuse Ray",
-            .capsName = "CONFUSE RAY",
-            .fullName = "Confuse Ray",
+            .name = "Rayo Confuso",
+            .capsName = "RAYO CONFUSO",
+            .fullName = "Rayo Confuso",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_CONFUSE,
@@ -2968,14 +2968,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOWER_VOLTAGES,
             .contestType = CONTEST_SMART,
         },
-        .description = "The foe is exposed\\nto a sinister ray\\nthat triggers\\nconfusion.\\n",
+        .description = "Rayo siniestro que\\nconfunde al objetivo.\\n",
     },
 
     [MOVE_WITHDRAW] = {
         .names = {
-            .name = "Withdraw",
-            .capsName = "WITHDRAW",
-            .fullName = "Withdraw",
+            .name = "Refugio",
+            .capsName = "REFUGIO",
+            .fullName = "Refugio",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_UP,
@@ -2995,14 +2995,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user withdraws\\nits body into its hard\\nshell, raising its\\nDefense stat.\\n",
+        .description = "Se resguarda en su\\ncoraza y aumenta la\\nDefensa.\\n",
     },
 
     [MOVE_DEFENSE_CURL] = {
         .names = {
-            .name = "Defense Curl",
-            .capsName = "DEFENSE CURL",
-            .fullName = "Defense Curl",
+            .name = "Rizo Defensa",
+            .capsName = "RIZO DEFENSA",
+            .fullName = "Rizo Defensa",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_UP_DOUBLE_ROLLOUT_POWER,
@@ -3022,14 +3022,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user curls up to\\nconceal weak spots\\nand raise its Defense\\nstat.\\n",
+        .description = "Se enrosca para\\nocultar sus puntos\\ndébiles.\\n",
     },
 
     [MOVE_BARRIER] = {
         .names = {
-            .name = "Barrier",
-            .capsName = "BARRIER",
-            .fullName = "Barrier",
+            .name = "Barrera",
+            .capsName = "BARRERA",
+            .fullName = "Barrera",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_UP_2,
@@ -3049,14 +3049,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user throws up a\\nsturdy wall that\\nsharply raises its\\nDefense stat.\\n",
+        .description = "Crea una barrera que\\nsube mucho la\\nDefensa.\\n",
     },
 
     [MOVE_LIGHT_SCREEN] = {
         .names = {
-            .name = "Light Screen",
-            .capsName = "LIGHT SCREEN",
-            .fullName = "Light Screen",
+            .name = "Pantalla Luz",
+            .capsName = "PANTALLA LUZ",
+            .fullName = "Pantalla de Luz",
         },
         .data = {
             .effect = MOVE_EFFECT_SET_LIGHT_SCREEN,
@@ -3076,14 +3076,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "A wondrous wall of\\nlight is put up to\\nsuppress damage from\\nspecial attacks for\\nfive turns.",
+        .description = "Barrera que reduce\\ndurante 5 turnos el\\ndaño especial rival.\\n",
     },
 
     [MOVE_HAZE] = {
         .names = {
-            .name = "Haze",
-            .capsName = "HAZE",
-            .fullName = "Haze",
+            .name = "Niebla",
+            .capsName = "NIEBLA",
+            .fullName = "Niebla",
         },
         .data = {
             .effect = MOVE_EFFECT_RESET_STAT_CHANGES,
@@ -3103,14 +3103,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user creates a\\nhaze that eliminates\\nevery stat change\\namong all the Pokémon\\nengaged in battle.",
+        .description = "Neblina oscura que\\nelimina los cambios\\nde características.\\n",
     },
 
     [MOVE_REFLECT] = {
         .names = {
-            .name = "Reflect",
-            .capsName = "REFLECT",
-            .fullName = "Reflect",
+            .name = "Reflejo",
+            .capsName = "REFLEJO",
+            .fullName = "Reflejo",
         },
         .data = {
             .effect = MOVE_EFFECT_SET_REFLECT,
@@ -3130,14 +3130,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_SMART,
         },
-        .description = "A wondrous wall of\\nlight is put up to\\nsuppress damage from\\nphysical attacks for\\nfive turns.",
+        .description = "Barrera que reduce\\ndurante 5 turnos el\\ndaño físico rival.\\n",
     },
 
     [MOVE_FOCUS_ENERGY] = {
         .names = {
-            .name = "Focus Energy",
-            .capsName = "FOCUS ENERGY",
-            .fullName = "Focus Energy",
+            .name = "Foco Energía",
+            .capsName = "FOCO ENERGÍA",
+            .fullName = "Foco Energía",
         },
         .data = {
             .effect = MOVE_EFFECT_CRIT_UP_2,
@@ -3157,14 +3157,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user takes a\\ndeep breath and\\nfocuses to raise the\\ncritical-hit ratio of\\nits attacks.",
+        .description = "Concentra energía y\\nsube los golpes\\ncríticos.\\n",
     },
 
     [MOVE_BIDE] = {
         .names = {
-            .name = "Bide",
-            .capsName = "BIDE",
-            .fullName = "Bide",
+            .name = "Venganza",
+            .capsName = "VENGANZA",
+            .fullName = "Venganza",
         },
         .data = {
             .effect = MOVE_EFFECT_BIDE,
@@ -3184,14 +3184,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user endures\\nattacks for two\\nturns, then strikes\\nback to cause double\\nthe damage taken.",
+        .description = "Espera dos turnos y\\nataca con el doble\\ndel daño recibido.\\n",
     },
 
     [MOVE_METRONOME] = {
         .names = {
-            .name = "Metronome",
-            .capsName = "METRONOME",
-            .fullName = "Metronome",
+            .name = "Metrónomo",
+            .capsName = "METRÓNOMO",
+            .fullName = "Metrónomo",
         },
         .data = {
             .effect = MOVE_EFFECT_CALL_RANDOM_MOVE,
@@ -3211,14 +3211,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_RANDOMIZE_NEXT_TURN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user waggles a\\nfinger and stimulates\\nthe brain into\\nrandomly using nearly\\nany move.",
+        .description = "Mueve un dedo y usa\\nal azar casi\\ncualquier movimiento.\\n",
     },
 
     [MOVE_MIRROR_MOVE] = {
         .names = {
-            .name = "Mirror Move",
-            .capsName = "MIRROR MOVE",
-            .fullName = "Mirror Move",
+            .name = "Espejo",
+            .capsName = "ESPEJO",
+            .fullName = "Espejo",
         },
         .data = {
             .effect = MOVE_EFFECT_COPY_MOVE,
@@ -3238,14 +3238,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user counters\\nthe foe by mimicking\\nthe move last used\\nby the foe.",
+        .description = "Ataca con el último\\nmovimiento del\\nobjetivo.\\n",
     },
 
     [MOVE_SELF_DESTRUCT] = {
         .names = {
-            .name = "Self-Destruct",
-            .capsName = "SELF-DESTRUCT",
-            .fullName = "Self-Destruct",
+            .name = "Autodest.",
+            .capsName = "AUTODEST.",
+            .fullName = "Autodestrucción",
         },
         .data = {
             .effect = MOVE_EFFECT_HALVE_DEFENSE,
@@ -3265,14 +3265,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_ALL_SAME_JUDGE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user blows up to\\ninflict damage on all\\nPokémon in battle.\\nThe user faints upon\\nusing this move.",
+        .description = "Explota y hiere a los\\nadyacentes. El usuario\\nse debilita.\\n",
     },
 
     [MOVE_EGG_BOMB] = {
         .names = {
-            .name = "Egg Bomb",
-            .capsName = "EGG BOMB",
-            .fullName = "Egg Bomb",
+            .name = "Bomba Huevo",
+            .capsName = "BOMBA HUEVO",
+            .fullName = "Bomba Huevo",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -3292,14 +3292,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "A large egg is hurled\\nwith maximum force at\\nthe foe to inflict\\ndamage.\\n",
+        .description = "Arroja un huevo enorme\\ncon gran fuerza.\\n",
     },
 
     [MOVE_LICK] = {
         .names = {
-            .name = "Lick",
-            .capsName = "LICK",
-            .fullName = "Lick",
+            .name = "Lengüetazo",
+            .capsName = "LENGÜETAZO",
+            .fullName = "Lengüetazo",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -3319,14 +3319,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The foe is licked with\\na long tongue, causing\\ndamage.\\nIt may also paralyze\\nthe target.",
+        .description = "Lame al objetivo con\\nsu larga lengua.\\nPuede paralizarlo.\\n",
     },
 
     [MOVE_SMOG] = {
         .names = {
-            .name = "Smog",
-            .capsName = "SMOG",
-            .fullName = "Smog",
+            .name = "Polución",
+            .capsName = "POLUCIÓN",
+            .fullName = "Polución",
         },
         .data = {
             .effect = MOVE_EFFECT_POISON_HIT,
@@ -3346,14 +3346,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The foe is attacked\\nwith a discharge of\\nfilthy gases.\\nIt may also poison\\nthe target.",
+        .description = "Gases tóxicos que\\npueden envenenar.\\n",
     },
 
     [MOVE_SLUDGE] = {
         .names = {
-            .name = "Sludge",
-            .capsName = "SLUDGE",
-            .fullName = "Sludge",
+            .name = "Residuos",
+            .capsName = "RESIDUOS",
+            .fullName = "Residuos",
         },
         .data = {
             .effect = MOVE_EFFECT_POISON_HIT,
@@ -3373,14 +3373,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Unsanitary sludge is\\nhurled at the foe.\\nIt may also poison\\nthe target.\\n",
+        .description = "Arroja residuos.\\nPuede envenenar al\\nobjetivo.\\n",
     },
 
     [MOVE_BONE_CLUB] = {
         .names = {
-            .name = "Bone Club",
-            .capsName = "BONE CLUB",
-            .fullName = "Bone Club",
+            .name = "Hueso Palo",
+            .capsName = "HUESO PALO",
+            .fullName = "Hueso Palo",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -3400,14 +3400,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user clubs the\\nfoe with a bone.\\nIt may also make the\\ntarget flinch.\\n",
+        .description = "Aporrea con un hueso.\\nPuede amedrentar.\\n",
     },
 
     [MOVE_FIRE_BLAST] = {
         .names = {
-            .name = "Fire Blast",
-            .capsName = "FIRE BLAST",
-            .fullName = "Fire Blast",
+            .name = "Llamarada",
+            .capsName = "LLAMARADA",
+            .fullName = "Llamarada",
         },
         .data = {
             .effect = MOVE_EFFECT_BURN_HIT,
@@ -3427,14 +3427,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The foe is attacked\\nwith an intense blast\\nof all-consuming fire.\\nIt may also leave the\\ntarget with a burn.",
+        .description = "Llama intensa que\\npuede causar\\nquemaduras.\\n",
     },
 
     [MOVE_WATERFALL] = {
         .names = {
-            .name = "Waterfall",
-            .capsName = "WATERFALL",
-            .fullName = "Waterfall",
+            .name = "Cascada",
+            .capsName = "CASCADA",
+            .fullName = "Cascada",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -3454,14 +3454,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user charges at\\nthe foe rapidly, and\\nmay make it flinch.\\nIt can also be used\\nto climb a waterfall.",
+        .description = "Embiste con ímpetu y\\npuede amedrentar.\\n",
     },
 
     [MOVE_CLAMP] = {
         .names = {
-            .name = "Clamp",
-            .capsName = "CLAMP",
-            .fullName = "Clamp",
+            .name = "Tenaza",
+            .capsName = "TENAZA",
+            .fullName = "Tenaza",
         },
         .data = {
             .effect = MOVE_EFFECT_BIND_HIT,
@@ -3481,14 +3481,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The foe is clamped\\nand squeezed by\\nthe user’s very thick\\nand sturdy shell for\\ntwo to five turns.",
+        .description = "Atrapa y atenaza\\ndurante 4 o 5 turnos.\\n",
     },
 
     [MOVE_SWIFT] = {
         .names = {
-            .name = "Swift",
-            .capsName = "SWIFT",
-            .fullName = "Swift",
+            .name = "Meteoros",
+            .capsName = "METEOROS",
+            .fullName = "Meteoros",
         },
         .data = {
             .effect = MOVE_EFFECT_BYPASS_ACCURACY,
@@ -3508,14 +3508,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Star-shaped rays are\\nshot at the foe.\\nThis attack never\\nmisses.\\n",
+        .description = "Rayos en forma de\\nestrella que no\\nfallan nunca.\\n",
     },
 
     [MOVE_SKULL_BASH] = {
         .names = {
-            .name = "Skull Bash",
-            .capsName = "SKULL BASH",
-            .fullName = "Skull Bash",
+            .name = "Cabezazo",
+            .capsName = "CABEZAZO",
+            .fullName = "Cabezazo",
         },
         .data = {
             .effect = MOVE_EFFECT_CHARGE_TURN_DEF_UP,
@@ -3535,14 +3535,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_UNIQUE_JUDGE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user tucks in its\\nhead to raise its\\nDefense in the first\\nturn, then rams the\\nfoe on the next turn.",
+        .description = "Sube la Defensa en el\\nprimer turno y ataca\\nen el segundo.\\n",
     },
 
     [MOVE_SPIKE_CANNON] = {
         .names = {
-            .name = "Spike Cannon",
-            .capsName = "SPIKE CANNON",
-            .fullName = "Spike Cannon",
+            .name = "Clavo Cañón",
+            .capsName = "CLAVO CAÑÓN",
+            .fullName = "Clavo Cañón",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -3562,14 +3562,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Sharp spikes are\\nfired at the foe to\\nstrike two to five\\ntimes in rapid\\nsuccession.",
+        .description = "Lanza finas púas de\\ndos a cinco veces.\\n",
     },
 
     [MOVE_CONSTRICT] = {
         .names = {
-            .name = "Constrict",
-            .capsName = "CONSTRICT",
-            .fullName = "Constrict",
+            .name = "Restricción",
+            .capsName = "RESTRICCIÓN",
+            .fullName = "Restricción",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SPEED_HIT,
@@ -3589,7 +3589,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LATE_BOOST,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The foe is attacked\\nwith long, creeping\\ntentacles or vines.\\nIt may also lower the\\ntarget’s Speed.",
+        .description = "Ataca con tentáculos\\nque pueden reducir la\\nVelocidad.\\n",
     },
 
     [MOVE_AMNESIA] = {
@@ -3616,14 +3616,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user temporarily\\nempties its mind to\\nforget its concerns.\\nIt sharply raises the\\nuser’s Sp. Def stat.",
+        .description = "Olvida sus\\npreocupaciones y sube\\nmucho la Defensa\\nEspecial.\\n",
     },
 
     [MOVE_KINESIS] = {
         .names = {
-            .name = "Kinesis",
-            .capsName = "KINESIS",
-            .fullName = "Kinesis",
+            .name = "Kinético",
+            .capsName = "KINÉTICO",
+            .fullName = "Kinético",
         },
         .data = {
             .effect = MOVE_EFFECT_ACC_DOWN,
@@ -3643,14 +3643,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user distracts\\nthe foe by bending a\\nspoon.\\nIt may lower the\\ntarget’s accuracy.",
+        .description = "Dobla una cuchara y\\nreduce la Precisión\\ndel objetivo.\\n",
     },
 
     [MOVE_SOFT_BOILED] = {
         .names = {
-            .name = "Soft-Boiled",
-            .capsName = "SOFT-BOILED",
-            .fullName = "Soft-Boiled",
+            .name = "Ovocuración",
+            .capsName = "OVOCURACIÓN",
+            .fullName = "Ovocuración",
         },
         .data = {
             .effect = MOVE_EFFECT_RESTORE_HALF_HP,
@@ -3670,14 +3670,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user restores its\\nown HP by up to half\\nof its maximum HP.\\nIt may also be used\\nto heal an ally’s HP.",
+        .description = "Restaura la mitad de\\nsus PS máximos.\\n",
     },
 
     [MOVE_HIGH_JUMP_KICK] = {
         .names = {
-            .name = "High Jump Kick",
-            .capsName = "HIGH JUMP KICK",
-            .fullName = "High Jump Kick",
+            .name = "Patada Salto",
+            .capsName = "PATADA SALTO",
+            .fullName = "Patada Salto Alta",
         },
         .data = {
             .effect = MOVE_EFFECT_CRASH_ON_MISS,
@@ -3697,14 +3697,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is attacked\\nwith a knee kick from\\na jump. If it misses,\\nthe user is hurt\\ninstead.",
+        .description = "Salta muy alto y da\\nun rodillazo. Si\\nfalla, se hiere.\\n",
     },
 
     [MOVE_GLARE] = {
         .names = {
-            .name = "Glare",
-            .capsName = "GLARE",
-            .fullName = "Glare",
+            .name = "Deslumbrar",
+            .capsName = "DESLUMBRAR",
+            .fullName = "Deslumbrar",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_PARALYZE,
@@ -3724,14 +3724,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user intimidates\\nthe foe with the\\npattern on its belly\\nto cause paralysis.\\n",
+        .description = "Intimida con la mirada\\ny deja paralizado al\\nobjetivo.\\n",
     },
 
     [MOVE_DREAM_EATER] = {
         .names = {
-            .name = "Dream Eater",
-            .capsName = "DREAM EATER",
-            .fullName = "Dream Eater",
+            .name = "Comesueños",
+            .capsName = "COMESUEÑOS",
+            .fullName = "Comesueños",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOVER_DAMAGE_SLEEP,
@@ -3751,14 +3751,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "An attack that works\\nonly on a sleeping\\nfoe. It absorbs half\\nthe damage caused to\\nheal the user’s HP.",
+        .description = "Engulle los sueños de\\nun rival dormido y\\nrecupera la mitad\\ndel daño.\\n",
     },
 
     [MOVE_POISON_GAS] = {
         .names = {
-            .name = "Poison Gas",
-            .capsName = "POISON GAS",
-            .fullName = "Poison Gas",
+            .name = "Gas Venenoso",
+            .capsName = "GAS VENENOSO",
+            .fullName = "Gas Venenoso",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_POISON,
@@ -3778,14 +3778,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_SMART,
         },
-        .description = "A cloud of poison gas\\nis sprayed in the\\nfoe’s face.\\nIt may poison the\\ntarget.",
+        .description = "Nube de gas tóxico\\nque envenena al\\nobjetivo.\\n",
     },
 
     [MOVE_BARRAGE] = {
         .names = {
-            .name = "Barrage",
-            .capsName = "BARRAGE",
-            .fullName = "Barrage",
+            .name = "Bombardeo",
+            .capsName = "BOMBARDEO",
+            .fullName = "Bombardeo",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -3805,14 +3805,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Round objects are\\nhurled at the foe to\\nstrike two to five\\ntimes in a row.\\n",
+        .description = "Arroja esferas de dos\\na cinco veces.\\n",
     },
 
     [MOVE_LEECH_LIFE] = {
         .names = {
-            .name = "Leech Life",
-            .capsName = "LEECH LIFE",
-            .fullName = "Leech Life",
+            .name = "Chupavidas",
+            .capsName = "CHUPAVIDAS",
+            .fullName = "Chupavidas",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOVER_HALF_DAMAGE_DEALT,
@@ -3832,14 +3832,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "A blood-draining\\nattack. The user’s\\nHP is restored by\\nhalf the damage taken\\nby the target.",
+        .description = "Chupa sangre y\\nrecupera la mitad del\\ndaño producido.\\n",
     },
 
     [MOVE_LOVELY_KISS] = {
         .names = {
-            .name = "Lovely Kiss",
-            .capsName = "LOVELY KISS",
-            .fullName = "Lovely Kiss",
+            .name = "Beso Amoroso",
+            .capsName = "BESO AMOROSO",
+            .fullName = "Beso Amoroso",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_SLEEP,
@@ -3859,14 +3859,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "With a scary face, the\\nuser tries to force a\\nkiss on the foe. If it\\nsucceeds, the target\\nfalls asleep.",
+        .description = "Cara que asusta y un\\nbeso que duerme al\\nobjetivo.\\n",
     },
 
     [MOVE_SKY_ATTACK] = {
         .names = {
-            .name = "Sky Attack",
-            .capsName = "SKY ATTACK",
-            .fullName = "Sky Attack",
+            .name = "Ataque Aéreo",
+            .capsName = "ATAQUE AÉREO",
+            .fullName = "Ataque Aéreo",
         },
         .data = {
             .effect = MOVE_EFFECT_CHARGE_TURN_HIGH_CRIT_FLINCH,
@@ -3886,14 +3886,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_UNIQUE_JUDGE,
             .contestType = CONTEST_COOL,
         },
-        .description = "A second-turn attack\\nmove with a high\\ncritical-hit ratio.\\nIt may also make the\\ntarget flinch.",
+        .description = "Ataca en el segundo\\nturno. Suele ser\\ncrítico y puede\\namedrentar.\\n",
     },
 
     [MOVE_TRANSFORM] = {
         .names = {
-            .name = "Transform",
-            .capsName = "TRANSFORM",
-            .fullName = "Transform",
+            .name = "Transform.",
+            .capsName = "TRANSFORM.",
+            .fullName = "Transformación",
         },
         .data = {
             .effect = MOVE_EFFECT_TRANSFORM,
@@ -3913,14 +3913,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_PITY_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user transforms\\ninto a copy of the\\nfoe right down to\\nhaving the same move\\nset.",
+        .description = "Se transforma en una\\ncopia del objetivo\\ncon sus movimientos.\\n",
     },
 
     [MOVE_BUBBLE] = {
         .names = {
-            .name = "Bubble",
-            .capsName = "BUBBLE",
-            .fullName = "Bubble",
+            .name = "Burbuja",
+            .capsName = "BURBUJA",
+            .fullName = "Burbuja",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SPEED_HIT,
@@ -3940,14 +3940,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_NEXT_TURN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "A spray of countless\\nbubbles is jetted at\\nthe foe.\\nIt may also lower the\\ntarget’s Speed stat.",
+        .description = "Lanza burbujas y\\npuede reducir la\\nVelocidad.\\n",
     },
 
     [MOVE_DIZZY_PUNCH] = {
         .names = {
-            .name = "Dizzy Punch",
-            .capsName = "DIZZY PUNCH",
-            .fullName = "Dizzy Punch",
+            .name = "Puño Mareo",
+            .capsName = "PUÑO MAREO",
+            .fullName = "Puño Mareo",
         },
         .data = {
             .effect = MOVE_EFFECT_CONFUSE_HIT,
@@ -3967,14 +3967,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is hit with\\nrhythmically launched\\npunches that may also\\nleave it confused.\\n",
+        .description = "Rítmicos puñetazos\\nque pueden causar\\nconfusión.\\n",
     },
 
     [MOVE_SPORE] = {
         .names = {
-            .name = "Spore",
-            .capsName = "SPORE",
-            .fullName = "Spore",
+            .name = "Espora",
+            .capsName = "ESPORA",
+            .fullName = "Espora",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_SLEEP,
@@ -3994,14 +3994,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOWER_VOLTAGES,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user scatters\\nbursts of spores\\nthat induce sleep.\\n\\n",
+        .description = "Esparce esporas que\\ninducen el sueño.\\n",
     },
 
     [MOVE_FLASH] = {
         .names = {
-            .name = "Flash",
-            .capsName = "FLASH",
-            .fullName = "Flash",
+            .name = "Destello",
+            .capsName = "DESTELLO",
+            .fullName = "Destello",
         },
         .data = {
             .effect = MOVE_EFFECT_ACC_DOWN,
@@ -4021,14 +4021,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOWER_VOLTAGES,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user flashes a\\nlight that cuts the\\nfoe’s accuracy.\\nIt can also be used\\nto illuminate caves.",
+        .description = "Luz cegadora que baja\\nla Precisión.\\n",
     },
 
     [MOVE_PSYWAVE] = {
         .names = {
-            .name = "Psywave",
-            .capsName = "PSYWAVE",
-            .fullName = "Psywave",
+            .name = "Psicoonda",
+            .capsName = "PSICOONDA",
+            .fullName = "Psicoonda",
         },
         .data = {
             .effect = MOVE_EFFECT_RANDOM_DAMAGE_1_TO_150_LEVEL,
@@ -4048,14 +4048,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_SMART,
         },
-        .description = "The foe is attacked\\nwith an odd, hot\\nenergy wave.\\nThe attack varies in\\nintensity.",
+        .description = "Onda de energía de\\nintensidad variable.\\n",
     },
 
     [MOVE_SPLASH] = {
         .names = {
-            .name = "Splash",
-            .capsName = "SPLASH",
-            .fullName = "Splash",
+            .name = "Salpicadura",
+            .capsName = "SALPICADURA",
+            .fullName = "Salpicadura",
         },
         .data = {
             .effect = MOVE_EFFECT_DO_NOTHING,
@@ -4075,14 +4075,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user just flops\\nand splashes around\\nto no effect at all...\\n\\n",
+        .description = "No tiene ningún\\nefecto. Solo salpica.\\n",
     },
 
     [MOVE_ACID_ARMOR] = {
         .names = {
-            .name = "Acid Armor",
-            .capsName = "ACID ARMOR",
-            .fullName = "Acid Armor",
+            .name = "Armad. Ácida",
+            .capsName = "ARMAD. ÁCIDA",
+            .fullName = "Armadura Ácida",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_UP_2,
@@ -4102,14 +4102,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user alters its\\ncellular structure to\\nliquefy itself,\\nsharply raising its\\nDefense stat.",
+        .description = "Se vuelve líquido y\\nsube mucho la\\nDefensa.\\n",
     },
 
     [MOVE_CRABHAMMER] = {
         .names = {
-            .name = "Crabhammer",
-            .capsName = "CRABHAMMER",
-            .fullName = "Crabhammer",
+            .name = "Martillazo",
+            .capsName = "MARTILLAZO",
+            .fullName = "Martillazo",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -4129,14 +4129,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The foe is hammered\\nwith a large pincer.\\nThis move has a high\\ncritical-hit ratio.\\n",
+        .description = "Golpea con fuerza con\\nuna pinza enorme.\\nSuele ser crítico.\\n",
     },
 
     [MOVE_EXPLOSION] = {
         .names = {
-            .name = "Explosion",
-            .capsName = "EXPLOSION",
-            .fullName = "Explosion",
+            .name = "Explosión",
+            .capsName = "EXPLOSIÓN",
+            .fullName = "Explosión",
         },
         .data = {
             .effect = MOVE_EFFECT_HALVE_DEFENSE,
@@ -4156,14 +4156,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_ALL_SAME_JUDGE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user explodes to\\ninflict damage on all\\nPokémon in battle.\\nThe user faints upon\\nusing this move.",
+        .description = "Gran explosión que\\nhiere a los\\nadyacentes. El usuario\\nse debilita.\\n",
     },
 
     [MOVE_FURY_SWIPES] = {
         .names = {
-            .name = "Fury Swipes",
-            .capsName = "FURY SWIPES",
-            .fullName = "Fury Swipes",
+            .name = "Golpes Furia",
+            .capsName = "GOLPES FURIA",
+            .fullName = "Golpes Furia",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -4183,14 +4183,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The foe is raked with\\nsharp claws or\\nscythes for two to\\nfive times in quick\\nsuccession.",
+        .description = "Araña de dos a cinco\\nveces seguidas.\\n",
     },
 
     [MOVE_BONEMERANG] = {
         .names = {
-            .name = "Bonemerang",
-            .capsName = "BONEMERANG",
-            .fullName = "Bonemerang",
+            .name = "Huesomerang",
+            .capsName = "HUESOMERANG",
+            .fullName = "Huesomerang",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_TWICE,
@@ -4210,14 +4210,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user throws the\\nbone it holds. The\\nbone loops to hit the\\nfoe twice, coming and\\ngoing.",
+        .description = "Lanza un hueso a modo\\nde bumerán y golpea\\ndos veces seguidas.\\n",
     },
 
     [MOVE_REST] = {
         .names = {
-            .name = "Rest",
-            .capsName = "REST",
-            .fullName = "Rest",
+            .name = "Descanso",
+            .capsName = "DESCANSO",
+            .fullName = "Descanso",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOVER_HEALTH_AND_SLEEP,
@@ -4237,14 +4237,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user goes to\\nsleep for two turns.\\nIt fully restores the\\nuser’s HP and heals\\nany status problem.",
+        .description = "Restaura todos los PS y\\ncura el estado, pero\\nduerme dos turnos.\\n",
     },
 
     [MOVE_ROCK_SLIDE] = {
         .names = {
-            .name = "Rock Slide",
-            .capsName = "ROCK SLIDE",
-            .fullName = "Rock Slide",
+            .name = "Avalancha",
+            .capsName = "AVALANCHA",
+            .fullName = "Avalancha",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -4264,14 +4264,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Large boulders are\\nhurled at the foe to\\ninflict damage.\\nIt may also make the\\ntarget flinch.",
+        .description = "Lanza grandes\\npedruscos. Puede\\namedrentar al rival.\\n",
     },
 
     [MOVE_HYPER_FANG] = {
         .names = {
-            .name = "Hyper Fang",
-            .capsName = "HYPER FANG",
-            .fullName = "Hyper Fang",
+            .name = "Hip.Colmillo",
+            .capsName = "HIP.COLMILLO",
+            .fullName = "Hipercolmillo",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -4291,14 +4291,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user bites hard\\non the foe with its\\nsharp front fangs.\\nIt may also make the\\ntarget flinch.",
+        .description = "Ataca con agudos\\ncolmillos. Puede\\namedrentar.\\n",
     },
 
     [MOVE_SHARPEN] = {
         .names = {
-            .name = "Sharpen",
-            .capsName = "SHARPEN",
-            .fullName = "Sharpen",
+            .name = "Afilar",
+            .capsName = "AFILAR",
+            .fullName = "Afilar",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_UP,
@@ -4318,14 +4318,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user reduces its\\npolygon count to\\nmake itself more\\njagged, raising the\\nAttack stat.",
+        .description = "Su perfil se vuelve más\\nafilado y sube el\\nAtaque.\\n",
     },
 
     [MOVE_CONVERSION] = {
         .names = {
-            .name = "Conversion",
-            .capsName = "CONVERSION",
-            .fullName = "Conversion",
+            .name = "Conversión",
+            .capsName = "CONVERSIÓN",
+            .fullName = "Conversión",
         },
         .data = {
             .effect = MOVE_EFFECT_CONVERSION,
@@ -4345,14 +4345,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_PITY_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user changes its\\ntype to become the\\nsame type as one of\\nits moves.\\n",
+        .description = "Cambia su tipo por el\\ndel primer movimiento\\nde su lista.\\n",
     },
 
     [MOVE_TRI_ATTACK] = {
         .names = {
-            .name = "Tri Attack",
-            .capsName = "TRI ATTACK",
-            .fullName = "Tri Attack",
+            .name = "Triataque",
+            .capsName = "TRIATAQUE",
+            .fullName = "Triataque",
         },
         .data = {
             .effect = MOVE_EFFECT_RANDOM_PRIMARY_STATUS_HIT,
@@ -4372,14 +4372,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user strikes with\\na simultaneous three-\\nbeam attack. May also\\nparalyze, burn, or\\nfreeze the target.",
+        .description = "Tres rayos de luz que\\npueden paralizar,\\nquemar o congelar.\\n",
     },
 
     [MOVE_SUPER_FANG] = {
         .names = {
-            .name = "Super Fang",
-            .capsName = "SUPER FANG",
-            .fullName = "Super Fang",
+            .name = "Superdiente",
+            .capsName = "SUPERDIENTE",
+            .fullName = "Superdiente",
         },
         .data = {
             .effect = MOVE_EFFECT_HALVE_HP,
@@ -4399,14 +4399,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user chomps hard\\non the foe with its\\nsharp front fangs.\\nIt cuts the target’s\\nHP to half.",
+        .description = "Dentellada que reduce\\na la mitad los PS del\\nobjetivo.\\n",
     },
 
     [MOVE_SLASH] = {
         .names = {
-            .name = "Slash",
-            .capsName = "SLASH",
-            .fullName = "Slash",
+            .name = "Cuchillada",
+            .capsName = "CUCHILLADA",
+            .fullName = "Cuchillada",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -4426,14 +4426,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is attacked\\nwith a slash of\\nclaws, etc.\\nIt has a high\\ncritical-hit ratio.",
+        .description = "Ataca con cuchillas o\\npinzas. Suele ser\\ngolpe crítico.\\n",
     },
 
     [MOVE_SUBSTITUTE] = {
         .names = {
-            .name = "Substitute",
-            .capsName = "SUBSTITUTE",
-            .fullName = "Substitute",
+            .name = "Sustituto",
+            .capsName = "SUSTITUTO",
+            .fullName = "Sustituto",
         },
         .data = {
             .effect = MOVE_EFFECT_SET_SUBSTITUTE,
@@ -4453,14 +4453,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_PITY_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user makes a\\ncopy of itself using\\nsome of its HP.\\nThe copy serves as\\nthe user’s decoy.",
+        .description = "Usa parte de sus PS\\npara crear un\\nsustituto que actúa\\nde señuelo.\\n",
     },
 
     [MOVE_STRUGGLE] = {
         .names = {
-            .name = "Struggle",
-            .capsName = "STRUGGLE",
-            .fullName = "Struggle",
+            .name = "Forcejeo",
+            .capsName = "FORCEJEO",
+            .fullName = "Forcejeo",
         },
         .data = {
             .effect = MOVE_EFFECT_STRUGGLE,
@@ -4480,14 +4480,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "An attack that is\\nused in desperation\\nonly if the user has\\nno PP. It also hurts\\nthe user slightly.",
+        .description = "Solo se usa al acabar\\nlos PP. El usuario se\\nhiere ligeramente.\\n",
     },
 
     [MOVE_SKETCH] = {
         .names = {
-            .name = "Sketch",
-            .capsName = "SKETCH",
-            .fullName = "Sketch",
+            .name = "Esquema",
+            .capsName = "ESQUEMA",
+            .fullName = "Esquema",
         },
         .data = {
             .effect = MOVE_EFFECT_LEARN_MOVE_PERMANENT,
@@ -4507,14 +4507,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_PITY_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "It enables the user\\nto permanently learn\\nthe move last used by\\nthe foe. Once used,\\nSketch disappears.",
+        .description = "Aprende de forma\\npermanente el último\\nmovimiento del rival.\\n",
     },
 
     [MOVE_TRIPLE_KICK] = {
         .names = {
-            .name = "Triple Kick",
-            .capsName = "TRIPLE KICK",
-            .fullName = "Triple Kick",
+            .name = "Triple Pat.",
+            .capsName = "TRIPLE PAT.",
+            .fullName = "Triple Patada",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_THREE_TIMES_INCREMENT_BASE_POWER_10,
@@ -4534,14 +4534,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_COOL,
         },
-        .description = "A consecutive three-\\nkick attack that\\nbecomes more\\npowerful with each \\nsuccessive hit.",
+        .description = "Hasta tres patadas\\nseguidas, cada vez más\\npotentes.\\n",
     },
 
     [MOVE_THIEF] = {
         .names = {
-            .name = "Thief",
-            .capsName = "THIEF",
-            .fullName = "Thief",
+            .name = "Ladrón",
+            .capsName = "LADRÓN",
+            .fullName = "Ladrón",
         },
         .data = {
             .effect = MOVE_EFFECT_STEAL_HELD_ITEM,
@@ -4561,14 +4561,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_STEAL_VOLTAGE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user attacks and\\nsteals the foe’s held\\nitem simultaneously.\\nIt can’t steal if the\\nuser holds an item.",
+        .description = "Ataca y roba el objeto\\ndel objetivo si este\\nlleva uno.\\n",
     },
 
     [MOVE_SPIDER_WEB] = {
         .names = {
-            .name = "Spider Web",
-            .capsName = "SPIDER WEB",
-            .fullName = "Spider Web",
+            .name = "Telaraña",
+            .capsName = "TELARAÑA",
+            .fullName = "Telaraña",
         },
         .data = {
             .effect = MOVE_EFFECT_PREVENT_ESCAPE,
@@ -4588,14 +4588,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user ensnares\\nthe foe with a thin,\\ngooey silk so it can’t\\nflee from battle.\\n",
+        .description = "Enreda al objetivo para\\nque no pueda\\nabandonar el combate.\\n",
     },
 
     [MOVE_MIND_READER] = {
         .names = {
-            .name = "Mind Reader",
-            .capsName = "MIND READER",
-            .fullName = "Mind Reader",
+            .name = "Telépata",
+            .capsName = "TELÉPATA",
+            .fullName = "Telépata",
         },
         .data = {
             .effect = MOVE_EFFECT_NEXT_ATTACK_ALWAYS_HITS,
@@ -4615,14 +4615,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user senses the\\nfoe’s movements\\nwith its mind to\\nensure its next\\nattack does not miss.",
+        .description = "Adivina los movimientos\\ndel rival y su\\nsiguiente ataque no\\nfalla.\\n",
     },
 
     [MOVE_NIGHTMARE] = {
         .names = {
-            .name = "Nightmare",
-            .capsName = "NIGHTMARE",
-            .fullName = "Nightmare",
+            .name = "Pesadilla",
+            .capsName = "PESADILLA",
+            .fullName = "Pesadilla",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_NIGHTMARE,
@@ -4642,14 +4642,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "A sleeping foe is\\nshown a nightmare\\nthat inflicts some\\ndamage every turn.\\n",
+        .description = "El rival dormido sufre\\nuna pesadilla y pierde\\nPS en cada turno.\\n",
     },
 
     [MOVE_FLAME_WHEEL] = {
         .names = {
-            .name = "Flame Wheel",
-            .capsName = "FLAME WHEEL",
-            .fullName = "Flame Wheel",
+            .name = "Rueda Fuego",
+            .capsName = "RUEDA FUEGO",
+            .fullName = "Rueda Fuego",
         },
         .data = {
             .effect = MOVE_EFFECT_THAW_AND_BURN_HIT,
@@ -4669,14 +4669,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user cloaks\\nitself in fire and\\ncharges at the foe.\\nIt may also leave the\\ntarget with a burn.",
+        .description = "Ataca envuelto en\\nfuego. Puede causar\\nquemaduras.\\n",
     },
 
     [MOVE_SNORE] = {
         .names = {
-            .name = "Snore",
-            .capsName = "SNORE",
-            .fullName = "Snore",
+            .name = "Ronquido",
+            .capsName = "RONQUIDO",
+            .fullName = "Ronquido",
         },
         .data = {
             .effect = MOVE_EFFECT_DAMAGE_WHILE_ASLEEP,
@@ -4696,14 +4696,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_CUTE,
         },
-        .description = "An attack that can\\nbe used only if the\\nuser is asleep. The\\nharsh noise may also\\nmake the foe flinch.",
+        .description = "Ronquido que solo se usa\\ndormido. Puede\\namedrentar.\\n",
     },
 
     [MOVE_CURSE] = {
         .names = {
-            .name = "Curse",
-            .capsName = "CURSE",
-            .fullName = "Curse",
+            .name = "Maldición",
+            .capsName = "MALDICIÓN",
+            .fullName = "Maldición",
         },
         .data = {
             .effect = MOVE_EFFECT_CURSE,
@@ -4723,14 +4723,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LATE_BOOST,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "A move that works\\ndifferently for the\\nGhost type than for\\nall the other types.\\n",
+        .description = "Su efecto cambia si el\\nusuario es de tipo\\nFantasma o no.\\n",
     },
 
     [MOVE_FLAIL] = {
         .names = {
-            .name = "Flail",
-            .capsName = "FLAIL",
-            .fullName = "Flail",
+            .name = "Azote",
+            .capsName = "AZOTE",
+            .fullName = "Azote",
         },
         .data = {
             .effect = MOVE_EFFECT_INCREASE_POWER_WITH_LESS_HP,
@@ -4750,14 +4750,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user flails about\\naimlessly to attack.\\nIt becomes more\\npowerful the less HP\\nthe user has.",
+        .description = "Ataque frenético.\\nCuanto menos PS tenga\\nel usuario, más daño.\\n",
     },
 
     [MOVE_CONVERSION_2] = {
         .names = {
-            .name = "Conversion 2",
-            .capsName = "CONVERSION 2",
-            .fullName = "Conversion 2",
+            .name = "Conversión 2",
+            .capsName = "CONVERSIÓN 2",
+            .fullName = "Conversión 2",
         },
         .data = {
             .effect = MOVE_EFFECT_CONVERSION2,
@@ -4777,14 +4777,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_PITY_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user changes its\\ntype to make itself\\nresistant to the type\\nof the attack it\\nlast took.",
+        .description = "Cambia su tipo para\\nresistir el del último\\nmovimiento rival.\\n",
     },
 
     [MOVE_AEROBLAST] = {
         .names = {
-            .name = "Aeroblast",
-            .capsName = "AEROBLAST",
-            .fullName = "Aeroblast",
+            .name = "Aerochorro",
+            .capsName = "AEROCHORRO",
+            .fullName = "Aerochorro",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -4804,14 +4804,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "A vortex of air is\\nshot at the foe to\\ninflict damage.\\nIt has a high\\ncritical-hit ratio.",
+        .description = "Chorro de aire que\\nsuele asestar un golpe\\ncrítico.\\n",
     },
 
     [MOVE_COTTON_SPORE] = {
         .names = {
-            .name = "Cotton Spore",
-            .capsName = "COTTON SPORE",
-            .fullName = "Cotton Spore",
+            .name = "Esporagodón",
+            .capsName = "ESPORAGODÓN",
+            .fullName = "Esporagodón",
         },
         .data = {
             .effect = MOVE_EFFECT_SPEED_DOWN_2,
@@ -4831,14 +4831,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user releases\\ncottonlike spores\\nthat cling to the\\nfoe, sharply reducing\\nits Speed stat.",
+        .description = "Adhiere esporas y\\nreduce mucho la\\nVelocidad.\\n",
     },
 
     [MOVE_REVERSAL] = {
         .names = {
-            .name = "Reversal",
-            .capsName = "REVERSAL",
-            .fullName = "Reversal",
+            .name = "Inversión",
+            .capsName = "INVERSIÓN",
+            .fullName = "Inversión",
         },
         .data = {
             .effect = MOVE_EFFECT_INCREASE_POWER_WITH_LESS_HP,
@@ -4858,14 +4858,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_COOL,
         },
-        .description = "An all-out attack\\nthat becomes more\\npowerful the less\\nHP the user has.\\n",
+        .description = "Ataque desesperado que\\ndaña más cuantos menos\\nPS tenga el usuario.\\n",
     },
 
     [MOVE_SPITE] = {
         .names = {
-            .name = "Spite",
-            .capsName = "SPITE",
-            .fullName = "Spite",
+            .name = "Rencor",
+            .capsName = "RENCOR",
+            .fullName = "Rencor",
         },
         .data = {
             .effect = MOVE_EFFECT_DECREASE_LAST_MOVE_PP,
@@ -4885,14 +4885,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user looses its\\ngrudge on the move\\nlast used by the foe\\nby cutting 4 PP from\\nit.",
+        .description = "Rencor que reduce 4 PP\\ndel último movimiento\\nusado por el rival.\\n",
     },
 
     [MOVE_POWDER_SNOW] = {
         .names = {
-            .name = "Powder Snow",
-            .capsName = "POWDER SNOW",
-            .fullName = "Powder Snow",
+            .name = "Nieve Polvo",
+            .capsName = "NIEVE POLVO",
+            .fullName = "Nieve Polvo",
         },
         .data = {
             .effect = MOVE_EFFECT_FREEZE_HIT,
@@ -4912,14 +4912,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user attacks with\\na chilling gust of\\npowdery snow.\\nIt may also freeze\\nthe target.",
+        .description = "Lanza nieve que puede\\nllegar a congelar.\\n",
     },
 
     [MOVE_PROTECT] = {
         .names = {
-            .name = "Protect",
-            .capsName = "PROTECT",
-            .fullName = "Protect",
+            .name = "Protección",
+            .capsName = "PROTECCIÓN",
+            .fullName = "Protección",
         },
         .data = {
             .effect = MOVE_EFFECT_PROTECT,
@@ -4939,14 +4939,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_CUTE,
         },
-        .description = "It enables the user\\nto evade all attacks.\\nIts chance of failing\\nrises if it is used in\\nsuccession.",
+        .description = "Frena todos los\\nataques, pero puede\\nfallar si se repite.\\n",
     },
 
     [MOVE_MACH_PUNCH] = {
         .names = {
-            .name = "Mach Punch",
-            .capsName = "MACH PUNCH",
-            .fullName = "Mach Punch",
+            .name = "Ultrapuño",
+            .capsName = "ULTRAPUÑO",
+            .fullName = "Ultrapuño",
         },
         .data = {
             .effect = MOVE_EFFECT_PRIORITY_1,
@@ -4966,14 +4966,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user throws a\\npunch at blinding\\nspeed.\\nIt is certain to\\nstrike first.",
+        .description = "Puñetazo de velocidad\\nfulminante. Tiene\\nprioridad alta.\\n",
     },
 
     [MOVE_SCARY_FACE] = {
         .names = {
-            .name = "Scary Face",
-            .capsName = "SCARY FACE",
-            .fullName = "Scary Face",
+            .name = "Cara Susto",
+            .capsName = "CARA SUSTO",
+            .fullName = "Cara Susto",
         },
         .data = {
             .effect = MOVE_EFFECT_SPEED_DOWN_2,
@@ -4993,14 +4993,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_NEXT_TURN,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user frightens\\nthe foe with a scary\\nface to sharply\\nreduce its Speed\\nstat.",
+        .description = "Asusta al objetivo y\\nreduce mucho su\\nVelocidad.\\n",
     },
 
     [MOVE_FEINT_ATTACK] = {
         .names = {
-            .name = "Feint Attack",
-            .capsName = "FEINT ATTACK",
-            .fullName = "Feint Attack",
+            .name = "Finta",
+            .capsName = "FINTA",
+            .fullName = "Finta",
         },
         .data = {
             .effect = MOVE_EFFECT_BYPASS_ACCURACY,
@@ -5020,14 +5020,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user draws up to\\nthe foe disarmingly,\\nthen throws a sucker\\npunch.\\nIt hits without fail.",
+        .description = "Engaña al rival para\\nacercarse y golpearlo\\nsin fallar.\\n",
     },
 
     [MOVE_SWEET_KISS] = {
         .names = {
-            .name = "Sweet Kiss",
-            .capsName = "SWEET KISS",
-            .fullName = "Sweet Kiss",
+            .name = "Beso Dulce",
+            .capsName = "BESO DULCE",
+            .fullName = "Beso Dulce",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_CONFUSE,
@@ -5047,14 +5047,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user kisses the\\nfoe with a sweet,\\nangelic cuteness that\\ncauses confusion.\\n",
+        .description = "Da un beso con tal\\ndulzura que causa\\nconfusión.\\n",
     },
 
     [MOVE_BELLY_DRUM] = {
         .names = {
-            .name = "Belly Drum",
-            .capsName = "BELLY DRUM",
-            .fullName = "Belly Drum",
+            .name = "Tambor",
+            .capsName = "TAMBOR",
+            .fullName = "Tambor",
         },
         .data = {
             .effect = MOVE_EFFECT_MAX_ATK_LOSE_HALF_MAX_HP,
@@ -5074,14 +5074,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user maximizes\\nits Attack stat in\\nexchange for HP\\nequal to half its max\\nHP.",
+        .description = "Sacrifica la mitad de\\nsus PS máximos para\\nsubir al máximo el\\nAtaque.\\n",
     },
 
     [MOVE_SLUDGE_BOMB] = {
         .names = {
-            .name = "Sludge Bomb",
-            .capsName = "SLUDGE BOMB",
-            .fullName = "Sludge Bomb",
+            .name = "Bomba Lodo",
+            .capsName = "BOMBA LODO",
+            .fullName = "Bomba Lodo",
         },
         .data = {
             .effect = MOVE_EFFECT_POISON_HIT,
@@ -5101,14 +5101,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user attacks by\\nhurling filthy sludge\\nat the foe.\\nIt may also poison\\nthe target.",
+        .description = "Arroja residuos.\\nPuede envenenar al\\nobjetivo.\\n",
     },
 
     [MOVE_MUD_SLAP] = {
         .names = {
-            .name = "Mud-Slap",
-            .capsName = "MUD-SLAP",
-            .fullName = "Mud-Slap",
+            .name = "Bofetón Lodo",
+            .capsName = "BOFETÓN LODO",
+            .fullName = "Bofetón Lodo",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_ACCURACY_HIT,
@@ -5128,14 +5128,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user hurls mud in\\nthe foe’s face to\\ninflict damage and\\nlower its accuracy.\\n",
+        .description = "Echa lodo en la cara\\npara dañar y reducir\\nla Precisión.\\n",
     },
 
     [MOVE_OCTAZOOKA] = {
         .names = {
-            .name = "Octazooka",
-            .capsName = "OCTAZOOKA",
-            .fullName = "Octazooka",
+            .name = "Pulpocañón",
+            .capsName = "PULPOCAÑÓN",
+            .fullName = "Pulpocañón",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_ACCURACY_HIT,
@@ -5155,14 +5155,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user attacks by\\nspraying ink in the\\nfoe’s face or eyes.\\nIt may also lower the\\ntarget’s accuracy.",
+        .description = "Dispara tinta a la cara\\ny puede reducir la\\nPrecisión.\\n",
     },
 
     [MOVE_SPIKES] = {
         .names = {
-            .name = "Spikes",
-            .capsName = "SPIKES",
-            .fullName = "Spikes",
+            .name = "Púas",
+            .capsName = "PÚAS",
+            .fullName = "Púas",
         },
         .data = {
             .effect = MOVE_EFFECT_SET_SPIKES,
@@ -5182,14 +5182,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user lays a trap\\nof spikes at the\\nfoe’s feet. The trap\\nhurts foes that\\nswitch into battle.",
+        .description = "Trampa de púas que\\nhiere a los rivales que\\nentran en combate.\\n",
     },
 
     [MOVE_ZAP_CANNON] = {
         .names = {
-            .name = "Zap Cannon",
-            .capsName = "ZAP CANNON",
-            .fullName = "Zap Cannon",
+            .name = "Electrocañón",
+            .capsName = "ELECTROCAÑÓN",
+            .fullName = "Electrocañón",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -5209,14 +5209,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user fires an\\nelectric blast like a\\ncannon to inflict\\ndamage and cause\\nparalysis.",
+        .description = "Descarga eléctrica que\\ncausa daño y\\nparálisis.\\n",
     },
 
     [MOVE_FORESIGHT] = {
         .names = {
-            .name = "Foresight",
-            .capsName = "FORESIGHT",
-            .fullName = "Foresight",
+            .name = "Profecía",
+            .capsName = "PROFECÍA",
+            .fullName = "Profecía",
         },
         .data = {
             .effect = MOVE_EFFECT_IGNORE_EVASION_REMOVE_GHOST_IMMUNE,
@@ -5236,14 +5236,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Enables the user to\\nhit a Ghost type with\\nany type of move. It\\nalso enables the user\\nto hit an evasive foe.",
+        .description = "Permite golpear a\\nPokémon de tipo\\nFantasma y a los\\nevasivos.\\n",
     },
 
     [MOVE_DESTINY_BOND] = {
         .names = {
-            .name = "Destiny Bond",
-            .capsName = "DESTINY BOND",
-            .fullName = "Destiny Bond",
+            .name = "Mismodestino",
+            .capsName = "MISMODESTINO",
+            .fullName = "Mismo Destino",
         },
         .data = {
             .effect = MOVE_EFFECT_KO_MON_THAT_DEFEATED_USER,
@@ -5263,14 +5263,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_ALL_SAME_JUDGE,
             .contestType = CONTEST_SMART,
         },
-        .description = "When this move is\\nused, if the user\\nfaints, the foe that\\nlanded the knockout\\nhit also faints.",
+        .description = "Si el usuario se\\ndebilita, el rival\\ntambién lo hará.\\n",
     },
 
     [MOVE_PERISH_SONG] = {
         .names = {
-            .name = "Perish Song",
-            .capsName = "PERISH SONG",
-            .fullName = "Perish Song",
+            .name = "Canto Mortal",
+            .capsName = "CANTO MORTAL",
+            .fullName = "Canto Mortal",
         },
         .data = {
             .effect = MOVE_EFFECT_ALL_FAINT_3_TURNS,
@@ -5290,14 +5290,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOWER_VOLTAGES,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Any Pokémon that\\nhears this song\\nfaints in three turns,\\nunless it switches\\nout of battle.",
+        .description = "Quien lo oiga se\\ndebilitará en tres\\nturnos si no es\\ncambiado.\\n",
     },
 
     [MOVE_ICY_WIND] = {
         .names = {
-            .name = "Icy Wind",
-            .capsName = "ICY WIND",
-            .fullName = "Icy Wind",
+            .name = "Viento Hielo",
+            .capsName = "VIENTO HIELO",
+            .fullName = "Viento Hielo",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SPEED_HIT,
@@ -5317,14 +5317,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_NEXT_TURN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user attacks with\\na gust of chilled air.\\nIt also lowers the\\ntarget’s Speed stat.\\n",
+        .description = "Aire helado que reduce\\nla Velocidad del\\nobjetivo.\\n",
     },
 
     [MOVE_DETECT] = {
         .names = {
-            .name = "Detect",
-            .capsName = "DETECT",
-            .fullName = "Detect",
+            .name = "Detección",
+            .capsName = "DETECCIÓN",
+            .fullName = "Detección",
         },
         .data = {
             .effect = MOVE_EFFECT_PROTECT,
@@ -5344,14 +5344,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_COOL,
         },
-        .description = "It enables the user\\nto evade all attacks.\\nIts chance of failing\\nrises if it is used in\\nsuccession.",
+        .description = "Frena todos los\\nataques, pero puede\\nfallar si se repite.\\n",
     },
 
     [MOVE_BONE_RUSH] = {
         .names = {
-            .name = "Bone Rush",
-            .capsName = "BONE RUSH",
-            .fullName = "Bone Rush",
+            .name = "Ataque Óseo",
+            .capsName = "ATAQUE ÓSEO",
+            .fullName = "Ataque Óseo",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -5371,14 +5371,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user strikes at\\nthe foe with a hard\\nbone two to five\\ntimes in a row.\\n",
+        .description = "Aporrea con un hueso de\\ndos a cinco veces\\nseguidas.\\n",
     },
 
     [MOVE_LOCK_ON] = {
         .names = {
-            .name = "Lock-On",
-            .capsName = "LOCK-ON",
-            .fullName = "Lock-On",
+            .name = "Fijar Blanco",
+            .capsName = "FIJAR BLANCO",
+            .fullName = "Fijar Blanco",
         },
         .data = {
             .effect = MOVE_EFFECT_NEXT_ATTACK_ALWAYS_HITS,
@@ -5398,14 +5398,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user takes sure\\naim at the foe.\\nIt ensures the next\\nattack does not fail\\nto hit the target.",
+        .description = "Fija el blanco para que\\nel siguiente movimiento\\nno falle.\\n",
     },
 
     [MOVE_OUTRAGE] = {
         .names = {
-            .name = "Outrage",
-            .capsName = "OUTRAGE",
-            .fullName = "Outrage",
+            .name = "Enfado",
+            .capsName = "ENFADO",
+            .fullName = "Enfado",
         },
         .data = {
             .effect = MOVE_EFFECT_CONTINUE_AND_CONFUSE_SELF,
@@ -5425,14 +5425,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user rampages\\nand attacks for two\\nto three turns.\\nHowever, it then\\nbecomes confused.",
+        .description = "Ataca enfurecido de dos\\na tres turnos y luego\\nqueda confuso.\\n",
     },
 
     [MOVE_SANDSTORM] = {
         .names = {
-            .name = "Sandstorm",
-            .capsName = "SANDSTORM",
-            .fullName = "Sandstorm",
+            .name = "Torm. Arena",
+            .capsName = "TORM. ARENA",
+            .fullName = "Tormenta de Arena",
         },
         .data = {
             .effect = MOVE_EFFECT_WEATHER_SANDSTORM,
@@ -5452,14 +5452,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "A five-turn sand-\\nstorm is summoned\\nto hurt all combatant\\ntypes except Rock, \\nGround, and Steel.",
+        .description = "Tormenta de arena que\\ndura 5 turnos y hiere\\nsalvo a Roca, Tierra y\\nAcero.\\n",
     },
 
     [MOVE_GIGA_DRAIN] = {
         .names = {
-            .name = "Giga Drain",
-            .capsName = "GIGA DRAIN",
-            .fullName = "Giga Drain",
+            .name = "Gigadrenado",
+            .capsName = "GIGADRENADO",
+            .fullName = "Gigadrenado",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOVER_HALF_DAMAGE_DEALT,
@@ -5479,14 +5479,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "A nutrient-draining\\nattack. The user’s\\nHP is restored by\\nhalf the damage taken\\nby the target.",
+        .description = "Absorbe nutrientes.\\nRecupera la mitad del\\ndaño producido.\\n",
     },
 
     [MOVE_ENDURE] = {
         .names = {
-            .name = "Endure",
-            .capsName = "ENDURE",
-            .fullName = "Endure",
+            .name = "Aguante",
+            .capsName = "AGUANTE",
+            .fullName = "Aguante",
         },
         .data = {
             .effect = MOVE_EFFECT_SURVIVE_WITH_1_HP,
@@ -5506,14 +5506,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user endures any\\nattack with at least\\n1 HP. Its chance of\\nfailing rises if it is\\nused in succession.",
+        .description = "Resiste cualquier\\nataque y deja al menos\\n1 PS.\\n",
     },
 
     [MOVE_CHARM] = {
         .names = {
-            .name = "Charm",
-            .capsName = "CHARM",
-            .fullName = "Charm",
+            .name = "Encanto",
+            .capsName = "ENCANTO",
+            .fullName = "Encanto",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_DOWN_2,
@@ -5533,14 +5533,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user charmingly\\nstares at the foe,\\nmaking it less wary.\\nThe target’s Attack\\nis sharply lowered.",
+        .description = "Engatusa al objetivo y\\nreduce mucho su\\nAtaque.\\n",
     },
 
     [MOVE_ROLLOUT] = {
         .names = {
-            .name = "Rollout",
-            .capsName = "ROLLOUT",
-            .fullName = "Rollout",
+            .name = "Rodar",
+            .capsName = "RODAR",
+            .fullName = "Rodar",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_POWER_EACH_TURN_LOCK_INTO,
@@ -5560,14 +5560,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user continually\\nrolls into the foe\\nover five turns. It\\nbecomes stronger\\neach time it hits.",
+        .description = "Rueda contra el rival\\ndurante 5 turnos y\\ncada vez hace más\\ndaño.\\n",
     },
 
     [MOVE_FALSE_SWIPE] = {
         .names = {
-            .name = "False Swipe",
-            .capsName = "FALSE SWIPE",
-            .fullName = "False Swipe",
+            .name = "Falsotortazo",
+            .capsName = "FALSOTORTAZO",
+            .fullName = "Falso Tortazo",
         },
         .data = {
             .effect = MOVE_EFFECT_LEAVE_WITH_1_HP,
@@ -5587,14 +5587,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_COOL,
         },
-        .description = "A restrained attack\\nthat prevents the\\nfoe from fainting.\\nThe target is left\\nwith at least 1 HP.",
+        .description = "Ataque moderado que no\\ndebilita y deja al\\nobjetivo con 1 PS.\\n",
     },
 
     [MOVE_SWAGGER] = {
         .names = {
-            .name = "Swagger",
-            .capsName = "SWAGGER",
-            .fullName = "Swagger",
+            .name = "Fanfarronear",
+            .capsName = "FANFARRONEAR",
+            .fullName = "Fanfarronear",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_UP_2_STATUS_CONFUSION,
@@ -5614,14 +5614,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user enrages the\\nfoe into confusion.\\nHowever, it also\\nsharply raises the\\nfoe’s Attack stat.",
+        .description = "Enfurece y confunde al\\nrival, pero sube mucho\\nsu Ataque.\\n",
     },
 
     [MOVE_MILK_DRINK] = {
         .names = {
-            .name = "Milk Drink",
-            .capsName = "MILK DRINK",
-            .fullName = "Milk Drink",
+            .name = "Batido",
+            .capsName = "BATIDO",
+            .fullName = "Batido",
         },
         .data = {
             .effect = MOVE_EFFECT_RESTORE_HALF_HP,
@@ -5641,14 +5641,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user restores its\\nown HP by up to half\\nof its maximum HP.\\nIt may also be used\\nto heal an ally’s HP.",
+        .description = "Restaura la mitad de\\nsus PS máximos.\\n",
     },
 
     [MOVE_SPARK] = {
         .names = {
-            .name = "Spark",
-            .capsName = "SPARK",
-            .fullName = "Spark",
+            .name = "Chispa",
+            .capsName = "CHISPA",
+            .fullName = "Chispa",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -5668,14 +5668,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user throws an\\nelectrically charged\\ntackle at the foe.\\nIt may also leave the\\ntarget paralyzed.",
+        .description = "Arremete envuelto en\\nelectricidad. Puede\\nparalizar.\\n",
     },
 
     [MOVE_FURY_CUTTER] = {
         .names = {
-            .name = "Fury Cutter",
-            .capsName = "FURY CUTTER",
-            .fullName = "Fury Cutter",
+            .name = "Corte Furia",
+            .capsName = "CORTE FURIA",
+            .fullName = "Corte Furia",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_POWER_EACH_TURN,
@@ -5695,14 +5695,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is slashed\\nwith scythes or\\nclaws. Its power\\nincreases if it hits\\nin succession.",
+        .description = "Ataque lacerante cuya\\npotencia crece si se\\nusa seguido.\\n",
     },
 
     [MOVE_STEEL_WING] = {
         .names = {
-            .name = "Steel Wing",
-            .capsName = "STEEL WING",
-            .fullName = "Steel Wing",
+            .name = "Ala de Acero",
+            .capsName = "ALA DE ACERO",
+            .fullName = "Ala de Acero",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_DEF_HIT,
@@ -5722,14 +5722,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is hit with\\nwings of steel.\\nIt may also raise the\\nuser’s Defense stat.\\n",
+        .description = "Golpea con alas\\nrobustas. Puede subir\\nla Defensa del usuario.\\n",
     },
 
     [MOVE_MEAN_LOOK] = {
         .names = {
-            .name = "Mean Look",
-            .capsName = "MEAN LOOK",
-            .fullName = "Mean Look",
+            .name = "Mal de Ojo",
+            .capsName = "MAL DE OJO",
+            .fullName = "Mal de Ojo",
         },
         .data = {
             .effect = MOVE_EFFECT_PREVENT_ESCAPE,
@@ -5749,14 +5749,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOWER_VOLTAGES,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user affixes the\\nfoe with a dark,\\narresting look.\\nThe target becomes\\nunable to flee.",
+        .description = "Mal de ojo que impide\\nal rival huir o ser\\ncambiado.\\n",
     },
 
     [MOVE_ATTRACT] = {
         .names = {
-            .name = "Attract",
-            .capsName = "ATTRACT",
-            .fullName = "Attract",
+            .name = "Atracción",
+            .capsName = "ATRACCIÓN",
+            .fullName = "Atracción",
         },
         .data = {
             .effect = MOVE_EFFECT_INFATUATE,
@@ -5776,14 +5776,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_CUTE,
         },
-        .description = "If it is the opposite\\ngender of the user,\\nthe foe becomes\\ninfatuated and less\\nlikely to attack.",
+        .description = "Si el rival es del sexo\\nopuesto, se enamora y\\nataca menos.\\n",
     },
 
     [MOVE_SLEEP_TALK] = {
         .names = {
-            .name = "Sleep Talk",
-            .capsName = "SLEEP TALK",
-            .fullName = "Sleep Talk",
+            .name = "Sonámbulo",
+            .capsName = "SONÁMBULO",
+            .fullName = "Sonámbulo",
         },
         .data = {
             .effect = MOVE_EFFECT_USE_RANDOM_LEARNED_MOVE_SLEEP,
@@ -5803,14 +5803,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_CUTE,
         },
-        .description = "While it is asleep, the\\nuser randomly uses\\none of the moves it\\nknows.\\n",
+        .description = "Mientras duerme, usa al\\nazar uno de sus\\nmovimientos.\\n",
     },
 
     [MOVE_HEAL_BELL] = {
         .names = {
-            .name = "Heal Bell",
-            .capsName = "HEAL BELL",
-            .fullName = "Heal Bell",
+            .name = "Campana Cura",
+            .capsName = "CAMPANA CURA",
+            .fullName = "Cascabel Cura",
         },
         .data = {
             .effect = MOVE_EFFECT_CURE_PARTY_STATUS,
@@ -5830,14 +5830,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user makes a\\nsoothing bell chime\\nto heal the status\\nproblems of all the\\nparty Pokémon.",
+        .description = "Tañido que cura los\\nproblemas de estado\\ndel equipo.\\n",
     },
 
     [MOVE_RETURN] = {
         .names = {
-            .name = "Return",
-            .capsName = "RETURN",
-            .fullName = "Return",
+            .name = "Retribución",
+            .capsName = "RETRIBUCIÓN",
+            .fullName = "Retribución",
         },
         .data = {
             .effect = MOVE_EFFECT_POWER_BASED_ON_FRIENDSHIP,
@@ -5857,14 +5857,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_CUTE,
         },
-        .description = "A full-power attack\\nthat grows more\\npowerful the more\\nthe user likes its\\nTrainer.",
+        .description = "Más poderoso cuanto\\nmayor sea la amistad\\ncon el Entrenador.\\n",
     },
 
     [MOVE_PRESENT] = {
         .names = {
-            .name = "Present",
-            .capsName = "PRESENT",
-            .fullName = "Present",
+            .name = "Presente",
+            .capsName = "PRESENTE",
+            .fullName = "Presente",
         },
         .data = {
             .effect = MOVE_EFFECT_RANDOM_POWER_MAYBE_HEAL,
@@ -5884,14 +5884,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user attacks by\\ngiving the foe a\\nbooby-trapped gift.\\nIt restores HP\\nsometimes, however.",
+        .description = "Ataca con un regalo\\ntrampa, aunque a veces\\nrestaura PS.\\n",
     },
 
     [MOVE_FRUSTRATION] = {
         .names = {
-            .name = "Frustration",
-            .capsName = "FRUSTRATION",
-            .fullName = "Frustration",
+            .name = "Frustración",
+            .capsName = "FRUSTRACIÓN",
+            .fullName = "Frustración",
         },
         .data = {
             .effect = MOVE_EFFECT_POWER_BASED_ON_LOW_FRIENDSHIP,
@@ -5911,14 +5911,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_CUTE,
         },
-        .description = "A full-power attack\\nthat grows more\\npowerful the less\\nthe user likes its\\nTrainer.",
+        .description = "Más poderoso cuanto\\nmenor sea la amistad\\ncon el Entrenador.\\n",
     },
 
     [MOVE_SAFEGUARD] = {
         .names = {
-            .name = "Safeguard",
-            .capsName = "SAFEGUARD",
-            .fullName = "Safeguard",
+            .name = "Velo Sagrado",
+            .capsName = "VELO SAGRADO",
+            .fullName = "Velo Sagrado",
         },
         .data = {
             .effect = MOVE_EFFECT_PREVENT_STATUS,
@@ -5938,14 +5938,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user creates a\\nprotective field that\\nprevents status\\nproblems for five\\nturns.",
+        .description = "Poder misterioso que\\nprotege de problemas de\\nestado 5 turnos.\\n",
     },
 
     [MOVE_PAIN_SPLIT] = {
         .names = {
-            .name = "Pain Split",
-            .capsName = "PAIN SPLIT",
-            .fullName = "Pain Split",
+            .name = "Divide Dolor",
+            .capsName = "DIVIDE DOLOR",
+            .fullName = "Divide Dolor",
         },
         .data = {
             .effect = MOVE_EFFECT_AVERAGE_HP,
@@ -5965,14 +5965,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOWER_VOLTAGES,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user adds its HP\\nto the foe’s HP, then\\nequally shares the\\ncombined HP with the\\nfoe.",
+        .description = "Suma sus PS a los del\\nrival y los reparte a\\npartes iguales.\\n",
     },
 
     [MOVE_SACRED_FIRE] = {
         .names = {
-            .name = "Sacred Fire",
-            .capsName = "SACRED FIRE",
-            .fullName = "Sacred Fire",
+            .name = "Fuegosagrado",
+            .capsName = "FUEGOSAGRADO",
+            .fullName = "Fuego Sagrado",
         },
         .data = {
             .effect = MOVE_EFFECT_THAW_AND_BURN_HIT,
@@ -5992,14 +5992,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The foe is razed with\\na mystical fire of\\ngreat intensity.\\nIt may also leave the\\ntarget with a burn.",
+        .description = "Fuego místico de gran\\nintensidad que puede\\ncausar quemaduras.\\n",
     },
 
     [MOVE_MAGNITUDE] = {
         .names = {
-            .name = "Magnitude",
-            .capsName = "MAGNITUDE",
-            .fullName = "Magnitude",
+            .name = "Magnitud",
+            .capsName = "MAGNITUD",
+            .fullName = "Magnitud",
         },
         .data = {
             .effect = MOVE_EFFECT_RANDOM_POWER_10_CASES,
@@ -6019,14 +6019,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user looses a\\nground-shaking quake\\naffecting everyone in\\nbattle. Its power\\nvaries.",
+        .description = "Sacudida sísmica de\\nintensidad variable que\\nafecta a los\\nalrededores.\\n",
     },
 
     [MOVE_DYNAMIC_PUNCH] = {
         .names = {
-            .name = "Dynamic Punch",
-            .capsName = "DYNAMIC PUNCH",
-            .fullName = "Dynamic Punch",
+            .name = "Puñodinámico",
+            .capsName = "PUÑODINÁMICO",
+            .fullName = "Puño Dinámico",
         },
         .data = {
             .effect = MOVE_EFFECT_CONFUSE_HIT,
@@ -6046,14 +6046,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is punched\\nwith the user’s full,\\nconcentrated power.\\nIt confuses the foe\\nif it hits.",
+        .description = "Puñetazo a máxima\\npotencia que causa\\nconfusión.\\n",
     },
 
     [MOVE_MEGAHORN] = {
         .names = {
-            .name = "Megahorn",
-            .capsName = "MEGAHORN",
-            .fullName = "Megahorn",
+            .name = "Megacuerno",
+            .capsName = "MEGACUERNO",
+            .fullName = "Megacuerno",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -6073,14 +6073,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Using its tough\\nand impressive\\nhorn, the user\\nrams into the foe \\nwith no letup.\\n",
+        .description = "Ensarta con su imponente\\ncuerno o cornamenta.\\n",
     },
 
     [MOVE_DRAGON_BREATH] = {
         .names = {
-            .name = "Dragon Breath",
-            .capsName = "DRAGON BREATH",
-            .fullName = "Dragon Breath",
+            .name = "Dragoaliento",
+            .capsName = "DRAGOALIENTO",
+            .fullName = "Dragoaliento",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -6100,14 +6100,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user exhales\\na mighty gust that\\ninflicts damage.\\nIt may also paralyze\\nthe target.",
+        .description = "Ráfaga de aliento que\\ngolpea y puede\\nparalizar.\\n",
     },
 
     [MOVE_BATON_PASS] = {
         .names = {
-            .name = "Baton Pass",
-            .capsName = "BATON PASS",
-            .fullName = "Baton Pass",
+            .name = "Relevo",
+            .capsName = "RELEVO",
+            .fullName = "Relevo",
         },
         .data = {
             .effect = MOVE_EFFECT_PASS_STATS_AND_STATUS,
@@ -6127,14 +6127,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user switches\\nplaces with a party\\nPokémon in waiting,\\npassing along any\\nstat changes.",
+        .description = "Cambia el puesto con\\notro y le pasa los\\ncambios de\\ncaracterísticas.\\n",
     },
 
     [MOVE_ENCORE] = {
         .names = {
-            .name = "Encore",
-            .capsName = "ENCORE",
-            .fullName = "Encore",
+            .name = "Otra Vez",
+            .capsName = "OTRA VEZ",
+            .fullName = "Otra Vez",
         },
         .data = {
             .effect = MOVE_EFFECT_ENCORE,
@@ -6154,14 +6154,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user compels the\\nfoe to keep using\\nonly the move it last\\nused for three to\\nseven turns.",
+        .description = "El rival repite su\\núltimo movimiento\\ndurante tres turnos.\\n",
     },
 
     [MOVE_PURSUIT] = {
         .names = {
-            .name = "Pursuit",
-            .capsName = "PURSUIT",
-            .fullName = "Pursuit",
+            .name = "Persecución",
+            .capsName = "PERSECUCIÓN",
+            .fullName = "Persecución",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_BEFORE_SWITCH,
@@ -6181,14 +6181,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "An attack move that\\ninflicts double damage\\nif used on a foe that\\nis switching out of\\nbattle.",
+        .description = "Hace el doble de daño\\nal objetivo que pide el\\nrelevo.\\n",
     },
 
     [MOVE_RAPID_SPIN] = {
         .names = {
-            .name = "Rapid Spin",
-            .capsName = "RAPID SPIN",
-            .fullName = "Rapid Spin",
+            .name = "Giro Rápido",
+            .capsName = "GIRO RÁPIDO",
+            .fullName = "Giro Rápido",
         },
         .data = {
             .effect = MOVE_EFFECT_REMOVE_HAZARDS_AND_BINDING,
@@ -6208,14 +6208,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "A spin attack that\\ncan also eliminate\\nsuch moves as Bind,\\nWrap, Leech Seed,\\nand Spikes.",
+        .description = "Giro que anula Atadura,\\nConstricción y\\nDrenadoras. Sube la\\nVelocidad.\\n",
     },
 
     [MOVE_SWEET_SCENT] = {
         .names = {
-            .name = "Sweet Scent",
-            .capsName = "SWEET SCENT",
-            .fullName = "Sweet Scent",
+            .name = "Dulce Aroma",
+            .capsName = "DULCE AROMA",
+            .fullName = "Dulce Aroma",
         },
         .data = {
             .effect = MOVE_EFFECT_EVA_DOWN_2,
@@ -6235,14 +6235,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_CUTE,
         },
-        .description = "A sweet scent that\\nlowers the foe’s\\nevasiveness. It also\\nlures wild Pokémon\\nif used in grass, etc.",
+        .description = "Dulce aroma que engatusa\\ny reduce mucho la\\nEvasión.\\n",
     },
 
     [MOVE_IRON_TAIL] = {
         .names = {
-            .name = "Iron Tail",
-            .capsName = "IRON TAIL",
-            .fullName = "Iron Tail",
+            .name = "Cola Férrea",
+            .capsName = "COLA FÉRREA",
+            .fullName = "Cola Férrea",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_DEFENSE_HIT,
@@ -6262,14 +6262,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is slammed\\nwith a steel-hard\\ntail. It may also\\nlower the target’s\\nDefense stat.",
+        .description = "Ataca con una cola\\nférrea y puede bajar\\nla Defensa.\\n",
     },
 
     [MOVE_METAL_CLAW] = {
         .names = {
-            .name = "Metal Claw",
-            .capsName = "METAL CLAW",
-            .fullName = "Metal Claw",
+            .name = "Garra Metal",
+            .capsName = "GARRA METAL",
+            .fullName = "Garra Metal",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_ATTACK_HIT,
@@ -6289,14 +6289,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is raked\\nwith steel claws.\\nIt may also raise the\\nuser’s Attack stat.\\n",
+        .description = "Garras de acero que\\npueden subir el Ataque\\ndel usuario.\\n",
     },
 
     [MOVE_VITAL_THROW] = {
         .names = {
-            .name = "Vital Throw",
-            .capsName = "VITAL THROW",
-            .fullName = "Vital Throw",
+            .name = "Llave Vital",
+            .capsName = "LLAVE VITAL",
+            .fullName = "Llave Vital",
         },
         .data = {
             .effect = MOVE_EFFECT_PRIORITY_NEG_1_BYPASS_ACCURACY,
@@ -6316,14 +6316,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_NEXT_TURN,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user allows the\\nfoe to attack first.\\nIn return, this throw\\nmove is guaranteed\\nnot to miss.",
+        .description = "El usuario ataca el\\núltimo, pero no falla\\nnunca.\\n",
     },
 
     [MOVE_MORNING_SUN] = {
         .names = {
-            .name = "Morning Sun",
-            .capsName = "MORNING SUN",
-            .fullName = "Morning Sun",
+            .name = "Sol Matinal",
+            .capsName = "SOL MATINAL",
+            .fullName = "Sol Matinal",
         },
         .data = {
             .effect = MOVE_EFFECT_HEAL_HALF_DIFFERENT_IN_WEATHER,
@@ -6343,14 +6343,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user restores its\\nown HP.\\nThe amount of HP\\nregained varies with\\nthe weather.",
+        .description = "Restaura PS. La cantidad\\nvaría según el tiempo\\nque haga.\\n",
     },
 
     [MOVE_SYNTHESIS] = {
         .names = {
-            .name = "Synthesis",
-            .capsName = "SYNTHESIS",
-            .fullName = "Synthesis",
+            .name = "Fotosíntesis",
+            .capsName = "FOTOSÍNTESIS",
+            .fullName = "Fotosíntesis",
         },
         .data = {
             .effect = MOVE_EFFECT_HEAL_HALF_DIFFERENT_IN_WEATHER,
@@ -6370,14 +6370,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user restores its\\nown HP.\\nThe amount of HP\\nregained varies with\\nthe weather.",
+        .description = "Restaura PS. La cantidad\\nvaría según el tiempo\\nque haga.\\n",
     },
 
     [MOVE_MOONLIGHT] = {
         .names = {
-            .name = "Moonlight",
-            .capsName = "MOONLIGHT",
-            .fullName = "Moonlight",
+            .name = "Luz Lunar",
+            .capsName = "LUZ LUNAR",
+            .fullName = "Luz Lunar",
         },
         .data = {
             .effect = MOVE_EFFECT_HEAL_HALF_DIFFERENT_IN_WEATHER,
@@ -6397,14 +6397,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user restores its\\nown HP.\\nThe amount of HP\\nregained varies with\\nthe weather.",
+        .description = "Restaura PS. La cantidad\\nvaría según el tiempo\\nque haga.\\n",
     },
 
     [MOVE_HIDDEN_POWER] = {
         .names = {
-            .name = "Hidden Power",
-            .capsName = "HIDDEN POWER",
-            .fullName = "Hidden Power",
+            .name = "Poder Oculto",
+            .capsName = "PODER OCULTO",
+            .fullName = "Poder Oculto",
         },
         .data = {
             .effect = MOVE_EFFECT_RANDOM_TYPE_BASED_ON_IVS,
@@ -6424,14 +6424,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_PITY_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "A unique attack that\\nvaries in type\\ndepending on the\\nPokémon using it.",
+        .description = "Su tipo varía según el\\nPokémon que lo usa.\\n",
     },
 
     [MOVE_CROSS_CHOP] = {
         .names = {
-            .name = "Cross Chop",
-            .capsName = "CROSS CHOP",
-            .fullName = "Cross Chop",
+            .name = "Tajo Cruzado",
+            .capsName = "TAJO CRUZADO",
+            .fullName = "Tajo Cruzado",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -6451,14 +6451,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user delivers a\\ndouble chop with its\\nforearms crossed.\\nIt has a high\\ncritical-hit ratio.",
+        .description = "Golpe doble con las\\nmanos que suele ser\\ncrítico.\\n",
     },
 
     [MOVE_TWISTER] = {
         .names = {
-            .name = "Twister",
-            .capsName = "TWISTER",
-            .fullName = "Twister",
+            .name = "Ciclón",
+            .capsName = "CICLÓN",
+            .fullName = "Ciclón",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_DOUBLE_DAMAGE_FLY_OR_BOUNCE,
@@ -6478,14 +6478,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user whips up a\\nvicious tornado to\\ntear at the foe.\\nIt may also make the\\nfoe flinch.",
+        .description = "Violento tornado que\\npuede amedrentar al\\nobjetivo.\\n",
     },
 
     [MOVE_RAIN_DANCE] = {
         .names = {
-            .name = "Rain Dance",
-            .capsName = "RAIN DANCE",
-            .fullName = "Rain Dance",
+            .name = "Danza Lluvia",
+            .capsName = "DANZA LLUVIA",
+            .fullName = "Danza Lluvia",
         },
         .data = {
             .effect = MOVE_EFFECT_WEATHER_RAIN,
@@ -6505,14 +6505,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user summons a\\nheavy rain that falls\\nfor five turns,\\npowering up Water-\\ntype moves.",
+        .description = "Lluvia que dura 5 turnos,\\npotencia el Agua y\\ndebilita el Fuego.\\n",
     },
 
     [MOVE_SUNNY_DAY] = {
         .names = {
-            .name = "Sunny Day",
-            .capsName = "SUNNY DAY",
-            .fullName = "Sunny Day",
+            .name = "Día Soleado",
+            .capsName = "DÍA SOLEADO",
+            .fullName = "Día Soleado",
         },
         .data = {
             .effect = MOVE_EFFECT_WEATHER_SUN,
@@ -6532,14 +6532,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user intensifies\\nthe sun for five\\nturns, powering up\\nFire-type moves.\\n",
+        .description = "Sol intenso que dura 5\\nturnos, potencia el\\nFuego y debilita el\\nAgua.\\n",
     },
 
     [MOVE_CRUNCH] = {
         .names = {
-            .name = "Crunch",
-            .capsName = "CRUNCH",
-            .fullName = "Crunch",
+            .name = "Triturar",
+            .capsName = "TRITURAR",
+            .fullName = "Triturar",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_DEFENSE_HIT,
@@ -6559,14 +6559,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user crunches up\\nthe foe with sharp\\nfangs. It may also\\nlower the target’s\\nDefense stat.",
+        .description = "Tritura con afilados\\ncolmillos y puede bajar\\nla Defensa.\\n",
     },
 
     [MOVE_MIRROR_COAT] = {
         .names = {
-            .name = "Mirror Coat",
-            .capsName = "MIRROR COAT",
-            .fullName = "Mirror Coat",
+            .name = "Manto Espejo",
+            .capsName = "MANTO ESPEJO",
+            .fullName = "Manto Espejo",
         },
         .data = {
             .effect = MOVE_EFFECT_MIRROR_COAT,
@@ -6586,14 +6586,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "A retaliation move\\nthat counters any\\nspecial attack,\\ninflicting double the\\ndamage taken.",
+        .description = "Responde a un ataque\\nespecial causando el\\ndoble del daño.\\n",
     },
 
     [MOVE_PSYCH_UP] = {
         .names = {
-            .name = "Psych Up",
-            .capsName = "PSYCH UP",
-            .fullName = "Psych Up",
+            .name = "Autosugest.",
+            .capsName = "AUTOSUGEST.",
+            .fullName = "Autosugestión",
         },
         .data = {
             .effect = MOVE_EFFECT_COPY_STAT_CHANGES,
@@ -6613,14 +6613,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user hypnotizes\\nitself into copying\\nany stat change\\nmade by the foe.\\n",
+        .description = "Trance que copia los\\ncambios en las\\ncaracterísticas del\\nobjetivo.\\n",
     },
 
     [MOVE_EXTREME_SPEED] = {
         .names = {
-            .name = "Extreme Speed",
-            .capsName = "EXTREME SPEED",
-            .fullName = "Extreme Speed",
+            .name = "Vel. Extrema",
+            .capsName = "VEL. EXTREMA",
+            .fullName = "Velocidad Extrema",
         },
         .data = {
             .effect = MOVE_EFFECT_PRIORITY_1,
@@ -6640,14 +6640,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user charges the\\nfoe at blinding speed.\\nThis attack always\\ngoes before any\\nother move.",
+        .description = "Ataque de velocidad\\nextrema. Tiene\\nprioridad alta.\\n",
     },
 
     [MOVE_ANCIENT_POWER] = {
         .names = {
-            .name = "Ancient Power",
-            .capsName = "ANCIENT POWER",
-            .fullName = "Ancient Power",
+            .name = "Poder Pasado",
+            .capsName = "PODER PASADO",
+            .fullName = "Poder Pasado",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_ALL_STATS_HIT,
@@ -6667,14 +6667,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user attacks with\\na prehistoric power.\\nIt may also raise all\\nthe user’s stats at\\nonce.",
+        .description = "Poder prehistórico que\\npuede subir todas las\\ncaracterísticas.\\n",
     },
 
     [MOVE_SHADOW_BALL] = {
         .names = {
-            .name = "Shadow Ball",
-            .capsName = "SHADOW BALL",
-            .fullName = "Shadow Ball",
+            .name = "Bola Sombra",
+            .capsName = "BOLA SOMBRA",
+            .fullName = "Bola Sombra",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_HIT,
@@ -6694,14 +6694,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user hurls a\\nshadowy blob at the\\nfoe. It may also\\nlower the foe’s\\nSp. Def stat.",
+        .description = "Bola oscura que puede\\nbajar la Defensa\\nEspecial.\\n",
     },
 
     [MOVE_FUTURE_SIGHT] = {
         .names = {
-            .name = "Future Sight",
-            .capsName = "FUTURE SIGHT",
-            .fullName = "Future Sight",
+            .name = "Premonición",
+            .capsName = "PREMONICIÓN",
+            .fullName = "Premonición",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_IN_3_TURNS,
@@ -6721,14 +6721,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Two turns after this\\nmove is used, the foe\\nis attacked with a\\nhunk of psychic\\nenergy.",
+        .description = "Concentra energía\\npsíquica y golpea dos\\nturnos después.\\n",
     },
 
     [MOVE_ROCK_SMASH] = {
         .names = {
-            .name = "Rock Smash",
-            .capsName = "ROCK SMASH",
-            .fullName = "Rock Smash",
+            .name = "Golpe Roca",
+            .capsName = "GOLPE ROCA",
+            .fullName = "Golpe Roca",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_DEFENSE_HIT,
@@ -6748,14 +6748,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user hits with a\\npunch that may lower\\nthe target’s Defense.\\nIt can also smash\\ncracked boulders.",
+        .description = "Gran puñetazo que puede\\nreducir la Defensa del\\nobjetivo.\\n",
     },
 
     [MOVE_WHIRLPOOL] = {
         .names = {
-            .name = "Whirlpool",
-            .capsName = "WHIRLPOOL",
-            .fullName = "Whirlpool",
+            .name = "Torbellino",
+            .capsName = "TORBELLINO",
+            .fullName = "Torbellino",
         },
         .data = {
             .effect = MOVE_EFFECT_WHIRLPOOL,
@@ -6775,14 +6775,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LATE_BOOST,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Traps the foe inside a\\nwhirlpool that lasts\\nfor two to five turns.\\nThe user can pass\\nthrough whirlpools.",
+        .description = "Tromba de agua que\\natrapa y daña de cuatro\\na cinco turnos.\\n",
     },
 
     [MOVE_BEAT_UP] = {
         .names = {
-            .name = "Beat Up",
-            .capsName = "BEAT UP",
-            .fullName = "Beat Up",
+            .name = "Paliza",
+            .capsName = "PALIZA",
+            .fullName = "Paliza",
         },
         .data = {
             .effect = MOVE_EFFECT_BEAT_UP,
@@ -6802,14 +6802,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user gets all the\\nparty Pokémon to\\nattack the foe. The\\nmore party Pokémon,\\nthe more damage.",
+        .description = "Ataque de todo el\\nequipo. Cuantos más\\nhaya, más veces ataca.\\n",
     },
 
     [MOVE_FAKE_OUT] = {
         .names = {
-            .name = "Fake Out",
-            .capsName = "FAKE OUT",
-            .fullName = "Fake Out",
+            .name = "Sorpresa",
+            .capsName = "SORPRESA",
+            .fullName = "Sorpresa",
         },
         .data = {
             .effect = MOVE_EFFECT_ALWAYS_FLINCH_FIRST_TURN_ONLY,
@@ -6829,14 +6829,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_CUTE,
         },
-        .description = "An attack that hits\\nfirst and makes the\\ntarget flinch. It only\\nworks the first turn\\nthe user is in battle.",
+        .description = "Amedrenta con prioridad\\nalta solo al entrar en\\ncombate.\\n",
     },
 
     [MOVE_UPROAR] = {
         .names = {
-            .name = "Uproar",
-            .capsName = "UPROAR",
-            .fullName = "Uproar",
+            .name = "Alboroto",
+            .capsName = "ALBOROTO",
+            .fullName = "Alboroto",
         },
         .data = {
             .effect = MOVE_EFFECT_UPROAR,
@@ -6856,14 +6856,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOWER_VOLTAGES,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user attacks in\\nan uproar for two to\\nfive turns. Over that\\ntime, no one can fall\\nasleep.",
+        .description = "Ataca alborotado\\ndurante tres turnos y\\nmantiene despiertos.\\n",
     },
 
     [MOVE_STOCKPILE] = {
         .names = {
-            .name = "Stockpile",
-            .capsName = "STOCKPILE",
-            .fullName = "Stockpile",
+            .name = "Reserva",
+            .capsName = "RESERVA",
+            .fullName = "Reserva",
         },
         .data = {
             .effect = MOVE_EFFECT_STOCKPILE,
@@ -6883,14 +6883,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user charges\\nup power, and raises\\nboth its Defense and\\nSp. Def. The move can\\nbe used three times.",
+        .description = "Acumula energía hasta\\ntres veces y sube la\\nDefensa y la Defensa\\nEspecial.\\n",
     },
 
     [MOVE_SPIT_UP] = {
         .names = {
-            .name = "Spit Up",
-            .capsName = "SPIT UP",
-            .fullName = "Spit Up",
+            .name = "Escupir",
+            .capsName = "ESCUPIR",
+            .fullName = "Escupir",
         },
         .data = {
             .effect = MOVE_EFFECT_SPIT_UP,
@@ -6910,14 +6910,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The power stored\\nusing the move\\nStockpile is released\\nat once in an attack.\\n",
+        .description = "Libera la energía de\\nReserva. La potencia\\ndepende de la acumulada.\\n",
     },
 
     [MOVE_SWALLOW] = {
         .names = {
-            .name = "Swallow",
-            .capsName = "SWALLOW",
-            .fullName = "Swallow",
+            .name = "Tragar",
+            .capsName = "TRAGAR",
+            .fullName = "Tragar",
         },
         .data = {
             .effect = MOVE_EFFECT_SWALLOW,
@@ -6937,14 +6937,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The power stored\\nusing the move\\nStockpile is absorbed\\nby the user to heal\\nits HP.",
+        .description = "Absorbe la energía de\\nReserva para recobrar\\nsalud.\\n",
     },
 
     [MOVE_HEAT_WAVE] = {
         .names = {
-            .name = "Heat Wave",
-            .capsName = "HEAT WAVE",
-            .fullName = "Heat Wave",
+            .name = "Onda Ígnea",
+            .capsName = "ONDA ÍGNEA",
+            .fullName = "Onda Ígnea",
         },
         .data = {
             .effect = MOVE_EFFECT_BURN_HIT,
@@ -6964,14 +6964,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user exhales a\\nheated breath on the\\nfoe to attack. It may\\nalso leave the target\\nwith a burn.",
+        .description = "Viento abrasador que\\ndaña y puede causar\\nquemaduras.\\n",
     },
 
     [MOVE_HAIL] = {
         .names = {
-            .name = "Hail",
-            .capsName = "HAIL",
-            .fullName = "Hail",
+            .name = "Granizo",
+            .capsName = "GRANIZO",
+            .fullName = "Granizo",
         },
         .data = {
             .effect = MOVE_EFFECT_WEATHER_HAIL,
@@ -6991,14 +6991,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user summons a\\nhailstorm lasting five\\nturns. It damages all\\nPokémon except the\\nIce type.",
+        .description = "Granizo que dura 5\\nturnos e hiere salvo a\\nlos de tipo Hielo.\\n",
     },
 
     [MOVE_TORMENT] = {
         .names = {
-            .name = "Torment",
-            .capsName = "TORMENT",
-            .fullName = "Torment",
+            .name = "Tormento",
+            .capsName = "TORMENTO",
+            .fullName = "Tormento",
         },
         .data = {
             .effect = MOVE_EFFECT_TORMENT,
@@ -7018,14 +7018,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user torments\\nand enrages the foe,\\nmaking it incapable of\\nusing the same move\\ntwice in a row.",
+        .description = "Atormenta al rival, que\\nno puede repetir\\nmovimiento seguido.\\n",
     },
 
     [MOVE_FLATTER] = {
         .names = {
-            .name = "Flatter",
-            .capsName = "FLATTER",
-            .fullName = "Flatter",
+            .name = "Camelo",
+            .capsName = "CAMELO",
+            .fullName = "Camelo",
         },
         .data = {
             .effect = MOVE_EFFECT_SP_ATK_UP_CAUSE_CONFUSION,
@@ -7045,14 +7045,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "Flattery is used to\\nconfuse the foe.\\nHowever, it also\\nraises the target’s\\nSp. Atk stat.",
+        .description = "Halaga y confunde al\\nrival, pero sube su\\nAtaque Especial.\\n",
     },
 
     [MOVE_WILL_O_WISP] = {
         .names = {
-            .name = "Will-O-Wisp",
-            .capsName = "WILL-O-WISP",
-            .fullName = "Will-O-Wisp",
+            .name = "Fuego Fatuo",
+            .capsName = "FUEGO FATUO",
+            .fullName = "Fuego Fatuo",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_BURN,
@@ -7072,14 +7072,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user shoots a\\nsinister, bluish white\\nflame at the foe to\\ninflict a burn.\\n",
+        .description = "Siniestras llamas\\nmoradas que producen\\nquemaduras.\\n",
     },
 
     [MOVE_MEMENTO] = {
         .names = {
-            .name = "Memento",
-            .capsName = "MEMENTO",
-            .fullName = "Memento",
+            .name = "Legado",
+            .capsName = "LEGADO",
+            .fullName = "Legado",
         },
         .data = {
             .effect = MOVE_EFFECT_FAINT_AND_ATK_SP_ATK_DOWN_2,
@@ -7099,14 +7099,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_ALL_SAME_JUDGE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user faints upon\\nusing this move.\\nIn return, it sharply\\nlowers the target’s\\nAttack and Sp. Atk.",
+        .description = "El usuario se debilita y\\nreduce mucho el Ataque\\ny el Ataque Especial\\ndel rival.\\n",
     },
 
     [MOVE_FACADE] = {
         .names = {
-            .name = "Facade",
-            .capsName = "FACADE",
-            .fullName = "Facade",
+            .name = "Fachada",
+            .capsName = "FACHADA",
+            .fullName = "Fachada",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_POWER_WHEN_STATUSED,
@@ -7126,14 +7126,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "An attack move that\\ndoubles its power if\\nthe user is poisoned,\\nparalyzed, or has a\\nburn.",
+        .description = "Duplica su potencia si\\nel usuario está\\nquemado, paralizado o\\nenvenenado.\\n",
     },
 
     [MOVE_FOCUS_PUNCH] = {
         .names = {
-            .name = "Focus Punch",
-            .capsName = "FOCUS PUNCH",
-            .fullName = "Focus Punch",
+            .name = "Puño Certero",
+            .capsName = "PUÑO CERTERO",
+            .fullName = "Puño Certero",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_LAST_WHIFF_IF_HIT,
@@ -7153,14 +7153,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_UNIQUE_JUDGE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user focuses its\\nmind before launching\\na punch. It will fail\\nif the user is hit\\nbefore it is used.",
+        .description = "Se concentra para dar un\\npuñetazo. Falla si\\nrecibe un golpe.\\n",
     },
 
     [MOVE_SMELLING_SALTS] = {
         .names = {
-            .name = "Smelling Salts",
-            .capsName = "SMELLING SALTS",
-            .fullName = "Smelling Salts",
+            .name = "Estímulo",
+            .capsName = "ESTÍMULO",
+            .fullName = "Estímulo",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_POWER_AND_CURE_PARALYSIS,
@@ -7180,14 +7180,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_SMART,
         },
-        .description = "This attack inflicts\\ndouble damage on a\\nparalyzed foe. It\\nalso cures the foe’s\\nparalysis, however.",
+        .description = "Hace el doble de daño a\\nun rival paralizado,\\npero le cura.\\n",
     },
 
     [MOVE_FOLLOW_ME] = {
         .names = {
-            .name = "Follow Me",
-            .capsName = "FOLLOW ME",
-            .fullName = "Follow Me",
+            .name = "Señuelo",
+            .capsName = "SEÑUELO",
+            .fullName = "Señuelo",
         },
         .data = {
             .effect = MOVE_EFFECT_MAKE_GLOBAL_TARGET,
@@ -7207,14 +7207,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_RANDOMIZE_NEXT_TURN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user draws\\nattention to itself,\\nmaking all foes take\\naim only at the user.\\n",
+        .description = "Llama la atención y\\ncentra en sí todos los\\nmovimientos rivales.\\n",
     },
 
     [MOVE_NATURE_POWER] = {
         .names = {
-            .name = "Nature Power",
-            .capsName = "NATURE POWER",
-            .fullName = "Nature Power",
+            .name = "Adaptación",
+            .capsName = "ADAPTACIÓN",
+            .fullName = "Adaptación",
         },
         .data = {
             .effect = MOVE_EFFECT_NATURE_POWER,
@@ -7234,14 +7234,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_RANDOMIZE_NEXT_TURN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "An attack that makes\\nuse of nature’s\\npower. Its effects\\nvary depending on the\\nuser’s environment.",
+        .description = "Usa el poder de la\\nnaturaleza. Su efecto\\nvaría con el entorno.\\n",
     },
 
     [MOVE_CHARGE] = {
         .names = {
-            .name = "Charge",
-            .capsName = "CHARGE",
-            .fullName = "Charge",
+            .name = "Carga",
+            .capsName = "CARGA",
+            .fullName = "Carga",
         },
         .data = {
             .effect = MOVE_EFFECT_SP_DEF_UP_DOUBLE_ELECTRIC_POWER,
@@ -7261,14 +7261,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user boosts the\\npower of the Electric\\nmove it uses next.\\nIt also raises the\\nuser’s Sp. Def stat.",
+        .description = "Recarga energía para\\npotenciar su siguiente\\nmovimiento eléctrico.\\n",
     },
 
     [MOVE_TAUNT] = {
         .names = {
-            .name = "Taunt",
-            .capsName = "TAUNT",
-            .fullName = "Taunt",
+            .name = "Mofa",
+            .capsName = "MOFA",
+            .fullName = "Mofa",
         },
         .data = {
             .effect = MOVE_EFFECT_TAUNT,
@@ -7288,14 +7288,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_SMART,
         },
-        .description = "The foe is taunted\\ninto a rage that\\nallows it to use only\\nattack moves for two\\nto four turns.",
+        .description = "Enfurece al rival para\\nque solo ataque durante\\ntres turnos.\\n",
     },
 
     [MOVE_HELPING_HAND] = {
         .names = {
-            .name = "Helping Hand",
-            .capsName = "HELPING HAND",
-            .fullName = "Helping Hand",
+            .name = "Refuerzo",
+            .capsName = "REFUERZO",
+            .fullName = "Refuerzo",
         },
         .data = {
             .effect = MOVE_EFFECT_BOOST_ALLY_POWER_BY_50_PERCENT,
@@ -7315,14 +7315,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "A move that boosts\\nthe power of the\\nally’s attack in a\\nDouble Battle.\\n",
+        .description = "Ayuda a un aliado\\nreforzando la potencia\\nde su ataque.\\n",
     },
 
     [MOVE_TRICK] = {
         .names = {
-            .name = "Trick",
-            .capsName = "TRICK",
-            .fullName = "Trick",
+            .name = "Truco",
+            .capsName = "TRUCO",
+            .fullName = "Truco",
         },
         .data = {
             .effect = MOVE_EFFECT_SWITCH_HELD_ITEMS,
@@ -7342,14 +7342,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_STEAL_VOLTAGE,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user catches the\\nfoe off guard and\\nswaps the foe’s held\\nitem with its own.\\n",
+        .description = "Engaña al rival\\ndesprevenido e\\nintercambia su objeto.\\n",
     },
 
     [MOVE_ROLE_PLAY] = {
         .names = {
-            .name = "Role Play",
-            .capsName = "ROLE PLAY",
-            .fullName = "Role Play",
+            .name = "Imitación",
+            .capsName = "IMITACIÓN",
+            .fullName = "Imitación",
         },
         .data = {
             .effect = MOVE_EFFECT_COPY_ABILITY,
@@ -7369,14 +7369,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_PITY_HEARTS,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user mimics the\\nfoe completely,\\ncopying the foe’s\\nnatural ability.\\n",
+        .description = "Imita al objetivo por\\ncompleto y copia su\\nhabilidad.\\n",
     },
 
     [MOVE_WISH] = {
         .names = {
-            .name = "Wish",
-            .capsName = "WISH",
-            .fullName = "Wish",
+            .name = "Deseo",
+            .capsName = "DESEO",
+            .fullName = "Deseo",
         },
         .data = {
             .effect = MOVE_EFFECT_HEAL_IN_3_TURNS,
@@ -7396,14 +7396,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "A self-healing move.\\nThe user restores its\\nown HP by up to half\\nof its maximum HP\\nin the next turn.",
+        .description = "Restaura PS en el\\nsiguiente turno, suyos\\no de su relevo.\\n",
     },
 
     [MOVE_ASSIST] = {
         .names = {
-            .name = "Assist",
-            .capsName = "ASSIST",
-            .fullName = "Assist",
+            .name = "Ayuda",
+            .capsName = "AYUDA",
+            .fullName = "Ayuda",
         },
         .data = {
             .effect = MOVE_EFFECT_USE_RANDOM_ALLY_MOVE,
@@ -7423,14 +7423,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_RANDOMIZE_NEXT_TURN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user hurriedly\\nand randomly uses a\\nmove among those\\nknown by other\\nPokémon in the party.",
+        .description = "Usa un movimiento de un\\nmiembro del equipo\\nelegido al azar.\\n",
     },
 
     [MOVE_INGRAIN] = {
         .names = {
-            .name = "Ingrain",
-            .capsName = "INGRAIN",
-            .fullName = "Ingrain",
+            .name = "Arraigo",
+            .capsName = "ARRAIGO",
+            .fullName = "Arraigo",
         },
         .data = {
             .effect = MOVE_EFFECT_GROUND_TRAP_USER_CONTINUOUS_HEAL,
@@ -7450,14 +7450,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LATE_BOOST,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user lays roots\\nthat restore HP on\\nevery turn.\\nBecause it is rooted,\\nit can’t switch out.",
+        .description = "Echa raíces para\\nrecuperar PS, pero no\\npuede huir ni ser\\ncambiado.\\n",
     },
 
     [MOVE_SUPERPOWER] = {
         .names = {
-            .name = "Superpower",
-            .capsName = "SUPERPOWER",
-            .fullName = "Superpower",
+            .name = "Fuerza Bruta",
+            .capsName = "FUERZA BRUTA",
+            .fullName = "Fuerza Bruta",
         },
         .data = {
             .effect = MOVE_EFFECT_USER_ATK_DEF_DOWN_HIT,
@@ -7477,14 +7477,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user attacks the\\nfoe with great power.\\nHowever, it also\\nlowers the user’s\\nAttack and Defense.",
+        .description = "Ataque de gran potencia\\nque reduce el Ataque y\\nla Defensa del usuario.\\n",
     },
 
     [MOVE_MAGIC_COAT] = {
         .names = {
-            .name = "Magic Coat",
-            .capsName = "MAGIC COAT",
-            .fullName = "Magic Coat",
+            .name = "Capa Mágica",
+            .capsName = "CAPA MÁGICA",
+            .fullName = "Capa Mágica",
         },
         .data = {
             .effect = MOVE_EFFECT_MAGIC_COAT,
@@ -7504,14 +7504,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "A barrier reflects\\nback to the foe\\nmoves like Leech\\nSeed and moves\\nthat damage status.",
+        .description = "Barrera que devuelve al\\nagresor movimientos\\ncomo Drenadoras.\\n",
     },
 
     [MOVE_RECYCLE] = {
         .names = {
-            .name = "Recycle",
-            .capsName = "RECYCLE",
-            .fullName = "Recycle",
+            .name = "Reciclaje",
+            .capsName = "RECICLAJE",
+            .fullName = "Reciclaje",
         },
         .data = {
             .effect = MOVE_EFFECT_RECYCLE,
@@ -7531,14 +7531,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_STEAL_VOLTAGE,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user recycles a\\nheld item that\\nhas been used in\\nbattle so it can be\\nused again.",
+        .description = "Recicla y recupera un\\nobjeto equipado de un\\nsolo uso ya empleado.\\n",
     },
 
     [MOVE_REVENGE] = {
         .names = {
-            .name = "Revenge",
-            .capsName = "REVENGE",
-            .fullName = "Revenge",
+            .name = "Desquite",
+            .capsName = "DESQUITE",
+            .fullName = "Desquite",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_DAMAGE_IF_HIT,
@@ -7558,14 +7558,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "An attack move that\\ninflicts double the\\ndamage if the user\\nhas been hurt by the\\nfoe in the same turn.",
+        .description = "Causa el doble de daño\\nsi el usuario resulta\\nherido en el turno.\\n",
     },
 
     [MOVE_BRICK_BREAK] = {
         .names = {
-            .name = "Brick Break",
-            .capsName = "BRICK BREAK",
-            .fullName = "Brick Break",
+            .name = "Demolición",
+            .capsName = "DEMOLICIÓN",
+            .fullName = "Demolición",
         },
         .data = {
             .effect = MOVE_EFFECT_REMOVE_SCREENS,
@@ -7585,14 +7585,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks with\\ntough fists, etc. It\\ncan also break any\\nbarrier such as Light\\nScreen and Reflect.",
+        .description = "Golpe con el filo de la\\nmano capaz de destruir\\nPantalla de Luz y\\nReflejo.\\n",
     },
 
     [MOVE_YAWN] = {
         .names = {
-            .name = "Yawn",
-            .capsName = "YAWN",
-            .fullName = "Yawn",
+            .name = "Bostezo",
+            .capsName = "BOSTEZO",
+            .fullName = "Bostezo",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_SLEEP_NEXT_TURN,
@@ -7612,14 +7612,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user lets loose a\\nhuge yawn that lulls\\nthe foe into falling\\nasleep on the next\\nturn.",
+        .description = "Gran bostezo que induce\\nel sueño en el\\nsiguiente turno.\\n",
     },
 
     [MOVE_KNOCK_OFF] = {
         .names = {
-            .name = "Knock Off",
-            .capsName = "KNOCK OFF",
-            .fullName = "Knock Off",
+            .name = "Desarme",
+            .capsName = "DESARME",
+            .fullName = "Desarme",
         },
         .data = {
             .effect = MOVE_EFFECT_REMOVE_HELD_ITEM,
@@ -7639,14 +7639,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user slaps down\\nthe foe’s held item,\\npreventing the item\\nfrom being used\\nduring the battle.",
+        .description = "Hace que el rival suelte\\nsu objeto e impide\\nusarlo. Daña más si\\nlleva uno.\\n",
     },
 
     [MOVE_ENDEAVOR] = {
         .names = {
-            .name = "Endeavor",
-            .capsName = "ENDEAVOR",
-            .fullName = "Endeavor",
+            .name = "Esfuerzo",
+            .capsName = "ESFUERZO",
+            .fullName = "Esfuerzo",
         },
         .data = {
             .effect = MOVE_EFFECT_SET_HP_EQUAL_TO_USER,
@@ -7666,14 +7666,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "An attack move that\\ncuts down the foe’s\\nHP to equal the\\nuser’s HP.\\n",
+        .description = "Reduce los PS del rival\\npara que igualen a los\\ndel usuario.\\n",
     },
 
     [MOVE_ERUPTION] = {
         .names = {
-            .name = "Eruption",
-            .capsName = "ERUPTION",
-            .fullName = "Eruption",
+            .name = "Estallido",
+            .capsName = "ESTALLIDO",
+            .fullName = "Estallido",
         },
         .data = {
             .effect = MOVE_EFFECT_DECREASE_POWER_WITH_LESS_USER_HP,
@@ -7693,14 +7693,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user attacks in\\nan explosive fury.\\nThe lower the user’s\\nHP, the less powerful\\nthis attack becomes.",
+        .description = "Furia explosiva.\\nCuantos menos PS tenga\\nel usuario, menos\\npotencia.\\n",
     },
 
     [MOVE_SKILL_SWAP] = {
         .names = {
-            .name = "Skill Swap",
-            .capsName = "SKILL SWAP",
-            .fullName = "Skill Swap",
+            .name = "Intercambio",
+            .capsName = "INTERCAMBIO",
+            .fullName = "Intercambio",
         },
         .data = {
             .effect = MOVE_EFFECT_SWITCH_ABILITIES,
@@ -7720,14 +7720,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_STEAL_VOLTAGE,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user employs its\\npsychic power to\\nexchange abilities\\nwith the foe.\\n",
+        .description = "Intercambia habilidades\\ncon el objetivo usando\\nsu poder psíquico.\\n",
     },
 
     [MOVE_IMPRISON] = {
         .names = {
-            .name = "Imprison",
-            .capsName = "IMPRISON",
-            .fullName = "Imprison",
+            .name = "Sellar",
+            .capsName = "SELLAR",
+            .fullName = "Sellar",
         },
         .data = {
             .effect = MOVE_EFFECT_MAKE_SHARED_MOVES_UNUSEABLE,
@@ -7747,14 +7747,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "If the foe knows any\\nmove also known by\\nthe user, the foe\\nis prevented\\nfrom using it.",
+        .description = "Impide a los rivales\\nusar movimientos que\\nconoce el usuario.\\n",
     },
 
     [MOVE_REFRESH] = {
         .names = {
-            .name = "Refresh",
-            .capsName = "REFRESH",
-            .fullName = "Refresh",
+            .name = "Alivio",
+            .capsName = "ALIVIO",
+            .fullName = "Alivio",
         },
         .data = {
             .effect = MOVE_EFFECT_HEAL_STATUS,
@@ -7774,14 +7774,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user rests\\nto cure itself of a\\npoisoning, burn, or\\nparalysis.\\n",
+        .description = "Descansa para curar\\nparálisis,\\nenvenenamiento o\\nquemaduras.\\n",
     },
 
     [MOVE_GRUDGE] = {
         .names = {
-            .name = "Grudge",
-            .capsName = "GRUDGE",
-            .fullName = "Grudge",
+            .name = "Rabia",
+            .capsName = "RABIA",
+            .fullName = "Rabia",
         },
         .data = {
             .effect = MOVE_EFFECT_REMOVE_ALL_PP_ON_DEFEAT,
@@ -7801,14 +7801,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOWER_VOLTAGES,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "If the user faints,\\nthe user’s grudge\\nfully depletes the PP\\nof the foe’s move\\nthat knocked it out.",
+        .description = "Si el usuario se\\ndebilita, se eliminan\\ntodos los PP de ese\\nataque.\\n",
     },
 
     [MOVE_SNATCH] = {
         .names = {
-            .name = "Snatch",
-            .capsName = "SNATCH",
-            .fullName = "Snatch",
+            .name = "Robo",
+            .capsName = "ROBO",
+            .fullName = "Robo",
         },
         .data = {
             .effect = MOVE_EFFECT_STEAL_STATUS_MOVE,
@@ -7828,14 +7828,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_STEAL_VOLTAGE,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user steals the\\neffects of any\\nhealing or stat-\\nchanging move the foe\\nattempts to use.",
+        .description = "Roba el efecto de los\\nmovimientos de curación\\no de cambio de\\ncaracterísticas.\\n",
     },
 
     [MOVE_SECRET_POWER] = {
         .names = {
-            .name = "Secret Power",
-            .capsName = "SECRET POWER",
-            .fullName = "Secret Power",
+            .name = "Daño Secreto",
+            .capsName = "DAÑO SECRETO",
+            .fullName = "Daño Secreto",
         },
         .data = {
             .effect = MOVE_EFFECT_SECRET_POWER,
@@ -7855,14 +7855,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_RANDOMIZE_NEXT_TURN,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user attacks with\\na secret power. Its\\nadded effects vary\\ndepending on the\\nuser’s environment.",
+        .description = "Sus efectos secundarios\\nvarían según el entorno\\nde combate.\\n",
     },
 
     [MOVE_DIVE] = {
         .names = {
-            .name = "Dive",
-            .capsName = "DIVE",
-            .fullName = "Dive",
+            .name = "Buceo",
+            .capsName = "BUCEO",
+            .fullName = "Buceo",
         },
         .data = {
             .effect = MOVE_EFFECT_DIVE,
@@ -7882,14 +7882,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_UNIQUE_JUDGE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "A two-turn attack.\\nThe user dives\\nunderwater on the\\nfirst turn, then hits\\non the next turn.",
+        .description = "Se sumerge en el primer\\nturno y ataca en el\\nsegundo.\\n",
     },
 
     [MOVE_ARM_THRUST] = {
         .names = {
-            .name = "Arm Thrust",
-            .capsName = "ARM THRUST",
-            .fullName = "Arm Thrust",
+            .name = "Empujón",
+            .capsName = "EMPUJÓN",
+            .fullName = "Empujón",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -7909,14 +7909,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user looses a\\nflurry of open-palmed\\narm thrusts that hit\\ntwo to five times in a\\nrow.",
+        .description = "Golpea con la palma de\\ndos a cinco veces\\nseguidas.\\n",
     },
 
     [MOVE_CAMOUFLAGE] = {
         .names = {
-            .name = "Camouflage",
-            .capsName = "CAMOUFLAGE",
-            .fullName = "Camouflage",
+            .name = "Camuflaje",
+            .capsName = "CAMUFLAJE",
+            .fullName = "Camuflaje",
         },
         .data = {
             .effect = MOVE_EFFECT_CAMOUFLAGE,
@@ -7936,14 +7936,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user’s type is\\nchanged depending on\\nits environment, such\\nas at water’s edge, in\\ngrass, or in a cave.",
+        .description = "Modifica su tipo según\\nel terreno de combate.\\n",
     },
 
     [MOVE_TAIL_GLOW] = {
         .names = {
-            .name = "Tail Glow",
-            .capsName = "TAIL GLOW",
-            .fullName = "Tail Glow",
+            .name = "Luminicola",
+            .capsName = "LUMINICOLA",
+            .fullName = "Luminicola",
         },
         .data = {
             .effect = MOVE_EFFECT_SP_ATK_UP_3,
@@ -7963,14 +7963,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user stares at\\nflashing lights to\\nfocus its mind,\\nsharply raising its\\nSp. Atk stat.",
+        .description = "Se concentra mirando la\\nluz y aumenta muchísimo\\nsu Ataque Especial.\\n",
     },
 
     [MOVE_LUSTER_PURGE] = {
         .names = {
-            .name = "Luster Purge",
-            .capsName = "LUSTER PURGE",
-            .fullName = "Luster Purge",
+            .name = "Resplandor",
+            .capsName = "RESPLANDOR",
+            .fullName = "Resplandor",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_HIT,
@@ -7990,14 +7990,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user looses a\\ndamaging burst of\\nlight. It may also\\nreduce the target’s\\nSp. Def stat.",
+        .description = "Fogonazo de luz que\\npuede reducir la\\nDefensa Especial.\\n",
     },
 
     [MOVE_MIST_BALL] = {
         .names = {
-            .name = "Mist Ball",
-            .capsName = "MIST BALL",
-            .fullName = "Mist Ball",
+            .name = "Bola Neblina",
+            .capsName = "BOLA NEBLINA",
+            .fullName = "Bola Neblina",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_ATK_HIT,
@@ -8017,14 +8017,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "A mistlike flurry of\\ndown envelops and\\ndamages the foe. It\\nmay also lower the\\ntarget’s Sp. Atk.",
+        .description = "Bola de plumas\\nneblinosas que puede\\nbajar el Ataque\\nEspecial.\\n",
     },
 
     [MOVE_FEATHER_DANCE] = {
         .names = {
-            .name = "Feather Dance",
-            .capsName = "FEATHER DANCE",
-            .fullName = "Feather Dance",
+            .name = "Danza Pluma",
+            .capsName = "DANZA PLUMA",
+            .fullName = "Danza Pluma",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_DOWN_2,
@@ -8044,14 +8044,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user covers the\\nfoe with a mass of\\ndown that sharply\\nlowers the Attack\\nstat.",
+        .description = "Envuelve al rival con un\\nmanto de plumas y baja\\nmucho su Ataque.\\n",
     },
 
     [MOVE_TEETER_DANCE] = {
         .names = {
-            .name = "Teeter Dance",
-            .capsName = "TEETER DANCE",
-            .fullName = "Teeter Dance",
+            .name = "Danza Caos",
+            .capsName = "DANZA CAOS",
+            .fullName = "Danza Caos",
         },
         .data = {
             .effect = MOVE_EFFECT_CONFUSE_ALL_ADJACENT,
@@ -8071,14 +8071,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_RANDOMIZE_NEXT_TURN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user performs a\\nwobbly dance that\\nconfuses all the\\nPokémon in battle.\\n",
+        .description = "Danza histérica que\\nconfunde a los Pokémon\\nadyacentes.\\n",
     },
 
     [MOVE_BLAZE_KICK] = {
         .names = {
-            .name = "Blaze Kick",
-            .capsName = "BLAZE KICK",
-            .fullName = "Blaze Kick",
+            .name = "Patada Ígnea",
+            .capsName = "PATADA ÍGNEA",
+            .fullName = "Patada Ígnea",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL_BURN_HIT,
@@ -8098,14 +8098,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user launches a\\nkick with a high\\ncritical-hit ratio.\\nIt may also leave the\\ntarget with a burn.",
+        .description = "Patada que suele ser\\ncrítica y puede causar\\nquemaduras.\\n",
     },
 
     [MOVE_MUD_SPORT] = {
         .names = {
-            .name = "Mud Sport",
-            .capsName = "MUD SPORT",
-            .fullName = "Mud Sport",
+            .name = "Chap. Lodo",
+            .capsName = "CHAP. LODO",
+            .fullName = "Chapoteo Lodo",
         },
         .data = {
             .effect = MOVE_EFFECT_HALVE_ELECTRIC_DAMAGE,
@@ -8125,14 +8125,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user covers\\nitself with mud. It\\nweakens Electric-\\ntype moves while the\\nuser is in the battle.",
+        .description = "Esparce lodo y debilita\\nlos movimientos\\neléctricos durante 5\\nturnos.\\n",
     },
 
     [MOVE_ICE_BALL] = {
         .names = {
-            .name = "Ice Ball",
-            .capsName = "ICE BALL",
-            .fullName = "Ice Ball",
+            .name = "Bola Hielo",
+            .capsName = "BOLA HIELO",
+            .fullName = "Bola Hielo",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_POWER_EACH_TURN_LOCK_INTO,
@@ -8152,14 +8152,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user continually\\nrolls into the foe\\nover five turns. It\\nbecomes stronger\\neach time it hits.",
+        .description = "Rueda contra el rival\\ndurante 5 turnos, cada\\nvez con más fuerza.\\n",
     },
 
     [MOVE_NEEDLE_ARM] = {
         .names = {
-            .name = "Needle Arm",
-            .capsName = "NEEDLE ARM",
-            .fullName = "Needle Arm",
+            .name = "Brazo Pincho",
+            .capsName = "BRAZO PINCHO",
+            .fullName = "Brazo Pincho",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -8179,14 +8179,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user attacks by\\nwildly swinging its\\nthorny arms.\\nIt may also make the\\ntarget flinch.",
+        .description = "Pega con brazos de\\npinchos y puede hacer\\nretroceder al rival.\\n",
     },
 
     [MOVE_SLACK_OFF] = {
         .names = {
-            .name = "Slack Off",
-            .capsName = "SLACK OFF",
-            .fullName = "Slack Off",
+            .name = "Relajo",
+            .capsName = "RELAJO",
+            .fullName = "Relajo",
         },
         .data = {
             .effect = MOVE_EFFECT_RESTORE_HALF_HP,
@@ -8206,14 +8206,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user slacks off,\\nrestoring its own HP\\nby up to half of its\\nmaximum HP.\\n",
+        .description = "Se relaja y restaura la\\nmitad de sus PS\\nmáximos.\\n",
     },
 
     [MOVE_HYPER_VOICE] = {
         .names = {
-            .name = "Hyper Voice",
-            .capsName = "HYPER VOICE",
-            .fullName = "Hyper Voice",
+            .name = "Vozarrón",
+            .capsName = "VOZARRÓN",
+            .fullName = "Vozarrón",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -8233,14 +8233,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user lets loose\\na horribly echoing\\nshout with the\\npower to inflict\\ndamage.",
+        .description = "Grito desgarrador que\\ninflige daño al\\nobjetivo.\\n",
     },
 
     [MOVE_POISON_FANG] = {
         .names = {
-            .name = "Poison Fang",
-            .capsName = "POISON FANG",
-            .fullName = "Poison Fang",
+            .name = "Colm.Veneno",
+            .capsName = "COLM.VENENO",
+            .fullName = "Colmillo Veneno",
         },
         .data = {
             .effect = MOVE_EFFECT_BADLY_POISON_HIT,
@@ -8260,14 +8260,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user bites the\\nfoe with toxic fangs.\\nIt may also leave the\\nfoe badly poisoned.\\n",
+        .description = "Mordedura con colmillos\\nvenenosos que puede\\nenvenenar gravemente.\\n",
     },
 
     [MOVE_CRUSH_CLAW] = {
         .names = {
-            .name = "Crush Claw",
-            .capsName = "CRUSH CLAW",
-            .fullName = "Crush Claw",
+            .name = "Garra Brutal",
+            .capsName = "GARRA BRUTAL",
+            .fullName = "Garra Brutal",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_DEFENSE_HIT,
@@ -8287,14 +8287,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user slashes the\\nfoe with hard and\\nsharp claws.\\nIt may also lower the\\ntarget’s Defense.",
+        .description = "Hace trizas con garras\\nafiladas y puede\\nreducir la Defensa.\\n",
     },
 
     [MOVE_BLAST_BURN] = {
         .names = {
-            .name = "Blast Burn",
-            .capsName = "BLAST BURN",
-            .fullName = "Blast Burn",
+            .name = "Anillo Ígneo",
+            .capsName = "ANILLO ÍGNEO",
+            .fullName = "Anillo Ígneo",
         },
         .data = {
             .effect = MOVE_EFFECT_RECHARGE_AFTER,
@@ -8314,14 +8314,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The foe is razed by\\na fiery explosion.\\nThe user must rest\\non the next turn,\\nhowever.",
+        .description = "Calcina con una\\nexplosión de fuego.\\nEl usuario debe\\ndescansar después.\\n",
     },
 
     [MOVE_HYDRO_CANNON] = {
         .names = {
-            .name = "Hydro Cannon",
-            .capsName = "HYDRO CANNON",
-            .fullName = "Hydro Cannon",
+            .name = "Hidrocañón",
+            .capsName = "HIDROCAÑÓN",
+            .fullName = "Hidrocañón",
         },
         .data = {
             .effect = MOVE_EFFECT_RECHARGE_AFTER,
@@ -8341,14 +8341,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The foe is hit with\\na watery blast.\\nThe user must rest\\non the next turn,\\nhowever.",
+        .description = "Cañonazo de agua.\\nEl usuario debe\\ndescansar en el turno\\nsiguiente.\\n",
     },
 
     [MOVE_METEOR_MASH] = {
         .names = {
-            .name = "Meteor Mash",
-            .capsName = "METEOR MASH",
-            .fullName = "Meteor Mash",
+            .name = "Puño Meteoro",
+            .capsName = "PUÑO METEORO",
+            .fullName = "Puño Meteoro",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_ATTACK_HIT,
@@ -8368,14 +8368,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is hit with a\\nhard punch fired\\nlike a meteor.\\nIt may also raise\\nthe user’s Attack.",
+        .description = "Puñetazo que impacta\\ncomo un meteoro y puede\\nsubir el Ataque.\\n",
     },
 
     [MOVE_ASTONISH] = {
         .names = {
-            .name = "Astonish",
-            .capsName = "ASTONISH",
-            .fullName = "Astonish",
+            .name = "Impresionar",
+            .capsName = "IMPRESIONAR",
+            .fullName = "Impresionar",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -8395,14 +8395,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user attacks the\\nfoe while shouting in\\na startling fashion.\\nIt may also make the\\ntarget flinch.",
+        .description = "Asusta al objetivo y le\\ngolpea. Puede\\namedrentarlo.\\n",
     },
 
     [MOVE_WEATHER_BALL] = {
         .names = {
-            .name = "Weather Ball",
-            .capsName = "WEATHER BALL",
-            .fullName = "Weather Ball",
+            .name = "Meteorobola",
+            .capsName = "METEOROBOLA",
+            .fullName = "Meteorobola",
         },
         .data = {
             .effect = MOVE_EFFECT_CHANGE_TYPE_WITH_WEATHER,
@@ -8422,14 +8422,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "An attack move that\\nvaries in power and\\ntype depending on\\nthe weather.\\n",
+        .description = "El tipo y la potencia\\nvarían según el tiempo\\nque haga.\\n",
     },
 
     [MOVE_AROMATHERAPY] = {
         .names = {
-            .name = "Aromatherapy",
-            .capsName = "AROMATHERAPY",
-            .fullName = "Aromatherapy",
+            .name = "Aromaterapia",
+            .capsName = "AROMATERAPIA",
+            .fullName = "Aromaterapia",
         },
         .data = {
             .effect = MOVE_EFFECT_CURE_PARTY_STATUS,
@@ -8449,14 +8449,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user releases a\\nsoothing scent that\\nheals all status\\nproblems affecting\\nthe user’s party.",
+        .description = "Cura todos los\\nproblemas de estado del\\nequipo con un suave\\naroma.\\n",
     },
 
     [MOVE_FAKE_TEARS] = {
         .names = {
-            .name = "Fake Tears",
-            .capsName = "FAKE TEARS",
-            .fullName = "Fake Tears",
+            .name = "Llanto Falso",
+            .capsName = "LLANTO FALSO",
+            .fullName = "Llanto Falso",
         },
         .data = {
             .effect = MOVE_EFFECT_SP_DEF_DOWN_2,
@@ -8476,14 +8476,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user feigns\\ncrying to make the\\nfoe feel flustered,\\nsharply lowering its\\nSp. Def stat.",
+        .description = "Lágrimas de cocodrilo\\nque reducen mucho la\\nDefensa Especial.\\n",
     },
 
     [MOVE_AIR_CUTTER] = {
         .names = {
-            .name = "Air Cutter",
-            .capsName = "AIR CUTTER",
-            .fullName = "Air Cutter",
+            .name = "Aire Afilado",
+            .capsName = "AIRE AFILADO",
+            .fullName = "Aire Afilado",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -8503,14 +8503,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user launches\\nrazorlike wind to\\nslash the foe.\\nIt has a high\\ncritical-hit ratio.",
+        .description = "Viento cortante que\\nazota. Suele asestar un\\ngolpe crítico.\\n",
     },
 
     [MOVE_OVERHEAT] = {
         .names = {
-            .name = "Overheat",
-            .capsName = "OVERHEAT",
-            .fullName = "Overheat",
+            .name = "Sofoco",
+            .capsName = "SOFOCO",
+            .fullName = "Sofoco",
         },
         .data = {
             .effect = MOVE_EFFECT_USER_SP_ATK_DOWN_2,
@@ -8530,14 +8530,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user attacks the\\nfoe at full power.\\nThe attack’s recoil\\nsharply reduces the\\nuser’s Sp. Atk stat.",
+        .description = "Ataca con toda su\\nfuerza, pero reduce\\nmucho su Ataque\\nEspecial.\\n",
     },
 
     [MOVE_ODOR_SLEUTH] = {
         .names = {
-            .name = "Odor Sleuth",
-            .capsName = "ODOR SLEUTH",
-            .fullName = "Odor Sleuth",
+            .name = "Rastreo",
+            .capsName = "RASTREO",
+            .fullName = "Rastreo",
         },
         .data = {
             .effect = MOVE_EFFECT_IGNORE_EVASION_REMOVE_GHOST_IMMUNE,
@@ -8557,14 +8557,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Enables the user to\\nhit a Ghost type with\\nany type of move. It\\nalso enables the user\\nto hit an evasive foe.",
+        .description = "Permite golpear a\\nPokémon de tipo\\nFantasma y a los\\nevasivos.\\n",
     },
 
     [MOVE_ROCK_TOMB] = {
         .names = {
-            .name = "Rock Tomb",
-            .capsName = "ROCK TOMB",
-            .fullName = "Rock Tomb",
+            .name = "Tumba Rocas",
+            .capsName = "TUMBA ROCAS",
+            .fullName = "Tumba Rocas",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SPEED_HIT,
@@ -8584,14 +8584,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_NEXT_TURN,
             .contestType = CONTEST_SMART,
         },
-        .description = "Boulders are hurled\\nat the foe. It also\\nlowers the foe’s\\nSpeed by preventing\\nits movement.",
+        .description = "Lanza rocas que dañan y\\nreducen la Velocidad\\ndel objetivo.\\n",
     },
 
     [MOVE_SILVER_WIND] = {
         .names = {
-            .name = "Silver Wind",
-            .capsName = "SILVER WIND",
-            .fullName = "Silver Wind",
+            .name = "Viento Plata",
+            .capsName = "VIENTO PLATA",
+            .fullName = "Viento Plata",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_ALL_STATS_HIT,
@@ -8611,14 +8611,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The foe is attacked\\nwith powdery scales\\nblown by wind.\\nIt may also raise all\\nthe user’s stats.",
+        .description = "Viento con polvo de\\nescamas que puede subir\\ntodas las\\ncaracterísticas.\\n",
     },
 
     [MOVE_METAL_SOUND] = {
         .names = {
-            .name = "Metal Sound",
-            .capsName = "METAL SOUND",
-            .fullName = "Metal Sound",
+            .name = "Eco Metálico",
+            .capsName = "ECO METÁLICO",
+            .fullName = "Eco Metálico",
         },
         .data = {
             .effect = MOVE_EFFECT_SP_DEF_DOWN_2,
@@ -8638,14 +8638,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOWER_VOLTAGES,
             .contestType = CONTEST_SMART,
         },
-        .description = "A horrible sound like\\nscraping metal is\\nemitted to sharply\\nreduce the foe’s\\nSp. Def stat.",
+        .description = "Chirrido metálico que\\nreduce mucho la\\nDefensa Especial.\\n",
     },
 
     [MOVE_GRASS_WHISTLE] = {
         .names = {
-            .name = "Grass Whistle",
-            .capsName = "GRASS WHISTLE",
-            .fullName = "Grass Whistle",
+            .name = "Silbato",
+            .capsName = "SILBATO",
+            .fullName = "Silbato",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_SLEEP,
@@ -8665,14 +8665,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user plays a\\npleasant melody that\\nlulls the foe into a\\ndeep sleep.\\n",
+        .description = "Agradable melodía que\\nadormece al objetivo.\\n",
     },
 
     [MOVE_TICKLE] = {
         .names = {
-            .name = "Tickle",
-            .capsName = "TICKLE",
-            .fullName = "Tickle",
+            .name = "Cosquillas",
+            .capsName = "COSQUILLAS",
+            .fullName = "Cosquillas",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_DEF_DOWN,
@@ -8692,14 +8692,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user tickles the\\nfoe into laughing,\\nreducing its Attack\\nand Defense stats.\\n",
+        .description = "Hace reír al rival para\\nreducir su Ataque y su\\nDefensa.\\n",
     },
 
     [MOVE_COSMIC_POWER] = {
         .names = {
-            .name = "Cosmic Power",
-            .capsName = "COSMIC POWER",
-            .fullName = "Cosmic Power",
+            .name = "Masa Cósmica",
+            .capsName = "MASA CÓSMICA",
+            .fullName = "Masa Cósmica",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_SP_DEF_UP,
@@ -8719,14 +8719,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user absorbs a\\nmystical power from\\nspace to raise its\\nDefense and Sp. Def\\nstats.",
+        .description = "Energía mística del\\nespacio que sube la\\nDefensa y la Defensa\\nEspecial.\\n",
     },
 
     [MOVE_WATER_SPOUT] = {
         .names = {
-            .name = "Water Spout",
-            .capsName = "WATER SPOUT",
-            .fullName = "Water Spout",
+            .name = "Salpicar",
+            .capsName = "SALPICAR",
+            .fullName = "Salpicar",
         },
         .data = {
             .effect = MOVE_EFFECT_DECREASE_POWER_WITH_LESS_USER_HP,
@@ -8746,14 +8746,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user spouts\\nwater to damage the\\nfoe. The lower the\\nuser’s HP, the less\\npowerful it becomes.",
+        .description = "Chorro de agua.\\nCuantos menos PS tenga\\nel usuario, menos\\npotencia.\\n",
     },
 
     [MOVE_SIGNAL_BEAM] = {
         .names = {
-            .name = "Signal Beam",
-            .capsName = "SIGNAL BEAM",
-            .fullName = "Signal Beam",
+            .name = "Rayo Señal",
+            .capsName = "RAYO SEÑAL",
+            .fullName = "Rayo Señal",
         },
         .data = {
             .effect = MOVE_EFFECT_CONFUSE_HIT,
@@ -8773,14 +8773,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user attacks with\\na sinister beam of\\nlight. It may also\\nconfuse the target.\\n",
+        .description = "Rayo de luz siniestro\\nque puede confundir al\\nobjetivo.\\n",
     },
 
     [MOVE_SHADOW_PUNCH] = {
         .names = {
-            .name = "Shadow Punch",
-            .capsName = "SHADOW PUNCH",
-            .fullName = "Shadow Punch",
+            .name = "Puño Sombra",
+            .capsName = "PUÑO SOMBRA",
+            .fullName = "Puño Sombra",
         },
         .data = {
             .effect = MOVE_EFFECT_BYPASS_ACCURACY,
@@ -8800,14 +8800,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user throws a\\npunch at the foe from\\nthe shadows.\\nThe punch lands\\nwithout fail.",
+        .description = "Puñetazo procedente de\\nlas sombras que no\\nfalla nunca.\\n",
     },
 
     [MOVE_EXTRASENSORY] = {
         .names = {
-            .name = "Extrasensory",
-            .capsName = "EXTRASENSORY",
-            .fullName = "Extrasensory",
+            .name = "Paranormal",
+            .capsName = "PARANORMAL",
+            .fullName = "Paranormal",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -8827,14 +8827,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks with\\nan odd, unseeable\\npower.\\nIt may also make the\\nfoe flinch.",
+        .description = "Emite una energía muy\\nextraña que puede\\namedrentar al rival.\\n",
     },
 
     [MOVE_SKY_UPPERCUT] = {
         .names = {
-            .name = "Sky Uppercut",
-            .capsName = "SKY UPPERCUT",
-            .fullName = "Sky Uppercut",
+            .name = "Gancho Alto",
+            .capsName = "GANCHO ALTO",
+            .fullName = "Gancho Alto",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_FLY,
@@ -8854,14 +8854,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks the\\nfoe with an uppercut\\nthrown skyward\\nwith force.\\n",
+        .description = "Gancho ascendente de\\ngran ímpetu.\\n",
     },
 
     [MOVE_SAND_TOMB] = {
         .names = {
-            .name = "Sand Tomb",
-            .capsName = "SAND TOMB",
-            .fullName = "Sand Tomb",
+            .name = "Bucle Arena",
+            .capsName = "BUCLE ARENA",
+            .fullName = "Bucle Arena",
         },
         .data = {
             .effect = MOVE_EFFECT_BIND_HIT,
@@ -8881,14 +8881,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LATE_BOOST,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user traps the\\nfoe inside a harshly\\nraging sandstorm for\\ntwo to five turns.\\n",
+        .description = "Envuelve al rival en un\\nremolino de arena que\\ndaña de cuatro a cinco\\nturnos.\\n",
     },
 
     [MOVE_SHEER_COLD] = {
         .names = {
-            .name = "Sheer Cold",
-            .capsName = "SHEER COLD",
-            .fullName = "Sheer Cold",
+            .name = "Frío Polar",
+            .capsName = "FRÍO POLAR",
+            .fullName = "Frío Polar",
         },
         .data = {
             .effect = MOVE_EFFECT_ONE_HIT_KO,
@@ -8908,14 +8908,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_ALL_SAME_JUDGE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The foe is attacked\\nwith a blast of\\nabsolute-zero cold.\\nThe foe instantly\\nfaints if it hits.",
+        .description = "Fulmina de un solo\\ngolpe. Si el usuario no\\nes de tipo Hielo, es\\ndifícil que acierte.\\n",
     },
 
     [MOVE_MUDDY_WATER] = {
         .names = {
-            .name = "Muddy Water",
-            .capsName = "MUDDY WATER",
-            .fullName = "Muddy Water",
+            .name = "Agua Lodosa",
+            .capsName = "AGUA LODOSA",
+            .fullName = "Agua Lodosa",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_ACCURACY_HIT,
@@ -8935,14 +8935,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user attacks by\\nshooting out muddy\\nwater.\\nIt may also lower the\\nfoe’s accuracy.",
+        .description = "Agua lodosa que puede\\nreducir la Precisión\\ndel objetivo.\\n",
     },
 
     [MOVE_BULLET_SEED] = {
         .names = {
-            .name = "Bullet Seed",
-            .capsName = "BULLET SEED",
-            .fullName = "Bullet Seed",
+            .name = "Semilladora",
+            .capsName = "SEMILLADORA",
+            .fullName = "Semilladora",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -8962,14 +8962,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user forcefully\\nshoots seeds at the\\nfoe. Two to five\\nseeds are shot in\\nrapid succession.",
+        .description = "Dispara rápidas ráfagas\\nde semillas de dos a\\ncinco veces.\\n",
     },
 
     [MOVE_AERIAL_ACE] = {
         .names = {
-            .name = "Aerial Ace",
-            .capsName = "AERIAL ACE",
-            .fullName = "Aerial Ace",
+            .name = "Golpe Aéreo",
+            .capsName = "GOLPE AÉREO",
+            .fullName = "Golpe Aéreo",
         },
         .data = {
             .effect = MOVE_EFFECT_BYPASS_ACCURACY,
@@ -8989,14 +8989,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user confounds\\nthe foe with speed,\\nthen slashes.\\nThe attack lands\\nwithout fail.",
+        .description = "Movimientos rápidos que\\ndesconciertan. No falla\\nnunca.\\n",
     },
 
     [MOVE_ICICLE_SPEAR] = {
         .names = {
-            .name = "Icicle Spear",
-            .capsName = "ICICLE SPEAR",
-            .fullName = "Icicle Spear",
+            .name = "Carámbano",
+            .capsName = "CARÁMBANO",
+            .fullName = "Carámbano",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -9016,14 +9016,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user launches\\nsharp icicles at the\\nfoe. It strikes two\\nto five times in a\\nrow.",
+        .description = "Lanza carámbanos\\nafilados de dos a cinco\\nveces seguidas.\\n",
     },
 
     [MOVE_IRON_DEFENSE] = {
         .names = {
-            .name = "Iron Defense",
-            .capsName = "IRON DEFENSE",
-            .fullName = "Iron Defense",
+            .name = "Def. Férrea",
+            .capsName = "DEF. FÉRREA",
+            .fullName = "Defensa Férrea",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_UP_2,
@@ -9043,14 +9043,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user hardens\\nits body’s surface\\nlike iron, sharply\\nraising its Defense\\nstat.",
+        .description = "Fortalece su cuerpo como\\nsi fuera de hierro y\\nsube mucho la Defensa.\\n",
     },
 
     [MOVE_BLOCK] = {
         .names = {
-            .name = "Block",
-            .capsName = "BLOCK",
-            .fullName = "Block",
+            .name = "Bloqueo",
+            .capsName = "BLOQUEO",
+            .fullName = "Bloqueo",
         },
         .data = {
             .effect = MOVE_EFFECT_PREVENT_ESCAPE,
@@ -9070,14 +9070,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user blocks the\\nfoe’s way with arms\\nspread wide to\\nprevent escape.\\n",
+        .description = "Le corta el paso al\\nrival para que no pueda\\nhuir ni ser cambiado.\\n",
     },
 
     [MOVE_HOWL] = {
         .names = {
-            .name = "Howl",
-            .capsName = "HOWL",
-            .fullName = "Howl",
+            .name = "Aullido",
+            .capsName = "AULLIDO",
+            .fullName = "Aullido",
         },
         .data = {
             .effect = MOVE_EFFECT_HOWL,
@@ -9097,14 +9097,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user howls loudly\\nto raise its spirit,\\nboosting its Attack\\nstat.\\n",
+        .description = "Aullido que sube el\\nánimo y aumenta el\\nAtaque.\\n",
     },
 
     [MOVE_DRAGON_CLAW] = {
         .names = {
-            .name = "Dragon Claw",
-            .capsName = "DRAGON CLAW",
-            .fullName = "Dragon Claw",
+            .name = "Garra Dragón",
+            .capsName = "GARRA DRAGÓN",
+            .fullName = "Garra Dragón",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -9124,14 +9124,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user slashes the\\nfoe with huge, sharp\\nclaws.\\n\\n",
+        .description = "Araña al objetivo con\\nunas enormes garras\\nafiladas.\\n",
     },
 
     [MOVE_FRENZY_PLANT] = {
         .names = {
-            .name = "Frenzy Plant",
-            .capsName = "FRENZY PLANT",
-            .fullName = "Frenzy Plant",
+            .name = "Planta Feroz",
+            .capsName = "PLANTA FEROZ",
+            .fullName = "Planta Feroz",
         },
         .data = {
             .effect = MOVE_EFFECT_RECHARGE_AFTER,
@@ -9151,14 +9151,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is slammed\\nwith an enormous\\ntree.\\nThe user can’t move\\non the next turn.",
+        .description = "Golpea con una enorme\\nplanta. El usuario debe\\ndescansar después.\\n",
     },
 
     [MOVE_BULK_UP] = {
         .names = {
-            .name = "Bulk Up",
-            .capsName = "BULK UP",
-            .fullName = "Bulk Up",
+            .name = "Corpulencia",
+            .capsName = "CORPULENCIA",
+            .fullName = "Corpulencia",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_DEF_UP,
@@ -9178,14 +9178,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user tenses its\\nmuscles to bulk up\\nits body, boosting\\nboth its Attack and\\nDefense stats.",
+        .description = "Robustece el cuerpo\\npara aumentar el Ataque\\ny la Defensa.\\n",
     },
 
     [MOVE_BOUNCE] = {
         .names = {
-            .name = "Bounce",
-            .capsName = "BOUNCE",
-            .fullName = "Bounce",
+            .name = "Bote",
+            .capsName = "BOTE",
+            .fullName = "Bote",
         },
         .data = {
             .effect = MOVE_EFFECT_BOUNCE,
@@ -9205,14 +9205,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_UNIQUE_JUDGE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user bounces up\\nhigh, then drops on\\nthe foe on the second\\nturn. It may also\\nparalyze the foe.",
+        .description = "Bota en el primer turno\\ny golpea en el segundo.\\nPuede paralizar.\\n",
     },
 
     [MOVE_MUD_SHOT] = {
         .names = {
-            .name = "Mud Shot",
-            .capsName = "MUD SHOT",
-            .fullName = "Mud Shot",
+            .name = "Disparo Lodo",
+            .capsName = "DISPARO LODO",
+            .fullName = "Disparo Lodo",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SPEED_HIT,
@@ -9232,14 +9232,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_NEXT_TURN,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user attacks by\\nhurling a blob of mud\\nat the foe.\\nIt also reduces the\\ntarget’s Speed.",
+        .description = "Lanza una bola de lodo\\nque también reduce la\\nVelocidad.\\n",
     },
 
     [MOVE_POISON_TAIL] = {
         .names = {
-            .name = "Poison Tail",
-            .capsName = "POISON TAIL",
-            .fullName = "Poison Tail",
+            .name = "Cola Veneno",
+            .capsName = "COLA VENENO",
+            .fullName = "Cola Veneno",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL_POISON_HIT,
@@ -9259,14 +9259,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "An attack with a\\nhigh critical-hit\\nratio. This tail \\nattack may also \\npoison the foe.",
+        .description = "Golpe con la cola que\\npuede envenenar. Suele\\nser crítico.\\n",
     },
 
     [MOVE_COVET] = {
         .names = {
-            .name = "Covet",
-            .capsName = "COVET",
-            .fullName = "Covet",
+            .name = "Antojo",
+            .capsName = "ANTOJO",
+            .fullName = "Antojo",
         },
         .data = {
             .effect = MOVE_EFFECT_STEAL_HELD_ITEM,
@@ -9286,14 +9286,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_STEAL_VOLTAGE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user endearingly\\napproaches the foe,\\nthen steals the item\\nthe foe is holding.\\n",
+        .description = "Se acerca con ternura y\\nle roba el objeto al\\nrival.\\n",
     },
 
     [MOVE_VOLT_TACKLE] = {
         .names = {
-            .name = "Volt Tackle",
-            .capsName = "VOLT TACKLE",
-            .fullName = "Volt Tackle",
+            .name = "Volt Placaje",
+            .capsName = "VOLT PLACAJE",
+            .fullName = "Placaje Eléctrico",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOIL_PARALYZE_HIT,
@@ -9313,14 +9313,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user electrifies\\nitself, then charges\\nat the foe. It causes\\nconsiderable damage\\nto the user as well.",
+        .description = "Se electrifica y ataca,\\npero se hiere\\nseriamente. Puede\\nparalizar.\\n",
     },
 
     [MOVE_MAGICAL_LEAF] = {
         .names = {
-            .name = "Magical Leaf",
-            .capsName = "MAGICAL LEAF",
-            .fullName = "Magical Leaf",
+            .name = "Hoja Mágica",
+            .capsName = "HOJA MÁGICA",
+            .fullName = "Hoja Mágica",
         },
         .data = {
             .effect = MOVE_EFFECT_BYPASS_ACCURACY,
@@ -9340,14 +9340,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user scatters\\ncurious leaves that\\nchase the foe.\\nThis attack will not\\nmiss.",
+        .description = "Extrañas hojas que\\npersiguen al objetivo.\\nNo falla nunca.\\n",
     },
 
     [MOVE_WATER_SPORT] = {
         .names = {
-            .name = "Water Sport",
-            .capsName = "WATER SPORT",
-            .fullName = "Water Sport",
+            .name = "Hidrochorro",
+            .capsName = "HIDROCHORRO",
+            .fullName = "Hidrochorro",
         },
         .data = {
             .effect = MOVE_EFFECT_HALVE_FIRE_DAMAGE,
@@ -9367,14 +9367,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user soaks itself\\nwith water. The move\\nweakens Fire-type\\nmoves while the user\\nis in the battle.",
+        .description = "Se empapa de agua y\\ndebilita los\\nmovimientos de fuego\\ndurante 5 turnos.\\n",
     },
 
     [MOVE_CALM_MIND] = {
         .names = {
-            .name = "Calm Mind",
-            .capsName = "CALM MIND",
-            .fullName = "Calm Mind",
+            .name = "Paz Mental",
+            .capsName = "PAZ MENTAL",
+            .fullName = "Paz Mental",
         },
         .data = {
             .effect = MOVE_EFFECT_SP_ATK_SP_DEF_UP,
@@ -9394,14 +9394,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user quietly\\nfocuses its mind and\\ncalms its spirit to\\nraise its Sp. Atk and\\nSp. Def stats.",
+        .description = "Mejora la concentración\\ny calma el espíritu para\\nsubir el Ataque y la\\nDefensa Especial.\\n",
     },
 
     [MOVE_LEAF_BLADE] = {
         .names = {
-            .name = "Leaf Blade",
-            .capsName = "LEAF BLADE",
-            .fullName = "Leaf Blade",
+            .name = "Hoja Aguda",
+            .capsName = "HOJA AGUDA",
+            .fullName = "Hoja Aguda",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -9421,14 +9421,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is slashed\\nwith a sharp leaf.\\nIt has a high\\ncritical-hit ratio.\\n",
+        .description = "Acuchilla con una hoja\\nfina. Suele asestar un\\ngolpe crítico.\\n",
     },
 
     [MOVE_DRAGON_DANCE] = {
         .names = {
-            .name = "Dragon Dance",
-            .capsName = "DRAGON DANCE",
-            .fullName = "Dragon Dance",
+            .name = "Danza Dragón",
+            .capsName = "DANZA DRAGÓN",
+            .fullName = "Danza Dragón",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_SPEED_UP,
@@ -9448,14 +9448,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user vigorously\\nperforms a mystic,\\npowerful dance that\\nboosts its Attack and\\nSpeed stats.",
+        .description = "Frenética danza mística\\nque aumenta el Ataque y\\nla Velocidad.\\n",
     },
 
     [MOVE_ROCK_BLAST] = {
         .names = {
-            .name = "Rock Blast",
-            .capsName = "ROCK BLAST",
-            .fullName = "Rock Blast",
+            .name = "Pedrada",
+            .capsName = "PEDRADA",
+            .fullName = "Pedrada",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -9475,14 +9475,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user hurls hard\\nrocks at the foe.\\nTwo to five rocks are\\nlaunched in quick\\nsuccession.",
+        .description = "Lanza pedruscos de dos a\\ncinco veces seguidas.\\n",
     },
 
     [MOVE_SHOCK_WAVE] = {
         .names = {
-            .name = "Shock Wave",
-            .capsName = "SHOCK WAVE",
-            .fullName = "Shock Wave",
+            .name = "Onda Voltio",
+            .capsName = "ONDA VOLTIO",
+            .fullName = "Onda Voltio",
         },
         .data = {
             .effect = MOVE_EFFECT_BYPASS_ACCURACY,
@@ -9502,14 +9502,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user strikes the\\nfoe with a quick jolt\\nof electricity.\\nThis attack cannot be\\nevaded.",
+        .description = "Ataque eléctrico muy\\nrápido que no falla\\nnunca.\\n",
     },
 
     [MOVE_WATER_PULSE] = {
         .names = {
-            .name = "Water Pulse",
-            .capsName = "WATER PULSE",
-            .fullName = "Water Pulse",
+            .name = "Hidropulso",
+            .capsName = "HIDROPULSO",
+            .fullName = "Hidropulso",
         },
         .data = {
             .effect = MOVE_EFFECT_CONFUSE_HIT,
@@ -9529,14 +9529,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user attacks the\\nfoe with a pulsing\\nblast of water.\\nIt may also confuse\\nthe foe.",
+        .description = "Potente onda de agua\\nque puede confundir al\\nobjetivo.\\n",
     },
 
     [MOVE_DOOM_DESIRE] = {
         .names = {
-            .name = "Doom Desire",
-            .capsName = "DOOM DESIRE",
-            .fullName = "Doom Desire",
+            .name = "Deseo Oculto",
+            .capsName = "DESEO OCULTO",
+            .fullName = "Deseo Oculto",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_IN_3_TURNS,
@@ -9556,14 +9556,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Two turns after this\\nmove is used, the\\nuser blasts the foe\\nwith a concentrated\\nbundle of light.",
+        .description = "Ataca con incontables\\nhaces de luz dos turnos\\ndespués de usarlo.\\n",
     },
 
     [MOVE_PSYCHO_BOOST] = {
         .names = {
-            .name = "Psycho Boost",
-            .capsName = "PSYCHO BOOST",
-            .fullName = "Psycho Boost",
+            .name = "Psicoataque",
+            .capsName = "PSICOATAQUE",
+            .fullName = "Psicoataque",
         },
         .data = {
             .effect = MOVE_EFFECT_USER_SP_ATK_DOWN_2,
@@ -9583,14 +9583,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user attacks the\\nfoe at full power.\\nThe attack’s recoil\\nsharply reduces the\\nuser’s Sp. Atk stat.",
+        .description = "Ataca con toda su\\nfuerza, pero reduce\\nmucho su Ataque\\nEspecial.\\n",
     },
 
     [MOVE_ROOST] = {
         .names = {
-            .name = "Roost",
-            .capsName = "ROOST",
-            .fullName = "Roost",
+            .name = "Respiro",
+            .capsName = "RESPIRO",
+            .fullName = "Respiro",
         },
         .data = {
             .effect = MOVE_EFFECT_HEAL_HALF_REMOVE_FLYING_TYPE,
@@ -9610,14 +9610,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user lands and\\nrests its body.\\nIt restores the\\nuser’s HP by up to\\nhalf of its max HP.",
+        .description = "Aterriza para descansar\\ny restaura hasta la\\nmitad de sus PS\\nmáximos.\\n",
     },
 
     [MOVE_GRAVITY] = {
         .names = {
-            .name = "Gravity",
-            .capsName = "GRAVITY",
-            .fullName = "Gravity",
+            .name = "Gravedad",
+            .capsName = "GRAVEDAD",
+            .fullName = "Gravedad",
         },
         .data = {
             .effect = MOVE_EFFECT_GRAVITY,
@@ -9637,14 +9637,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Gravity is intensified\\nfor five turns, making\\nmoves involving flying\\nunusable and\\nnegating Levitation.",
+        .description = "Durante 5 turnos anula\\nlos vuelos y los de\\ntipo Tierra aciertan a\\nlos que levitan.\\n",
     },
 
     [MOVE_MIRACLE_EYE] = {
         .names = {
-            .name = "Miracle Eye",
-            .capsName = "MIRACLE EYE",
-            .fullName = "Miracle Eye",
+            .name = "Gran Ojo",
+            .capsName = "GRAN OJO",
+            .fullName = "Gran Ojo",
         },
         .data = {
             .effect = MOVE_EFFECT_IGNORE_EVATION_REMOVE_DARK_IMMUNE,
@@ -9664,14 +9664,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Enables the user to\\nhit a Dark type with\\nany type of move. It\\nalso enables the user\\nto hit an evasive foe.",
+        .description = "Permite golpear a\\nPokémon de tipo\\nSiniestro y a los\\nevasivos.\\n",
     },
 
     [MOVE_WAKE_UP_SLAP] = {
         .names = {
-            .name = "Wake-Up Slap",
-            .capsName = "WAKE-UP SLAP",
-            .fullName = "Wake-Up Slap",
+            .name = "Espabila",
+            .capsName = "ESPABILA",
+            .fullName = "Espabila",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_POWER_HEAL_SLEEP,
@@ -9691,14 +9691,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_SMART,
         },
-        .description = "This attack inflicts\\nhigh damage on a\\nsleeping foe. It\\nalso wakes the foe\\nup, however.",
+        .description = "Gran daño a rivales\\ndormidos, aunque los\\nbofetones también los\\ndespiertan.\\n",
     },
 
     [MOVE_HAMMER_ARM] = {
         .names = {
-            .name = "Hammer Arm",
-            .capsName = "HAMMER ARM",
-            .fullName = "Hammer Arm",
+            .name = "Machada",
+            .capsName = "MACHADA",
+            .fullName = "Machada",
         },
         .data = {
             .effect = MOVE_EFFECT_USER_SPEED_DOWN_HIT,
@@ -9718,14 +9718,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_NEXT_TURN,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user swings and\\nhits with its strong\\nand heavy fist.\\nIt lowers the user’s\\nSpeed, however.",
+        .description = "Golpe devastador con el\\npuño que reduce la\\nVelocidad del usuario.\\n",
     },
 
     [MOVE_GYRO_BALL] = {
         .names = {
-            .name = "Gyro Ball",
-            .capsName = "GYRO BALL",
-            .fullName = "Gyro Ball",
+            .name = "Giro Bola",
+            .capsName = "GIRO BOLA",
+            .fullName = "Giro Bola",
         },
         .data = {
             .effect = MOVE_EFFECT_POWER_BASED_ON_LOW_SPEED,
@@ -9745,14 +9745,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user tackles the\\nfoe with a high-speed\\nspin. The slower the\\nuser, the greater\\nthe damage.",
+        .description = "Ataque giratorio.\\nCuanto menor sea la\\nVelocidad del usuario,\\nmás daño causa.\\n",
     },
 
     [MOVE_HEALING_WISH] = {
         .names = {
-            .name = "Healing Wish",
-            .capsName = "HEALING WISH",
-            .fullName = "Healing Wish",
+            .name = "Deseo Cura",
+            .capsName = "DESEO CURA",
+            .fullName = "Deseo Cura",
         },
         .data = {
             .effect = MOVE_EFFECT_FAINT_AND_FULL_HEAL_NEXT_MON,
@@ -9772,14 +9772,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user faints. In\\nreturn, the Pokémon\\ntaking its place will\\nhave its HP restored\\nand status cured.",
+        .description = "El usuario se debilita,\\npero cura y restaura\\nlos PS de su relevo.\\n",
     },
 
     [MOVE_BRINE] = {
         .names = {
-            .name = "Brine",
-            .capsName = "BRINE",
-            .fullName = "Brine",
+            .name = "Salmuera",
+            .capsName = "SALMUERA",
+            .fullName = "Salmuera",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_POWER_WHEN_BELOW_HALF,
@@ -9799,14 +9799,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "If the foe’s HP is\\ndown to about half,\\nthis attack will hit\\nwith double the\\npower.",
+        .description = "Si al rival le quedan la\\nmitad o menos de sus\\nPS, duplica su\\npotencia.\\n",
     },
 
     [MOVE_NATURAL_GIFT] = {
         .names = {
-            .name = "Natural Gift",
-            .capsName = "NATURAL GIFT",
-            .fullName = "Natural Gift",
+            .name = "Don Natural",
+            .capsName = "DON NATURAL",
+            .fullName = "Don Natural",
         },
         .data = {
             .effect = MOVE_EFFECT_NATURAL_GIFT,
@@ -9826,14 +9826,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user draws power\\nto attack by using\\nits held Berry.\\nThe Berry determines\\nits type and power.",
+        .description = "La baya que lleva\\npresta su fuerza. Tipo\\ny potencia dependen de\\nla baya.\\n",
     },
 
     [MOVE_FEINT] = {
         .names = {
-            .name = "Feint",
-            .capsName = "FEINT",
-            .fullName = "Feint",
+            .name = "Amago",
+            .capsName = "AMAGO",
+            .fullName = "Amago",
         },
         .data = {
             .effect = MOVE_EFFECT_REMOVE_PROTECT,
@@ -9853,14 +9853,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "An attack that hits a\\nfoe using Protect or\\nDetect. It also lifts\\nthe effects of those\\nmoves.",
+        .description = "Golpea a quienes usan\\nProtección o Detección\\ny anula sus efectos.\\n",
     },
 
     [MOVE_PLUCK] = {
         .names = {
-            .name = "Pluck",
-            .capsName = "PLUCK",
-            .fullName = "Pluck",
+            .name = "Picoteo",
+            .capsName = "PICOTEO",
+            .fullName = "Picoteo",
         },
         .data = {
             .effect = MOVE_EFFECT_EAT_BERRY,
@@ -9880,14 +9880,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_STEAL_VOLTAGE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user pecks the\\nfoe. If the foe is\\nholding a Berry, the\\nuser plucks it and\\ngains its effect.",
+        .description = "Picotea al rival y, si\\nlleva una baya, se la\\ncome y obtiene su\\nefecto.\\n",
     },
 
     [MOVE_TAILWIND] = {
         .names = {
-            .name = "Tailwind",
-            .capsName = "TAILWIND",
-            .fullName = "Tailwind",
+            .name = "Viento Afín",
+            .capsName = "VIENTO AFÍN",
+            .fullName = "Viento Afín",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_SPEED_3_TURNS,
@@ -9907,14 +9907,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user whips up a\\nturbulent whirlwind\\nthat ups the Speed\\nof all party Pokémon\\nfor three turns.",
+        .description = "Remolino que aumenta la\\nVelocidad del bando\\ndurante cuatro turnos.\\n",
     },
 
     [MOVE_ACUPRESSURE] = {
         .names = {
-            .name = "Acupressure",
-            .capsName = "ACUPRESSURE",
-            .fullName = "Acupressure",
+            .name = "Acupresión",
+            .capsName = "ACUPRESIÓN",
+            .fullName = "Acupresión",
         },
         .data = {
             .effect = MOVE_EFFECT_RANDOM_STAT_UP_2,
@@ -9934,14 +9934,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user applies\\npressure to stress\\npoints, sharply\\nboosting one of its\\nstats.",
+        .description = "Presiona puntos clave\\ndel cuerpo y sube mucho\\nuna característica al\\nazar.\\n",
     },
 
     [MOVE_METAL_BURST] = {
         .names = {
-            .name = "Metal Burst",
-            .capsName = "METAL BURST",
-            .fullName = "Metal Burst",
+            .name = "Repr. Metal",
+            .capsName = "REPR. METAL",
+            .fullName = "Represión Metal",
         },
         .data = {
             .effect = MOVE_EFFECT_METAL_BURST,
@@ -9961,14 +9961,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user retaliates\\nagainst the foe that\\nlast inflicted damage\\non it with much\\ngreater power.",
+        .description = "Devuelve al rival el\\núltimo ataque recibido,\\npero con mucha más\\nfuerza.\\n",
     },
 
     [MOVE_U_TURN] = {
         .names = {
-            .name = "U-turn",
-            .capsName = "U-TURN",
-            .fullName = "U-turn",
+            .name = "Ida y Vuelta",
+            .capsName = "IDA Y VUELTA",
+            .fullName = "Ida y Vuelta",
         },
         .data = {
             .effect = MOVE_EFFECT_SWITCH_HIT,
@@ -9988,14 +9988,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_CUTE,
         },
-        .description = "After making its\\nattack, the user\\nrushes back to switch\\nplaces with a party\\nPokémon in waiting.",
+        .description = "Tras atacar, vuelve a\\ntoda prisa para dar\\npaso a otro Pokémon.\\n",
     },
 
     [MOVE_CLOSE_COMBAT] = {
         .names = {
-            .name = "Close Combat",
-            .capsName = "CLOSE COMBAT",
-            .fullName = "Close Combat",
+            .name = "A Bocajarro",
+            .capsName = "A BOCAJARRO",
+            .fullName = "A Bocajarro",
         },
         .data = {
             .effect = MOVE_EFFECT_USER_DEF_SP_DEF_DOWN_HIT,
@@ -10015,14 +10015,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user fights the\\nfoe up close without\\nguarding itself. It\\nalso cuts the user’s\\nDefense and Sp. Def.",
+        .description = "Ataca sin protegerse, lo\\nque reduce la Defensa y\\nla Defensa Especial del\\nusuario.\\n",
     },
 
     [MOVE_PAYBACK] = {
         .names = {
-            .name = "Payback",
-            .capsName = "PAYBACK",
-            .fullName = "Payback",
+            .name = "Vendetta",
+            .capsName = "VENDETTA",
+            .fullName = "Vendetta",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_POWER_IF_HIT,
@@ -10042,14 +10042,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_UNIQUE_JUDGE,
             .contestType = CONTEST_COOL,
         },
-        .description = "If the user can use\\nthis attack after the\\nfoe attacks, its\\npower is doubled.\\n",
+        .description = "Contraataca con el doble\\nde potencia si el rival\\nusa un movimiento\\nantes.\\n",
     },
 
     [MOVE_ASSURANCE] = {
         .names = {
-            .name = "Assurance",
-            .capsName = "ASSURANCE",
-            .fullName = "Assurance",
+            .name = "Buena Baza",
+            .capsName = "BUENA BAZA",
+            .fullName = "Buena Baza",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_POWER_IF_TARGET_HIT,
@@ -10069,7 +10069,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "If the foe has\\nalready taken some\\ndamage in the same\\nturn, this attack’s\\npower is doubled.",
+        .description = "Si el rival ya ha sufrido\\ndaño ese turno, duplica\\nsu potencia.\\n",
     },
 
     [MOVE_EMBARGO] = {
@@ -10096,14 +10096,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "It prevents the foe\\nfrom using its held\\nitem. Its Trainer is\\nalso prevented from\\nusing items on it.",
+        .description = "Impide al rival usar su\\nobjeto durante 5 turnos.\\nTampoco se le pueden\\ndar objetos.\\n",
     },
 
     [MOVE_FLING] = {
         .names = {
-            .name = "Fling",
-            .capsName = "FLING",
-            .fullName = "Fling",
+            .name = "Lanzamiento",
+            .capsName = "LANZAMIENTO",
+            .fullName = "Lanzamiento",
         },
         .data = {
             .effect = MOVE_EFFECT_FLING,
@@ -10123,14 +10123,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_PITY_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user flings its\\nheld item at the foe\\nto attack. Its power\\nand effects depend\\non the item.",
+        .description = "Lanza contra el rival el\\nobjeto que lleva. Su\\nefecto varía según el\\nobjeto.\\n",
     },
 
     [MOVE_PSYCHO_SHIFT] = {
         .names = {
-            .name = "Psycho Shift",
-            .capsName = "PSYCHO SHIFT",
-            .fullName = "Psycho Shift",
+            .name = "Psicocambio",
+            .capsName = "PSICOCAMBIO",
+            .fullName = "Psicocambio",
         },
         .data = {
             .effect = MOVE_EFFECT_TRANSFER_STATUS,
@@ -10150,14 +10150,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_COOL,
         },
-        .description = "Using its psychic\\npower of suggestion,\\nthe user transfers\\nits status problems\\nto the target.",
+        .description = "Usa su poder mental para\\ntransferir al rival sus\\nproblemas de estado.\\n",
     },
 
     [MOVE_TRUMP_CARD] = {
         .names = {
-            .name = "Trump Card",
-            .capsName = "TRUMP CARD",
-            .fullName = "Trump Card",
+            .name = "As Oculto",
+            .capsName = "AS OCULTO",
+            .fullName = "As Oculto",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGHER_POWER_WHEN_LOW_PP,
@@ -10177,14 +10177,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LATE_BOOST,
             .contestType = CONTEST_COOL,
         },
-        .description = "The fewer PP this\\nmove has, the more\\npower it has for\\nattack.\\n",
+        .description = "Cuantos menos PP tenga\\nel movimiento, mayor\\nserá su fuerza.\\n",
     },
 
     [MOVE_HEAL_BLOCK] = {
         .names = {
-            .name = "Heal Block",
-            .capsName = "HEAL BLOCK",
-            .fullName = "Heal Block",
+            .name = "Anticura",
+            .capsName = "ANTICURA",
+            .fullName = "Anticura",
         },
         .data = {
             .effect = MOVE_EFFECT_PREVENT_HEALING,
@@ -10204,14 +10204,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user prevents\\nthe foe from using\\nany HP-recovery\\nmoves for five turns.\\n",
+        .description = "Impide al rival curar PS\\ncon movimientos,\\nhabilidades u objetos\\ndurante 5 turnos.\\n",
     },
 
     [MOVE_WRING_OUT] = {
         .names = {
-            .name = "Wring Out",
-            .capsName = "WRING OUT",
-            .fullName = "Wring Out",
+            .name = "Estrujón",
+            .capsName = "ESTRUJÓN",
+            .fullName = "Estrujón",
         },
         .data = {
             .effect = MOVE_EFFECT_INCREASE_POWER_WITH_MORE_HP,
@@ -10231,14 +10231,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user powerfully\\nwrings the foe.\\nThe more HP the foe\\nhas, the greater this\\nattack’s power.",
+        .description = "Estruja con fuerza.\\nCuantos más PS tenga el\\nrival, más fuerza\\ntendrá el ataque.\\n",
     },
 
     [MOVE_POWER_TRICK] = {
         .names = {
-            .name = "Power Trick",
-            .capsName = "POWER TRICK",
-            .fullName = "Power Trick",
+            .name = "Truco Fuerza",
+            .capsName = "TRUCO FUERZA",
+            .fullName = "Truco Fuerza",
         },
         .data = {
             .effect = MOVE_EFFECT_SWAP_ATK_DEF,
@@ -10258,14 +10258,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user employs its\\npsychic power to\\nswitch its Attack\\nwith its Defense\\nstat.",
+        .description = "Emplea su poder mental\\npara intercambiar su\\nAtaque y su Defensa.\\n",
     },
 
     [MOVE_GASTRO_ACID] = {
         .names = {
-            .name = "Gastro Acid",
-            .capsName = "GASTRO ACID",
-            .fullName = "Gastro Acid",
+            .name = "Bilis",
+            .capsName = "BILIS",
+            .fullName = "Bilis",
         },
         .data = {
             .effect = MOVE_EFFECT_SUPRESS_ABILITY,
@@ -10285,14 +10285,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user hurls up its\\nstomach acids on\\nthe foe. The fluid\\neliminates the effect\\nof the foe’s ability.",
+        .description = "Arroja jugos biliares\\nque anulan el efecto de\\nla habilidad del\\nobjetivo.\\n",
     },
 
     [MOVE_LUCKY_CHANT] = {
         .names = {
-            .name = "Lucky Chant",
-            .capsName = "LUCKY CHANT",
-            .fullName = "Lucky Chant",
+            .name = "Conjuro",
+            .capsName = "CONJURO",
+            .fullName = "Conjuro",
         },
         .data = {
             .effect = MOVE_EFFECT_PREVENT_CRITS,
@@ -10312,14 +10312,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user chants an\\nincantation toward\\nthe sky, preventing\\nthe foe from landing\\ncritical hits.",
+        .description = "Conjuro que protege a\\ntodo su equipo de los\\ngolpes críticos.\\n",
     },
 
     [MOVE_ME_FIRST] = {
         .names = {
-            .name = "Me First",
-            .capsName = "ME FIRST",
-            .fullName = "Me First",
+            .name = "Yo Primero",
+            .capsName = "YO PRIMERO",
+            .fullName = "Yo Primero",
         },
         .data = {
             .effect = MOVE_EFFECT_USE_MOVE_FIRST,
@@ -10339,14 +10339,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user tries to cut\\nahead of the foe to\\nsteal and use the\\nfoe’s intended move\\nwith greater power.",
+        .description = "Se adelanta al\\nmovimiento del rival y lo\\nlanza antes con más\\nfuerza.\\n",
     },
 
     [MOVE_COPYCAT] = {
         .names = {
-            .name = "Copycat",
-            .capsName = "COPYCAT",
-            .fullName = "Copycat",
+            .name = "Copión",
+            .capsName = "COPIÓN",
+            .fullName = "Copión",
         },
         .data = {
             .effect = MOVE_EFFECT_USE_LAST_USED_MOVE,
@@ -10366,14 +10366,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_STEAL_VOLTAGE,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user mimics the\\nmove used immediately\\nbefore it. The move\\nfails if no other move\\nhas been used yet.",
+        .description = "Imita el movimiento\\nusado justo antes.\\nFalla si no se ha usado\\nninguno.\\n",
     },
 
     [MOVE_POWER_SWAP] = {
         .names = {
-            .name = "Power Swap",
-            .capsName = "POWER SWAP",
-            .fullName = "Power Swap",
+            .name = "Cambiafuerza",
+            .capsName = "CAMBIAFUERZA",
+            .fullName = "Cambiafuerza",
         },
         .data = {
             .effect = MOVE_EFFECT_SWAP_ATK_SP_ATK_STAT_CHANGES,
@@ -10393,14 +10393,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user employs its\\npsychic power to\\nswitch changes to\\nits Attack and\\nSp. Atk with the foe.",
+        .description = "Intercambia con el rival\\nlos cambios en el\\nAtaque y el Ataque\\nEspecial.\\n",
     },
 
     [MOVE_GUARD_SWAP] = {
         .names = {
-            .name = "Guard Swap",
-            .capsName = "GUARD SWAP",
-            .fullName = "Guard Swap",
+            .name = "Camb.Defensa",
+            .capsName = "CAMB.DEFENSA",
+            .fullName = "Cambiadefensa",
         },
         .data = {
             .effect = MOVE_EFFECT_SWAP_DEF_SP_DEF_STAT_CHANGES,
@@ -10420,14 +10420,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user employs its\\npsychic power to\\nswitch changes to\\nits Defense and\\nSp. Def with the foe.",
+        .description = "Intercambia con el rival\\nlos cambios en la\\nDefensa y la Defensa\\nEspecial.\\n",
     },
 
     [MOVE_PUNISHMENT] = {
         .names = {
-            .name = "Punishment",
-            .capsName = "PUNISHMENT",
-            .fullName = "Punishment",
+            .name = "Castigo",
+            .capsName = "CASTIGO",
+            .fullName = "Castigo",
         },
         .data = {
             .effect = MOVE_EFFECT_INCREASE_POWER_WITH_MORE_STAT_UP,
@@ -10447,14 +10447,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_PITY_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "This attack’s power\\nincreases the more\\nthe foe has powered\\nup with stat changes.\\n",
+        .description = "Su fuerza aumenta cuanto\\nmás se ha fortalecido\\nel rival.\\n",
     },
 
     [MOVE_LAST_RESORT] = {
         .names = {
-            .name = "Last Resort",
-            .capsName = "LAST RESORT",
-            .fullName = "Last Resort",
+            .name = "Última Baza",
+            .capsName = "ÚLTIMA BAZA",
+            .fullName = "Última Baza",
         },
         .data = {
             .effect = MOVE_EFFECT_FAIL_IF_NOT_USED_ALL_OTHER_MOVES,
@@ -10474,14 +10474,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LATE_BOOST,
             .contestType = CONTEST_CUTE,
         },
-        .description = "This move can be used\\nonly after the user\\nhas used all the\\nother moves it knows\\nin the battle.",
+        .description = "Solo puede usarse tras\\nhaber usado al menos una\\nvez todos los demás\\nmovimientos.\\n",
     },
 
     [MOVE_WORRY_SEED] = {
         .names = {
-            .name = "Worry Seed",
-            .capsName = "WORRY SEED",
-            .fullName = "Worry Seed",
+            .name = "Abatidoras",
+            .capsName = "ABATIDORAS",
+            .fullName = "Abatidoras",
         },
         .data = {
             .effect = MOVE_EFFECT_SET_ABILITY_TO_INSOMNIA,
@@ -10501,14 +10501,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "A seed that causes\\nworry is planted on\\nthe foe. It prevents\\nsleep by making its\\nability Insomnia.",
+        .description = "Planta una semilla que\\nsustituye la habilidad\\ndel rival por Insomnio y\\nle impide dormir.\\n",
     },
 
     [MOVE_SUCKER_PUNCH] = {
         .names = {
-            .name = "Sucker Punch",
-            .capsName = "SUCKER PUNCH",
-            .fullName = "Sucker Punch",
+            .name = "Golpe Bajo",
+            .capsName = "GOLPE BAJO",
+            .fullName = "Golpe Bajo",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_FIRST_IF_TARGET_ATTACKING,
@@ -10528,14 +10528,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_SMART,
         },
-        .description = "This move enables the\\nuser to attack first.\\nIt fails if the foe is\\nnot readying an\\nattack, however.",
+        .description = "Ataca con prioridad.\\nFalla si el rival no\\nprepara ningún ataque.\\n",
     },
 
     [MOVE_TOXIC_SPIKES] = {
         .names = {
-            .name = "Toxic Spikes",
-            .capsName = "TOXIC SPIKES",
-            .fullName = "Toxic Spikes",
+            .name = "Púas Tóxicas",
+            .capsName = "PÚAS TÓXICAS",
+            .fullName = "Púas Tóxicas",
         },
         .data = {
             .effect = MOVE_EFFECT_TOXIC_SPIKES,
@@ -10555,14 +10555,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user lays a trap\\nof poison spikes at\\nthe foe’s feet. They\\npoison foes that\\nswitch into battle.",
+        .description = "Trampa de púas tóxicas\\nque envenena a los\\nrivales que entran en\\ncombate.\\n",
     },
 
     [MOVE_HEART_SWAP] = {
         .names = {
-            .name = "Heart Swap",
-            .capsName = "HEART SWAP",
-            .fullName = "Heart Swap",
+            .name = "Cambiaalmas",
+            .capsName = "CAMBIAALMAS",
+            .fullName = "Cambiaalmas",
         },
         .data = {
             .effect = MOVE_EFFECT_SWAP_STAT_CHANGES,
@@ -10582,14 +10582,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user employs its\\npsychic power to\\nswitch stat changes\\nwith the foe.\\n",
+        .description = "Intercambia con el rival\\nlos cambios en las\\ncaracterísticas.\\n",
     },
 
     [MOVE_AQUA_RING] = {
         .names = {
-            .name = "Aqua Ring",
-            .capsName = "AQUA RING",
-            .fullName = "Aqua Ring",
+            .name = "Acua Aro",
+            .capsName = "ACUA ARO",
+            .fullName = "Acua Aro",
         },
         .data = {
             .effect = MOVE_EFFECT_RESTORE_HP_EVERY_TURN,
@@ -10609,14 +10609,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user envelops\\nitself in a veil made\\nof water. It regains\\nsome HP on every\\nturn.",
+        .description = "Se cubre con un manto de\\nagua y recupera algunos\\nPS en cada turno.\\n",
     },
 
     [MOVE_MAGNET_RISE] = {
         .names = {
-            .name = "Magnet Rise",
-            .capsName = "MAGNET RISE",
-            .fullName = "Magnet Rise",
+            .name = "Levitón",
+            .capsName = "LEVITÓN",
+            .fullName = "Levitón",
         },
         .data = {
             .effect = MOVE_EFFECT_GIVE_GROUND_IMMUNITY,
@@ -10636,14 +10636,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user levitates\\nusing electrically\\ngenerated magnetism\\nfor five turns.\\n",
+        .description = "Levita gracias a un\\ncampo magnético durante\\ncinco turnos.\\n",
     },
 
     [MOVE_FLARE_BLITZ] = {
         .names = {
-            .name = "Flare Blitz",
-            .capsName = "FLARE BLITZ",
-            .fullName = "Flare Blitz",
+            .name = "Envite Ígneo",
+            .capsName = "ENVITE ÍGNEO",
+            .fullName = "Envite Ígneo",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOIL_BURN_HIT,
@@ -10663,14 +10663,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user cloaks\\nitself in fire and\\ncharges at the foe.\\nThe user sustains\\nserious damage, too.",
+        .description = "Se cubre de llamas y\\ncarga, aunque se hiere\\nseriamente. Puede\\nquemar.\\n",
     },
 
     [MOVE_FORCE_PALM] = {
         .names = {
-            .name = "Force Palm",
-            .capsName = "FORCE PALM",
-            .fullName = "Force Palm",
+            .name = "Palmeo",
+            .capsName = "PALMEO",
+            .fullName = "Palmeo",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -10690,14 +10690,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is attacked\\nwith a shock wave.\\nIt may also leave the\\ntarget paralyzed.\\n",
+        .description = "Ataca con una onda de\\nchoque y puede llegar a\\nparalizar al objetivo.\\n",
     },
 
     [MOVE_AURA_SPHERE] = {
         .names = {
-            .name = "Aura Sphere",
-            .capsName = "AURA SPHERE",
-            .fullName = "Aura Sphere",
+            .name = "Esfera Aural",
+            .capsName = "ESFERA AURAL",
+            .fullName = "Esfera Aural",
         },
         .data = {
             .effect = MOVE_EFFECT_BYPASS_ACCURACY,
@@ -10717,14 +10717,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user looses a\\nblast of aura power\\nfrom deep within its\\nbody. This move is\\ncertain to hit.",
+        .description = "Libera una inmensa\\ndescarga de aura. No\\nfalla nunca.\\n",
     },
 
     [MOVE_ROCK_POLISH] = {
         .names = {
-            .name = "Rock Polish",
-            .capsName = "ROCK POLISH",
-            .fullName = "Rock Polish",
+            .name = "Pulimento",
+            .capsName = "PULIMENTO",
+            .fullName = "Pulimento",
         },
         .data = {
             .effect = MOVE_EFFECT_SPEED_UP_2,
@@ -10744,14 +10744,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user polishes its\\nbody to reduce drag.\\nIt can sharply raise\\nthe Speed stat.\\n",
+        .description = "Pule su cuerpo para\\nreducir la resistencia\\nal aire y sube mucho la\\nVelocidad.\\n",
     },
 
     [MOVE_POISON_JAB] = {
         .names = {
-            .name = "Poison Jab",
-            .capsName = "POISON JAB",
-            .fullName = "Poison Jab",
+            .name = "Puya Nociva",
+            .capsName = "PUYA NOCIVA",
+            .fullName = "Puya Nociva",
         },
         .data = {
             .effect = MOVE_EFFECT_POISON_HIT,
@@ -10771,14 +10771,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "The foe is stabbed\\nwith a tentacle or\\narm steeped in\\npoison. It may also\\npoison the foe.",
+        .description = "Pincha con un tentáculo\\no brazo envenenado.\\nPuede envenenar.\\n",
     },
 
     [MOVE_DARK_PULSE] = {
         .names = {
-            .name = "Dark Pulse",
-            .capsName = "DARK PULSE",
-            .fullName = "Dark Pulse",
+            .name = "Pulso Umbrío",
+            .capsName = "PULSO UMBRÍO",
+            .fullName = "Pulso Umbrío",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -10798,14 +10798,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user releases a\\nhorrible aura imbued\\nwith dark thoughts.\\nIt may also make the\\ntarget flinch.",
+        .description = "Aura horrible llena de\\nmalos pensamientos que\\npuede amedrentar.\\n",
     },
 
     [MOVE_NIGHT_SLASH] = {
         .names = {
-            .name = "Night Slash",
-            .capsName = "NIGHT SLASH",
-            .fullName = "Night Slash",
+            .name = "Tajo Umbrío",
+            .capsName = "TAJO UMBRÍO",
+            .fullName = "Tajo Umbrío",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -10825,14 +10825,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user slashes the\\nfoe the instant an\\nopportunity arises.\\nIt has a high\\ncritical-hit ratio.",
+        .description = "Ataca al rival a la\\nprimera oportunidad.\\nSuele ser golpe\\ncrítico.\\n",
     },
 
     [MOVE_AQUA_TAIL] = {
         .names = {
-            .name = "Aqua Tail",
-            .capsName = "AQUA TAIL",
-            .fullName = "Aqua Tail",
+            .name = "Acua Cola",
+            .capsName = "ACUA COLA",
+            .fullName = "Acua Cola",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -10852,14 +10852,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user attacks by\\nswinging its tail as if\\nit were a vicious wave\\nin a raging storm.\\n",
+        .description = "Ataca agitando la cola\\ncomo si fuera una ola\\nrabiosa.\\n",
     },
 
     [MOVE_SEED_BOMB] = {
         .names = {
-            .name = "Seed Bomb",
-            .capsName = "SEED BOMB",
-            .fullName = "Seed Bomb",
+            .name = "Bomba Germen",
+            .capsName = "BOMBA GERMEN",
+            .fullName = "Bomba Germen",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -10879,14 +10879,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user slams a\\nbarrage of hard-\\nshelled seeds\\ndown on the foe\\nfrom above.",
+        .description = "Lanza enormes semillas\\nde cáscara muy dura\\ndesde arriba.\\n",
     },
 
     [MOVE_AIR_SLASH] = {
         .names = {
-            .name = "Air Slash",
-            .capsName = "AIR SLASH",
-            .fullName = "Air Slash",
+            .name = "Tajo Aéreo",
+            .capsName = "TAJO AÉREO",
+            .fullName = "Tajo Aéreo",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -10906,14 +10906,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks with\\na blade of air that\\nslices even the sky.\\nIt may also make the\\ntarget flinch.",
+        .description = "Viento afilado que corta\\nel aire. Puede\\namedrentar al rival.\\n",
     },
 
     [MOVE_X_SCISSOR] = {
         .names = {
-            .name = "X-Scissor",
-            .capsName = "X-SCISSOR",
-            .fullName = "X-Scissor",
+            .name = "Tijera X",
+            .capsName = "TIJERA X",
+            .fullName = "Tijera X",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -10933,14 +10933,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user slashes at\\nthe foe by crossing\\nits scythes or claws\\nas if they were a pair\\nof scissors.",
+        .description = "Cruza las guadañas o\\ngarras para atacar como\\nunas tijeras.\\n",
     },
 
     [MOVE_BUG_BUZZ] = {
         .names = {
-            .name = "Bug Buzz",
-            .capsName = "BUG BUZZ",
-            .fullName = "Bug Buzz",
+            .name = "Zumbido",
+            .capsName = "ZUMBIDO",
+            .fullName = "Zumbido",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_HIT,
@@ -10960,14 +10960,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user vibrates its\\nwings to generate a\\ndamaging sound wave.\\nIt may also lower the\\nfoe’s Sp. Def stat.",
+        .description = "Onda sónica dañina que\\ntambién puede reducir la\\nDefensa Especial.\\n",
     },
 
     [MOVE_DRAGON_PULSE] = {
         .names = {
-            .name = "Dragon Pulse",
-            .capsName = "DRAGON PULSE",
-            .fullName = "Dragon Pulse",
+            .name = "Pulso Dragón",
+            .capsName = "PULSO DRAGÓN",
+            .fullName = "Pulso Dragón",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -10987,14 +10987,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "The foe is attacked\\nwith a shock wave\\ngenerated by the\\nuser’s gaping mouth.\\n",
+        .description = "Abre mucho la boca y\\nlibera una onda de\\nchoque contra el\\nobjetivo.\\n",
     },
 
     [MOVE_DRAGON_RUSH] = {
         .names = {
-            .name = "Dragon Rush",
-            .capsName = "DRAGON RUSH",
-            .fullName = "Dragon Rush",
+            .name = "Carga Dragón",
+            .capsName = "CARGA DRAGÓN",
+            .fullName = "Carga Dragón",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -11014,14 +11014,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user tackles the\\nfoe while exhibiting\\noverwhelming menace.\\nIt may also make the\\ntarget flinch.",
+        .description = "Ataca de forma brutal\\nmientras intimida.\\nPuede amedrentar.\\n",
     },
 
     [MOVE_POWER_GEM] = {
         .names = {
-            .name = "Power Gem",
-            .capsName = "POWER GEM",
-            .fullName = "Power Gem",
+            .name = "Joya de Luz",
+            .capsName = "JOYA DE LUZ",
+            .fullName = "Joya de Luz",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -11041,14 +11041,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user attacks with\\na ray of light that\\nsparkles as if it were\\nmade of gemstones.\\n",
+        .description = "Rayo de luz que\\ncentellea como si lo\\nformaran miles de\\njoyas.\\n",
     },
 
     [MOVE_DRAIN_PUNCH] = {
         .names = {
-            .name = "Drain Punch",
-            .capsName = "DRAIN PUNCH",
-            .fullName = "Drain Punch",
+            .name = "Puño Drenaje",
+            .capsName = "PUÑO DRENAJE",
+            .fullName = "Puño Drenaje",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOVER_HALF_DAMAGE_DEALT,
@@ -11068,14 +11068,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "An energy-draining\\npunch. The user’s\\nHP is restored by\\nhalf the damage taken\\nby the target.",
+        .description = "Golpe que drena energía.\\nEl usuario recupera la\\nmitad de los PS\\narrebatados.\\n",
     },
 
     [MOVE_VACUUM_WAVE] = {
         .names = {
-            .name = "Vacuum Wave",
-            .capsName = "VACUUM WAVE",
-            .fullName = "Vacuum Wave",
+            .name = "Onda Vacío",
+            .capsName = "ONDA VACÍO",
+            .fullName = "Onda Vacío",
         },
         .data = {
             .effect = MOVE_EFFECT_PRIORITY_1,
@@ -11095,14 +11095,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user whirls its\\nfists to send a wave\\nof pure vacuum at\\nthe foe. This move\\nalways goes first.",
+        .description = "Gira los puños y libera\\nuna onda de vacío.\\nTiene prioridad alta.\\n",
     },
 
     [MOVE_FOCUS_BLAST] = {
         .names = {
-            .name = "Focus Blast",
-            .capsName = "FOCUS BLAST",
-            .fullName = "Focus Blast",
+            .name = "Onda Certera",
+            .capsName = "ONDA CERTERA",
+            .fullName = "Onda Certera",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_HIT,
@@ -11122,14 +11122,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user heightens\\nits mental focus and\\nunleashes its power.\\nIt may also lower the\\ntarget’s Sp. Def.",
+        .description = "Concentra su poder\\nmental y lo libera.\\nPuede bajar la Defensa\\nEspecial.\\n",
     },
 
     [MOVE_ENERGY_BALL] = {
         .names = {
-            .name = "Energy Ball",
-            .capsName = "ENERGY BALL",
-            .fullName = "Energy Ball",
+            .name = "Energibola",
+            .capsName = "ENERGIBOLA",
+            .fullName = "Energibola",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_HIT,
@@ -11149,14 +11149,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user draws power\\nfrom nature and\\nfires it at the foe.\\nIt may also lower the\\ntarget’s Sp. Def.",
+        .description = "Aúna fuerzas de la\\nnaturaleza. Puede\\nreducir la Defensa\\nEspecial.\\n",
     },
 
     [MOVE_BRAVE_BIRD] = {
         .names = {
-            .name = "Brave Bird",
-            .capsName = "BRAVE BIRD",
-            .fullName = "Brave Bird",
+            .name = "Pájaro Osado",
+            .capsName = "PÁJARO OSADO",
+            .fullName = "Pájaro Osado",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOIL_THIRD,
@@ -11176,14 +11176,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user tucks in\\nits wings and charges\\nfrom a low altitude.\\nThe user also takes\\nserious damage.",
+        .description = "Pliega las alas y ataca\\nen vuelo rasante. El\\nusuario se hiere\\nseriamente.\\n",
     },
 
     [MOVE_EARTH_POWER] = {
         .names = {
-            .name = "Earth Power",
-            .capsName = "EARTH POWER",
-            .fullName = "Earth Power",
+            .name = "Tierra Viva",
+            .capsName = "TIERRA VIVA",
+            .fullName = "Tierra Viva",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_HIT,
@@ -11203,14 +11203,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user makes the\\nground under the foe\\nerupt with power.\\nIt may also lower the\\ntarget’s Sp. Def.",
+        .description = "La tierra bajo el rival\\nerupciona. Puede\\nreducir su Defensa\\nEspecial.\\n",
     },
 
     [MOVE_SWITCHEROO] = {
         .names = {
-            .name = "Switcheroo",
-            .capsName = "SWITCHEROO",
-            .fullName = "Switcheroo",
+            .name = "Trapicheo",
+            .capsName = "TRAPICHEO",
+            .fullName = "Trapicheo",
         },
         .data = {
             .effect = MOVE_EFFECT_SWITCH_HELD_ITEMS,
@@ -11230,14 +11230,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_STEAL_VOLTAGE,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user trades held\\nitems with the foe\\nfaster than the eye\\ncan follow.\\n",
+        .description = "Intercambia los objetos\\ncon el rival tan rápido\\nque es imposible verlo.\\n",
     },
 
     [MOVE_GIGA_IMPACT] = {
         .names = {
-            .name = "Giga Impact",
-            .capsName = "GIGA IMPACT",
-            .fullName = "Giga Impact",
+            .name = "Gigaimpacto",
+            .capsName = "GIGAIMPACTO",
+            .fullName = "Gigaimpacto",
         },
         .data = {
             .effect = MOVE_EFFECT_RECHARGE_AFTER,
@@ -11257,14 +11257,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user charges at\\nthe foe using every\\nbit of its power.\\nThe user must rest\\non the next turn.",
+        .description = "Carga con toda su fuerza\\ny descansa en el turno\\nsiguiente.\\n",
     },
 
     [MOVE_NASTY_PLOT] = {
         .names = {
-            .name = "Nasty Plot",
-            .capsName = "NASTY PLOT",
-            .fullName = "Nasty Plot",
+            .name = "Maquinación",
+            .capsName = "MAQUINACIÓN",
+            .fullName = "Maquinación",
         },
         .data = {
             .effect = MOVE_EFFECT_SP_ATK_UP_2,
@@ -11284,14 +11284,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user stimulates\\nits brain by thinking\\nbad thoughts.\\nIt sharply raises the\\nuser’s Sp. Atk.",
+        .description = "Estimula su cerebro\\npensando en cosas malas\\ny sube mucho el Ataque\\nEspecial.\\n",
     },
 
     [MOVE_BULLET_PUNCH] = {
         .names = {
-            .name = "Bullet Punch",
-            .capsName = "BULLET PUNCH",
-            .fullName = "Bullet Punch",
+            .name = "Puño Bala",
+            .capsName = "PUÑO BALA",
+            .fullName = "Puño Bala",
         },
         .data = {
             .effect = MOVE_EFFECT_PRIORITY_1,
@@ -11311,14 +11311,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user strikes\\nwith a tough punch as\\nfast as a bullet.\\nThis move always goes\\nfirst.",
+        .description = "Puñetazos tan rápidos\\ncomo proyectiles.\\nTiene prioridad alta.\\n",
     },
 
     [MOVE_AVALANCHE] = {
         .names = {
-            .name = "Avalanche",
-            .capsName = "AVALANCHE",
-            .fullName = "Avalanche",
+            .name = "Alud",
+            .capsName = "ALUD",
+            .fullName = "Alud",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_DAMAGE_IF_HIT,
@@ -11338,14 +11338,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_COOL,
         },
-        .description = "An attack move that\\ninflicts double the\\ndamage if the user\\nhas been hurt by the\\nfoe in the same turn.",
+        .description = "Su potencia se duplica\\nsi el usuario ha sido\\ngolpeado ese mismo\\nturno.\\n",
     },
 
     [MOVE_ICE_SHARD] = {
         .names = {
-            .name = "Ice Shard",
-            .capsName = "ICE SHARD",
-            .fullName = "Ice Shard",
+            .name = "Canto Helado",
+            .capsName = "CANTO HELADO",
+            .fullName = "Esquirla Helada",
         },
         .data = {
             .effect = MOVE_EFFECT_PRIORITY_1,
@@ -11365,14 +11365,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user flash\\nfreezes chunks of\\nice and hurls them.\\nThis move always goes\\nfirst.",
+        .description = "Esquirlas de hielo\\nlanzadas a gran\\nvelocidad. Tiene\\nprioridad alta.\\n",
     },
 
     [MOVE_SHADOW_CLAW] = {
         .names = {
-            .name = "Shadow Claw",
-            .capsName = "SHADOW CLAW",
-            .fullName = "Shadow Claw",
+            .name = "Garra Umbría",
+            .capsName = "GARRA UMBRÍA",
+            .fullName = "Garra Umbría",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -11392,14 +11392,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user slashes with\\na sharp claw made\\nfrom shadows.\\nIt has a high\\ncritical-hit ratio.",
+        .description = "Garra afilada hecha de\\nsombras. Suele ser\\ngolpe crítico.\\n",
     },
 
     [MOVE_THUNDER_FANG] = {
         .names = {
-            .name = "Thunder Fang",
-            .capsName = "THUNDER FANG",
-            .fullName = "Thunder Fang",
+            .name = "Colm. Rayo",
+            .capsName = "COLM. RAYO",
+            .fullName = "Colmillo Rayo",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_PARALYZE_HIT,
@@ -11419,14 +11419,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user bites with\\nelectrified fangs.\\nIt may also make the\\nfoe flinch or become\\nparalyzed.",
+        .description = "Muerde con colmillos\\nelectrificados y puede\\namedrentar o paralizar.\\n",
     },
 
     [MOVE_ICE_FANG] = {
         .names = {
-            .name = "Ice Fang",
-            .capsName = "ICE FANG",
-            .fullName = "Ice Fang",
+            .name = "Colm. Hielo",
+            .capsName = "COLM. HIELO",
+            .fullName = "Colmillo Hielo",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_FREEZE_HIT,
@@ -11446,14 +11446,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user bites with\\ncold-infused fangs.\\nIt may also make the\\nfoe flinch or freeze.\\n",
+        .description = "Muerde con colmillos\\nhelados y puede\\namedrentar o congelar.\\n",
     },
 
     [MOVE_FIRE_FANG] = {
         .names = {
-            .name = "Fire Fang",
-            .capsName = "FIRE FANG",
-            .fullName = "Fire Fang",
+            .name = "Colm. Ígneo",
+            .capsName = "COLM. ÍGNEO",
+            .fullName = "Colmillo Ígneo",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_BURN_HIT,
@@ -11473,14 +11473,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user bites with\\nflame-cloaked fangs.\\nIt may also make the\\nfoe flinch or sustain\\na burn.",
+        .description = "Muerde con colmillos en\\nllamas y puede\\namedrentar o quemar.\\n",
     },
 
     [MOVE_SHADOW_SNEAK] = {
         .names = {
-            .name = "Shadow Sneak",
-            .capsName = "SHADOW SNEAK",
-            .fullName = "Shadow Sneak",
+            .name = "Sombra Vil",
+            .capsName = "SOMBRA VIL",
+            .fullName = "Sombra Vil",
         },
         .data = {
             .effect = MOVE_EFFECT_PRIORITY_1,
@@ -11500,14 +11500,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user extends its\\nshadow and attacks\\nthe foe from behind.\\nThis move always goes\\nfirst.",
+        .description = "Extiende su sombra y\\nataca por la espalda.\\nTiene prioridad alta.\\n",
     },
 
     [MOVE_MUD_BOMB] = {
         .names = {
-            .name = "Mud Bomb",
-            .capsName = "MUD BOMB",
-            .fullName = "Mud Bomb",
+            .name = "Bomba Fango",
+            .capsName = "BOMBA FANGO",
+            .fullName = "Bomba Fango",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_ACCURACY_HIT,
@@ -11527,14 +11527,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user launches a\\nhard-packed mud ball\\nto attack.\\nIt may also lower the\\ntarget’s accuracy.",
+        .description = "Lanza una compacta bola\\nde fango. Puede bajar\\nla Precisión.\\n",
     },
 
     [MOVE_PSYCHO_CUT] = {
         .names = {
-            .name = "Psycho Cut",
-            .capsName = "PSYCHO CUT",
-            .fullName = "Psycho Cut",
+            .name = "Psicocorte",
+            .capsName = "PSICOCORTE",
+            .fullName = "Psicocorte",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -11554,14 +11554,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user tears at\\nthe foe with blades\\nformed by psychic\\npower. It has a high\\ncritical-hit ratio.",
+        .description = "Cuchillas de energía\\npsíquica. Suele asestar\\nun golpe crítico.\\n",
     },
 
     [MOVE_ZEN_HEADBUTT] = {
         .names = {
-            .name = "Zen Headbutt",
-            .capsName = "ZEN HEADBUTT",
-            .fullName = "Zen Headbutt",
+            .name = "Cabezazo Zen",
+            .capsName = "CABEZAZO ZEN",
+            .fullName = "Cabezazo Zen",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -11581,14 +11581,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user focuses its\\nwillpower to its head\\nand rams the foe.\\nIt may also make the\\ntarget flinch.",
+        .description = "Concentra su energía\\npsíquica en la cabeza.\\nPuede amedrentar.\\n",
     },
 
     [MOVE_MIRROR_SHOT] = {
         .names = {
-            .name = "Mirror Shot",
-            .capsName = "MIRROR SHOT",
-            .fullName = "Mirror Shot",
+            .name = "Disp. Espejo",
+            .capsName = "DISP. ESPEJO",
+            .fullName = "Disparo Espejo",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_ACCURACY_HIT,
@@ -11608,14 +11608,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user looses a\\nflash of energy from\\nits polished body.\\nIt may also lower the\\ntarget’s accuracy.",
+        .description = "Haz de energía desde su\\npulido cuerpo. Puede\\nbajar la Precisión.\\n",
     },
 
     [MOVE_FLASH_CANNON] = {
         .names = {
-            .name = "Flash Cannon",
-            .capsName = "FLASH CANNON",
-            .fullName = "Flash Cannon",
+            .name = "Cañ. Respl.",
+            .capsName = "CAÑ. RESPL.",
+            .fullName = "Cañón Resplandor",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_HIT,
@@ -11635,14 +11635,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user gathers all\\nits light energy and\\nreleases it at once.\\nIt may also lower the\\nfoe’s Sp. Def stat.",
+        .description = "Concentra toda la luz de\\nsu cuerpo y la libera.\\nPuede bajar la Defensa\\nEspecial.\\n",
     },
 
     [MOVE_ROCK_CLIMB] = {
         .names = {
-            .name = "Rock Climb",
-            .capsName = "ROCK CLIMB",
-            .fullName = "Rock Climb",
+            .name = "Treparrocas",
+            .capsName = "TREPARROCAS",
+            .fullName = "Treparrocas",
         },
         .data = {
             .effect = MOVE_EFFECT_CONFUSE_HIT,
@@ -11662,14 +11662,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "A charging attack\\nthat may also leave\\nthe foe confused.\\nIt can also be used\\nto scale rocky walls.",
+        .description = "Ataca con una gran\\nembestida. Puede\\nconfundir al rival.\\n",
     },
 
     [MOVE_DEFOG] = {
         .names = {
-            .name = "Defog",
-            .capsName = "DEFOG",
-            .fullName = "Defog",
+            .name = "Despejar",
+            .capsName = "DESPEJAR",
+            .fullName = "Despejar",
         },
         .data = {
             .effect = MOVE_EFFECT_REMOVE_HAZARDS_SCREENS_EVA_DOWN,
@@ -11689,14 +11689,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "It reduces the foe’s\\nevasion stat. It also\\nremoves spikes,\\nlight screens, etc.",
+        .description = "Viento que barre los\\nefectos de Reflejo o\\nPantalla de Luz y baja\\nla Evasión.\\n",
     },
 
     [MOVE_TRICK_ROOM] = {
         .names = {
-            .name = "Trick Room",
-            .capsName = "TRICK ROOM",
-            .fullName = "Trick Room",
+            .name = "Espacio Raro",
+            .capsName = "ESPACIO RARO",
+            .fullName = "Espacio Raro",
         },
         .data = {
             .effect = MOVE_EFFECT_TRICK_ROOM,
@@ -11716,14 +11716,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_RANDOMIZE_NEXT_TURN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user creates a\\nbizarre area in which\\nslower Pokémon get\\nto move first for five\\nturns.",
+        .description = "Espacio misterioso en el\\nque los Pokémon lentos\\nse mueven antes\\ndurante 5 turnos.\\n",
     },
 
     [MOVE_DRACO_METEOR] = {
         .names = {
-            .name = "Draco Meteor",
-            .capsName = "DRACO METEOR",
-            .fullName = "Draco Meteor",
+            .name = "Cometa Draco",
+            .capsName = "COMETA DRACO",
+            .fullName = "Cometa Draco",
         },
         .data = {
             .effect = MOVE_EFFECT_USER_SP_ATK_DOWN_2,
@@ -11743,14 +11743,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Comets are summoned\\ndown from the sky.\\nThe attack’s recoil\\nsharply reduces the\\nuser’s Sp. Atk stat.",
+        .description = "Grandes cometas caen\\nsobre el rival. Reduce\\nmucho tu Ataque\\nEspecial.\\n",
     },
 
     [MOVE_DISCHARGE] = {
         .names = {
-            .name = "Discharge",
-            .capsName = "DISCHARGE",
-            .fullName = "Discharge",
+            .name = "Chispazo",
+            .capsName = "CHISPAZO",
+            .fullName = "Chispazo",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -11770,14 +11770,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "A flare of electricity\\nis loosed to strike\\nall Pokémon in battle.\\nIt may also cause\\nparalysis.",
+        .description = "Deslumbradora onda\\neléctrica que afecta a\\nlos adyacentes. Puede\\nparalizar.\\n",
     },
 
     [MOVE_LAVA_PLUME] = {
         .names = {
-            .name = "Lava Plume",
-            .capsName = "LAVA PLUME",
-            .fullName = "Lava Plume",
+            .name = "Humareda",
+            .capsName = "HUMAREDA",
+            .fullName = "Humareda",
         },
         .data = {
             .effect = MOVE_EFFECT_BURN_HIT,
@@ -11797,14 +11797,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "An inferno of scarlet\\nflames washes over\\nall Pokémon in battle.\\nIt may also inflict\\nburns.",
+        .description = "Infierno de llamas que\\ndaña a los adyacentes.\\nPuede causar\\nquemaduras.\\n",
     },
 
     [MOVE_LEAF_STORM] = {
         .names = {
-            .name = "Leaf Storm",
-            .capsName = "LEAF STORM",
-            .fullName = "Leaf Storm",
+            .name = "Lluevehojas",
+            .capsName = "LLUEVEHOJAS",
+            .fullName = "Lluevehojas",
         },
         .data = {
             .effect = MOVE_EFFECT_USER_SP_ATK_DOWN_2,
@@ -11824,14 +11824,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_CUTE,
         },
-        .description = "A storm of sharp\\nleaves is whipped up.\\nThe attack’s recoil\\nsharply reduces the\\nuser’s Sp. Atk stat.",
+        .description = "Lluvia de hojas afiladas\\nque reduce mucho tu\\nAtaque Especial.\\n",
     },
 
     [MOVE_POWER_WHIP] = {
         .names = {
-            .name = "Power Whip",
-            .capsName = "POWER WHIP",
-            .fullName = "Power Whip",
+            .name = "Latigazo",
+            .capsName = "LATIGAZO",
+            .fullName = "Latigazo",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -11851,14 +11851,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user violently\\nwhirls its vines or\\ntentacles to harshly\\nlash the foe.\\n",
+        .description = "Agita violentamente sus\\nlianas o tentáculos\\npara golpear.\\n",
     },
 
     [MOVE_ROCK_WRECKER] = {
         .names = {
-            .name = "Rock Wrecker",
-            .capsName = "ROCK WRECKER",
-            .fullName = "Rock Wrecker",
+            .name = "Romperrocas",
+            .capsName = "ROMPERROCAS",
+            .fullName = "Romperrocas",
         },
         .data = {
             .effect = MOVE_EFFECT_RECHARGE_AFTER,
@@ -11878,14 +11878,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user launches a\\nhuge boulder at the\\nfoe to attack.\\nIt must rest on the\\nnext turn, however.",
+        .description = "Lanza una piedra enorme.\\nEl usuario debe\\ndescansar después.\\n",
     },
 
     [MOVE_CROSS_POISON] = {
         .names = {
-            .name = "Cross Poison",
-            .capsName = "CROSS POISON",
-            .fullName = "Cross Poison",
+            .name = "Veneno X",
+            .capsName = "VENENO X",
+            .fullName = "Veneno X",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL_POISON_HIT,
@@ -11905,14 +11905,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "A slashing attack\\nthat may also leave\\nthe target poisoned.\\nIt has a high\\ncritical-hit ratio.",
+        .description = "Tajo que puede envenenar.\\nSuele asestar un golpe\\ncrítico.\\n",
     },
 
     [MOVE_GUNK_SHOT] = {
         .names = {
-            .name = "Gunk Shot",
-            .capsName = "GUNK SHOT",
-            .fullName = "Gunk Shot",
+            .name = "Lanzamugre",
+            .capsName = "LANZAMUGRE",
+            .fullName = "Lanzamugre",
         },
         .data = {
             .effect = MOVE_EFFECT_POISON_HIT,
@@ -11932,14 +11932,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user shoots\\nfilthy garbage at the\\nfoe to attack.\\nIt may also poison\\nthe target.",
+        .description = "Lanza basura asquerosa y\\npuede envenenar al\\nobjetivo.\\n",
     },
 
     [MOVE_IRON_HEAD] = {
         .names = {
-            .name = "Iron Head",
-            .capsName = "IRON HEAD",
-            .fullName = "Iron Head",
+            .name = "Cab. Hierro",
+            .capsName = "CAB. HIERRO",
+            .fullName = "Cabeza de Hierro",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -11959,14 +11959,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The foe slams the\\ntarget with its\\nsteel-hard head.\\nIt may also make the\\ntarget flinch.",
+        .description = "Ataca con su cabeza dura\\ncomo el hierro. Puede\\namedrentar.\\n",
     },
 
     [MOVE_MAGNET_BOMB] = {
         .names = {
-            .name = "Magnet Bomb",
-            .capsName = "MAGNET BOMB",
-            .fullName = "Magnet Bomb",
+            .name = "Bomba Imán",
+            .capsName = "BOMBA IMÁN",
+            .fullName = "Bomba Imán",
         },
         .data = {
             .effect = MOVE_EFFECT_BYPASS_ACCURACY,
@@ -11986,14 +11986,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user launches a\\nsteel bomb that\\nsticks to the target.\\nThis attack will not\\nmiss.",
+        .description = "Bombas de hierro que se\\npegan al rival. No se\\npuede esquivar.\\n",
     },
 
     [MOVE_STONE_EDGE] = {
         .names = {
-            .name = "Stone Edge",
-            .capsName = "STONE EDGE",
-            .fullName = "Stone Edge",
+            .name = "Roca Afilada",
+            .capsName = "ROCA AFILADA",
+            .fullName = "Roca Afilada",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -12013,14 +12013,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user stabs the\\nfoe with a sharpened\\nstone. It has a high\\ncritical-hit ratio.\\n",
+        .description = "Clava piedras muy\\nafiladas. Suele asestar\\nun golpe crítico.\\n",
     },
 
     [MOVE_CAPTIVATE] = {
         .names = {
-            .name = "Captivate",
-            .capsName = "CAPTIVATE",
-            .fullName = "Captivate",
+            .name = "Seducción",
+            .capsName = "SEDUCCIÓN",
+            .fullName = "Seducción",
         },
         .data = {
             .effect = MOVE_EFFECT_SP_ATK_DOWN_2_OPPOSITE_GENDER,
@@ -12040,14 +12040,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "If it is the opposite\\ngender of the user,\\nthe foe is charmed\\ninto sharply lowering\\nits Sp. Atk stat.",
+        .description = "Si el rival es del sexo\\nopuesto, queda\\nembelesado y baja su\\nAtaque Especial.\\n",
     },
 
     [MOVE_STEALTH_ROCK] = {
         .names = {
-            .name = "Stealth Rock",
-            .capsName = "STEALTH ROCK",
-            .fullName = "Stealth Rock",
+            .name = "Trampa Rocas",
+            .capsName = "TRAMPA ROCAS",
+            .fullName = "Trampa Rocas",
         },
         .data = {
             .effect = MOVE_EFFECT_STEALTH_ROCK,
@@ -12067,14 +12067,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user lays a trap\\nof levitating stones\\naround the foe. The\\ntrap hurts foes that\\nswitch into battle.",
+        .description = "Rocas flotantes que\\nhieren a los rivales que\\nentran en combate.\\n",
     },
 
     [MOVE_GRASS_KNOT] = {
         .names = {
-            .name = "Grass Knot",
-            .capsName = "GRASS KNOT",
-            .fullName = "Grass Knot",
+            .name = "Hierba Lazo",
+            .capsName = "HIERBA LAZO",
+            .fullName = "Hierba Lazo",
         },
         .data = {
             .effect = MOVE_EFFECT_INCREASE_POWER_WITH_WEIGHT,
@@ -12094,14 +12094,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user snares the\\nfoe with grass and\\ntrips it. The heavier\\nthe foe, the greater\\nthe damage.",
+        .description = "Enreda con hierba y\\nderriba. Cuanto más pesa\\nel rival, más potencia.\\n",
     },
 
     [MOVE_CHATTER] = {
         .names = {
-            .name = "Chatter",
-            .capsName = "CHATTER",
-            .fullName = "Chatter",
+            .name = "Cháchara",
+            .capsName = "CHÁCHARA",
+            .fullName = "Cháchara",
         },
         .data = {
             .effect = MOVE_EFFECT_CONFUSE_HIT,
@@ -12121,14 +12121,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_PITY_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user attacks\\nusing a sound wave\\nbased on words it has\\nlearned. It may also\\nconfuse the foe.",
+        .description = "Onda de sonido muy\\nruidosa que confunde al\\nobjetivo.\\n",
     },
 
     [MOVE_JUDGMENT] = {
         .names = {
-            .name = "Judgment",
-            .capsName = "JUDGMENT",
-            .fullName = "Judgment",
+            .name = "Sentencia",
+            .capsName = "SENTENCIA",
+            .fullName = "Sentencia",
         },
         .data = {
             .effect = MOVE_EFFECT_JUDGMENT,
@@ -12148,14 +12148,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_RANDOMIZE_NEXT_TURN,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user releases\\ncountless shots of\\nlight. Its type varies\\nwith the kind of Plate\\nthe user is holding.",
+        .description = "Emite incontables haces\\nde luz. Su tipo varía\\nsegún la tabla que\\nlleve.\\n",
     },
 
     [MOVE_BUG_BITE] = {
         .names = {
-            .name = "Bug Bite",
-            .capsName = "BUG BITE",
-            .fullName = "Bug Bite",
+            .name = "Picadura",
+            .capsName = "PICADURA",
+            .fullName = "Picadura",
         },
         .data = {
             .effect = MOVE_EFFECT_EAT_BERRY,
@@ -12175,14 +12175,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_STEAL_VOLTAGE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user bites the\\nfoe. If the foe is\\nholding a Berry, the\\nuser eats it and\\ngains its effect.",
+        .description = "Pica al rival. Si lleva\\nuna baya, el usuario se\\nla come y obtiene su\\nefecto.\\n",
     },
 
     [MOVE_CHARGE_BEAM] = {
         .names = {
-            .name = "Charge Beam",
-            .capsName = "CHARGE BEAM",
-            .fullName = "Charge Beam",
+            .name = "Rayo Carga",
+            .capsName = "RAYO CARGA",
+            .fullName = "Rayo Carga",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_SP_ATK_HIT,
@@ -12202,14 +12202,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user fires a\\nconcentrated bundle\\nof electricity. It may\\nalso raise the user’s\\nSp. Atk stat.",
+        .description = "Rayo eléctrico que\\npuede subir el Ataque\\nEspecial del usuario.\\n",
     },
 
     [MOVE_WOOD_HAMMER] = {
         .names = {
-            .name = "Wood Hammer",
-            .capsName = "WOOD HAMMER",
-            .fullName = "Wood Hammer",
+            .name = "Mazazo",
+            .capsName = "MAZAZO",
+            .fullName = "Mazazo",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOIL_THIRD,
@@ -12229,14 +12229,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user slams its\\nrugged body into the\\nfoe to attack. The\\nuser also sustains\\nserious damage.",
+        .description = "Arremete con su robusto\\ncuerpo y se hiere\\nseriamente.\\n",
     },
 
     [MOVE_AQUA_JET] = {
         .names = {
-            .name = "Aqua Jet",
-            .capsName = "AQUA JET",
-            .fullName = "Aqua Jet",
+            .name = "Acua Jet",
+            .capsName = "ACUA JET",
+            .fullName = "Acua Jet",
         },
         .data = {
             .effect = MOVE_EFFECT_PRIORITY_1,
@@ -12256,14 +12256,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user lunges at\\nthe foe at a speed\\nthat makes it almost\\ninvisible. It is sure\\nto strike first.",
+        .description = "Ataca a tal velocidad\\nque es casi\\nimperceptible. Tiene\\nprioridad alta.\\n",
     },
 
     [MOVE_ATTACK_ORDER] = {
         .names = {
-            .name = "Attack Order",
-            .capsName = "ATTACK ORDER",
-            .fullName = "Attack Order",
+            .name = "Al Ataque",
+            .capsName = "AL ATAQUE",
+            .fullName = "Al Ataque",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -12283,14 +12283,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user calls out\\nits underlings to\\npummel the foe.\\nIt has a high\\ncritical-hit ratio.",
+        .description = "Llama a sus súbditos\\npara que ataquen.\\nSuele ser crítico.\\n",
     },
 
     [MOVE_DEFEND_ORDER] = {
         .names = {
-            .name = "Defend Order",
-            .capsName = "DEFEND ORDER",
-            .fullName = "Defend Order",
+            .name = "A Defender",
+            .capsName = "A DEFENDER",
+            .fullName = "A Defender",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_SP_DEF_UP,
@@ -12310,14 +12310,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user calls out\\nits underlings to\\nshield its body,\\nraising its Defense\\nand Sp. Def stats.",
+        .description = "Llama a sus súbditos\\npara que formen un\\nescudo viviente. Sube\\nlas Defensas.\\n",
     },
 
     [MOVE_HEAL_ORDER] = {
         .names = {
-            .name = "Heal Order",
-            .capsName = "HEAL ORDER",
-            .fullName = "Heal Order",
+            .name = "Auxilio",
+            .capsName = "AUXILIO",
+            .fullName = "Auxilio",
         },
         .data = {
             .effect = MOVE_EFFECT_RESTORE_HALF_HP,
@@ -12337,14 +12337,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user calls out\\nits underlings to heal\\nit. The user regains\\nup to half of its\\nmax HP.",
+        .description = "Llama a sus súbditos\\npara que lo curen.\\nRecupera la mitad de\\nsus PS.\\n",
     },
 
     [MOVE_HEAD_SMASH] = {
         .names = {
-            .name = "Head Smash",
-            .capsName = "HEAD SMASH",
-            .fullName = "Head Smash",
+            .name = "Testarazo",
+            .capsName = "TESTARAZO",
+            .fullName = "Testarazo",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOIL_HALF,
@@ -12364,14 +12364,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user delivers a\\nlife-endangering\\nattack at full power.\\nThe user also takes\\nterrible damage.",
+        .description = "Arriesga su vida con un\\ncabezazo brutal, pero\\nse hiere gravemente.\\n",
     },
 
     [MOVE_DOUBLE_HIT] = {
         .names = {
-            .name = "Double Hit",
-            .capsName = "DOUBLE HIT",
-            .fullName = "Double Hit",
+            .name = "Doble Golpe",
+            .capsName = "DOBLE GOLPE",
+            .fullName = "Doble Golpe",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_TWICE,
@@ -12391,14 +12391,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user slams the\\nfoe with a long tail,\\nvines, etc. The\\ntarget is hit\\ntwice in a row.",
+        .description = "Golpea dos veces\\nseguidas con la cola u\\notras partes del\\ncuerpo.\\n",
     },
 
     [MOVE_ROAR_OF_TIME] = {
         .names = {
-            .name = "Roar of Time",
-            .capsName = "ROAR OF TIME",
-            .fullName = "Roar of Time",
+            .name = "Distorsión",
+            .capsName = "DISTORSIÓN",
+            .fullName = "Distorsión",
         },
         .data = {
             .effect = MOVE_EFFECT_RECHARGE_AFTER,
@@ -12418,14 +12418,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user blasts the\\nfoe with power that\\ndistorts even time.\\nThe user must rest\\non the next turn.",
+        .description = "Ataca con tal energía\\nque el tiempo se\\ndistorsiona. Debe\\ndescansar después.\\n",
     },
 
     [MOVE_SPACIAL_REND] = {
         .names = {
-            .name = "Spacial Rend",
-            .capsName = "SPACIAL REND",
-            .fullName = "Spacial Rend",
+            .name = "Corte Vacío",
+            .capsName = "CORTE VACÍO",
+            .fullName = "Corte Vacío",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -12445,14 +12445,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user tears the\\nfoe along with the\\nspace around it.\\nThis move has a high\\ncritical-hit ratio.",
+        .description = "Desgarra al objetivo y\\nel espacio a su\\nalrededor. Suele ser\\ncrítico.\\n",
     },
 
     [MOVE_LUNAR_DANCE] = {
         .names = {
-            .name = "Lunar Dance",
-            .capsName = "LUNAR DANCE",
-            .fullName = "Lunar Dance",
+            .name = "Danza Lunar",
+            .capsName = "DANZA LUNAR",
+            .fullName = "Danza Lunar",
         },
         .data = {
             .effect = MOVE_EFFECT_FAINT_FULL_RESTORE_NEXT_MON,
@@ -12472,14 +12472,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user faints. In\\nreturn, the Pokémon\\ntaking its place will\\nhave its status and\\nHP fully restored.",
+        .description = "El usuario se debilita,\\npero cura y restaura\\nlos PS y los PP de su\\nrelevo.\\n",
     },
 
     [MOVE_CRUSH_GRIP] = {
         .names = {
-            .name = "Crush Grip",
-            .capsName = "CRUSH GRIP",
-            .fullName = "Crush Grip",
+            .name = "Agarrón",
+            .capsName = "AGARRÓN",
+            .fullName = "Agarrón",
         },
         .data = {
             .effect = MOVE_EFFECT_INCREASE_POWER_WITH_MORE_HP,
@@ -12499,14 +12499,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The foe is crushed\\nwith great force.\\nThe attack is more\\npowerful the more HP\\nthe foe has left.",
+        .description = "Estruja con gran fuerza.\\nCuantos más PS le\\nqueden al rival, más\\npotencia.\\n",
     },
 
     [MOVE_MAGMA_STORM] = {
         .names = {
-            .name = "Magma Storm",
-            .capsName = "MAGMA STORM",
-            .fullName = "Magma Storm",
+            .name = "Lluvia Ígnea",
+            .capsName = "LLUVIA ÍGNEA",
+            .fullName = "Lluvia Ígnea",
         },
         .data = {
             .effect = MOVE_EFFECT_BIND_HIT,
@@ -12526,14 +12526,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The foe becomes\\ntrapped within a\\nmaelstrom of fire\\nthat rages for two\\nto five turns.",
+        .description = "El objetivo queda\\natrapado en una tormenta\\nde fuego de cuatro a\\ncinco turnos.\\n",
     },
 
     [MOVE_DARK_VOID] = {
         .names = {
-            .name = "Dark Void",
-            .capsName = "DARK VOID",
-            .fullName = "Dark Void",
+            .name = "Brecha Negra",
+            .capsName = "BRECHA NEGRA",
+            .fullName = "Brecha Negra",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_SLEEP,
@@ -12553,14 +12553,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "The foe is dragged\\ninto a world of total\\ndarkness that puts it\\nto sleep.\\n",
+        .description = "Envía al objetivo a un\\nmundo de tinieblas que\\nlo hace dormir.\\n",
     },
 
     [MOVE_SEED_FLARE] = {
         .names = {
-            .name = "Seed Flare",
-            .capsName = "SEED FLARE",
-            .fullName = "Seed Flare",
+            .name = "Fulgor Sem.",
+            .capsName = "FULGOR SEM.",
+            .fullName = "Fulgor Semilla",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_2_HIT,
@@ -12580,14 +12580,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user generates\\na shock wave from\\nwithin its body.\\nIt may also lower the\\ntarget’s Sp. Def.",
+        .description = "Libera una onda de\\nchoque. Puede reducir\\nmucho la Defensa\\nEspecial.\\n",
     },
 
     [MOVE_OMINOUS_WIND] = {
         .names = {
-            .name = "Ominous Wind",
-            .capsName = "OMINOUS WIND",
-            .fullName = "Ominous Wind",
+            .name = "V. Aciago",
+            .capsName = "V. ACIAGO",
+            .fullName = "Viento Aciago",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_ALL_STATS_HIT,
@@ -12607,14 +12607,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user creates a\\ngust of repulsive\\nwind. It may also\\nraise all the user’s\\nstats at once.",
+        .description = "Viento horripilante que\\npuede subir de golpe\\ntodas las\\ncaracterísticas.\\n",
     },
 
     [MOVE_SHADOW_FORCE] = {
         .names = {
-            .name = "Shadow Force",
-            .capsName = "SHADOW FORCE",
-            .fullName = "Shadow Force",
+            .name = "Golpe Umbrío",
+            .capsName = "GOLPE UMBRÍO",
+            .fullName = "Golpe Umbrío",
         },
         .data = {
             .effect = MOVE_EFFECT_SHADOW_FORCE,
@@ -12634,14 +12634,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user disappears,\\nthen strikes the foe\\non the second turn.\\nIt hits even if the\\nfoe protects itself.",
+        .description = "Desaparece en el primer\\nturno y golpea en el\\nsegundo, aunque el\\nrival se proteja.\\n",
     },
 
     [MOVE_468] = {
         .names = {
-            .name = "MOVE_468",
-            .capsName = "MOVE_468",
-            .fullName = "MOVE_468",
+            .name = "-",
+            .capsName = "-",
+            .fullName = "-",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -12666,9 +12666,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_469] = {
         .names = {
-            .name = "MOVE_469",
-            .capsName = "MOVE_469",
-            .fullName = "MOVE_469",
+            .name = "-",
+            .capsName = "-",
+            .fullName = "-",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -12693,9 +12693,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_470] = {
         .names = {
-            .name = "MOVE_470",
-            .capsName = "MOVE_470",
-            .fullName = "MOVE_470",
+            .name = "-",
+            .capsName = "-",
+            .fullName = "-",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -12720,9 +12720,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_HONE_CLAWS] = {
         .names = {
-            .name = "Hone Claws",
-            .capsName = "HONE CLAWS",
-            .fullName = "Hone Claws",
+            .name = "Afilagarras",
+            .capsName = "AFILAGARRAS",
+            .fullName = "Afilagarras",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_ACC_UP,
@@ -12742,14 +12742,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user sharpens\\nits claws to boost\\nits Attack and\\nAccuracy.",
+        .description = "Se afila las garras para\\naumentar su Ataque y su\\nPrecisión.\\n",
     },
 
     [MOVE_WIDE_GUARD] = {
         .names = {
-            .name = "Wide Guard",
-            .capsName = "WIDE GUARD",
-            .fullName = "Wide Guard",
+            .name = "Vasta Guard.",
+            .capsName = "VASTA GUARD.",
+            .fullName = "Vasta Guardia",
         },
         .data = {
             .effect = MOVE_EFFECT_PROTECT_USER_SIDE,
@@ -12769,14 +12769,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user protects\\nitself and its\\nallies from wide-\\nranged attacks.",
+        .description = "Bloquea los ataques de\\nobjetivo múltiple\\ndurante un turno.\\n",
     },
 
     [MOVE_GUARD_SPLIT] = {
         .names = {
-            .name = "Guard Split",
-            .capsName = "GUARD SPLIT",
-            .fullName = "Guard Split",
+            .name = "Isoguardia",
+            .capsName = "ISOGUARDIA",
+            .fullName = "Isoguardia",
         },
         .data = {
             .effect = MOVE_EFFECT_GUARD_SPLIT,
@@ -12796,14 +12796,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user employs its\\npsychic power to\\naverage its Defense\\nand Sp. Def stats\\nwith the target.",
+        .description = "Hace la media de su\\nDefensa y Defensa\\nEspecial con las del\\nrival y las comparte.\\n",
     },
 
     [MOVE_POWER_SPLIT] = {
         .names = {
-            .name = "Power Split",
-            .capsName = "POWER SPLIT",
-            .fullName = "Power Split",
+            .name = "Isofuerza",
+            .capsName = "ISOFUERZA",
+            .fullName = "Isofuerza",
         },
         .data = {
             .effect = MOVE_EFFECT_POWER_SPLIT,
@@ -12823,14 +12823,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user employs its\\npsychic power to\\naverage its Attack\\nand Sp. Atk stats\\nwith the target.",
+        .description = "Hace la media de su\\nAtaque y Ataque\\nEspecial con los del\\nrival y los comparte.\\n",
     },
 
     [MOVE_WONDER_ROOM] = {
         .names = {
-            .name = "Wonder Room",
-            .capsName = "WONDER ROOM",
-            .fullName = "Wonder Room",
+            .name = "Zona Extraña",
+            .capsName = "ZONA EXTRAÑA",
+            .fullName = "Zona Extraña",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -12850,14 +12850,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user creates a\\nbizarre area where\\nPokémon’s Defense\\nand Sp. Def swap\\nfor five turns.",
+        .description = "Espacio misterioso donde\\nse intercambian la\\nDefensa y la Defensa\\nEspecial 5 turnos.\\n",
     },
 
     [MOVE_PSYSHOCK] = {
         .names = {
-            .name = "Psyshock",
-            .capsName = "PSYSHOCK",
-            .fullName = "Psyshock",
+            .name = "Psicocarga",
+            .capsName = "PSICOCARGA",
+            .fullName = "Psicocarga",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -12877,14 +12877,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "An odd psychic wave\\nattacks the target.\\nThis attack does\\nphysical damage.",
+        .description = "Onda psíquica que causa\\ndaño físico al\\nobjetivo.\\n",
     },
 
     [MOVE_VENOSHOCK] = {
         .names = {
-            .name = "Venoshock",
-            .capsName = "VENOSHOCK",
-            .fullName = "Venoshock",
+            .name = "Carga Tóxica",
+            .capsName = "CARGA TÓXICA",
+            .fullName = "Carga Tóxica",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_POWER_ON_POISONED,
@@ -12904,14 +12904,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The foe is soaked\\nby a special acid.\\nIts power doubles if\\nthe foe is poisoned.",
+        .description = "Cubre al rival con un\\nlíquido venenoso.\\nDuplica su potencia si\\nya está envenenado.\\n",
     },
 
     [MOVE_AUTOTOMIZE] = {
         .names = {
-            .name = "Autotomize",
-            .capsName = "AUTOTOMIZE",
-            .fullName = "Autotomize",
+            .name = "Aligerar",
+            .capsName = "ALIGERAR",
+            .fullName = "Aligerar",
         },
         .data = {
             .effect = MOVE_EFFECT_AUTOTOMIZE,
@@ -12931,14 +12931,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user sheds part\\nof its body to make\\nitself lighter and\\nsharply raise its\\nSpeed stat.",
+        .description = "Se desprende de partes\\nprescindibles y sube\\nmucho su Velocidad.\\n",
     },
 
     [MOVE_RAGE_POWDER] = {
         .names = {
-            .name = "Rage Powder",
-            .capsName = "RAGE POWDER",
-            .fullName = "Rage Powder",
+            .name = "Polvo Ira",
+            .capsName = "POLVO IRA",
+            .fullName = "Polvo Ira",
         },
         .data = {
             .effect = MOVE_EFFECT_MAKE_GLOBAL_TARGET,
@@ -12958,14 +12958,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user scatters\\na cloud of powder,\\nmaking foes attack\\nonly the user.",
+        .description = "Polvo que enerva a los\\nrivales y hace que\\ncentren en él sus\\nmovimientos.\\n",
     },
 
     [MOVE_TELEKINESIS] = {
         .names = {
-            .name = "Telekinesis",
-            .capsName = "TELEKINESIS",
-            .fullName = "Telekinesis",
+            .name = "Telequinesis",
+            .capsName = "TELEQUINESIS",
+            .fullName = "Telequinesis",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -12985,14 +12985,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user makes the\\ntarget float with\\npsychic power. The\\ntarget is easier to\\nhit for three turns.",
+        .description = "Hace flotar al rival y\\nlo convierte en un\\nblanco fácil durante\\ntres turnos.\\n",
     },
 
     [MOVE_MAGIC_ROOM] = {
         .names = {
-            .name = "Magic Room",
-            .capsName = "MAGIC ROOM",
-            .fullName = "Magic Room",
+            .name = "Zona Mágica",
+            .capsName = "ZONA MÁGICA",
+            .fullName = "Zona Mágica",
         },
         .data = {
             .effect = MOVE_EFFECT_MAGIC_ROOM,
@@ -13012,14 +13012,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user creates a\\nbizarre area in\\nwhich Pokémon’s held\\nitems lose effect\\nfor five turns.",
+        .description = "Espacio misterioso que\\ninutiliza todos los\\nobjetos durante cinco\\nturnos.\\n",
     },
 
     [MOVE_SMACK_DOWN] = {
         .names = {
-            .name = "Smack Down",
-            .capsName = "SMACK DOWN",
-            .fullName = "Smack Down",
+            .name = "Antiaéreo",
+            .capsName = "ANTIAÉREO",
+            .fullName = "Antiaéreo",
         },
         .data = {
             .effect = MOVE_EFFECT_SMACK_DOWN,
@@ -13039,14 +13039,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "A projectile is\\nthrown at the\\nopponent. A flying\\nPokémon will fall\\nto the ground.",
+        .description = "Lanza una piedra o\\nproyectil. Si el rival\\nestá en el aire, lo\\nderriba.\\n",
     },
 
     [MOVE_STORM_THROW] = {
         .names = {
-            .name = "Storm Throw",
-            .capsName = "STORM THROW",
-            .fullName = "Storm Throw",
+            .name = "Llave Corsé",
+            .capsName = "LLAVE CORSÉ",
+            .fullName = "Llave Corsé",
         },
         .data = {
             .effect = MOVE_EFFECT_ALWAYS_CRITICAL,
@@ -13066,14 +13066,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user strikes\\nthe foe fiercely.\\nIt always results in\\na critical hit.",
+        .description = "Lanza un golpe\\ndevastador. Siempre\\nasesta un golpe\\ncrítico.\\n",
     },
 
     [MOVE_FLAME_BURST] = {
         .names = {
-            .name = "Flame Burst",
-            .capsName = "FLAME BURST",
-            .fullName = "Flame Burst",
+            .name = "Pirotecnia",
+            .capsName = "PIROTECNIA",
+            .fullName = "Pirotecnia",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -13093,14 +13093,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user attacks\\nthe foe with a\\nbursting flame.",
+        .description = "Llamarada que afecta\\ntambién a los Pokémon\\nadyacentes.\\n",
     },
 
     [MOVE_SLUDGE_WAVE] = {
         .names = {
-            .name = "Sludge Wave",
-            .capsName = "SLUDGE WAVE",
-            .fullName = "Sludge Wave",
+            .name = "Onda Tóxica",
+            .capsName = "ONDA TÓXICA",
+            .fullName = "Onda Tóxica",
         },
         .data = {
             .effect = MOVE_EFFECT_POISON_HIT,
@@ -13120,14 +13120,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The area around the\\nuser is swamped by\\na giant sludge wave.\\nIt may also poison\\nthose hit.",
+        .description = "Onda tóxica que daña a\\nlos adyacentes. Puede\\nenvenenar.\\n",
     },
 
     [MOVE_QUIVER_DANCE] = {
         .names = {
-            .name = "Quiver Dance",
-            .capsName = "QUIVER DANCE",
-            .fullName = "Quiver Dance",
+            .name = "Danza Aleteo",
+            .capsName = "DANZA ALETEO",
+            .fullName = "Danza Aleteo",
         },
         .data = {
             .effect = MOVE_EFFECT_SP_ATK_SP_DEF_SPEED_UP,
@@ -13147,14 +13147,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user mystically\\ndances, raising its\\nSp. Atk, Sp. Def,\\nand Speed.",
+        .description = "Danza mística que sube\\nel Ataque Especial, la\\nDefensa Especial y la\\nVelocidad.\\n",
     },
 
     [MOVE_HEAVY_SLAM] = {
         .names = {
-            .name = "Heavy Slam",
-            .capsName = "HEAVY SLAM",
-            .fullName = "Heavy Slam",
+            .name = "Cuerpo Pes.",
+            .capsName = "CUERPO PES.",
+            .fullName = "Cuerpo Pesado",
         },
         .data = {
             .effect = MOVE_EFFECT_HEAVY_SLAM,
@@ -13174,14 +13174,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user slams into\\nthe target. The\\ngreater the weight\\ndifference, the\\ngreater the damage.",
+        .description = "Golpea con todo su\\ncuerpo. Cuanto mayor\\nsea su peso frente al\\ndel rival, más potencia.\\n",
     },
 
     [MOVE_SYNCHRONOISE] = {
         .names = {
-            .name = "Synchronoise",
-            .capsName = "SYNCHRONOISE",
-            .fullName = "Synchronoise",
+            .name = "Sincrorruido",
+            .capsName = "SINCRORRUIDO",
+            .fullName = "Sincrorruido",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -13201,14 +13201,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "Using an odd shock\\nwave, the user\\ndamages same-type\\nPokémon in the\\nsurrounding area.",
+        .description = "Extraña onda que daña a\\nlos adyacentes del\\nmismo tipo que quien\\nla ejecuta.\\n",
     },
 
     [MOVE_ELECTRO_BALL] = {
         .names = {
-            .name = "Electro Ball",
-            .capsName = "ELECTRO BALL",
-            .fullName = "Electro Ball",
+            .name = "Bola Voltio",
+            .capsName = "BOLA VOLTIO",
+            .fullName = "Bola Voltio",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -13228,14 +13228,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user hurls an\\nelectric orb. The\\nfaster the user is\\nthan the foe, the\\ngreater the damage.",
+        .description = "Bola eléctrica. Cuanto\\nmayor sea tu Velocidad\\nfrente a la del rival,\\nmás potencia.\\n",
     },
 
     [MOVE_SOAK] = {
         .names = {
-            .name = "Soak",
-            .capsName = "SOAK",
-            .fullName = "Soak",
+            .name = "Empapar",
+            .capsName = "EMPAPAR",
+            .fullName = "Empapar",
         },
         .data = {
             .effect = MOVE_EFFECT_CHANGE_TO_WATER_TYPE,
@@ -13255,14 +13255,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user shoots a\\ntorrent of water at\\nthe target and\\nchanges the target’s\\ntype to Water.",
+        .description = "Tromba de agua que\\ntransforma al objetivo\\nen un Pokémon de tipo\\nAgua.\\n",
     },
 
     [MOVE_FLAME_CHARGE] = {
         .names = {
-            .name = "Flame Charge",
-            .capsName = "FLAME CHARGE",
-            .fullName = "Flame Charge",
+            .name = "Nitrocarga",
+            .capsName = "NITROCARGA",
+            .fullName = "Nitrocarga",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_SPEED_HIT,
@@ -13282,14 +13282,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user cloaks\\nitself in flames and\\nattacks. It also ups\\nthe user’s Speed.",
+        .description = "Llamas que golpean al\\nobjetivo y aumentan la\\nVelocidad del usuario.\\n",
     },
 
     [MOVE_COIL] = {
         .names = {
-            .name = "Coil",
-            .capsName = "COIL",
-            .fullName = "Coil",
+            .name = "Enrosque",
+            .capsName = "ENROSQUE",
+            .fullName = "Enrosque",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_DEF_ACC_UP,
@@ -13309,14 +13309,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user coils up,\\nraising its Attack,\\nDefense, and\\naccuracy.",
+        .description = "Se concentra y aumenta\\nsu Ataque, su Defensa\\ny su Precisión.\\n",
     },
 
     [MOVE_LOW_SWEEP] = {
         .names = {
-            .name = "Low Sweep",
-            .capsName = "LOW SWEEP",
-            .fullName = "Low Sweep",
+            .name = "Puntapié",
+            .capsName = "PUNTAPIÉ",
+            .fullName = "Puntapié",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SPEED_HIT,
@@ -13336,14 +13336,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user attacks\\nthe foe’s legs,\\nlowering its\\nSpeed stat.",
+        .description = "Ataque rápido a los\\npies del rival que le\\nhace perder Velocidad.\\n",
     },
 
     [MOVE_ACID_SPRAY] = {
         .names = {
-            .name = "Acid Spray",
-            .capsName = "ACID SPRAY",
-            .fullName = "Acid Spray",
+            .name = "Bomba Ácida",
+            .capsName = "BOMBA ÁCIDA",
+            .fullName = "Bomba Ácida",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_2_HIT,
@@ -13363,14 +13363,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user spits fluid\\nthat melts the foe.\\nIt harshly lowers\\nthe foe’s Sp. Def.",
+        .description = "Líquido corrosivo que\\nreduce mucho la\\nDefensa Especial del\\nobjetivo.\\n",
     },
 
     [MOVE_FOUL_PLAY] = {
         .names = {
-            .name = "Foul Play",
-            .capsName = "FOUL PLAY",
-            .fullName = "Foul Play",
+            .name = "Juego Sucio",
+            .capsName = "JUEGO SUCIO",
+            .fullName = "Juego Sucio",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -13390,14 +13390,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user turns the\\ntarget’s power\\nagainst it. Power\\nincreases with the\\nfoe’s Attack stat.",
+        .description = "Usa la fuerza del rival\\npara atacarlo. Cuanto\\nmás Ataque tenga, más\\ndaño provoca.\\n",
     },
 
     [MOVE_SIMPLE_BEAM] = {
         .names = {
-            .name = "Simple Beam",
-            .capsName = "SIMPLE BEAM",
-            .fullName = "Simple Beam",
+            .name = "Onda Simple",
+            .capsName = "ONDA SIMPLE",
+            .fullName = "Onda Simple",
         },
         .data = {
             .effect = MOVE_EFFECT_SET_ABILITY_TO_SIMPLE,
@@ -13417,14 +13417,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user’s\\nmysterious psychic\\nwave changes the\\ntarget’s Ability to\\nSimple.",
+        .description = "Onda psíquica que hace\\nque la habilidad del\\nrival pase a ser\\nSimple.\\n",
     },
 
     [MOVE_ENTRAINMENT] = {
         .names = {
-            .name = "Entrainment",
-            .capsName = "ENTRAINMENT",
-            .fullName = "Entrainment",
+            .name = "Danza Amiga",
+            .capsName = "DANZA AMIGA",
+            .fullName = "Danza Amiga",
         },
         .data = {
             .effect = MOVE_EFFECT_ENTRAINMENT,
@@ -13444,14 +13444,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user dances\\nwith an odd rhythm,\\nmaking the target’s\\nAbility the same as\\nthe user’s Ability.",
+        .description = "Danza que induce a\\nimitarla y cambia su\\nhabilidad por la del\\nusuario.\\n",
     },
 
     [MOVE_AFTER_YOU] = {
         .names = {
-            .name = "After You",
-            .capsName = "AFTER YOU",
-            .fullName = "After You",
+            .name = "Cede Paso",
+            .capsName = "CEDE PASO",
+            .fullName = "Cede Paso",
         },
         .data = {
             .effect = MOVE_EFFECT_AFTER_YOU,
@@ -13471,14 +13471,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user helps the\\ntarget and makes it\\nuse its move right\\nafter the user.",
+        .description = "Si el usuario es el más\\nrápido, permite al\\nrival usar un movimiento\\njusto tras él.\\n",
     },
 
     [MOVE_ROUND] = {
         .names = {
-            .name = "Round",
-            .capsName = "ROUND",
-            .fullName = "Round",
+            .name = "Canon",
+            .capsName = "CANON",
+            .fullName = "Canon",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -13498,14 +13498,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user attacks\\nwith a song. Others\\ncan join in, doing\\nmore damage.",
+        .description = "Entona una canción que\\ndaña. Si otro Pokémon\\nlo usa en el mismo\\nturno, la potencia\\nsube.\\n",
     },
 
     [MOVE_ECHOED_VOICE] = {
         .names = {
-            .name = "Echoed Voice",
-            .capsName = "ECHOED VOICE",
-            .fullName = "Echoed Voice",
+            .name = "Eco Voz",
+            .capsName = "ECO VOZ",
+            .fullName = "Eco Voz",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -13525,14 +13525,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user attacks\\nthe target with a\\nharsh echo.\\nIf used every turn,\\npower increases.",
+        .description = "Susurro que aumenta de\\npotencia conforme se va\\nutilizando.\\n",
     },
 
     [MOVE_CHIP_AWAY] = {
         .names = {
-            .name = "Chip Away",
-            .capsName = "CHIP AWAY",
-            .fullName = "Chip Away",
+            .name = "Guardia Baja",
+            .capsName = "GUARDIA BAJA",
+            .fullName = "Guardia Baja",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -13552,14 +13552,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "An attack which is\\nnot affected by the\\ntarget’s stat\\nchanges.",
+        .description = "Busca los puntos\\ndébiles del objetivo e\\nignora sus cambios de\\ncaracterísticas.\\n",
     },
 
     [MOVE_CLEAR_SMOG] = {
         .names = {
-            .name = "Clear Smog",
-            .capsName = "CLEAR SMOG",
-            .fullName = "Clear Smog",
+            .name = "Niebla Clara",
+            .capsName = "NIEBLA CLARA",
+            .fullName = "Niebla Clara",
         },
         .data = {
             .effect = MOVE_EFFECT_CLEAR_SMOG,
@@ -13579,14 +13579,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user throws a\\nclump of special\\nmud that reverts\\nall stat changes.",
+        .description = "Bola de lodo que\\nelimina cualquier\\ncambio en las\\ncaracterísticas.\\n",
     },
 
     [MOVE_STORED_POWER] = {
         .names = {
-            .name = "Stored Power",
-            .capsName = "STORED POWER",
-            .fullName = "Stored Power",
+            .name = "Poder Res.",
+            .capsName = "PODER RES.",
+            .fullName = "Poder Reserva",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -13606,14 +13606,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user attacks\\nwith a stored power\\nthat grows with\\neach raised stat.",
+        .description = "Acumula poder. Cuanto\\nmás suban tus\\ncaracterísticas, mayor\\npotencia.\\n",
     },
 
     [MOVE_QUICK_GUARD] = {
         .names = {
-            .name = "Quick Guard",
-            .capsName = "QUICK GUARD",
-            .fullName = "Quick Guard",
+            .name = "Anticipo",
+            .capsName = "ANTICIPO",
+            .fullName = "Anticipo",
         },
         .data = {
             .effect = MOVE_EFFECT_PROTECT_USER_SIDE,
@@ -13633,14 +13633,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user protects\\nitself and its\\nallies from priority\\nmoves.",
+        .description = "Protege a sí mismo y a\\nsus aliados de\\nmovimientos con\\nprioridad.\\n",
     },
 
     [MOVE_ALLY_SWITCH] = {
         .names = {
-            .name = "Ally Switch",
-            .capsName = "ALLY SWITCH",
-            .fullName = "Ally Switch",
+            .name = "Cambio Banda",
+            .capsName = "CAMBIO BANDA",
+            .fullName = "Cambio de Banda",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -13660,14 +13660,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user teleports\\nusing a strange\\npower and switches\\nplaces with one of\\nits allies.",
+        .description = "Cambia su posición con\\nla de un aliado sobre\\nel terreno de combate.\\n",
     },
 
     [MOVE_SCALD] = {
         .names = {
-            .name = "Scald",
-            .capsName = "SCALD",
-            .fullName = "Scald",
+            .name = "Escaldar",
+            .capsName = "ESCALDAR",
+            .fullName = "Escaldar",
         },
         .data = {
             .effect = MOVE_EFFECT_THAW_AND_BURN_HIT,
@@ -13687,14 +13687,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Boiling water is\\nshot at the foe.\\nIt may also cause\\na burn.",
+        .description = "Arroja agua hirviendo al\\nobjetivo. Puede causar\\nquemaduras.\\n",
     },
 
     [MOVE_SHELL_SMASH] = {
         .names = {
-            .name = "Shell Smash",
-            .capsName = "SHELL SMASH",
-            .fullName = "Shell Smash",
+            .name = "Rompecoraza",
+            .capsName = "ROMPECORAZA",
+            .fullName = "Rompecoraza",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_SP_ATK_SPEED_UP_2_DEF_SP_DEF_DOWN,
@@ -13714,14 +13714,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Sharply raises\\nAttack, Sp. Atk, and\\nSpeed, but lowers\\nDefense and Sp. Def.",
+        .description = "Rompe su coraza: baja\\nsus Defensas, pero sube\\nmucho el Ataque, el\\nAtaque Especial y la\\nVelocidad.\\n",
     },
 
     [MOVE_HEAL_PULSE] = {
         .names = {
-            .name = "Heal Pulse",
-            .capsName = "HEAL PULSE",
-            .fullName = "Heal Pulse",
+            .name = "Pulso Cura",
+            .capsName = "PULSO CURA",
+            .fullName = "Pulso Cura",
         },
         .data = {
             .effect = MOVE_EFFECT_HEAL_TARGET,
@@ -13741,14 +13741,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user emits a\\nhealing pulse that\\nrestores a target’s\\nHP by up to half.",
+        .description = "Onda curativa que\\nrestaura la mitad de\\nlos PS máximos del\\nobjetivo.\\n",
     },
 
     [MOVE_HEX] = {
         .names = {
-            .name = "Hex",
-            .capsName = "HEX",
-            .fullName = "Hex",
+            .name = "Infortunio",
+            .capsName = "INFORTUNIO",
+            .fullName = "Infortunio",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_DAMAGE_ON_STATUS,
@@ -13768,14 +13768,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "This attack does\\ndouble damage to a\\ntarget affected by\\na status problem.",
+        .description = "Causa un gran daño a los\\nobjetivos que sufren\\nproblemas de estado.\\n",
     },
 
     [MOVE_SKY_DROP] = {
         .names = {
-            .name = "Sky Drop",
-            .capsName = "SKY DROP",
-            .fullName = "Sky Drop",
+            .name = "Caída Libre",
+            .capsName = "CAÍDA LIBRE",
+            .fullName = "Caída Libre",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -13795,14 +13795,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "It takes the enemy\\ninto the sky,\\nwhere it can’t\\nattack. It is\\ndropped next turn.",
+        .description = "Lanza al rival al aire y\\nlo hace caer. Mientras\\nestá arriba, no puede\\nmoverse.\\n",
     },
 
     [MOVE_SHIFT_GEAR] = {
         .names = {
-            .name = "Shift Gear",
-            .capsName = "SHIFT GEAR",
-            .fullName = "Shift Gear",
+            .name = "Camb. Marcha",
+            .capsName = "CAMB. MARCHA",
+            .fullName = "Cambio de Marcha",
         },
         .data = {
             .effect = MOVE_EFFECT_SPEED_UP_2_ATK_UP,
@@ -13822,14 +13822,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "Rotating its gears,\\nthe user raises its\\nAttack and sharply\\nraises its Speed.",
+        .description = "Hace girar los\\ngranajes y aumenta su\\nAtaque y mucho su\\nVelocidad.\\n",
     },
 
     [MOVE_CIRCLE_THROW] = {
         .names = {
-            .name = "Circle Throw",
-            .capsName = "CIRCLE THROW",
-            .fullName = "Circle Throw",
+            .name = "Llave Giro",
+            .capsName = "LLAVE GIRO",
+            .fullName = "Llave Giro",
         },
         .data = {
             .effect = MOVE_EFFECT_FORCE_SWITCH_HIT,
@@ -13849,14 +13849,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is made to\\nswitch out with an\\nally. In the wild,\\nthe battle ends.",
+        .description = "Lanza por los aires al\\nrival y hace que salga\\notro. Si es salvaje,\\nacaba el combate.\\n",
     },
 
     [MOVE_INCINERATE] = {
         .names = {
-            .name = "Incinerate",
-            .capsName = "INCINERATE",
-            .fullName = "Incinerate",
+            .name = "Calcinación",
+            .capsName = "CALCINACIÓN",
+            .fullName = "Calcinación",
         },
         .data = {
             .effect = MOVE_EFFECT_INCINERATE,
@@ -13876,14 +13876,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user burns\\nthe foe completely,\\nrendering a held\\nBerry useless.",
+        .description = "Llamas que golpean al\\nrival. Si lleva una\\nbaya, se quemará y ya\\nno podrá usarla.\\n",
     },
 
     [MOVE_QUASH] = {
         .names = {
-            .name = "Quash",
-            .capsName = "QUASH",
-            .fullName = "Quash",
+            .name = "Último Lugar",
+            .capsName = "ÚLTIMO LUGAR",
+            .fullName = "Último Lugar",
         },
         .data = {
             .effect = MOVE_EFFECT_QUASH,
@@ -13903,14 +13903,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user suppresses\\nthe target and makes\\nits move go last.",
+        .description = "Consigue que el objetivo\\nsea el último en\\nmoverse.\\n",
     },
 
     [MOVE_ACROBATICS] = {
         .names = {
-            .name = "Acrobatics",
-            .capsName = "ACROBATICS",
-            .fullName = "Acrobatics",
+            .name = "Acrobacia",
+            .capsName = "ACROBACIA",
+            .fullName = "Acróbata",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_POWER_WITHOUT_ITEM,
@@ -13930,14 +13930,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "A nimble attack\\nthat does double\\ndamage if the user\\nhas no held item.",
+        .description = "Golpea ágilmente. Si no\\nlleva ningún objeto, el\\ndaño es mayor.\\n",
     },
 
     [MOVE_REFLECT_TYPE] = {
         .names = {
-            .name = "Reflect Type",
-            .capsName = "REFLECT TYPE",
-            .fullName = "Reflect Type",
+            .name = "Clonatipo",
+            .capsName = "CLONATIPO",
+            .fullName = "Clonatipo",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -13957,14 +13957,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user reflects\\nthe target’s type,\\nmaking it the same\\ntype as the target.",
+        .description = "Cambia su tipo al mismo\\nque el del objetivo.\\n",
     },
 
     [MOVE_RETALIATE] = {
         .names = {
-            .name = "Retaliate",
-            .capsName = "RETALIATE",
-            .fullName = "Retaliate",
+            .name = "Represalia",
+            .capsName = "REPRESALIA",
+            .fullName = "Represalia",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -13984,14 +13984,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "If an ally fainted\\nin the previous\\nturn, this attack’s\\ndamage increases.",
+        .description = "Venga a los aliados\\ncaídos. Si en el turno\\nanterior cayó alguno,\\nsube su potencia.\\n",
     },
 
     [MOVE_FINAL_GAMBIT] = {
         .names = {
-            .name = "Final Gambit",
-            .capsName = "FINAL GAMBIT",
-            .fullName = "Final Gambit",
+            .name = "Sacrificio",
+            .capsName = "SACRIFICIO",
+            .fullName = "Sacrificio",
         },
         .data = {
             .effect = MOVE_EFFECT_FINAL_GAMBIT,
@@ -14011,14 +14011,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user risks all,\\ndealing damage\\nequal to its HP\\nand then fainting\\nfrom exhaustion.",
+        .description = "El usuario se sacrifica\\ncausando un daño igual\\na sus PS perdidos.\\n",
     },
 
     [MOVE_BESTOW] = {
         .names = {
-            .name = "Bestow",
-            .capsName = "BESTOW",
-            .fullName = "Bestow",
+            .name = "Ofrenda",
+            .capsName = "OFRENDA",
+            .fullName = "Ofrenda",
         },
         .data = {
             .effect = MOVE_EFFECT_GIVE_HELD_ITEM,
@@ -14038,14 +14038,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user passes its\\nheld item to the\\ntarget when the\\ntarget isn’t holding\\nan item.",
+        .description = "Entrega el objeto que\\nlleva al objetivo si\\neste no tiene ninguno.\\n",
     },
 
     [MOVE_INFERNO] = {
         .names = {
-            .name = "Inferno",
-            .capsName = "INFERNO",
-            .fullName = "Inferno",
+            .name = "Infierno",
+            .capsName = "INFIERNO",
+            .fullName = "Infierno",
         },
         .data = {
             .effect = MOVE_EFFECT_BURN_HIT,
@@ -14065,14 +14065,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The foe is engulfed\\nby an intense fire\\nthat is sure to\\nleave a burn.",
+        .description = "Gran ráfaga de fuego que\\ncausa quemaduras.\\n",
     },
 
     [MOVE_WATER_PLEDGE] = {
         .names = {
-            .name = "Water Pledge",
-            .capsName = "WATER PLEDGE",
-            .fullName = "Water Pledge",
+            .name = "Voto Agua",
+            .capsName = "VOTO AGUA",
+            .fullName = "Voto Agua",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -14092,14 +14092,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "When combined with\\nits fire equivalent,\\nits power increases\\nand a rainbow\\nappears.",
+        .description = "Ataca con columnas de\\nagua. Con Voto Fuego\\ncrea un arcoíris y sube\\nsu potencia.\\n",
     },
 
     [MOVE_FIRE_PLEDGE] = {
         .names = {
-            .name = "Fire Pledge",
-            .capsName = "FIRE PLEDGE",
-            .fullName = "Fire Pledge",
+            .name = "Voto Fuego",
+            .capsName = "VOTO FUEGO",
+            .fullName = "Voto Fuego",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -14119,14 +14119,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "When used with its\\ngrass equivalent,\\nits power increases\\nand a vast sea of\\nfire appears.",
+        .description = "Ataca con columnas de\\nfuego. Con Voto Planta\\ncrea un mar de llamas\\ny sube su potencia.\\n",
     },
 
     [MOVE_GRASS_PLEDGE] = {
         .names = {
-            .name = "Grass Pledge",
-            .capsName = "GRASS PLEDGE",
-            .fullName = "Grass Pledge",
+            .name = "Voto Planta",
+            .capsName = "VOTO PLANTA",
+            .fullName = "Voto Planta",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -14146,14 +14146,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "When used with its\\nwater equivalent,\\nits power increases\\nand a vast swamp\\nappears.",
+        .description = "Ataca con columnas de\\nhojas. Con Voto Agua\\ncrea un pantano y sube\\nsu potencia.\\n",
     },
 
     [MOVE_VOLT_SWITCH] = {
         .names = {
-            .name = "Volt Switch",
-            .capsName = "VOLT SWITCH",
-            .fullName = "Volt Switch",
+            .name = "Voltiocambio",
+            .capsName = "VOLTIOCAMBIO",
+            .fullName = "Voltiocambio",
         },
         .data = {
             .effect = MOVE_EFFECT_SWITCH_HIT,
@@ -14173,14 +14173,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "After attacking,\\nthe user switches\\nplaces with a\\nparty Pokémon.",
+        .description = "Tras atacar, vuelve a\\ntoda prisa para dar\\npaso a otro Pokémon.\\n",
     },
 
     [MOVE_STRUGGLE_BUG] = {
         .names = {
-            .name = "Struggle Bug",
-            .capsName = "STRUGGLE BUG",
-            .fullName = "Struggle Bug",
+            .name = "Estoicismo",
+            .capsName = "ESTOICISMO",
+            .fullName = "Estoicismo",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_ATK_HIT,
@@ -14200,14 +14200,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_CUTE,
         },
-        .description = "While resisting, the\\nuser attacks the\\nfoe, lowering its\\nSp. Atk stat.",
+        .description = "Opone resistencia y\\nataca. También reduce\\nel Ataque Especial.\\n",
     },
 
     [MOVE_BULLDOZE] = {
         .names = {
-            .name = "Bulldoze",
-            .capsName = "BULLDOZE",
-            .fullName = "Bulldoze",
+            .name = "Terratemblor",
+            .capsName = "TERRATEMBLOR",
+            .fullName = "Terratemblor",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SPEED_HIT,
@@ -14227,14 +14227,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user hits all\\nPokémon in battle\\nby stomping. Lowers\\nSpeed of those hit.",
+        .description = "Sacudida sísmica que\\nafecta a los adyacentes\\ny reduce su Velocidad.\\n",
     },
 
     [MOVE_FROST_BREATH] = {
         .names = {
-            .name = "Frost Breath",
-            .capsName = "FROST BREATH",
-            .fullName = "Frost Breath",
+            .name = "Vaho Gélido",
+            .capsName = "VAHO GÉLIDO",
+            .fullName = "Vaho Gélido",
         },
         .data = {
             .effect = MOVE_EFFECT_ALWAYS_CRITICAL,
@@ -14254,14 +14254,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user blows\\ncold air at the foe.\\nIt always results in\\na critical hit.",
+        .description = "Aliento gélido que\\nsiempre asesta un\\ngolpe crítico.\\n",
     },
 
     [MOVE_DRAGON_TAIL] = {
         .names = {
-            .name = "Dragon Tail",
-            .capsName = "DRAGON TAIL",
-            .fullName = "Dragon Tail",
+            .name = "Cola Dragón",
+            .capsName = "COLA DRAGÓN",
+            .fullName = "Cola Dragón",
         },
         .data = {
             .effect = MOVE_EFFECT_FORCE_SWITCH_HIT,
@@ -14281,14 +14281,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The foe is made to\\nswitch out with an\\nally. In the wild,\\nthe battle ends.",
+        .description = "Ataca y obliga al rival\\na cambiarse por otro.\\nSi es salvaje, acaba el\\ncombate.\\n",
     },
 
     [MOVE_WORK_UP] = {
         .names = {
-            .name = "Work Up",
-            .capsName = "WORK UP",
-            .fullName = "Work Up",
+            .name = "Avivar",
+            .capsName = "AVIVAR",
+            .fullName = "Avivar",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_SP_ATK_UP,
@@ -14308,14 +14308,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user rouses\\nitself to raise\\nits Attack and\\nSp. Atk stats.",
+        .description = "Se concentra y aumenta\\nsu Ataque y su Ataque\\nEspecial.\\n",
     },
 
     [MOVE_ELECTROWEB] = {
         .names = {
-            .name = "Electroweb",
-            .capsName = "ELECTROWEB",
-            .fullName = "Electroweb",
+            .name = "Electrotela",
+            .capsName = "ELECTROTELA",
+            .fullName = "Electrotela",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SPEED_HIT,
@@ -14335,14 +14335,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user traps the\\nfoe in an electric\\nnet. It also lowers\\nthe foe’s Speed.",
+        .description = "Telaraña eléctrica que\\natrapa y daña. Reduce\\nla Velocidad.\\n",
     },
 
     [MOVE_WILD_CHARGE] = {
         .names = {
-            .name = "Wild Charge",
-            .capsName = "WILD CHARGE",
-            .fullName = "Wild Charge",
+            .name = "Voltio Cruel",
+            .capsName = "VOLTIO CRUEL",
+            .fullName = "Voltio Cruel",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOIL_THIRD,
@@ -14362,14 +14362,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user throws an\\nelectrified tackle.\\nIt hurts the user\\na little.",
+        .description = "Se envuelve de\\nelectricidad y carga,\\npero se hiere un poco.\\n",
     },
 
     [MOVE_DRILL_RUN] = {
         .names = {
-            .name = "Drill Run",
-            .capsName = "DRILL RUN",
-            .fullName = "Drill Run",
+            .name = "Taladradora",
+            .capsName = "TALADRADORA",
+            .fullName = "Taladradora",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -14389,14 +14389,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user rotates\\nits body like a\\ndrill. It has a high\\ncritical-hit ratio.",
+        .description = "Golpea usando su cuerpo\\ncomo un taladro. Suele\\nser crítico.\\n",
     },
 
     [MOVE_DUAL_CHOP] = {
         .names = {
-            .name = "Dual Chop",
-            .capsName = "DUAL CHOP",
-            .fullName = "Dual Chop",
+            .name = "Golpe Bis",
+            .capsName = "GOLPE BIS",
+            .fullName = "Golpe Bis",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_TWICE,
@@ -14416,14 +14416,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user hits\\nthe foe with two\\nbrutal strikes\\nin one turn.",
+        .description = "Golpea dos veces\\nseguidas con las partes\\nmás recías del cuerpo.\\n",
     },
 
     [MOVE_HEART_STAMP] = {
         .names = {
-            .name = "Heart Stamp",
-            .capsName = "HEART STAMP",
-            .fullName = "Heart Stamp",
+            .name = "Arrumaco",
+            .capsName = "ARRUMACO",
+            .fullName = "Arrumaco",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -14443,14 +14443,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The foe is hit\\nafter a cute act.\\nIt may also make\\nthe foe flinch.",
+        .description = "Despista con gestos\\nadorables y asesta un\\ngolpe que puede hacer\\nretroceder.\\n",
     },
 
     [MOVE_HORN_LEECH] = {
         .names = {
-            .name = "Horn Leech",
-            .capsName = "HORN LEECH",
-            .fullName = "Horn Leech",
+            .name = "Asta Drenaje",
+            .capsName = "ASTA DRENAJE",
+            .fullName = "Asta Drenaje",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOVER_HALF_DAMAGE_DEALT,
@@ -14470,14 +14470,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "A harsh attack that\\nabsorbs half the\\ndamage it inflicted\\nto restore HP.",
+        .description = "Ensarta con su\\ncornamenta y absorbe\\nenergía. Recupera la\\nmitad del daño.\\n",
     },
 
     [MOVE_SACRED_SWORD] = {
         .names = {
-            .name = "Sacred Sword",
-            .capsName = "SACRED SWORD",
-            .fullName = "Sacred Sword",
+            .name = "Espada Santa",
+            .capsName = "ESPADA SANTA",
+            .fullName = "Espada Santa",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -14497,14 +14497,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks by\\nslicing with a long\\nhorn. The target’s\\nstat changes are\\nignored.",
+        .description = "Ataca con una espada e\\nignora los cambios en\\nlas características del\\nobjetivo.\\n",
     },
 
     [MOVE_RAZOR_SHELL] = {
         .names = {
-            .name = "Razor Shell",
-            .capsName = "RAZOR SHELL",
-            .fullName = "Razor Shell",
+            .name = "Concha Filo",
+            .capsName = "CONCHA FILO",
+            .fullName = "Concha Filo",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_DEFENSE_HIT,
@@ -14524,14 +14524,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The foe is cut\\nby sharp shells.\\nIt may also lower\\nthe foe’s Defense.",
+        .description = "Ataca con una afilada\\nvieira y puede reducir\\nla Defensa.\\n",
     },
 
     [MOVE_HEAT_CRASH] = {
         .names = {
-            .name = "Heat Crash",
-            .capsName = "HEAT CRASH",
-            .fullName = "Heat Crash",
+            .name = "Golpe Calor",
+            .capsName = "GOLPE CALOR",
+            .fullName = "Golpe Calor",
         },
         .data = {
             .effect = MOVE_EFFECT_HEAVY_SLAM,
@@ -14551,14 +14551,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user slams down\\nwith fire. The more\\nthe user outweighs\\nthe foe, the greater\\nthe damage.",
+        .description = "Ataca con su cuerpo\\nardiente. Cuanto más\\npeso frente al rival,\\nmás potencia.\\n",
     },
 
     [MOVE_LEAF_TORNADO] = {
         .names = {
-            .name = "Leaf Tornado",
-            .capsName = "LEAF TORNADO",
-            .fullName = "Leaf Tornado",
+            .name = "Ciclón Hojas",
+            .capsName = "CICLÓN HOJAS",
+            .fullName = "Ciclón de Hojas",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_ACCURACY_HIT,
@@ -14578,14 +14578,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "Sharp leaves circle\\nthe foe. It may also\\nlower the foe’s\\naccuracy.",
+        .description = "Tritura con afiladas\\nhojas y puede bajar la\\nPrecisión.\\n",
     },
 
     [MOVE_STEAMROLLER] = {
         .names = {
-            .name = "Steamroller",
-            .capsName = "STEAMROLLER",
-            .fullName = "Steamroller",
+            .name = "Rodillo Púas",
+            .capsName = "RODILLO PÚAS",
+            .fullName = "Rodillo de Púas",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_MINIMIZE_DOUBLE_HIT,
@@ -14605,14 +14605,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user crushes\\nthe foe with its\\nbody. It may also\\nmake the foe flinch.",
+        .description = "Se hace una bola y\\narrolla al rival con su\\ncuerpo. Puede hacerlo\\nretroceder.\\n",
     },
 
     [MOVE_COTTON_GUARD] = {
         .names = {
-            .name = "Cotton Guard",
-            .capsName = "COTTON GUARD",
-            .fullName = "Cotton Guard",
+            .name = "Rizo Algodón",
+            .capsName = "RIZO ALGODÓN",
+            .fullName = "Rizo Algodón",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_UP_3,
@@ -14632,14 +14632,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user protects\\nitself with cotton,\\ndrastically raising\\nits Defense.",
+        .description = "Se cubre con una madeja\\nprotectora que aumenta\\nmuchísimo la Defensa.\\n",
     },
 
     [MOVE_NIGHT_DAZE] = {
         .names = {
-            .name = "Night Daze",
-            .capsName = "NIGHT DAZE",
-            .fullName = "Night Daze",
+            .name = "Pulso Noche",
+            .capsName = "PULSO NOCHE",
+            .fullName = "Pulso Noche",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_ACCURACY_HIT,
@@ -14659,14 +14659,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user releases a\\npitch-black blast\\nat its target. May\\nalso lower target’s\\naccuracy.",
+        .description = "Onda siniestra que puede\\nreducir la Precisión del\\nobjetivo.\\n",
     },
 
     [MOVE_PSYSTRIKE] = {
         .names = {
-            .name = "Psystrike",
-            .capsName = "PSYSTRIKE",
-            .fullName = "Psystrike",
+            .name = "Onda Mental",
+            .capsName = "ONDA MENTAL",
+            .fullName = "Onda Mental",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -14686,14 +14686,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "An odd psychic wave\\nattacks the target.\\nThis attack does\\nphysical damage.",
+        .description = "Onda psíquica que causa\\ndaño físico al\\nobjetivo.\\n",
     },
 
     [MOVE_TAIL_SLAP] = {
         .names = {
-            .name = "Tail Slap",
-            .capsName = "TAIL SLAP",
-            .fullName = "Tail Slap",
+            .name = "Plumerazo",
+            .capsName = "PLUMERAZO",
+            .fullName = "Plumerazo",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -14713,14 +14713,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The use attacks by\\nhitting the target\\nwith its hard tail.\\nIt hits two to five\\ntimes in a row.",
+        .description = "Golpea con la cola de dos\\na cinco veces seguidas.\\n",
     },
 
     [MOVE_HURRICANE] = {
         .names = {
-            .name = "Hurricane",
-            .capsName = "HURRICANE",
-            .fullName = "Hurricane",
+            .name = "Vendaval",
+            .capsName = "VENDAVAL",
+            .fullName = "Vendaval",
         },
         .data = {
             .effect = MOVE_EFFECT_HURRICANE,
@@ -14740,14 +14740,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user attacks by\\nwrapping its opponent\\nin a fierce wind.\\nThis may also confuse\\nthe target.",
+        .description = "Fuerte torbellino que\\nenvuelve al objetivo y\\npuede confundirlo.\\n",
     },
 
     [MOVE_HEAD_CHARGE] = {
         .names = {
-            .name = "Head Charge",
-            .capsName = "HEAD CHARGE",
-            .fullName = "Head Charge",
+            .name = "Ariete",
+            .capsName = "ARIETE",
+            .fullName = "Ariete",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOIL_THIRD,
@@ -14767,14 +14767,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user charges its\\nhead into its foe,\\nusing its guard hair.\\nIt slightly damages\\nthe user.",
+        .description = "Tremendo cabezazo. El\\nusuario se hiere\\nligeramente.\\n",
     },
 
     [MOVE_GEAR_GRIND] = {
         .names = {
-            .name = "Gear Grind",
-            .capsName = "GEAR GRIND",
-            .fullName = "Gear Grind",
+            .name = "Rueda Doble",
+            .capsName = "RUEDA DOBLE",
+            .fullName = "Rueda Doble",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_TWICE,
@@ -14794,14 +14794,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user attacks by\\nthrowing two steel\\ngears at it target.\\nThis attack hits\\ntwice in a row.",
+        .description = "Lanza dos engranajes de\\nhierro y golpea dos\\nveces seguidas.\\n",
     },
 
     [MOVE_SEARING_SHOT] = {
         .names = {
-            .name = "Searing Shot",
-            .capsName = "SEARING SHOT",
-            .fullName = "Searing Shot",
+            .name = "Bomba Ígnea",
+            .capsName = "BOMBA ÍGNEA",
+            .fullName = "Bomba Ígnea",
         },
         .data = {
             .effect = MOVE_EFFECT_BURN_HIT,
@@ -14821,14 +14821,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user torches\\neverything around it\\nin an inferno of\\nscarlet flames. It\\nmay burn the foes.",
+        .description = "Infierno de llamas que\\ndaña a los adyacentes.\\nPuede causar\\nquemaduras.\\n",
     },
 
     [MOVE_TECHNO_BLAST] = {
         .names = {
-            .name = "Techno Blast",
-            .capsName = "TECHNO BLAST",
-            .fullName = "Techno Blast",
+            .name = "Tecno Shock",
+            .capsName = "TECNO SHOCK",
+            .fullName = "Tecno Shock",
         },
         .data = {
             .effect = MOVE_EFFECT_TECHNO_BLAST,
@@ -14848,14 +14848,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user fires a beam\\nof light at its foe.\\nThe type changes\\ndepending on the\\nDrive held.",
+        .description = "Gran láser cuyo tipo\\ndepende del cartucho\\nque porta el usuario.\\n",
     },
 
     [MOVE_RELIC_SONG] = {
         .names = {
-            .name = "Relic Song",
-            .capsName = "RELIC SONG",
-            .fullName = "Relic Song",
+            .name = "Canto Arc.",
+            .capsName = "CANTO ARC.",
+            .fullName = "Canto Arcaico",
         },
         .data = {
             .effect = MOVE_EFFECT_SLEEP_HIT,
@@ -14875,14 +14875,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user sings an\\nancient song and\\nattacks the hearts of\\nthe listeners. It\\nmay induce sleep.",
+        .description = "Antiguo canto que\\nconmueve al objetivo.\\nPuede dormirlo.\\n",
     },
 
     [MOVE_SECRET_SWORD] = {
         .names = {
-            .name = "Secret Sword",
-            .capsName = "SECRET SWORD",
-            .fullName = "Secret Sword",
+            .name = "Sable Míst.",
+            .capsName = "SABLE MÍST.",
+            .fullName = "Sable Místico",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -14902,14 +14902,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user cuts with\\nits long horn. The\\nodd power in the\\nhorn does physical\\ndamage to the foe.",
+        .description = "Ensarta con un largo\\ncuerno dotado de poder\\nmístico que provoca\\ndaño físico.\\n",
     },
 
     [MOVE_GLACIATE] = {
         .names = {
-            .name = "Glaciate",
-            .capsName = "GLACIATE",
-            .fullName = "Glaciate",
+            .name = "Mundo Gélido",
+            .capsName = "MUNDO GÉLIDO",
+            .fullName = "Mundo Gélido",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SPEED_HIT,
@@ -14929,14 +14929,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user attacks by\\nblowing freezing cold\\nair at opposing\\nPokémon. This lowers\\ntheir Speed.",
+        .description = "Aire helado que reduce\\nla Velocidad del\\nobjetivo.\\n",
     },
 
     [MOVE_BOLT_STRIKE] = {
         .names = {
-            .name = "Bolt Strike",
-            .capsName = "BOLT STRIKE",
-            .fullName = "Bolt Strike",
+            .name = "Ataq. Fulgor",
+            .capsName = "ATAQ. FULGOR",
+            .fullName = "Ataque Fulgor",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -14956,14 +14956,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user surrounds\\nitself with abundant\\nelectricity that can\\nparalyze and charges\\nits target.",
+        .description = "Se envuelve de una gran\\ncarga eléctrica y\\nembiste. Puede\\nparalizar.\\n",
     },
 
     [MOVE_BLUE_FLARE] = {
         .names = {
-            .name = "Blue Flare",
-            .capsName = "BLUE FLARE",
-            .fullName = "Blue Flare",
+            .name = "Llama Azul",
+            .capsName = "LLAMA AZUL",
+            .fullName = "Llama Azul",
         },
         .data = {
             .effect = MOVE_EFFECT_BURN_HIT,
@@ -14983,14 +14983,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user attacks by\\nengulfing the foe in\\na severe, beautiful,\\nblue flame. It may\\nburn the foe.",
+        .description = "Bella pero potente\\nllama azul que rodea al\\nobjetivo. Puede quemar.\\n",
     },
 
     [MOVE_FIERY_DANCE] = {
         .names = {
-            .name = "Fiery Dance",
-            .capsName = "FIERY DANCE",
-            .fullName = "Fiery Dance",
+            .name = "Danza Llama",
+            .capsName = "DANZA LLAMA",
+            .fullName = "Danza Llama",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_SP_ATK_HIT,
@@ -15010,14 +15010,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Cloaked in flames,\\nthe user dances.\\nIt may also raise\\nthe user’s Sp. Atk.",
+        .description = "Se envuelve en llamas y\\nagita las alas para\\ndañar. Puede subir el\\nAtaque Especial.\\n",
     },
 
     [MOVE_FREEZE_SHOCK] = {
         .names = {
-            .name = "Freeze Shock",
-            .capsName = "FREEZE SHOCK",
-            .fullName = "Freeze Shock",
+            .name = "Rayo Gélido",
+            .capsName = "RAYO GÉLIDO",
+            .fullName = "Rayo Gélido",
         },
         .data = {
             .effect = MOVE_EFFECT_CHARGE_TURN_PARALYZE_HIT,
@@ -15037,14 +15037,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "A two-turn attack\\nthat hits the foe\\nwith electrically\\ncharged ice. It may\\nparalyze the foe.",
+        .description = "Carga un bloque de hielo\\nelectrizado y ataca al\\nsegundo turno. Puede\\nparalizar.\\n",
     },
 
     [MOVE_ICE_BURN] = {
         .names = {
-            .name = "Ice Burn",
-            .capsName = "ICE BURN",
-            .fullName = "Ice Burn",
+            .name = "Llama Gélida",
+            .capsName = "LLAMA GÉLIDA",
+            .fullName = "Llama Gélida",
         },
         .data = {
             .effect = MOVE_EFFECT_CHARGE_TURN_BURN_HIT,
@@ -15064,14 +15064,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "A two-turn attack\\nthat surrounds the\\nfoe with ultracold,\\nfreezing wind. It\\nmay burn the foe.",
+        .description = "Ataca al segundo turno\\nrodeando al rival de un\\naire gélido. Puede\\nquemar.\\n",
     },
 
     [MOVE_SNARL] = {
         .names = {
-            .name = "Snarl",
-            .capsName = "SNARL",
-            .fullName = "Snarl",
+            .name = "Alarido",
+            .capsName = "ALARIDO",
+            .fullName = "Alarido",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_ATK_HIT,
@@ -15091,14 +15091,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user barks\\nmenacingly. It\\nalso lowers the\\nfoe’s Sp. Atk.",
+        .description = "Chillido desagradable\\nque reduce el Ataque\\nEspecial.\\n",
     },
 
     [MOVE_ICICLE_CRASH] = {
         .names = {
-            .name = "Icicle Crash",
-            .capsName = "ICICLE CRASH",
-            .fullName = "Icicle Crash",
+            .name = "Chuzos",
+            .capsName = "CHUZOS",
+            .fullName = "Chuzos",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -15118,14 +15118,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Icicles are dropped\\non the foe. It may\\nalso make the foe\\nflinch.",
+        .description = "Lanza grandes\\ncarámbanos. Puede\\namedrentar al rival.\\n",
     },
 
     [MOVE_V_CREATE] = {
         .names = {
-            .name = "V-create",
-            .capsName = "V-CREATE",
-            .fullName = "V-create",
+            .name = "V de Fuego",
+            .capsName = "V DE FUEGO",
+            .fullName = "V de Fuego",
         },
         .data = {
             .effect = MOVE_EFFECT_USER_DEF_SP_DEF_SPEED_DOWN_HIT,
@@ -15145,14 +15145,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user hurls the\\nhot flame on its\\nforehead. It lowers\\nthe user’s Def, Sp.\\nDef, and Speed.",
+        .description = "De su frente mana una\\nllama ardiente con la\\nque arremete. Baja su\\nDefensa, Def. Esp. y\\nVelocidad.\\n",
     },
 
     [MOVE_FUSION_FLARE] = {
         .names = {
-            .name = "Fusion Flare",
-            .capsName = "FUSION FLARE",
-            .fullName = "Fusion Flare",
+            .name = "Llama Fusión",
+            .capsName = "LLAMA FUSIÓN",
+            .fullName = "Llama Fusión",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -15172,14 +15172,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user brings down\\na giant flame.\\nIt does more damage\\nwhen influenced by\\nan enormous bolt.",
+        .description = "Llamarada gigantesca que\\naumenta su potencia si\\nla influye una gran\\nenergía eléctrica.\\n",
     },
 
     [MOVE_FUSION_BOLT] = {
         .names = {
-            .name = "Fusion Bolt",
-            .capsName = "FUSION BOLT",
-            .fullName = "Fusion Bolt",
+            .name = "Rayo Fusión",
+            .capsName = "RAYO FUSIÓN",
+            .fullName = "Rayo Fusión",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -15199,14 +15199,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user throws down\\na giant bolt.\\nIt does more damage\\nwhen influenced by\\nan enormous flame.",
+        .description = "Enorme descarga\\neléctrica que aumenta\\nsu potencia si la\\ninfluye una llamarada.\\n",
     },
 
     [MOVE_FLYING_PRESS] = {
         .names = {
-            .name = "Flying Press",
-            .capsName = "FLYING PRESS",
-            .fullName = "Flying Press",
+            .name = "Plancha Vol.",
+            .capsName = "PLANCHA VOL.",
+            .fullName = "Plancha Voladora",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -15226,14 +15226,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user dives down\\nonto the target from\\nthe sky. This move is\\nFighting and Flying\\ntype simultaneously.",
+        .description = "Se lanza sobre el\\nobjetivo. Este\\nmovimiento es de tipo\\nLucha y Volador a la\\nvez.\\n",
     },
 
     [MOVE_MAT_BLOCK] = {
         .names = {
-            .name = "Mat Block",
-            .capsName = "MAT BLOCK",
-            .fullName = "Mat Block",
+            .name = "Esc. Tatami",
+            .capsName = "ESC. TATAMI",
+            .fullName = "Escudo Tatami",
         },
         .data = {
             .effect = MOVE_EFFECT_PROTECT_USER_SIDE,
@@ -15253,14 +15253,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "Using a pulled-up mat\\nas a shield, the user\\nprotects itself and\\nits allies from\\ndamaging moves.",
+        .description = "Usa un tatami para\\nescudarse y proteger a\\nlos aliados. No sirve\\ncontra movimientos de\\nestado.\\n",
     },
 
     [MOVE_BELCH] = {
         .names = {
-            .name = "Belch",
-            .capsName = "BELCH",
-            .fullName = "Belch",
+            .name = "Eructo",
+            .capsName = "ERUCTO",
+            .fullName = "Eructo",
         },
         .data = {
             .effect = MOVE_EFFECT_BELCH,
@@ -15280,14 +15280,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user lets out a\\ndamaging belch at the\\ntarget. The user must\\neat a held Berry to\\nuse this move.",
+        .description = "Eructo dañino. Para\\nusarlo hay que haberse\\ncomido antes una baya\\nequipada.\\n",
     },
 
     [MOVE_ROTOTILLER] = {
         .names = {
-            .name = "Rototiller",
-            .capsName = "ROTOTILLER",
-            .fullName = "Rototiller",
+            .name = "Fertilizante",
+            .capsName = "FERTILIZANTE",
+            .fullName = "Fertilizante",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -15307,14 +15307,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "By making it easier\\nfor plants to grow,\\nthe user raises the\\nAttack and Sp. Atk\\nstats of Grass-types.",
+        .description = "Labra la tierra y sube\\nel Ataque y el Ataque\\nEspecial de los Pokémon\\nde tipo Planta.\\n",
     },
 
     [MOVE_STICKY_WEB] = {
         .names = {
-            .name = "Sticky Web",
-            .capsName = "STICKY WEB",
-            .fullName = "Sticky Web",
+            .name = "Red Viscosa",
+            .capsName = "RED VISCOSA",
+            .fullName = "Red Viscosa",
         },
         .data = {
             .effect = MOVE_EFFECT_STICKY_WEB,
@@ -15334,14 +15334,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user weaves a web\\naround the opposing\\nteam, which lowers\\ntheir Speed stat upon\\nswitching into battle.",
+        .description = "Red pegajosa que reduce\\nla Velocidad de los\\nrivales que entran en\\ncombate.\\n",
     },
 
     [MOVE_FELL_STINGER] = {
         .names = {
-            .name = "Fell Stinger",
-            .capsName = "FELL STINGER",
-            .fullName = "Fell Stinger",
+            .name = "Aguijón Let.",
+            .capsName = "AGUIJÓN LET.",
+            .fullName = "Aguijón Letal",
         },
         .data = {
             .effect = MOVE_EFFECT_FELL_STINGER,
@@ -15361,14 +15361,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "When the user knocks\\nout a target with\\nthis move, the\\nuser’s Attack stat\\nrises drastically.",
+        .description = "Si se derrota al rival\\ncon este movimiento,\\nsube muchísimo tu\\nAtaque.\\n",
     },
 
     [MOVE_PHANTOM_FORCE] = {
         .names = {
-            .name = "Phantom Force",
-            .capsName = "PHANTOM FORCE",
-            .fullName = "Phantom Force",
+            .name = "Golpe Fant.",
+            .capsName = "GOLPE FANT.",
+            .fullName = "Golpe Fantasma",
         },
         .data = {
             .effect = MOVE_EFFECT_SHADOW_FORCE,
@@ -15388,14 +15388,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user disappears,\\nthen strikes the foe\\non the second turn.\\nIt hits even if the\\nfoe protects itself.",
+        .description = "Desaparece en el primer\\nturno y ataca en el\\nsegundo aunque el rival\\nse proteja.\\n",
     },
 
     [MOVE_TRICK_OR_TREAT] = {
         .names = {
-            .name = "Trick-or-Treat",
-            .capsName = "TRICK-OR-TREAT",
-            .fullName = "Trick-or-Treat",
+            .name = "Halloween",
+            .capsName = "HALLOWEEN",
+            .fullName = "Halloween",
         },
         .data = {
             .effect = MOVE_EFFECT_ADD_TYPE_GHOST,
@@ -15415,14 +15415,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user takes the\\ntarget trick-or-\\ntreating.\\nThis adds Ghost type\\nto the target’s type.",
+        .description = "Invita al rival a\\ncelebrar Halloween y\\nañade el tipo Fantasma\\na sus tipos.\\n",
     },
 
     [MOVE_NOBLE_ROAR] = {
         .names = {
-            .name = "Noble Roar",
-            .capsName = "NOBLE ROAR",
-            .fullName = "Noble Roar",
+            .name = "Rugido G.",
+            .capsName = "RUGIDO G.",
+            .fullName = "Rugido de Guerra",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_SP_ATK_DOWN,
@@ -15442,14 +15442,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Letting out a noble\\nroar, the user\\nintimidates the target\\nand lowers its Attack\\nand Sp. Atk stats.",
+        .description = "Rugido de guerra que\\nreduce el Ataque y el\\nAtaque Especial del\\nobjetivo.\\n",
     },
 
     [MOVE_ION_DELUGE] = {
         .names = {
-            .name = "Ion Deluge",
-            .capsName = "ION DELUGE",
-            .fullName = "Ion Deluge",
+            .name = "Cortina",
+            .capsName = "CORTINA",
+            .fullName = "Cortina Plasma",
         },
         .data = {
             .effect = MOVE_EFFECT_ION_DELUGE,
@@ -15469,14 +15469,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user disperses\\nelectrically charged\\nparticles, which\\nchanges Normal-type\\nmoves to Electric.",
+        .description = "Disemina partículas\\neléctricas que\\nconvierten los\\nmovimientos de tipo\\nNormal en Eléctrico.\\n",
     },
 
     [MOVE_PARABOLIC_CHARGE] = {
         .names = {
-            .name = "ParabolicCharge",
-            .capsName = "PARABOLICCHARGE",
-            .fullName = "Parabolic Charge",
+            .name = "Carga Paráb.",
+            .capsName = "CARGA PARÁB.",
+            .fullName = "Carga Parábola",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOVER_HALF_DAMAGE_DEALT,
@@ -15496,14 +15496,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "An energy-draining\\nshockwave. The user’s\\nHP is restored by\\nhalf the damage taken\\nby those hit.",
+        .description = "Daña a los adyacentes y\\nabsorbe la mitad del\\ndaño para restaurar\\nsus PS.\\n",
     },
 
     [MOVE_FORESTS_CURSE] = {
         .names = {
-            .name = "Forest’s Curse",
-            .capsName = "FOREST’S CURSE",
-            .fullName = "Forest’s Curse",
+            .name = "Condena",
+            .capsName = "CONDENA",
+            .fullName = "Condena Silvana",
         },
         .data = {
             .effect = MOVE_EFFECT_ADD_TYPE_GRASS,
@@ -15523,14 +15523,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user puts a\\nforest curse on the\\ntarget.\\nThis adds Grass type\\nto the target’s type.",
+        .description = "El objetivo es presa de\\nla maldición del bosque\\ny pasa a ser de tipo\\nPlanta.\\n",
     },
 
     [MOVE_PETAL_BLIZZARD] = {
         .names = {
-            .name = "Petal Blizzard",
-            .capsName = "PETAL BLIZZARD",
-            .fullName = "Petal Blizzard",
+            .name = "Torm. Floral",
+            .capsName = "TORM. FLORAL",
+            .fullName = "Tormenta Floral",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -15550,14 +15550,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user stirs up a\\nviolent petal blizzard\\nand attacks everything\\naround it.",
+        .description = "Vendaval de pétalos que\\ndaña a los Pokémon\\nadyacentes.\\n",
     },
 
     [MOVE_FREEZE_DRY] = {
         .names = {
-            .name = "Freeze-Dry",
-            .capsName = "FREEZE-DRY",
-            .fullName = "Freeze-Dry",
+            .name = "Liofiliz.",
+            .capsName = "LIOFILIZ.",
+            .fullName = "Liofilización",
         },
         .data = {
             .effect = MOVE_EFFECT_FREEZE_HIT,
@@ -15577,14 +15577,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user rapidly cools\\nthe target, possibly\\nleaving them frozen.\\nThis move is super\\neffective on Water.",
+        .description = "Enfría de repente y\\npuede congelar. Es\\nsupereficaz contra el\\ntipo Agua.\\n",
     },
 
     [MOVE_DISARMING_VOICE] = {
         .names = {
-            .name = "Disarming Voice",
-            .capsName = "DISARMING VOICE",
-            .fullName = "Disarming Voice",
+            .name = "Voz Cautiv.",
+            .capsName = "VOZ CAUTIV.",
+            .fullName = "Voz Cautivadora",
         },
         .data = {
             .effect = MOVE_EFFECT_BYPASS_ACCURACY,
@@ -15604,14 +15604,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Letting out a charming\\ncry, the user does\\nemotional damage to\\nopposing Pokémon. This\\nattack never misses.",
+        .description = "Fascinante voz que\\nobnubila al objetivo.\\nNo falla nunca.\\n",
     },
 
     [MOVE_PARTING_SHOT] = {
         .names = {
-            .name = "Parting Shot",
-            .capsName = "PARTING SHOT",
-            .fullName = "Parting Shot",
+            .name = "Últ. Palabra",
+            .capsName = "ÚLT. PALABRA",
+            .fullName = "Última Palabra",
         },
         .data = {
             .effect = MOVE_EFFECT_PARTING_SHOT,
@@ -15631,14 +15631,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "With a parting threat,\\nthe user lowers the\\ntarget’s Attack and\\nSp. Atk stats.\\nThen it switches out.",
+        .description = "Se cambia por otro,\\npero antes intimida y\\nbaja el Ataque y el\\nAtaque Especial.\\n",
     },
 
     [MOVE_TOPSY_TURVY] = {
         .names = {
-            .name = "Topsy-Turvy",
-            .capsName = "TOPSY-TURVY",
-            .fullName = "Topsy-Turvy",
+            .name = "Reversión",
+            .capsName = "REVERSIÓN",
+            .fullName = "Reversión",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -15658,14 +15658,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "All stat changes\\naffecting the target\\nturn topsy-turvy and\\nbecome the opposite of\\nwhat they were.",
+        .description = "Invierte por completo\\nlos cambios en las\\ncaracterísticas del\\nobjetivo.\\n",
     },
 
     [MOVE_DRAINING_KISS] = {
         .names = {
-            .name = "Draining Kiss",
-            .capsName = "DRAINING KISS",
-            .fullName = "Draining Kiss",
+            .name = "Beso Drenaje",
+            .capsName = "BESO DRENAJE",
+            .fullName = "Beso Drenaje",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOVER_THREE_QUARTERS_DAMAGE_DEALT,
@@ -15685,14 +15685,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_CUTE,
         },
-        .description = "An energy-stealing\\nkiss. The user’s\\nHP is restored by\\nhalf the damage taken\\nby the target.",
+        .description = "Absorbe energía con un\\nbeso y restaura PS en\\nuna cantidad igual o\\nsuperior a la mitad\\ndel daño.\\n",
     },
 
     [MOVE_CRAFTY_SHIELD] = {
         .names = {
-            .name = "Crafty Shield",
-            .capsName = "CRAFTY SHIELD",
-            .fullName = "Crafty Shield",
+            .name = "Truco Def.",
+            .capsName = "TRUCO DEF.",
+            .fullName = "Truco Defensa",
         },
         .data = {
             .effect = MOVE_EFFECT_PROTECT_USER_SIDE,
@@ -15712,14 +15712,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user protects\\nitself and its allies\\nfrom status moves\\nwith a mysterious\\npower.",
+        .description = "Poderes misteriosos que\\nle protegen a él y a\\nsus aliados de los\\nmovimientos de estado.\\n",
     },
 
     [MOVE_FLOWER_SHIELD] = {
         .names = {
-            .name = "Flower Shield",
-            .capsName = "FLOWER SHIELD",
-            .fullName = "Flower Shield",
+            .name = "Def. Floral",
+            .capsName = "DEF. FLORAL",
+            .fullName = "Defensa Floral",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -15739,14 +15739,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user raises the\\nDefense stats of all\\nGrass-type Pokémon\\nin battle with a\\nmysterious power.",
+        .description = "Aumenta la Defensa de\\ntodos los Pokémon de\\ntipo Planta en combate.\\n",
     },
 
     [MOVE_GRASSY_TERRAIN] = {
         .names = {
-            .name = "Grassy Terrain",
-            .capsName = "GRASSY TERRAIN",
-            .fullName = "Grassy Terrain",
+            .name = "Campo Hierba",
+            .capsName = "CAMPO HIERBA",
+            .fullName = "Campo de Hierba",
         },
         .data = {
             .effect = MOVE_EFFECT_APPLY_TERRAINS,
@@ -15766,14 +15766,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user turns the\\nground into Grassy\\nTerrain for five\\nturns. This powers up\\nGrass-type moves.",
+        .description = "Durante 5 turnos se\\npotencian los\\nmovimientos de Planta y\\nlos del suelo recuperan\\nPS.\\n",
     },
 
     [MOVE_MISTY_TERRAIN] = {
         .names = {
-            .name = "Misty Terrain",
-            .capsName = "MISTY TERRAIN",
-            .fullName = "Misty Terrain",
+            .name = "Campo Niebla",
+            .capsName = "CAMPO NIEBLA",
+            .fullName = "Campo de Niebla",
         },
         .data = {
             .effect = MOVE_EFFECT_APPLY_TERRAINS,
@@ -15793,14 +15793,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Sets a Misty Terrain\\nfor five turns. This\\nprevents status\\nailments and weakens\\nDragon-Type moves.",
+        .description = "Durante 5 turnos los\\ndel suelo no sufren\\nestados y se reduce el\\ndaño de tipo Dragón.\\n",
     },
 
     [MOVE_ELECTRIFY] = {
         .names = {
-            .name = "Electrify",
-            .capsName = "ELECTRIFY",
-            .fullName = "Electrify",
+            .name = "Electrif.",
+            .capsName = "ELECTRIF.",
+            .fullName = "Electrificación",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -15820,14 +15820,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "If the target is\\nelectrified, their\\nmoves become Electric\\ntype for the rest of\\nthat turn.",
+        .description = "Si el objetivo queda\\nelectrificado antes de\\nusar un movimiento, será\\nde tipo Eléctrico.\\n",
     },
 
     [MOVE_PLAY_ROUGH] = {
         .names = {
-            .name = "Play Rough",
-            .capsName = "PLAY ROUGH",
-            .fullName = "Play Rough",
+            .name = "Carantoña",
+            .capsName = "CARANTOÑA",
+            .fullName = "Carantoña",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_ATTACK_HIT,
@@ -15847,14 +15847,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user attacks by\\nplaying rough with the\\ntarget. This may also\\nlower the target’s\\nAttack stat.",
+        .description = "Hace cucamonas al rival\\ny lo ataca. Puede\\nreducir su Ataque.\\n",
     },
 
     [MOVE_FAIRY_WIND] = {
         .names = {
-            .name = "Fairy Wind",
-            .capsName = "FAIRY WIND",
-            .fullName = "Fairy Wind",
+            .name = "Viento Feér.",
+            .capsName = "VIENTO FEÉR.",
+            .fullName = "Viento Feérico",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -15874,14 +15874,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user attacks by\\nstirring up a fairy\\nwind to strike the\\ntarget.",
+        .description = "Vendaval feérico que\\narremete contra el\\nobjetivo.\\n",
     },
 
     [MOVE_MOONBLAST] = {
         .names = {
-            .name = "Moonblast",
-            .capsName = "MOONBLAST",
-            .fullName = "Moonblast",
+            .name = "Fuerza Lunar",
+            .capsName = "FUERZA LUNAR",
+            .fullName = "Fuerza Lunar",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_ATK_HIT,
@@ -15901,14 +15901,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Borrowing the power of\\nthe moon, the user\\nattacks the target.\\nThis may also lower the\\ntarget’s Sp. Atk stat.",
+        .description = "Invoca el poder de la\\nluna para atacar. Puede\\nreducir el Ataque\\nEspecial.\\n",
     },
 
     [MOVE_BOOMBURST] = {
         .names = {
-            .name = "Boomburst",
-            .capsName = "BOOMBURST",
-            .fullName = "Boomburst",
+            .name = "Estruendo",
+            .capsName = "ESTRUENDO",
+            .fullName = "Estruendo",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -15928,14 +15928,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user attacks\\neverything around it\\nwith the destructive\\npower of a terrible\\nexplosive sound.",
+        .description = "Potentísima onda sonora\\nque ataca a los Pokémon\\nadyacentes.\\n",
     },
 
     [MOVE_FAIRY_LOCK] = {
         .names = {
-            .name = "Fairy Lock",
-            .capsName = "FAIRY LOCK",
-            .fullName = "Fairy Lock",
+            .name = "Cerrojo",
+            .capsName = "CERROJO",
+            .fullName = "Cerrojo Feérico",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -15955,14 +15955,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "By locking down the\\nbattlefield, the user\\nkeeps all Pokémon\\nfrom fleeing during\\nthe next turn.",
+        .description = "Un cerrojo que impide a\\ntodos huir o ser\\ncambiados en el turno\\nsiguiente.\\n",
     },
 
     [MOVE_KINGS_SHIELD] = {
         .names = {
-            .name = "King’s Shield",
-            .capsName = "KING’S SHIELD",
-            .fullName = "King’s Shield",
+            .name = "Escudo Real",
+            .capsName = "ESCUDO REAL",
+            .fullName = "Escudo Real",
         },
         .data = {
             .effect = MOVE_EFFECT_PROTECT,
@@ -15982,14 +15982,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user protects\\nitself from damage\\nwhile lowering the\\nAttack of any attacker\\nthat makes contact.",
+        .description = "Adopta una postura\\ndefensiva y reduce el\\nAtaque de quien le\\ntoque.\\n",
     },
 
     [MOVE_PLAY_NICE] = {
         .names = {
-            .name = "Play Nice",
-            .capsName = "PLAY NICE",
-            .fullName = "Play Nice",
+            .name = "Camaradería",
+            .capsName = "CAMARADERÍA",
+            .fullName = "Camaradería",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_DOWN,
@@ -16009,14 +16009,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user and the\\ntarget become pals,\\nlowering the target’s\\nAttack stat.\\nBypasses Protect.",
+        .description = "Se hace amigo del rival\\ny le quita las ganas de\\ncombatir, reduciendo su\\nAtaque.\\n",
     },
 
     [MOVE_CONFIDE] = {
         .names = {
-            .name = "Confide",
-            .capsName = "CONFIDE",
-            .fullName = "Confide",
+            .name = "Confidencia",
+            .capsName = "CONFIDENCIA",
+            .fullName = "Confidencia",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -16036,14 +16036,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user tells the\\ntarget a secret,\\nmaking it lose focus.\\nThis lowers the\\ntarget’s Sp. Atk stat.",
+        .description = "Cuenta un secreto que\\nhace perder la\\nconcentración y reduce\\nel Ataque Especial.\\n",
     },
 
     [MOVE_DIAMOND_STORM] = {
         .names = {
-            .name = "Diamond Storm",
-            .capsName = "DIAMOND STORM",
-            .fullName = "Diamond Storm",
+            .name = "Torm. Diam.",
+            .capsName = "TORM. DIAM.",
+            .fullName = "Tormenta de Diamantes",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_DEF_2_HIT,
@@ -16063,14 +16063,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "A storm of diamonds\\nwhips opposing\\nPokémon. This may also\\nsharply boost the\\nuser’s Defense stat.",
+        .description = "Vendaval de diamantes\\nque daña. Puede subir\\nmucho la Defensa del\\nusuario.\\n",
     },
 
     [MOVE_STEAM_ERUPTION] = {
         .names = {
-            .name = "Steam Eruption",
-            .capsName = "STEAM ERUPTION",
-            .fullName = "Steam Eruption",
+            .name = "Chorro Vapor",
+            .capsName = "CHORRO VAPOR",
+            .fullName = "Chorro de Vapor",
         },
         .data = {
             .effect = MOVE_EFFECT_THAW_AND_BURN_HIT,
@@ -16090,14 +16090,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user immerses the\\ntarget in superheated\\nsteam.\\nThis may also leave\\nthe target with a burn.",
+        .description = "Vapor extremadamente\\ncaliente que puede\\ncausar quemaduras.\\n",
     },
 
     [MOVE_HYPERSPACE_HOLE] = {
         .names = {
-            .name = "Hyperspace Hole",
-            .capsName = "HYPERSPACE HOLE",
-            .fullName = "Hyperspace Hole",
+            .name = "Paso Dimen.",
+            .capsName = "PASO DIMEN.",
+            .fullName = "Paso Dimensional",
         },
         .data = {
             .effect = MOVE_EFFECT_REMOVE_PROTECT,
@@ -16117,14 +16117,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "Using a hyperspace\\nhole, the user strikes\\nfrom far away. This\\ncan hit a target using\\nProtect or Detect.",
+        .description = "Aparece junto al rival\\ncon un agujero\\ndimensional y golpea\\nsin que pueda\\nprotegerse.\\n",
     },
 
     [MOVE_WATER_SHURIKEN] = {
         .names = {
-            .name = "Water Shuriken",
-            .capsName = "WATER SHURIKEN",
-            .fullName = "Water Shuriken",
+            .name = "Shuriken",
+            .capsName = "SHURIKEN",
+            .fullName = "Shuriken de Agua",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -16144,14 +16144,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user hits the\\ntarget with throwing\\nstars two to five\\ntimes. This move\\nalways goes first.",
+        .description = "Estrellas arrojadizas de\\nagua que golpean de dos\\na cinco veces. Tiene\\nprioridad alta.\\n",
     },
 
     [MOVE_MYSTICAL_FIRE] = {
         .names = {
-            .name = "Mystical Fire",
-            .capsName = "MYSTICAL FIRE",
-            .fullName = "Mystical Fire",
+            .name = "L. Embrujada",
+            .capsName = "L. EMBRUJADA",
+            .fullName = "Llama Embrujada",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_ATK_HIT,
@@ -16171,14 +16171,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user attacks by\\nbreathing a special,\\nhot fire.\\nThis also lowers the\\ntarget’s Sp. Atk stat.",
+        .description = "Llama singular a gran\\ntemperatura que reduce\\nel Ataque Especial del\\nobjetivo.\\n",
     },
 
     [MOVE_SPIKY_SHIELD] = {
         .names = {
-            .name = "Spiky Shield",
-            .capsName = "SPIKY SHIELD",
-            .fullName = "Spiky Shield",
+            .name = "Barrera Esp.",
+            .capsName = "BARRERA ESP.",
+            .fullName = "Barrera Espinosa",
         },
         .data = {
             .effect = MOVE_EFFECT_PROTECT,
@@ -16198,14 +16198,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user is protected\\nfrom attacks, while\\nalso damaging any\\nattacker who makes\\ndirect contact.",
+        .description = "Le protege de los\\nataques y daña a quien\\nle toque al atacarle.\\n",
     },
 
     [MOVE_AROMATIC_MIST] = {
         .names = {
-            .name = "Aromatic Mist",
-            .capsName = "AROMATIC MIST",
-            .fullName = "Aromatic Mist",
+            .name = "Niebla Arom.",
+            .capsName = "NIEBLA AROM.",
+            .fullName = "Niebla Aromática",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -16225,14 +16225,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user boosts the\\nSp. Def stat of an\\nally Pokémon by using\\na mysterious aroma.",
+        .description = "Fragancia misteriosa\\nque aumenta la Defensa\\nEspecial de un aliado.\\n",
     },
 
     [MOVE_EERIE_IMPULSE] = {
         .names = {
-            .name = "Eerie Impulse",
-            .capsName = "EERIE IMPULSE",
-            .fullName = "Eerie Impulse",
+            .name = "Onda Anómala",
+            .capsName = "ONDA ANÓMALA",
+            .fullName = "Onda Anómala",
         },
         .data = {
             .effect = MOVE_EFFECT_SP_ATK_DOWN_2,
@@ -16252,14 +16252,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user emits an\\neerie impulse from its\\nbody, harshly lowering\\nthe target’s Sp. Atk\\nstat.",
+        .description = "El usuario irradia unas\\nraras ondas que reducen\\nmucho el Ataque Especial\\ndel rival.\\n",
     },
 
     [MOVE_VENOM_DRENCH] = {
         .names = {
-            .name = "Venom Drench",
-            .capsName = "VENOM DRENCH",
-            .fullName = "Venom Drench",
+            .name = "Trampa Ven.",
+            .capsName = "TRAMPA VEN.",
+            .fullName = "Trampa Venenosa",
         },
         .data = {
             .effect = MOVE_EFFECT_VENOM_DRENCH,
@@ -16279,14 +16279,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "Foes are drenched in\\na poisonous liquid.\\nThis lowers the Attack,\\nSp. Atk, and Speed of\\na poisoned target.",
+        .description = "Líquido venenoso que\\nreduce el Ataque, el\\nAtaque Especial y la\\nVelocidad. Solo afecta a\\nlos envenenados.\\n",
     },
 
     [MOVE_POWDER] = {
         .names = {
-            .name = "Powder",
-            .capsName = "POWDER",
-            .fullName = "Powder",
+            .name = "Polvo Expl.",
+            .capsName = "POLVO EXPL.",
+            .fullName = "Polvo Explosivo",
         },
         .data = {
             .effect = MOVE_EFFECT_POWDER,
@@ -16306,14 +16306,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user covers the\\ntarget in an explosive\\npowder that damages\\nthe target if they use\\na Fire-type move.",
+        .description = "Esparce un polvo sobre el\\nobjetivo. Si usa un\\nmovimiento de Fuego en el\\nmismo turno, el polvo\\nexplota.\\n",
     },
 
     [MOVE_GEOMANCY] = {
         .names = {
-            .name = "Geomancy",
-            .capsName = "GEOMANCY",
-            .fullName = "Geomancy",
+            .name = "Geocontrol",
+            .capsName = "GEOCONTROL",
+            .fullName = "Geocontrol",
         },
         .data = {
             .effect = MOVE_EFFECT_CHARGE_TURN_ATK_SP_ATK_SPEED_UP_2,
@@ -16333,14 +16333,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user absorbs energy\\nand sharply boosts its\\nSp. Atk, Sp. Def, and\\nSpeed stats on the next\\nturn.",
+        .description = "Concentra energía el\\nprimer turno y sube\\nmucho su Velocidad y\\nsus Defensas en el\\nsegundo.\\n",
     },
 
     [MOVE_MAGNETIC_FLUX] = {
         .names = {
-            .name = "Magnetic Flux",
-            .capsName = "MAGNETIC FLUX",
-            .fullName = "Magnetic Flux",
+            .name = "Aura Magn.",
+            .capsName = "AURA MAGN.",
+            .fullName = "Aura Magnética",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -16360,14 +16360,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "Magnetic fields boost\\nthe Defense and Sp. Def\\nstats of ally Pokémon\\nwith the Plus or Minus\\nAbility.",
+        .description = "Manipula el campo\\nmagnético y sube las\\nDefensas de los\\naliados con Más o\\nMenos.\\n",
     },
 
     [MOVE_HAPPY_HOUR] = {
         .names = {
-            .name = "Happy Hour",
-            .capsName = "HAPPY HOUR",
-            .fullName = "Happy Hour",
+            .name = "Paga Extra",
+            .capsName = "PAGA EXTRA",
+            .fullName = "Paga Extra",
         },
         .data = {
             .effect = MOVE_EFFECT_DO_NOTHING,
@@ -16387,14 +16387,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Using Happy Hour\\ndoubles the amount of\\nprize money received\\nafter battle.",
+        .description = "Al usarlo se duplica el\\ndinero recibido tras el\\ncombate.\\n",
     },
 
     [MOVE_ELECTRIC_TERRAIN] = {
         .names = {
-            .name = "ElectricTerrain",
-            .capsName = "ELECTRICTERRAIN",
-            .fullName = "Electric Terrain",
+            .name = "Campo Eléc.",
+            .capsName = "CAMPO ELÉC.",
+            .fullName = "Campo Eléctrico",
         },
         .data = {
             .effect = MOVE_EFFECT_APPLY_TERRAINS,
@@ -16414,14 +16414,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_SMART,
         },
-        .description = "For five turns, Pokémon\\non the ground have\\npowered up Electric-type\\nmoves and can no longer\\nfall asleep.",
+        .description = "Durante 5 turnos se\\npotencian los\\nmovimientos eléctricos\\ny los del suelo no\\nduermen.\\n",
     },
 
     [MOVE_DAZZLING_GLEAM] = {
         .names = {
-            .name = "Dazzling Gleam",
-            .capsName = "DAZZLING GLEAM",
-            .fullName = "Dazzling Gleam",
+            .name = "Brillo Mág.",
+            .capsName = "BRILLO MÁG.",
+            .fullName = "Brillo Mágico",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -16441,14 +16441,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user damages\\nopposing Pokémon by\\nemitting a powerful\\nflash.",
+        .description = "Inflige daño al objetivo\\ncon una potente luz.\\n",
     },
 
     [MOVE_CELEBRATE] = {
         .names = {
-            .name = "Celebrate",
-            .capsName = "CELEBRATE",
-            .fullName = "Celebrate",
+            .name = "Celebración",
+            .capsName = "CELEBRACIÓN",
+            .fullName = "Celebración",
         },
         .data = {
             .effect = MOVE_EFFECT_DO_NOTHING,
@@ -16468,14 +16468,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The Pokémon\\ncongratulates you on\\nyour special day!",
+        .description = "El Pokémon te felicita\\nen un día muy especial\\npara ti.\\n",
     },
 
     [MOVE_HOLD_HANDS] = {
         .names = {
-            .name = "Hold Hands",
-            .capsName = "HOLD HANDS",
-            .fullName = "Hold Hands",
+            .name = "Manos Juntas",
+            .capsName = "MANOS JUNTAS",
+            .fullName = "Manos Juntas",
         },
         .data = {
             .effect = MOVE_EFFECT_DO_NOTHING,
@@ -16495,14 +16495,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user and an ally\\nhold hands.\\nThis makes them very\\nhappy.",
+        .description = "Da la mano a un aliado\\ny ambos se sienten muy\\nfelices.\\n",
     },
 
     [MOVE_BABY_DOLL_EYES] = {
         .names = {
-            .name = "Baby-Doll Eyes",
-            .capsName = "BABY-DOLL EYES",
-            .fullName = "Baby-Doll Eyes",
+            .name = "Ojitos Tier.",
+            .capsName = "OJITOS TIER.",
+            .fullName = "Ojitos Tiernos",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_DOWN,
@@ -16522,14 +16522,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user stares at\\nthe target with its\\nbaby-eyes, lowering\\nits Attack stat.\\nAlways goes first.",
+        .description = "Mirada acaramelada que\\nreduce el Ataque del\\nrival. Tiene prioridad\\nalta.\\n",
     },
 
     [MOVE_NUZZLE] = {
         .names = {
-            .name = "Nuzzle",
-            .capsName = "NUZZLE",
-            .fullName = "Nuzzle",
+            .name = "Moflete Est.",
+            .capsName = "MOFLETE EST.",
+            .fullName = "Moflete Estático",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -16549,14 +16549,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user nuzzles its\\nelectrified cheeks\\nagainst the target.\\nThis also leaves the\\ntarget with paralysis.",
+        .description = "Frota sus mofletes\\neléctricos contra el\\nrival y lo paraliza.\\n",
     },
 
     [MOVE_HOLD_BACK] = {
         .names = {
-            .name = "Hold Back",
-            .capsName = "HOLD BACK",
-            .fullName = "Hold Back",
+            .name = "Clemencia",
+            .capsName = "CLEMENCIA",
+            .fullName = "Clemencia",
         },
         .data = {
             .effect = MOVE_EFFECT_LEAVE_WITH_1_HP,
@@ -16576,14 +16576,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user holds back\\nwhen it attacks, and\\nthe target is left\\nwith at least 1 HP.",
+        .description = "Se contiene al atacar y\\ndeja al objetivo con al\\nmenos 1 PS.\\n",
     },
 
     [MOVE_INFESTATION] = {
         .names = {
-            .name = "Infestation",
-            .capsName = "INFESTATION",
-            .fullName = "Infestation",
+            .name = "Acoso",
+            .capsName = "ACOSO",
+            .fullName = "Acoso",
         },
         .data = {
             .effect = MOVE_EFFECT_BIND_HIT,
@@ -16603,14 +16603,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The target is infested\\nand attacked for four\\nto five turns.\\nThe target can’t flee\\nduring this time.",
+        .description = "Hostiga al rival durante\\n4 o 5 turnos y le\\nimpide huir o ser\\ncambiado.\\n",
     },
 
     [MOVE_POWER_UP_PUNCH] = {
         .names = {
-            .name = "Power-Up Punch",
-            .capsName = "POWER-UP PUNCH",
-            .fullName = "Power-Up Punch",
+            .name = "Puño Incr.",
+            .capsName = "PUÑO INCR.",
+            .fullName = "Puño Incremento",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_ATTACK_HIT,
@@ -16630,14 +16630,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Striking opponents\\nover and over makes\\nthe user’s fists\\nharder. Hitting a\\ntarget raises Attack.",
+        .description = "Cada vez que golpea se\\nendurecen sus puños y\\nsube el Ataque.\\n",
     },
 
     [MOVE_OBLIVION_WING] = {
         .names = {
-            .name = "Oblivion Wing",
-            .capsName = "OBLIVION WING",
-            .fullName = "Oblivion Wing",
+            .name = "Ala Mort.",
+            .capsName = "ALA MORT.",
+            .fullName = "Ala Mortífera",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOVER_THREE_QUARTERS_DAMAGE_DEALT,
@@ -16657,14 +16657,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user absorbs the\\ntarget’s HP. The user’s\\nHP is restored by over\\nhalf the damage taken\\nby the target.",
+        .description = "Absorbe energía del\\nobjetivo y recupera PS\\nigual o más de la mitad\\ndel daño.\\n",
     },
 
     [MOVE_THOUSAND_ARROWS] = {
         .names = {
-            .name = "Thousand Arrows",
-            .capsName = "THOUSAND ARROWS",
-            .fullName = "Thousand Arrows",
+            .name = "Mil Flechas",
+            .capsName = "MIL FLECHAS",
+            .fullName = "Mil Flechas",
         },
         .data = {
             .effect = MOVE_EFFECT_SMACK_DOWN,
@@ -16684,14 +16684,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "This move can hit\\nopposing Pokémon that\\nare in the air. Those\\nPokémon are knocked\\ndown to the ground.",
+        .description = "Acierta incluso a\\nPokémon que estén en el\\naire y los hace caer al\\nsuelo.\\n",
     },
 
     [MOVE_THOUSAND_WAVES] = {
         .names = {
-            .name = "Thousand Waves",
-            .capsName = "THOUSAND WAVES",
-            .fullName = "Thousand Waves",
+            .name = "Mil Temb.",
+            .capsName = "MIL TEMB.",
+            .fullName = "Mil Temblores",
         },
         .data = {
             .effect = MOVE_EFFECT_PREVENT_ESCAPE_HIT,
@@ -16711,14 +16711,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user attacks with\\na wave that crawls\\nalong the ground.\\nThose it hits can’t\\nflee from battle.",
+        .description = "Ondas sísmicas que\\nsacuden al rival y le\\nimpiden huir o ser\\ncambiado.\\n",
     },
 
     [MOVE_LANDS_WRATH] = {
         .names = {
-            .name = "Land’s Wrath",
-            .capsName = "LAND’S WRATH",
-            .fullName = "Land’s Wrath",
+            .name = "Fuerza Tel.",
+            .capsName = "FUERZA TEL.",
+            .fullName = "Fuerza Telúrica",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -16738,14 +16738,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user gathers the\\nenergy of the land and\\nfocuses that power on\\nopposing Pokémon to\\ninflict damage.",
+        .description = "Acumula energía de la\\ncorteza terrestre y la\\nconcentra contra el\\nobjetivo.\\n",
     },
 
     [MOVE_LIGHT_OF_RUIN] = {
         .names = {
-            .name = "Light of Ruin",
-            .capsName = "LIGHT OF RUIN",
-            .fullName = "Light of Ruin",
+            .name = "Luz Aniquil.",
+            .capsName = "LUZ ANIQUIL.",
+            .fullName = "Luz Aniquiladora",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOIL_HALF,
@@ -16765,14 +16765,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Drawing power from the\\nEternal Flower, the user\\nfires a powerful beam of\\nlight. This also damages\\nthe user terribly.",
+        .description = "Emplea el poder de la\\nFlor Eterna para lanzar\\nun rayo, pero se hiere\\ngravemente.\\n",
     },
 
     [MOVE_ORIGIN_PULSE] = {
         .names = {
-            .name = "Origin Pulse",
-            .capsName = "ORIGIN PULSE",
-            .fullName = "Origin Pulse",
+            .name = "Pulso Prim.",
+            .capsName = "PULSO PRIM.",
+            .fullName = "Pulso Primigenio",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -16792,14 +16792,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user attacks\\nopposing Pokémon with\\ncountless beams of\\nlight that glow a deep\\nand brilliant blue.",
+        .description = "Ataca con una infinidad\\nde rayos de luz\\nazulada.\\n",
     },
 
     [MOVE_PRECIPICE_BLADES] = {
         .names = {
-            .name = "PrecipiceBlades",
-            .capsName = "PRECIPICEBLADES",
-            .fullName = "Precipice Blades",
+            .name = "Filo Abismo",
+            .capsName = "FILO ABISMO",
+            .fullName = "Filo del Abismo",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -16819,14 +16819,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks\\nopposing Pokémon by\\nmanifesting the power\\nof the land in\\nfearsome stone blades",
+        .description = "El poder latente de la\\ntierra se manifiesta en\\nhojas afiladas que\\natacan al rival.\\n",
     },
 
     [MOVE_DRAGON_ASCENT] = {
         .names = {
-            .name = "Dragon Ascent",
-            .capsName = "DRAGON ASCENT",
-            .fullName = "Dragon Ascent",
+            .name = "Ascenso Dr.",
+            .capsName = "ASCENSO DR.",
+            .fullName = "Ascenso Draco",
         },
         .data = {
             .effect = MOVE_EFFECT_USER_DEF_SP_DEF_DOWN_HIT,
@@ -16846,14 +16846,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user attacks by\\ndropping out of the sky\\nat high speed. This also\\nlowers the user’s\\nDefense and Sp. Def.",
+        .description = "Se precipita desde el\\ncielo a toda velocidad,\\npero reduce sus\\nDefensas.\\n",
     },
 
     [MOVE_HYPERSPACE_FURY] = {
         .names = {
-            .name = "Hyperspace Fury",
-            .capsName = "HYPERSPACE FURY",
-            .fullName = "Hyperspace Fury",
+            .name = "Cerco Dim.",
+            .capsName = "CERCO DIM.",
+            .fullName = "Cerco Dimensión",
         },
         .data = {
             .effect = MOVE_EFFECT_USER_DEF_DOWN_HIT_REMOVE_PROTECT,
@@ -16873,14 +16873,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "The user unleashes a\\nbarrage that ignores the\\neffects of protection\\nmoves. This also lowers\\nthe user’s Defense.",
+        .description = "Ráfaga de golpes que\\nignora Protección o\\nDetección. Reduce la\\nDefensa del usuario.\\n",
     },
 
     [MOVE_BREAKNECK_BLITZ_PHYSICAL] = {
         .names = {
-            .name = "Breakneck Blitz",
-            .capsName = "BREAKNECK BLITZ",
-            .fullName = "Breakneck Blitz",
+            .name = "Carr.Arroll.",
+            .capsName = "CARR.ARROLL.",
+            .fullName = "Carrera Arrolladora",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -16900,14 +16900,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user crashes into\\nthe target at full speed\\nusing its Z-Power. The\\npower varies, depending\\non the original move.",
+        .description = "Poder Z que arremete\\ncontra el objetivo con\\ngran fuerza. Su potencia\\ndepende del movimiento\\noriginal.\\n",
     },
 
     [MOVE_BREAKNECK_BLITZ_SPECIAL] = {
         .names = {
-            .name = "Breakneck Blitz",
-            .capsName = "BREAKNECK BLITZ",
-            .fullName = "Breakneck Blitz",
+            .name = "Carr.Arroll.",
+            .capsName = "CARR.ARROLL.",
+            .fullName = "Carrera Arrolladora",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -16927,14 +16927,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user crashes into\\nthe target at full speed\\nusing its Z-Power. The\\npower varies, depending\\non the original move.",
+        .description = "Poder Z que arremete\\ncontra el objetivo con\\ngran fuerza. Su potencia\\ndepende del movimiento\\noriginal.\\n",
     },
 
     [MOVE_ALL_OUT_PUMMELING_PHYSICAL] = {
         .names = {
-            .name = "All-Out Pummel",
-            .capsName = "ALL-OUT PUMMEL",
-            .fullName = "All-Out Pummeling",
+            .name = "Ráf. Demol.",
+            .capsName = "RÁF. DEMOL.",
+            .fullName = "Ráfaga Demoledora",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -16954,14 +16954,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user fires an\\nenergy orb created by\\nits Z-Power. The power\\nvaries, depending on\\nthe original move.",
+        .description = "Poder Z que lanza una\\nsarta de golpes\\ndemoledores. Potencia\\nsegún el movimiento\\noriginal.\\n",
     },
 
     [MOVE_ALL_OUT_PUMMELING_SPECIAL] = {
         .names = {
-            .name = "All-Out Pummel",
-            .capsName = "ALL-OUT PUMMEL",
-            .fullName = "All-Out Pummeling",
+            .name = "Ráf. Demol.",
+            .capsName = "RÁF. DEMOL.",
+            .fullName = "Ráfaga Demoledora",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -16981,14 +16981,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user fires an\\nenergy orb created by\\nits Z-Power. The power\\nvaries, depending on\\nthe original move.",
+        .description = "Poder Z que lanza una\\nsarta de golpes\\ndemoledores. Potencia\\nsegún el movimiento\\noriginal.\\n",
     },
 
     [MOVE_SUPERSONIC_SKYSTRIKE_PHYSICAL] = {
         .names = {
-            .name = "Super Skystrike",
-            .capsName = "SUPER SKYSTRIKE",
-            .fullName = "Supersonic Skystrike",
+            .name = "Pic. Supers.",
+            .capsName = "PIC. SUPERS.",
+            .fullName = "Picado Supersónico",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17008,14 +17008,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user plummets toward\\nthe target at full speed\\nusing its Z-Power. The\\npower varies, depending\\non the original move.",
+        .description = "Poder Z que se eleva y se\\nabalanza en picado.\\nPotencia según el\\nmovimiento original.\\n",
     },
 
     [MOVE_SUPERSONIC_SKYSTRIKE_SPECIAL] = {
         .names = {
-            .name = "Super Skystrike",
-            .capsName = "SUPER SKYSTRIKE",
-            .fullName = "Supersonic Skystrike",
+            .name = "Pic. Supers.",
+            .capsName = "PIC. SUPERS.",
+            .fullName = "Picado Supersónico",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17035,14 +17035,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user plummets toward\\nthe target at full speed\\nusing its Z-Power. The\\npower varies, depending\\non the original move.",
+        .description = "Poder Z que se eleva y se\\nabalanza en picado.\\nPotencia según el\\nmovimiento original.\\n",
     },
 
     [MOVE_ACID_DOWNPOUR_PHYSICAL] = {
         .names = {
-            .name = "Acid Downpour",
-            .capsName = "ACID DOWNPOUR",
-            .fullName = "Acid Downpour",
+            .name = "Diluv. Corr.",
+            .capsName = "DILUV. CORR.",
+            .fullName = "Diluvio Corrosivo",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17062,14 +17062,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user creates a\\npoisonous swamp using\\nits Z-Power. The power\\nvaries, depending on\\nthe original move.",
+        .description = "Poder Z que crea una\\nciénaga venenosa en la\\nque hunde al rival.\\nPotencia según el\\nmovimiento original.\\n",
     },
 
     [MOVE_ACID_DOWNPOUR_SPECIAL] = {
         .names = {
-            .name = "Acid Downpour",
-            .capsName = "ACID DOWNPOUR",
-            .fullName = "Acid Downpour",
+            .name = "Diluv. Corr.",
+            .capsName = "DILUV. CORR.",
+            .fullName = "Diluvio Corrosivo",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17089,14 +17089,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user creates a\\npoisonous swamp using\\nits Z-Power. The power\\nvaries, depending on\\nthe original move.",
+        .description = "Poder Z que crea una\\nciénaga venenosa en la\\nque hunde al rival.\\nPotencia según el\\nmovimiento original.\\n",
     },
 
     [MOVE_TECTONIC_RAGE_PHYSICAL] = {
         .names = {
-            .name = "Tectonic Rage",
-            .capsName = "TECTONIC RAGE",
-            .fullName = "Tectonic Rage",
+            .name = "Barr.Telúr.",
+            .capsName = "BARR.TELÚR.",
+            .fullName = "Barrena Telúrica",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17116,14 +17116,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user slams into the\\ntarget from underground\\nusing its Z-Power. The\\npower varies, depending\\non the original move.",
+        .description = "Poder Z que abre una\\nprofunda grieta que se\\ntraga al rival. Potencia\\nsegún el movimiento\\noriginal.\\n",
     },
 
     [MOVE_TECTONIC_RAGE_SPECIAL] = {
         .names = {
-            .name = "Tectonic Rage",
-            .capsName = "TECTONIC RAGE",
-            .fullName = "Tectonic Rage",
+            .name = "Barr.Telúr.",
+            .capsName = "BARR.TELÚR.",
+            .fullName = "Barrena Telúrica",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17143,14 +17143,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user slams into the\\ntarget from underground\\nusing its Z-Power. The\\npower varies, depending\\non the original move.",
+        .description = "Poder Z que abre una\\nprofunda grieta que se\\ntraga al rival. Potencia\\nsegún el movimiento\\noriginal.\\n",
     },
 
     [MOVE_CONTINENTAL_CRUSH_PHYSICAL] = {
         .names = {
-            .name = "Continent Crush",
-            .capsName = "CONTINENT CRUSH",
-            .fullName = "Continental Crush",
+            .name = "Aplast. Gig.",
+            .capsName = "APLAST. GIG.",
+            .fullName = "Aplastamiento Gigalítico",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17170,14 +17170,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user drops a huge\\nmountain onto the target\\nusing its Z-Power. The\\npower varies, depending\\non the original move.",
+        .description = "Poder Z que crea una\\nmontaña rocosa con la\\nque aplasta al rival.\\nPotencia según el\\nmovimiento original.\\n",
     },
 
     [MOVE_CONTINENTAL_CRUSH_SPECIAL] = {
         .names = {
-            .name = "Continent Crush",
-            .capsName = "CONTINENT CRUSH",
-            .fullName = "Continental Crush",
+            .name = "Aplast. Gig.",
+            .capsName = "APLAST. GIG.",
+            .fullName = "Aplastamiento Gigalítico",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17197,14 +17197,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user drops a huge\\nmountain onto the target\\nusing its Z-Power. The\\npower varies, depending\\non the original move.",
+        .description = "Poder Z que crea una\\nmontaña rocosa con la\\nque aplasta al rival.\\nPotencia según el\\nmovimiento original.\\n",
     },
 
     [MOVE_SAVAGE_SPIN_OUT_PHYSICAL] = {
         .names = {
-            .name = "Savage Spin-Out",
-            .capsName = "SAVAGE SPIN-OUT",
-            .fullName = "Savage Spin-Out",
+            .name = "Guad. Sedosa",
+            .capsName = "GUAD. SEDOSA",
+            .fullName = "Guadaña Sedosa",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17224,14 +17224,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user spits threads\\nat the target made\\nusing its Z-Power. The\\npower varies, depending\\non the original move.",
+        .description = "Poder Z que encierra al\\nrival en un capullo y\\narremete contra él.\\nPotencia según el\\nmovimiento original.\\n",
     },
 
     [MOVE_SAVAGE_SPIN_OUT_SPECIAL] = {
         .names = {
-            .name = "Savage Spin-Out",
-            .capsName = "SAVAGE SPIN-OUT",
-            .fullName = "Savage Spin-Out",
+            .name = "Guad. Sedosa",
+            .capsName = "GUAD. SEDOSA",
+            .fullName = "Guadaña Sedosa",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17251,14 +17251,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user spits threads\\nat the target made\\nusing its Z-Power. The\\npower varies, depending\\non the original move.",
+        .description = "Poder Z que encierra al\\nrival en un capullo y\\narremete contra él.\\nPotencia según el\\nmovimiento original.\\n",
     },
 
     [MOVE_NEVER_ENDING_NIGHTMARE_PHYSICAL] = {
         .names = {
-            .name = "EndlessNitemare",
-            .capsName = "ENDLESSNITEMARE",
-            .fullName = "Never-Ending Nightmare",
+            .name = "Presa Esp.",
+            .capsName = "PRESA ESP.",
+            .fullName = "Presa Espectral",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17278,14 +17278,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "Deep-seated grudges are\\nsummoned by the user’s\\nZ-Power. The power\\nvaries, depending on\\nthe original move.",
+        .description = "Poder Z que invoca\\nespectros encolerizados\\nque apresan al rival.\\nPotencia según el\\nmovimiento original.\\n",
     },
 
     [MOVE_NEVER_ENDING_NIGHTMARE_SPECIAL] = {
         .names = {
-            .name = "EndlessNitemare",
-            .capsName = "ENDLESSNITEMARE",
-            .fullName = "Never-Ending Nightmare",
+            .name = "Presa Esp.",
+            .capsName = "PRESA ESP.",
+            .fullName = "Presa Espectral",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17305,14 +17305,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "Deep-seated grudges are\\nsummoned by the user’s\\nZ-Power. The power\\nvaries, depending on\\nthe original move.",
+        .description = "Poder Z que invoca\\nespectros encolerizados\\nque apresan al rival.\\nPotencia según el\\nmovimiento original.\\n",
     },
 
     [MOVE_CORKSCREW_CRASH_PHYSICAL] = {
         .names = {
-            .name = "Corkscrew Crash",
-            .capsName = "CORKSCREW CRASH",
-            .fullName = "Corkscrew Crash",
+            .name = "Hél. Trep.",
+            .capsName = "HÉL. TREP.",
+            .fullName = "Hélice Trepanadora",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17332,14 +17332,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user spins very fast\\nand rams into the target\\nusing its Z-Power. The\\npower varies, depending\\non the original move.",
+        .description = "Poder Z que gira a toda\\nvelocidad y perfora al\\nrival. Potencia según el\\nmovimiento original.\\n",
     },
 
     [MOVE_CORKSCREW_CRASH_SPECIAL] = {
         .names = {
-            .name = "Corkscrew Crash",
-            .capsName = "CORKSCREW CRASH",
-            .fullName = "Corkscrew Crash",
+            .name = "Hél. Trep.",
+            .capsName = "HÉL. TREP.",
+            .fullName = "Hélice Trepanadora",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17359,14 +17359,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user spins very fast\\nand rams into the target\\nusing its Z-Power. The\\npower varies, depending\\non the original move.",
+        .description = "Poder Z que gira a toda\\nvelocidad y perfora al\\nrival. Potencia según el\\nmovimiento original.\\n",
     },
 
     [MOVE_INFERNO_OVERDRIVE_PHYSICAL] = {
         .names = {
-            .name = "Inferno Drive",
-            .capsName = "INFERNO DRIVE",
-            .fullName = "Inferno Overdrive",
+            .name = "Hecat.Pírica",
+            .capsName = "HECAT.PÍRICA",
+            .fullName = "Hecatombe Pírica",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17386,14 +17386,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user breathes a\\nstream of intense fire\\nusing its Z-Power. The\\npower varies depending\\non the original move.",
+        .description = "Poder Z que lanza una\\nenorme llamarada que\\ncalcina al rival.\\nPotencia según el\\nmovimiento original.\\n",
     },
 
     [MOVE_INFERNO_OVERDRIVE_SPECIAL] = {
         .names = {
-            .name = "Inferno Drive",
-            .capsName = "INFERNO DRIVE",
-            .fullName = "Inferno Overdrive",
+            .name = "Hecat.Pírica",
+            .capsName = "HECAT.PÍRICA",
+            .fullName = "Hecatombe Pírica",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17413,14 +17413,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user breathes a\\nstream of intense fire\\nusing its Z-Power. The\\npower varies depending\\non the original move.",
+        .description = "Poder Z que lanza una\\nenorme llamarada que\\ncalcina al rival.\\nPotencia según el\\nmovimiento original.\\n",
     },
 
     [MOVE_HYDRO_VORTEX_PHYSICAL] = {
         .names = {
-            .name = "Hydro Vortex",
-            .capsName = "HYDRO VORTEX",
-            .fullName = "Hydro Vortex",
+            .name = "Hidrov. Abis",
+            .capsName = "HIDROV. ABIS",
+            .fullName = "Hidrovórtice Abisal",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17440,14 +17440,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user creates a huge\\nwhirling current using\\nits Z-Power. The power\\nvaries, depending on\\nthe original move.",
+        .description = "Poder Z que crea un\\ntorbellino de agua que\\nengulle al rival. La\\npotencia depende del\\nmovimiento original.\\n",
     },
 
     [MOVE_HYDRO_VORTEX_SPECIAL] = {
         .names = {
-            .name = "Hydro Vortex",
-            .capsName = "HYDRO VORTEX",
-            .fullName = "Hydro Vortex",
+            .name = "Hidrov. Abis",
+            .capsName = "HIDROV. ABIS",
+            .fullName = "Hidrovórtice Abisal",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17467,14 +17467,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user creates a huge\\nwhirling current using\\nits Z-Power. The power\\nvaries, depending on\\nthe original move.",
+        .description = "Poder Z que crea un\\ntorbellino de agua que\\nengulle al rival. La\\npotencia depende del\\nmovimiento original.\\n",
     },
 
     [MOVE_BLOOM_DOOM_PHYSICAL] = {
         .names = {
-            .name = "Bloom Doom",
-            .capsName = "BLOOM DOOM",
-            .fullName = "Bloom Doom",
+            .name = "Megat.Floral",
+            .capsName = "MEGAT.FLORAL",
+            .fullName = "Megatón Floral",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17494,14 +17494,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks with\\nenergy drawn from plants\\nusing its Z-Power. The\\npower varies, depending\\non the original move.",
+        .description = "Poder Z que concentra la\\nenergía vegetal y ataca\\nal rival. La potencia\\ndepende del movimiento\\noriginal.\\n",
     },
 
     [MOVE_BLOOM_DOOM_SPECIAL] = {
         .names = {
-            .name = "Bloom Doom",
-            .capsName = "BLOOM DOOM",
-            .fullName = "Bloom Doom",
+            .name = "Megat.Floral",
+            .capsName = "MEGAT.FLORAL",
+            .fullName = "Megatón Floral",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17521,14 +17521,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks with\\nenergy drawn from plants\\nusing its Z-Power. The\\npower varies, depending\\non the original move.",
+        .description = "Poder Z que concentra la\\nenergía vegetal y ataca\\nal rival. La potencia\\ndepende del movimiento\\noriginal.\\n",
     },
 
     [MOVE_GIGAVOLT_HAVOC_PHYSICAL] = {
         .names = {
-            .name = "Gigavolt Havoc",
-            .capsName = "GIGAVOLT HAVOC",
-            .fullName = "Gigavolt Havoc",
+            .name = "Gigav.Destr.",
+            .capsName = "GIGAV.DESTR.",
+            .fullName = "Gigavoltio Destructor",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17548,14 +17548,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user summons a\\nstrong electric current\\nusing its Z-Power. The\\npower varies, depending\\non the original move.",
+        .description = "Poder Z que genera una\\ngran descarga y\\nelectrocuta al rival.\\nLa potencia depende del\\nmovimiento original.\\n",
     },
 
     [MOVE_GIGAVOLT_HAVOC_SPECIAL] = {
         .names = {
-            .name = "Gigavolt Havoc",
-            .capsName = "GIGAVOLT HAVOC",
-            .fullName = "Gigavolt Havoc",
+            .name = "Gigav.Destr.",
+            .capsName = "GIGAV.DESTR.",
+            .fullName = "Gigavoltio Destructor",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17575,14 +17575,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user summons a\\nstrong electric current\\nusing its Z-Power. The\\npower varies, depending\\non the original move.",
+        .description = "Poder Z que genera una\\ngran descarga y\\nelectrocuta al rival.\\nLa potencia depende del\\nmovimiento original.\\n",
     },
 
     [MOVE_SHATTERED_PSYCHE_PHYSICAL] = {
         .names = {
-            .name = "ShatteredPsyche",
-            .capsName = "SHATTEREDPSYCHE",
-            .fullName = "Shattered Psyche",
+            .name = "Disrup.Psíq.",
+            .capsName = "DISRUP.PSÍQ.",
+            .fullName = "Disruptor Psíquico",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17602,14 +17602,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user hurts the\\ntarget’s mind using\\nits Z-Power. The power\\nvaries, depending on\\nthe original move.",
+        .description = "Poder Z que manipula la\\nmente del rival para\\ndañarle. La potencia\\ndepende del movimiento\\noriginal.\\n",
     },
 
     [MOVE_SHATTERED_PSYCHE_SPECIAL] = {
         .names = {
-            .name = "ShatteredPsyche",
-            .capsName = "SHATTEREDPSYCHE",
-            .fullName = "Shattered Psyche",
+            .name = "Disrup.Psíq.",
+            .capsName = "DISRUP.PSÍQ.",
+            .fullName = "Disruptor Psíquico",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17629,14 +17629,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user hurts the\\ntarget’s mind using\\nits Z-Power. The power\\nvaries, depending on\\nthe original move.",
+        .description = "Poder Z que manipula la\\nmente del rival para\\ndañarle. La potencia\\ndepende del movimiento\\noriginal.\\n",
     },
 
     [MOVE_SUBZERO_SLAMMER_PHYSICAL] = {
         .names = {
-            .name = "Subzero Slammer",
-            .capsName = "SUBZERO SLAMMER",
-            .fullName = "Subzero Slammer",
+            .name = "Crioal.Desp.",
+            .capsName = "CRIOAL.DESP.",
+            .fullName = "Crioaliento Despiadado",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17656,14 +17656,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user freezes the\\ntarget using its\\nZ-Power. The power\\nvaries, depending on\\nthe original move.",
+        .description = "Poder Z que lanza un\\nrayo de hielo que\\ncongela al rival. La\\npotencia depende del\\nmovimiento original.\\n",
     },
 
     [MOVE_SUBZERO_SLAMMER_SPECIAL] = {
         .names = {
-            .name = "Subzero Slammer",
-            .capsName = "SUBZERO SLAMMER",
-            .fullName = "Subzero Slammer",
+            .name = "Crioal.Desp.",
+            .capsName = "CRIOAL.DESP.",
+            .fullName = "Crioaliento Despiadado",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17683,14 +17683,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user freezes the\\ntarget using its\\nZ-Power. The power\\nvaries, depending on\\nthe original move.",
+        .description = "Poder Z que lanza un\\nrayo de hielo que\\ncongela al rival. La\\npotencia depende del\\nmovimiento original.\\n",
     },
 
     [MOVE_DEVASTATING_DRAKE_PHYSICAL] = {
         .names = {
-            .name = "Ultimate Drake",
-            .capsName = "ULTIMATE DRAKE",
-            .fullName = "Devastating Drake",
+            .name = "Dracoal.Dev.",
+            .capsName = "DRACOAL.DEV.",
+            .fullName = "Dracoaliento Devastador",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17710,14 +17710,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user materializes\\nand projects its aura\\nusing its Z-Power. The\\npower varies, depending\\non the original move.",
+        .description = "Poder Z que materializa\\nsu aura y golpea al\\nrival. La potencia\\ndepende del movimiento\\noriginal.\\n",
     },
 
     [MOVE_DEVASTATING_DRAKE_SPECIAL] = {
         .names = {
-            .name = "Ultimate Drake",
-            .capsName = "ULTIMATE DRAKE",
-            .fullName = "Devastating Drake",
+            .name = "Dracoal.Dev.",
+            .capsName = "DRACOAL.DEV.",
+            .fullName = "Dracoaliento Devastador",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17737,14 +17737,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user materializes\\nand projects its aura\\nusing its Z-Power. The\\npower varies, depending\\non the original move.",
+        .description = "Poder Z que materializa\\nsu aura y golpea al\\nrival. La potencia\\ndepende del movimiento\\noriginal.\\n",
     },
 
     [MOVE_BLACK_HOLE_ECLIPSE_PHYSICAL] = {
         .names = {
-            .name = "Black Eclipse",
-            .capsName = "BLACK ECLIPSE",
-            .fullName = "Black Hole Eclipse",
+            .name = "Aguj.Negro",
+            .capsName = "AGUJ.NEGRO",
+            .fullName = "Agujero Negro Aniquilador",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17764,14 +17764,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user sucks the\\ntarget into dark energy\\nusing its Z-Power. The\\npower varies, depending\\non the original move.",
+        .description = "Poder Z que genera un\\nagujero negro que\\nabsorbe al rival. La\\npotencia depende del\\nmovimiento original.\\n",
     },
 
     [MOVE_BLACK_HOLE_ECLIPSE_SPECIAL] = {
         .names = {
-            .name = "Black Eclipse",
-            .capsName = "BLACK ECLIPSE",
-            .fullName = "Black Hole Eclipse",
+            .name = "Aguj.Negro",
+            .capsName = "AGUJ.NEGRO",
+            .fullName = "Agujero Negro Aniquilador",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17791,14 +17791,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user sucks the\\ntarget into dark energy\\nusing its Z-Power. The\\npower varies, depending\\non the original move.",
+        .description = "Poder Z que genera un\\nagujero negro que\\nabsorbe al rival. La\\npotencia depende del\\nmovimiento original.\\n",
     },
 
     [MOVE_TWINKLE_TACKLE_PHYSICAL] = {
         .names = {
-            .name = "Twinkle Tackle",
-            .capsName = "TWINKLE TACKLE",
-            .fullName = "Twinkle Tackle",
+            .name = "Arrum. Sid.",
+            .capsName = "ARRUM. SID.",
+            .fullName = "Arrumaco Sideral",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17818,14 +17818,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user totally toys\\nwith the target using\\nits Z-Power. The power\\nvaries, depending on\\nthe original move.",
+        .description = "Poder Z que crea una\\ndimensión fascinante que\\ndeja al rival a su\\nmerced. Potencia según\\nel movimiento original.\\n",
     },
 
     [MOVE_TWINKLE_TACKLE_SPECIAL] = {
         .names = {
-            .name = "Twinkle Tackle",
-            .capsName = "TWINKLE TACKLE",
-            .fullName = "Twinkle Tackle",
+            .name = "Arrum. Sid.",
+            .capsName = "ARRUM. SID.",
+            .fullName = "Arrumaco Sideral",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17845,14 +17845,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user totally toys\\nwith the target using\\nits Z-Power. The power\\nvaries, depending on\\nthe original move.",
+        .description = "Poder Z que crea una\\ndimensión fascinante que\\ndeja al rival a su\\nmerced. Potencia según\\nel movimiento original.\\n",
     },
 
     [MOVE_CATASTROPIKA] = {
         .names = {
-            .name = "Catastropika",
-            .capsName = "CATASTROPIKA",
-            .fullName = "Catastropika",
+            .name = "Pikav. Letal",
+            .capsName = "PIKAV. LETAL",
+            .fullName = "Pikavoltio Letal",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -17872,14 +17872,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "Pikachu surrounds\\nitself with maximum\\nelectricity using its\\nZ-Power and pounces on\\nits target.",
+        .description = "Pikachu acumula una gran\\ncantidad de electricidad\\ncon el Poder Z y\\narremete contra el\\nobjetivo.\\n",
     },
 
     [MOVE_SHORE_UP] = {
         .names = {
-            .name = "Shore Up",
-            .capsName = "SHORE UP",
-            .fullName = "Shore Up",
+            .name = "Recogearena",
+            .capsName = "RECOGEARENA",
+            .fullName = "Recogearena",
         },
         .data = {
             .effect = MOVE_EFFECT_HEAL_HALF_DIFFERENT_IN_WEATHER,
@@ -17899,14 +17899,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user restores its\\nown HP by up to half\\nits max HP.\\nIt regains more HP\\nin a sandstorm.",
+        .description = "Restaura la mitad de sus\\nPS. Con tormenta de\\narena recupera aún más.\\n",
     },
 
     [MOVE_FIRST_IMPRESSION] = {
         .names = {
-            .name = "FirstImpression",
-            .capsName = "FIRSTIMPRESSION",
-            .fullName = "First Impression",
+            .name = "Escaramuza",
+            .capsName = "ESCARAMUZA",
+            .fullName = "Escaramuza",
         },
         .data = {
             .effect = MOVE_EFFECT_FIRST_TURN_ONLY,
@@ -17926,14 +17926,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "Although this move has\\ngreat power, it works\\nonly on the first turn\\neach time the user\\nenters battle.",
+        .description = "Movimiento de gran\\npotencia que solo sirve\\nen el turno en que se\\nentra en combate.\\n",
     },
 
     [MOVE_BANEFUL_BUNKER] = {
         .names = {
-            .name = "Baneful Bunker",
-            .capsName = "BANEFUL BUNKER",
-            .fullName = "Baneful Bunker",
+            .name = "Búnker",
+            .capsName = "BÚNKER",
+            .fullName = "Búnker",
         },
         .data = {
             .effect = MOVE_EFFECT_PROTECT,
@@ -17953,14 +17953,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user protects\\nitself from attacks\\nwhile poisoning any\\nattacker that makes\\ndirect contact.",
+        .description = "Protege de los ataques\\ny envenena a quien le\\ntoque con un movimiento\\nde contacto.\\n",
     },
 
     [MOVE_SPIRIT_SHACKLE] = {
         .names = {
-            .name = "Spirit Shackle",
-            .capsName = "SPIRIT SHACKLE",
-            .fullName = "Spirit Shackle",
+            .name = "Punt.Sombría",
+            .capsName = "PUNT.SOMBRÍA",
+            .fullName = "Puntada Sombría",
         },
         .data = {
             .effect = MOVE_EFFECT_PREVENT_ESCAPE_HIT,
@@ -17980,14 +17980,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks while\\nsimultaneously stitching\\nthe target’s shadow to\\nthe ground to prevent\\nthe target from fleeing.",
+        .description = "Ataca y fija la sombra\\ndel rival al terreno\\npara impedir su huida.\\n",
     },
 
     [MOVE_DARKEST_LARIAT] = {
         .names = {
-            .name = "Darkest Lariat",
-            .capsName = "DARKEST LARIAT",
-            .fullName = "Darkest Lariat",
+            .name = "Lariat Osc.",
+            .capsName = "LARIAT OSC.",
+            .fullName = "Lariat Oscuro",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -18007,14 +18007,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user swings both\\narms and hits the\\ntarget, ignoring changes\\nto the target’s Defense\\nand Evasion.",
+        .description = "Gira sobre sí mismo y\\ngolpea con ambos brazos\\ne ignorando los cambios\\ndel rival.\\n",
     },
 
     [MOVE_SPARKLING_ARIA] = {
         .names = {
-            .name = "Sparkling Aria",
-            .capsName = "SPARKLING ARIA",
-            .fullName = "Sparkling Aria",
+            .name = "Aria Burbuja",
+            .capsName = "ARIA BURBUJA",
+            .fullName = "Aria Burbuja",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -18034,14 +18034,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user bursts into\\nsong, emitting bubbles.\\nAny Pokémon suffering\\nfrom a burn will be\\ncured by their touch.",
+        .description = "Libera burbujas al\\ncantar. Cura las\\nquemaduras de quienes\\nreciban daño.\\n",
     },
 
     [MOVE_ICE_HAMMER] = {
         .names = {
-            .name = "Ice Hammer",
-            .capsName = "ICE HAMMER",
-            .fullName = "Ice Hammer",
+            .name = "Mart. Hielo",
+            .capsName = "MART. HIELO",
+            .fullName = "Martillo Hielo",
         },
         .data = {
             .effect = MOVE_EFFECT_USER_SPEED_DOWN_HIT,
@@ -18061,14 +18061,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user swings and\\nhits with its strong,\\nheavy fist.\\nIt lowers the user’s\\nSpeed, however.",
+        .description = "Golpe devastador con el\\npuño que reduce la\\nVelocidad del usuario.\\n",
     },
 
     [MOVE_FLORAL_HEALING] = {
         .names = {
-            .name = "Floral Healing",
-            .capsName = "FLORAL HEALING",
-            .fullName = "Floral Healing",
+            .name = "Cura Floral",
+            .capsName = "CURA FLORAL",
+            .fullName = "Cura Floral",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -18088,14 +18088,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user restores the\\ntarget’s HP by up to\\nhalf of its max HP. It\\nrestores more HP when\\nthe terrain is grass.",
+        .description = "Restaura la mitad de los\\nPS del objetivo. Es más\\nefectivo con Campo de\\nHierba.\\n",
     },
 
     [MOVE_HIGH_HORSEPOWER] = {
         .names = {
-            .name = "High Horsepower",
-            .capsName = "HIGH HORSEPOWER",
-            .fullName = "High Horsepower",
+            .name = "Fuerza Eq.",
+            .capsName = "FUERZA EQ.",
+            .fullName = "Fuerza Equina",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -18115,14 +18115,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user fiercely\\nattacks the target\\nusing its entire body.",
+        .description = "Asesta un golpe\\ndevastador usando todo\\nsu cuerpo.\\n",
     },
 
     [MOVE_STRENGTH_SAP] = {
         .names = {
-            .name = "Strength Sap",
-            .capsName = "STRENGTH SAP",
-            .fullName = "Strength Sap",
+            .name = "Absorbef.",
+            .capsName = "ABSORBEF.",
+            .fullName = "Absorbefuerza",
         },
         .data = {
             .effect = MOVE_EFFECT_STRENGTH_SAP,
@@ -18142,14 +18142,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user restores its\\nHP by the same amount\\nas the target’s Attack\\nstat. It also lowers the\\ntarget’s Attack stat.",
+        .description = "Restaura PS igual al\\nAtaque del rival, que\\nademás ve reducida esa\\ncaracterística.\\n",
     },
 
     [MOVE_SOLAR_BLADE] = {
         .names = {
-            .name = "Solar Blade",
-            .capsName = "SOLAR BLADE",
-            .fullName = "Solar Blade",
+            .name = "Cuch. Solar",
+            .capsName = "CUCH. SOLAR",
+            .fullName = "Cuchilla Solar",
         },
         .data = {
             .effect = MOVE_EFFECT_CHARGE_TURN_SUN_SKIPS,
@@ -18169,14 +18169,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user fills a blade\\nwith light’s energy on\\nthe first turn, then\\nattacks on the next\\nturn.",
+        .description = "Absorbe energía lumínica\\nun turno y ataca con\\nuna cuchilla de luz en\\nel siguiente.\\n",
     },
 
     [MOVE_LEAFAGE] = {
         .names = {
-            .name = "Leafage",
-            .capsName = "LEAFAGE",
-            .fullName = "Leafage",
+            .name = "Follaje",
+            .capsName = "FOLLAJE",
+            .fullName = "Follaje",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -18196,14 +18196,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks by\\npelting the target\\nwith leaves.",
+        .description = "Ataca al objetivo\\nlanzando hojas.\\n",
     },
 
     [MOVE_SPOTLIGHT] = {
         .names = {
-            .name = "Spotlight",
-            .capsName = "SPOTLIGHT",
-            .fullName = "Spotlight",
+            .name = "Foco",
+            .capsName = "FOCO",
+            .fullName = "Foco",
         },
         .data = {
             .effect = MOVE_EFFECT_MAKE_GLOBAL_TARGET,
@@ -18223,14 +18223,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user shines a\\nspotlight on the target\\nso that only the target\\nwill be attacked during\\nthe turn.",
+        .description = "Convierte a un Pokémon\\nen el foco de atención y\\ntodos los ataques se\\ndirigen a él.\\n",
     },
 
     [MOVE_TOXIC_THREAD] = {
         .names = {
-            .name = "Toxic Thread",
-            .capsName = "TOXIC THREAD",
-            .fullName = "Toxic Thread",
+            .name = "Hilo Ven.",
+            .capsName = "HILO VEN.",
+            .fullName = "Hilo Venenoso",
         },
         .data = {
             .effect = MOVE_EFFECT_TOXIC_THREAD,
@@ -18250,14 +18250,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user shoots\\npoisonous threads\\nto poison the target\\nand lower the\\ntarget’s Speed stat.",
+        .description = "Hilillos venenosos que\\nreducen mucho la\\nVelocidad del rival y lo\\nenvenenan.\\n",
     },
 
     [MOVE_LASER_FOCUS] = {
         .names = {
-            .name = "Laser Focus",
-            .capsName = "LASER FOCUS",
-            .fullName = "Laser Focus",
+            .name = "Aguzar",
+            .capsName = "AGUZAR",
+            .fullName = "Aguzar",
         },
         .data = {
             .effect = MOVE_EFFECT_LASER_FOCUS,
@@ -18277,14 +18277,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user concentrates\\nintensely.\\nThe attack on the next\\nturn always results in\\na critical hit.",
+        .description = "Se concentra para que su\\nsiguiente ataque sea\\ngolpe crítico.\\n",
     },
 
     [MOVE_GEAR_UP] = {
         .names = {
-            .name = "Gear Up",
-            .capsName = "GEAR UP",
-            .fullName = "Gear Up",
+            .name = "Piñón Aux.",
+            .capsName = "PIÑÓN AUX.",
+            .fullName = "Piñón Auxiliar",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -18304,14 +18304,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user engages its\\ngears to raise the\\nAttack and Sp. Atk\\nstats of ally Pokémon\\nwith Plus or Minus.",
+        .description = "Cambia de marcha y sube\\nel Ataque y el Ataque\\nEspecial de los aliados\\ncon Más y Menos.\\n",
     },
 
     [MOVE_THROAT_CHOP] = {
         .names = {
-            .name = "Throat Chop",
-            .capsName = "THROAT CHOP",
-            .fullName = "Throat Chop",
+            .name = "Golpe Mord.",
+            .capsName = "GOLPE MORD.",
+            .fullName = "Golpe Mordaza",
         },
         .data = {
             .effect = MOVE_EFFECT_THROAT_CHOP,
@@ -18331,14 +18331,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks the\\ntarget’s throat,\\npreventing the target\\nfrom using sound-based\\nmoves for two turns.",
+        .description = "Dolor tan abrumador que\\nimpide al rival usar\\ndurante dos turnos\\nmovimientos sonoros.\\n",
     },
 
     [MOVE_POLLEN_PUFF] = {
         .names = {
-            .name = "Pollen Puff",
-            .capsName = "POLLEN PUFF",
-            .fullName = "Pollen Puff",
+            .name = "Bola Polen",
+            .capsName = "BOLA POLEN",
+            .fullName = "Bola de Polen",
         },
         .data = {
             .effect = MOVE_EFFECT_POLLEN_PUFF,
@@ -18358,14 +18358,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks with\\nan exploding pollen\\npuff. If the target is\\nan ally, it restores\\nits HP instead.",
+        .description = "Bola explosiva que daña\\nal rival. Si alcanza a\\nun aliado, le hace\\nrecuperar PS.\\n",
     },
 
     [MOVE_ANCHOR_SHOT] = {
         .names = {
-            .name = "Anchor Shot",
-            .capsName = "ANCHOR SHOT",
-            .fullName = "Anchor Shot",
+            .name = "Anclaje",
+            .capsName = "ANCLAJE",
+            .fullName = "Anclaje",
         },
         .data = {
             .effect = MOVE_EFFECT_PREVENT_ESCAPE_HIT,
@@ -18385,14 +18385,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user entangles the\\ntarget with its anchor\\nchain while attacking.\\nThe target becomes\\nunable to flee.",
+        .description = "Lanza un ancla que deja\\nal rival atrapado sin\\npoder huir ni ser\\ncambiado.\\n",
     },
 
     [MOVE_PSYCHIC_TERRAIN] = {
         .names = {
-            .name = "Psychic Terrain",
-            .capsName = "PSYCHIC TERRAIN",
-            .fullName = "Psychic Terrain",
+            .name = "C. Psíquico",
+            .capsName = "C. PSÍQUICO",
+            .fullName = "Campo Psíquico",
         },
         .data = {
             .effect = MOVE_EFFECT_APPLY_TERRAINS,
@@ -18412,14 +18412,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "This protects Pokémon\\non the ground from\\npriority moves and\\npowers up Psychic-type\\nmoves for five turns.",
+        .description = "Durante 5 turnos se\\npotencian los\\nmovimientos psíquicos y\\nlos del suelo quedan\\nprotegidos.\\n",
     },
 
     [MOVE_LUNGE] = {
         .names = {
-            .name = "Lunge",
-            .capsName = "LUNGE",
-            .fullName = "Lunge",
+            .name = "Plancha",
+            .capsName = "PLANCHA",
+            .fullName = "Plancha",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_ATTACK_HIT,
@@ -18439,14 +18439,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user makes a lunge\\nat the target, attacking\\nwith full force.\\nThis also lowers the\\ntarget’s Attack stat.",
+        .description = "Se abalanza sobre el\\nrival con todas sus\\nfuerzas y reduce su\\nAtaque.\\n",
     },
 
     [MOVE_FIRE_LASH] = {
         .names = {
-            .name = "Fire Lash",
-            .capsName = "FIRE LASH",
-            .fullName = "Fire Lash",
+            .name = "Látigo Ígneo",
+            .capsName = "LÁTIGO ÍGNEO",
+            .fullName = "Látigo Ígneo",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_DEFENSE_HIT,
@@ -18466,14 +18466,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user strikes the\\ntarget with a burning\\nlash.\\nThis also lowers the\\ntarget’s Defense stat.",
+        .description = "Golpea con un látigo\\nincandescente y reduce\\nla Defensa del rival.\\n",
     },
 
     [MOVE_POWER_TRIP] = {
         .names = {
-            .name = "Power Trip",
-            .capsName = "POWER TRIP",
-            .fullName = "Power Trip",
+            .name = "Chulería",
+            .capsName = "CHULERÍA",
+            .fullName = "Chulería",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -18493,14 +18493,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user flaunts its\\nstrength. The more the\\nuser’s stats are\\nboosted, the greater\\nthe move’s power.",
+        .description = "Ataca presumiendo de su\\nfuerza. Cuanto más\\nsuban sus\\ncaracterísticas, mayor\\npotencia.\\n",
     },
 
     [MOVE_BURN_UP] = {
         .names = {
-            .name = "Burn Up",
-            .capsName = "BURN UP",
-            .fullName = "Burn Up",
+            .name = "Llama Final",
+            .capsName = "LLAMA FINAL",
+            .fullName = "Llama Final",
         },
         .data = {
             .effect = MOVE_EFFECT_REMOVE_USER_FIRE_TYPE_HIT,
@@ -18520,14 +18520,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "To inflict massive\\ndamage, the user burns\\nitself out. After using\\nthis move, the user will\\nno longer be Fire type.",
+        .description = "Usa hasta la última\\nllama de su cuerpo. Tras\\nel ataque deja de ser de\\ntipo Fuego.\\n",
     },
 
     [MOVE_SPEED_SWAP] = {
         .names = {
-            .name = "Speed Swap",
-            .capsName = "SPEED SWAP",
-            .fullName = "Speed Swap",
+            .name = "Cambiavel.",
+            .capsName = "CAMBIAVEL.",
+            .fullName = "Cambiavelocidad",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -18547,14 +18547,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user exchanges\\nSpeed stats with the\\ntarget.",
+        .description = "Intercambia su Velocidad\\npor la del objetivo.\\n",
     },
 
     [MOVE_SMART_STRIKE] = {
         .names = {
-            .name = "Smart Strike",
-            .capsName = "SMART STRIKE",
-            .fullName = "Smart Strike",
+            .name = "Cuerno Cert.",
+            .capsName = "CUERNO CERT.",
+            .fullName = "Cuerno Certero",
         },
         .data = {
             .effect = MOVE_EFFECT_BYPASS_ACCURACY,
@@ -18574,14 +18574,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user stabs the\\ntarget with a sharp\\nhorn.\\nThis attack never\\nmisses.",
+        .description = "Ensarta al rival con su\\nafilada cornamenta. No\\nfalla nunca.\\n",
     },
 
     [MOVE_PURIFY] = {
         .names = {
-            .name = "Purify",
-            .capsName = "PURIFY",
-            .fullName = "Purify",
+            .name = "Purificación",
+            .capsName = "PURIFICACIÓN",
+            .fullName = "Purificación",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -18601,14 +18601,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user cures the\\ntarget’s status\\ncondition. If the move\\nsucceeds, it also\\nrestores the user’s HP.",
+        .description = "Cura los problemas de\\nestado del rival y, a\\ncambio, recupera PS\\npropios.\\n",
     },
 
     [MOVE_REVELATION_DANCE] = {
         .names = {
-            .name = "RevelationDance",
-            .capsName = "REVELATIONDANCE",
-            .fullName = "Revelation Dance",
+            .name = "Danza Desp.",
+            .capsName = "DANZA DESP.",
+            .fullName = "Danza Despertar",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -18628,14 +18628,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks the\\ntarget by dancing with\\nall its might. This\\nmove becomes the same\\ntype as the user’s type.",
+        .description = "Baile muy enérgico. El\\ntipo de este ataque es\\nel mismo que el del\\nusuario.\\n",
     },
 
     [MOVE_CORE_ENFORCER] = {
         .names = {
-            .name = "Core Enforcer",
-            .capsName = "CORE ENFORCER",
-            .fullName = "Core Enforcer",
+            .name = "Núcleo Cast.",
+            .capsName = "NÚCLEO CAST.",
+            .fullName = "Núcleo Castigo",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -18655,14 +18655,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "If a target has already\\nused their move this\\nturn, this move\\neliminates the effects\\nof their Ability.",
+        .description = "Inflige daño y, si el\\nrival ya ha usado algún\\nmovimiento, pierde su\\nhabilidad.\\n",
     },
 
     [MOVE_TROP_KICK] = {
         .names = {
-            .name = "Trop Kick",
-            .capsName = "TROP KICK",
-            .fullName = "Trop Kick",
+            .name = "Pat.Tropical",
+            .capsName = "PAT.TROPICAL",
+            .fullName = "Patada Tropical",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_ATTACK_HIT,
@@ -18682,14 +18682,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user lands an\\nintense kick of tropical\\norigins on the target.\\nThis also lowers the\\ntarget’s Attack stat.",
+        .description = "Patada con la fuerza del\\ntrópico que reduce el\\nAtaque del rival.\\n",
     },
 
     [MOVE_INSTRUCT] = {
         .names = {
-            .name = "Instruct",
-            .capsName = "INSTRUCT",
-            .fullName = "Instruct",
+            .name = "Mandato",
+            .capsName = "MANDATO",
+            .fullName = "Mandato",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -18709,14 +18709,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user instructs the\\ntarget to reuse the\\nmove last used by the\\ntarget.",
+        .description = "Fuerza al objetivo a\\nrepetir inmediatamente\\nsu último movimiento.\\n",
     },
 
     [MOVE_BEAK_BLAST] = {
         .names = {
-            .name = "Beak Blast",
-            .capsName = "BEAK BLAST",
-            .fullName = "Beak Blast",
+            .name = "Pico Cañón",
+            .capsName = "PICO CAÑÓN",
+            .fullName = "Pico Cañón",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -18736,14 +18736,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user heats up its\\nbeak before attacking.\\nMaking contact before\\nthe user attacks\\nresults in a burn.",
+        .description = "Calienta su pico y\\nataca. Quema a quien le\\ntoque mientras lo\\ncalienta.\\n",
     },
 
     [MOVE_CLANGING_SCALES] = {
         .names = {
-            .name = "Clanging Scales",
-            .capsName = "CLANGING SCALES",
-            .fullName = "Clanging Scales",
+            .name = "Fragor Esc.",
+            .capsName = "FRAGOR ESC.",
+            .fullName = "Fragor Escamas",
         },
         .data = {
             .effect = MOVE_EFFECT_USER_DEF_DOWN_HIT,
@@ -18763,14 +18763,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user rubs its\\nscales to make a huge\\nnoise. The user’s\\nDefense stat is lowered\\nafter the attack.",
+        .description = "Frota sus escamas para\\ncrear un fuerte sonido\\nque ataca. Reduce su\\ndefensa.\\n",
     },
 
     [MOVE_DRAGON_HAMMER] = {
         .names = {
-            .name = "Dragon Hammer",
-            .capsName = "DRAGON HAMMER",
-            .fullName = "Dragon Hammer",
+            .name = "Mart. Dragón",
+            .capsName = "MART. DRAGÓN",
+            .fullName = "Martillo Dragón",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -18790,14 +18790,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user wields its\\nbody like a hammer to\\nattack the target and\\ninflict damage.",
+        .description = "Usa el cuerpo como un\\nmartillo para\\nabalanzarse sobre su\\nobjetivo.\\n",
     },
 
     [MOVE_BRUTAL_SWING] = {
         .names = {
-            .name = "Brutal Swing",
-            .capsName = "BRUTAL SWING",
-            .fullName = "Brutal Swing",
+            .name = "Giro Vil",
+            .capsName = "GIRO VIL",
+            .fullName = "Giro Vil",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -18817,14 +18817,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user swings its\\nbody around violently\\nto inflict damage on\\neverything in its\\nvicinity.",
+        .description = "Hace pivotar su cuerpo\\npara causar daño a los\\nPokémon adyacentes.\\n",
     },
 
     [MOVE_AURORA_VEIL] = {
         .names = {
-            .name = "Aurora Veil",
-            .capsName = "AURORA VEIL",
-            .fullName = "Aurora Veil",
+            .name = "Velo Aurora",
+            .capsName = "VELO AURORA",
+            .fullName = "Velo Aurora",
         },
         .data = {
             .effect = MOVE_EFFECT_SET_AURORA_VEIL,
@@ -18844,14 +18844,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "This move reduces damage\\nfrom most moves for five\\nturns. It can be used\\nonly when it is snowing.",
+        .description = "Reduce el daño físico y\\nespecial durante cinco\\nturnos. Solo sirve\\ncuando nieva.\\n",
     },
 
     [MOVE_SINISTER_ARROW_RAID] = {
         .names = {
-            .name = "Sinister Raid",
-            .capsName = "SINISTER RAID",
-            .fullName = "Sinister Arrow Raid",
+            .name = "Aluv.Flechas",
+            .capsName = "ALUV.FLECHAS",
+            .fullName = "Aluvión de Flechas Sombrías",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -18871,14 +18871,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user, Decidueye,\\ncreates countless\\narrows using its Z-Power\\nand shoots the target\\nwith full force.",
+        .description = "Decidueye usa el Poder Z\\npara proyectar multitud\\nde flechas que\\natraviesan al rival.\\n",
     },
 
     [MOVE_MALICIOUS_MOONSAULT] = {
         .names = {
-            .name = "Moonsault",
-            .capsName = "MOONSAULT",
-            .fullName = "Malicious Moonsault",
+            .name = "Hiperpl.Osc.",
+            .capsName = "HIPERPL.OSC.",
+            .fullName = "Hiperplancha Oscura",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -18898,14 +18898,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user, Incineroar,\\nstrengthens its body\\nusing its Z-Power and\\ncrashes into the target\\nwith full force.",
+        .description = "Incineroar refuerza sus\\nmúsculos con el Poder Z\\ny golpea con todas sus\\nfuerzas.\\n",
     },
 
     [MOVE_OCEANIC_OPERETTA] = {
         .names = {
-            .name = "OceanicOperetta",
-            .capsName = "OCEANICOPERETTA",
-            .fullName = "Oceanic Operetta",
+            .name = "Sinf. Diva",
+            .capsName = "SINF. DIVA",
+            .fullName = "Sinfonía de la Diva Marina",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -18925,14 +18925,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user, Primarina,\\nsummons a massive\\namount of water using its\\nZ-Power and attacks the\\ntarget with full force.",
+        .description = "Primarina invoca\\ningentes cantidades de\\nagua con el Poder Z y\\nataca con gran\\npotencia.\\n",
     },
 
     [MOVE_GUARDIAN_OF_ALOLA] = {
         .names = {
-            .name = "Alolan Guardian",
-            .capsName = "ALOLAN GUARDIAN",
-            .fullName = "Guardian of Alola",
+            .name = "Cólera Guar.",
+            .capsName = "CÓLERA GUAR.",
+            .fullName = "Cólera del Guardián",
         },
         .data = {
             .effect = MOVE_EFFECT_QUARTER_HP,
@@ -18952,14 +18952,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The Land Spirit Pokémon\\nuses its Z-Power to\\nattack with Alola’s\\nenergy. This reduces the\\ntarget’s HP greatly.",
+        .description = "Los Dios Nativo canalizan\\nla energía de Alola y\\nreducen un gran\\nporcentaje de los PS\\ndel rival.\\n",
     },
 
     [MOVE_SOUL_STEALING_7_STAR_STRIKE] = {
         .names = {
-            .name = "7-Star Strike",
-            .capsName = "7-STAR STRIKE",
-            .fullName = "Soul-Stealing 7-Star Strike",
+            .name = "Const. Almas",
+            .capsName = "CONST. ALMAS",
+            .fullName = "Constelación Robaalmas",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -18979,14 +18979,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "After obtaining\\nZ-Power, Marshadow\\npunches and kicks the\\ntarget consecutively\\nwith full force.",
+        .description = "Marshadow lanza con el\\nPoder Z una oleada de\\npuñetazos y patadas\\ncontra su rival.\\n",
     },
 
     [MOVE_STOKED_SPARKSURFER] = {
         .names = {
-            .name = "Sparksurfer",
-            .capsName = "SPARKSURFER",
-            .fullName = "Stoked Sparksurfer",
+            .name = "Surfeo Galv.",
+            .capsName = "SURFEO GALV.",
+            .fullName = "Surfeo Galvánico",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -19006,14 +19006,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "After obtaining\\nZ-Power, Alolan Raichu\\nattacks the target with\\nfull force, leaving\\nthem with paralysis.",
+        .description = "El Raichu de Alola usa\\nel Poder Z para lanzar\\nun potente ataque que\\nparaliza al rival.\\n",
     },
 
     [MOVE_PULVERIZING_PANCAKE] = {
         .names = {
-            .name = "Pulver-Pancake",
-            .capsName = "PULVER-PANCAKE",
-            .fullName = "Pulverizing Pancake",
+            .name = "Arrojo Int.",
+            .capsName = "ARROJO INT.",
+            .fullName = "Arrojo Intempestivo",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -19033,14 +19033,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "Z-Power brings out the\\ntrue capabilities of\\nSnorlax, which excitedly\\nmoves its enormous body\\nto attack the target.",
+        .description = "Snorlax, con el Poder Z,\\nmueve su enorme cuerpo\\ncon agilidad y carga\\ncontra el rival.\\n",
     },
 
     [MOVE_EXTREME_EVOBOOST] = {
         .names = {
-            .name = "ExtremeEvoboost",
-            .capsName = "EXTREMEEVOBOOST",
-            .fullName = "Extreme Evoboost",
+            .name = "Novena Pot.",
+            .capsName = "NOVENA POT.",
+            .fullName = "Novena Potencia",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -19060,14 +19060,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "After obtaining\\nZ-Power, Eevee gets\\nenergy from its evolved\\nfriends and boosts its\\nstats sharply.",
+        .description = "Eevee toma prestada la\\nenergía de sus\\nevoluciones para\\npotenciar enormemente\\nsus características.\\n",
     },
 
     [MOVE_GENESIS_SUPERNOVA] = {
         .names = {
-            .name = "OriginSupernova",
-            .capsName = "ORIGINSUPERNOVA",
-            .fullName = "Genesis Supernova",
+            .name = "Supern.Orig.",
+            .capsName = "SUPERN.ORIG.",
+            .fullName = "Supernova Original",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -19087,14 +19087,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "After obtaining\\nZ-Power, Mew attacks\\nthe target and charges\\nthe terrain with\\npsychic energy.",
+        .description = "Mew usa el Poder Z para\\natacar con fuerza y\\ncrear un Campo Psíquico\\nsobre el terreno.\\n",
     },
 
     [MOVE_SHELL_TRAP] = {
         .names = {
-            .name = "Shell Trap",
-            .capsName = "SHELL TRAP",
-            .fullName = "Shell Trap",
+            .name = "Coraza Trap.",
+            .capsName = "CORAZA TRAP.",
+            .fullName = "Coraza Trampa",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -19114,14 +19114,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user sets a shell\\ntrap. If hit by a\\nphysical move, the\\ntrap will explode and\\ninflict damage.",
+        .description = "Su caparazón se vuelve\\nuna trampa. Si lo\\nalcanza un ataque\\nfísico, estalla.\\n",
     },
 
     [MOVE_FLEUR_CANNON] = {
         .names = {
-            .name = "Fleur Cannon",
-            .capsName = "FLEUR CANNON",
-            .fullName = "Fleur Cannon",
+            .name = "Cañón Floral",
+            .capsName = "CAÑÓN FLORAL",
+            .fullName = "Cañón Floral",
         },
         .data = {
             .effect = MOVE_EFFECT_USER_SP_ATK_DOWN_2,
@@ -19141,14 +19141,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user unleashes a\\nstrong beam.\\nThe attack’s recoil\\nharshly lowers the\\nuser’s Sp. Atk stat.",
+        .description = "Emite un potente rayo,\\npero reduce mucho su\\nAtaque Especial.\\n",
     },
 
     [MOVE_PSYCHIC_FANGS] = {
         .names = {
-            .name = "Psychic Fangs",
-            .capsName = "PSYCHIC FANGS",
-            .fullName = "Psychic Fangs",
+            .name = "Psicocolm.",
+            .capsName = "PSICOCOLM.",
+            .fullName = "Psicocolmillo",
         },
         .data = {
             .effect = MOVE_EFFECT_REMOVE_SCREENS,
@@ -19168,14 +19168,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user bites the\\ntarget with its psychic\\ncapabilities. This can\\nalso destroy Light\\nScreen and Reflect.",
+        .description = "Ataca con poderes\\npsíquicos que además\\ndestruyen barreras como\\nPantalla de Luz.\\n",
     },
 
     [MOVE_STOMPING_TANTRUM] = {
         .names = {
-            .name = "StompingTantrum",
-            .capsName = "STOMPINGTANTRUM",
-            .fullName = "Stomping Tantrum",
+            .name = "Pataleta",
+            .capsName = "PATALETA",
+            .fullName = "Pataleta",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -19195,14 +19195,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "Driven by frustration,\\nthe user attacks. This\\nmove’s power is\\ndoubled if the user’s\\nprevious move failed.",
+        .description = "Usa la frustración como\\nrevulsivo. Duplica su\\npotencia si el último\\nmovimiento falló.\\n",
     },
 
     [MOVE_SHADOW_BONE] = {
         .names = {
-            .name = "Shadow Bone",
-            .capsName = "SHADOW BONE",
-            .fullName = "Shadow Bone",
+            .name = "Hueso Som.",
+            .capsName = "HUESO SOM.",
+            .fullName = "Hueso Sombrío",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_DEFENSE_HIT,
@@ -19222,14 +19222,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user beats the\\ntarget with a bone that\\ncontains a spirit. This\\nmay also lower the\\ntarget’s Defense stat.",
+        .description = "Golpea con un hueso\\nposeído por un espíritu.\\nPuede reducir la\\nDefensa.\\n",
     },
 
     [MOVE_ACCELEROCK] = {
         .names = {
-            .name = "Accelerock",
-            .capsName = "ACCELEROCK",
-            .fullName = "Accelerock",
+            .name = "Roca Veloz",
+            .capsName = "ROCA VELOZ",
+            .fullName = "Roca Veloz",
         },
         .data = {
             .effect = MOVE_EFFECT_PRIORITY_1,
@@ -19249,14 +19249,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user smashes into\\nthe target at high\\nspeed.\\nThis move always goes\\nfirst.",
+        .description = "Se lanza contra el\\nobjetivo a gran\\nvelocidad. Tiene\\nprioridad alta.\\n",
     },
 
     [MOVE_LIQUIDATION] = {
         .names = {
-            .name = "Liquidation",
-            .capsName = "LIQUIDATION",
-            .fullName = "Liquidation",
+            .name = "Hidroariete",
+            .capsName = "HIDROARIETE",
+            .fullName = "Hidroariete",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_DEFENSE_HIT,
@@ -19276,14 +19276,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user slams into\\nthe target using a\\nblast of water. This\\nmay also lower the\\ntarget’s Defense stat.",
+        .description = "Ataca con la fuerza del\\nagua. Puede reducir la\\nDefensa del objetivo.\\n",
     },
 
     [MOVE_PRISMATIC_LASER] = {
         .names = {
-            .name = "Prismatic Laser",
-            .capsName = "PRISMATIC LASER",
-            .fullName = "Prismatic Laser",
+            .name = "Láser Prisma",
+            .capsName = "LÁSER PRISMA",
+            .fullName = "Láser Prisma",
         },
         .data = {
             .effect = MOVE_EFFECT_RECHARGE_AFTER,
@@ -19303,14 +19303,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user shoots\\npowerful lasers using\\nthe power of a prism.\\nThe user can’t move on\\nthe next turn.",
+        .description = "Usa un prisma para\\nemitir un rayo de gran\\npotencia, pero debe\\ndescansar después.\\n",
     },
 
     [MOVE_SPECTRAL_THIEF] = {
         .names = {
-            .name = "Spectral Thief",
-            .capsName = "SPECTRAL THIEF",
-            .fullName = "Spectral Thief",
+            .name = "Robasombra",
+            .capsName = "ROBASOMBRA",
+            .fullName = "Robasombra",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -19330,14 +19330,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user hides in the\\ntarget’s shadow,\\nsteals the target’s\\nstat boosts,\\nand then attacks",
+        .description = "Se esconde en la sombra\\ndel rival y lo ataca\\ntras robarle sus\\nmejoras.\\n",
     },
 
     [MOVE_SUNSTEEL_STRIKE] = {
         .names = {
-            .name = "Sunsteel Strike",
-            .capsName = "SUNSTEEL STRIKE",
-            .fullName = "Sunsteel Strike",
+            .name = "Meteoimpacto",
+            .capsName = "METEOIMPACTO",
+            .fullName = "Meteoimpacto",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -19357,14 +19357,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks with\\nmeteoric force. This\\nmove can be used on\\nthe target regardless\\nof its Ability.",
+        .description = "Ataca con la potencia de\\nun meteoro, ignorando\\nla habilidad del\\nobjetivo.\\n",
     },
 
     [MOVE_MOONGEIST_BEAM] = {
         .names = {
-            .name = "Moongeist Beam",
-            .capsName = "MOONGEIST BEAM",
-            .fullName = "Moongeist Beam",
+            .name = "Rayo Umbrío",
+            .capsName = "RAYO UMBRÍO",
+            .fullName = "Rayo Umbrío",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -19384,14 +19384,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user emits a\\nsinister ray. This\\nmove can be used on\\nthe target regardless\\nof its Ability.",
+        .description = "Rayo misterioso que\\nignora la habilidad del\\nobjetivo.\\n",
     },
 
     [MOVE_TEARFUL_LOOK] = {
         .names = {
-            .name = "Tearful Look",
-            .capsName = "TEARFUL LOOK",
-            .fullName = "Tearful Look",
+            .name = "Ojos Llor.",
+            .capsName = "OJOS LLOR.",
+            .fullName = "Ojos Llorosos",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_SP_ATK_DOWN,
@@ -19411,14 +19411,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_CUTE,
         },
-        .description = "The user tears up,\\nlowering the target’s\\nAttack and Sp. Atk\\nstats.\\nBypasses Protect.",
+        .description = "Mira con ojos llorosos\\npara quitarle el ánimo y\\nreducir su Ataque y\\nAtaque Especial.\\n",
     },
 
     [MOVE_ZING_ZAP] = {
         .names = {
-            .name = "Zing Zap",
-            .capsName = "ZING ZAP",
-            .fullName = "Zing Zap",
+            .name = "Electropunz.",
+            .capsName = "ELECTROPUNZ.",
+            .fullName = "Electropunzada",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -19438,14 +19438,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user crashes into\\nthe target, delivering\\na powerful electric\\nshock. This may also\\nmake the target flinch.",
+        .description = "Se lanza con una potente\\ndescarga que puede\\namedrentar al rival.\\n",
     },
 
     [MOVE_NATURES_MADNESS] = {
         .names = {
-            .name = "Nature’sMadness",
-            .capsName = "NATURE’SMADNESS",
-            .fullName = "Nature’s Madness",
+            .name = "Furia Nat.",
+            .capsName = "FURIA NAT.",
+            .fullName = "Furia Natural",
         },
         .data = {
             .effect = MOVE_EFFECT_HALVE_HP,
@@ -19465,14 +19465,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user hits the\\ntarget with the full\\nwrath of nature.\\nThis cuts the target’s\\nHP in half.",
+        .description = "Golpea con la furia de la\\nnaturaleza y reduce sus\\nPS a la mitad.\\n",
     },
 
     [MOVE_MULTI_ATTACK] = {
         .names = {
-            .name = "Multi-Attack",
-            .capsName = "MULTI-ATTACK",
-            .fullName = "Multi-Attack",
+            .name = "Multiataque",
+            .capsName = "MULTIATAQUE",
+            .fullName = "Multiataque",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_ATTACK,
@@ -19492,14 +19492,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "Cloaking itself in high\\nenergy, the user slams\\ninto the target. The\\nmemory held determines\\nthe move’s type.",
+        .description = "Se rodea de una potente\\nenergía. El tipo depende\\ndel disco que lleve el\\nusuario.\\n",
     },
 
     [MOVE_10_000_000_VOLT_THUNDERBOLT] = {
         .names = {
-            .name = "10,000,000 Bolt",
-            .capsName = "10,000,000 BOLT",
-            .fullName = "10,000,000 Volt Thunderbolt",
+            .name = "Gigarrayo",
+            .capsName = "GIGARRAYO",
+            .fullName = "Gigarrayo Fulminante",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -19519,14 +19519,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "Pikachu (wearing a\\ncap) unleashes a jolt\\nof electricity using\\nits Z-Power. Critical\\nhits land more easily.",
+        .description = "Los Pikachu con gorra\\nacumulan una carga\\ndescomunal con el Poder\\nZ. Suele ser crítico.\\n",
     },
 
     [MOVE_MIND_BLOWN] = {
         .names = {
-            .name = "Mind Blown",
-            .capsName = "MIND BLOWN",
-            .fullName = "Mind Blown",
+            .name = "Cab.Sorpresa",
+            .capsName = "CAB.SORPRESA",
+            .fullName = "Cabeza Sorpresa",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -19546,14 +19546,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks\\neverything around it by\\ncausing its own head to\\nexplode. This also\\ndamages the user.",
+        .description = "Hace explotar su cabeza\\npara atacar a los\\nadyacentes, aunque él\\ntambién se hiere.\\n",
     },
 
     [MOVE_PLASMA_FISTS] = {
         .names = {
-            .name = "Plasma Fists",
-            .capsName = "PLASMA FISTS",
-            .fullName = "Plasma Fists",
+            .name = "Puños Plasma",
+            .capsName = "PUÑOS PLASMA",
+            .fullName = "Puños Plasma",
         },
         .data = {
             .effect = MOVE_EFFECT_ION_DELUGE_HIT,
@@ -19573,14 +19573,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user attacks with\\nelectrically charged\\nfists. This move\\nchanges Normal-type\\nmoves to Electric.",
+        .description = "Puños cargados de\\nelectricidad que\\nconvierten los\\nmovimientos de Normal\\nen Eléctrico.\\n",
     },
 
     [MOVE_PHOTON_GEYSER] = {
         .names = {
-            .name = "Photon Geyser",
-            .capsName = "PHOTON GEYSER",
-            .fullName = "Photon Geyser",
+            .name = "Géiser Fot.",
+            .capsName = "GÉISER FOT.",
+            .fullName = "Géiser Fotónico",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -19600,14 +19600,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks with a\\npillar of light. This\\ncan inflict damage using\\nAttack or Sp. Atk-\\nwhichever is higher.",
+        .description = "Gran columna de luz que\\nusa el mayor valor\\nentre Ataque y Ataque\\nEspecial.\\n",
     },
 
     [MOVE_LIGHT_THAT_BURNS_THE_SKY] = {
         .names = {
-            .name = "LightBurnSky",
-            .capsName = "LIGHTBURNSKY",
-            .fullName = "Light That Burns the Sky",
+            .name = "Apocalipsis",
+            .capsName = "APOCALIPSIS",
+            .fullName = "Fotodestrucción Apocalíptica",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -19627,14 +19627,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "Necrozma inflicts damage\\nusing Attack or Sp. Atk-\\nwhichever is higher.\\nThis move ignores the\\ntarget’s Ability.",
+        .description = "Necrozma usa el mayor\\nvalor entre Ataque y\\nAtaque Especial e\\nignora la habilidad del\\nrival.\\n",
     },
 
     [MOVE_SEARING_SUNRAZE_SMASH] = {
         .names = {
-            .name = "Sunraze Smash",
-            .capsName = "SUNRAZE SMASH",
-            .fullName = "Searing Sunraze Smash",
+            .name = "Embest.Solar",
+            .capsName = "EMBEST.SOLAR",
+            .fullName = "Embestida Solar",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -19654,14 +19654,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "After obtaining Z-Power,\\nSolgaleo attacks the\\ntarget. This move can\\nignore the effect of the\\ntarget’s Ability.",
+        .description = "Solgaleo ataca con toda\\nsu fuerza tras imbuirse\\ndel Poder Z. Ignora la\\nhabilidad del rival.\\n",
     },
 
     [MOVE_MENACING_MOONRAZE_MAELSTROM] = {
         .names = {
-            .name = "Moonraze Storm",
-            .capsName = "MOONRAZE STORM",
-            .fullName = "Menacing Moonraze Maelstrom",
+            .name = "Defl. Lunar",
+            .capsName = "DEFL. LUNAR",
+            .fullName = "Deflagración Lunar",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -19681,14 +19681,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "After obtaining Z-Power,\\nLunala attacks the\\ntarget. This move can\\nignore the effect of the\\ntarget’s Ability.",
+        .description = "Lunala ataca con toda su\\nfuerza tras imbuirse del\\nPoder Z. Ignora la\\nhabilidad del rival.\\n",
     },
 
     [MOVE_LETS_SNUGGLE_FOREVER] = {
         .names = {
-            .name = "Let’s Snuggle",
-            .capsName = "LET’S SNUGGLE",
-            .fullName = "Let’s Snuggle Forever",
+            .name = "Somanta",
+            .capsName = "SOMANTA",
+            .fullName = "Somanta Amistosa",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -19708,14 +19708,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "After obtaining\\nZ-Power, the user,\\nMimikyu, punches the\\ntarget with full\\nforce.",
+        .description = "Mimikyu ataca con toda\\nsu fuerza tras imbuirse\\ndel Poder Z y asesta una\\nlluvia de golpes.\\n",
     },
 
     [MOVE_SPLINTERED_STORMSHARDS] = {
         .names = {
-            .name = "Stormshards",
-            .capsName = "STORMSHARDS",
-            .fullName = "Splintered Stormshards",
+            .name = "Temp. Rocosa",
+            .capsName = "TEMP. ROCOSA",
+            .fullName = "Tempestad Rocosa",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -19735,14 +19735,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "After obtaining\\nZ-Power, Lycanroc\\nattacks the target.\\nThis move also\\ndestroys terrain.",
+        .description = "Lycanroc ataca con toda\\nsu fuerza tras imbuirse\\ndel Poder Z y anula el\\ncampo activo.\\n",
     },
 
     [MOVE_CLANGOROUS_SOULBLAZE] = {
         .names = {
-            .name = "Soulblaze",
-            .capsName = "SOULBLAZE",
-            .fullName = "Clangorous Soulblaze",
+            .name = "Estruendo",
+            .capsName = "ESTRUENDO",
+            .fullName = "Estruendo Implacable",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_ALL_STATS_HIT,
@@ -19762,14 +19762,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "After obtaining Z-Power, Kommo-o attacks. This move boosts the all the user’s stats at once.",
+        .description = "Kommo-o ataca con toda\\nsu fuerza tras imbuirse\\ndel Poder Z y potencia\\nsus características.\\n",
     },
 
     [MOVE_ZIPPY_ZAP] = {
         .names = {
-            .name = "Zippy Zap",
-            .capsName = "ZIPPY ZAP",
-            .fullName = "Zippy Zap",
+            .name = "Pikaturbo",
+            .capsName = "PIKATURBO",
+            .fullName = "Pikaturbo",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_EVA_HIT,
@@ -19789,14 +19789,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks with\\nhigh-speed bursts of\\nelectricity. This move\\nboosts Evasion and\\nalways goes first.",
+        .description = "Ataque eléctrico a la\\nvelocidad del rayo.\\nTiene prioridad alta y\\nsuele ser crítico.\\n",
     },
 
     [MOVE_SPLISHY_SPLASH] = {
         .names = {
-            .name = "Splishy Splash",
-            .capsName = "SPLISHY SPLASH",
-            .fullName = "Splishy Splash",
+            .name = "Salpikasurf",
+            .capsName = "SALPIKASURF",
+            .fullName = "Salpikasurf",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -19816,14 +19816,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user charges a huge\\nwave with electricity.\\nThis may also leave the\\nopposing Pokémon with\\nparalysis.",
+        .description = "Ola gigante\\nelectrificada que puede\\nparalizar al rival.\\n",
     },
 
     [MOVE_FLOATY_FALL] = {
         .names = {
-            .name = "Floaty Fall",
-            .capsName = "FLOATY FALL",
-            .fullName = "Floaty Fall",
+            .name = "Pikapicado",
+            .capsName = "PIKAPICADO",
+            .fullName = "Pikapicado",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -19843,14 +19843,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user floats in the\\nair, then dives at a\\nsteep angle to attack.\\nThis may also make the\\ntarget flinch.",
+        .description = "Se suspende en el aire y\\nse abalanza sobre el\\nrival. Puede hacerlo\\nretroceder.\\n",
     },
 
     [MOVE_PIKA_PAPOW] = {
         .names = {
-            .name = "Pika Papow",
-            .capsName = "PIKA PAPOW",
-            .fullName = "Pika Papow",
+            .name = "Pikatormenta",
+            .capsName = "PIKATORMENTA",
+            .fullName = "Pikatormenta",
         },
         .data = {
             .effect = MOVE_EFFECT_POWER_BASED_ON_FRIENDSHIP,
@@ -19870,14 +19870,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The more Pikachu\\nloves its Trainer,\\nthe greater the\\nmove’s power.\\nIt never misses.",
+        .description = "Descarga infalible que\\nes más potente cuanto\\nmayor es el cariño de\\nPikachu hacia ti.\\n",
     },
 
     [MOVE_BOUNCY_BUBBLE] = {
         .names = {
-            .name = "Bouncy Bubble",
-            .capsName = "BOUNCY BUBBLE",
-            .fullName = "Bouncy Bubble",
+            .name = "Vapodrenaje",
+            .capsName = "VAPODRENAJE",
+            .fullName = "Vapodrenaje",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOVER_FULL_DAMAGE_DEALT,
@@ -19897,14 +19897,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks by\\nshooting water\\nbubbles, which restore\\nits HP by half the\\ndamage dealt.",
+        .description = "Lanza proyectiles de\\nagua y recupera la\\nmitad del daño causado.\\n",
     },
 
     [MOVE_BUZZY_BUZZ] = {
         .names = {
-            .name = "Buzzy Buzz",
-            .capsName = "BUZZY BUZZ",
-            .fullName = "Buzzy Buzz",
+            .name = "Joltiopar.",
+            .capsName = "JOLTIOPAR.",
+            .fullName = "Joltioparálisis",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -19924,14 +19924,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user shoots a jolt\\nof electricity to\\nattack the target.\\nThis also leaves the\\ntarget with paralysis.",
+        .description = "Potente descarga\\neléctrica que deja\\nparalizado al rival.\\n",
     },
 
     [MOVE_SIZZLY_SLIDE] = {
         .names = {
-            .name = "Sizzly Slide",
-            .capsName = "SIZZLY SLIDE",
-            .fullName = "Sizzly Slide",
+            .name = "Flarembest.",
+            .capsName = "FLAREMBEST.",
+            .fullName = "Flarembestida",
         },
         .data = {
             .effect = MOVE_EFFECT_BURN_HIT,
@@ -19951,14 +19951,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user cloaks itself\\nin fire and charges at\\nthe target.\\nThis also leaves the\\ntarget with a burn.",
+        .description = "Envuelto en llamas,\\narrolla al rival y le\\nprovoca quemaduras.\\n",
     },
 
     [MOVE_GLITZY_GLOW] = {
         .names = {
-            .name = "Glitzy Glow",
-            .capsName = "GLITZY GLOW",
-            .fullName = "Glitzy Glow",
+            .name = "Espeaura",
+            .capsName = "ESPEAURA",
+            .fullName = "Espeaura",
         },
         .data = {
             .effect = MOVE_EFFECT_SET_LIGHT_SCREEN_HIT,
@@ -19978,14 +19978,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user bombards the\\ntarget with\\ntelekinetic force,\\nsuppressing damage\\nfrom special moves.",
+        .description = "Ondas psíquicas y un\\nextraño muro que\\ndebilita los ataques\\nespeciales rivales.\\n",
     },
 
     [MOVE_BADDY_BAD] = {
         .names = {
-            .name = "Baddy Bad",
-            .capsName = "BADDY BAD",
-            .fullName = "Baddy Bad",
+            .name = "Umbreozona",
+            .capsName = "UMBREOZONA",
+            .fullName = "Umbreozona",
         },
         .data = {
             .effect = MOVE_EFFECT_SET_REFLECT_HIT,
@@ -20005,14 +20005,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user acts bad and\\nattacks the target,\\nsuppressing damage\\nfrom physical moves.",
+        .description = "Ataque umbrío y un\\nextraño muro que mitiga\\nlos ataques físicos\\nrivales.\\n",
     },
 
     [MOVE_SAPPY_SEED] = {
         .names = {
-            .name = "Sappy Seed",
-            .capsName = "SAPPY SEED",
-            .fullName = "Sappy Seed",
+            .name = "Leafitob.",
+            .capsName = "LEAFITOB.",
+            .fullName = "Leafitobombas",
         },
         .data = {
             .effect = MOVE_EFFECT_LEECH_SEED_HIT,
@@ -20032,14 +20032,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user scatters\\nseeds to attack the\\ntarget. The seeds\\ndrain the target’s HP\\nevery turn.",
+        .description = "Hace brotar un tallo\\ngigante que bombardea\\ncon semillas que drenan\\nPS cada turno.\\n",
     },
 
     [MOVE_FREEZY_FROST] = {
         .names = {
-            .name = "Freezy Frost",
-            .capsName = "FREEZY FROST",
-            .fullName = "Freezy Frost",
+            .name = "Glaceoprisma",
+            .capsName = "GLACEOPRISMA",
+            .fullName = "Glaceoprisma",
         },
         .data = {
             .effect = MOVE_EFFECT_RESET_STAT_CHANGES_HIT,
@@ -20059,14 +20059,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks with a\\ncrystal made of frozen\\nhaze. It eliminates\\nevery stat change among\\nall Pokémon in battle.",
+        .description = "Cristales de niebla\\ncongelada que revierten\\nlos cambios en las\\ncaracterísticas.\\n",
     },
 
     [MOVE_SPARKLY_SWIRL] = {
         .names = {
-            .name = "Sparkly Swirl",
-            .capsName = "SPARKLY SWIRL",
-            .fullName = "Sparkly Swirl",
+            .name = "Sylveotorn.",
+            .capsName = "SYLVEOTORN.",
+            .fullName = "Sylveotornado",
         },
         .data = {
             .effect = MOVE_EFFECT_CURE_PARTY_STATUS_HIT,
@@ -20086,14 +20086,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks with\\nan overpowering scent.\\nThis also heals all\\nstatus conditions of\\nthe user’s party.",
+        .description = "Remolino de aroma\\nasfixiante que cura a\\nlos aliados de sus\\nproblemas de estado.\\n",
     },
 
     [MOVE_VEEVEE_VOLLEY] = {
         .names = {
-            .name = "Veevee Volley",
-            .capsName = "VEEVEE VOLLEY",
-            .fullName = "Veevee Volley",
+            .name = "Eevimpacto",
+            .capsName = "EEVIMPACTO",
+            .fullName = "Eevimpacto",
         },
         .data = {
             .effect = MOVE_EFFECT_POWER_BASED_ON_FRIENDSHIP,
@@ -20113,14 +20113,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The more Eevee\\nloves its Trainer,\\nthe greater the\\nmove’s power.\\nIt never misses.",
+        .description = "Placaje infalible que es\\nmás potente cuanto\\nmayor es el cariño de\\nEevee hacia ti.\\n",
     },
 
     [MOVE_DOUBLE_IRON_BASH] = {
         .names = {
-            .name = "Double IronBash",
-            .capsName = "DOUBLE IRONBASH",
-            .fullName = "Double Iron Bash",
+            .name = "Ferropuño",
+            .capsName = "FERROPUÑO",
+            .fullName = "Ferropuño Doble",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_TWICE_AND_FLINCH,
@@ -20140,14 +20140,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user spins on its\\nnut, striking the target\\nwith its arms twice in a\\nrow. This may also make\\nthe target flinch.",
+        .description = "Gira sobre sí mismo y\\ngolpea con los brazos\\ndos veces. Puede\\namedrentar.\\n",
     },
 
     [MOVE_MAX_GUARD] = {
         .names = {
-            .name = "Max Guard",
-            .capsName = "MAX GUARD",
-            .fullName = "Max Guard",
+            .name = "Maxibarrera",
+            .capsName = "MAXIBARRERA",
+            .fullName = "Maxibarrera",
         },
         .data = {
             .effect = MOVE_EFFECT_PROTECT,
@@ -20167,14 +20167,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "This move protects the\\nuser from all attacks.\\nIts chance of failing\\nrises if it is used in\\nsuccession.",
+        .description = "Frena todos los ataques,\\npero puede fallar si se\\nusa repetidamente.\\n",
     },
 
     [MOVE_DYNAMAX_CANNON] = {
         .names = {
-            .name = "Dynamax Cannon",
-            .capsName = "DYNAMAX CANNON",
-            .fullName = "Dynamax Cannon",
+            .name = "Cañón Dinam.",
+            .capsName = "CAÑÓN DINAM.",
+            .fullName = "Cañón Dinamax",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -20194,14 +20194,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user condenses\\nenergy within its body\\nand unleashes that\\nenergy from its core\\nto inflict damage.",
+        .description = "Libera desde su núcleo\\nla energía concentrada\\nen su interior.\\n",
     },
 
     [MOVE_SNIPE_SHOT] = {
         .names = {
-            .name = "Snipe Shot",
-            .capsName = "SNIPE SHOT",
-            .fullName = "Snipe Shot",
+            .name = "Disp.Certero",
+            .capsName = "DISP.CERTERO",
+            .fullName = "Disparo Certero",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -20221,14 +20221,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user ignores\\nopposing Pokémon’s moves\\nand Abilities that draw\\nin moves, allowing it to\\nhit the chosen target.",
+        .description = "Permite atacar e ignorar\\nlas habilidades de quien\\ncentra la atención.\\n",
     },
 
     [MOVE_JAW_LOCK] = {
         .names = {
-            .name = "Jaw Lock",
-            .capsName = "JAW LOCK",
-            .fullName = "Jaw Lock",
+            .name = "Presa Max.",
+            .capsName = "PRESA MAX.",
+            .fullName = "Presa Maxilar",
         },
         .data = {
             .effect = MOVE_EFFECT_PREVENT_ESCAPE_BOTH_HIT,
@@ -20248,14 +20248,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "This move prevents the\\nuser and the target from\\nswitching out until\\neither of them faints or\\nleaves the field.",
+        .description = "Impide que ambos\\ncombatientes huyan o\\nsean cambiados hasta\\nque uno caiga.\\n",
     },
 
     [MOVE_STUFF_CHEEKS] = {
         .names = {
-            .name = "Stuff Cheeks",
-            .capsName = "STUFF CHEEKS",
-            .fullName = "Stuff Cheeks",
+            .name = "Atiborra.",
+            .capsName = "ATIBORRA.",
+            .fullName = "Atiborramiento",
         },
         .data = {
             .effect = MOVE_EFFECT_STUFF_CHEEKS,
@@ -20275,14 +20275,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user eats its\\nheld Berry, then\\nsharply boosts its\\nDefense stat.",
+        .description = "Ingiere la baya que\\nlleva equipada para\\naumentar mucho su\\nDefensa.\\n",
     },
 
     [MOVE_NO_RETREAT] = {
         .names = {
-            .name = "No Retreat",
-            .capsName = "NO RETREAT",
-            .fullName = "No Retreat",
+            .name = "Bastión Fin.",
+            .capsName = "BASTIÓN FIN.",
+            .fullName = "Bastión Final",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -20302,14 +20302,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "This move boosts all\\nthe user’s stats but\\nprevents the user\\nfrom switching out\\nor fleeing.",
+        .description = "Aumenta todas sus\\ncaracterísticas, pero ya\\nno puede huir ni ser\\ncambiado.\\n",
     },
 
     [MOVE_TAR_SHOT] = {
         .names = {
-            .name = "Tar Shot",
-            .capsName = "TAR SHOT",
-            .fullName = "Tar Shot",
+            .name = "Alquitranazo",
+            .capsName = "ALQUITRANAZO",
+            .fullName = "Alquitranazo",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -20329,14 +20329,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_SMART,
         },
-        .description = "The user pours tar on\\nthe target, dropping\\ntheir Speed stat.\\nFire attacks deal\\nmore damage.",
+        .description = "Alquitrán pegajoso que\\nreduce la Velocidad y\\nhace al rival débil\\ncontra el fuego.\\n",
     },
 
     [MOVE_MAGIC_POWDER] = {
         .names = {
-            .name = "Magic Powder",
-            .capsName = "MAGIC POWDER",
-            .fullName = "Magic Powder",
+            .name = "Polvo Mágico",
+            .capsName = "POLVO MÁGICO",
+            .fullName = "Polvo Mágico",
         },
         .data = {
             .effect = MOVE_EFFECT_CHANGE_TO_PSYCHIC_TYPE,
@@ -20356,14 +20356,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "The user scatters a\\ncloud of magic powder\\nthat changes the\\ntarget’s type to\\nPsychic.",
+        .description = "Polvos mágicos que hacen\\nque el rival adquiera el\\ntipo Psíquico.\\n",
     },
 
     [MOVE_DRAGON_DARTS] = {
         .names = {
-            .name = "Dragon Darts",
-            .capsName = "DRAGON DARTS",
-            .fullName = "Dragon Darts",
+            .name = "Dracoflechas",
+            .capsName = "DRACOFLECHAS",
+            .fullName = "Dracoflechas",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_TWICE,
@@ -20383,14 +20383,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks twice\\nusing Dreepy. If there\\nare two opposing\\nPokémon, this move\\nhits each of them once.",
+        .description = "Ataca propulsando a ambos\\nDreepy. Con dos rivales,\\ncada uno golpea a uno.\\n",
     },
 
     [MOVE_TEATIME] = {
         .names = {
-            .name = "Teatime",
-            .capsName = "TEATIME",
-            .fullName = "Teatime",
+            .name = "Hora del Té",
+            .capsName = "HORA DEL TÉ",
+            .fullName = "Hora del Té",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -20410,14 +20410,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user has teatime\\nwith all the Pokémon\\ncurrently in the battle.\\nEach Pokémon eats its\\nheld Berry.",
+        .description = "Invita a tomar el té a\\ntodos y hace que ingieran\\nlas bayas que lleven.\\n",
     },
 
     [MOVE_OCTOLOCK] = {
         .names = {
-            .name = "Octolock",
-            .capsName = "OCTOLOCK",
-            .fullName = "Octolock",
+            .name = "Octopresa",
+            .capsName = "OCTOPRESA",
+            .fullName = "Octopresa",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -20437,14 +20437,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user prevents the\\ntarget from fleeing.\\nThis move also lowers\\nthe target’s Defense\\nand Sp. Def every turn.",
+        .description = "Retiene al rival y le\\nimpide huir o ser\\ncambiado, a la vez que\\nbaja sus Defensas.\\n",
     },
 
     [MOVE_BOLT_BEAK] = {
         .names = {
-            .name = "Bolt Beak",
-            .capsName = "BOLT BEAK",
-            .fullName = "Bolt Beak",
+            .name = "Electropico",
+            .capsName = "ELECTROPICO",
+            .fullName = "Electropico",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_POWER_IF_FASTER,
@@ -20464,14 +20464,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user stabs with its\\nelectrified beak. This\\nmove’s power is doubled\\nif the user moves before\\nthe target.",
+        .description = "Ensarta con su pico\\neléctrico. Duplica su\\npotencia si ataca antes.\\n",
     },
 
     [MOVE_FISHIOUS_REND] = {
         .names = {
-            .name = "Fishious Rend",
-            .capsName = "FISHIOUS REND",
-            .fullName = "Fishious Rend",
+            .name = "Branquib.",
+            .capsName = "BRANQUIB.",
+            .fullName = "Branquibocado",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_POWER_IF_FASTER,
@@ -20491,14 +20491,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user rends with its\\nhard gills. If the user\\nattacks before the\\ntarget, the power of\\nthis move is doubled.",
+        .description = "Agarra con sus duras\\nbranquias. Duplica su\\npotencia si ataca antes.\\n",
     },
 
     [MOVE_COURT_CHANGE] = {
         .names = {
-            .name = "Court Change",
-            .capsName = "COURT CHANGE",
-            .fullName = "Court Change",
+            .name = "Camb. Cancha",
+            .capsName = "CAMB. CANCHA",
+            .fullName = "Cambio de Cancha",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -20518,14 +20518,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "With its mysterious\\npower, the user swaps\\nthe effects on either\\nside of the field.",
+        .description = "Extraño poder que\\nintercambia los efectos\\ndel terreno entre ambos\\nbandos.\\n",
     },
 
     [MOVE_MAX_FLARE] = {
         .names = {
-            .name = "Max Flare",
-            .capsName = "MAX FLARE",
-            .fullName = "Max Flare",
+            .name = "Maxignición",
+            .capsName = "MAXIGNICIÓN",
+            .fullName = "Maxignición",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -20545,14 +20545,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "This is a Fire-type\\nattack Dynamax Pokémon\\nuse. The user\\nintensifies the sun\\nfor five turns.",
+        .description = "Ataque de Fuego de un\\nPokémon Dinamax. El sol\\nse intensifica durante\\ncinco turnos.\\n",
     },
 
     [MOVE_MAX_FLUTTERBY] = {
         .names = {
-            .name = "Max Flutterby",
-            .capsName = "MAX FLUTTERBY",
-            .fullName = "Max Flutterby",
+            .name = "Maxinsecto",
+            .capsName = "MAXINSECTO",
+            .fullName = "Maxinsecto",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_ATK_HIT,
@@ -20572,14 +20572,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "This is a Bug-type\\nattack Dynamax Pokémon\\nuse. This lowers the\\ntarget’s Sp. Atk stat.",
+        .description = "Ataque de Bicho de un\\nPokémon Dinamax. Reduce\\nel Ataque Especial del\\nobjetivo.\\n",
     },
 
     [MOVE_MAX_LIGHTNING] = {
         .names = {
-            .name = "Max Lightning",
-            .capsName = "MAX LIGHTNING",
-            .fullName = "Max Lightning",
+            .name = "Maxitormenta",
+            .capsName = "MAXITORMENTA",
+            .fullName = "Maxitormenta",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -20599,14 +20599,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "This is an Electric-type\\nattack Dynamax Pokémon\\nuse. The user turns the\\nground into Electric\\nTerrain for five turns.",
+        .description = "Ataque Eléctrico de un\\nPokémon Dinamax. Crea un\\ncampo eléctrico durante\\ncinco turnos.\\n",
     },
 
     [MOVE_MAX_STRIKE] = {
         .names = {
-            .name = "Max Strike",
-            .capsName = "MAX STRIKE",
-            .fullName = "Max Strike",
+            .name = "Maxiataque",
+            .capsName = "MAXIATAQUE",
+            .fullName = "Maxiataque",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SPEED_HIT,
@@ -20626,14 +20626,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "This is a Normal-type\\nattack Dynamax Pokémon\\nuse. This lowers the\\ntarget’s Speed stat.",
+        .description = "Ataque Normal de un\\nPokémon Dinamax. Reduce\\nla Velocidad del\\nobjetivo.\\n",
     },
 
     [MOVE_MAX_KNUCKLE] = {
         .names = {
-            .name = "Max Knuckle",
-            .capsName = "MAX KNUCKLE",
-            .fullName = "Max Knuckle",
+            .name = "Maxipuño",
+            .capsName = "MAXIPUÑO",
+            .fullName = "Maxipuño",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_ATTACK_HIT,
@@ -20653,14 +20653,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "This is a Fighting-type\\nattack Dynamax Pokémon\\nuse. This boosts ally\\nPokémon’s Attack stats.",
+        .description = "Ataque de Lucha de un\\nPokémon Dinamax. Aumenta\\nel Ataque de tu bando.\\n",
     },
 
     [MOVE_MAX_PHANTASM] = {
         .names = {
-            .name = "Max Phantasm",
-            .capsName = "MAX PHANTASM",
-            .fullName = "Max Phantasm",
+            .name = "Maxiespectro",
+            .capsName = "MAXIESPECTRO",
+            .fullName = "Maxiespectro",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_DEFENSE_HIT,
@@ -20680,14 +20680,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "This is a Ghost-type\\nattack Dynamax Pokémon\\nuse. This lowers the\\ntarget’s Defense stat.",
+        .description = "Ataque Fantasma de un\\nPokémon Dinamax. Reduce\\nla Defensa de los\\nrivales.\\n",
     },
 
     [MOVE_MAX_HAILSTORM] = {
         .names = {
-            .name = "Max Hailstorm",
-            .capsName = "MAX HAILSTORM",
-            .fullName = "Max Hailstorm",
+            .name = "Maxihelada",
+            .capsName = "MAXIHELADA",
+            .fullName = "Maxihelada",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -20707,14 +20707,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "This is an Ice-type\\nattack Dynamax Pokémon\\nuse. The user summons\\na snowstorm lasting\\nfive turns.",
+        .description = "Ataque de Hielo de un\\nPokémon Dinamax. Crea una\\ntormenta de granizo de\\ncinco turnos.\\n",
     },
 
     [MOVE_MAX_OOZE] = {
         .names = {
-            .name = "Max Ooze",
-            .capsName = "MAX OOZE",
-            .fullName = "Max Ooze",
+            .name = "Maxiácido",
+            .capsName = "MAXIÁCIDO",
+            .fullName = "Maxiácido",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_SP_ATK_HIT,
@@ -20734,14 +20734,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "This is a Poison-type\\nattack Dynamax Pokémon\\nuse. This boosts ally\\nPokémon’s Sp. Atk\\nstats.",
+        .description = "Ataque Veneno de un\\nPokémon Dinamax. Aumenta\\nel Ataque Especial de tu\\nbando.\\n",
     },
 
     [MOVE_MAX_GEYSER] = {
         .names = {
-            .name = "Max Geyser",
-            .capsName = "MAX GEYSER",
-            .fullName = "Max Geyser",
+            .name = "Maxichorro",
+            .capsName = "MAXICHORRO",
+            .fullName = "Maxichorro",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -20761,14 +20761,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "This is a Water-type\\nattack Dynamax Pokémon\\nuse. The user summons\\na heavy rain that\\nfalls for five turns.",
+        .description = "Ataque de Agua de un\\nPokémon Dinamax. Desata\\nun aguacero de cinco\\nturnos.\\n",
     },
 
     [MOVE_MAX_AIRSTREAM] = {
         .names = {
-            .name = "Max Airstream",
-            .capsName = "MAX AIRSTREAM",
-            .fullName = "Max Airstream",
+            .name = "Maxiciclón",
+            .capsName = "MAXICICLÓN",
+            .fullName = "Maxiciclón",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_SPEED_HIT,
@@ -20788,14 +20788,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "This is a Flying-type\\nattack Dynamax Pokémon\\nuse. This boosts ally\\nPokémon’s Speed stats.",
+        .description = "Ataque Volador de un\\nPokémon Dinamax. Aumenta\\nla Velocidad de tu\\nbando.\\n",
     },
 
     [MOVE_MAX_STARFALL] = {
         .names = {
-            .name = "Max Starfall",
-            .capsName = "MAX STARFALL",
-            .fullName = "Max Starfall",
+            .name = "Maxiestela",
+            .capsName = "MAXIESTELA",
+            .fullName = "Maxiestela",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -20815,14 +20815,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "This is a Fairy-type\\nattack Dynamax Pokémon\\nuse. The user turns the\\nground into Misty\\nTerrain for five turns.",
+        .description = "Ataque Hada de un Pokémon\\nDinamax. Crea un campo de\\nniebla durante cinco\\nturnos.\\n",
     },
 
     [MOVE_MAX_WYRMWIND] = {
         .names = {
-            .name = "Max Wyrmwind",
-            .capsName = "MAX WYRMWIND",
-            .fullName = "Max Wyrmwind",
+            .name = "Maxidraco",
+            .capsName = "MAXIDRACO",
+            .fullName = "Maxidraco",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_ATTACK_HIT,
@@ -20842,14 +20842,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "This is a Dragon-type\\nattack Dynamax Pokémon\\nuse. This lowers the\\ntarget’s Attack stat.",
+        .description = "Ataque Dragón de un\\nPokémon Dinamax. Reduce\\nel Ataque del objetivo.\\n",
     },
 
     [MOVE_MAX_MINDSTORM] = {
         .names = {
-            .name = "Max Mindstorm",
-            .capsName = "MAX MINDSTORM",
-            .fullName = "Max Mindstorm",
+            .name = "Maxionda",
+            .capsName = "MAXIONDA",
+            .fullName = "Maxionda",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -20869,14 +20869,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "This is a Psychic-type\\nattack Dynamax Pokémon\\nuse. The user turns the\\nground into Psychic\\nTerrain for five turns.",
+        .description = "Ataque Psíquico de un\\nPokémon Dinamax. Crea un\\ncampo psíquico de cinco\\nturnos.\\n",
     },
 
     [MOVE_MAX_ROCKFALL] = {
         .names = {
-            .name = "Max Rockfall",
-            .capsName = "MAX ROCKFALL",
-            .fullName = "Max Rockfall",
+            .name = "Maxilito",
+            .capsName = "MAXILITO",
+            .fullName = "Maxilito",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -20896,14 +20896,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "This is a Rock-type\\nattack Dynamax Pokémon\\nuse. The user summons\\na sandstorm lasting\\nfive turns.",
+        .description = "Ataque Roca de un Pokémon\\nDinamax. Crea una\\ntormenta de arena de\\ncinco turnos.\\n",
     },
 
     [MOVE_MAX_QUAKE] = {
         .names = {
-            .name = "Max Quake",
-            .capsName = "MAX QUAKE",
-            .fullName = "Max Quake",
+            .name = "Maxitemblor",
+            .capsName = "MAXITEMBLOR",
+            .fullName = "Maxitemblor",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -20923,14 +20923,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "This is a Ground-type\\nattack Dynamax Pokémon\\nuse. This boosts ally\\nPokémon’s Sp. Def\\nstats.",
+        .description = "Ataque Tierra de un\\nPokémon Dinamax. Aumenta\\nla Defensa Especial de\\ntu bando.\\n",
     },
 
     [MOVE_MAX_DARKNESS] = {
         .names = {
-            .name = "Max Darkness",
-            .capsName = "MAX DARKNESS",
-            .fullName = "Max Darkness",
+            .name = "Maxisombra",
+            .capsName = "MAXISOMBRA",
+            .fullName = "Maxisombra",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_HIT,
@@ -20950,14 +20950,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "This is a Dark-type\\nattack Dynamax Pokémon\\nuse. This lowers the\\ntarget’s Sp. Def stat.",
+        .description = "Ataque Siniestro de un\\nPokémon Dinamax. Reduce\\nla Defensa Especial del\\nobjetivo.\\n",
     },
 
     [MOVE_MAX_OVERGROWTH] = {
         .names = {
-            .name = "Max Overgrowth",
-            .capsName = "MAX OVERGROWTH",
-            .fullName = "Max Overgrowth",
+            .name = "Maxiflora",
+            .capsName = "MAXIFLORA",
+            .fullName = "Maxiflora",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -20977,14 +20977,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "This is a Grass-type\\nattack Dynamax Pokémon\\nuse. The user turns the\\nground into Grassy\\nTerrain for five turns.",
+        .description = "Ataque Planta de un\\nPokémon Dinamax. Crea un\\ncampo de hierba de cinco\\nturnos.\\n",
     },
 
     [MOVE_MAX_STEELSPIKE] = {
         .names = {
-            .name = "Max Steelspike",
-            .capsName = "MAX STEELSPIKE",
-            .fullName = "Max Steelspike",
+            .name = "Maximetal",
+            .capsName = "MAXIMETAL",
+            .fullName = "Maximetal",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_DEF_HIT,
@@ -21004,14 +21004,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "This is a Steel-type\\nattack Dynamax Pokémon\\nuse. This boosts ally\\nPokémon’s Defense\\nstats.",
+        .description = "Ataque Acero de un\\nPokémon Dinamax. Aumenta\\nla Defensa de tu bando.\\n",
     },
 
     [MOVE_CLANGOROUS_SOUL] = {
         .names = {
-            .name = "Clangorous Soul",
-            .capsName = "CLANGOROUS SOUL",
-            .fullName = "Clangorous Soul",
+            .name = "Estr. Escama",
+            .capsName = "ESTR. ESCAMA",
+            .fullName = "Estruendo Escama",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_ALL_STATS_LOSE_THIRD_MAX_HP,
@@ -21031,14 +21031,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user boosts all\\nits stats by using\\nsome of its own HP.",
+        .description = "Usa parte de sus PS para\\naumentar todas sus\\ncaracterísticas.\\n",
     },
 
     [MOVE_BODY_PRESS] = {
         .names = {
-            .name = "Body Press",
-            .capsName = "BODY PRESS",
-            .fullName = "Body Press",
+            .name = "Plancha Corp",
+            .capsName = "PLANCHA CORP",
+            .fullName = "Plancha Corporal",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -21058,14 +21058,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user slams its\\nbody into the target.\\nThe higher the user’s\\nDefense stat, the\\ngreater the damage.",
+        .description = "Usa el cuerpo para lanzar\\nsu ataque. Cuanto mayor\\nsea su Defensa, más daño\\nprovoca.\\n",
     },
 
     [MOVE_DECORATE] = {
         .names = {
-            .name = "Decorate",
-            .capsName = "DECORATE",
-            .fullName = "Decorate",
+            .name = "Decoración",
+            .capsName = "DECORACIÓN",
+            .fullName = "Decoración",
         },
         .data = {
             .effect = MOVE_EFFECT_DECORATE,
@@ -21085,14 +21085,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user sharply\\nboosts the target’s\\nAttack and Sp. Atk\\nstats by decorating\\nthe target.",
+        .description = "Aumenta mucho el Ataque y\\nel Ataque Especial del\\nobjetivo al decorarlo.\\n",
     },
 
     [MOVE_DRUM_BEATING] = {
         .names = {
-            .name = "Drum Beating",
-            .capsName = "DRUM BEATING",
-            .fullName = "Drum Beating",
+            .name = "Batería",
+            .capsName = "BATERÍA",
+            .fullName = "Batería Asalto",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SPEED_HIT,
@@ -21112,14 +21112,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user plays its drum,\\ncontrolling the drum’s\\nroots to attack the\\ntarget. This also lowers\\nthe target’s Speed stat.",
+        .description = "Controla un tocón con\\npercusión y al atacar\\nreduce la Velocidad del\\nobjetivo.\\n",
     },
 
     [MOVE_SNAP_TRAP] = {
         .names = {
-            .name = "Snap Trap",
-            .capsName = "SNAP TRAP",
-            .fullName = "Snap Trap",
+            .name = "Cepo",
+            .capsName = "CEPO",
+            .fullName = "Cepo",
         },
         .data = {
             .effect = MOVE_EFFECT_BIND_HIT,
@@ -21139,14 +21139,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user snares the\\ntarget in a snap trap\\nthat inflicts damage\\nfor four to five\\nturns.",
+        .description = "Cepo que atrapa al rival\\nde cuatro a cinco turnos\\ny le causa daño mientras\\nestá preso.\\n",
     },
 
     [MOVE_PYRO_BALL] = {
         .names = {
-            .name = "Pyro Ball",
-            .capsName = "PYRO BALL",
-            .fullName = "Pyro Ball",
+            .name = "Balón Ígneo",
+            .capsName = "BALÓN ÍGNEO",
+            .fullName = "Balón Ígneo",
         },
         .data = {
             .effect = MOVE_EFFECT_BURN_HIT,
@@ -21166,14 +21166,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user ignites a small\\nstone and launches it as\\na fiery ball. This may\\nalso leave the target\\nwith a burn.",
+        .description = "Prende una pequeña piedra\\ny crea una bola de fuego.\\nPuede causar quemaduras.\\n",
     },
 
     [MOVE_BEHEMOTH_BLADE] = {
         .names = {
-            .name = "Behemoth Blade",
-            .capsName = "BEHEMOTH BLADE",
-            .fullName = "Behemoth Blade",
+            .name = "Tajo Supremo",
+            .capsName = "TAJO SUPREMO",
+            .fullName = "Tajo Supremo",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -21193,14 +21193,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user wields a\\nlarge, powerful sword\\nusing its whole body\\nand cuts the target\\nin a vigorous attack.",
+        .description = "Se convierte en una\\nespada gigante para\\nrebanar al objetivo.\\n",
     },
 
     [MOVE_BEHEMOTH_BASH] = {
         .names = {
-            .name = "Behemoth Bash",
-            .capsName = "BEHEMOTH BASH",
-            .fullName = "Behemoth Bash",
+            .name = "Embate Sup.",
+            .capsName = "EMBATE SUP.",
+            .fullName = "Embate Supremo",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -21220,14 +21220,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user’s body\\nbecomes a firm shield\\nand slams into the\\ntarget fiercely.",
+        .description = "Se convierte en un escudo\\ngigante para golpear al\\nobjetivo.\\n",
     },
 
     [MOVE_AURA_WHEEL] = {
         .names = {
-            .name = "Aura Wheel",
-            .capsName = "AURA WHEEL",
-            .fullName = "Aura Wheel",
+            .name = "Rueda Aural",
+            .capsName = "RUEDA AURAL",
+            .fullName = "Rueda Aural",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_SPEED_HIT,
@@ -21247,14 +21247,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "Morpeko attacks and\\nboosts its Speed stat.\\nThis move’s type\\nchanges depending on\\nthe user’s form.",
+        .description = "Energía de sus mejillas\\nque ataca y sube su\\nVelocidad. Cambia de tipo\\nsegún su forma.\\n",
     },
 
     [MOVE_BREAKING_SWIPE] = {
         .names = {
-            .name = "Breaking Swipe",
-            .capsName = "BREAKING SWIPE",
-            .fullName = "Breaking Swipe",
+            .name = "Vasto Imp.",
+            .capsName = "VASTO IMP.",
+            .fullName = "Vasto Impacto",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_ATTACK_HIT,
@@ -21274,14 +21274,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user swings its\\ntough tail and attacks\\nopposing Pokémon.\\nThis also lowers their\\nAttack stats.",
+        .description = "Sacude su enorme cola\\npara golpear y reduce el\\nAtaque del objetivo.\\n",
     },
 
     [MOVE_BRANCH_POKE] = {
         .names = {
-            .name = "Branch Poke",
-            .capsName = "BRANCH POKE",
-            .fullName = "Branch Poke",
+            .name = "Punzada Rama",
+            .capsName = "PUNZADA RAMA",
+            .fullName = "Punzada Rama",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -21301,14 +21301,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks the\\ntarget by poking it\\nwith a sharply\\npointed branch.",
+        .description = "Ataca pinchando con una\\nrama afilada.\\n",
     },
 
     [MOVE_OVERDRIVE] = {
         .names = {
-            .name = "Overdrive",
-            .capsName = "OVERDRIVE",
-            .fullName = "Overdrive",
+            .name = "Amplificador",
+            .capsName = "AMPLIFICADOR",
+            .fullName = "Amplificador",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -21328,14 +21328,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks by\\ntwanging a guitar or\\nbass guitar, causing a\\nhuge echo and strong\\nvibration.",
+        .description = "Rasguea su instrumento\\npara generar enormes\\nvibraciones que atacan al\\nobjetivo.\\n",
     },
 
     [MOVE_APPLE_ACID] = {
         .names = {
-            .name = "Apple Acid",
-            .capsName = "APPLE ACID",
-            .fullName = "Apple Acid",
+            .name = "Ácido Málico",
+            .capsName = "ÁCIDO MÁLICO",
+            .fullName = "Ácido Málico",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_HIT,
@@ -21355,14 +21355,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks with an\\nacidic liquid created\\nfrom tart apples. This\\nalso lowers the target’s\\nSp. Def stat.",
+        .description = "Fluido corrosivo de una\\nmanzana ácida que\\ntambién reduce la\\nDefensa Especial.\\n",
     },
 
     [MOVE_GRAV_APPLE] = {
         .names = {
-            .name = "Grav Apple",
-            .capsName = "GRAV APPLE",
-            .fullName = "Grav Apple",
+            .name = "Fuerza G",
+            .capsName = "FUERZA G",
+            .fullName = "Fuerza G",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_DEFENSE_HIT,
@@ -21382,14 +21382,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user inflicts\\ndamage by dropping\\nan apple from above.\\nThis also lowers the\\ntarget’s Defense stat.",
+        .description = "Hace caer una manzana\\ndesde gran altura. Reduce\\nla Defensa del objetivo.\\n",
     },
 
     [MOVE_SPIRIT_BREAK] = {
         .names = {
-            .name = "Spirit Break",
-            .capsName = "SPIRIT BREAK",
-            .fullName = "Spirit Break",
+            .name = "Choque Aním.",
+            .capsName = "CHOQUE ANÍM.",
+            .fullName = "Choque Anímico",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_ATK_HIT,
@@ -21409,14 +21409,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks with\\nenough force to break\\nthe target’s spirit.\\nThis also lowers the\\ntarget’s Sp. Atk stat.",
+        .description = "Ataca con tal ímpetu que\\nmina la moral del rival\\ny reduce su Ataque\\nEspecial.\\n",
     },
 
     [MOVE_STRANGE_STEAM] = {
         .names = {
-            .name = "Strange Steam",
-            .capsName = "STRANGE STEAM",
-            .fullName = "Strange Steam",
+            .name = "Cautivapor",
+            .capsName = "CAUTIVAPOR",
+            .fullName = "Cautivapor",
         },
         .data = {
             .effect = MOVE_EFFECT_CONFUSE_HIT,
@@ -21436,14 +21436,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks the\\ntarget by emitting\\nsteam.\\nThis may also\\nconfuse the target.",
+        .description = "Humo con el que ataca al\\nobjetivo, que puede\\nacabar confundido.\\n",
     },
 
     [MOVE_LIFE_DEW] = {
         .names = {
-            .name = "Life Dew",
-            .capsName = "LIFE DEW",
-            .fullName = "Life Dew",
+            .name = "Gota Vital",
+            .capsName = "GOTA VITAL",
+            .fullName = "Gota Vital",
         },
         .data = {
             .effect = MOVE_EFFECT_LIFE_DEW,
@@ -21463,14 +21463,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user scatters\\nmysterious water around\\nand restores the HP of\\nitself and its allies\\ncurrently in battle.",
+        .description = "Vierte un agua balsámica\\nque restaura sus PS y\\nlos de sus aliados.\\n",
     },
 
     [MOVE_OBSTRUCT] = {
         .names = {
-            .name = "Obstruct",
-            .capsName = "OBSTRUCT",
-            .fullName = "Obstruct",
+            .name = "Obstrucción",
+            .capsName = "OBSTRUCCIÓN",
+            .fullName = "Obstrucción",
         },
         .data = {
             .effect = MOVE_EFFECT_PROTECT,
@@ -21490,14 +21490,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user protects itself\\nfrom damage while\\nharshly lowering the\\nDefense of any attacker\\nthat makes contact.",
+        .description = "Frena los ataques y\\nreduce mucho la Defensa\\nde quien le toque con un\\nmovimiento físico.\\n",
     },
 
     [MOVE_FALSE_SURRENDER] = {
         .names = {
-            .name = "False Surrender",
-            .capsName = "FALSE SURRENDER",
-            .fullName = "False Surrender",
+            .name = "Irreverencia",
+            .capsName = "IRREVERENCIA",
+            .fullName = "Irreverencia",
         },
         .data = {
             .effect = MOVE_EFFECT_BYPASS_ACCURACY,
@@ -21517,14 +21517,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user pretends to\\nbow its head, but then\\nit stabs the target\\nwith its hair. This\\nattack never misses.",
+        .description = "Finge una reverencia y\\nensarta con su cabello.\\nNo falla nunca.\\n",
     },
 
     [MOVE_METEOR_ASSAULT] = {
         .names = {
-            .name = "Meteor Assault",
-            .capsName = "METEOR ASSAULT",
-            .fullName = "Meteor Assault",
+            .name = "Asalto Est.",
+            .capsName = "ASALTO EST.",
+            .fullName = "Asalto Estelar",
         },
         .data = {
             .effect = MOVE_EFFECT_RECHARGE_AFTER,
@@ -21544,14 +21544,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks\\nwildly with its thick\\nleek.\\nThe user can’t move\\non the next turn.",
+        .description = "Agita violentamente su\\ngrueso puerro, pero el\\nmareo le obliga a\\ndescansar después.\\n",
     },
 
     [MOVE_ETERNABEAM] = {
         .names = {
-            .name = "Eternabeam",
-            .capsName = "ETERNABEAM",
-            .fullName = "Eternabeam",
+            .name = "Rayo Inf.",
+            .capsName = "RAYO INF.",
+            .fullName = "Rayo Infinito",
         },
         .data = {
             .effect = MOVE_EFFECT_RECHARGE_AFTER,
@@ -21571,14 +21571,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "This is Eternatus’s\\nmost powerful attack\\nin its original form.\\nThe user can’t move\\non the next turn.",
+        .description = "El mayor ataque de\\nEternatus. No puede\\nmoverse en el turno\\nsiguiente.\\n",
     },
 
     [MOVE_STEEL_BEAM] = {
         .names = {
-            .name = "Steel Beam",
-            .capsName = "STEEL BEAM",
-            .fullName = "Steel Beam",
+            .name = "Metaláser",
+            .capsName = "METALÁSER",
+            .fullName = "Metaláser",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -21598,14 +21598,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user fires a beam\\nof steel that it\\ncollected from its\\nentire body. This also\\ndamages the user.",
+        .description = "Usa el acero de su cuerpo\\npara disparar un potente\\nrayo. El usuario se\\nhiere.\\n",
     },
 
     [MOVE_EXPANDING_FORCE] = {
         .names = {
-            .name = "Expanding Force",
-            .capsName = "EXPANDING FORCE",
-            .fullName = "Expanding Force",
+            .name = "Vasta Fuerza",
+            .capsName = "VASTA FUERZA",
+            .fullName = "Vasta Fuerza",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -21625,14 +21625,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks with\\nits psychic power. This\\nmove’s power goes up and\\ndamages all opponents on\\nPsychic Terrain.",
+        .description = "Ataca con sus poderes\\npsíquicos. Con un campo\\npsíquico sube su potencia\\ny daña a los adyacentes.\\n",
     },
 
     [MOVE_STEEL_ROLLER] = {
         .names = {
-            .name = "Steel Roller",
-            .capsName = "STEEL ROLLER",
-            .fullName = "Steel Roller",
+            .name = "Allanador",
+            .capsName = "ALLANADOR",
+            .fullName = "Allanador Férreo",
         },
         .data = {
             .effect = MOVE_EFFECT_END_TERRAIN,
@@ -21652,14 +21652,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks while\\ndestroying the terrain.\\nThis move fails if the\\nground hasn’t turned\\ninto a terrain.",
+        .description = "Ataca y destruye el campo\\nactivo del terreno. Si no\\nhay ninguno, el\\nmovimiento falla.\\n",
     },
 
     [MOVE_SCALE_SHOT] = {
         .names = {
-            .name = "Scale Shot",
-            .capsName = "SCALE SHOT",
-            .fullName = "Scale Shot",
+            .name = "Ráf. Escamas",
+            .capsName = "RÁF. ESCAMAS",
+            .fullName = "Ráfaga Escamas",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -21679,14 +21679,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks by\\nshooting scales two to\\nfive times in a row.\\nThis raises Speed\\nbut lowers Defense.",
+        .description = "Lanza escamas de dos a\\ncinco veces. Sube su\\nVelocidad, pero reduce su\\nDefensa.\\n",
     },
 
     [MOVE_METEOR_BEAM] = {
         .names = {
-            .name = "Meteor Beam",
-            .capsName = "METEOR BEAM",
-            .fullName = "Meteor Beam",
+            .name = "Rayo Meteór.",
+            .capsName = "RAYO METEÓR.",
+            .fullName = "Rayo Meteórico",
         },
         .data = {
             .effect = MOVE_EFFECT_CHARGE_TURN_SP_ATK_UP,
@@ -21706,14 +21706,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user gathers\\nenergy from space to\\nraise its Sp. Atk on\\nthe first turn, then\\nattacks on the next.",
+        .description = "Acumula energía cósmica y\\nsube su Ataque Especial\\nel primer turno y ataca\\nel segundo.\\n",
     },
 
     [MOVE_SHELL_SIDE_ARM] = {
         .names = {
-            .name = "Shell Side Arm",
-            .capsName = "SHELL SIDE ARM",
-            .fullName = "Shell Side Arm",
+            .name = "Moluscañón",
+            .capsName = "MOLUSCAÑÓN",
+            .fullName = "Moluscañón",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -21733,14 +21733,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "This move is either\\nphysical or special,\\nwhichever will inflict\\nmore damage. This may\\nalso poison the target.",
+        .description = "Lanza un ataque físico o\\nespecial según cuál dañe\\nmás. Puede envenenar.\\n",
     },
 
     [MOVE_MISTY_EXPLOSION] = {
         .names = {
-            .name = "Misty Explosion",
-            .capsName = "MISTY EXPLOSION",
-            .fullName = "Misty Explosion",
+            .name = "Bruma Expl.",
+            .capsName = "BRUMA EXPL.",
+            .fullName = "Bruma Explosiva",
         },
         .data = {
             .effect = MOVE_EFFECT_HALVE_DEFENSE,
@@ -21760,14 +21760,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks\\neverything around it\\nand faints. This move’s\\npower is boosted on\\nMisty Terrain.",
+        .description = "Ataca a los adyacentes y\\nse debilita. Con campo de\\nniebla sube su potencia.\\n",
     },
 
     [MOVE_GRASSY_GLIDE] = {
         .names = {
-            .name = "Grassy Glide",
-            .capsName = "GRASSY GLIDE",
-            .fullName = "Grassy Glide",
+            .name = "Fitoimpulso",
+            .capsName = "FITOIMPULSO",
+            .fullName = "Fitoimpulso",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -21787,14 +21787,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "Gliding on the ground,\\nthe user attacks the\\ntarget. This move\\nalways goes first on\\nGrassy Terrain.",
+        .description = "Se desliza sobre el\\nterreno. Tiene prioridad\\nalta si hay un campo de\\nhierba.\\n",
     },
 
     [MOVE_RISING_VOLTAGE] = {
         .names = {
-            .name = "Rising Voltage",
-            .capsName = "RISING VOLTAGE",
-            .fullName = "Rising Voltage",
+            .name = "Alto Voltaje",
+            .capsName = "ALTO VOLTAJE",
+            .fullName = "Alto Voltaje",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -21814,14 +21814,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks with\\nelectricity rising from\\nthe ground. Its power is\\ndoubled if the target is\\non Electric Terrain.",
+        .description = "Descarga que surge del\\nterreno. Duplica su\\npotencia si el rival está\\nen un campo eléctrico.\\n",
     },
 
     [MOVE_TERRAIN_PULSE] = {
         .names = {
-            .name = "Terrain Pulse",
-            .capsName = "TERRAIN PULSE",
-            .fullName = "Terrain Pulse",
+            .name = "Pulso Campo",
+            .capsName = "PULSO CAMPO",
+            .fullName = "Pulso de Campo",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -21841,14 +21841,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user utilizes the\\nenergy of the terrain.\\nThis move’s type and\\npower change depending\\non the current terrain.",
+        .description = "Aprovecha la energía del\\ncampo activo, que\\ndetermina el tipo y la\\npotencia del movimiento.\\n",
     },
 
     [MOVE_SKITTER_SMACK] = {
         .names = {
-            .name = "Skitter Smack",
-            .capsName = "SKITTER SMACK",
-            .fullName = "Skitter Smack",
+            .name = "Golpe Rast.",
+            .capsName = "GOLPE RAST.",
+            .fullName = "Golpe Rastrero",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_ATK_HIT,
@@ -21868,14 +21868,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user skitters\\nbehind the target to\\nattack.\\nThis also lowers the\\ntarget’s Sp. Atk stat.",
+        .description = "Ataca por la espalda de\\nforma subrepticia y\\nreduce el Ataque\\nEspecial.\\n",
     },
 
     [MOVE_BURNING_JEALOUSY] = {
         .names = {
-            .name = "BurningJealousy",
-            .capsName = "BURNINGJEALOUSY",
-            .fullName = "Burning Jealousy",
+            .name = "Envidia Ard.",
+            .capsName = "ENVIDIA ARD.",
+            .fullName = "Envidia Ardiente",
         },
         .data = {
             .effect = MOVE_EFFECT_BURN_HIT,
@@ -21895,14 +21895,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks with\\nenergy from jealousy.\\nThis burns all opposing\\nPokémon that have had\\ntheir stats boosted.",
+        .description = "Energía generada por la\\nenvidia que quema a\\nquienes han subido sus\\ncaracterísticas.\\n",
     },
 
     [MOVE_LASH_OUT] = {
         .names = {
-            .name = "Lash Out",
-            .capsName = "LASH OUT",
-            .fullName = "Lash Out",
+            .name = "Desahogo",
+            .capsName = "DESAHOGO",
+            .fullName = "Desahogo",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -21922,7 +21922,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user vents its\\nfrustration. Its power is\\ndoubled if the user’s\\nstats were lowered\\nduring this turn.",
+        .description = "Ataca presa de la rabia.\\nDuplica su potencia si el\\nusuario ha sido reducido\\nesa misma ronda.\\n",
     },
 
     [MOVE_POLTERGEIST] = {
@@ -21949,14 +21949,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks by\\ncontrolling the\\ntarget’s item. This\\nmove fails if the foe\\nisn’t holding an item.",
+        .description = "Ataca usando el objeto\\ndel rival. Si no lleva\\nninguno, el movimiento\\nfalla.\\n",
     },
 
     [MOVE_CORROSIVE_GAS] = {
         .names = {
-            .name = "Corrosive Gas",
-            .capsName = "CORROSIVE GAS",
-            .fullName = "Corrosive Gas",
+            .name = "Gas Corros.",
+            .capsName = "GAS CORROS.",
+            .fullName = "Gas Corrosivo",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -21976,14 +21976,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user surrounds\\neverything around it\\nwith highly acidic gas\\nand melts away items\\nheld by other Pokémon.",
+        .description = "Gas cáustico que envuelve\\na los adyacentes y\\nderrite sus objetos\\nequipados.\\n",
     },
 
     [MOVE_COACHING] = {
         .names = {
-            .name = "Coaching",
-            .capsName = "COACHING",
-            .fullName = "Coaching",
+            .name = "Motivación",
+            .capsName = "MOTIVACIÓN",
+            .fullName = "Motivación",
         },
         .data = {
             .effect = MOVE_EFFECT_COACHING,
@@ -22003,14 +22003,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user properly\\ncoaches its ally\\nPokémon, boosting\\ntheir Attack and\\nDefense stats.",
+        .description = "Da indicaciones a sus\\naliados, que ven subir su\\nAtaque y su Defensa.\\n",
     },
 
     [MOVE_FLIP_TURN] = {
         .names = {
-            .name = "Flip Turn",
-            .capsName = "FLIP TURN",
-            .fullName = "Flip Turn",
+            .name = "Viraje",
+            .capsName = "VIRAJE",
+            .fullName = "Viraje",
         },
         .data = {
             .effect = MOVE_EFFECT_SWITCH_HIT,
@@ -22030,7 +22030,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "After making its\\nattack, the user\\nrushes back to switch\\nplaces with a party\\nPokémon in waiting.",
+        .description = "Tras atacar, da paso a\\ntoda prisa a otro Pokémon\\ndel equipo.\\n",
     },
 
     [MOVE_TRIPLE_AXEL] = {
@@ -22057,14 +22057,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "A consecutive\\nthree-kick attack\\nthat becomes more\\npowerful with each\\nsuccessful hit.",
+        .description = "Propina hasta tres\\npatadas seguidas, cada\\nvez más potentes.\\n",
     },
 
     [MOVE_DUAL_WINGBEAT] = {
         .names = {
-            .name = "Dual Wingbeat",
-            .capsName = "DUAL WINGBEAT",
-            .fullName = "Dual Wingbeat",
+            .name = "Ala Bis",
+            .capsName = "ALA BIS",
+            .fullName = "Ala Bis",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_TWICE,
@@ -22084,14 +22084,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user slams the\\ntarget with its wings\\nto inflict damage.\\nThe target is hit\\ntwice in a row.",
+        .description = "Ataca golpeando dos veces\\nseguidas con las alas.\\n",
     },
 
     [MOVE_SCORCHING_SANDS] = {
         .names = {
-            .name = "Scorching Sands",
-            .capsName = "SCORCHING SANDS",
-            .fullName = "Scorching Sands",
+            .name = "Arenas Ard.",
+            .capsName = "ARENAS ARD.",
+            .fullName = "Arenas Ardientes",
         },
         .data = {
             .effect = MOVE_EFFECT_BURN_HIT,
@@ -22111,14 +22111,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user throws\\nscorching sand at\\nthe target to attack.\\nThe target may also\\nbe left with a burn.",
+        .description = "Arroja arena a\\ntemperaturas muy\\nelevadas. Puede causar\\nquemaduras.\\n",
     },
 
     [MOVE_JUNGLE_HEALING] = {
         .names = {
-            .name = "Jungle Healing",
-            .capsName = "JUNGLE HEALING",
-            .fullName = "Jungle Healing",
+            .name = "Cura Selv.",
+            .capsName = "CURA SELV.",
+            .fullName = "Cura Selvática",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -22138,14 +22138,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user restores HP and\\ncures status conditions\\nfor itself and its ally\\nPokémon currently in the\\nbattle.",
+        .description = "Se armoniza con la selva\\ny cura los problemas de\\nestado y los PS propios y\\naliados.\\n",
     },
 
     [MOVE_WICKED_BLOW] = {
         .names = {
-            .name = "Wicked Blow",
-            .capsName = "WICKED BLOW",
-            .fullName = "Wicked Blow",
+            .name = "Golpe Oscuro",
+            .capsName = "GOLPE OSCURO",
+            .fullName = "Golpe Oscuro",
         },
         .data = {
             .effect = MOVE_EFFECT_ALWAYS_CRITICAL,
@@ -22165,14 +22165,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user strikes\\nthe target with a\\nfierce blow.\\nThis move always\\nlands a critical hit.",
+        .description = "Golpe devastador que\\nrequiere un dominio\\nabsoluto. Siempre asesta\\nun golpe crítico.\\n",
     },
 
     [MOVE_SURGING_STRIKES] = {
         .names = {
-            .name = "Surging Strikes",
-            .capsName = "SURGING STRIKES",
-            .fullName = "Surging Strikes",
+            .name = "Azote Torr.",
+            .capsName = "AZOTE TORR.",
+            .fullName = "Azote Torrencial",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_THREE_TIMES_ALWAYS_CRITICAL,
@@ -22192,14 +22192,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user strikes the\\ntarget with a flowing\\nmotion three times in\\na row. This move always\\nlands a critical hit.",
+        .description = "Golpea tres veces con\\nmovimientos fluidos.\\nSiempre asesta un golpe\\ncrítico.\\n",
     },
 
     [MOVE_THUNDER_CAGE] = {
         .names = {
-            .name = "Thunder Cage",
-            .capsName = "THUNDER CAGE",
-            .fullName = "Thunder Cage",
+            .name = "Electrojaula",
+            .capsName = "ELECTROJAULA",
+            .fullName = "Electrojaula",
         },
         .data = {
             .effect = MOVE_EFFECT_BIND_HIT,
@@ -22219,14 +22219,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user traps the\\ntarget inside a cage\\nof electricity that\\ninflicts damage for\\nfour to five turns.",
+        .description = "El rival queda atrapado\\nen una jaula\\nelectrificada que dura de\\ncuatro a cinco turnos.\\n",
     },
 
     [MOVE_DRAGON_ENERGY] = {
         .names = {
-            .name = "Dragon Energy",
-            .capsName = "DRAGON ENERGY",
-            .fullName = "Dragon Energy",
+            .name = "Dracoenergía",
+            .capsName = "DRACOENERGÍA",
+            .fullName = "Dracoenergía",
         },
         .data = {
             .effect = MOVE_EFFECT_DECREASE_POWER_WITH_LESS_USER_HP,
@@ -22246,14 +22246,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user converts its\\nlife-force into power.\\nThe lower the user’s\\nHP, the lower the\\nmove’s power.",
+        .description = "Convierte su fuerza vital\\nen energía. Cuantos menos\\nPS tenga, menos\\npotencia.\\n",
     },
 
     [MOVE_FREEZING_GLARE] = {
         .names = {
-            .name = "Freezing Glare",
-            .capsName = "FREEZING GLARE",
-            .fullName = "Freezing Glare",
+            .name = "Mirada Hel.",
+            .capsName = "MIRADA HEL.",
+            .fullName = "Mirada Heladora",
         },
         .data = {
             .effect = MOVE_EFFECT_FREEZE_HIT,
@@ -22273,14 +22273,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user shoots its\\npsychic power from\\nits eyes to attack.\\nThis may also leave\\nthe target frozen.",
+        .description = "Emite poderes psíquicos\\ncon los ojos y puede\\nllegar a congelar al\\nobjetivo.\\n",
     },
 
     [MOVE_FIERY_WRATH] = {
         .names = {
-            .name = "Fiery Wrath",
-            .capsName = "FIERY WRATH",
-            .fullName = "Fiery Wrath",
+            .name = "Furia Cand.",
+            .capsName = "FURIA CAND.",
+            .fullName = "Furia Candente",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -22300,14 +22300,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user transforms its\\nwrath into a fire-like\\naura to attack. This may\\nalso make opposing\\nPokémon flinch.",
+        .description = "Convierte su ira en un\\nauras flamígera para\\natacar. Puede\\namedrentar.\\n",
     },
 
     [MOVE_THUNDEROUS_KICK] = {
         .names = {
-            .name = "Thunderous Kick",
-            .capsName = "THUNDEROUS KICK",
-            .fullName = "Thunderous Kick",
+            .name = "Pat. Relámp.",
+            .capsName = "PAT. RELÁMP.",
+            .fullName = "Patada Relámpago",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_DEFENSE_HIT,
@@ -22327,14 +22327,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "With lightning-like\\nmovement, the user\\ndelivers a kick. This\\nalso lowers the\\ntarget’s Defense stat.",
+        .description = "Desconcierta con\\nmovimientos centelleantes\\ny propina una patada que\\nbaja la Defensa.\\n",
     },
 
     [MOVE_GLACIAL_LANCE] = {
         .names = {
-            .name = "Glacial Lance",
-            .capsName = "GLACIAL LANCE",
-            .fullName = "Glacial Lance",
+            .name = "Lanza Glac.",
+            .capsName = "LANZA GLAC.",
+            .fullName = "Lanza Glacial",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -22354,14 +22354,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks by\\nhurling a\\nblizzard-cloaked\\nicicle lance at\\nopposing Pokémon.",
+        .description = "Ataca lanzando un\\ncarámbano de hielo\\nenvuelto en una\\nventisca.\\n",
     },
 
     [MOVE_ASTRAL_BARRAGE] = {
         .names = {
-            .name = "Astral Barrage",
-            .capsName = "ASTRAL BARRAGE",
-            .fullName = "Astral Barrage",
+            .name = "Orbes Esp.",
+            .capsName = "ORBES ESP.",
+            .fullName = "Orbes Espectro",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -22381,14 +22381,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks by\\nsending a frightful\\namount of small\\nghosts at opposing\\nPokémon.",
+        .description = "Ataca lanzando una\\ningente cantidad de\\npequeños fantasmas.\\n",
     },
 
     [MOVE_EERIE_SPELL] = {
         .names = {
-            .name = "Eerie Spell",
-            .capsName = "EERIE SPELL",
-            .fullName = "Eerie Spell",
+            .name = "Conjuro Fun.",
+            .capsName = "CONJURO FUN.",
+            .fullName = "Conjuro Funesto",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -22408,14 +22408,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks with\\nits tremendous psychic\\npower. This also drains\\n3 PP from the move last\\nused by the target.",
+        .description = "Poder psíquico inmenso\\nque elimina 3 PP del\\núltimo movimiento usado\\npor el rival.\\n",
     },
 
     [MOVE_DIRE_CLAW] = {
         .names = {
-            .name = "Dire Claw",
-            .capsName = "DIRE CLAW",
-            .fullName = "Dire Claw",
+            .name = "Garra Nociva",
+            .capsName = "GARRA NOCIVA",
+            .fullName = "Garra Nociva",
         },
         .data = {
             .effect = MOVE_EFFECT_SLEEP_POISON_PARALYZE_HIT,
@@ -22435,14 +22435,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user lashes out\\nat the target with\\nruinous claws. May\\nalso poison, paralyze,\\nor sleep the target.",
+        .description = "Garras letales que pueden\\nenvenenar, paralizar o\\ndormir al objetivo.\\n",
     },
 
     [MOVE_PSYSHIELD_BASH] = {
         .names = {
-            .name = "Psyshield Bash",
-            .capsName = "PSYSHIELD BASH",
-            .fullName = "Psyshield Bash",
+            .name = "Asalto Barr.",
+            .capsName = "ASALTO BARR.",
+            .fullName = "Asalto Barrera",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_DEF_HIT,
@@ -22462,14 +22462,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "Cloaked in psychic\\nenergy, the user slams\\ninto the target. This\\nalso boosts the user’s\\nDefense stat.",
+        .description = "Ataca envuelto en una\\nenergía psíquica que\\nademás aumenta su\\nDefensa.\\n",
     },
 
     [MOVE_POWER_SHIFT] = {
         .names = {
-            .name = "Power Shift",
-            .capsName = "POWER SHIFT",
-            .fullName = "Power Shift",
+            .name = "Cambiapoder",
+            .capsName = "CAMBIAPODER",
+            .fullName = "Cambiapoder",
         },
         .data = {
             .effect = MOVE_EFFECT_SWAP_ATK_DEF,
@@ -22489,14 +22489,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user swaps its\\nAttack and Defense\\nstats.",
+        .description = "Intercambia su Ataque por\\nsu Defensa.\\n",
     },
 
     [MOVE_STONE_AXE] = {
         .names = {
-            .name = "Stone Axe",
-            .capsName = "STONE AXE",
-            .fullName = "Stone Axe",
+            .name = "Hachazo Pet.",
+            .capsName = "HACHAZO PET.",
+            .fullName = "Hachazo Pétreo",
         },
         .data = {
             .effect = MOVE_EFFECT_STEALTH_ROCK_HIT,
@@ -22516,14 +22516,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user swings its\\nstone axes at the\\ntarget. Splinters left\\nbehind by this attack\\nfloat around the target.",
+        .description = "Ataca con un hacha de\\npiedra y desprende\\nfragmentos que rodean al\\nrival.\\n",
     },
 
     [MOVE_SPRINGTIDE_STORM] = {
         .names = {
-            .name = "SpringtideStorm",
-            .capsName = "SPRINGTIDESTORM",
-            .fullName = "Springtide Storm",
+            .name = "Ciclón Prim.",
+            .capsName = "CICLÓN PRIM.",
+            .fullName = "Ciclón Primavera",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_ATTACK_HIT,
@@ -22543,14 +22543,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user wraps foes in\\nfierce winds brimming\\nwith love and hate.\\nThis may also lower\\ntheir Attack stats.",
+        .description = "Tormenta de amor y odio\\nque envuelve al rival.\\nPuede reducir su Ataque.\\n",
     },
 
     [MOVE_MYSTICAL_POWER] = {
         .names = {
-            .name = "Mystical Power",
-            .capsName = "MYSTICAL POWER",
-            .fullName = "Mystical Power",
+            .name = "Poder Míst.",
+            .capsName = "PODER MÍST.",
+            .fullName = "Poder Místico",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_SP_ATK_HIT,
@@ -22570,14 +22570,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks by\\nemitting a mysterious\\npower.\\nThis also boosts the\\nuser’s Sp. Atk stat.",
+        .description = "Desata un misterioso\\npoder que también aumenta\\nsu Ataque Especial.\\n",
     },
 
     [MOVE_RAGING_FURY] = {
         .names = {
-            .name = "Raging Fury",
-            .capsName = "RAGING FURY",
-            .fullName = "Raging Fury",
+            .name = "Erupción Ira",
+            .capsName = "ERUPCIÓN IRA",
+            .fullName = "Erupción de Ira",
         },
         .data = {
             .effect = MOVE_EFFECT_CONTINUE_AND_CONFUSE_SELF,
@@ -22597,14 +22597,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user rampages\\naround spewing flames\\nfor two to three turns.\\nThe user then becomes\\nconfused.",
+        .description = "Ataca con violentas\\nllamas de dos a tres\\nturnos y luego queda\\nconfuso.\\n",
     },
 
     [MOVE_WAVE_CRASH] = {
         .names = {
-            .name = "Wave Crash",
-            .capsName = "WAVE CRASH",
-            .fullName = "Wave Crash",
+            .name = "Envite Ac.",
+            .capsName = "ENVITE AC.",
+            .fullName = "Envite Acuático",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOIL_THIRD,
@@ -22624,14 +22624,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user shrouds\\nitself in water and\\nslams into the target.\\nThis also damages the\\nuser quite a lot.",
+        .description = "Se envuelve en agua y\\nembiste, pero también se\\nhiere seriamente.\\n",
     },
 
     [MOVE_CHLOROBLAST] = {
         .names = {
-            .name = "Chloroblast",
-            .capsName = "CHLOROBLAST",
-            .fullName = "Chloroblast",
+            .name = "Clorofiláser",
+            .capsName = "CLOROFILÁSER",
+            .fullName = "Clorofiláser",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOIL_HALF_MAX_HP,
@@ -22651,14 +22651,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user launches its\\namassed chlorophyll\\nto inflict damage on\\nthe target. This also\\ndamages the user.",
+        .description = "Concentra clorofila y la\\ndispara en forma de rayo,\\npero también se hiere.\\n",
     },
 
     [MOVE_MOUNTAIN_GALE] = {
         .names = {
-            .name = "Mountain Gale",
-            .capsName = "MOUNTAIN GALE",
-            .fullName = "Mountain Gale",
+            .name = "Viento Car.",
+            .capsName = "VIENTO CAR.",
+            .fullName = "Viento Carámbano",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -22678,14 +22678,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user hurls giant\\nchunks of ice at the\\ntarget to inflict\\ndamage. This may also\\nmake the target flinch.",
+        .description = "Ataca con carámbanos\\ngrandes como icebergs que\\npueden amedrentar.\\n",
     },
 
     [MOVE_VICTORY_DANCE] = {
         .names = {
-            .name = "Victory Dance",
-            .capsName = "VICTORY DANCE",
-            .fullName = "Victory Dance",
+            .name = "Danza Triun.",
+            .capsName = "DANZA TRIUN.",
+            .fullName = "Danza Triunfal",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_DEF_SPEED_UP,
@@ -22705,14 +22705,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user performs an\\nintense dance to usher\\nin victory, boosting\\nits Attack, Defense,\\nand Speed stats.",
+        .description = "Danza frenética que\\ninvoca la victoria y sube\\nel Ataque, la Defensa y\\nla Velocidad.\\n",
     },
 
     [MOVE_HEADLONG_RUSH] = {
         .names = {
-            .name = "Headlong Rush",
-            .capsName = "HEADLONG RUSH",
-            .fullName = "Headlong Rush",
+            .name = "Arremetida",
+            .capsName = "ARREMETIDA",
+            .fullName = "Arremetida",
         },
         .data = {
             .effect = MOVE_EFFECT_USER_DEF_SP_DEF_DOWN_HIT,
@@ -22732,14 +22732,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user smashes into\\nthe target in a\\nfull-body tackle. This\\nalso lowers the user’s\\nDefense and Sp. Def.",
+        .description = "Arremete con todas sus\\nfuerzas, pero se reducen\\nsu Defensa y su Defensa\\nEspecial.\\n",
     },
 
     [MOVE_BARB_BARRAGE] = {
         .names = {
-            .name = "Barb Barrage",
-            .capsName = "BARB BARRAGE",
-            .fullName = "Barb Barrage",
+            .name = "Púas Tóxicas",
+            .capsName = "PÚAS TÓXICAS",
+            .fullName = "Mil Púas Tóxicas",
         },
         .data = {
             .effect = MOVE_EFFECT_POISON_HIT_DOUBLE_POWER_ON_POISONED,
@@ -22759,14 +22759,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user launches barbs\\nwhich may poison the\\ntarget. Its power is\\ndoubled if the target\\nis already poisoned.",
+        .description = "Dispara un sinfín de púas\\ntóxicas que pueden\\nenvenenar. Duplica su\\npotencia si ya lo está.\\n",
     },
 
     [MOVE_ESPER_WING] = {
         .names = {
-            .name = "Esper Wing",
-            .capsName = "ESPER WING",
-            .fullName = "Esper Wing",
+            .name = "Ala Aural",
+            .capsName = "ALA AURAL",
+            .fullName = "Ala Aural",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL_RAISE_SPEED_HIT,
@@ -22786,14 +22786,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user slashes with\\naura-enriched wings and\\nboosts its Speed. This\\nmove has a heightened\\ncritical hit chance.",
+        .description = "Corta con unas alas\\nimbuidas de aura. Suele\\nser crítico y sube su\\nVelocidad.\\n",
     },
 
     [MOVE_BITTER_MALICE] = {
         .names = {
-            .name = "Bitter Malice",
-            .capsName = "BITTER MALICE",
-            .fullName = "Bitter Malice",
+            .name = "Rencor Repr.",
+            .capsName = "RENCOR REPR.",
+            .fullName = "Rencor Reprimido",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_ATTACK_HIT,
@@ -22813,14 +22813,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks the\\ntarget with spine-\\nchilling resentment.\\nThis also lowers the\\ntarget’s Attack stat.",
+        .description = "Ataca sometiendo al rival\\na su frío rencor y reduce\\nsu Ataque.\\n",
     },
 
     [MOVE_SHELTER] = {
         .names = {
-            .name = "Shelter",
-            .capsName = "SHELTER",
-            .fullName = "Shelter",
+            .name = "Retracción",
+            .capsName = "RETRACCIÓN",
+            .fullName = "Retracción",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_UP_2,
@@ -22840,14 +22840,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user makes its\\nskin as hard as an\\niron shield,\\nsharply boosting\\nits Defense stat.",
+        .description = "Su piel se vuelve dura\\ncomo un escudo de acero y\\nsube mucho su Defensa.\\n",
     },
 
     [MOVE_TRIPLE_ARROWS] = {
         .names = {
-            .name = "Triple Arrows",
-            .capsName = "TRIPLE ARROWS",
-            .fullName = "Triple Arrows",
+            .name = "Triple Fl.",
+            .capsName = "TRIPLE FL.",
+            .fullName = "Triple Flecha",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -22867,14 +22867,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user kicks and fires\\nthree arrows. This has a\\nhigh critical hit chance\\nand may lower Defense or\\nmake the target flinch.",
+        .description = "Un talonazo y tres\\nflechas. Suele ser\\ncrítico y puede bajar la\\nDefensa o amedrentar.\\n",
     },
 
     [MOVE_INFERNAL_PARADE] = {
         .names = {
-            .name = "Infernal Parade",
-            .capsName = "INFERNAL PARADE",
-            .fullName = "Infernal Parade",
+            .name = "Marcha Esp.",
+            .capsName = "MARCHA ESP.",
+            .fullName = "Marcha Espectral",
         },
         .data = {
             .effect = MOVE_EFFECT_BURN_HIT_DOUBLE_POWER_ON_STATUS,
@@ -22894,14 +22894,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user summons myriad\\nfireballs which may burn\\nthe target. Its power is\\ndoubled if the target\\nhas a status condition.",
+        .description = "Bolas de fuego que pueden\\nquemar. Duplica su\\npotencia si el rival ya\\nsufre un estado.\\n",
     },
 
     [MOVE_CEASELESS_EDGE] = {
         .names = {
-            .name = "Ceaseless Edge",
-            .capsName = "CEASELESS EDGE",
-            .fullName = "Ceaseless Edge",
+            .name = "Tajo Metr.",
+            .capsName = "TAJO METR.",
+            .fullName = "Tajo Metralla",
         },
         .data = {
             .effect = MOVE_EFFECT_SET_SPIKES_HIT,
@@ -22921,14 +22921,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user slashes its\\nshell blade at the\\ntarget. Shell\\nsplinters left behind\\nremain as spikes.",
+        .description = "Ataca con una espada de\\nconchas y esparce\\nfragmentos a los pies del\\nobjetivo.\\n",
     },
 
     [MOVE_BLEAKWIND_STORM] = {
         .names = {
-            .name = "BleakwindStorm",
-            .capsName = "BLEAKWINDSTORM",
-            .fullName = "Bleakwind Storm",
+            .name = "Vendaval",
+            .capsName = "VENDAVAL",
+            .fullName = "Vendaval Gélido",
         },
         .data = {
             .effect = MOVE_EFFECT_BLEAKWIND_STORM,
@@ -22948,14 +22948,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks with\\nsavagely cold winds.\\nThis may also lower\\nthe Speed stats of\\nopposing Pokémon.",
+        .description = "Viento muy frío que\\nestremece cuerpo y mente\\ny puede reducir la\\nVelocidad.\\n",
     },
 
     [MOVE_WILDBOLT_STORM] = {
         .names = {
-            .name = "WildboltStorm",
-            .capsName = "WILDBOLTSTORM",
-            .fullName = "Wildbolt Storm",
+            .name = "Electormenta",
+            .capsName = "ELECTORMENTA",
+            .fullName = "Electormenta",
         },
         .data = {
             .effect = MOVE_EFFECT_WILDBOLT_STORM,
@@ -22975,14 +22975,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user savagely\\nattacks with\\nlightning and wind.\\nIt may also leave\\nopponents paralyzed.",
+        .description = "Tormenta eléctrica de\\nfuertes vientos y\\nrelámpagos que puede\\nparalizar.\\n",
     },
 
     [MOVE_SANDSEAR_STORM] = {
         .names = {
-            .name = "SandsearStorm",
-            .capsName = "SANDSEARSTORM",
-            .fullName = "Sandsear Storm",
+            .name = "Simún Arena",
+            .capsName = "SIMÚN ARENA",
+            .fullName = "Simún de Arena",
         },
         .data = {
             .effect = MOVE_EFFECT_SANDSEAR_STORM,
@@ -23002,14 +23002,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user wraps opposing\\nPokémon in fierce winds\\nand searingly hot sand.\\nThis may also leave them\\nwith a burn.",
+        .description = "Arenas tórridas y un\\nfuerte vendaval que\\npueden causar\\nquemaduras.\\n",
     },
 
     [MOVE_LUNAR_BLESSING] = {
         .names = {
-            .name = "Lunar Blessing",
-            .capsName = "LUNAR BLESSING",
-            .fullName = "Lunar Blessing",
+            .name = "Pleg. Lunar",
+            .capsName = "PLEG. LUNAR",
+            .fullName = "Plegaria Lunar",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -23029,14 +23029,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user receives a\\nblessing from the moon,\\nrestoring HP and curing\\nstatus conditions for\\nitself and its allies.",
+        .description = "Oración a la luna\\ncreciente que restaura PS\\ny cura los estados del\\nbando.\\n",
     },
 
     [MOVE_TAKE_HEART] = {
         .names = {
-            .name = "Take Heart",
-            .capsName = "TAKE HEART",
-            .fullName = "Take Heart",
+            .name = "Bálsamo",
+            .capsName = "BÁLSAMO",
+            .fullName = "Bálsamo Osado",
         },
         .data = {
             .effect = MOVE_EFFECT_TAKE_HEART,
@@ -23056,14 +23056,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user lifts its\\nspirits, curing its\\nown status conditions\\nand boosting its Sp.\\nAtk and Sp. Def stats.",
+        .description = "Se envalentona y se cura\\nde los estados. Además\\nsube su Ataque Especial y\\nsu Defensa Especial.\\n",
     },
 
     [MOVE_TERA_BLAST] = {
         .names = {
-            .name = "Tera Blast",
-            .capsName = "TERA BLAST",
-            .fullName = "Tera Blast",
+            .name = "Teraexpl.",
+            .capsName = "TERAEXPL.",
+            .fullName = "Teraexplosión",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -23083,14 +23083,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "If Terastallized, the\\nuser unleashes energy of\\nits Tera Type. It can\\nuse Attack or Sp. Atk-\\nwhichever is higher.",
+        .description = "Tras teracristalizarse,\\nataca con la energía de\\nsu teratipo. Usa el mayor\\nvalor entre Ataque y\\nAtaque Especial.\\n",
     },
 
     [MOVE_SILK_TRAP] = {
         .names = {
-            .name = "Silk Trap",
-            .capsName = "SILK TRAP",
-            .fullName = "Silk Trap",
+            .name = "Telatrampa",
+            .capsName = "TELATRAMPA",
+            .fullName = "Telatrampa",
         },
         .data = {
             .effect = MOVE_EFFECT_PROTECT,
@@ -23110,14 +23110,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user spins a silken\\ntrap, protecting itself\\nwhile lowering the Speed\\nof any attacker that\\nmakes direct contact.",
+        .description = "Trampa sedosa que le\\nprotege y reduce la\\nVelocidad de quien le\\ntoque.\\n",
     },
 
     [MOVE_AXE_KICK] = {
         .names = {
-            .name = "Axe Kick",
-            .capsName = "AXE KICK",
-            .fullName = "Axe Kick",
+            .name = "Patada Hacha",
+            .capsName = "PATADA HACHA",
+            .fullName = "Patada Hacha",
         },
         .data = {
             .effect = MOVE_EFFECT_CONFUSE_HIT_CRASH_ON_MISS,
@@ -23137,14 +23137,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user slams its heel\\ndown upon the target,\\nwhich may also confuse\\nthem. If it misses, the\\nuser is hurt instead.",
+        .description = "Patada al aire y\\ntalonazo. Si falla, se\\nhiere. Puede confundir al\\nobjetivo.\\n",
     },
 
     [MOVE_LAST_RESPECTS] = {
         .names = {
-            .name = "Last Respects",
-            .capsName = "LAST RESPECTS",
-            .fullName = "Last Respects",
+            .name = "Homenaje",
+            .capsName = "HOMENAJE",
+            .fullName = "Homenaje Póstumo",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -23164,14 +23164,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks to\\navenge its allies. The\\nmore defeated allies\\nin the user’s party,\\nthe greater its power.",
+        .description = "Venga a sus compañeros\\ncaídos. Cuantos más se\\nhayan debilitado, mayor\\npotencia.\\n",
     },
 
     [MOVE_LUMINA_CRASH] = {
         .names = {
-            .name = "Lumina Crash",
-            .capsName = "LUMINA CRASH",
-            .fullName = "Lumina Crash",
+            .name = "Fotocolisión",
+            .capsName = "FOTOCOLISIÓN",
+            .fullName = "Fotocolisión",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_2_HIT,
@@ -23191,14 +23191,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user unleashes a\\npeculiar light that even\\naffects the mind. This\\nalso harshly lowers the\\ntarget’s Sp. Def stat.",
+        .description = "Extraña luz que afecta a\\nla mente y reduce mucho\\nla Defensa Especial.\\n",
     },
 
     [MOVE_ORDER_UP] = {
         .names = {
-            .name = "Order Up",
-            .capsName = "ORDER UP",
-            .fullName = "Order Up",
+            .name = "Oído Cocina",
+            .capsName = "OÍDO COCINA",
+            .fullName = "Oído Cocina",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -23218,14 +23218,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks with\\nelegant poise. If it has\\na Tatsugiri in its\\nmouth, this move boosts\\none of the user’s stats.",
+        .description = "Ataca con porte gallardo.\\nCon un Tatsugiri en la\\nboca sube una de sus\\ncaracterísticas.\\n",
     },
 
     [MOVE_JET_PUNCH] = {
         .names = {
-            .name = "Jet Punch",
-            .capsName = "JET PUNCH",
-            .fullName = "Jet Punch",
+            .name = "Puño Jet",
+            .capsName = "PUÑO JET",
+            .fullName = "Puño Jet",
         },
         .data = {
             .effect = MOVE_EFFECT_PRIORITY_1,
@@ -23245,14 +23245,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user summons a\\ntorrent around its\\nfist and punches at\\nblinding speed. It is\\nsure to strike first.",
+        .description = "Envuelve el puño en un\\ntorrente y golpea a tal\\nvelocidad que es casi\\nimperceptible.\\n",
     },
 
     [MOVE_SPICY_EXTRACT] = {
         .names = {
-            .name = "Spicy Extract",
-            .capsName = "SPICY EXTRACT",
-            .fullName = "Spicy Extract",
+            .name = "Extracto",
+            .capsName = "EXTRACTO",
+            .fullName = "Extracto Picante",
         },
         .data = {
             .effect = MOVE_EFFECT_SPICY_EXTRACT,
@@ -23272,14 +23272,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user’s incredibly\\nspicy extract sharply\\nboosts the target’s\\nAttack stat and harshly\\nlowers their Defense.",
+        .description = "Extracto picante que sube\\nmucho el Ataque del\\nrival, pero también\\nreduce mucho su Defensa.\\n",
     },
 
     [MOVE_SPIN_OUT] = {
         .names = {
-            .name = "Spin Out",
-            .capsName = "SPIN OUT",
-            .fullName = "Spin Out",
+            .name = "Quemarrueda",
+            .capsName = "QUEMARRUEDA",
+            .fullName = "Quemarrueda",
         },
         .data = {
             .effect = MOVE_EFFECT_USER_SPEED_DOWN_2_HIT,
@@ -23299,14 +23299,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user spins furiously\\nby straining its legs,\\ninflicting damage while\\nharshly lowering the\\nuser’s Speed stat.",
+        .description = "Presiona sus extremidades\\ny gira violentamente.\\nReduce mucho la Velocidad\\ndel usuario.\\n",
     },
 
     [MOVE_POPULATION_BOMB] = {
         .names = {
-            .name = "Population Bomb",
-            .capsName = "POPULATION BOMB",
-            .fullName = "Population Bomb",
+            .name = "Prolifer.",
+            .capsName = "PROLIFER.",
+            .fullName = "Proliferación",
         },
         .data = {
             .effect = MOVE_EFFECT_UP_TO_10_HITS,
@@ -23326,14 +23326,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user’s fellows\\ngather in droves to\\nperform a combo attack\\nthat hits the target one\\nto ten times in a row.",
+        .description = "Sus congéneres se agrupan\\ny golpean de una a diez\\nveces seguidas.\\n",
     },
 
     [MOVE_ICE_SPINNER] = {
         .names = {
-            .name = "Ice Spinner",
-            .capsName = "ICE SPINNER",
-            .fullName = "Ice Spinner",
+            .name = "Pirueta Hel.",
+            .capsName = "PIRUETA HEL.",
+            .fullName = "Pirueta Helada",
         },
         .data = {
             .effect = MOVE_EFFECT_END_TERRAIN,
@@ -23353,14 +23353,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user covers its\\nfeet in ice and twirls\\naround, slamming into\\nthe target. It also\\ndestroys the terrain.",
+        .description = "Se recubre de hielo y se\\nabalanza girando.\\nDestruye el campo activo\\ndel terreno.\\n",
     },
 
     [MOVE_GLAIVE_RUSH] = {
         .names = {
-            .name = "Glaive Rush",
-            .capsName = "GLAIVE RUSH",
-            .fullName = "Glaive Rush",
+            .name = "Asalto Esp.",
+            .capsName = "ASALTO ESP.",
+            .fullName = "Asalto Espadón",
         },
         .data = {
             .effect = MOVE_EFFECT_GLAIVE_RUSH,
@@ -23380,14 +23380,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user charges\\nrecklessly. Attacks on\\nthe user on the next\\nturn always hit and will\\ninflict double damage.",
+        .description = "Embiste de forma\\ntemeraria. Los ataques\\nque reciba hasta su\\nsiguiente turno no\\nfallarán.\\n",
     },
 
     [MOVE_REVIVAL_BLESSING] = {
         .names = {
-            .name = "RevivalBlessing",
-            .capsName = "REVIVALBLESSING",
-            .fullName = "Revival Blessing",
+            .name = "Pleg. Vital",
+            .capsName = "PLEG. VITAL",
+            .fullName = "Plegaria Vital",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -23407,14 +23407,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user’s loving\\nblessing revives a party\\nPokémon that has fainted\\nand restores half that\\nPokémon’s max HP.",
+        .description = "Oración que revive a un\\nPokémon debilitado del\\nequipo y restaura la\\nmitad de sus PS.\\n",
     },
 
     [MOVE_SALT_CURE] = {
         .names = {
-            .name = "Salt Cure",
-            .capsName = "SALT CURE",
-            .fullName = "Salt Cure",
+            .name = "Salazón",
+            .capsName = "SALAZÓN",
+            .fullName = "Salazón",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -23434,14 +23434,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user salt cures the\\ntarget, dealing damage\\nevery turn. Steel and\\nWater types are strongly\\naffected by this move.",
+        .description = "Deja en salazón al rival,\\nque pierde PS cada turno.\\nAfecta más a Acero y\\nAgua.\\n",
     },
 
     [MOVE_TRIPLE_DIVE] = {
         .names = {
-            .name = "Triple Dive",
-            .capsName = "TRIPLE DIVE",
-            .fullName = "Triple Dive",
+            .name = "Triple Inm.",
+            .capsName = "TRIPLE INM.",
+            .fullName = "Triple Inmersión",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_THREE_TIMES,
@@ -23461,14 +23461,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user performs a\\nperfectly timed triple\\ndive, hitting the target\\nwith splashes of water\\nthree times in a row.",
+        .description = "Inmersión triple en\\nperfecta sincronía que\\ngolpea con salpicaduras\\ntres veces seguidas.\\n",
     },
 
     [MOVE_MORTAL_SPIN] = {
         .names = {
-            .name = "Mortal Spin",
-            .capsName = "MORTAL SPIN",
-            .fullName = "Mortal Spin",
+            .name = "Giro Mort.",
+            .capsName = "GIRO MORT.",
+            .fullName = "Giro Mortífero",
         },
         .data = {
             .effect = MOVE_EFFECT_MORTAL_SPIN,
@@ -23488,14 +23488,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "A spin attack that can\\neliminate such moves as\\nBind, Wrap and Leech\\nSeed. It also poisons\\nopposing Pokémon.",
+        .description = "Ataque giratorio que\\nenvenena y anula los\\nefectos de Atadura,\\nConstricción y\\nDrenadoras.\\n",
     },
 
     [MOVE_DOODLE] = {
         .names = {
-            .name = "Doodle",
-            .capsName = "DOODLE",
-            .fullName = "Doodle",
+            .name = "Decalcomanía",
+            .capsName = "DECALCOMANÍA",
+            .fullName = "Decalcomanía",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -23515,14 +23515,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The target’s essence is\\ncaptured in a sketch.\\nThis makes the Abilities\\nof the user and its ally\\nmatch the target’s.",
+        .description = "Calca la esencia del\\nobjetivo para atribuir su\\nhabilidad a sí mismo y a\\nsus aliados.\\n",
     },
 
     [MOVE_FILLET_AWAY] = {
         .names = {
-            .name = "Fillet Away",
-            .capsName = "FILLET AWAY",
-            .fullName = "Fillet Away",
+            .name = "Deslome",
+            .capsName = "DESLOME",
+            .fullName = "Deslome",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_SP_ATK_SPEED_UP_2_LOSE_HALF_MAX_HP,
@@ -23542,14 +23542,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user sharply\\nboosts its Attack,\\nSp. Atk, and Speed\\nstats by using its\\nown HP.",
+        .description = "Sube mucho el Ataque, el\\nAtaque Especial y la\\nVelocidad a costa de\\nparte de sus PS.\\n",
     },
 
     [MOVE_KOWTOW_CLEAVE] = {
         .names = {
-            .name = "Kowtow Cleave",
-            .capsName = "KOWTOW CLEAVE",
-            .fullName = "Kowtow Cleave",
+            .name = "Genufend.",
+            .capsName = "GENUFEND.",
+            .fullName = "Genufendiente",
         },
         .data = {
             .effect = MOVE_EFFECT_BYPASS_ACCURACY,
@@ -23569,14 +23569,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user slashes at the\\ntarget after kowtowing\\nto make the target let\\ndown its guard. This\\nattack never misses.",
+        .description = "Se postra en reverencia y\\nataca aprovechando el\\ndescuido. No falla nunca.\\n",
     },
 
     [MOVE_FLOWER_TRICK] = {
         .names = {
-            .name = "Flower Trick",
-            .capsName = "FLOWER TRICK",
-            .fullName = "Flower Trick",
+            .name = "Truco Floral",
+            .capsName = "TRUCO FLORAL",
+            .fullName = "Truco Floral",
         },
         .data = {
             .effect = MOVE_EFFECT_ALWAYS_CRITICAL,
@@ -23596,14 +23596,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user throws a rigged\\nbouquet of flowers at\\nthe target. This attack\\nnever misses and always\\nlands a critical hit.",
+        .description = "Lanza un ramo de flores\\ntrucado. No falla nunca y\\nsiempre asesta un golpe\\ncrítico.\\n",
     },
 
     [MOVE_TORCH_SONG] = {
         .names = {
-            .name = "Torch Song",
-            .capsName = "TORCH SONG",
-            .fullName = "Torch Song",
+            .name = "Canto Ard.",
+            .capsName = "CANTO ARD.",
+            .fullName = "Canto Ardiente",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_SP_ATK_HIT,
@@ -23623,14 +23623,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user blows out\\nraging flames as if\\nsinging, scorching the\\ntarget. This also boosts\\nthe user’s Sp. Atk stat.",
+        .description = "Expele tórridas\\nllamaradas como si\\ncantara. Sube su Ataque\\nEspecial.\\n",
     },
 
     [MOVE_AQUA_STEP] = {
         .names = {
-            .name = "Aqua Step",
-            .capsName = "AQUA STEP",
-            .fullName = "Aqua Step",
+            .name = "Danza Acuát.",
+            .capsName = "DANZA ACUÁT.",
+            .fullName = "Danza Acuática",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_SPEED_HIT,
@@ -23650,14 +23650,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user toys with the\\ntarget and attacks using\\nlight and fluid dance\\nsteps. This also boosts\\nthe user’s Speed stat.",
+        .description = "Juguetea mientras ejecuta\\nuna danza fluida y daña.\\nSube su Velocidad.\\n",
     },
 
     [MOVE_RAGING_BULL] = {
         .names = {
-            .name = "Raging Bull",
-            .capsName = "RAGING BULL",
-            .fullName = "Raging Bull",
+            .name = "Furia Taur.",
+            .capsName = "FURIA TAUR.",
+            .fullName = "Furia Taurina",
         },
         .data = {
             .effect = MOVE_EFFECT_REMOVE_SCREENS,
@@ -23677,14 +23677,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user performs a\\ntackle like a raging\\nbull. It can also break\\nbarriers, such as Light\\nScreen and Reflect.",
+        .description = "Embiste con tremenda\\nfiereza. Cambia de tipo\\nsegún su variedad y\\ndestruye barreras.\\n",
     },
 
     [MOVE_MAKE_IT_RAIN] = {
         .names = {
-            .name = "Make It Rain",
-            .capsName = "MAKE IT RAIN",
-            .fullName = "Make It Rain",
+            .name = "Fiebre Dor.",
+            .capsName = "FIEBRE DOR.",
+            .fullName = "Fiebre Dorada",
         },
         .data = {
             .effect = MOVE_EFFECT_MAKE_IT_RAIN,
@@ -23704,14 +23704,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user throws out a\\nmass of coins. This also\\nlowers the user’s Sp.\\nAtk stat. Money is\\nearned after the battle.",
+        .description = "Arroja una generosa\\ncantidad de monedas, pero\\nreduce su Ataque\\nEspecial. Las recupera\\ntras el combate.\\n",
     },
 
     [MOVE_PSYBLADE] = {
         .names = {
-            .name = "Psyblade",
-            .capsName = "PSYBLADE",
-            .fullName = "Psyblade",
+            .name = "Psicohojas",
+            .capsName = "PSICOHOJAS",
+            .fullName = "Psicohojas",
         },
         .data = {
             .effect = MOVE_EFFECT_PSYBLADE,
@@ -23731,14 +23731,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user rends with an\\nethereal blade. Its\\npower is boosted by 50\\npercent if the user is\\non Electric Terrain.",
+        .description = "Rebana con una espada\\ninmaterial. Con un campo\\neléctrico sube un 50 % su\\npotencia.\\n",
     },
 
     [MOVE_HYDRO_STEAM] = {
         .names = {
-            .name = "Hydro Steam",
-            .capsName = "HYDRO STEAM",
-            .fullName = "Hydro Steam",
+            .name = "Hidrovapor",
+            .capsName = "HIDROVAPOR",
+            .fullName = "Hidrovapor",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -23758,14 +23758,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user blasts out\\nboiling-hot water. Its\\npower is not lowered in\\nharsh sunlight but\\nrather boosted by 50%.",
+        .description = "Vierte agua hirviendo.\\nCon sol, su potencia sube\\nun 50 % en lugar de\\nreducirse.\\n",
     },
 
     [MOVE_RUINATION] = {
         .names = {
-            .name = "Ruination",
-            .capsName = "RUINATION",
-            .fullName = "Ruination",
+            .name = "Calamidad",
+            .capsName = "CALAMIDAD",
+            .fullName = "Calamidad",
         },
         .data = {
             .effect = MOVE_EFFECT_HALVE_HP,
@@ -23785,14 +23785,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user summons a\\nruinous disaster.\\nThis cuts the\\ntarget’s HP in half.",
+        .description = "Catástrofe devastadora\\nque reduce a la mitad los\\nPS del objetivo.\\n",
     },
 
     [MOVE_COLLISION_COURSE] = {
         .names = {
-            .name = "ColisionCourse",
-            .capsName = "COLISIONCOURSE",
-            .fullName = "Collision Course",
+            .name = "Nitrochoque",
+            .capsName = "NITROCHOQUE",
+            .fullName = "Nitrochoque",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -23812,14 +23812,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user causes a\\nmassive prehistoric\\nexplosion. This move’s\\npower is boosted more if\\nit’s super effective.",
+        .description = "Choca contra el suelo\\ntras transformarse. Sube\\nsu potencia si el ataque\\nes supereficaz.\\n",
     },
 
     [MOVE_ELECTRO_DRIFT] = {
         .names = {
-            .name = "Electro Drift",
-            .capsName = "ELECTRO DRIFT",
-            .fullName = "Electro Drift",
+            .name = "Electroderr.",
+            .capsName = "ELECTRODERR.",
+            .fullName = "Electroderrape",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -23839,14 +23839,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user pierces its\\ntarget with futuristic\\nelectricity. This move’s\\npower is boosted more if\\nit’s supereffective.",
+        .description = "Atraviesa al rival con\\nelectricidad futurista.\\nSube su potencia si el\\nataque es supereficaz.\\n",
     },
 
     [MOVE_SHED_TAIL] = {
         .names = {
-            .name = "Shed Tail",
-            .capsName = "SHED TAIL",
-            .fullName = "Shed Tail",
+            .name = "Autotomía",
+            .capsName = "AUTOTOMÍA",
+            .fullName = "Autotomía",
         },
         .data = {
             .effect = MOVE_EFFECT_SHED_TAIL,
@@ -23866,14 +23866,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user creates\\na decoy using its own\\nHP, then swaps places\\nwith a party Pokémon\\nin waiting.",
+        .description = "Se cambia por otro, pero\\nantes usa parte de sus PS\\npara crear un sustituto.\\n",
     },
 
     [MOVE_CHILLY_RECEPTION] = {
         .names = {
-            .name = "ChillyReception",
-            .capsName = "CHILLYRECEPTION",
-            .fullName = "Chilly Reception",
+            .name = "Fría Acogida",
+            .capsName = "FRÍA ACOGIDA",
+            .fullName = "Fría Acogida",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -23893,14 +23893,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user tells a\\nchillingly bad joke\\nbefore switching out.\\nThis summons a snowstorm\\nlasting five turns.",
+        .description = "Se cambia por otro, pero\\nantes cuenta un chiste\\ncuyo frío hace nevar\\ncinco turnos.\\n",
     },
 
     [MOVE_TIDY_UP] = {
         .names = {
-            .name = "Tidy Up",
-            .capsName = "TIDY UP",
-            .fullName = "Tidy Up",
+            .name = "Limpieza",
+            .capsName = "LIMPIEZA",
+            .fullName = "Limpieza General",
         },
         .data = {
             .effect = MOVE_EFFECT_TIDY_UP,
@@ -23920,14 +23920,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user tidies up and\\nremoves entry hazards\\nand Substitutes. This\\nalso boosts the user’s\\nAttack and Speed stats.",
+        .description = "Limpieza que anula Púas,\\nTrampa Rocas, Red\\nViscosa, Púas Tóxicas y\\nSustituto. Sube Ataque y\\nVelocidad.\\n",
     },
 
     [MOVE_SNOWSCAPE] = {
         .names = {
-            .name = "Snowscape",
-            .capsName = "SNOWSCAPE",
-            .fullName = "Snowscape",
+            .name = "Paisaje Nev.",
+            .capsName = "PAISAJE NEV.",
+            .fullName = "Paisaje Nevado",
         },
         .data = {
             .effect = MOVE_EFFECT_WEATHER_SNOW,
@@ -23947,14 +23947,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user summons a\\nsnowstorm lasting five\\nturns. This boosts the\\nDefense stats of Ice\\ntypes.",
+        .description = "Nevada de cinco turnos\\nque aumenta la Defensa de\\nlos Pokémon de tipo\\nHielo.\\n",
     },
 
     [MOVE_POUNCE] = {
         .names = {
-            .name = "Pounce",
-            .capsName = "POUNCE",
-            .fullName = "Pounce",
+            .name = "Brinco",
+            .capsName = "BRINCO",
+            .fullName = "Brinco",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SPEED_HIT,
@@ -23974,14 +23974,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks by\\npouncing on the\\ntarget.\\nThis also lowers the\\ntarget’s Speed stat.",
+        .description = "Ataca abalanzándose sobre\\nel objetivo y le reduce\\nla Velocidad.\\n",
     },
 
     [MOVE_TRAILBLAZE] = {
         .names = {
-            .name = "Trailblaze",
-            .capsName = "TRAILBLAZE",
-            .fullName = "Trailblaze",
+            .name = "Abrecaminos",
+            .capsName = "ABRECAMINOS",
+            .fullName = "Abrecaminos",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_SPEED_HIT,
@@ -24001,14 +24001,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks as if\\nleaping out from tall\\ngrass. The user’s\\nnimble footwork raises\\nits Speed stat.",
+        .description = "Ataca como si saltara\\ndesde la hierba alta.\\nSube su Velocidad.\\n",
     },
 
     [MOVE_CHILLING_WATER] = {
         .names = {
-            .name = "Chilling Water",
-            .capsName = "CHILLING WATER",
-            .fullName = "Chilling Water",
+            .name = "Agua Fría",
+            .capsName = "AGUA FRÍA",
+            .fullName = "Agua Fría",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_ATTACK_HIT,
@@ -24028,14 +24028,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks the\\ntarget by showering it\\nwith cold water. This\\nalso lowers the target’s\\nAttack stat.",
+        .description = "Rocía con un agua gélida\\ny desalentadora que\\nreduce el Ataque.\\n",
     },
 
     [MOVE_HYPER_DRILL] = {
         .names = {
-            .name = "Hyper Drill",
-            .capsName = "HYPER DRILL",
-            .fullName = "Hyper Drill",
+            .name = "Hipertaladro",
+            .capsName = "HIPERTALADRO",
+            .fullName = "Hipertaladro",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -24055,14 +24055,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user spins at high\\nspeed to pierce the\\ntarget. This attack can\\nhit through a move such\\nas Protect or Detect.",
+        .description = "Hace rotar la parte\\npuntiaguda de su cuerpo y\\npasa por alto Protección\\no Detección.\\n",
     },
 
     [MOVE_TWIN_BEAM] = {
         .names = {
-            .name = "Twin Beam",
-            .capsName = "TWIN BEAM",
-            .fullName = "Twin Beam",
+            .name = "Láser Doble",
+            .capsName = "LÁSER DOBLE",
+            .fullName = "Láser Doble",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_TWICE,
@@ -24082,14 +24082,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user shoots\\nmystical beams from its\\neyes to inflict damage.\\nThe target is hit twice\\nin a row.",
+        .description = "Dos misteriosos haces\\nlumínicos que infligen\\ndaño dos veces seguidas.\\n",
     },
 
     [MOVE_RAGE_FIST] = {
         .names = {
-            .name = "Rage Fist",
-            .capsName = "RAGE FIST",
-            .fullName = "Rage Fist",
+            .name = "Puño Furia",
+            .capsName = "PUÑO FURIA",
+            .fullName = "Puño Furia",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -24109,14 +24109,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user converts its\\nrage into energy to\\nattack. The more the\\nuser has been attacked,\\nthe greater the power.",
+        .description = "Convierte su rabia en\\nenergía. Cuantos más\\ngolpes haya recibido,\\nmayor potencia.\\n",
     },
 
     [MOVE_ARMOR_CANNON] = {
         .names = {
-            .name = "Armor Cannon",
-            .capsName = "ARMOR CANNON",
-            .fullName = "Armor Cannon",
+            .name = "Cañón Arm.",
+            .capsName = "CAÑÓN ARM.",
+            .fullName = "Cañón Armadura",
         },
         .data = {
             .effect = MOVE_EFFECT_USER_DEF_SP_DEF_DOWN_HIT,
@@ -24136,14 +24136,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user shoots its own\\narmor out as blazing\\nprojectiles. It also\\ncuts the user’s Defense\\nand Sp. Def stats.",
+        .description = "Se deshace de su armadura\\ny la arroja como\\nproyectiles ardientes.\\nBaja sus Defensas.\\n",
     },
 
     [MOVE_BITTER_BLADE] = {
         .names = {
-            .name = "Bitter Blade",
-            .capsName = "BITTER BLADE",
-            .fullName = "Bitter Blade",
+            .name = "Espada Lam.",
+            .capsName = "ESPADA LAM.",
+            .fullName = "Espada Lamento",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOVER_HALF_DAMAGE_DEALT,
@@ -24163,14 +24163,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user focuses its\\nbitter feelings into a\\nslash. The user’s HP\\nis restored by up to\\nhalf the damage taken.",
+        .description = "Imbuye su espada con su\\ndesazón y asesta una\\nestocada. Recupera la\\nmitad del daño causado.\\n",
     },
 
     [MOVE_DOUBLE_SHOCK] = {
         .names = {
-            .name = "Double Shock",
-            .capsName = "DOUBLE SHOCK",
-            .fullName = "Double Shock",
+            .name = "Electrop.",
+            .capsName = "ELECTROP.",
+            .fullName = "Electropalmas",
         },
         .data = {
             .effect = MOVE_EFFECT_REMOVE_USER_ELECTRIC_TYPE_HIT,
@@ -24190,14 +24190,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user discharges\\nall the electricity\\nfrom its body. After\\nthis, the user loses\\nthe Electric type.",
+        .description = "Libera toda la\\nelectricidad de su\\ncuerpo. Tras el ataque\\ndeja de ser de tipo\\nEléctrico.\\n",
     },
 
     [MOVE_GIGATON_HAMMER] = {
         .names = {
-            .name = "Gigaton Hammer",
-            .capsName = "GIGATON HAMMER",
-            .fullName = "Gigaton Hammer",
+            .name = "Mart. Colos.",
+            .capsName = "MART. COLOS.",
+            .fullName = "Martillo Colosal",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -24217,14 +24217,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user swings its\\nwhole body around to\\nattack with its huge\\nhammer. This move can’t\\nbe used twice in a row.",
+        .description = "Propina un golpe con un\\nenorme martillo. No puede\\nusarse dos veces\\nseguidas.\\n",
     },
 
     [MOVE_COMEUPPANCE] = {
         .names = {
-            .name = "Comeuppance",
-            .capsName = "COMEUPPANCE",
-            .fullName = "Comeuppance",
+            .name = "Resarc.",
+            .capsName = "RESARC.",
+            .fullName = "Resarcimiento",
         },
         .data = {
             .effect = MOVE_EFFECT_METAL_BURST,
@@ -24244,14 +24244,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user retaliates\\nagainst the foe that\\nlast inflicted damage\\non it with much\\ngreater power.",
+        .description = "Devuelve al rival el\\núltimo ataque recibido,\\npero con mucha más\\nfuerza.\\n",
     },
 
     [MOVE_AQUA_CUTTER] = {
         .names = {
-            .name = "Aqua Cutter",
-            .capsName = "AQUA CUTTER",
-            .fullName = "Aqua Cutter",
+            .name = "Tajo Acuát.",
+            .capsName = "TAJO ACUÁT.",
+            .fullName = "Tajo Acuático",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -24271,14 +24271,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user expels\\npressurized water to\\ncut at the target like\\na blade. It has a high\\ncritical-hit ratio.",
+        .description = "Corta con agua a presión\\ncomo si fuera una hoja.\\nSuele ser crítico.\\n",
     },
 
     [MOVE_BLAZING_TORQUE] = {
         .names = {
-            .name = "Blazing Torque",
-            .capsName = "BLAZING TORQUE",
-            .fullName = "Blazing Torque",
+            .name = "Pirochoque",
+            .capsName = "PIROCHOQUE",
+            .fullName = "Pirochoque",
         },
         .data = {
             .effect = MOVE_EFFECT_BURN_HIT,
@@ -24298,14 +24298,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user rams into the\\ntarget with blazing\\nenergy. This may also\\nleave the target with\\na burn.",
+        .description = "El usuario ataca girando\\ncon su cuerpo\\nincandescente.\\n",
     },
 
     [MOVE_WICKED_TORQUE] = {
         .names = {
-            .name = "Wicked Torque",
-            .capsName = "WICKED TORQUE",
-            .fullName = "Wicked Torque",
+            .name = "Ominochoque",
+            .capsName = "OMINOCHOQUE",
+            .fullName = "Ominochoque",
         },
         .data = {
             .effect = MOVE_EFFECT_SLEEP_HIT,
@@ -24325,14 +24325,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user rams into the\\ntarget with malicious\\nintent. This may put\\nthe target to sleep.",
+        .description = "El usuario ataca girando\\ncon mala intención.\\n",
     },
 
     [MOVE_NOXIOUS_TORQUE] = {
         .names = {
-            .name = "Noxious Torque",
-            .capsName = "NOXIOUS TORQUE",
-            .fullName = "Noxious Torque",
+            .name = "Ponzochoque",
+            .capsName = "PONZOCHOQUE",
+            .fullName = "Ponzochoque",
         },
         .data = {
             .effect = MOVE_EFFECT_POISON_HIT,
@@ -24352,14 +24352,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user rams into the\\ntarget with a\\npoisonous end. This\\nmay also poison the\\ntarget.",
+        .description = "El usuario ataca girando\\ncon un fluido ponzoñoso.\\n",
     },
 
     [MOVE_COMBAT_TORQUE] = {
         .names = {
-            .name = "Combat Torque",
-            .capsName = "COMBAT TORQUE",
-            .fullName = "Combat Torque",
+            .name = "Pugnachoque",
+            .capsName = "PUGNACHOQUE",
+            .fullName = "Pugnachoque",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -24379,14 +24379,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user rams into the\\ntarget with great\\nforce. This may also\\nleave the target with\\nparalysis.",
+        .description = "El usuario ataca girando\\ncon fuerza arrolladora.\\n",
     },
 
     [MOVE_MAGICAL_TORQUE] = {
         .names = {
-            .name = "Magical Torque",
-            .capsName = "MAGICAL TORQUE",
-            .fullName = "Magical Torque",
+            .name = "Feerichoque",
+            .capsName = "FEERICHOQUE",
+            .fullName = "Feerichoque",
         },
         .data = {
             .effect = MOVE_EFFECT_CONFUSE_HIT,
@@ -24406,14 +24406,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user rams into the\\ntarget with a fae-like\\nforce. This may also\\nconfuse the target.",
+        .description = "El usuario ataca girando\\ncon poder mágico.\\n",
     },
 
     [MOVE_BLOOD_MOON] = {
         .names = {
-            .name = "Blood Moon",
-            .capsName = "BLOOD MOON",
-            .fullName = "Blood Moon",
+            .name = "Luna Roja",
+            .capsName = "LUNA ROJA",
+            .fullName = "Luna Roja",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -24433,14 +24433,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user unleashes the\\nfull brunt of its spirit\\nfrom a full moon.\\nThis move can’t be used\\ntwice in a row.",
+        .description = "Ataca canalizando toda su\\nfuerza a través de una\\nluna llena roja. No puede\\nusarse dos veces\\nseguidas.\\n",
     },
 
     [MOVE_MATCHA_GOTCHA] = {
         .names = {
-            .name = "Matcha Gotcha",
-            .capsName = "MATCHA GOTCHA",
-            .fullName = "Matcha Gotcha",
+            .name = "Cañón Bat.",
+            .capsName = "CAÑÓN BAT.",
+            .fullName = "Cañón Batidor",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOVER_HALF_DAMAGE_DEALT_BURN_HIT,
@@ -24460,14 +24460,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user fires a blast\\nof tea, restoring HP\\nby up to half the\\ndamage dealt. This may\\nalso burn the target.",
+        .description = "Rocía con té recién\\nbatido y recupera la\\nmitad del daño causado.\\nPuede quemar.\\n",
     },
 
     [MOVE_SYRUP_BOMB] = {
         .names = {
-            .name = "Syrup Bomb",
-            .capsName = "SYRUP BOMB",
-            .fullName = "Syrup Bomb",
+            .name = "Bomba Caram.",
+            .capsName = "BOMBA CARAM.",
+            .fullName = "Bomba Caramelo",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -24487,14 +24487,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user sets off a\\ngooey explosion, which\\ncauses the target’s\\nSpeed stat to drop each\\nturn for three turns.",
+        .description = "Néctar viscoso que\\ncarameliza al rival y\\nreduce su Velocidad\\ndurante tres turnos.\\n",
     },
 
     [MOVE_IVY_CUDGEL] = {
         .names = {
-            .name = "Ivy Cudgel",
-            .capsName = "IVY CUDGEL",
-            .fullName = "Ivy Cudgel",
+            .name = "Garrote L.",
+            .capsName = "GARROTE L.",
+            .fullName = "Garrote Liana",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -24514,14 +24514,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user strikes with a\\ncudgel. It has a high\\ncritical hit chance, and\\nits type changes with\\nthe user’s mask.",
+        .description = "Golpea con un garrote de\\nliana. El tipo varía\\nsegún la máscara del\\nusuario. Suele ser\\ncrítico.\\n",
     },
 
     [MOVE_ELECTRO_SHOT] = {
         .names = {
-            .name = "Electro Shot",
-            .capsName = "ELECTRO SHOT",
-            .fullName = "Electro Shot",
+            .name = "Electrorrayo",
+            .capsName = "ELECTRORRAYO",
+            .fullName = "Electrorrayo",
         },
         .data = {
             .effect = MOVE_EFFECT_CHARGE_TURN_SP_ATK_UP_RAIN_SKIPS,
@@ -24541,14 +24541,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "A two-turn attack.\\nThe user gathers\\nlight, then fires a\\nhigh voltage shot\\non the second turn.",
+        .description = "Acumula electricidad y\\nsube su Ataque Especial\\nel primer turno y ataca\\nel segundo.\\n",
     },
 
     [MOVE_TERA_STARSTORM] = {
         .names = {
-            .name = "Tera Starstorm",
-            .capsName = "TERA STARSTORM",
-            .fullName = "Tera Starstorm",
+            .name = "Teraclúster",
+            .capsName = "TERACLÚSTER",
+            .fullName = "Teraclúster",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -24568,14 +24568,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user bombards the\\ntarget with crystalline\\npower. When used by\\nStellar Terapagos, this\\nmove damages all foes.",
+        .description = "Irradia el poder de sus\\ncristales. En su Forma\\nAstral, Terapagos daña a\\ntodos los rivales.\\n",
     },
 
     [MOVE_FICKLE_BEAM] = {
         .names = {
-            .name = "Fickle Beam",
-            .capsName = "FICKLE BEAM",
-            .fullName = "Fickle Beam",
+            .name = "Láser Vel.",
+            .capsName = "LÁSER VEL.",
+            .fullName = "Láser Veleidoso",
         },
         .data = {
             .effect = MOVE_EFFECT_FICKLE_BEAM,
@@ -24595,14 +24595,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user shoots a beam\\nof light. Sometimes\\nthe user’s heads shoot\\nin unison, doubling\\nthe move’s power.",
+        .description = "Haz de luz. A veces las\\notras cabezas se unen y\\nduplican la potencia del\\nmovimiento.\\n",
     },
 
     [MOVE_BURNING_BULWARK] = {
         .names = {
-            .name = "Burning Bulwark",
-            .capsName = "BURNING BULWARK",
-            .fullName = "Burning Bulwark",
+            .name = "Llama Prot.",
+            .capsName = "LLAMA PROT.",
+            .fullName = "Llama Protectora",
         },
         .data = {
             .effect = MOVE_EFFECT_PROTECT,
@@ -24622,14 +24622,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user’s intensely hot\\nfur protects it from\\nattacks and also burns\\nany attacker that makes\\ndirect contact with it.",
+        .description = "Su ardiente pelaje le\\nprotege y quema al\\natacante si usa un\\nmovimiento de contacto.\\n",
     },
 
     [MOVE_THUNDERCLAP] = {
         .names = {
-            .name = "Thunderclap",
-            .capsName = "THUNDERCLAP",
-            .fullName = "Thunderclap",
+            .name = "Relámpago",
+            .capsName = "RELÁMPAGO",
+            .fullName = "Relámpago Súbito",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_FIRST_IF_TARGET_ATTACKING,
@@ -24649,14 +24649,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks first\\nwith a jolt of\\nelectricity. This move\\nfails if the target is\\nnot readying an attack.",
+        .description = "Rayo que cae antes de que\\nel rival pueda actuar.\\nFalla si no prepara un\\nataque.\\n",
     },
 
     [MOVE_MIGHTY_CLEAVE] = {
         .names = {
-            .name = "Mighty Cleave",
-            .capsName = "MIGHTY CLEAVE",
-            .fullName = "Mighty Cleave",
+            .name = "Filo Potente",
+            .capsName = "FILO POTENTE",
+            .fullName = "Filo Potente",
         },
         .data = {
             .effect = MOVE_EFFECT_IGNORE_PROTECT,
@@ -24676,14 +24676,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "Light from atop the\\nuser’s head cleaves the\\ntarget. This move hits\\neven if the target\\nprotects itself.",
+        .description = "Rebana con la luz\\nacumulada en su testa.\\nAcierta aunque el rival\\nse proteja.\\n",
     },
 
     [MOVE_TACHYON_CUTTER] = {
         .names = {
-            .name = "Tachyon Cutter",
-            .capsName = "TACHYON CUTTER",
-            .fullName = "Tachyon Cutter",
+            .name = "Tajo Taquión",
+            .capsName = "TAJO TAQUIÓN",
+            .fullName = "Tajo Taquión",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_TWICE,
@@ -24703,14 +24703,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks by\\nlaunching particle\\nblades at the target\\ntwice in a row. This\\nattack never misses.",
+        .description = "Ráfaga de cuchillas de\\npartículas que golpea dos\\nveces. No falla nunca.\\n",
     },
 
     [MOVE_HARD_PRESS] = {
         .names = {
-            .name = "Hard Press",
-            .capsName = "HARD PRESS",
-            .fullName = "Hard Press",
+            .name = "Prensa Met.",
+            .capsName = "PRENSA MET.",
+            .fullName = "Prensa Metálica",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -24730,14 +24730,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The target is crushed by\\nthe user. The more HP\\nthe target has left, the\\ngreater the move’s\\npower.",
+        .description = "Oprime con los brazos o\\nlas pinzas. Cuantos más\\nPS le queden al rival,\\nmás potencia.\\n",
     },
 
     [MOVE_DRAGON_CHEER] = {
         .names = {
-            .name = "Dragon Cheer",
-            .capsName = "DRAGON CHEER",
-            .fullName = "Dragon Cheer",
+            .name = "Bramido Dr.",
+            .capsName = "BRAMIDO DR.",
+            .fullName = "Bramido Dragón",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -24757,14 +24757,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "Allies’ morale is raised\\nwith a draconic cry,\\nboosting their critical\\nhit rate. This rouses\\nDragon types more.",
+        .description = "Bramido que sube la moral\\nde los aliados y sus\\nposibilidades de golpe\\ncrítico.\\n",
     },
 
     [MOVE_ALLURING_VOICE] = {
         .names = {
-            .name = "Alluring Voice",
-            .capsName = "ALLURING VOICE",
-            .fullName = "Alluring Voice",
+            .name = "Canto Enc.",
+            .capsName = "CANTO ENC.",
+            .fullName = "Canto Encantador",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -24784,14 +24784,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks using\\nits angelic voice. This\\nalso confuses the target\\nif its stats have been\\nboosted during the turn.",
+        .description = "Canto angelical que deja\\nconfuso al rival si sus\\ncaracterísticas han\\nsubido esa misma ronda.\\n",
     },
 
     [MOVE_TEMPER_FLARE] = {
         .names = {
-            .name = "Temper Flare",
-            .capsName = "TEMPER FLARE",
-            .fullName = "Temper Flare",
+            .name = "Cólera Ard.",
+            .capsName = "CÓLERA ARD.",
+            .fullName = "Cólera Ardiente",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -24811,14 +24811,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user desperately\\nattacks the target. This\\nmove’s power is doubled\\nif the user’s previous\\nmove failed.",
+        .description = "Arremete dejándose llevar\\npor la ira. Duplica su\\npotencia si el movimiento\\nfalló el turno anterior.\\n",
     },
 
     [MOVE_SUPERCELL_SLAM] = {
         .names = {
-            .name = "Supercell Slam",
-            .capsName = "SUPERCELL SLAM",
-            .fullName = "Supercell Slam",
+            .name = "Pl. Voltaica",
+            .capsName = "PL. VOLTAICA",
+            .fullName = "Plancha Voltaica",
         },
         .data = {
             .effect = MOVE_EFFECT_CRASH_ON_MISS,
@@ -24838,14 +24838,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user electrifies its\\nbody and drops onto the\\ntarget. If this move\\nmisses, the user takes\\ndamage instead.",
+        .description = "Se electrifica y salta en\\nplancha sobre el\\nobjetivo. Si falla, se\\nhiere.\\n",
     },
 
     [MOVE_PSYCHIC_NOISE] = {
         .names = {
-            .name = "Psychic Noise",
-            .capsName = "PSYCHIC NOISE",
-            .fullName = "Psychic Noise",
+            .name = "Psicorruido",
+            .capsName = "PSICORRUIDO",
+            .fullName = "Psicorruido",
         },
         .data = {
             .effect = MOVE_EFFECT_PREVENT_HEALING_HIT,
@@ -24865,14 +24865,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user attacks with\\nunpleasant sound waves.\\nFor two turns, the\\ntarget is prevented\\nfrom recovering HP.",
+        .description = "Onda sonora desagradable\\nque impide al rival curar\\nPS durante dos turnos.\\n",
     },
 
     [MOVE_UPPER_HAND] = {
         .names = {
-            .name = "Upper Hand",
-            .capsName = "UPPER HAND",
-            .fullName = "Upper Hand",
+            .name = "Palma Rauda",
+            .capsName = "PALMA RAUDA",
+            .fullName = "Palma Rauda",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -24892,14 +24892,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user strikes\\nreactively, making the\\ntarget flinch. This move\\nfails if the target is\\nnot readying a priority\\rmove.",
+        .description = "Se anticipa golpeando con\\nla palma y amedrenta.\\nFalla si el rival no usa\\nprioridad alta.\\n",
     },
 
     [MOVE_MALIGNANT_CHAIN] = {
         .names = {
-            .name = "Malignant Chain",
-            .capsName = "MALIGNANT CHAIN",
-            .fullName = "Malignant Chain",
+            .name = "Cadena Vir.",
+            .capsName = "CADENA VIR.",
+            .fullName = "Cadena Virulenta",
         },
         .data = {
             .effect = MOVE_EFFECT_BADLY_POISON_HIT,
@@ -24919,7 +24919,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = 0,
             .contestType = CONTEST_COOL,
         },
-        .description = "The user pours toxins\\ninto the target through\\na corrosive chain. This\\nmay also leave the\\ntarget badly poisoned.",
+        .description = "Cadena de ponzoña que\\ninocula toxinas al rival.\\nPuede envenenar\\ngravemente.\\n",
     },
 
     [NUM_OF_MOVES] = {

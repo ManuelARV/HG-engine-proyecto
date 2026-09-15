@@ -21,9 +21,9 @@ Al sig. nivel
 
 {STRVAR_1 55, 0, 0}
 ???
-MEMORIA ENTRENADOR
+Resumen
 Naturaleza {COLOR 2}Huraña{COLOR 0}.
-Naturaleza {COLOR 2}Sola{COLOR 0}.
+Naturaleza {COLOR 2}Solitaria{COLOR 0}.
 Naturaleza {COLOR 2}Audaz{COLOR 0}.
 Naturaleza {COLOR 2}Firme{COLOR 0}.
 Naturaleza {COLOR 2}Pícara{COLOR 0}.
@@ -47,8 +47,8 @@ Naturaleza {COLOR 2}Amable{COLOR 0}.
 Naturaleza {COLOR 2}Grosera{COLOR 0}.
 Naturaleza {COLOR 2}Cauta{COLOR 0}.
 Naturaleza {COLOR 2}Rara{COLOR 0}.
-{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nSe conoció a Nv. {STRVAR_1 52, 3, 0}.
-{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nAl parecer, se conoció\na Nv. {STRVAR_1 52, 3, 0}.
+{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nEncontrado al Nv. {STRVAR_1 52, 3, 0}.
+{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nAl parecer, se encontró\nal Nv. {STRVAR_1 52, 3, 0}.
 {STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nLlegó a Nv. {STRVAR_1 52, 3, 0}.
 {STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\n{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\nHuevo obtenido.\n{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nHuevo eclosionado.
 {STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\n{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\nHuevo obtenido.\n{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nHuevo eclosionado, al parecer.
@@ -107,7 +107,7 @@ Es algo tozudo.
 “Vigilancia del Huevo”\nParece moverse de\nvez en cuando. Puede\nque eclosione pronto.
 “Vigilancia del Huevo”\n¿Qué saldrá de aquí?\nNo parece que vaya\na eclosionar.
 “Vigilancia del Huevo”\nParece que este Huevo\ntardará mucho tiempo\nen eclosionar.
-HABILIDADES
+Habilidades
 PS
 Ataque
 Defensa
@@ -144,10 +144,10 @@ PP
 {STRVAR_1 51, 0, 0}
 {STRVAR_1 51, 0, 0}
 {STRVAR_1 51, 0, 0}
-{ALN_CENTER}Cancelar
+{ALN_CENTER}Volver
 POTENCIA
 PRECISIÓN
-CATEGORÍA
+CATEGOR.
 {STRVAR_1 52, 0, 0}
 {STRVAR_1 52, 0, 0}
 CAMBIAR

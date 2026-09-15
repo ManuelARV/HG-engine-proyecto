@@ -1,0 +1,176 @@
+VISTOS
+CAPTURADOS
+   
+ 
+   
+   
+   
+   
+INFO
+{STRVAR_1 52, 0, 0}
+ALT.
+PES.
+Modo búsqueda
+Introduce el criterio\nde búsqueda.
+Resultados
+RESULTADOS {STRVAR_1 52, 0, 0}
+Elige el modo de lista\nde la Pokédex.
+Ordenar por la primera\nletra del nombre.
+Ordenar por tipo.
+Ordenar por peso.
+Ordenar por altura.
+Ordenar por forma.
+Ordenar por zona.
+No se ha encontrado\nningún Pokémon.
+No encontrado...
+Buscando...
+ORDEN
+NOMBRE
+TIPO
+ALT.
+PES.
+ZONA
+FORMA
+    
+    
+REINICIAR
+INICIO
+CANCELAR
+{STRVAR_1 52, 0, 0}.{STRVAR_1 50, 1, 0}
+OK
+CANCELAR
+Numérico
+A a la Z
+Más pesado
+Más ligero
+Más alto
+Más bajo
+Siniestro
+Roca
+Psíquico
+Lucha
+Planta
+Hielo
+Fantasma
+Tierra
+Eléctrico
+Veneno
+Dragón
+Normal
+Acero
+Volador
+Fuego
+Agua
+Bicho
+----
+JOHTO
+KANTO
+DESCONOCIDA
+----
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+Macho
+Hembra
+Mar Oeste
+Mar Este
+Manto Planta
+Manto Arena
+Manto Basura
+Una forma
+Pokédex JP
+Pokédex IN
+Pokédex FR
+Pokédex AL
+Pokédex IT
+Pokédex ES
+Zona desconocida
+Mañana
+Día
+Noche
+CAMBIAR
+{STRVAR_1 4, 0, 0}
+VER TODOS
+VER TODOS
+Control altura
+Control peso
+1,4 m
+1,4 m
+40,0 kg
+41,0 kg
+ZONA
+TAMAÑO
+Registro de la Pokédex\ncompletado.
+Forma Normal
+Forma Ataque
+Forma Defensa
+Forma Velocidad
+Forma Tierra
+Forma Cielo
+Forma Modificada
+Forma Origen
+ROTOM
+ROTOM CALOR
+ROTOM LAVADO
+ROTOM FRÍO
+ROTOM VENT.
+ROTOM CORTE
+{STRVAR_1 0, 0, 0}
+Normal
+Forma Soleada
+Forma Lluviosa
+Forma Nevada
+Forma Nublada
+Forma Sol
+Orejas picudas
+{STRVAR_1 0, 0, 0}
+COMPARAR
+Comparar {STRVAR_1 0, 0, 0}
+FORMAS
+CAMBIAR
+CANCELAR
+CANCELAR
+VOLVER A LA LISTA
+{STRVAR_1 51, 0, 0}’{STRVAR_1 51, 1, 0}”

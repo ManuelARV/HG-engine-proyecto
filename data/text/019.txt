@@ -1,0 +1,101 @@
+¿Qué récord quieres ver? {YESNO 0}
+INDIVIDUAL
+DOBLE
+MÚLTIPLE
+CANCELAR
+   
+                             
+                      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+{STRVAR_1 0, 0, 0}
+   
+Torre Batalla
+Fábrica Batalla
+Castillo Batalla
+Sala Batalla
+Ruleta Batalla
+Récord individual
+Récord doble
+Récord múltiple
+ANT.
+ACTUAL
+     
+     
+     
+  
+     
+     
+  
+       
+VOLVER
+{STRVAR_1 50, 0, 0}
+/
+Ver récords\nElige un Pokémon. {YESNO 0}
+RÉCORD
+Múltiple c. Entrenador
+Múltiple con amigo
+Nivel 50
+Nivel libre
+Alquilado/Cambio
+Puntos Castillo
+Racha: {STRVAR_1 53, 0, 0}
+Récord de {STRVAR_1 0, 0, 0}
+{STRVAR_1 53, 0, 0}
+{STRVAR_1 53, 0, 0} PC
+Racha: {STRVAR_1 53, 0, 0}
+Superadas: {STRVAR_1 53, 0, 0}
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

@@ -11,9 +11,13 @@ def load_charmap(path):
 
     with open(path, encoding="utf-8") as f:
         for line in f:
-            line = line.strip()
+            # OJO: no usar strip() a secas. El formato de charmap.txt dice que
+            # los espacios iniciales se ignoran pero los finales no, y ademas
+            # strip() borraria valores que son espacios Unicode (p.ej. U+3000,
+            # que es el caracter del banco 775 y provocaba un falso error).
+            line = line.rstrip('\r\n').lstrip(' \t')
 
-            if not line or line.startswith('//'):
+            if not line.strip() or line.startswith('//'):
                 continue
 
             if '=' not in line:

@@ -963,8 +963,8 @@ Quedan: {STRVAR_1 51, 0, 0}
 {STRVAR_1 1, 0, 0}{COLOR 3}♂{COLOR 0}
 {STRVAR_1 1, 0, 0}{COLOR 4}♀{COLOR 0}
 {STRVAR_1 1, 0, 0}
-¡Encontraste un {STRVAR_1 1, 0, 0} salvaje!\r
-¡Un {STRVAR_1 1, 0, 0} salavaje apareció!\r (Unused)
+¡Un {STRVAR_1 1, 0, 0} salvaje apareció!\r
+¡Un {STRVAR_1 1, 0, 0} salvaje apareció!\r (Unused)
 ¡Han aparecido {STRVAR_1 1, 0, 0}\ny {STRVAR_1 1, 1, 0} salvajes!\r
 ¡Del árbol untado con Miel\napareció {STRVAR_1 1, 0, 0} salvaje!\r
 ¡{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}\nte desafía!\r
@@ -977,7 +977,7 @@ Quedan: {STRVAR_1 51, 0, 0}
 ¡{STRVAR_1 3, 0, 0} envía a {STRVAR_1 1, 1, 0}!\n¡{STRVAR_1 3, 2, 0} envía a {STRVAR_1 1, 3, 0}!
 ¡{STRVAR_1 3, 0, 0} envía a\n{STRVAR_1 1, 1, 0}!¡Adelante! {STRVAR_1 1, 2, 0}!
 ¡Adelante, {STRVAR_1 1, 0, 0}\ny {STRVAR_1 1, 1, 0}!
-¡Adelante! {STRVAR_1 1, 0, 0}!
+¡Adelante {STRVAR_1 1, 0, 0}!
 ¡Te toca a tí, {STRVAR_1 1, 0, 0}!
 ¡Tú puedes, {STRVAR_1 1, 0, 0}!
 ¡Tu rival es débil!\n¡Acaba con él, {STRVAR_1 1, 0, 0}!

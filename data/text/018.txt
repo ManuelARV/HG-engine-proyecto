@@ -1,0 +1,35 @@
+¿A qué instalación\nquieres desafiar? {YESNO 0}
+{STRVAR_1 3, 0, 0} se ha retirado.\r
+Elige el Pokémon con el que\nvas a participar.\r
+Has elegido una instalación o un\nnivel distinto a los de tu amigo.\fVuelve a elegir.\r
+Espera un momento.
+Tu racha de victorias no coincide\ncon la de tu amigo.\rTu desafío empezará\ndesde el principio.\r
+Tú y tu amigo habéis elegido\na {STRVAR_1 0, 0, 0}.\rPoneos de acuerdo y elegid\nPokémon diferentes.\r
+Tú y tu amigo habéis elegido\na {STRVAR_1 0, 0, 0} y a {STRVAR_1 0, 1, 0}.\rPoneos de acuerdo y elegid\nPokémon diferentes.\r
+                                                  
+Tú y tu amigo habéis elegido\na {STRVAR_1 0, 0, 0}.\rPoneos de acuerdo y elegid\nPokémon diferentes.\r
+Tú y tu amigo habéis elegido\na {STRVAR_1 0, 0, 0} y a {STRVAR_1 0, 1, 0}.\rPoneos de acuerdo y elegid\nPokémon diferentes.\r
+Tu amigo y tú debéis elegir el\nmismo tipo de Pokémon.\r
+                                                      
+                                                            
+¿Qué nivel quieres desafiar,\nel 50 o el nivel libre? {YESNO 0}
+Ya hay una racha de victorias\nde {STRVAR_1 0, 0, 0}.\r¿Quieres borrar ese récord y\nempezar un desafío nuevo\fcon {STRVAR_1 0, 1, 0}? {YESNO 0}
+SÍ
+NO
+Vuelve a hacer tu selección.\r
+Guardando...\nNo apagues la consola.
+¡Mucha suerte!
+¿Quieres volver a jugar\ncon {STRVAR_1 3, 0, 0}? {YESNO 0}
+  
+   
+Esperando la selección de\ntu amigo. Espera un momento.
+{STRVAR_1 3, 0, 0} se ha retirado.\r
+TORRE BATALLA
+FÁBRICA BATALLA
+CASTILLO BATALLA
+SALA BATALLA
+RULETA BATALLA
+CANCELAR
+NIVEL 50
+NIVEL LIBRE
+Tu amigo y tú habéis elegido\ndesafíos distintos.\r¡Apaga la consola, elige otros\nPokémon y vuelve a entrar!
