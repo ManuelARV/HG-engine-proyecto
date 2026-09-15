@@ -1,1279 +1,1279 @@
-
-{STRVAR_1 1, 0, 0} ganó\n{STRVAR_1 54, 1, 0} puntos de EXP.\r
-{STRVAR_1 1, 0, 0} ganó\n{STRVAR_1 54, 1, 0} puntos de EXP. extra.\r
-{STRVAR_1 1, 0, 0} subió al\nnivel {STRVAR_1 52, 1, 0}.{WAIT 5}{WAIT 2}\r
-¡{STRVAR_1 1, 0, 0} aprendió\n{STRVAR_1 6, 1, 0}!{WAIT 5}{WAIT 2}\r
-{STRVAR_1 1, 0, 0} quiere aprender\nel movimiento {STRVAR_1 6, 1, 0}.\r
+        
+¡{STRVAR_1 1, 0, 0} ganó {STRVAR_1 54, 1, 0} Puntos de\nExperiencia!\r
+¡{STRVAR_1 1, 0, 0} ganó {STRVAR_1 54, 1, 0} Puntos de\nExperiencia adicionales!\r
+¡{STRVAR_1 1, 0, 0} subió\nal nivel {STRVAR_1 52, 1, 0}!{WAIT 0}{WAIT 0}\r
+¡{STRVAR_1 1, 0, 0} aprendió\n{STRVAR_1 6, 1, 0}!{WAIT 0}{WAIT 0}\r
+¡{STRVAR_1 1, 0, 0} intenta aprender\n{STRVAR_1 6, 1, 0}!\r
 Pero {STRVAR_1 1, 0, 0} no puede aprender\nmás de cuatro movimientos.\r
-¿Quieres olvidar otro movimiento y\nsustituirlo por {STRVAR_1 6, 1, 0}?\r
-{STRVAR_1 1, 0, 0} olvidó el movimiento\n{STRVAR_1 6, 2, 0}.\r
-¿Dejar de aprender el movimiento\n{STRVAR_1 6, 1, 0}?\r
-{STRVAR_1 1, 0, 0} no aprendió\n{STRVAR_1 6, 1, 0}.\r
-¿Usar el siguiente Pokémon?{YESNO 0}
-¡El ataque de {STRVAR_1 1, 0, 0}\nfalló!
-¡El ataque del {STRVAR_1 1, 0, 0}\nsalvaje falló!
-¡El ataque del {STRVAR_1 1, 0, 0}\nrival falló!
-¡{STRVAR_1 1, 0, 0}\nse protegió!
-¡El {STRVAR_1 1, 0, 0} salvaje\nse protegió!
-¡El {STRVAR_1 1, 0, 0} rival\nse protegió!
-¡{STRVAR_1 1, 0, 0} evitó el daño\nusando {STRVAR_1 5, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} salvaje evitó\nel daño usando {STRVAR_1 5, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} rival evitó\nel daño usando {STRVAR_1 5, 1, 0}!
-¡{STRVAR_1 1, 0, 0} hace que los movimientos de Tierra\nfallen usando {STRVAR_1 5, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} salvaje hace que los\nmovimientos de Tierra fallen usando {STRVAR_1 5, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} rival hace que los\nmovimientos de Tierra fallen usando {STRVAR_1 5, 1, 0}!
-¡{STRVAR_1 1, 0, 0} evitó\nel ataque!
+¿Quieres sustituir uno de esos\nmovimientos por {STRVAR_1 6, 1, 0}?\r
+¡{STRVAR_1 1, 0, 0} olvidó {STRVAR_1 6, 2, 0}!\r
+¿Deja de aprender {STRVAR_1 6, 1, 0}?\r
+¡{STRVAR_1 1, 0, 0} no aprendió\n{STRVAR_1 6, 1, 0}!\r
+¿Quieres usar otro Pokémon?{YESNO 0}
+¡El ataque de {STRVAR_1 1, 0, 0} falló!
+¡El ataque del {STRVAR_1 1, 0, 0} salvaje\nfalló!
+¡El ataque del {STRVAR_1 1, 0, 0} enemigo\nfalló!
+¡{STRVAR_1 1, 0, 0} se ha protegido!
+¡El {STRVAR_1 1, 0, 0} salvaje\nse ha protegido!
+¡El {STRVAR_1 1, 0, 0} enemigo\nse ha protegido!
+¡{STRVAR_1 1, 0, 0} se protegió\ncon {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje se protegió\ncon {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo se protegió\ncon {STRVAR_1 5, 1, 0}!
+¡{STRVAR_1 1, 0, 0} impide ataques de Tierra\ncon {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje impide\ncon {STRVAR_1 5, 1, 0} ataques de Tierra!
+¡El {STRVAR_1 1, 0, 0} enemigo impide\ncon {STRVAR_1 5, 1, 0} ataques de Tierra!
+¡{STRVAR_1 1, 0, 0} evitó el ataque!
 ¡El {STRVAR_1 1, 0, 0} salvaje evitó\nel ataque!
-¡El {STRVAR_1 1, 0, 0} rival evitó\nel ataque!
-No afecta a\n{STRVAR_1 1, 0, 0}...
-No afecta al {STRVAR_1 1, 0, 0}\nsalvaje...
-No afecta al {STRVAR_1 1, 0, 0}\nrival...
+¡El {STRVAR_1 1, 0, 0} enemigo evitó\nel ataque!
+¡No afecta a {STRVAR_1 1, 0, 0}!
+No afecta al {STRVAR_1 1, 0, 0} salvaje...
+No afecta al {STRVAR_1 1, 0, 0} enemigo...
 ¡{STRVAR_1 1, 0, 0} se debilitó!\r
 ¡El {STRVAR_1 1, 0, 0} salvaje se debilitó!\r
-¡El {STRVAR_1 1, 0, 0} rival se debilitó!\r
-¡Ganaste ${STRVAR_1 54, 1, 0}\npor vencer!\r
-Te asustaste y soltaste ${STRVAR_1 54, 1, 0}...\r
-Diste ${STRVAR_1 54, 1, 0}\nal ganador...\r
-¡No te quedan Pokémon\nque puedan luchar!\r
-¡La derrota te superó!\r
+¡El {STRVAR_1 1, 0, 0} enemigo se debilitó!\r
+¡{STRVAR_1 3, 0, 0} ganó {STRVAR_1 54, 1, 0} $\npor vencer!\r
+¡{STRVAR_1 3, 0, 0} se dejó con las prisas\n{STRVAR_1 54, 1, 0} $!\r
+¡{STRVAR_1 3, 0, 0} pagó {STRVAR_1 54, 1, 0} $\npor perder el combate!\r
+¡A {STRVAR_1 3, 0, 0} no le\nquedan Pokémon!\r
+¡{STRVAR_1 3, 0, 0} está fuera de combate!\r
 ... ... ... ...\r
-¡{STRVAR_1 1, 0, 0} impide\nescapar con {STRVAR_1 5, 1, 0}!\r
-¡El {STRVAR_1 1, 0, 0} salvaje impide\nescapar con {STRVAR_1 5, 1, 0}!\r
-¡El {STRVAR_1 1, 0, 0} rival impide\nescapar con {STRVAR_1 5, 1, 0}!\r
-¡No pudiste escapar!\r
+¡{STRVAR_1 1, 0, 0} impide\nla huida con {STRVAR_1 5, 1, 0}!\r
+¡El {STRVAR_1 1, 0, 0} salvaje impide\nla huida con {STRVAR_1 5, 1, 0}!\r
+¡El {STRVAR_1 1, 0, 0} enemigo impide\nla huida con {STRVAR_1 5, 1, 0}!\r
+¡No puedes escapar!\r
 ¡{STRVAR_1 1, 0, 0} no puede escapar!\r
-¡El {STRVAR_1 1, 0, 0} salvaje no puede escapar!\r
-¡El {STRVAR_1 1, 0, 0} rival no puede escapar!\r
-¡El Pokémon recibió\n{STRVAR_1 50, 0, 0} golpe(s)!
-¡{STRVAR_1 1, 0, 0}\nse durmió!
-¡El {STRVAR_1 1, 0, 0} salvaje\nse durmió!
-¡El {STRVAR_1 1, 0, 0} rival\nse durmió!
-¡El {STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0} hizo\nque {STRVAR_1 1, 2, 0} se durmiera!
-¡El {STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0} salvaje\n hizo que {STRVAR_1 1, 2, 0} se durmiera!
-¡El {STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0} hizo\nque el {STRVAR_1 1, 2, 0} rival se durmiera!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0}\npara dormir a {STRVAR_1 1, 2, 0}!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0}\npara dormir al {STRVAR_1 1, 2, 0}\fsalvaje!
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0}\npara dormir a {STRVAR_1 1, 2, 0}!
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0}\npara dormir al {STRVAR_1 1, 2, 0}\frival!
-{STRVAR_1 1, 0, 0} ya\nestá dormido.
-El {STRVAR_1 1, 0, 0} salvaje ya\nestá dormido.
-El {STRVAR_1 1, 0, 0} rival ya\nestá dormido.
-{STRVAR_1 1, 0, 0}\nno se vio afectado.
-El {STRVAR_1 1, 0, 0} salvaje\nno se vio afectado.
-El {STRVAR_1 1, 0, 0} rival\nno se vio afectado.
-{STRVAR_1 1, 0, 0}\nfue envenenado.
-El {STRVAR_1 1, 0, 0} salvaje\nfue envenenado.
-El {STRVAR_1 1, 0, 0} rival\nfue envenenado.
-¡El {STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nenvenenó a {STRVAR_1 1, 2, 0}!
-{STRVAR_1 1, 0, 0} envenenó con su {STRVAR_1 5, 1, 0}\nal {STRVAR_1 1, 2, 0} salvaje!
-{STRVAR_1 1, 0, 0} envenenó con su {STRVAR_1 5, 1, 0}\nal {STRVAR_1 1, 2, 0} rival!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0}\npara envenenar\fa {STRVAR_1 1, 2, 0}!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0}\npara envenenar\fal {STRVAR_1 1, 2, 0} salvaje!
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0}\npara envenenar\fa {STRVAR_1 1, 2, 0}!
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0}\npara envenenar\fal {STRVAR_1 1, 2, 0} rival!
-{STRVAR_1 1, 0, 0} sufrió daño\npor el envenenamiento.
-El {STRVAR_1 1, 0, 0} salvaje sufrió daño\npor el envenenamiento.
-El {STRVAR_1 1, 0, 0} rival sufrió daño\npor el envenenamiento.
-{STRVAR_1 1, 0, 0} ya está\nenvenenado.
-El {STRVAR_1 1, 0, 0} salvaje ya está\nenvenenado.
-El {STRVAR_1 1, 0, 0} rival\nya está envenenado.
-¡{STRVAR_1 1, 0, 0} se envenenó\ngravemente!
-¡El {STRVAR_1 1, 0, 0} salvaje se envenenó\ngravemente!
-¡El {STRVAR_1 1, 0, 0} rival se envenenó\ngravemente!
-¡A {STRVAR_1 1, 0, 0} le drenaron\nla energía!
-¡Al {STRVAR_1 1, 0, 0} salvaje le drenaron\nla energía!
-¡Al {STRVAR_1 1, 0, 0} rival le drenaron\nla energía!
-¡{STRVAR_1 1, 0, 0} se quemó!
-¡El {STRVAR_1 1, 0, 0} salvaje\nse quemó!
-¡El {STRVAR_1 1, 0, 0} rival\nse quemó!
-¡La habilidad {STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nquemó a {STRVAR_1 1, 2, 0}!
-¡La habilidad {STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nquemó al {STRVAR_1 1, 2, 0} salvaje!
-¡La habilidad {STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nquemó al {STRVAR_1 1, 2, 0} rival!
-¡La habilidad {STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0} salvaje\nquemó a {STRVAR_1 1, 2, 0}!
-¡La habilidad {STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0} salvaje\nquemó al {STRVAR_1 1, 2, 0}\fsalvaje!
-¡La habilidad {STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0} rival\nquemó a {STRVAR_1 1, 2, 0}!
-¡La habilidad {STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0} rival\nquemó al {STRVAR_1 1, 2, 0}\frival!
-¡{STRVAR_1 1, 0, 0} sufre daño\npor la quemadura!
-¡El {STRVAR_1 1, 0, 0} salvaje sufre daño\npor la quemadura!
-¡El {STRVAR_1 1, 0, 0} rival sufre daño\npor la quemadura!
+¡El {STRVAR_1 1, 0, 0} salvaje\nno puede escapar!\r
+¡El {STRVAR_1 1, 0, 0} enemigo\nno puede escapar!\r
+N.º de golpes: {STRVAR_1 50, 0, 0}.
+¡{STRVAR_1 1, 0, 0} se durmió!
+¡El {STRVAR_1 1, 0, 0} salvaje se durmió!
+¡El {STRVAR_1 1, 0, 0} enemigo se durmió!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\ndurmió a {STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\ndurmió al {STRVAR_1 1, 2, 0} salvaje!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\ndurmió al {STRVAR_1 1, 2, 0} enemigo!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje durmió a {STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje durmió al {STRVAR_1 1, 2, 0} salvaje!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo durmió a {STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo durmió al {STRVAR_1 1, 2, 0} enemigo!
+¡{STRVAR_1 1, 0, 0} ya está dormido!
+¡El {STRVAR_1 1, 0, 0} salvaje\nya está dormido!
+¡El {STRVAR_1 1, 0, 0} enemigo\nya está dormido!
+¡{STRVAR_1 1, 0, 0} no se vio afectado!
+¡El {STRVAR_1 1, 0, 0} salvaje no\nse vio afectado!
+¡El {STRVAR_1 1, 0, 0} enemigo\nno se vio afectado!
+¡{STRVAR_1 1, 0, 0} fue envenenado!
+¡El {STRVAR_1 1, 0, 0} salvaje\nfue envenenado!
+¡El {STRVAR_1 1, 0, 0} enemigo\nfue envenenado!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nenvenenó a {STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nenvenenó al {STRVAR_1 1, 2, 0} salvaje!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nenvenenó al {STRVAR_1 1, 2, 0} enemigo!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje envenenó a {STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje envenenó al\f{STRVAR_1 1, 2, 0} salvaje!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo envenenó a {STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo envenenó al\f{STRVAR_1 1, 2, 0} enemigo!
+¡El veneno resta PS a {STRVAR_1 1, 0, 0}!
+¡El veneno resta PS al {STRVAR_1 1, 0, 0}\nsalvaje!
+¡El veneno resta PS al {STRVAR_1 1, 0, 0}\nenemigo!
+¡{STRVAR_1 1, 0, 0} ya está envenenado!
+¡El {STRVAR_1 1, 0, 0} salvaje ya está\nenvenenado!
+¡El {STRVAR_1 1, 0, 0} enemigo ya está\nenvenenado!
+¡{STRVAR_1 1, 0, 0} fue gravemente\nenvenenado!
+¡El {STRVAR_1 1, 0, 0} salvaje\nfue gravemente envenenado!
+¡El {STRVAR_1 1, 0, 0} enemigo\nfue gravemente envenenado!
+¡{STRVAR_1 1, 0, 0} ha perdido energía!
+¡El {STRVAR_1 1, 0, 0} salvaje\nha perdido energía!
+¡El {STRVAR_1 1, 0, 0} enemigo\nha perdido energía!
+¡{STRVAR_1 1, 0, 0} se ha quemado!
+¡El {STRVAR_1 1, 0, 0} salvaje se ha quemado!
+¡El {STRVAR_1 1, 0, 0} enemigo se ha quemado!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0} quemó\na {STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0} quemó\nal {STRVAR_1 1, 2, 0} salvaje!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0} quemó\nal {STRVAR_1 1, 2, 0} enemigo!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje quemó a {STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje quemó al {STRVAR_1 1, 2, 0} salvaje!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo quemó a {STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo quemó al {STRVAR_1 1, 2, 0} enemigo!
+¡{STRVAR_1 1, 0, 0} se resiente\nde la quemadura!
+¡El {STRVAR_1 1, 0, 0} salvaje\nse resiente de la quemadura!
+¡El {STRVAR_1 1, 0, 0} enemigo\nse resiente de la quemadura!
 ¡{STRVAR_1 1, 0, 0} ya está quemado!
 ¡El {STRVAR_1 1, 0, 0} salvaje\nya está quemado!
-¡El {STRVAR_1 1, 0, 0} rival\nya está quemado!
-¡{STRVAR_1 1, 0, 0} se quedó\ncongelado!
-¡El {STRVAR_1 1, 0, 0} salvaje se quedó\ncongelado!
-¡El {STRVAR_1 1, 0, 0} rival se quedó\ncongelado!
+¡El {STRVAR_1 1, 0, 0} enemigo\nya está quemado!
+¡{STRVAR_1 1, 0, 0} fue congelado!
+¡El {STRVAR_1 1, 0, 0} salvaje fue congelado!
+¡El {STRVAR_1 1, 0, 0} enemigo fue congelado!
 ¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\ncongeló a {STRVAR_1 1, 2, 0}!
-{STRVAR_1 1, 0, 0} congeló con su {STRVAR_1 5, 1, 0}\nal {STRVAR_1 1, 2, 0} salvaje!
-{STRVAR_1 1, 0, 0} congeló con su {STRVAR_1 5, 1, 0}\nal {STRVAR_1 1, 2, 0} rival!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0}\npara congelar a {STRVAR_1 1, 2, 0}\fpor completo!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0}\npara congelar al {STRVAR_1 1, 2, 0}\fsalvaje por completo!
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0}\npara congelar a {STRVAR_1 1, 2, 0}\fpor completo!
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0}\npara congelar al {STRVAR_1 1, 2, 0}\frival por completo!
-{STRVAR_1 1, 0, 0} está\ncongelado.
-El {STRVAR_1 1, 0, 0} salvaje está\ncongelado.
-El {STRVAR_1 1, 0, 0} rival está\ncongelado.
-¡{STRVAR_1 1, 0, 0} se descongeló!
-¡El {STRVAR_1 1, 0, 0} salvaje se descongeló!
-¡El {STRVAR_1 1, 0, 0} rival se descongeló!
-{STRVAR_1 1, 0, 0} usó {STRVAR_1 6, 1, 0}\npara derretir el hielo.
-El {STRVAR_1 1, 0, 0} salvaje usó {STRVAR_1 6, 1, 0}\npara derretir el hielo.
-¡El movimiento {STRVAR_1 6, 1, 0} del {STRVAR_1 1, 0, 0} rival\nderretió el hielo!
-¡{STRVAR_1 1, 0, 0} está paralizado,\npor lo que quizá no pueda moverse!
-¡El {STRVAR_1 1, 0, 0} salvaje está paralizado,\npor lo que quizá no pueda moverse!
-¡El {STRVAR_1 1, 0, 0} rival está paralizado,\npor lo que quizá no pueda moverse!
-¡La habilidad {STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nparalizó a {STRVAR_1 1, 2, 0};\f¡quizá no pueda moverse!
-¡La habilidad {STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nparalizó al {STRVAR_1 1, 2, 0} salvaje;\f¡quizá no pueda moverse!
-¡La habilidad {STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nparalizó al {STRVAR_1 1, 2, 0} rival;\f¡quizá no pueda moverse!
-¡La habilidad {STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0} salvaje\nparalizó a {STRVAR_1 1, 2, 0};\f¡quizá no pueda moverse!
-¡La habilidad {STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0} salvaje\nparalizó al {STRVAR_1 1, 2, 0}\fsalvaje;\f¡quizá no pueda moverse!
-¡La habilidad {STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0} rival\nparalizó a {STRVAR_1 1, 2, 0};\f¡quizá no pueda moverse!
-¡La habilidad {STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0} rival\nparalizó al {STRVAR_1 1, 2, 0}\frival;\f¡quizá no pueda moverse!
-¡{STRVAR_1 1, 0, 0} no pudo moverse\nporque está paralizado!
-¡El {STRVAR_1 1, 0, 0} salvaje no pudo moverse\nporque está paralizado!
-¡El {STRVAR_1 1, 0, 0} rival no pudo moverse\nporque está paralizado!
-¡{STRVAR_1 1, 0, 0} ya está\nparalizado!
-¡El {STRVAR_1 1, 0, 0} salvaje ya está\nparalizado!
-¡El {STRVAR_1 1, 0, 0} rival ya está\nparalizado!
-¡{STRVAR_1 1, 0, 0} se curó\nde la parálisis!
-¡El {STRVAR_1 1, 0, 0} salvaje se curó\nde la parálisis!
-¡El {STRVAR_1 1, 0, 0} rival se curó\nde la parálisis!
-¡Se comieron el sueño de\n{STRVAR_1 1, 0, 0}!
-¡Se comieron el sueño del {STRVAR_1 1, 0, 0}\nsalvaje!
-¡Se comieron el sueño del {STRVAR_1 1, 0, 0}\nrival!
-{STRVAR_1 1, 0, 0} comprueba que su {STRVAR_1 13, 1, 0}\nno puede subir más.
-El {STRVAR_1 1, 0, 0} salvaje comprueba que su {STRVAR_1 13, 1, 0}\nno puede subir más.
-El {STRVAR_1 1, 0, 0} rival comprueba que su {STRVAR_1 13, 1, 0}\nno puede subir más.
-{STRVAR_1 1, 0, 0} comprueba que su {STRVAR_1 13, 1, 0}\nno puede bajar más.
-El {STRVAR_1 1, 0, 0} salvaje comprueba que su {STRVAR_1 13, 1, 0}\nno puede bajar más.
-El {STRVAR_1 1, 0, 0} rival comprueba que su {STRVAR_1 13, 1, 0}\nno puede bajar más.
-(Unused)
-(Unused)
-¡{STRVAR_1 1, 0, 0} está\nconfuso!
-¡El {STRVAR_1 1, 0, 0} salvaje está\nconfuso!
-¡El {STRVAR_1 1, 0, 0} rival está\nconfuso!
-{STRVAR_1 1, 0, 0} se recuperó\nde la confusión.
-El {STRVAR_1 1, 0, 0} salvaje se recuperó\nde la confusión.
-El {STRVAR_1 1, 0, 0} rival se recuperó\nde la confusión.
-¡{STRVAR_1 1, 0, 0} se quedó\nconfuso!
-¡El {STRVAR_1 1, 0, 0} salvaje se quedó\nconfuso!
-¡El {STRVAR_1 1, 0, 0} rival se quedó\nconfuso!
-{STRVAR_1 1, 0, 0} ya\nestá confuso.
-El {STRVAR_1 1, 0, 0} salvaje ya\nestá confuso.
-El {STRVAR_1 1, 0, 0} rival ya\nestá confuso.
-¡{STRVAR_1 1, 0, 0}\nse enamoró!
-¡El {STRVAR_1 1, 0, 0} salvaje\nse enamoró!
-¡El {STRVAR_1 1, 0, 0} rival\nse enamoró!
-{STRVAR_1 1, 0, 0} está enamorado\nde {STRVAR_1 1, 1, 0}.
-{STRVAR_1 1, 0, 0} está enamorado\ndel {STRVAR_1 1, 1, 0} salvaje.
-{STRVAR_1 1, 0, 0} está enamorado\ndel {STRVAR_1 1, 1, 0} rival.
-El {STRVAR_1 1, 0, 0} salvaje está enamorado\nde {STRVAR_1 1, 1, 0}.
-El {STRVAR_1 1, 0, 0} salvaje está enamorado\ndel {STRVAR_1 1, 1, 0} salvaje.
-El {STRVAR_1 1, 0, 0} rival está enamorado\nde {STRVAR_1 1, 1, 0}.
-El {STRVAR_1 1, 0, 0} rival está enamorado\ndel {STRVAR_1 1, 1, 0} rival.
-¡{STRVAR_1 1, 0, 0} está\nparalizado por amor!
-¡El {STRVAR_1 1, 0, 0} salvaje está\nparalizado por amor!
-¡El {STRVAR_1 1, 0, 0} rival está\nparalizado por amor!
-¡{STRVAR_1 1, 0, 0} salió volando!
-¡El {STRVAR_1 1, 0, 0} salvaje salió volando!
-¡El {STRVAR_1 1, 0, 0} rival salió volando!
-¡{STRVAR_1 1, 0, 0} se convirtió\nen tipo {STRVAR_1 15, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} salvaje se convirtió\nen tipo {STRVAR_1 15, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} rival se convirtió\nen tipo {STRVAR_1 15, 1, 0}!
-¡{STRVAR_1 1, 0, 0} retrocedió\ny no pudo moverse!
-¡El {STRVAR_1 1, 0, 0} salvaje retrocedió\ny no pudo moverse!
-¡El {STRVAR_1 1, 0, 0} rival retrocedió\ny no pudo moverse!
-¡Los PS de {STRVAR_1 1, 0, 0}\nse recuperaron!
-¡Los PS del {STRVAR_1 1, 0, 0} salvaje\nse recuperaron!
-¡Los PS del {STRVAR_1 1, 0, 0} rival\nse recuperaron!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\ncongeló al {STRVAR_1 1, 2, 0} salvaje!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\ncongeló al {STRVAR_1 1, 2, 0} enemigo!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje congeló a {STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje congeló al\f{STRVAR_1 1, 2, 0} salvaje!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo congeló a {STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo congeló al\f{STRVAR_1 1, 2, 0} enemigo!
+¡{STRVAR_1 1, 0, 0} está congelado!
+¡El {STRVAR_1 1, 0, 0} salvaje\nestá congelado!
+¡El {STRVAR_1 1, 0, 0} enemigo\nestá congelado!
+¡{STRVAR_1 1, 0, 0} ya no está congelado!
+¡El {STRVAR_1 1, 0, 0} salvaje ya\nno está congelado!
+¡El {STRVAR_1 1, 0, 0} enemigo ya\nno está congelado!
+¡{STRVAR_1 6, 1, 0} descongeló\na {STRVAR_1 1, 0, 0}!
+¡{STRVAR_1 6, 1, 0} descongeló\nal {STRVAR_1 1, 0, 0} salvaje!
+¡{STRVAR_1 6, 1, 0} descongeló\nal {STRVAR_1 1, 0, 0} enemigo!
+¡{STRVAR_1 1, 0, 0} sufre parálisis!\n¡Quizás no se pueda mover!
+¡El {STRVAR_1 1, 0, 0} salvaje sufre\nparálisis! ¡Quizás no se pueda mover!
+¡El {STRVAR_1 1, 0, 0} enemigo sufre\nparálisis! ¡Quizás no se pueda mover!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nparalizó a {STRVAR_1 1, 2, 0}!\f¡Quizás no se pueda mover!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nparalizó al {STRVAR_1 1, 2, 0} salvaje!\f¡Quizás no se pueda mover!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nparalizó al {STRVAR_1 1, 2, 0} enemigo!\f¡Quizás no se pueda mover!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje paralizó a {STRVAR_1 1, 2, 0}!\f¡Quizás no se pueda mover!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje paralizó al {STRVAR_1 1, 2, 0}\fsalvaje! ¡Quizás no se pueda mover!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo paralizó a {STRVAR_1 1, 2, 0}!\f¡Quizás no se pueda mover!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo paralizó al {STRVAR_1 1, 2, 0}\fenemigo! ¡Quizás no se pueda mover!
+¡{STRVAR_1 1, 0, 0} está paralizado!\n¡No se puede mover!
+¡El {STRVAR_1 1, 0, 0} salvaje está\nparalizado! ¡No se puede mover!
+¡El {STRVAR_1 1, 0, 0} enemigo está\nparalizado! ¡No se puede mover!
+¡{STRVAR_1 1, 0, 0} ya está paralizado!
+¡El {STRVAR_1 1, 0, 0} salvaje\nya está paralizado!
+¡El {STRVAR_1 1, 0, 0} enemigo\nya está paralizado!
+¡{STRVAR_1 1, 0, 0} ya no está paralizado!
+¡El {STRVAR_1 1, 0, 0} salvaje ya\nno está paralizado!
+¡El {STRVAR_1 1, 0, 0} enemigo ya\nno está paralizado!
+¡Se comió el sueño de {STRVAR_1 1, 0, 0}!
+¡Se comió el sueño\ndel {STRVAR_1 1, 0, 0} salvaje!
+¡Se comió el sueño\ndel {STRVAR_1 1, 0, 0} enemigo!
+¡{STRVAR_1 13, 1, 0} de {STRVAR_1 1, 0, 0}\nno puede subir más!
+¡{STRVAR_1 13, 1, 0} del {STRVAR_1 1, 0, 0} salvaje\nno puede subir más!
+¡{STRVAR_1 13, 1, 0} del {STRVAR_1 1, 0, 0} enemigo\nno puede subir más!
+¡{STRVAR_1 13, 1, 0} de {STRVAR_1 1, 0, 0}\nno puede bajar más!
+¡{STRVAR_1 13, 1, 0} del {STRVAR_1 1, 0, 0} salvaje\nno puede bajar más!
+¡{STRVAR_1 13, 1, 0} del {STRVAR_1 1, 0, 0} enemigo\nno puede bajar más!
+¡{STRVAR_1 6, 0, 0} no funciona\nen tu equipo!
+¡{STRVAR_1 6, 0, 0} no funciona\nen el equipo rival!
+¡{STRVAR_1 1, 0, 0} está confuso!
+¡El {STRVAR_1 1, 0, 0} salvaje está confuso!
+¡El {STRVAR_1 1, 0, 0} enemigo está confuso!
+¡{STRVAR_1 1, 0, 0} ya no está confuso!
+¡El {STRVAR_1 1, 0, 0} salvaje ya\nno está confuso!
+¡El {STRVAR_1 1, 0, 0} enemigo ya\nno está confuso!
+¡{STRVAR_1 1, 0, 0} se encuentra confuso!
+¡El {STRVAR_1 1, 0, 0} salvaje\nse encuentra confuso!
+¡El {STRVAR_1 1, 0, 0} enemigo\nse encuentra confuso!
+¡{STRVAR_1 1, 0, 0} ya está confuso!
+¡El {STRVAR_1 1, 0, 0} salvaje\nya está confuso!
+¡El {STRVAR_1 1, 0, 0} enemigo ya\nestá confuso!
+¡{STRVAR_1 1, 0, 0} se ha enamorado!
+¡El {STRVAR_1 1, 0, 0} salvaje\nse ha enamorado!
+¡El {STRVAR_1 1, 0, 0} enemigo\nse ha enamorado!
+¡{STRVAR_1 1, 0, 0} se ha enamorado\nde {STRVAR_1 1, 1, 0}!
+¡{STRVAR_1 1, 0, 0} se ha enamorado\ndel {STRVAR_1 1, 1, 0} salvaje!
+¡{STRVAR_1 1, 0, 0} se ha enamorado\ndel {STRVAR_1 1, 1, 0} enemigo!
+¡El {STRVAR_1 1, 0, 0} salvaje se ha\nenamorado de {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje se\nenamoró del {STRVAR_1 1, 1, 0} salvaje!
+¡El {STRVAR_1 1, 0, 0} enemigo se ha\nenamorado de {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo se enamoró\ndel {STRVAR_1 1, 1, 0} enemigo!
+¡El amor impide que\n{STRVAR_1 1, 0, 0} ataque!
+¡El amor impide que\nel {STRVAR_1 1, 0, 0} salvaje ataque!
+¡El amor impide que\nel {STRVAR_1 1, 0, 0} enemigo ataque!
+¡{STRVAR_1 1, 0, 0} fue arrastrado!
+¡El {STRVAR_1 1, 0, 0} salvaje\nfue arrastrado!
+¡El {STRVAR_1 1, 0, 0} enemigo\nfue arrastrado!
+¡{STRVAR_1 1, 0, 0} ha cambiado\nal tipo {STRVAR_1 15, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje\nha cambiado al tipo {STRVAR_1 15, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo\nha cambiado al tipo {STRVAR_1 15, 1, 0}!
+¡{STRVAR_1 1, 0, 0} retrocedió!
+¡El {STRVAR_1 1, 0, 0} salvaje retrocedió!
+¡El {STRVAR_1 1, 0, 0} enemigo retrocedió!
+¡{STRVAR_1 1, 0, 0} recuperó salud!
+¡El {STRVAR_1 1, 0, 0} salvaje\nrecuperó salud!
+¡El {STRVAR_1 1, 0, 0} enemigo\nrecuperó salud!
 ¡Los PS de {STRVAR_1 1, 0, 0}\nestán al máximo!
 ¡Los PS del {STRVAR_1 1, 0, 0} salvaje\nestán al máximo!
-¡Los PS del {STRVAR_1 1, 0, 0} rival\nestán al máximo!
-Pantalla Luz protege a tu equipo\nde los movimientos especiales!
-Pantalla Luz protege al equipo rival\nde los movimientos especiales!
-Pantalla Luz protege a tu equipo\nde los movimientos especiales!
-Pantalla Luz protege al equipo rival\nde los movimientos especiales!
-Reflejo protege a tu equipo\nde los movimientos físicos!
-Reflejo protege al equipo rival\nde los movimientos físicos!
-Reflejo protege a tu equipo\nde los movimientos físicos!
-Reflejo protege al equipo rival\nde los movimientos físicos!
-¡Tu equipo quedó cubierto\npor un velo misterioso!
-¡El equipo rival quedó cubierto\npor un velo misterioso!
-{STRVAR_1 1, 0, 0} está\nprotegido por Velo Sagrado.
-El {STRVAR_1 1, 0, 0} salvaje está\nprotegido por Velo Sagrado.
-El {STRVAR_1 1, 0, 0} rival está\nprotegido por Velo Sagrado.
-¡Tu equipo ya no está protegido\npor el velo misterioso!
-¡El equipo rival ya no está protegido\npor el velo misterioso!
-{STRVAR_1 1, 0, 0} se\nquedó dormido.
-El {STRVAR_1 1, 0, 0} salvaje se\nquedó dormido.
-El {STRVAR_1 1, 0, 0} rival se\nquedó dormido.
-{STRVAR_1 1, 0, 0} durmió y\nrecuperó PS.
-El {STRVAR_1 1, 0, 0} salvaje durmió y\nrecuperó PS.
-El {STRVAR_1 1, 0, 0} rival durmió y\nrecuperó PS.
-{STRVAR_1 1, 0, 0} levantó\nun torbellino!
-El {STRVAR_1 1, 0, 0} salvaje levantó\nun torbellino!
-El {STRVAR_1 1, 0, 0} rival levantó\nun torbellino!
-{STRVAR_1 1, 0, 0} absorbió\nla luz!
-El {STRVAR_1 1, 0, 0} salvaje absorbió\nla luz!
-El {STRVAR_1 1, 0, 0} rival absorbió\nla luz!
-{STRVAR_1 1, 0, 0} escondió\nla cabeza.
-El {STRVAR_1 1, 0, 0} salvaje escondió\nla cabeza.
-El {STRVAR_1 1, 0, 0} rival escondió\nla cabeza.
-¡{STRVAR_1 1, 0, 0} quedó cubierto\npor una luz intensa!
-¡El {STRVAR_1 1, 0, 0} salvaje quedó cubierto\npor una luz intensa!
-¡El {STRVAR_1 1, 0, 0} rival quedó cubierto\npor una luz intensa!
-¡{STRVAR_1 1, 0, 0} voló\nhacia lo alto!
-¡El {STRVAR_1 1, 0, 0} salvaje voló\nhacia lo alto!
-¡El {STRVAR_1 1, 0, 0} rival voló\nhacia lo alto!
-{STRVAR_1 1, 0, 0} excavó\nbajo tierra.
-El {STRVAR_1 1, 0, 0} salvaje excavó\nbajo tierra.
-El {STRVAR_1 1, 0, 0} rival excavó\nbajo tierra.
-¡{STRVAR_1 1, 0, 0} se escondió\nbajo el agua!
-¡El {STRVAR_1 1, 0, 0} salvaje se escondió\nbajo el agua!
-¡El {STRVAR_1 1, 0, 0} rival se escondió\nbajo el agua!
-¡{STRVAR_1 1, 0, 0} salió disparado!
-¡El {STRVAR_1 1, 0, 0} salvaje salió disparado!
-¡El {STRVAR_1 1, 0, 0} rival salió disparado!
-{STRVAR_1 1, 0, 0} fue aplastado\npor {STRVAR_1 1, 1, 0}.
-{STRVAR_1 1, 0, 0} fue aplastado\npor el {STRVAR_1 1, 1, 0} salvaje.
-{STRVAR_1 1, 0, 0} fue aplastado\npor el {STRVAR_1 1, 1, 0} rival.
-El {STRVAR_1 1, 0, 0} salvaje fue aplastado\npor {STRVAR_1 1, 1, 0}.
-El {STRVAR_1 1, 0, 0} salvaje fue aplastado\npor el {STRVAR_1 1, 1, 0} salvaje.
-El {STRVAR_1 1, 0, 0} rival fue aplastado\npor {STRVAR_1 1, 1, 0}.
-El {STRVAR_1 1, 0, 0} rival fue aplastado\npor el {STRVAR_1 1, 1, 0} rival.
-¡{STRVAR_1 1, 0, 0} quedó atrapado\nen el torbellino!
-¡El {STRVAR_1 1, 0, 0} salvaje quedó atrapado\nen el torbellino!
-¡El {STRVAR_1 1, 0, 0} rival quedó atrapado\nen el torbellino!
-¡{STRVAR_1 1, 0, 0} quedó atrapado\nen las arenas movedizas!
-¡El {STRVAR_1 1, 0, 0} salvaje quedó atrapado\nen las arenas movedizas!
-¡El {STRVAR_1 1, 0, 0} rival quedó atrapado\nen las arenas movedizas!
-¡{STRVAR_1 1, 1, 0} envolvió\na {STRVAR_1 1, 0, 0}!
-¡El {STRVAR_1 1, 1, 0} salvaje\nenvolvió a {STRVAR_1 1, 0, 0}!
-¡El {STRVAR_1 1, 1, 0} rival\nenvolvió a {STRVAR_1 1, 0, 0}!
-El {STRVAR_1 1, 0, 0} salvaje fue envuelto\npor {STRVAR_1 1, 1, 0}.
-El {STRVAR_1 1, 0, 0} salvaje fue envuelto\npor el {STRVAR_1 1, 1, 0} salvaje.
-El {STRVAR_1 1, 0, 0} rival fue envuelto\npor {STRVAR_1 1, 1, 0}.
-El {STRVAR_1 1, 0, 0} rival fue envuelto\npor el {STRVAR_1 1, 1, 0} rival.
-{STRVAR_1 1, 1, 0} atrapó\ncon fuerza a {STRVAR_1 1, 0, 0}!
-El {STRVAR_1 1, 1, 0} salvaje atrapó\ncon fuerza a {STRVAR_1 1, 0, 0}!
-El {STRVAR_1 1, 1, 0} rival atrapó\ncon fuerza a {STRVAR_1 1, 0, 0}!
-{STRVAR_1 1, 1, 0} atrapó\ncon fuerza al {STRVAR_1 1, 0, 0} salvaje!
-El {STRVAR_1 1, 1, 0} salvaje atrapó\ncon fuerza al {STRVAR_1 1, 0, 0} salvaje!
-{STRVAR_1 1, 1, 0} atrapó\ncon fuerza al {STRVAR_1 1, 0, 0} rival!
-El {STRVAR_1 1, 1, 0} rival atrapó\ncon fuerza al {STRVAR_1 1, 0, 0} rival!
-{STRVAR_1 1, 0, 0} sufre daño\npor {STRVAR_1 6, 1, 0}.
-El {STRVAR_1 1, 0, 0} salvaje sufre daño\npor {STRVAR_1 6, 1, 0}.
-El {STRVAR_1 1, 0, 0} rival sufre daño\npor {STRVAR_1 6, 1, 0}.
-{STRVAR_1 1, 0, 0} se liberó\nde {STRVAR_1 6, 1, 0}.
-El {STRVAR_1 1, 0, 0} salvaje se liberó\nde {STRVAR_1 6, 1, 0}.
-El {STRVAR_1 1, 0, 0} rival se liberó\nde {STRVAR_1 6, 1, 0}.
-¡{STRVAR_1 1, 0, 0} siguió adelante\ny se estrelló!
-¡El {STRVAR_1 1, 0, 0} salvaje siguió adelante\ny se estrelló!
-¡El {STRVAR_1 1, 0, 0} rival siguió adelante\ny se estrelló!
-¡Tu equipo quedó\ncubierto por niebla!
-¡El equipo rival quedó\ncubierto por niebla!
-{STRVAR_1 1, 0, 0} está protegido\npor la niebla.
-El {STRVAR_1 1, 0, 0} salvaje está protegido\npor la niebla.
-El {STRVAR_1 1, 0, 0} rival está protegido\npor la niebla.
-¡{STRVAR_1 1, 0, 0} se está\nanimando!
-¡El {STRVAR_1 1, 0, 0} salvaje se está\nanimando!
-¡El {STRVAR_1 1, 0, 0} rival se está\nanimando!
-¡{STRVAR_1 1, 0, 0} sufrió daño\npor el retroceso!
-¡El {STRVAR_1 1, 0, 0} salvaje sufrió daño\npor el retroceso!
-¡El {STRVAR_1 1, 0, 0} rival sufrió daño\npor el retroceso!
-{STRVAR_1 1, 0, 0} se\nprotegió!
-El {STRVAR_1 1, 0, 0} salvaje se\nprotegió!
-El {STRVAR_1 1, 0, 0} rival se\nprotegió!
-{STRVAR_1 1, 1, 0} sufre el azote\nde {STRVAR_1 6, 0, 0}.
-El {STRVAR_1 1, 1, 0} salvaje sufre el azote\nde {STRVAR_1 6, 0, 0}.
-El {STRVAR_1 1, 1, 0} rival sufre el azote\nde {STRVAR_1 6, 0, 0}.
-¡El efecto de {STRVAR_1 6, 0, 0}\nen tu lado terminó!
-¡El efecto de {STRVAR_1 6, 0, 0}\nen el lado rival terminó!
-¡{STRVAR_1 1, 0, 0} fue sembrado!
-El {STRVAR_1 1, 0, 0} salvaje\nfue sembrado.
-El {STRVAR_1 1, 0, 0} rival\nfue sembrado.
-¡{STRVAR_1 1, 0, 0} esquivó\nel ataque!
-¡El {STRVAR_1 1, 0, 0} salvaje esquivó\nel ataque!
-¡El {STRVAR_1 1, 0, 0} rival esquivó\nel ataque!
-{STRVAR_1 1, 0, 0} sufre cómo Drenadoras\nle absorbe la salud.
-El {STRVAR_1 1, 0, 0} salvaje sufre cómo Drenadoras\nle absorbe la salud.
-El {STRVAR_1 1, 0, 0} rival sufre cómo Drenadoras\nle absorbe la salud.
-{STRVAR_1 1, 0, 0} está profundamente\ndormido.
-El {STRVAR_1 1, 0, 0} salvaje está profundamente\ndormido.
-El {STRVAR_1 1, 0, 0} rival está profundamente\ndormido.
+¡Los PS del {STRVAR_1 1, 0, 0} enemigo\nestán al máximo!
+¡{STRVAR_1 6, 0, 0} subió la Defensa\nEspecial de tu equipo!
+¡{STRVAR_1 6, 0, 0} del enemigo subió\nla Defensa Especial de su equipo!
+¡{STRVAR_1 6, 0, 0} subió un poco la\nDefensa Especial de tu equipo!
+¡{STRVAR_1 6, 0, 0} del enemigo subió un\npoco la Defensa Especial de su equipo!
+¡{STRVAR_1 6, 0, 0} subió la Defensa\nde tu equipo!
+¡{STRVAR_1 6, 0, 0} del enemigo subió\nla Defensa de su equipo!
+¡{STRVAR_1 6, 0, 0} subió un poco\nla Defensa de tu equipo!
+¡{STRVAR_1 6, 0, 0} del enemigo subió\nun poco la Defensa de su equipo!
+¡Tu equipo se protegió\ncon Velo Sagrado!
+¡El equipo enemigo se protegió\ncon Velo Sagrado!
+¡{STRVAR_1 1, 0, 0} está protegido\npor Velo Sagrado!
+¡El {STRVAR_1 1, 0, 0} salvaje está\nprotegido por Velo Sagrado!
+¡El {STRVAR_1 1, 0, 0} enemigo está\nprotegido por Velo Sagrado!
+¡Velo Sagrado de tu equipo\ndejó de hacer efecto!
+¡Velo Sagrado del equipo\nenemigo dejó de hacer efecto!
+¡{STRVAR_1 1, 0, 0} se fue a dormir!
+¡El {STRVAR_1 1, 0, 0} salvaje\nse fue a dormir!
+¡El {STRVAR_1 1, 0, 0} enemigo\nse fue a dormir!
+¡{STRVAR_1 1, 0, 0} recuperó\nsalud durmiendo!
+¡El {STRVAR_1 1, 0, 0} salvaje recuperó\nsalud durmiendo!
+¡El {STRVAR_1 1, 0, 0} enemigo recuperó\nsalud durmiendo!
+¡{STRVAR_1 1, 0, 0} provocó un remolino!
+¡El {STRVAR_1 1, 0, 0} salvaje provocó\nun remolino!
+¡El {STRVAR_1 1, 0, 0} enemigo provocó\nun remolino!
+¡{STRVAR_1 1, 0, 0} absorbió luz solar!
+¡El {STRVAR_1 1, 0, 0} salvaje absorbió\nluz solar!
+¡El {STRVAR_1 1, 0, 0} enemigo absorbió\nluz solar!
+¡{STRVAR_1 1, 0, 0} agachó la cabeza!
+¡El {STRVAR_1 1, 0, 0} salvaje agachó\nla cabeza!
+¡El {STRVAR_1 1, 0, 0} enemigo agachó\nla cabeza!
+¡{STRVAR_1 1, 0, 0} está rodeado\nde una luz brillante!
+¡El {STRVAR_1 1, 0, 0} salvaje está\nrodeado de una luz brillante!
+¡El {STRVAR_1 1, 0, 0} enemigo está\nrodeado de una luz brillante!
+¡{STRVAR_1 1, 0, 0} voló muy alto!
+¡El {STRVAR_1 1, 0, 0} salvaje voló muy alto!
+¡El {STRVAR_1 1, 0, 0} enemigo voló muy alto!
+¡{STRVAR_1 1, 0, 0} se ocultó en un agujero!
+¡El {STRVAR_1 1, 0, 0} salvaje se ocultó\nen un agujero!
+¡El {STRVAR_1 1, 0, 0} enemigo se ocultó\nen un agujero!
+¡{STRVAR_1 1, 0, 0} se ocultó bajo el agua!
+¡El {STRVAR_1 1, 0, 0} salvaje se ocultó\nbajo el agua!
+¡El {STRVAR_1 1, 0, 0} enemigo se ocultó\nbajo el agua!
+¡{STRVAR_1 1, 0, 0} dio un salto tremendo!
+¡El {STRVAR_1 1, 0, 0} salvaje dio un salto\ntremendo!
+¡El {STRVAR_1 1, 0, 0} enemigo dio un salto\ntremendo!
+¡Atadura de {STRVAR_1 1, 1, 0} oprime a\n{STRVAR_1 1, 0, 0}!
+¡Atadura del {STRVAR_1 1, 1, 0} salvaje\noprime a {STRVAR_1 1, 0, 0}!
+¡Atadura del {STRVAR_1 1, 1, 0} enemigo\noprime a {STRVAR_1 1, 0, 0}!
+¡Atadura de {STRVAR_1 1, 1, 0} oprime\nal {STRVAR_1 1, 0, 0} salvaje!
+¡Atadura del {STRVAR_1 1, 1, 0} salvaje\noprime al {STRVAR_1 1, 0, 0} salvaje!
+¡Atadura de {STRVAR_1 1, 1, 0}\noprime al {STRVAR_1 1, 0, 0} enemigo!
+¡Atadura del {STRVAR_1 1, 1, 0} enemigo\noprime al {STRVAR_1 1, 0, 0} enemigo!
+¡{STRVAR_1 1, 0, 0} fue atrapado\nen el torbellino!
+¡El {STRVAR_1 1, 0, 0} salvaje fue\natrapado en el torbellino!
+¡El {STRVAR_1 1, 0, 0} enemigo fue\natrapado en el torbellino!
+¡Bucle Arena atrapó a {STRVAR_1 1, 0, 0}!
+¡Bucle Arena atrapó al {STRVAR_1 1, 0, 0}\nsalvaje!
+¡Bucle Arena atrapó al {STRVAR_1 1, 0, 0}\nenemigo!
+¡{STRVAR_1 1, 0, 0} fue atrapado por\nRepetición de {STRVAR_1 1, 1, 0}!
+¡Repetición del {STRVAR_1 1, 1, 0}\nsalvaje atrapó a {STRVAR_1 1, 0, 0}!
+¡Repetición del {STRVAR_1 1, 1, 0}\nenemigo atrapó a {STRVAR_1 1, 0, 0}!
+¡Repetición de {STRVAR_1 1, 1, 0} atrapó\nal {STRVAR_1 1, 0, 0} salvaje!
+¡Repetición del {STRVAR_1 1, 1, 0} salvaje\natrapó al {STRVAR_1 1, 0, 0} salvaje!
+¡Repetición de {STRVAR_1 1, 1, 0} atrapó\nal {STRVAR_1 1, 0, 0} enemigo!
+¡Repetición del {STRVAR_1 1, 1, 0} enemigo\natrapó al {STRVAR_1 1, 0, 0} enemigo!
+¡{STRVAR_1 1, 1, 0} atenazó a {STRVAR_1 1, 0, 0}!
+¡El {STRVAR_1 1, 1, 0} salvaje\natenazó a {STRVAR_1 1, 0, 0}!
+¡El {STRVAR_1 1, 1, 0} enemigo\natenazó a {STRVAR_1 1, 0, 0}!
+¡{STRVAR_1 1, 1, 0} atenazó\nal {STRVAR_1 1, 0, 0} salvaje!
+¡El {STRVAR_1 1, 1, 0} salvaje atenazó\nal {STRVAR_1 1, 0, 0} salvaje!
+¡{STRVAR_1 1, 1, 0} atenazó\nal {STRVAR_1 1, 0, 0} enemigo!
+¡El {STRVAR_1 1, 1, 0} enemigo atenazó\nal {STRVAR_1 1, 0, 0} enemigo!
+¡{STRVAR_1 6, 1, 0} ha herido\na {STRVAR_1 1, 0, 0}!
+¡{STRVAR_1 6, 1, 0} ha herido\nal {STRVAR_1 1, 0, 0} salvaje!
+¡{STRVAR_1 6, 1, 0} ha herido\nal {STRVAR_1 1, 0, 0} enemigo!
+¡{STRVAR_1 1, 0, 0} se liberó\nde {STRVAR_1 6, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje se liberó\nde {STRVAR_1 6, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo se liberó\nde {STRVAR_1 6, 1, 0}!
+¡{STRVAR_1 1, 0, 0} falló y se cayó!
+¡El {STRVAR_1 1, 0, 0} salvaje falló y\nse cayó!
+¡El {STRVAR_1 1, 0, 0} enemigo falló\ny se cayó!
+¡Neblina ha cubierto a tu equipo!
+¡Neblina ha cubierto al equipo enemigo!
+¡{STRVAR_1 1, 0, 0} se ha protegido\ncon Neblina!
+¡El {STRVAR_1 1, 0, 0} salvaje\nse ha protegido con Neblina!
+¡El {STRVAR_1 1, 0, 0} enemigo\nse ha protegido con Neblina!
+¡{STRVAR_1 1, 0, 0} se está preparando\npara luchar!
+¡El {STRVAR_1 1, 0, 0} salvaje se está\npreparando para luchar!
+¡El {STRVAR_1 1, 0, 0} enemigo se está\npreparando para luchar!
+¡{STRVAR_1 1, 0, 0} también\nse ha hecho daño!
+¡El {STRVAR_1 1, 0, 0} salvaje también\nse ha hecho daño!
+¡El {STRVAR_1 1, 0, 0} enemigo también\nse ha hecho daño!
+¡{STRVAR_1 1, 0, 0} se está protegiendo!
+¡El {STRVAR_1 1, 0, 0} salvaje\nse está protegiendo!
+¡El {STRVAR_1 1, 0, 0} enemigo\nse está protegiendo!
+¡{STRVAR_1 6, 0, 0} zarandea\na {STRVAR_1 1, 1, 0}!
+¡{STRVAR_1 6, 0, 0} zarandea\nal {STRVAR_1 1, 1, 0} salvaje!
+¡{STRVAR_1 6, 0, 0} zarandea\nal {STRVAR_1 1, 1, 0} enemigo!
+¡{STRVAR_1 6, 0, 0} no funciona\nen tu equipo!
+¡{STRVAR_1 6, 0, 0} no funciona\nen el equipo rival!
+¡{STRVAR_1 1, 0, 0} fue infectado!
+¡El {STRVAR_1 1, 0, 0} salvaje fue infectado!
+¡El {STRVAR_1 1, 0, 0} enemigo fue infectado!
+¡{STRVAR_1 1, 0, 0} esquivó el ataque!
+¡El {STRVAR_1 1, 0, 0} salvaje\nesquivó el ataque!
+¡El {STRVAR_1 1, 0, 0} enemigo\nesquivó el ataque!
+¡El movimiento Drenadoras restó\nsalud a {STRVAR_1 1, 0, 0}!
+¡El movimiento Drenadoras restó\nsalud al {STRVAR_1 1, 0, 0} salvaje!
+¡El movimiento Drenadoras restó\nsalud al {STRVAR_1 1, 0, 0} enemigo!
+{STRVAR_1 1, 0, 0} está dormido\ncomo un tronco.
+El {STRVAR_1 1, 0, 0} salvaje está\ndormido como un tronco.
+El {STRVAR_1 1, 0, 0} enemigo está\ndormido como un tronco.
 ¡{STRVAR_1 1, 0, 0} se despertó!
-¡El {STRVAR_1 1, 0, 0} salvaje\nse despertó!
-¡El {STRVAR_1 1, 0, 0} rival\nse despertó!
-¡El estruendo despertó a\n{STRVAR_1 1, 0, 0}!
-¡El estruendo despertó al {STRVAR_1 1, 0, 0}\nsalvaje!
-¡El estruendo despertó al {STRVAR_1 1, 0, 0}\nrival!
-¡{STRVAR_1 1, 0, 0} provocó\nun estruendo!
-¡El {STRVAR_1 1, 0, 0} salvaje provocó\nun estruendo!
-¡El {STRVAR_1 1, 0, 0} rival provocó\nun estruendo!
-{STRVAR_1 1, 0, 0} está armando\nun estruendo.
-El {STRVAR_1 1, 0, 0} salvaje está armando\nun estruendo.
-El {STRVAR_1 1, 0, 0} rival está armando\nun estruendo.
-{STRVAR_1 1, 0, 0}\nse calmó.
-El {STRVAR_1 1, 0, 0} salvaje\nse calmó.
-El {STRVAR_1 1, 0, 0} rival\nse calmó.
-¡{STRVAR_1 1, 0, 0} acumuló {STRVAR_1 50, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} salvaje acumuló {STRVAR_1 50, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} rival acumuló {STRVAR_1 50, 1, 0}!
-{STRVAR_1 1, 0, 0} no puede\nacumular más.
-El {STRVAR_1 1, 0, 0} salvaje no puede\nacumular más.
-El {STRVAR_1 1, 0, 0} rival no puede\nacumular más.
-Pero {STRVAR_1 1, 0, 0} no puede\ndormirse con el estruendo.
-Pero el {STRVAR_1 1, 0, 0} salvaje no puede\ndormirse con el estruendo.
-Pero el {STRVAR_1 1, 0, 0} rival no puede\ndormirse con el estruendo.
-¡Pero el estruendo mantuvo despierto a\n{STRVAR_1 1, 0, 0}!
-¡Pero el estruendo mantuvo despierto al\n{STRVAR_1 1, 0, 0} salvaje!
-¡Pero el estruendo mantuvo despierto al\n{STRVAR_1 1, 0, 0} rival!
-{STRVAR_1 1, 0, 0} siguió despierto\ngracias a su {STRVAR_1 5, 1, 0}.
-El {STRVAR_1 1, 0, 0} salvaje siguió despierto\ngracias a su {STRVAR_1 5, 1, 0}.
-El {STRVAR_1 1, 0, 0} rival siguió despierto\ngracias a su {STRVAR_1 5, 1, 0}.
-¡{STRVAR_1 1, 0, 0} está acumulando\nenergía!
-¡El {STRVAR_1 1, 0, 0} salvaje está acumulando\nenergía!
-¡El {STRVAR_1 1, 0, 0} rival está acumulando\nenergía!
-¡{STRVAR_1 1, 0, 0} liberó\nla energía!
-¡El {STRVAR_1 1, 0, 0} salvaje liberó\nla energía!
-¡El {STRVAR_1 1, 0, 0} rival liberó\nla energía!
-{STRVAR_1 1, 0, 0} se confundió\npor el cansancio!
-El {STRVAR_1 1, 0, 0} salvaje se confundió\npor el cansancio!
-El {STRVAR_1 1, 0, 0} rival se confundió\npor el cansancio!
-¡Recogiste\n${STRVAR_1 54, 1, 0}!\r
-{STRVAR_1 1, 0, 0} no\nse ve afectado.
-El {STRVAR_1 1, 0, 0} salvaje no\nse ve afectado.
-El {STRVAR_1 1, 0, 0} rival no\nse ve afectado.
+¡El {STRVAR_1 1, 0, 0} salvaje se despertó!
+¡El {STRVAR_1 1, 0, 0} enemigo se despertó!
+¡Alboroto despertó a {STRVAR_1 1, 0, 0}!
+¡Alboroto despertó\nal {STRVAR_1 1, 0, 0} salvaje!
+¡Alboroto despertó\nal {STRVAR_1 1, 0, 0} enemigo!
+¡{STRVAR_1 1, 0, 0} montó un Alboroto!
+¡El {STRVAR_1 1, 0, 0} salvaje\nmontó un Alboroto!
+¡El {STRVAR_1 1, 0, 0} enemigo\nmontó un Alboroto!
+¡{STRVAR_1 1, 0, 0} está montando\nun Alboroto!
+¡El {STRVAR_1 1, 0, 0} salvaje\nestá montando un Alboroto!
+¡El {STRVAR_1 1, 0, 0} enemigo está\nmontando un Alboroto!
+{STRVAR_1 1, 0, 0} se tranquilizó.
+El {STRVAR_1 1, 0, 0} salvaje se tranquilizó.
+El {STRVAR_1 1, 0, 0} enemigo se tranquilizó.
+¡{STRVAR_1 1, 0, 0} reservó {STRVAR_1 50, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje reservó {STRVAR_1 50, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo reservó {STRVAR_1 50, 1, 0}!
+¡{STRVAR_1 1, 0, 0} no puede reservar más!
+¡El {STRVAR_1 1, 0, 0} salvaje\nno puede reservar más!
+¡El {STRVAR_1 1, 0, 0} enemigo\nno puede reservar más!
+¡Pero {STRVAR_1 1, 0, 0} no puede dormir\ncon el Alboroto!
+¡Pero el {STRVAR_1 1, 0, 0} salvaje no puede\ndormir con el Alboroto!
+¡Pero el {STRVAR_1 1, 0, 0} enemigo no puede\ndormir con el Alboroto!
+¡Pero el Alboroto mantuvo despierto\na {STRVAR_1 1, 0, 0}!
+¡Pero el Alboroto mantuvo despierto\nal {STRVAR_1 1, 0, 0} salvaje!
+¡Pero el Alboroto mantuvo despierto\nal {STRVAR_1 1, 0, 0} enemigo!
+¡{STRVAR_1 1, 0, 0} se mantuvo\ndespierto con {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje se mantuvo\ndespierto con {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo se mantuvo\ndespierto con {STRVAR_1 5, 1, 0}!
+¡{STRVAR_1 1, 0, 0} está acumulando energía!
+¡El {STRVAR_1 1, 0, 0} salvaje está\nacumulando energía!
+¡El {STRVAR_1 1, 0, 0} enemigo está\nacumulando energía!
+¡{STRVAR_1 1, 0, 0} liberó energía!
+¡El {STRVAR_1 1, 0, 0} salvaje liberó energía!
+¡El {STRVAR_1 1, 0, 0} enemigo liberó energía!
+¡El cansancio terminó confundiendo\na {STRVAR_1 1, 0, 0}!
+¡El cansancio terminó confundiendo\nal {STRVAR_1 1, 0, 0} salvaje!
+¡El cansancio terminó confundiendo\nal {STRVAR_1 1, 0, 0} enemigo!
+¡{STRVAR_1 3, 0, 0} recogió {STRVAR_1 54, 1, 0} $!\r
+¡No afectó a {STRVAR_1 1, 0, 0}!
+¡No afectó al {STRVAR_1 1, 0, 0} salvaje!
+¡No afectó al {STRVAR_1 1, 0, 0} enemigo!
 ¡{STRVAR_1 1, 0, 0} se transformó\nen {STRVAR_1 0, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} salvaje se transformó\nen {STRVAR_1 0, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} rival se transformó\nen {STRVAR_1 0, 1, 0}!
-¡{STRVAR_1 1, 0, 0} creó\nun sustituto!
-¡El {STRVAR_1 1, 0, 0} salvaje creó\nun sustituto!
-¡El {STRVAR_1 1, 0, 0} rival creó\nun sustituto!
-{STRVAR_1 1, 0, 0} ya\ntiene un sustituto!
-El {STRVAR_1 1, 0, 0} salvaje ya\ntiene un sustituto!
-El {STRVAR_1 1, 0, 0} rival ya\ntiene un sustituto!
-¡El sustituto recibió el daño\nen lugar de {STRVAR_1 1, 0, 0}!\r
-¡El sustituto recibió el daño\nen lugar del {STRVAR_1 1, 0, 0} salvaje!\r
-¡El sustituto recibió el daño\nen lugar del {STRVAR_1 1, 0, 0} rival!\r
-{STRVAR_1 1, 0, 0} perdió\nsu sustituto.\r
-El {STRVAR_1 1, 0, 0} salvaje perdió\nsu sustituto.\r
-El {STRVAR_1 1, 0, 0} rival perdió\nsu sustituto.\r
-{STRVAR_1 1, 0, 0} debe\nrecargarse.
-El {STRVAR_1 1, 0, 0} salvaje debe\nrecargarse.
-El {STRVAR_1 1, 0, 0} rival debe\nrecargarse.
-{STRVAR_1 1, 0, 0} siente cómo crece\nsu furia.
-El {STRVAR_1 1, 0, 0} salvaje siente cómo crece\nsu furia.
-El {STRVAR_1 1, 0, 0} rival siente cómo crece\nsu furia.
-¡{STRVAR_1 6, 1, 0} de {STRVAR_1 1, 0, 0}’s \nfué deshabilitado!
-El {STRVAR_1 1, 0, 0} salvaje vio cómo\n{STRVAR_1 6, 1, 0} quedaba bloqueado.
-El {STRVAR_1 1, 0, 0} rival vio cómo\n{STRVAR_1 6, 1, 0} quedaba bloqueado.
-¡El movimiento de {STRVAR_1 1, 0, 0}\nya no está bloqueado!
-¡El movimiento del {STRVAR_1 1, 0, 0} salvaje\nya no está bloqueado!
-¡El movimiento del {STRVAR_1 1, 0, 0} rival\nya no está bloqueado!
-{STRVAR_1 1, 0, 0}\ndebe repetir el movimiento!
-El {STRVAR_1 1, 0, 0} salvaje\ndebe repetir el movimiento!
-El {STRVAR_1 1, 0, 0} rival\ndebe repetir el movimiento!
-¡El efecto de repetición de {STRVAR_1 1, 0, 0}\nterminó!
-¡El efecto de repetición del {STRVAR_1 1, 0, 0} salvaje\nterminó!
-¡El efecto de repetición del {STRVAR_1 1, 0, 0} rival\nterminó!
-{STRVAR_1 1, 0, 0} apuntó\na {STRVAR_1 1, 1, 0}!
-{STRVAR_1 1, 0, 0} apuntó\nal {STRVAR_1 1, 1, 0} salvaje!
-{STRVAR_1 1, 0, 0} apuntó\nal {STRVAR_1 1, 1, 0} rival!
-El {STRVAR_1 1, 0, 0} salvaje apuntó\na {STRVAR_1 1, 1, 0}!
-El {STRVAR_1 1, 0, 0} salvaje apuntó\nal {STRVAR_1 1, 1, 0} salvaje!
-El {STRVAR_1 1, 0, 0} rival apuntó\na {STRVAR_1 1, 1, 0}!
-El {STRVAR_1 1, 0, 0} rival apuntó\nal {STRVAR_1 1, 1, 0} rival!
-¡{STRVAR_1 1, 0, 0} copió\n{STRVAR_1 6, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} salvaje copió\n{STRVAR_1 6, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} rival copió\n{STRVAR_1 6, 1, 0}!
-{STRVAR_1 1, 0, 0} espera poder\nllevarse por delante a su atacante.
-El {STRVAR_1 1, 0, 0} salvaje espera poder\nllevarse por delante a su atacante.
-El {STRVAR_1 1, 0, 0} rival espera poder\nllevarse por delante a su atacante.
-{STRVAR_1 1, 0, 0} se llevó\npor delante a su atacante!
-{STRVAR_1 1, 0, 0} se llevó\npor delante a su atacante!
-{STRVAR_1 1, 0, 0} se llevó\npor delante a su atacante!
-El {STRVAR_1 1, 0, 0} salvaje se llevó\npor delante a su atacante!
-El {STRVAR_1 1, 0, 0} salvaje se llevó\npor delante a su atacante!
-El {STRVAR_1 1, 0, 0} rival se llevó\npor delante a su atacante!
-El {STRVAR_1 1, 0, 0} rival se llevó\npor delante a su atacante!
-¡{STRVAR_1 1, 0, 0} perdió\n{STRVAR_1 50, 2, 0} PP de {STRVAR_1 6, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} salvaje perdió\n{STRVAR_1 50, 2, 0} PP de {STRVAR_1 6, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} rival perdió\n{STRVAR_1 50, 2, 0} PP de {STRVAR_1 6, 1, 0}!
-{STRVAR_1 1, 0, 0} robó\nel {STRVAR_1 8, 2, 0} de {STRVAR_1 1, 1, 0}!
-{STRVAR_1 1, 0, 0} robó el\n{STRVAR_1 8, 2, 0} del {STRVAR_1 1, 1, 0} salvaje!
-{STRVAR_1 1, 0, 0} robó el\n{STRVAR_1 8, 2, 0} del rival {STRVAR_1 1, 1, 0}!
-El {STRVAR_1 1, 0, 0} salvaje robó\nel {STRVAR_1 8, 2, 0} de {STRVAR_1 1, 1, 0}!
-El {STRVAR_1 1, 0, 0} salvaje robó el\n{STRVAR_1 8, 2, 0} del {STRVAR_1 1, 1, 0} salvaje!
-El {STRVAR_1 1, 0, 0} rival robó\nel {STRVAR_1 8, 2, 0} de {STRVAR_1 1, 1, 0}!
-El {STRVAR_1 1, 0, 0} rival robó el\n{STRVAR_1 8, 2, 0} del {STRVAR_1 1, 1, 0} rival!
-¡{STRVAR_1 1, 0, 0} ya no puede\nescapar!
-¡El {STRVAR_1 1, 0, 0} salvaje ya no puede\nescapar!
-¡El {STRVAR_1 1, 0, 0} rival ya no puede\nescapar!
-¡{STRVAR_1 1, 0, 0} empezó a tener\n pesadillas!
-El {STRVAR_1 1, 0, 0} salvaje empezó\na tener una pesadilla!
-El {STRVAR_1 1, 0, 0} rival empezó\na tener una pesadilla!
-¡{STRVAR_1 1, 0, 0} está atrapado\nen una pesadilla!
-¡El {STRVAR_1 1, 0, 0} salvaje está atrapado\nen una pesadilla!
-¡El {STRVAR_1 1, 0, 0} rival está atrapado\nen una pesadilla!
-{STRVAR_1 1, 0, 0} recortó sus PS\ny maldijo a {STRVAR_1 1, 1, 0}!
-{STRVAR_1 1, 0, 0} recortó sus PS\ny maldijo al {STRVAR_1 1, 1, 0}\fsalvaje!
-{STRVAR_1 1, 0, 0} recortó sus PS\ny maldijo al {STRVAR_1 1, 1, 0}\frival!
-El {STRVAR_1 1, 0, 0} salvaje recortó sus PS\ny maldijo a {STRVAR_1 1, 1, 0}!
-El {STRVAR_1 1, 0, 0} salvaje recortó sus PS\ny maldijo al {STRVAR_1 1, 1, 0}\fsalvaje!
-El {STRVAR_1 1, 0, 0} rival recortó sus PS\ny maldijo a {STRVAR_1 1, 1, 0}!
-El {STRVAR_1 1, 0, 0} rival recortó sus PS\ny maldijo al {STRVAR_1 1, 1, 0}\frival!
-{STRVAR_1 1, 0, 0} sufre\nla maldición.
-El {STRVAR_1 1, 0, 0} salvaje sufre\nla maldición.
-El {STRVAR_1 1, 0, 0} rival sufre\nla maldición.
-¡Se esparcieron púas\npor todo el suelo\falrededor de tu lado!
-¡Se esparcieron púas\npor todo el suelo\falrededor del lado rival!
-¡{STRVAR_1 1, 0, 0} sufrió daño\npor las púas!
-¡El {STRVAR_1 1, 0, 0} salvaje sufrió daño\npor las púas!
-¡El {STRVAR_1 1, 0, 0} rival sufrió daño\npor las púas!
-{STRVAR_1 1, 1, 0} fue identificado.
-El {STRVAR_1 1, 1, 0} salvaje fue identificado.
-El {STRVAR_1 1, 1, 0} rival fue identificado.
-{STRVAR_1 1, 1, 0} fue identificado.
-El {STRVAR_1 1, 1, 0} salvaje fue identificado.
-{STRVAR_1 1, 1, 0} fue identificado.
-El {STRVAR_1 1, 1, 0} rival fue identificado.
-¡La cuenta atrás de {STRVAR_1 1, 0, 0}\nbajó a {STRVAR_1 50, 1, 0}!
-¡La cuenta atrás del {STRVAR_1 1, 0, 0} salvaje\nbajó a {STRVAR_1 50, 1, 0}!
-¡La cuenta atrás del {STRVAR_1 1, 0, 0} rival\nbajó a {STRVAR_1 50, 1, 0}!
-¡{STRVAR_1 1, 0, 0} se preparó\npara resistir!
-¡El {STRVAR_1 1, 0, 0} salvaje se preparó\npara resistir!
-¡El {STRVAR_1 1, 0, 0} rival se preparó\npara resistir!
-¡{STRVAR_1 1, 0, 0} aguantó\nel golpe!
-¡El {STRVAR_1 1, 0, 0} salvaje aguantó\nel golpe!
-¡El {STRVAR_1 1, 0, 0} rival aguantó\nel golpe!
+¡El {STRVAR_1 1, 0, 0} salvaje se\ntransformó en {STRVAR_1 0, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo se\ntransformó en {STRVAR_1 0, 1, 0}!
+¡{STRVAR_1 1, 0, 0} creó un Sustituto!
+¡El {STRVAR_1 1, 0, 0} salvaje creó\nun Sustituto!
+¡El {STRVAR_1 1, 0, 0} enemigo creó\nun Sustituto!
+¡{STRVAR_1 1, 0, 0} ya tiene un Sustituto!
+¡El {STRVAR_1 1, 0, 0} salvaje ya tiene\nun Sustituto!
+¡El {STRVAR_1 1, 0, 0} enemigo ya tiene\nun Sustituto!
+¡El Sustituto recibe el daño\nen lugar de {STRVAR_1 1, 0, 0}!\r
+¡El Sustituto recibe el daño\nen lugar del {STRVAR_1 1, 0, 0} salvaje!\r
+¡El Sustituto recibe el daño\nen lugar del {STRVAR_1 1, 0, 0} enemigo!\r
+¡El Sustituto de {STRVAR_1 1, 0, 0}\nse debilitó!\r
+¡El Sustituto del {STRVAR_1 1, 0, 0}\nsalvaje se debilitó!\r
+¡El Sustituto del {STRVAR_1 1, 0, 0} enemigo\nse debilitó!\r
+¡{STRVAR_1 1, 0, 0} necesita recuperarse\nde su ataque!
+¡El {STRVAR_1 1, 0, 0} salvaje necesita\nrecuperarse de su ataque!
+¡El {STRVAR_1 1, 0, 0} enemigo necesita\nrecuperarse de su ataque!
+¡La Furia de {STRVAR_1 1, 0, 0}\nestá aumentando!
+¡La Furia del {STRVAR_1 1, 0, 0} salvaje\nestá aumentando!
+¡La Furia del {STRVAR_1 1, 0, 0} enemigo\nestá aumentando!
+¡{STRVAR_1 6, 1, 0} de {STRVAR_1 1, 0, 0}\nfue desactivado con Anulación!
+¡{STRVAR_1 6, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje fue desactivado con Anulación!
+¡{STRVAR_1 6, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo fue desactivado con Anulación!
+¡{STRVAR_1 1, 0, 0} se ha liberado\nde Anulación!
+¡El {STRVAR_1 1, 0, 0} salvaje se ha liberado\nde Anulación!
+¡El {STRVAR_1 1, 0, 0} enemigo se ha liberado\nde Anulación!
+¡{STRVAR_1 1, 0, 0} sufrió los efectos\nde Otra Vez!
+¡El {STRVAR_1 1, 0, 0} salvaje sufrió\nlos efectos de Otra Vez!
+¡El {STRVAR_1 1, 0, 0} enemigo sufrió\nlos efectos de Otra Vez!
+¡Otra Vez ya no hace efecto\nen {STRVAR_1 1, 0, 0}!
+¡Otra Vez ya no hace efecto\nen el {STRVAR_1 1, 0, 0} salvaje!
+¡Otra Vez ya no hace efecto\nen el {STRVAR_1 1, 0, 0} enemigo!
+¡{STRVAR_1 1, 0, 0} apuntó a {STRVAR_1 1, 1, 0}!
+¡{STRVAR_1 1, 0, 0} apuntó\nal {STRVAR_1 1, 1, 0} salvaje!
+¡{STRVAR_1 1, 0, 0} apuntó\nal {STRVAR_1 1, 1, 0} enemigo!
+¡El {STRVAR_1 1, 0, 0} salvaje apuntó\na {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje apuntó\nal {STRVAR_1 1, 1, 0} salvaje!
+¡El {STRVAR_1 1, 0, 0} enemigo apuntó\na {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo apuntó\nal {STRVAR_1 1, 1, 0} enemigo!
+¡{STRVAR_1 1, 0, 0} usó Esquema\nen {STRVAR_1 6, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje usó Esquema\nen {STRVAR_1 6, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo usó Esquema\nen {STRVAR_1 6, 1, 0}!
+¡{STRVAR_1 1, 0, 0} intenta llevarse\na su rival!
+¡El {STRVAR_1 1, 0, 0} salvaje intenta\nllevarse a su rival!
+¡El {STRVAR_1 1, 0, 0} enemigo intenta\nllevarse a su rival!
+¡{STRVAR_1 1, 0, 0} se llevó a {STRVAR_1 1, 1, 0}!
+¡{STRVAR_1 1, 0, 0} se llevó\nal {STRVAR_1 1, 1, 0} salvaje!
+¡{STRVAR_1 1, 0, 0} se llevó\nal {STRVAR_1 1, 1, 0} enemigo!
+¡El {STRVAR_1 1, 0, 0} salvaje se llevó\na {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje se llevó\nal {STRVAR_1 1, 1, 0} salvaje!
+¡El {STRVAR_1 1, 0, 0} enemigo se llevó\na {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo se llevó\nal {STRVAR_1 1, 1, 0} enemigo!
+¡Redujo {STRVAR_1 50, 2, 0} PP del movimiento\n{STRVAR_1 6, 1, 0} de {STRVAR_1 1, 0, 0}!
+¡Redujo {STRVAR_1 50, 2, 0} PP del {STRVAR_1 6, 1, 0}\ndel {STRVAR_1 1, 0, 0} salvaje!
+¡Redujo {STRVAR_1 50, 2, 0} PP del {STRVAR_1 6, 1, 0}\ndel {STRVAR_1 1, 0, 0} enemigo!
+¡{STRVAR_1 1, 0, 0} robó\n{STRVAR_1 8, 2, 0} a {STRVAR_1 1, 1, 0}!
+¡{STRVAR_1 1, 0, 0} robó {STRVAR_1 8, 2, 0}\nal {STRVAR_1 1, 1, 0} salvaje!
+¡{STRVAR_1 1, 0, 0} robó {STRVAR_1 8, 2, 0}\nal {STRVAR_1 1, 1, 0} enemigo!
+¡El {STRVAR_1 1, 0, 0} salvaje robó\n{STRVAR_1 8, 2, 0} a {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje robó\n{STRVAR_1 8, 2, 0} al {STRVAR_1 1, 1, 0}\fsalvaje!
+¡El {STRVAR_1 1, 0, 0} enemigo robó\n{STRVAR_1 8, 2, 0} a {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo robó\n{STRVAR_1 8, 2, 0} al {STRVAR_1 1, 1, 0}\fenemigo!
+¡{STRVAR_1 1, 0, 0} no puede escapar!
+¡El {STRVAR_1 1, 0, 0} salvaje\nno puede escapar!
+¡El {STRVAR_1 1, 0, 0} enemigo\nno puede escapar!
+¡{STRVAR_1 1, 0, 0} ha caído\nen una Pesadilla!
+¡El {STRVAR_1 1, 0, 0} salvaje ha caído\nen una Pesadilla!
+¡El {STRVAR_1 1, 0, 0} enemigo ha caído\nen una Pesadilla!
+¡{STRVAR_1 1, 0, 0} está inmerso\nen una Pesadilla!
+¡El {STRVAR_1 1, 0, 0} salvaje está\ninmerso en una Pesadilla!
+¡El {STRVAR_1 1, 0, 0} enemigo está\ninmerso en una Pesadilla!
+¡{STRVAR_1 1, 0, 0} reduce sus PS\ny maldice a {STRVAR_1 1, 1, 0}!
+¡{STRVAR_1 1, 0, 0} reduce sus PS\ny maldice al {STRVAR_1 1, 1, 0} salvaje!
+¡{STRVAR_1 1, 0, 0} reduce sus PS\ny maldice al {STRVAR_1 1, 1, 0} enemigo!
+¡El {STRVAR_1 1, 0, 0} salvaje reduce sus PS\ny maldice a {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje reduce sus PS\ny maldice al {STRVAR_1 1, 1, 0} salvaje!
+¡El {STRVAR_1 1, 0, 0} enemigo reduce sus PS\ny maldice a {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo reduce sus PS\ny maldice al {STRVAR_1 1, 1, 0} enemigo!
+¡{STRVAR_1 1, 0, 0} es víctima\nde una Maldición!
+¡El {STRVAR_1 1, 0, 0} salvaje es víctima\nde una Maldición!
+¡El {STRVAR_1 1, 0, 0} enemigo es víctima\nde una Maldición!
+¡Tu equipo ha sido rodeado de Púas!
+¡El equipo enemigo ha sido\nrodeado de Púas!
+¡{STRVAR_1 1, 0, 0} ha sido herido por Púas!
+¡El {STRVAR_1 1, 0, 0} salvaje ha sido\nherido por Púas!
+¡El {STRVAR_1 1, 0, 0} enemigo ha sido\nherido por Púas!
+¡{STRVAR_1 1, 0, 0} identificó\na {STRVAR_1 1, 1, 0}!
+¡{STRVAR_1 1, 0, 0} identificó\nal {STRVAR_1 1, 1, 0} salvaje!
+¡{STRVAR_1 1, 0, 0} identificó\nal {STRVAR_1 1, 1, 0} enemigo!
+¡El {STRVAR_1 1, 0, 0} salvaje identificó\na {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje identificó\nal {STRVAR_1 1, 1, 0} salvaje!
+¡El {STRVAR_1 1, 0, 0} enemigo identificó\na {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo identificó\nal {STRVAR_1 1, 1, 0} enemigo!
+¡El contador de salud de {STRVAR_1 1, 0, 0}\nbajó a {STRVAR_1 50, 1, 0}!
+¡El contador de salud del {STRVAR_1 1, 0, 0}\nsalvaje bajó a {STRVAR_1 50, 1, 0}!
+¡El contador de salud del {STRVAR_1 1, 0, 0}\nenemigo bajó a {STRVAR_1 50, 1, 0}!
+¡{STRVAR_1 1, 0, 0} se ha fortalecido!
+¡El {STRVAR_1 1, 0, 0} salvaje\nse ha fortalecido!
+¡El {STRVAR_1 1, 0, 0} enemigo\nse ha fortalecido!
+¡{STRVAR_1 1, 0, 0} aguantó el golpe!
+¡El {STRVAR_1 1, 0, 0} salvaje\naguantó el golpe!
+¡El {STRVAR_1 1, 0, 0} enemigo\naguantó el golpe!
 ¡Magnitud {STRVAR_1 50, 0, 0}!
-{STRVAR_1 1, 0, 0} recortó sus PS\ny maximizó su Ataque.
-El {STRVAR_1 1, 0, 0} salvaje recortó sus PS\ny maximizó su Ataque.
-El {STRVAR_1 1, 0, 0} rival recortó sus PS\ny maximizó su Ataque.
-{STRVAR_1 1, 0, 0} copió\nlos cambios de estadísticas de {STRVAR_1 1, 1, 0}!
-{STRVAR_1 1, 0, 0} copió los cambios\ndel {STRVAR_1 1, 1, 0} salvaje.
-{STRVAR_1 1, 0, 0} copió los cambios\ndel {STRVAR_1 1, 1, 0} rival.
-El {STRVAR_1 1, 0, 0} salvaje copió\nlos cambios de estadísticas de {STRVAR_1 1, 1, 0}!
-El {STRVAR_1 1, 0, 0} salvaje copió los cambios\nde estadísticas del {STRVAR_1 1, 1, 0} salvaje!
-El {STRVAR_1 1, 0, 0} rival copió\nlos cambios de estadísticas de {STRVAR_1 1, 1, 0}!
-El {STRVAR_1 1, 0, 0} rival copió los cambios\nde estadísticas del {STRVAR_1 1, 1, 0} rival!
-{STRVAR_1 1, 0, 0} se liberó del\nmovimiento {STRVAR_1 6, 2, 0} de {STRVAR_1 1, 1, 0}.
-{STRVAR_1 1, 0, 0} se liberó del\n{STRVAR_1 6, 2, 0} del salvaje {STRVAR_1 1, 1, 0}.
-{STRVAR_1 1, 0, 0} se liberó del\n{STRVAR_1 6, 2, 0} del rival {STRVAR_1 1, 1, 0}.
-El {STRVAR_1 1, 0, 0} salvaje se liberó del\nmovimiento {STRVAR_1 6, 2, 0} de {STRVAR_1 1, 1, 0}.
-El {STRVAR_1 1, 0, 0} salvaje se liberó del\nmovimiento {STRVAR_1 6, 2, 0} del {STRVAR_1 1, 1, 0} salvaje.
-El {STRVAR_1 1, 0, 0} rival se liberó del\nmovimiento {STRVAR_1 6, 2, 0} de {STRVAR_1 1, 1, 0}.
-El {STRVAR_1 1, 0, 0} rival se liberó del\nmovimiento {STRVAR_1 6, 2, 0}\fdel {STRVAR_1 1, 1, 0} rival.
-{STRVAR_1 1, 0, 0} lanzó lejos\n{STRVAR_1 6, 1, 0}!
-El {STRVAR_1 1, 0, 0} salvaje lanzó lejos\n{STRVAR_1 6, 1, 0}!
-El {STRVAR_1 1, 0, 0} rival lanzó lejos\n{STRVAR_1 6, 1, 0}!
-¡{STRVAR_1 1, 0, 0} huyó\ndel combate!
-¡El {STRVAR_1 1, 0, 0} salvaje huyó\ndel combate!
-¡El {STRVAR_1 1, 0, 0} rival huyó\ndel combate!
-{STRVAR_1 1, 0, 0} presintió\nun ataque.
-El {STRVAR_1 1, 0, 0} salvaje presintió\nun ataque.
-El {STRVAR_1 1, 0, 0} rival presintió\nun ataque.
-{STRVAR_1 1, 0, 0} recibió\nel ataque {STRVAR_1 6, 1, 0}!
-El {STRVAR_1 1, 0, 0} salvaje recibió\nel ataque {STRVAR_1 6, 1, 0}!
-El {STRVAR_1 1, 0, 0} rival recibió\nel ataque {STRVAR_1 6, 1, 0}!
-{STRVAR_1 1, 0, 0} eligió\nDeseo Funesto como destino.
-El {STRVAR_1 1, 0, 0} salvaje eligió\nDeseo Funesto como destino.
-El {STRVAR_1 1, 0, 0} rival eligió\nDeseo Funesto como destino.
-{STRVAR_1 1, 0, 0} ataca. (No usado)
-El {STRVAR_1 1, 0, 0} salvaje ataca. (No usado)
-El {STRVAR_1 1, 0, 0} rival ataca. (No usado)
+¡{STRVAR_1 1, 0, 0} redujo sus PS y\nmejoró su Ataque!
+¡El {STRVAR_1 1, 0, 0} salvaje redujo\nsus PS y mejoró su Ataque!
+¡El {STRVAR_1 1, 0, 0} enemigo redujo\nsus PS y mejoró su Ataque!
+¡{STRVAR_1 1, 0, 0} copió las nuevas\ncaracterísticas de {STRVAR_1 1, 1, 0}!
+¡{STRVAR_1 1, 0, 0} copió las nuevas\ncaracterísticas del {STRVAR_1 1, 1, 0}\fsalvaje!
+¡{STRVAR_1 1, 0, 0} copió las nuevas\ncaracterísticas del {STRVAR_1 1, 1, 0}\fenemigo!
+¡El {STRVAR_1 1, 0, 0} salvaje copió\nlas nuevas características\fde {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje copió\nlas nuevas características\fdel {STRVAR_1 1, 1, 0} salvaje!
+¡El {STRVAR_1 1, 0, 0} enemigo copió\nlas nuevas características\fde {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo copió\nlas nuevas características\fdel {STRVAR_1 1, 1, 0} enemigo!
+¡{STRVAR_1 1, 0, 0} se liberó de\n{STRVAR_1 6, 2, 0} de {STRVAR_1 1, 1, 0}!
+¡{STRVAR_1 1, 0, 0} se liberó de\n{STRVAR_1 6, 2, 0} del {STRVAR_1 1, 1, 0}\fsalvaje!
+¡{STRVAR_1 1, 0, 0} se liberó de\n{STRVAR_1 6, 2, 0} del {STRVAR_1 1, 1, 0}\fenemigo!
+¡El {STRVAR_1 1, 0, 0} salvaje se liberó\nde {STRVAR_1 6, 2, 0} de {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje se liberó\nde {STRVAR_1 6, 2, 0} del {STRVAR_1 1, 1, 0}\fsalvaje!
+¡El {STRVAR_1 1, 0, 0} enemigo se liberó\nde {STRVAR_1 6, 2, 0} de {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo se liberó\nde {STRVAR_1 6, 2, 0} del {STRVAR_1 1, 1, 0}\fenemigo!
+¡{STRVAR_1 1, 0, 0} se deshizo\nde {STRVAR_1 6, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje\nse deshizo de {STRVAR_1 6, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo\nse deshizo de {STRVAR_1 6, 1, 0}!
+¡{STRVAR_1 1, 0, 0} huyó del combate!
+¡El {STRVAR_1 1, 0, 0} salvaje\nhuyó del combate!
+¡El {STRVAR_1 1, 0, 0} enemigo\nhuyó del combate!
+¡{STRVAR_1 1, 0, 0} previó un ataque!
+¡El {STRVAR_1 1, 0, 0} salvaje previó\nun ataque!
+¡El {STRVAR_1 1, 0, 0} enemigo previó\nun ataque!
+¡{STRVAR_1 1, 0, 0} sufrió el ataque\n{STRVAR_1 6, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje sufrió\nel ataque {STRVAR_1 6, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo sufrió\nel ataque {STRVAR_1 6, 1, 0}!
+¡{STRVAR_1 6, 1, 0} de {STRVAR_1 1, 0, 0}\nse cumplirá más adelante!
+¡{STRVAR_1 6, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje se cumplirá más adelante!
+¡{STRVAR_1 6, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo se cumplirá más adelante!
+¡Ataque de {STRVAR_1 1, 0, 0}!
+¡Ataque del {STRVAR_1 1, 0, 0} salvaje!
+¡Ataque del {STRVAR_1 1, 0, 0} enemigo!
 ¡{STRVAR_1 1, 0, 0} se convirtió\nen el centro de atención!
 ¡El {STRVAR_1 1, 0, 0} salvaje se convirtió\nen el centro de atención!
-¡El {STRVAR_1 1, 0, 0} rival se convirtió\nen el centro de atención!
-{STRVAR_1 1, 0, 0} empezó\na cargar energía!
-El {STRVAR_1 1, 0, 0} salvaje empezó\na cargar energía!
-El {STRVAR_1 1, 0, 0} rival empezó\na cargar energía!
-¡Poder Oculto se convirtió en\n{STRVAR_1 6, 1, 0}!
-{STRVAR_1 1, 0, 0} recuperó\nsu estado normal.
-El {STRVAR_1 1, 0, 0} salvaje recuperó\nsu estado normal.
-El {STRVAR_1 1, 0, 0} rival recuperó\nsu estado normal.
-¡{STRVAR_1 1, 0, 0} está\natormetado!
-¡El {STRVAR_1 1, 0, 0} salvaje está\natormetado!
-¡El {STRVAR_1 1, 0, 0} rival está\natormetado!
-{STRVAR_1 1, 0, 0} está concentrando\nsu atención.
-El {STRVAR_1 1, 0, 0} salvaje está concentrando\nsu atención.
-El {STRVAR_1 1, 0, 0} rival está concentrando\nsu atención.
-¡{STRVAR_1 1, 0, 0} cayó\nen la provocación!
-¡El {STRVAR_1 1, 0, 0} salvaje cayó\nen la provocación!
-¡El {STRVAR_1 1, 0, 0} rival cayó\nen la provocación!
+¡El {STRVAR_1 1, 0, 0} enemigo se convirtió\nen el centro de atención!
+¡{STRVAR_1 1, 0, 0} comenzó\na cargar energía!
+¡El {STRVAR_1 1, 0, 0} salvaje comenzó\na cargar energía!
+¡El {STRVAR_1 1, 0, 0} enemigo comenzó\na cargar energía!
+¡{STRVAR_1 6, 0, 0} se convirtió\nen {STRVAR_1 6, 1, 0}!
+¡El estado de {STRVAR_1 1, 0, 0} regresó\na la normalidad!
+¡El estado del {STRVAR_1 1, 0, 0} salvaje\nregresó a la normalidad!
+¡El estado del {STRVAR_1 1, 0, 0} enemigo\nregresó a la normalidad!
+¡{STRVAR_1 1, 0, 0} es víctima de Tormento!
+¡El {STRVAR_1 1, 0, 0} salvaje\nes víctima de Tormento!
+¡El {STRVAR_1 1, 0, 0} enemigo\nes víctima de Tormento!
+¡{STRVAR_1 1, 0, 0} está reforzando\nsu concentración!
+¡El {STRVAR_1 1, 0, 0} salvaje está\nreforzando su concentración!
+¡El {STRVAR_1 1, 0, 0} enemigo está\nreforzando su concentración!
+¡{STRVAR_1 1, 0, 0} se dejó engañar\npor Mofa!
+¡El {STRVAR_1 1, 0, 0} salvaje se dejó\nengañar por Mofa!
+¡El {STRVAR_1 1, 0, 0} enemigo se dejó\nengañar por Mofa!
 ¡{STRVAR_1 1, 0, 0} está listo para\nayudar a {STRVAR_1 1, 1, 0}!
 ¡{STRVAR_1 1, 0, 0} está listo para\nayudar al {STRVAR_1 1, 1, 0} salvaje!
-¡{STRVAR_1 1, 0, 0} está listo para\nayudar al {STRVAR_1 1, 1, 0} rival!
-El {STRVAR_1 1, 0, 0} salvaje está listo para\nayudar a {STRVAR_1 1, 1, 0}!
-El {STRVAR_1 1, 0, 0} salvaje está listo para\nayudar al {STRVAR_1 1, 1, 0} salvaje!
-El {STRVAR_1 1, 0, 0} rival está listo para\nayudar a {STRVAR_1 1, 1, 0}!
-El {STRVAR_1 1, 0, 0} rival está listo para\nayudar al {STRVAR_1 1, 1, 0} rival!
-¡{STRVAR_1 1, 0, 0} intercambió\nobjetos con su objetivo!
-¡El {STRVAR_1 1, 0, 0} salvaje intercambió\nobjetos con su objetivo!
-¡El {STRVAR_1 1, 0, 0} rival intercambió\nobjetos con su objetivo!
-{STRVAR_1 1, 0, 0} obtuvo\n{STRVAR_1 8, 1, 0}.
-El {STRVAR_1 1, 0, 0} salvaje obtuvo\n{STRVAR_1 8, 1, 0}.
-El {STRVAR_1 1, 0, 0} rival obtuvo\n{STRVAR_1 8, 1, 0}.
-{STRVAR_1 1, 0, 0} obtuvo\n{STRVAR_1 8, 1, 0}.\r{STRVAR_1 1, 2, 0} obtuvo\n{STRVAR_1 8, 3, 0}.
-{STRVAR_1 1, 0, 0} obtuvo\n{STRVAR_1 8, 1, 0}.\rEl {STRVAR_1 1, 2, 0} salvaje obtuvo\n{STRVAR_1 8, 3, 0}.\r
-{STRVAR_1 1, 0, 0} obtuvo\n{STRVAR_1 8, 1, 0}.\rEl {STRVAR_1 1, 2, 0} rival obtuvo\n{STRVAR_1 8, 3, 0}.\r
-El {STRVAR_1 1, 0, 0} salvaje obtuvo\n{STRVAR_1 8, 1, 0}.\r{STRVAR_1 1, 2, 0} obtuvo\n{STRVAR_1 8, 3, 0}.\r
-El {STRVAR_1 1, 0, 0} salvaje obtuvo\n{STRVAR_1 8, 1, 0}.\rEl {STRVAR_1 1, 2, 0} salvaje obtuvo\n{STRVAR_1 8, 3, 0}.\r
-El {STRVAR_1 1, 0, 0} rival obtuvo\n{STRVAR_1 8, 1, 0}.\r{STRVAR_1 1, 2, 0} obtuvo\n{STRVAR_1 8, 3, 0}.\r
-El {STRVAR_1 1, 0, 0} rival obtuvo\n{STRVAR_1 8, 1, 0}.\rEl {STRVAR_1 1, 2, 0} rival obtuvo\n{STRVAR_1 8, 3, 0}.\r
-¡{STRVAR_1 1, 0, 0} copió\nla habilidad de {STRVAR_1 1, 1, 0}!
-¡{STRVAR_1 1, 0, 0} copió la habilidad\ndel {STRVAR_1 1, 1, 0} salvaje!
-¡{STRVAR_1 1, 0, 0} copió la habilidad\ndel {STRVAR_1 1, 1, 0} rival!
-El {STRVAR_1 1, 0, 0} salvaje copió\nla habilidad de {STRVAR_1 1, 1, 0}!
-El {STRVAR_1 1, 0, 0} salvaje copió la habilidad\ndel {STRVAR_1 1, 1, 0} salvaje!
-El {STRVAR_1 1, 0, 0} rival copió\nla habilidad de {STRVAR_1 1, 1, 0}!
-El {STRVAR_1 1, 0, 0} rival copió la habilidad\ndel {STRVAR_1 1, 1, 0} rival!
-¡{STRVAR_1 1, 0, 0} pidió un deseo!
-¡El {STRVAR_1 1, 0, 0} salvaje\npidió un deseo!
-¡El {STRVAR_1 1, 0, 0} rival\npidió un deseo!
-¡El deseo de {STRVAR_1 1, 0, 0}\nse cumplió!
-¡El deseo del {STRVAR_1 1, 0, 0} salvaje\nse cumplió!
-¡El deseo del {STRVAR_1 1, 0, 0} rival\nse cumplió!
+¡{STRVAR_1 1, 0, 0} está listo para\nayudar al {STRVAR_1 1, 1, 0} enemigo!
+¡El {STRVAR_1 1, 0, 0} salvaje está listo\npara ayudar a {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje está listo\npara ayudar al {STRVAR_1 1, 1, 0} salvaje!
+¡El {STRVAR_1 1, 0, 0} enemigo está listo\npara ayudar a {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo está listo\npara ayudar al {STRVAR_1 1, 1, 0} enemigo!
+¡{STRVAR_1 1, 0, 0} provocó un cambio\nde objeto!
+¡El {STRVAR_1 1, 0, 0} salvaje provocó\nun cambio de objeto!
+¡El {STRVAR_1 1, 0, 0} enemigo provocó\nun cambio de objeto!
+¡{STRVAR_1 1, 0, 0} obtuvo {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje obtuvo\n{STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo obtuvo\n{STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 1, 0, 0} obtuvo {STRVAR_1 8, 1, 0}!\n¡{STRVAR_1 1, 2, 0} obtuvo {STRVAR_1 8, 3, 0}!
+¡{STRVAR_1 1, 0, 0} obtuvo {STRVAR_1 8, 1, 0}!\r¡El {STRVAR_1 1, 2, 0} salvaje obtuvo\n{STRVAR_1 8, 3, 0}!\r
+¡{STRVAR_1 1, 0, 0} obtuvo {STRVAR_1 8, 1, 0}!\r¡El {STRVAR_1 1, 2, 0} enemigo obtuvo\n{STRVAR_1 8, 3, 0}!\r
+¡El {STRVAR_1 1, 0, 0} salvaje obtuvo\n{STRVAR_1 8, 1, 0}!\r¡{STRVAR_1 1, 2, 0} obtuvo {STRVAR_1 8, 3, 0}!\r
+¡El {STRVAR_1 1, 0, 0} salvaje obtuvo\n{STRVAR_1 8, 1, 0}!\r¡El {STRVAR_1 1, 2, 0} salvaje obtuvo\n{STRVAR_1 8, 3, 0}!\r
+¡El {STRVAR_1 1, 0, 0} enemigo obtuvo\n{STRVAR_1 8, 1, 0}!\r¡{STRVAR_1 1, 2, 0} obtuvo {STRVAR_1 8, 3, 0}!\r
+¡El {STRVAR_1 1, 0, 0} enemigo obtuvo\n{STRVAR_1 8, 1, 0}!\r¡El {STRVAR_1 1, 2, 0} enemigo obtuvo\n{STRVAR_1 8, 3, 0}!\r
+¡{STRVAR_1 1, 0, 0} copió {STRVAR_1 5, 2, 0}\nde {STRVAR_1 1, 1, 0}!
+¡{STRVAR_1 1, 0, 0} copió {STRVAR_1 5, 2, 0}\ndel {STRVAR_1 1, 1, 0} salvaje!
+¡{STRVAR_1 1, 0, 0} copió {STRVAR_1 5, 2, 0}\ndel {STRVAR_1 1, 1, 0} enemigo!
+¡El {STRVAR_1 1, 0, 0} salvaje copió\n{STRVAR_1 5, 2, 0} de {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje copió\n{STRVAR_1 5, 2, 0} del {STRVAR_1 1, 1, 0}\fsalvaje!
+¡El {STRVAR_1 1, 0, 0} enemigo copió\n{STRVAR_1 5, 2, 0} de {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo copió\n{STRVAR_1 5, 2, 0} del {STRVAR_1 1, 1, 0}\fenemigo!
+¡{STRVAR_1 1, 0, 0} pidió un Deseo!
+¡El {STRVAR_1 1, 0, 0} salvaje pidió\nun Deseo!
+¡El {STRVAR_1 1, 0, 0} enemigo pidió\nun Deseo!
+¡El Deseo de {STRVAR_1 1, 0, 0}\nse hizo realidad!
+¡El Deseo del {STRVAR_1 1, 0, 0} salvaje\nse hizo realidad!
+¡El Deseo del {STRVAR_1 1, 0, 0} enemigo\nse hizo realidad!
 ¡{STRVAR_1 1, 0, 0} echó raíces!
-¡El {STRVAR_1 1, 0, 0} salvaje\nechó raíces!
-¡El {STRVAR_1 1, 0, 0} rival\nechó raíces!
-{STRVAR_1 1, 0, 0} absorbió\nnutrientes con sus raíces!
-El {STRVAR_1 1, 0, 0} salvaje absorbió\nnutrientes con sus raíces!
-El {STRVAR_1 1, 0, 0} rival absorbió\nnutrientes con sus raíces!
-{STRVAR_1 1, 0, 0}\nqueda anclado en el suelo\fcon sus raíces.
-El {STRVAR_1 1, 0, 0} salvaje\nqueda anclado en el suelo\fcon sus raíces.
-El {STRVAR_1 1, 0, 0} rival\nqueda anclado en el suelo\fcon sus raíces.
-{STRVAR_1 1, 1, 0} tiene sueño.
-El {STRVAR_1 1, 1, 0}\nsalvaje tiene sueño.
-El {STRVAR_1 1, 1, 0}\nrival tiene sueño.
-{STRVAR_1 1, 1, 0} tiene sueño.
-El {STRVAR_1 1, 1, 0} salvaje tiene sueño.
-{STRVAR_1 1, 1, 0} tiene sueño.
-El {STRVAR_1 1, 1, 0} rival tiene sueño.
-{STRVAR_1 1, 0, 0} quitó\nel objeto {STRVAR_1 8, 2, 0} a {STRVAR_1 1, 1, 0}.
-{STRVAR_1 1, 0, 0} quitó el\n{STRVAR_1 8, 2, 0} del salvaje {STRVAR_1 1, 1, 0}.
-{STRVAR_1 1, 0, 0} quitó el\n{STRVAR_1 8, 2, 0} del rival {STRVAR_1 1, 1, 0}.
-El {STRVAR_1 1, 0, 0} salvaje quitó\nel objeto {STRVAR_1 8, 2, 0} a {STRVAR_1 1, 1, 0}.
-El {STRVAR_1 1, 0, 0} salvaje quitó\nel objeto {STRVAR_1 8, 2, 0} al {STRVAR_1 1, 1, 0} salvaje.
-El {STRVAR_1 1, 0, 0} rival quitó\nel objeto {STRVAR_1 8, 2, 0} a {STRVAR_1 1, 1, 0}.
-El {STRVAR_1 1, 0, 0} rival quitó\nel objeto {STRVAR_1 8, 2, 0}\fal {STRVAR_1 1, 1, 0} rival.
-¡{STRVAR_1 1, 0, 0} intercambió\nhabilidades con su objetivo!
-¡El {STRVAR_1 1, 0, 0} salvaje intercambió\nhabilidades con su objetivo!
-¡El {STRVAR_1 1, 0, 0} rival intercambió\nhabilidades con su objetivo!
-¡{STRVAR_1 1, 0, 0} selló los movimientos\nque comparte con su objetivo!
-¡El {STRVAR_1 1, 0, 0} salvaje selló los movimientos\nque comparte con su objetivo!
-¡El {STRVAR_1 1, 0, 0} rival selló los movimientos\nque comparte con su objetivo!
-{STRVAR_1 1, 0, 0} quiere que su\nobjetivo guarde rencor.
-El {STRVAR_1 1, 0, 0} salvaje quiere que su\nobjetivo guarde rencor.
-El {STRVAR_1 1, 0, 0} rival quiere que su\nobjetivo guarde rencor.
-¡Los PP de {STRVAR_1 6, 1, 0} de {STRVAR_1 1, 0, 0}\nse agotaron por el rencor!
-¡Los PP de {STRVAR_1 6, 1, 0} del {STRVAR_1 1, 0, 0} salvaje\nse agotaron por el rencor!
-¡Los PP de {STRVAR_1 6, 1, 0} del {STRVAR_1 1, 0, 0} rival\nse agotaron por el rencor!
-¡{STRVAR_1 1, 0, 0} se envolvió\ncon Capa Mágica!
-¡El {STRVAR_1 1, 0, 0} salvaje se envolvió\ncon Capa Mágica!
-¡El {STRVAR_1 1, 0, 0} rival se envolvió\ncon Capa Mágica!
-{STRVAR_1 1, 0, 0}\nrebotó {STRVAR_1 6, 1, 0}!
-El {STRVAR_1 1, 0, 0} salvaje\nrebotó {STRVAR_1 6, 1, 0}!
-El {STRVAR_1 1, 0, 0} rival\nrebotó {STRVAR_1 6, 1, 0}!
-¡{STRVAR_1 1, 0, 0} espera a que el objetivo\nhaga algún movimiento!
-El {STRVAR_1 1, 0, 0} salvaje espera a que\nun objetivo ataque.
-El {STRVAR_1 1, 0, 0} rival espera a que\nun objetivo ataque.
-{STRVAR_1 1, 0, 0} arrebató\nel movimiento de {STRVAR_1 1, 1, 0}!
-¡{STRVAR_1 1, 0, 0} arrebató el\nmovimiento del salvaje {STRVAR_1 1, 1, 0}!
-¡{STRVAR_1 1, 0, 0} arrebató el\nmovimiento del rival {STRVAR_1 1, 1, 0}!
-El {STRVAR_1 1, 0, 0} salvaje arrebató\nel movimiento de {STRVAR_1 1, 1, 0}!
-El {STRVAR_1 1, 0, 0} salvaje arrebató\nel movimiento del {STRVAR_1 1, 1, 0} salvaje!
-El {STRVAR_1 1, 0, 0} rival arrebató\nel movimiento de {STRVAR_1 1, 1, 0}!
-El {STRVAR_1 1, 0, 0} rival arrebató\nel movimiento del {STRVAR_1 1, 1, 0} rival!
-¡El poder de la electricidad disminuyó!
-¡El poder del fuego disminuyó!
-{STRVAR_1 1, 0, 0} encontró\nun {STRVAR_1 8, 1, 0}!
-El {STRVAR_1 1, 0, 0} salvaje encontró\nun {STRVAR_1 8, 1, 0}!
-El {STRVAR_1 1, 0, 0} rival encontró\nun {STRVAR_1 8, 1, 0}!
-¡Un aroma relajante se extendió\npor la zona!
+¡El {STRVAR_1 1, 0, 0} salvaje echó raíces!
+¡El {STRVAR_1 1, 0, 0} enemigo echó raíces!
+¡{STRVAR_1 1, 0, 0} absorbió nutrientes\ncon las raíces!
+¡El {STRVAR_1 1, 0, 0} salvaje absorbió\nnutrientes con las raíces!
+¡El {STRVAR_1 1, 0, 0} enemigo absorbió\nnutrientes con las raíces!
+¡{STRVAR_1 1, 0, 0} echó raíces!
+¡El {STRVAR_1 1, 0, 0} salvaje echó raíces!
+¡El {STRVAR_1 1, 0, 0} enemigo echó raíces!
+¡{STRVAR_1 1, 0, 0} adormeció\na {STRVAR_1 1, 1, 0}!
+¡{STRVAR_1 1, 0, 0} adormeció\nal {STRVAR_1 1, 1, 0} salvaje!
+¡{STRVAR_1 1, 0, 0} adormeció\nal {STRVAR_1 1, 1, 0} enemigo!
+¡El {STRVAR_1 1, 0, 0} salvaje adormeció\na {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje adormeció\nal {STRVAR_1 1, 1, 0} salvaje!
+¡El {STRVAR_1 1, 0, 0} enemigo adormeció\na {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo adormeció\nal {STRVAR_1 1, 1, 0} enemigo!
+¡{STRVAR_1 1, 0, 0} echó abajo\n{STRVAR_1 8, 2, 0} de {STRVAR_1 1, 1, 0}!
+¡{STRVAR_1 1, 0, 0} echó abajo\n{STRVAR_1 8, 2, 0} del {STRVAR_1 1, 1, 0}\fsalvaje!
+¡{STRVAR_1 1, 0, 0} echó abajo\n{STRVAR_1 8, 2, 0} del {STRVAR_1 1, 1, 0}\fenemigo!
+¡El {STRVAR_1 1, 0, 0} salvaje echó abajo\n{STRVAR_1 8, 2, 0} de {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje echó abajo\n{STRVAR_1 8, 2, 0} del {STRVAR_1 1, 1, 0}\fsalvaje!
+¡El {STRVAR_1 1, 0, 0} enemigo echó abajo\n{STRVAR_1 8, 2, 0} de {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo echó abajo\n{STRVAR_1 8, 2, 0} del {STRVAR_1 1, 1, 0}\fenemigo!
+¡{STRVAR_1 1, 0, 0} intercambió su habilidad\nespecial!
+¡El {STRVAR_1 1, 0, 0} salvaje intercambió\nsu habilidad especial!
+¡El {STRVAR_1 1, 0, 0} enemigo intercambió\nsu habilidad especial!
+¡{STRVAR_1 1, 0, 0} selló movimientos\ndel oponente!
+¡El {STRVAR_1 1, 0, 0} salvaje selló\nmovimientos del oponente!
+¡El {STRVAR_1 1, 0, 0} enemigo selló\nmovimientos del oponente!
+¡{STRVAR_1 1, 0, 0} quiere que el rival\nsufra su Rabia!
+¡El {STRVAR_1 1, 0, 0} salvaje quiere que\nel rival sufra su Rabia!
+¡El {STRVAR_1 1, 0, 0} enemigo quiere que\nel rival sufra su Rabia!
+¡La Rabia hizo que {STRVAR_1 6, 1, 0} de\n{STRVAR_1 1, 0, 0} se quedara sin PP!
+¡La Rabia hizo que {STRVAR_1 6, 1, 0} del\n{STRVAR_1 1, 0, 0} salvaje se quedara sin PP!
+¡La Rabia hizo que {STRVAR_1 6, 1, 0} del\n{STRVAR_1 1, 0, 0} enemigo se quedara sin PP!
+¡{STRVAR_1 1, 0, 0} se cubrió\ncon Capa Mágica!
+¡El {STRVAR_1 1, 0, 0} salvaje se cubrió\ncon Capa Mágica!
+¡El {STRVAR_1 1, 0, 0} enemigo se cubrió\ncon Capa Mágica!
+¡Capa Mágica hizo rebotar\n{STRVAR_1 6, 1, 0} de {STRVAR_1 1, 0, 0}!
+¡Capa Mágica hizo rebotar\n{STRVAR_1 6, 1, 0} del {STRVAR_1 1, 0, 0}\fsalvaje!
+¡Capa Mágica hizo rebotar\n{STRVAR_1 6, 1, 0} del {STRVAR_1 1, 0, 0}\fenemigo!
+¡{STRVAR_1 1, 0, 0} espera a que su\nrival haga algún movimiento!
+¡El {STRVAR_1 1, 0, 0} salvaje espera a\nque su rival haga algún movimiento!
+¡El {STRVAR_1 1, 0, 0} enemigo espera a\nque su rival haga algún movimiento!
+¡{STRVAR_1 1, 0, 0} robó el movimiento\nde {STRVAR_1 1, 1, 0}!
+¡{STRVAR_1 1, 0, 0} robó el movimiento\ndel {STRVAR_1 1, 1, 0} salvaje!
+¡{STRVAR_1 1, 0, 0} robó el movimiento\ndel {STRVAR_1 1, 1, 0} enemigo!
+¡El {STRVAR_1 1, 0, 0} salvaje robó\nel movimiento de {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje robó\nel movimiento del {STRVAR_1 1, 1, 0} salvaje!
+¡El {STRVAR_1 1, 0, 0} enemigo robó\nel movimiento de {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo robó\nel movimiento del {STRVAR_1 1, 1, 0} enemigo!
+¡Se han debilitado los ataques\nde tipo Eléctrico!
+¡Se han debilitado los ataques\nde tipo Fuego!
+¡{STRVAR_1 1, 0, 0} encontró\n{STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje encontró\n{STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo encontró\n{STRVAR_1 8, 1, 0}!
+¡Un aroma balsámico impregnó la zona!
 Aquí no se pueden usar objetos.\r
-¡Para {STRVAR_1 1, 1, 0}, el objeto\n{STRVAR_1 8, 0, 0} quedó {STRVAR_1 16, 2, 0}!
-¡Para el {STRVAR_1 1, 1, 0} salvaje, el objeto\n{STRVAR_1 8, 0, 0} quedó {STRVAR_1 16, 2, 0}!
-¡Para el {STRVAR_1 1, 1, 0} rival, el objeto\n{STRVAR_1 8, 0, 0} quedó {STRVAR_1 16, 2, 0}!
-{STRVAR_1 1, 0, 0} usó\n{STRVAR_1 8, 1, 0} para motivarse.
-El {STRVAR_1 1, 0, 0} salvaje usó\n{STRVAR_1 8, 1, 0} para motivarse.
-El {STRVAR_1 1, 0, 0} rival usó\n{STRVAR_1 8, 1, 0} para motivarse.
-{STRVAR_1 1, 0, 0} perdió la\nconcentración y no pudo moverse.
-El {STRVAR_1 1, 0, 0} salvaje perdió la\nconcentración y no pudo moverse.
-El {STRVAR_1 1, 0, 0} rival perdió la\nconcentración y no pudo moverse.
-{STRVAR_1 1, 0, 0} fue\narrastrado fuera!\r
-El {STRVAR_1 1, 0, 0} salvaje fue\narrastrado fuera!\r
-El {STRVAR_1 1, 0, 0} rival fue\narrastrado fuera!\r
-¡Ha destrozado la barrera!
-¡Pero no tuvo ningún efecto!
-¡{STRVAR_1 1, 0, 0} no tiene\nmovimientos que pueda usar!\r
-¡El {STRVAR_1 6, 1, 0} de {STRVAR_1 1, 0, 0}’s \nestá deshabilitado!\r
-El {STRVAR_1 1, 0, 0} salvaje no puede usar\n{STRVAR_1 6, 1, 0} porque está bloqueado.\r
-El {STRVAR_1 1, 0, 0} rival no puede usar\n{STRVAR_1 6, 1, 0} porque está bloqueado.\r
-¡{STRVAR_1 1, 0, 0} no puede usar el mismo\nmovimiento dos veces seguidas!\r
-{STRVAR_1 1, 0, 0} no puede usar\n{STRVAR_1 6, 1, 0} tras la provocación.\r
-El {STRVAR_1 1, 0, 0} salvaje no puede usar\n{STRVAR_1 6, 1, 0} tras la provocación.\r
-El {STRVAR_1 1, 0, 0} rival no puede usar\n{STRVAR_1 6, 1, 0} tras la provocación.\r
-{STRVAR_1 1, 0, 0} no puede usar\nsu movimiento sellado {STRVAR_1 6, 1, 0}.\r
-El {STRVAR_1 1, 0, 0} salvaje no puede usar\nsu movimiento sellado {STRVAR_1 6, 1, 0}.\r
-El {STRVAR_1 1, 0, 0} rival no puede usar\nsu movimiento sellado {STRVAR_1 6, 1, 0}.\r
-¡Ha empezado a llover!
-¡No puedes usar este movimiento!\r
-(Unused)
-¡La habilidad {STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\naumentó su {STRVAR_1 13, 2, 0}!
-¡La habilidad {STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0} salvaje\naumentó su {STRVAR_1 13, 2, 0}!
-¡La habilidad {STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0} rival\naumentó su {STRVAR_1 13, 2, 0}!
-{STRVAR_1 1, 0, 0} quedó protegido\npor {STRVAR_1 5, 1, 0}.
-El {STRVAR_1 1, 0, 0} salvaje quedó protegido\npor {STRVAR_1 5, 1, 0}.
-El {STRVAR_1 1, 0, 0} rival quedó protegido\npor {STRVAR_1 5, 1, 0}.
-{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}’s \npreviene que {STRVAR_1 1, 2, 0}\fuse {STRVAR_1 6, 3, 0}!
-{STRVAR_1 1, 0, 0} usó su {STRVAR_1 5, 1, 0}\npara impedir que el {STRVAR_1 1, 2, 0}\fsalvaje use {STRVAR_1 6, 3, 0}!
-{STRVAR_1 1, 0, 0} usó su {STRVAR_1 5, 1, 0}\npara impedir que el {STRVAR_1 1, 2, 0}\frival use {STRVAR_1 6, 3, 0}!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0}\npara impedir que {STRVAR_1 1, 2, 0}\fuse {STRVAR_1 6, 3, 0}!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0}\npara impedir que el {STRVAR_1 1, 2, 0} salvaje\fuse {STRVAR_1 6, 3, 0}!
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0}\npara impedir que {STRVAR_1 1, 2, 0}\fuse {STRVAR_1 6, 3, 0}!
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0}\npara impedir que el {STRVAR_1 1, 2, 0} rival\fuse {STRVAR_1 6, 3, 0}!
-¡{STRVAR_1 1, 0, 0} recuperó PS\nusando {STRVAR_1 5, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} salvaje recuperó PS\nusando {STRVAR_1 5, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} rival recuperó PS\nusando {STRVAR_1 5, 1, 0}!
-{STRVAR_1 5, 1, 0}  de {STRVAR_1 1, 0, 0} \nhizo {STRVAR_1 6, 2, 0} inútil!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0}\npara inutilizar\f{STRVAR_1 6, 2, 0}!
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0}\npara inutilizar\f{STRVAR_1 6, 2, 0}!
-¡El tipo de {STRVAR_1 1, 0, 0}\ncambió a {STRVAR_1 15, 2, 0}!
-¡El tipo del {STRVAR_1 1, 0, 0} salvaje\ncambió a {STRVAR_1 15, 2, 0}!
-¡El tipo del {STRVAR_1 1, 0, 0} rival\ncambió a {STRVAR_1 15, 2, 0}!
-¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0} \npreviene la parálisis!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0}\npara prevenir la parálisis.
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0}\npara prevenir la parálisis.
-¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}’s \npreviene el enamoramiento!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0}\npara prevenir el enamoramiento.
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0}\npara prevenir el enamoramiento.
-¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0} \npreviene el envenenamiento!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0}\npara prevenir el envenenamiento.
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0}\npara prevenir el envenenamiento.
-¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0} \npreviene la confusión!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0}\npara prevenir la confusión.
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0}\npara prevenir la confusión.
-¡Aumentó el poder de los\nmovimientos de Fuego de {STRVAR_1 1, 0, 0}!
-¡Aumentó el poder de los movimientos\nde Fuego del {STRVAR_1 1, 0, 0} salvaje!
-¡Aumentó el poder de los movimientos\nde Fuego del {STRVAR_1 1, 0, 0} rival!
-{STRVAR_1 1, 0, 0}\nqueda anclado en el suelo\fcon sus ventosas.
-El {STRVAR_1 1, 0, 0} salvaje\nqueda anclado en el suelo\fcon sus ventosas.
-El {STRVAR_1 1, 0, 0} rival\nqueda anclado en el suelo\fcon sus ventosas.
-(Unused)
-(Unused)
-(Unused)
-(Unused)
-(Unused)
-(Unused)
-(Unused)
-¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0} evita \nque bajen sus estadísticas!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0}\npara impedir perder estadísticas.
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0}\npara impedir perder estadísticas.
-¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0} \nhiere a {STRVAR_1 1, 2, 0}!
-{STRVAR_1 1, 0, 0} usó su {STRVAR_1 5, 1, 0}\npara dañar al salvaje {STRVAR_1 1, 2, 0}!
-{STRVAR_1 1, 0, 0} usó su {STRVAR_1 5, 1, 0}\npara dañar al rival {STRVAR_1 1, 2, 0}!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0}\npara dañar a {STRVAR_1 1, 2, 0}!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0}\npara dañar al {STRVAR_1 1, 2, 0}\fsalvaje!
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0}\npara dañar a {STRVAR_1 1, 2, 0}!
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0}\npara dañar al {STRVAR_1 1, 2, 0}\frival!
-¡Copió la habilidad {STRVAR_1 5, 1, 0}\nde {STRVAR_1 1, 0, 0}!
-¡Copió la habilidad {STRVAR_1 5, 1, 0}\ndel {STRVAR_1 1, 0, 0} salvaje!
-¡Copió la habilidad {STRVAR_1 5, 1, 0}\ndel {STRVAR_1 1, 0, 0} rival!
-(unused)
-(unused)
-(unused)
-(unused)
-{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}\nprevents burns!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0}\npara prevenir quemaduras.
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0}\npara prevenir quemaduras.
-¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0} \nbloquea {STRVAR_1 6, 2, 0}!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0}\npara bloquear\f{STRVAR_1 6, 2, 0}!
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0}\npara bloquear\f{STRVAR_1 6, 2, 0}!
-{STRVAR_1 1, 0, 0} recuperó un poco\nde PS con su {STRVAR_1 5, 1, 0}.
-El {STRVAR_1 1, 0, 0} salvaje recuperó\nun poco de PS con su {STRVAR_1 5, 1, 0}.
-El {STRVAR_1 1, 0, 0} rival recuperó\nun poco de PS con su {STRVAR_1 5, 1, 0}.
-¡Una tormena de arena se levanta!
-(Unused)
-(Unused)
-¡El sol brilla con fuerza!
-(Unused)
-(Unused)
-¡Ha empezado a granizar!
-(Unused)
-(Unused)
- {STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\npreviene perder {STRVAR_1 13, 2, 0}!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0}\npara impedir perder\f{STRVAR_1 13, 2, 0}.
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0}\npara impedir perder\f{STRVAR_1 13, 2, 0}.
-{STRVAR_1 1, 2, 0} se enamoró!
-El {STRVAR_1 1, 2, 0} salvaje se enamoró!
-El {STRVAR_1 1, 2, 0} rival se enamoró!
-{STRVAR_1 1, 2, 0} se enamoró\npor la habilidad {STRVAR_1 5, 1, 0}!
-El {STRVAR_1 1, 2, 0} salvaje se enamoró\npor la habilidad {STRVAR_1 5, 1, 0}!
-{STRVAR_1 1, 2, 0} se enamoró\npor la habilidad {STRVAR_1 5, 1, 0}!
-El {STRVAR_1 1, 2, 0} rival se enamoró\npor la habilidad {STRVAR_1 5, 1, 0}!
-¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nhizo {STRVAR_1 6, 2, 0} inútil!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0}\npara volver inútil\f{STRVAR_1 6, 2, 0}!
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0}\npara volver inútil\f{STRVAR_1 6, 2, 0}!
-{STRVAR_1 1, 0, 0} usó su {STRVAR_1 5, 1, 0}\npara curar su estado {STRVAR_1 17, 2, 0}!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0}\npara curar su\feecto {STRVAR_1 17, 2, 0}!
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0}\npara curar su\feecto {STRVAR_1 17, 2, 0}!
-¡Ha absorbido\nel lodo líquido!
+¡Para {STRVAR_1 1, 1, 0}, la {STRVAR_1 8, 0, 0}\nes {STRVAR_1 16, 2, 0}!
+¡Para el {STRVAR_1 1, 1, 0} salvaje,\nla {STRVAR_1 8, 0, 0} es {STRVAR_1 16, 2, 0}!
+¡Para el {STRVAR_1 1, 1, 0} enemigo,\nla {STRVAR_1 8, 0, 0} es {STRVAR_1 16, 2, 0}!
+¡{STRVAR_1 1, 0, 0} usa {STRVAR_1 8, 1, 0} para\naumentar el índice de golpe crítico!
+¡El {STRVAR_1 1, 0, 0} salvaje usa\n{STRVAR_1 8, 1, 0} para aumentar el índice\fde golpe crítico!
+¡El {STRVAR_1 1, 0, 0} enemigo usa\n{STRVAR_1 8, 1, 0} para aumentar el índice\fde golpe crítico!
+¡{STRVAR_1 1, 0, 0} se desconcentró\ny quedó inmovilizado!
+¡El {STRVAR_1 1, 0, 0} salvaje se\ndesconcentró y quedó inmovilizado!
+¡El {STRVAR_1 1, 0, 0} enemigo se\ndesconcentró y quedó inmovilizado!
+¡{STRVAR_1 1, 0, 0} fue arrastrado\nal combate!\r
+¡El {STRVAR_1 1, 0, 0} salvaje fue\narrastrado al combate!\r
+¡El {STRVAR_1 1, 0, 0} enemigo fue\narrastrado al combate!\r
+¡Destruyó la protección!
+¡Pero no surtió efecto!
+¡A {STRVAR_1 1, 0, 0} no le quedan\nmás movimientos!\r
+¡{STRVAR_1 1, 0, 0} no puede usar\n{STRVAR_1 6, 1, 0} por culpa de Anulación!\r
+¡El {STRVAR_1 1, 0, 0} salvaje no puede usar\n{STRVAR_1 6, 1, 0} por culpa de Anulación!\r
+¡El {STRVAR_1 1, 0, 0} enemigo no puede usar\n{STRVAR_1 6, 1, 0} por culpa de Anulación!\r
+¡{STRVAR_1 1, 0, 0} no puede usar el mismo\nmovimiento dos veces seguidas\fdebido a Tormento!\r
+¡{STRVAR_1 1, 0, 0} no puede usar\n{STRVAR_1 6, 1, 0} debido a Mofa!\r
+¡El {STRVAR_1 1, 0, 0} salvaje no puede\nusar {STRVAR_1 6, 1, 0} debido a Mofa!\r
+¡El {STRVAR_1 1, 0, 0} enemigo no puede\nusar {STRVAR_1 6, 1, 0} debido a Mofa!\r
+¡{STRVAR_1 1, 0, 0} no puede usar\n{STRVAR_1 6, 1, 0} porque está sellado!\r
+¡El {STRVAR_1 1, 0, 0} salvaje no puede usar\n{STRVAR_1 6, 1, 0} porque está sellado!\r
+¡El {STRVAR_1 1, 0, 0} enemigo no puede usar\n{STRVAR_1 6, 1, 0} porque está sellado!\r
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nhizo llover!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje hizo llover!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo hizo llover!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nsubió su {STRVAR_1 13, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje subió su {STRVAR_1 13, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo subió su {STRVAR_1 13, 2, 0}!
+¡{STRVAR_1 1, 0, 0} estaba protegido\npor {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje estaba\nprotegido por {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo estaba\nprotegido por {STRVAR_1 5, 1, 0}!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0} impide\nque {STRVAR_1 1, 2, 0} utilice\f{STRVAR_1 6, 3, 0}!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0} impide\nque el {STRVAR_1 1, 2, 0} salvaje\futilice {STRVAR_1 6, 3, 0}!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0} impide\nque el {STRVAR_1 1, 2, 0} enemigo\futilice {STRVAR_1 6, 3, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje impide que {STRVAR_1 1, 2, 0}\futilice {STRVAR_1 6, 3, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje impide que el {STRVAR_1 1, 2, 0}\fsalvaje utilice {STRVAR_1 6, 3, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo impide que {STRVAR_1 1, 2, 0}\futilice {STRVAR_1 6, 3, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo impide que el {STRVAR_1 1, 2, 0}\fenemigo utilice {STRVAR_1 6, 3, 0}!
+¡{STRVAR_1 1, 0, 0} restauró PS usando\nsu {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje restauró PS\nusando su {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo restauró PS\nusando su {STRVAR_1 5, 1, 0}!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\ninutilizó {STRVAR_1 6, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje inutilizó {STRVAR_1 6, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo inutilizó {STRVAR_1 6, 2, 0}!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nlo convirtió en el tipo {STRVAR_1 15, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje lo convirtió en\fel tipo {STRVAR_1 15, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo lo convirtió en\fel tipo {STRVAR_1 15, 2, 0}!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nimpide que se quede paralizado!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje impide que se quede\fparalizado!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo impide que se quede\fparalizado!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nimpide que se enamore!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje impide que se enamore!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo impide que se enamore!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nimpide que se envenene!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje impide que se envenene!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo impide que se envenene!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nimpide que quede confuso!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje impide que quede confuso!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo impide que quede confuso!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nreforzó sus ataques de Fuego!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje reforzó sus ataques de Fuego!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo reforzó sus ataques de Fuego!
+¡{STRVAR_1 1, 0, 0} se aferra\nal suelo con {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje se aferra\nal suelo con {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo se aferra\nal suelo con {STRVAR_1 5, 1, 0}!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0} baja\nel {STRVAR_1 13, 3, 0} de {STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0} baja\nel {STRVAR_1 13, 3, 0} del {STRVAR_1 1, 2, 0} salvaje!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0} baja\nel {STRVAR_1 13, 3, 0} del {STRVAR_1 1, 2, 0} enemigo!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje baja el {STRVAR_1 13, 3, 0} de\f{STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje baja el {STRVAR_1 13, 3, 0} del\f{STRVAR_1 1, 2, 0} salvaje!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo baja el {STRVAR_1 13, 3, 0} de\f{STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo baja el {STRVAR_1 13, 3, 0} del\f{STRVAR_1 1, 2, 0} enemigo!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nimpide que pierda\fcaracterísticas!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje impide que pierda\fcaracterísticas!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo impide que pierda\fcaracterísticas!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nhirió a {STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nhirió al {STRVAR_1 1, 2, 0} salvaje!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nhirió al {STRVAR_1 1, 2, 0} enemigo!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje hirió a {STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje hirió al {STRVAR_1 1, 2, 0} salvaje!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo hirió a {STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo hirió al {STRVAR_1 1, 2, 0} enemigo!
+¡{STRVAR_1 1, 0, 0} rastreó\n{STRVAR_1 5, 2, 0} de {STRVAR_1 1, 1, 0}!
+¡{STRVAR_1 1, 0, 0} rastreó {STRVAR_1 5, 2, 0}\ndel {STRVAR_1 1, 1, 0} salvaje!
+¡{STRVAR_1 1, 0, 0} rastreó {STRVAR_1 5, 2, 0}\ndel {STRVAR_1 1, 1, 0} enemigo!
+¡El {STRVAR_1 1, 0, 0} salvaje rastreó\n{STRVAR_1 5, 2, 0} de {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje rastreó\n{STRVAR_1 5, 2, 0} del {STRVAR_1 1, 1, 0}\fsalvaje!
+¡El {STRVAR_1 1, 0, 0} enemigo rastreó\n{STRVAR_1 5, 2, 0} de {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo rastreó\n{STRVAR_1 5, 2, 0} del {STRVAR_1 1, 1, 0}\fenemigo!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nimpide que se queme!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje impide que se queme!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo impide que se queme!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nbloquea {STRVAR_1 6, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje bloquea {STRVAR_1 6, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo bloquea {STRVAR_1 6, 2, 0}!
+¡{STRVAR_1 1, 0, 0} restauró un poco\nsus PS con {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje restauró\nun poco sus PS con {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo restauró un\npoco sus PS con {STRVAR_1 5, 1, 0}!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nlevantó una tormenta de arena!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje levantó una tormenta de arena!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo levantó una tormenta de arena!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nintensificó los rayos del sol!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje intensificó los rayos del sol!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo intensificó los rayos del sol!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nprovocó granizo!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje provocó granizo!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo provocó granizo!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nimpide que pierda {STRVAR_1 13, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje impide que pierda {STRVAR_1 13, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo impide que pierda {STRVAR_1 13, 2, 0}!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nenamoró a {STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nenamoró al {STRVAR_1 1, 2, 0} salvaje!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nenamoró al {STRVAR_1 1, 2, 0} enemigo!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje enamoró a {STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje enamoró al {STRVAR_1 1, 2, 0}\fsalvaje!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo enamoró a {STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo enamoró al {STRVAR_1 1, 2, 0}\fenemigo!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nanuló {STRVAR_1 6, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje anuló {STRVAR_1 6, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo anuló {STRVAR_1 6, 2, 0}!
+¡{STRVAR_1 1, 0, 0} dejó de estar\n{STRVAR_1 17, 2, 0} gracias a {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje dejó de estar\n{STRVAR_1 17, 2, 0} gracias a {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo dejó de estar\n{STRVAR_1 17, 2, 0} gracias a {STRVAR_1 5, 1, 0}!
+¡Absorbió el Lodo Líquido!
 ¡{STRVAR_1 1, 0, 0} se transformó!
-El {STRVAR_1 1, 0, 0} salvaje\nse transformó!
-El {STRVAR_1 1, 0, 0} rival\nse transformó!
-{STRVAR_1 1, 0, 0} usó su {STRVAR_1 5, 1, 0}\npara recibir el ataque.
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0}\npara recibir el ataque.
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0}\npara recibir el ataque.
-¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nsuprimió {STRVAR_1 5, 3, 0}\f de {STRVAR_1 1, 2, 0}!
-{STRVAR_1 1, 0, 0} usó su {STRVAR_1 5, 1, 0} para\nsuprimir la habilidad {STRVAR_1 5, 3, 0}\fdel salvaje {STRVAR_1 1, 2, 0}!
-{STRVAR_1 1, 0, 0} usó su {STRVAR_1 5, 1, 0} para\nsuprimir la habilidad {STRVAR_1 5, 3, 0}\fdel rival {STRVAR_1 1, 2, 0}!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0}\npara suprimir\fla habilidad {STRVAR_1 5, 3, 0} de {STRVAR_1 1, 2, 0}!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0}\npara suprimir la habilidad {STRVAR_1 5, 3, 0}\fdel {STRVAR_1 1, 2, 0} salvaje!
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0}\npara suprimir\fla habilidad {STRVAR_1 5, 3, 0} de {STRVAR_1 1, 2, 0}!
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0}\npara suprimir la habilidad {STRVAR_1 5, 3, 0}\fdel {STRVAR_1 1, 2, 0} rival!
-¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nlo inutilizó!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0},\npero no tuvo efecto.
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0},\npero no tuvo efecto.
-{STRVAR_1 1, 0, 0} no retrocederá\ngracias a su {STRVAR_1 5, 1, 0}.
-El {STRVAR_1 1, 0, 0} salvaje no retrocederá\ngracias a su {STRVAR_1 5, 1, 0}.
-El {STRVAR_1 1, 0, 0} rival no retrocederá\ngracias a su {STRVAR_1 5, 1, 0}.
-{STRVAR_1 1, 0, 0} curó su estado\n{STRVAR_1 17, 2, 0} con su {STRVAR_1 5, 1, 0}!
-El {STRVAR_1 1, 0, 0} salvaje curó su\nestado {STRVAR_1 17, 2, 0}\fcon su habilidad {STRVAR_1 5, 1, 0}!
-El {STRVAR_1 1, 0, 0} rival curó su\nestado {STRVAR_1 17, 2, 0}\fcon su habilidad {STRVAR_1 5, 1, 0}!
-¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nno afectó a {STRVAR_1 1, 2, 0}!
-{STRVAR_1 1, 0, 0} usó su {STRVAR_1 5, 1, 0},\npero no afectó al salvaje {STRVAR_1 1, 2, 0}!
-{STRVAR_1 1, 0, 0} usó su {STRVAR_1 5, 1, 0},\npero no afectó al rival {STRVAR_1 1, 2, 0}!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0},\npero no tuvo efecto\fsobre {STRVAR_1 1, 2, 0}!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0},\npero no tuvo efecto\fsobre el {STRVAR_1 1, 2, 0} salvaje!
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0},\npero no tuvo efecto\fsobre {STRVAR_1 1, 2, 0}!
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0},\npero no tuvo efecto\fsobre el {STRVAR_1 1, 2, 0} rival!
-¡{STRVAR_1 13, 1, 0} de {STRVAR_1 1, 0, 0}\nsubió!
-El {STRVAR_1 1, 0, 0} salvaje vio cómo su\n{STRVAR_1 13, 1, 0} subía!
-El {STRVAR_1 1, 0, 0} rival vio cómo su\n{STRVAR_1 13, 1, 0} subía!
-{STRVAR_1 1, 0, 0} vio cómo su {STRVAR_1 13, 1, 0}\nsubía mucho!
-El {STRVAR_1 1, 0, 0} salvaje vio cómo su {STRVAR_1 13, 1, 0}\nsubía mucho!
-El {STRVAR_1 1, 0, 0} rival vio cómo su {STRVAR_1 13, 1, 0}\nsubía mucho!
-¡{STRVAR_1 8, 1, 0} aumentó\nel {STRVAR_1 13, 2, 0} de {STRVAR_1 1, 0, 0}!
-¡{STRVAR_1 8, 1, 0} aumentó\nel {STRVAR_1 13, 2, 0} del {STRVAR_1 1, 0, 0} salvaje!
-¡{STRVAR_1 8, 1, 0} aumentó\nel {STRVAR_1 13, 2, 0} del {STRVAR_1 1, 0, 0} rival!
-¡{STRVAR_1 8, 1, 0} aumentó mucho\nel {STRVAR_1 13, 2, 0} de {STRVAR_1 1, 0, 0}!
-¡{STRVAR_1 8, 1, 0} aumentó mucho\nel {STRVAR_1 13, 2, 0} del {STRVAR_1 1, 0, 0} salvaje!
-¡{STRVAR_1 8, 1, 0} aumentó mucho\nel {STRVAR_1 13, 2, 0} del {STRVAR_1 1, 0, 0} rival!
-{STRVAR_1 1, 0, 0} vio cómo su {STRVAR_1 13, 1, 0}\nbajaba!
-El {STRVAR_1 1, 0, 0} salvaje vio cómo su {STRVAR_1 13, 1, 0}\nbajaba!
-El {STRVAR_1 1, 0, 0} rival vio cómo su {STRVAR_1 13, 1, 0}\nbajaba!
-{STRVAR_1 1, 0, 0} vio cómo su {STRVAR_1 13, 1, 0}\nbajaba bruscamente!
-El {STRVAR_1 1, 0, 0} salvaje vio cómo su {STRVAR_1 13, 1, 0}\nbajaba bruscamente!
-El {STRVAR_1 1, 0, 0} rival vio cómo su {STRVAR_1 13, 1, 0}\nbajaba bruscamente!
-¡Las estadísticas de {STRVAR_1 1, 0, 0}\nno pueden subir más!
-El {STRVAR_1 1, 0, 0} salvaje comprueba que sus estadísticas\nno pueden subir más.
-El {STRVAR_1 1, 0, 0} rival comprueba que sus estadísticas\nno pueden subir más.
-¡Las estadísticas de {STRVAR_1 1, 0, 0}\nno pueden bajar más!
-El {STRVAR_1 1, 0, 0} salvaje comprueba que sus estadísticas\nno pueden bajar más.
-El {STRVAR_1 1, 0, 0} rival comprueba que sus estadísticas\nno pueden bajar más.
+¡El {STRVAR_1 1, 0, 0} salvaje\nse transformó!
+¡El {STRVAR_1 1, 0, 0} enemigo\nse transformó!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nrecibió el ataque!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje recibió el ataque!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo recibió el ataque!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nimpidió que {STRVAR_1 5, 3, 0}\fde {STRVAR_1 1, 2, 0} funcionase!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nimpidió que {STRVAR_1 5, 3, 0} del\f{STRVAR_1 1, 2, 0} salvaje funcionase!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nimpidió que {STRVAR_1 5, 3, 0} del\f{STRVAR_1 1, 2, 0} enemigo funcionase!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje impidió que {STRVAR_1 5, 3, 0}\fde {STRVAR_1 1, 2, 0} funcionase!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje impidió que {STRVAR_1 5, 3, 0}\fdel {STRVAR_1 1, 2, 0} salvaje funcionase!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo impidió que {STRVAR_1 5, 3, 0}\fde {STRVAR_1 1, 2, 0} funcionase!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo impidió que {STRVAR_1 5, 3, 0}\fdel {STRVAR_1 1, 2, 0} enemigo funcionase!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nhizo ineficaz el movimiento!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje hizo ineficaz el movimiento!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo hizo ineficaz el movimiento!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nimpide que retroceda!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje impide que retroceda!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo impide que retroceda!
+¡{STRVAR_1 1, 0, 0} dejó de estar {STRVAR_1 17, 2, 0}\ngracias a {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje dejó de estar\n{STRVAR_1 17, 2, 0} gracias a {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo dejó de estar\n{STRVAR_1 17, 2, 0} gracias a {STRVAR_1 5, 1, 0}!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nno ha afectado a {STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0} no ha\nafectado al {STRVAR_1 1, 2, 0} salvaje!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0} no ha\nafectado al {STRVAR_1 1, 2, 0} enemigo!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje no ha afectado a {STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje no ha afectado\fal {STRVAR_1 1, 2, 0} salvaje!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo no ha afectado a {STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo no ha afectado al\f{STRVAR_1 1, 2, 0} enemigo!
+¡{STRVAR_1 13, 1, 0} de {STRVAR_1 1, 0, 0} subió!
+¡{STRVAR_1 13, 1, 0} del {STRVAR_1 1, 0, 0} salvaje\nsubió!
+¡{STRVAR_1 13, 1, 0} del {STRVAR_1 1, 0, 0} enemigo\nsubió!
+¡{STRVAR_1 13, 1, 0} de {STRVAR_1 1, 0, 0}\nsubió mucho!
+¡{STRVAR_1 13, 1, 0} del {STRVAR_1 1, 0, 0} salvaje\nsubió mucho!
+¡{STRVAR_1 13, 1, 0} del {STRVAR_1 1, 0, 0} enemigo\nsubió mucho!
+¡{STRVAR_1 13, 2, 0} de {STRVAR_1 1, 0, 0} subió\ncon {STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 13, 2, 0} del {STRVAR_1 1, 0, 0} salvaje\nsubió con {STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 13, 2, 0} del {STRVAR_1 1, 0, 0} enemigo\nsubió con {STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 13, 2, 0} de {STRVAR_1 1, 0, 0} subió\nmucho con {STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 13, 2, 0} del {STRVAR_1 1, 0, 0} salvaje\nsubió mucho con {STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 13, 2, 0} del {STRVAR_1 1, 0, 0} enemigo\nsubió mucho con {STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 13, 1, 0} de {STRVAR_1 1, 0, 0} bajó!
+¡{STRVAR_1 13, 1, 0} del {STRVAR_1 1, 0, 0} salvaje\nbajó!
+¡{STRVAR_1 13, 1, 0} del {STRVAR_1 1, 0, 0} enemigo\nbajó!
+¡{STRVAR_1 13, 1, 0} de {STRVAR_1 1, 0, 0}\nbajó mucho!
+¡{STRVAR_1 13, 1, 0} del {STRVAR_1 1, 0, 0} salvaje\nbajó mucho!
+¡{STRVAR_1 13, 1, 0} del {STRVAR_1 1, 0, 0} enemigo\nbajó mucho!
+¡Las características de {STRVAR_1 1, 0, 0}\nno pueden subir más!
+¡Las características del {STRVAR_1 1, 0, 0}\nsalvaje no pueden subir más!
+¡Las características del {STRVAR_1 1, 0, 0}\nenemigo no pueden subir más!
+¡Las características de {STRVAR_1 1, 0, 0}\nno pueden bajar más!
+¡Las características del {STRVAR_1 1, 0, 0}\nsalvaje no pueden bajar más!
+¡Las características del {STRVAR_1 1, 0, 0}\nenemigo no pueden bajar más!
 ¡Un golpe crítico!
-¡Es un golpe fulminante!
-¡1, 2, y... ... ... Puf!
+¡K.O. en un golpe!
+1, 2 y... ... ... ¡puf!
 Y...
-
+                               
 No es muy eficaz...
 ¡Es muy eficaz!
 ¡Escapaste sin problemas!\r
-¡{STRVAR_1 1, 0, 0} huyó\ngracias a su {STRVAR_1 8, 1, 0}!\r
-{STRVAR_1 1, 0, 0} huyó\nusando {STRVAR_1 5, 1, 0}!\r
-¡El {STRVAR_1 1, 0, 0} salvaje huyó!
-¡Venciste a\n{STRVAR_1 3, 0, 0}!
-¡Derrotaste a {STRVAR_1 3, 0, 0}\ny a {STRVAR_1 3, 1, 0}!
-¡Has perdido contra\n{STRVAR_1 3, 0, 0}!
-¡Has perdido contra {STRVAR_1 3, 0, 0}\ny {STRVAR_1 3, 1, 0}!
-¡Empataste contra\n{STRVAR_1 3, 0, 0}!
-¡Empataste contra\n{STRVAR_1 3, 0, 0} y {STRVAR_1 3, 1, 0}!
-¡{STRVAR_1 3, 0, 0} huyó!
-¡{STRVAR_1 3, 0, 0} y\n{STRVAR_1 3, 1, 0} huyeron!
-¡No! ¡No puedes huir\nde un combate contra un Entrenador!\r
-¡No pudiste escapar!\r
-¡Pero no ocurrió nada!
+¡{STRVAR_1 1, 0, 0} escapó usando\n{STRVAR_1 8, 1, 0}!\r
+¡{STRVAR_1 1, 0, 0} escapó usando\n{STRVAR_1 5, 1, 0}!\r
+¡El {STRVAR_1 1, 0, 0} salvaje ha huido!
+¡Derrotaste a {STRVAR_1 3, 0, 0}!
+¡Derrotaste a {STRVAR_1 3, 1, 0} y\n{STRVAR_1 3, 0, 0}!
+¡Has perdido contra {STRVAR_1 3, 0, 0}!
+¡Has perdido contra {STRVAR_1 3, 1, 0} y\n{STRVAR_1 3, 0, 0}!
+¡Has empatado con {STRVAR_1 3, 0, 0}!
+¡Has empatado con {STRVAR_1 3, 1, 0}\ny {STRVAR_1 3, 0, 0}!
+¡{STRVAR_1 3, 0, 0} ha huido!
+¡{STRVAR_1 3, 0, 0} y {STRVAR_1 3, 1, 0}\nhan huido!
+¡No puedes huir de un\ncombate contra un Entrenador!\r
+¡No puedes huir!\r
+¡Pero no tuvo ningún efecto!
 ¡Pero falló!
-¡Se hizo daño por su\nconfusión!
-¡Mov. Espejo falló!
-¡Está lloviendo!
-¡Empezó un aguacero!
-La lluvia continúa.
-El aguacero continúa.
-La lluvia cesó.
-¡La tormenta de arena arrecia!
-La tormenta de arena continúa.
+¡Está tan confuso que\nse hirió a sí mismo!
+¡El Movimiento Espejo ha fallado!
+¡Ha empezado a llover!
+¡Comenzó a caer un chaparrón!
+Sigue lloviendo...
+El chaparrón continúa...
+Ha dejado de llover.
+¡Se acerca una tormenta de arena!
+La tormenta de arena arrecia...
 La tormenta de arena amainó.
-¡El sol está muy fuerte!
-El sol sigue brillando.
-La luz solar intensa desapareció.
-¡Está granizando!
-El granizo continúa cayendo.
-El granizo cesó.
-La niebla es espesa...
-¡Pero no consiguió escupir nada!
-¡Pero no consiguió tragar nada!
-¡El viento se volvió\nuna ola de calor!
-¡Se anularon todos los\ncambios de estadísticas!
-¡Se esparcieron monedas por doquier!
-¡Pero no le quedan suficientes PS\npara crear un sustituto!
-¡Los combatientes compartieron\nsu dolor!
-¡Sonó una campana!
-¡Los Pokémon que oyeron la canción\nse debilitarán en tres turnos!
+¡El sol está brillando!
+Hace mucho sol...
+Se ha ido el sol.
+¡Ha empezado a granizar!
+Sigue granizando...
+Ha dejado de granizar.
+La niebla es densa...
+¡Pero no consiguió Escupir energía!
+¡Pero no consiguió Tragar energía!
+¡El viento se convirtió\nen una Onda Ígnea!
+¡Se han eliminado todos los\ncambios en las características!
+¡Hay monedas por todas partes!
+¡Estaba demasiado débil para\ncrear un Sustituto!
+¡Los combatientes comparten\nel daño sufrido!
+¡Ha repicado una campana!
+¡Los Pokémon que oigan la canción\nse debilitarán dentro de tres turnos!
 ¡No quedan PP para este movimiento!
-¡Pero no quedaban PP\npara el movimiento!
-¡{STRVAR_1 1, 0, 0} ignoró\nlas órdenes y siguió durmiendo!
+¡Pero no quedan PP\npara este movimiento!
+¡{STRVAR_1 1, 0, 0} ignoró las órdenes\nporque está dormido!
 ¡{STRVAR_1 1, 0, 0} ignoró las órdenes!
-¡{STRVAR_1 1, 0, 0} se echó una siesta!
-{STRVAR_1 1, 0, 0} está\nganduleando.
-¡{STRVAR_1 1, 0, 0} no obedece!
-¡{STRVAR_1 1, 0, 0} se giró!
-¡{STRVAR_1 1, 0, 0} oyó\nllover!
-{STRVAR_1 1, 0, 0} está\nganduleando.
-El {STRVAR_1 1, 0, 0} salvaje está\nganduleando.
-El {STRVAR_1 1, 0, 0} rival está\nganduleando.
-{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0} va\na sacar a {STRVAR_1 1, 2, 0}.\f¿Quieres cambiar de Pokémon?{YESNO 0}
-{STRVAR_1 1, 0, 0} aprendió\n{STRVAR_1 6, 1, 0}!
-El {STRVAR_1 1, 0, 0} salvaje aprendió\n{STRVAR_1 6, 1, 0}!
-El {STRVAR_1 1, 0, 0} rival aprendió\n{STRVAR_1 6, 1, 0}!
-¡Derrotaste a\n{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}!
-¡{STRVAR_1 3, 0, 0} se acercó\na {STRVAR_1 1, 1, 0}!
-¡{STRVAR_1 3, 0, 0} no puede\nacercarse más!
-¡{STRVAR_1 1, 0, 0} observa\ncon atención!
-
-
-
-¡{STRVAR_1 3, 0, 0} lanzó un Poffin\nal {STRVAR_1 1, 1, 0}!
-Locutor: ¡Te has quedado sin\nSafari Balls!\f¡Fin del juego!\r
-¡{STRVAR_1 3, 0, 0} lanzó\nuna Safari Ball!
-¡{STRVAR_1 0, 0, 0} observa\ncon atención!
-Locutor: ¡Te has quedado sin\nSafari Balls! ¡Fin del juego!
-¡{STRVAR_1 3, 0, 0} lanzó cebo\nal {STRVAR_1 0, 1, 0}!
+¡{STRVAR_1 1, 0, 0} se fue a dormir!
+¡{STRVAR_1 1, 0, 0} está holgazaneando!
+¡{STRVAR_1 1, 0, 0} no quiere obedecer!
+¡{STRVAR_1 1, 0, 0} se alejó!
+¡{STRVAR_1 1, 0, 0} fingió no darse cuenta!
+¡{STRVAR_1 1, 0, 0} está holgazaneando!
+¡El {STRVAR_1 1, 0, 0} salvaje\nestá holgazaneando!
+¡El {STRVAR_1 1, 0, 0} enemigo\nestá holgazaneando!
+¡{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0} enviará\na {STRVAR_1 1, 2, 0}!\f¿Quieres cambiar de Pokémon?{YESNO 0}
+¡{STRVAR_1 1, 0, 0} aprendió\n{STRVAR_1 6, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje aprendió\n{STRVAR_1 6, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo aprendió\n{STRVAR_1 6, 1, 0}!
+¡Has ganado! {STRVAR_1 14, 0, 0}\n{STRVAR_1 3, 1, 0}, hasta la próxima.
+¡{STRVAR_1 3, 0, 0} se acercó sigilosamente\na {STRVAR_1 1, 1, 0}!
+¡{STRVAR_1 3, 0, 0} no se puede acercar más!
+¡{STRVAR_1 1, 0, 0} te observa atentamente!
+                          
+                         
+                      
+¡{STRVAR_1 3, 0, 0} lanzó un Pokocho\na {STRVAR_1 1, 1, 0}!
+Encargado: ¡No te quedan\nmás Safari Balls!\f¡Se acabó el tiempo!\r
+¡{STRVAR_1 3, 0, 0} usó una Safari Ball!
+¡{STRVAR_1 0, 0, 0} te observa atentamente!
+¡No te quedan más Safari Balls!\n¡Se acabó el tiempo!
+¡{STRVAR_1 3, 0, 0} lanzó algo de Cebo\na {STRVAR_1 0, 1, 0}!
 ¡{STRVAR_1 0, 0, 0} está comiendo!
 ¡{STRVAR_1 0, 0, 0} está ocupado comiendo!
-¡{STRVAR_1 3, 0, 0} lanzó Barro \nal {STRVAR_1 0, 1, 0}!
-¡{STRVAR_1 0, 0, 0} está furioso!
-¡{STRVAR_1 0, 0, 0} está fuera de sí\nde furioso!
-¡{STRVAR_1 3, 0, 0} usó\nun {STRVAR_1 8, 1, 0}!
-¡{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}\nusó {STRVAR_1 8, 2, 0}!
+¡{STRVAR_1 3, 0, 0} lanzó Lodo\na {STRVAR_1 0, 1, 0}!
+¡El Pokémon {STRVAR_1 0, 0, 0}\nestá enfadado!
+¡El Pokémon {STRVAR_1 0, 0, 0}\nestá furioso!
+¡{STRVAR_1 3, 0, 0} usó {STRVAR_1 8, 1, 0}!
+{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}:\n¡Voy a usar {STRVAR_1 8, 2, 0}!
 ¡El Entrenador bloqueó la Ball!
-¡No seas ladrón!
-¡Esquivó tu Poké Ball!\n¡Este Pokémon no se puede capturar!
-¡Has fallado al Pokémon!
-¡Oh, no!\nEl Pokémon se ha escapado!
-¡Ay!\n¡Parecía estar capturado!
-¡Aargh!\n¡Casi lo tenías!
-¡Argh!\n¡Y ha estado tan cerca!
-{WAIT 3}¡Pillado!\n¡{STRVAR_1 1, 0, 0} capturado!{WAIT 2}\r
-¿Te gustaría dar a\n{STRVAR_1 1, 0, 0} un mote?{YESNO 0}
-{STRVAR_1 1, 0, 0} se ha enviado al\nPC de alguien.
-¡{STRVAR_1 1, 0, 0} se ha enviado al\nPC de Bill!
-Los datos de {STRVAR_1 1, 0, 0}\nse han añadido a la Pokédex.\r
-Está lloviendo.
-Una tormenta de arena arrecia.
-¡No queda espacio en el PC!\r
-{STRVAR_1 1, 0, 0} usó {STRVAR_1 8, 1, 0}\npara curar su parálisis.
-El {STRVAR_1 1, 0, 0} salvaje usó {STRVAR_1 8, 1, 0}\npara curar su parálisis.
-El {STRVAR_1 1, 0, 0} rival usó {STRVAR_1 8, 1, 0}\npara curar su parálisis.
-{STRVAR_1 1, 0, 0} usó {STRVAR_1 8, 1, 0}\npara curar su envenenamiento.
-El {STRVAR_1 1, 0, 0} salvaje usó {STRVAR_1 8, 1, 0}\npara curar su envenenamiento.
-El {STRVAR_1 1, 0, 0} rival usó {STRVAR_1 8, 1, 0}\npara curar su envenenamiento.
-{STRVAR_1 1, 0, 0} usó {STRVAR_1 8, 1, 0}\npara curar su quemadura.
-El {STRVAR_1 1, 0, 0} salvaje usó {STRVAR_1 8, 1, 0}\npara curar su quemadura.
-El {STRVAR_1 1, 0, 0} rival usó {STRVAR_1 8, 1, 0}\npara curar su quemadura.
-¡{STRVAR_1 8, 1, 0} usó {STRVAR_1 1, 0, 0}\npara descongelarse!
-El {STRVAR_1 1, 0, 0} salvaje usó {STRVAR_1 8, 1, 0}\npara descongelarse.
-El {STRVAR_1 1, 0, 0} rival usó {STRVAR_1 8, 1, 0}\npara descongelarse.
-¡{STRVAR_1 8, 1, 0} de {STRVAR_1 1, 0, 0} \nlo despertó!
-El {STRVAR_1 1, 0, 0} salvaje usó {STRVAR_1 8, 1, 0}\npara despertarse.
-El {STRVAR_1 1, 0, 0} rival usó {STRVAR_1 8, 1, 0}\npara despertarse.
-{STRVAR_1 1, 0, 0} usó {STRVAR_1 8, 1, 0}\npara salir de su confusión.
-El {STRVAR_1 1, 0, 0} salvaje usó {STRVAR_1 8, 1, 0}\npara salir\fde su confusión.
-El {STRVAR_1 1, 0, 0} rival usó {STRVAR_1 8, 1, 0}\npara salir\fde su confusión.
-{STRVAR_1 1, 0, 0} curó su estado\n{STRVAR_1 17, 2, 0} usando {STRVAR_1 8, 1, 0}!
-El {STRVAR_1 1, 0, 0} salvaje curó su\nestado {STRVAR_1 17, 2, 0} usando\fsu {STRVAR_1 8, 1, 0}!
-El {STRVAR_1 1, 0, 0} rival curó su\nestado {STRVAR_1 17, 2, 0} usando\fsu {STRVAR_1 8, 1, 0}!
-{STRVAR_1 1, 0, 0} normalizó su\nestado usando {STRVAR_1 8, 1, 0}.
-El {STRVAR_1 1, 0, 0} salvaje normalizó su\nestado usando {STRVAR_1 8, 1, 0}.
-El {STRVAR_1 1, 0, 0} rival normalizó su\nestado usando {STRVAR_1 8, 1, 0}.
-¡{STRVAR_1 1, 0, 0} recuperó la salud\nusando {STRVAR_1 8, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} salvaje recuperó la salud\nusando {STRVAR_1 8, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} rival recuperó la salud\nusando {STRVAR_1 8, 1, 0}!
-{STRVAR_1 1, 0, 0} restauró\nlos PP de su movimiento {STRVAR_1 6, 2, 0}\fusando {STRVAR_1 8, 1, 0}.
-El {STRVAR_1 1, 0, 0} salvaje restauró\nlos PP de su movimiento {STRVAR_1 6, 2, 0}\fusando {STRVAR_1 8, 1, 0}.
-El {STRVAR_1 1, 0, 0} rival restauró\nlos PP de su movimiento {STRVAR_1 6, 2, 0}\fusando {STRVAR_1 8, 1, 0}.
-{STRVAR_1 1, 0, 0} devolvió sus\nestadísticas a la normalidad con\fsu {STRVAR_1 8, 1, 0}.
-El {STRVAR_1 1, 0, 0} salvaje devolvió sus\nestadísticas a la normalidad con\fsu {STRVAR_1 8, 1, 0}.
-El {STRVAR_1 1, 0, 0} rival devolvió sus\nestadísticas a la normalidad con\fsu {STRVAR_1 8, 1, 0}.
-{STRVAR_1 1, 0, 0} recuperó\nun poco de PS usando {STRVAR_1 8, 1, 0}.
-El {STRVAR_1 1, 0, 0} salvaje recuperó\nun poco de PS usando {STRVAR_1 8, 1, 0}.
-El {STRVAR_1 1, 0, 0} rival recuperó\nun poco de PS usando {STRVAR_1 8, 1, 0}.
-¡{STRVAR_1 8, 0, 0} solo permite\nusar {STRVAR_1 6, 1, 0}!\r
-{STRVAR_1 1, 0, 0} aguantó\ngracias a su {STRVAR_1 8, 1, 0}.
-El {STRVAR_1 1, 0, 0} salvaje aguantó\ngracias a su {STRVAR_1 8, 1, 0}.
-El {STRVAR_1 1, 0, 0} rival aguantó\ngracias a su {STRVAR_1 8, 1, 0}.
-¿Qué? ¡{STRVAR_1 1, 0, 0}\nestá evolucionando!
-¿Eh?\r
+¡Robar está mal!
+¡Esquivó la Ball! ¡No has podido\natrapar a este Pokémon!
+¡Has apuntado mal al Pokémon!
+¡Oh, no!\n¡El Pokémon se ha escapado!
+¡Vaya!\n¡Parecía que lo habías atrapado!
+¡Qué pena!\n¡Te faltó poco!
+¡Huy!\n¡Casi lo consigues!
+{WAIT 0}¡Ya está!\n¡{STRVAR_1 1, 0, 0} atrapado!{WAIT 0}\r
+¿Quieres ponerle un mote al\n{STRVAR_1 1, 0, 0} capturado?{YESNO 0}
+{STRVAR_1 1, 0, 0} fue enviado\nal PC de alguien.
+{STRVAR_1 1, 0, 0} fue enviado al PC de Bill.
+Los datos de {STRVAR_1 1, 0, 0} se han\nregistrado en la Pokédex.\r
+Está lloviendo...
+La tormenta de arena arrecia...
+¡No queda sitio en las Cajas!\n¡No puedes seguir capturando!\r
+¡{STRVAR_1 1, 0, 0} se curó de la\nparálisis con {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje se curó\nde la parálisis con {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo se curó\nde la parálisis con {STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 1, 0, 0} usó {STRVAR_1 8, 1, 0} para\ncurar su envenenamiento!
+¡El {STRVAR_1 1, 0, 0} salvaje usó\n{STRVAR_1 8, 1, 0} para curar su\fenvenenamiento!
+¡El {STRVAR_1 1, 0, 0} enemigo usó\n{STRVAR_1 8, 1, 0} para curar su\fenvenenamiento!
+¡{STRVAR_1 1, 0, 0} se curó las quemaduras\ncon {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje se curó\nlas quemaduras con {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo se curó\nlas quemaduras con {STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 1, 0, 0} se descongeló\ncon {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje se\ndescongeló con {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo se\ndescongeló con {STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 1, 0, 0} se despertó\ncon {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje\nse despertó con {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo\nse despertó con {STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 1, 0, 0} se libró de la\nconfusión con {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje se libró de\nla confusión con {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo se libró de\nla confusión con {STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 1, 0, 0} dejó de estar\n{STRVAR_1 17, 2, 0} usando {STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 1, 0, 0} salvaje dejó de estar\n{STRVAR_1 17, 2, 0} usando {STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 1, 0, 0} enemigo dejó de estar\n{STRVAR_1 17, 2, 0} usando {STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 1, 0, 0} normalizó su\nestado con {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje normalizó\nsu estado con {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo normalizó\nsu estado con {STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 1, 0, 0} restauró su salud\ncon {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje restauró\nsu salud con {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo restauró\nsu salud con {STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 8, 1, 0} de {STRVAR_1 1, 0, 0}\nrestauró los PP de {STRVAR_1 6, 2, 0}!
+¡{STRVAR_1 8, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje restauró los PP\fde {STRVAR_1 6, 2, 0}!
+¡{STRVAR_1 8, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo restauró los PP\fde {STRVAR_1 6, 2, 0}!
+¡{STRVAR_1 8, 1, 0} de {STRVAR_1 1, 0, 0}\nrestauró sus características!
+¡{STRVAR_1 8, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje restauró sus características!
+¡{STRVAR_1 8, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo restauró sus características!
+¡{STRVAR_1 1, 0, 0} restauró un poco\nsus PS con {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje restauró\nun poco sus PS con {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo restauró\nun poco sus PS con {STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 8, 0, 0} solo permite\nel uso de {STRVAR_1 6, 1, 0}!\r
+¡{STRVAR_1 1, 0, 0} resistió usando\n{STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje resistió\nusando {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo resistió\nusando {STRVAR_1 8, 1, 0}!
+¡Anda!\n¡{STRVAR_1 1, 0, 0} está evolucionando!
+¡Anda!\r
 ¡{STRVAR_1 1, 0, 0} está evolucionando!
-{WAIT 3}¡Enhorabuena! Tu {STRVAR_1 1, 0, 0}\nevolucionó a {STRVAR_1 1, 1, 0}!{WAIT 2}\r
-¡Eh! ¡{STRVAR_1 1, 0, 0}\ndejó de evolucionar!\r
-... ...?\r
-¿Qué hará {STRVAR_1 1, 0, 0}?{YESNO 0}
-¿Qué lanzará {STRVAR_1 1, 3, 0}?{YESNO 0}
-Comunicando. Espera, por favor...
-Luchar
-Bolsa
-Pokémon
-Huir
-Cancelar
-Cancelar
-Cancelar
-Bola
-Cebo
-Barro
-
-
-Huir
+{WAIT 0}¡Enhorabuena! ¡Tu {STRVAR_1 1, 0, 0}\nha evolucionado a {STRVAR_1 1, 1, 0}!{WAIT 0}\r
+¿Eh? ¡La evolución de\n{STRVAR_1 1, 0, 0} se ha detenido!\r
+... (?)\r
+¿Qué debería hacer {STRVAR_1 1, 0, 0}?{YESNO 0}
+¿Qué lanzará {STRVAR_1 3, 0, 0}?{YESNO 0}
+Conectando. Por favor, espera...
+LUCHAR
+BOLSA
+POKéMON
+HUIR
+SALIR
+SALIR
+SALIR
+BALLS
+CEBO
+LODO
+    
+    
+HUIDA
 {STRVAR_1 51, 0, 0}/{STRVAR_1 51, 1, 0}
 PP
-¿Qué movimiento\ndebe olvidar?
-Sí
-No
-
-¿Abandonar el combate?{YESNO 0}
-{STRVAR_1 1, 0, 0} {COLOR 1}♂{COLOR 0}\nLv. {STRVAR_1 52, 1, 0}
-{STRVAR_1 1, 0, 0} {COLOR 2}♀{COLOR 0}\nLv. {STRVAR_1 52, 1, 0}
-{STRVAR_1 1, 0, 0}\nLv. {STRVAR_1 52, 1, 0}
+¿Qué movimiento debe olvidar?
+SÍ
+NO
+                   
+¿Quieres retirarte?{YESNO 0}
+{STRVAR_1 1, 0, 0}{COLOR 0}♂{COLOR 0}\nNv. {STRVAR_1 52, 1, 0}
+{STRVAR_1 1, 0, 0}{COLOR 0}♀{COLOR 0}\nNv. {STRVAR_1 52, 1, 0}
+{STRVAR_1 1, 0, 0}\nNv. {STRVAR_1 52, 1, 0}
 {STRVAR_1 13, 0, 0}
-+{STRVAR_1 51, 0, 0}
++ {STRVAR_1 51, 0, 0}
 {STRVAR_1 52, 0, 0}
 SAFARI BALLS
-Quedan: {STRVAR_1 51, 0, 0}
-
-¡Has derrotado a\n{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}\fy a {STRVAR_1 14, 2, 0} {STRVAR_1 3, 3, 0}!\r
-
-¿Quieres abandonar el combate\ny salir ahora?{YESNO 0}
-¡{STRVAR_1 3, 0, 0}\nabandonó el combate!
-
-
-{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0} fled!
-¡Has perdido contra\n{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}!
-¡Empataste contra\n{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}!
-{STRVAR_1 1, 0, 0}{COLOR 3}♂{COLOR 0}
-{STRVAR_1 1, 0, 0}{COLOR 4}♀{COLOR 0}
+Tienes {STRVAR_1 51, 0, 0}
+ 
+¡{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0} ha perdido!\n¡{STRVAR_1 14, 2, 0} {STRVAR_1 3, 3, 0} también!\r
+        
+¿Quieres abandonar el encuentro\ny salir?{YESNO 0}
+¡{STRVAR_1 3, 0, 0} abandona el encuentro!
+        
+        
+¡{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0} ha huido!
+¡Has perdido! La victoria es para...\n¡{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}!
+¡{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0} y tú\nhabéis empatado!
+{STRVAR_1 1, 0, 0}{COLOR 0}♂{COLOR 0}
+{STRVAR_1 1, 0, 0}{COLOR 0}♀{COLOR 0}
 {STRVAR_1 1, 0, 0}
-¡Un {STRVAR_1 1, 0, 0} salvaje apareció!\r
-¡Un {STRVAR_1 1, 0, 0} salvaje apareció!\r (Unused)
-¡Han aparecido {STRVAR_1 1, 0, 0}\ny {STRVAR_1 1, 1, 0} salvajes!\r
-¡Del árbol untado con Miel\napareció {STRVAR_1 1, 0, 0} salvaje!\r
-¡{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}\nte desafía!\r
-¡{STRVAR_1 3, 0, 0}\nte desafía!\r
-¡{STRVAR_1 3, 0, 0} y {STRVAR_1 3, 1, 0}\nte desafían!\r
-{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0} envía a\n{STRVAR_1 1, 2, 0}!
-¡{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0} envía\na {STRVAR_1 1, 2, 0} y {STRVAR_1 1, 3, 0}!
-¡{STRVAR_1 3, 0, 0} envía a\n{STRVAR_1 1, 1, 0}!
-¡{STRVAR_1 3, 0, 0} envía\na {STRVAR_1 1, 1, 0} y {STRVAR_1 1, 2, 0}!
-¡{STRVAR_1 3, 0, 0} envía a {STRVAR_1 1, 1, 0}!\n¡{STRVAR_1 3, 2, 0} envía a {STRVAR_1 1, 3, 0}!
-¡{STRVAR_1 3, 0, 0} envía a\n{STRVAR_1 1, 1, 0}!¡Adelante! {STRVAR_1 1, 2, 0}!
-¡Adelante, {STRVAR_1 1, 0, 0}\ny {STRVAR_1 1, 1, 0}!
-¡Adelante {STRVAR_1 1, 0, 0}!
-¡Te toca a tí, {STRVAR_1 1, 0, 0}!
+¡Un {STRVAR_1 1, 0, 0} salvaje!\r
+¡Un {STRVAR_1 1, 0, 0} salvaje!\r
+¡Un {STRVAR_1 1, 1, 0} y un {STRVAR_1 1, 0, 0}\nsalvajes!\r
+¡Un {STRVAR_1 1, 0, 0} salvaje apareció\nen el árbol que cubriste de Miel!\r
+Prepárate para un desafío a manos\nde... ¡{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}!\r
+¡{STRVAR_1 3, 0, 0} quiere luchar!\r
+¡{STRVAR_1 3, 0, 0} y {STRVAR_1 3, 1, 0}\nquieren luchar!\r
+¡{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0} saca\na {STRVAR_1 1, 2, 0}!
+{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}:\n¡{STRVAR_1 1, 3, 0} y {STRVAR_1 1, 2, 0}, salid!
+¡{STRVAR_1 3, 0, 0} ha sacado\na {STRVAR_1 1, 1, 0}!
+¡{STRVAR_1 3, 0, 0} ha sacado a {STRVAR_1 1, 1, 0}\ny {STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 3, 0, 0} saca a {STRVAR_1 1, 1, 0}!\n¡{STRVAR_1 3, 2, 0} saca a {STRVAR_1 1, 3, 0}!
+¡{STRVAR_1 3, 0, 0} ha sacado\na {STRVAR_1 1, 1, 0}!\f¡Adelante, {STRVAR_1 1, 2, 0}!
+¡Adelante, {STRVAR_1 1, 0, 0} y\n{STRVAR_1 1, 1, 0}!
+¡Adelante, {STRVAR_1 1, 0, 0}!
+¡Vamos, {STRVAR_1 1, 0, 0}!
 ¡Tú puedes, {STRVAR_1 1, 0, 0}!
-¡Tu rival es débil!\n¡Acaba con él, {STRVAR_1 1, 0, 0}!
-¡Un poco más!\n¡Aguanta, {STRVAR_1 1, 0, 0}!
-¡{STRVAR_1 1, 0, 0}, cambio!\n¡Vuelve!
-¡{STRVAR_1 1, 0, 0}, vuelve!
-OK, {STRVAR_1 1, 0, 0}!\n¡Vuelve!
-¡{STRVAR_1 1, 0, 0}, suficiente!\n¡Vuelve!
-¡Buen trabajo, {STRVAR_1 1, 0, 0}!\n¡Vuelve!
-¡{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}\nretiró a {STRVAR_1 1, 2, 0}!
-¡{STRVAR_1 3, 0, 0} retiró a\n{STRVAR_1 1, 1, 0}!
-¡{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}\nenvió a {STRVAR_1 1, 2, 0}!\r¡{STRVAR_1 14, 3, 0} {STRVAR_1 3, 4, 0}\nenvió a {STRVAR_1 1, 5, 0}!\r
-¡{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0} y\f{STRVAR_1 14, 2, 0} {STRVAR_1 3, 3, 0}\nte desafían!\r
-¡{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0} \nenvió a {STRVAR_1 1, 2, 0}!\f¡Adelante! {STRVAR_1 1, 3, 0}!
-{STRVAR_1 1, 0, 0} perdió\nel efecto acumulado.
-El {STRVAR_1 1, 0, 0} salvaje perdió\nel efecto acumulado.
-El {STRVAR_1 1, 0, 0} rival perdió\nel efecto acumulado.
-¡Aumentó la gravedad!
-¡{STRVAR_1 1, 0, 0} cayó del\ncielo por la gravedad!
-¡El {STRVAR_1 1, 0, 0} salvaje cayó del cielo\npor la gravedad!
-¡El {STRVAR_1 1, 0, 0} rival cayó del cielo\npor la gravedad!
+¡Tu enemigo está débil!\n¡A por él, {STRVAR_1 1, 0, 0}!
+¡Ya queda poco!\n¡Aguanta, {STRVAR_1 1, 0, 0}!
+¡{STRVAR_1 1, 0, 0}, cambio!\n¡Vuelve aquí!
+¡{STRVAR_1 1, 0, 0}, ven aquí!
+¡Bien hecho, {STRVAR_1 1, 0, 0}!\n¡Ven aquí!
+¡{STRVAR_1 1, 0, 0}, está bien!\n¡Ven aquí!
+¡Muy bien, {STRVAR_1 1, 0, 0}!\n¡Ven aquí!
+{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}:\n¡{STRVAR_1 1, 2, 0}, retírate!
+¡{STRVAR_1 3, 0, 0} ha retirado\na {STRVAR_1 1, 1, 0}!
+¡{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0} ha sacado\na {STRVAR_1 1, 2, 0}!\r¡{STRVAR_1 14, 3, 0} {STRVAR_1 3, 4, 0} ha sacado\na {STRVAR_1 1, 5, 0}!\r
+¡{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}\nquiere luchar!\f¡{STRVAR_1 14, 2, 0} {STRVAR_1 3, 3, 0} también!\r
+{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}:\n¡{STRVAR_1 1, 2, 0}, a combatir!\f¡Adelante, {STRVAR_1 1, 3, 0}!
+¡Desaparecieron los efectos de la\nReserva de {STRVAR_1 1, 0, 0}!
+¡Desaparecieron los efectos de la\nReserva del {STRVAR_1 1, 0, 0} salvaje!
+¡Desaparecieron los efectos de la\nReserva del {STRVAR_1 1, 0, 0} enemigo!
+¡Se ha incrementado la gravedad!
+¡{STRVAR_1 1, 0, 0} no pudo mantenerse\nen el aire por la gravedad!
+¡El {STRVAR_1 1, 0, 0} salvaje no pudo\nmantenerse en el aire por la gravedad!
+¡El {STRVAR_1 1, 0, 0} enemigo no pudo\nmantenerse en el aire por la gravedad!
 ¡{STRVAR_1 1, 0, 0} no puede usar\n{STRVAR_1 6, 1, 0} por la gravedad!
-¡El {STRVAR_1 1, 0, 0} salvaje no puede usar\n{STRVAR_1 6, 1, 0} por la gravedad!
-¡El {STRVAR_1 1, 0, 0} rival no puede usar\n{STRVAR_1 6, 1, 0} por la gravedad!\r
-¡La gravedad volvió a la normalidad!
-¡El deseo curativo se cumplió!
-¡Quedó cubierto por la luz\nde la luna!
-¡Empezó a soplar viento de cola!
-¡El viento de cola amainó!
-¡{STRVAR_1 1, 0, 0} intercambió\nAtaque y Defensa!
-¡El {STRVAR_1 1, 0, 0} salvaje intercambió\nAtaque y Defensa!
-¡El {STRVAR_1 1, 0, 0} rival intercambió\nAtaque y Defensa!
-¡La habilidad de {STRVAR_1 1, 0, 0}\nfue suprimida!
-¡La habilidad del {STRVAR_1 1, 0, 0} salvaje\nfue suprimida!
-¡La habilidad del {STRVAR_1 1, 0, 0} rival\nfue suprimida!
-{STRVAR_1 1, 0, 0} intercambió los\ncambios de Ataque y At. Especial\fcon su objetivo.
-El {STRVAR_1 1, 0, 0} salvaje intercambió los\ncambios de Ataque y At. Especial\fcon su objetivo.
-El {STRVAR_1 1, 0, 0} rival intercambió los\ncambios de Ataque y At. Especial\fcon su objetivo.
-{STRVAR_1 1, 0, 0} intercambió los\ncambios de Defensa y Def. Especial\fcon su objetivo.
-El {STRVAR_1 1, 0, 0} salvaje intercambió los\ncambios de Defensa y Def. Especial\fcon su objetivo.
-El {STRVAR_1 1, 0, 0} rival intercambió los\ncambios de Defensa y Def. Especial\fcon su objetivo.
-{STRVAR_1 1, 0, 0} obtuvo\n{STRVAR_1 5, 1, 0}!
-El {STRVAR_1 1, 0, 0} salvaje obtuvo\n{STRVAR_1 5, 1, 0}!
-El {STRVAR_1 1, 0, 0} rival obtuvo\n{STRVAR_1 5, 1, 0}!
-{STRVAR_1 1, 0, 0} intercambió los\ncambios de estadísticas con su objetivo.
-El {STRVAR_1 1, 0, 0} salvaje intercambió los\ncambios de estadísticas con su objetivo.
-El {STRVAR_1 1, 0, 0} rival intercambió los\ncambios de estadísticas con su objetivo.
-{STRVAR_1 1, 0, 0} se rodeó\nde un velo de agua.
-El {STRVAR_1 1, 0, 0} salvaje se rodeó\nde un velo de agua.
-El {STRVAR_1 1, 0, 0} rival se rodeó\nde un velo de agua.
-¡{STRVAR_1 6, 1, 0} recuperó\n el hp de {STRVAR_1 1, 0, 0}!
-¡{STRVAR_1 6, 1, 0} recuperó\nel hp del {STRVAR_1 1, 0, 0} salvaje!
-¡{STRVAR_1 6, 1, 0} recuperó\nel hp del {STRVAR_1 1, 0, 0} rival!
-{STRVAR_1 1, 0, 0} se elevó\ncon electromagnetismo.
-El {STRVAR_1 1, 0, 0} salvaje se elevó\ncon electromagnetismo.
-El {STRVAR_1 1, 0, 0} rival se elevó\ncon electromagnetismo.
-{STRVAR_1 1, 0, 0} esquiva\nlos movimientos de Tierra con {STRVAR_1 6, 1, 0}.
-El {STRVAR_1 1, 0, 0} salvaje esquiva\nlos movimientos de Tierra con {STRVAR_1 6, 1, 0}.
-El {STRVAR_1 1, 0, 0} rival esquiva\nlos movimientos de Tierra con {STRVAR_1 6, 1, 0}.
-¡El electromagnetismo de {STRVAR_1 1, 0, 0}\ndesapareció!
-¡El electromagnetismo del {STRVAR_1 1, 0, 0} salvaje\ndesapareció!
-¡El electromagnetismo del {STRVAR_1 1, 0, 0} rival\ndesapareció!
-¡{STRVAR_1 1, 0, 0} lanzó lejos\na {STRVAR_1 6, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} salvaje lanzó lejos\na {STRVAR_1 6, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} rival lanzó lejos\na {STRVAR_1 6, 1, 0}!
-¡{STRVAR_1 1, 0, 0} disipó\nla niebla profunda con {STRVAR_1 6, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} salvaje disipó\nla niebla profunda con {STRVAR_1 6, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} rival disipó\nla niebla profunda con {STRVAR_1 6, 1, 0}!
-¡{STRVAR_1 1, 0, 0} cayó\nen el engaño!
-¡El {STRVAR_1 1, 0, 0} salvaje cayó\nen el engaño!
-¡El {STRVAR_1 1, 0, 0} rival cayó\nen el engaño!
-¡{STRVAR_1 1, 0, 0} no pudo\ncurarse!
-¡El {STRVAR_1 1, 0, 0} salvaje no pudo\ncurarse!
-¡El {STRVAR_1 1, 0, 0} rival no pudo\ncurarse!
-¡{STRVAR_1 1, 0, 0} no pudo curarse\npor culpa de {STRVAR_1 6, 1, 0}!\r
-¡El {STRVAR_1 1, 0, 0} salvaje no pudo curarse\npor culpa de {STRVAR_1 6, 1, 0}!\r
-¡El {STRVAR_1 1, 0, 0} rival no pudo curarse\npor culpa de {STRVAR_1 6, 1, 0}!\r
-¡{STRVAR_1 1, 0, 0} no puede usar\n{STRVAR_1 6, 2, 0} por culpa de\f{STRVAR_1 6, 1, 0}!\r
-¡El {STRVAR_1 1, 0, 0} salvaje no puede usar\n{STRVAR_1 6, 2, 0} por culpa de\f{STRVAR_1 6, 1, 0}!\r
-¡El {STRVAR_1 1, 0, 0} rival no puede usar\n{STRVAR_1 6, 2, 0} por culpa de\f{STRVAR_1 6, 1, 0}!\r
-¡El efecto de {STRVAR_1 6, 1, 0} sobre\n{STRVAR_1 1, 0, 0} terminó!
-¡El efecto de {STRVAR_1 6, 1, 0} sobre el {STRVAR_1 1, 0, 0}\nsalvaje terminó!
-¡El efecto de {STRVAR_1 6, 1, 0} sobre el {STRVAR_1 1, 0, 0}\nrival terminó!
-¡Se esparcieron púas venenosas\npor todo el suelo de tu lado!
-¡Se esparcieron púas venenosas\npor todo el suelo del lado rival!
-¡Las púas venenosas desaparecieron\ndel suelo de tu lado!
-¡Las púas venenosas desaparecieron\ndel suelo del lado rival!
-¡{STRVAR_1 1, 0, 0} volvió\na {STRVAR_1 3, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} salvaje volvió\na {STRVAR_1 3, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} rival volvió\na {STRVAR_1 3, 1, 0}!
-¡{STRVAR_1 1, 0, 0} retorció\nlas dimensiones!
-¡El {STRVAR_1 1, 0, 0} salvaje retorció\nlas dimensiones!
-¡El {STRVAR_1 1, 0, 0} rival retorció\nlas dimensiones!
-{STRVAR_1 1, 0, 0} restauró\nlas dimensiones retorcidas.
-El {STRVAR_1 1, 0, 0} salvaje restauró\nlas dimensiones retorcidas.
-El {STRVAR_1 1, 0, 0} rival restauró\nlas dimensiones retorcidas.
-¡Las dimensiones retorcidas volvieron\na la normalidad!
-¡Flotan piedras puntiagudas\nalrededor de tu lado!
-¡Flotan piedras puntiagudas\nalrededor del lado rival!
-¡Las piedras puntiagudas se clavaron en\n{STRVAR_1 1, 0, 0}!
-¡Las piedras puntiagudas se clavaron en\nel {STRVAR_1 1, 0, 0} salvaje!
-¡Las piedras puntiagudas se clavaron en\nel {STRVAR_1 1, 0, 0} rival!
-¡{STRVAR_1 1, 0, 0} desapareció\nal instante!
-¡El {STRVAR_1 1, 0, 0} salvaje desapareció\nal instante!
-¡El {STRVAR_1 1, 0, 0} rival desapareció\nal instante!
-¡El canto afortunado de tu equipo terminó!
-¡El canto afortunado del equipo rival terminó!
-¡{STRVAR_1 1, 0, 0}\nrompe el molde!
-¡El {STRVAR_1 1, 0, 0} salvaje\nrompe el molde!
-¡El {STRVAR_1 1, 0, 0} rival\nrompe el molde!
-{STRVAR_1 1, 0, 0} sufre daño\npor su habilidad {STRVAR_1 5, 1, 0}.
-El {STRVAR_1 1, 0, 0} salvaje sufre daño\npor su habilidad {STRVAR_1 5, 1, 0}.
-El {STRVAR_1 1, 0, 0} rival sufre daño\npor su habilidad {STRVAR_1 5, 1, 0}.
-{STRVAR_1 1, 0, 0} maximizó su\n{STRVAR_1 13, 2, 0}.
-El {STRVAR_1 1, 0, 0} salvaje maximizó su\n{STRVAR_1 13, 2, 0}.
-El {STRVAR_1 1, 0, 0} rival maximizó su\n{STRVAR_1 13, 2, 0}.
-{STRVAR_1 1, 0, 0} perdió PS\npor su habilidad {STRVAR_1 5, 1, 0}.
-El {STRVAR_1 1, 0, 0} salvaje perdió PS\npor su habilidad {STRVAR_1 5, 1, 0}.
-El {STRVAR_1 1, 0, 0} rival perdió PS\npor su habilidad {STRVAR_1 5, 1, 0}.
-{STRVAR_1 1, 2, 0} sufrió daño por\nla habilidad {STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}!
-El {STRVAR_1 1, 2, 0} salvaje sufrió daño por\nla habilidad {STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}!
-El {STRVAR_1 1, 2, 0} rival sufrió daño por\nla habilidad {STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}!
-{STRVAR_1 1, 2, 0} sufrió daño por\nla habilidad {STRVAR_1 5, 1, 0} del salvaje!
-El {STRVAR_1 1, 2, 0} salvaje sufrió daño por la habilidad\n{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0} salvaje!
-{STRVAR_1 1, 2, 0} sufrió daño por\nla habilidad {STRVAR_1 5, 1, 0} del rival!
-El {STRVAR_1 1, 2, 0} rival sufrió daño por\nla habilidad {STRVAR_1 5, 1, 0}\fdel {STRVAR_1 1, 0, 0} rival!
+¡El {STRVAR_1 1, 0, 0} salvaje no puede\nusar {STRVAR_1 6, 1, 0} por la gravedad!
+¡El {STRVAR_1 1, 0, 0} enemigo no puede\nusar {STRVAR_1 6, 1, 0} por la gravedad!\r
+¡La gravedad ha vuelto\na su estado normal!
+¡El deseo de cura se hizo realidad!
+¡Quedó envuelto en mística luz de luna!
+¡Viento Afín comenzó a soplar!
+¡Viento Afín ha cesado!
+¡{STRVAR_1 1, 0, 0} cambió su Ataque\ny Defensa!
+¡El {STRVAR_1 1, 0, 0} salvaje cambió\nsu Ataque y Defensa!
+¡El {STRVAR_1 1, 0, 0} enemigo cambió\nsu Ataque y Defensa!
+¡Se suprimió la habilidad\nde {STRVAR_1 1, 0, 0}!
+¡Se suprimió la habilidad\ndel {STRVAR_1 1, 0, 0} salvaje!
+¡Se suprimió la habilidad\ndel {STRVAR_1 1, 0, 0} enemigo!
+¡{STRVAR_1 1, 0, 0} intercambió todos\nlos cambios de Ataque y Ataque\fEspecial con el objetivo!
+¡El {STRVAR_1 1, 0, 0} salvaje intercambió\ntodos los cambios de Ataque\fy Ataque Especial con el objetivo!
+¡El {STRVAR_1 1, 0, 0} enemigo intercambió\ntodos los cambios de Ataque\fy Ataque Especial con el objetivo!
+¡{STRVAR_1 1, 0, 0} intercambió todos los\ncambios de Defensa y Defensa\fEspecial con el objetivo!
+¡El {STRVAR_1 1, 0, 0} salvaje intercambió\ntodos los cambios de Defensa y\fDefensa Especial con el objetivo!
+¡El {STRVAR_1 1, 0, 0} enemigo intercambió\ntodos los cambios de Defensa y\fDefensa Especial con el objetivo!
+¡{STRVAR_1 1, 0, 0} adquirió {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje\nadquirió {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo\nadquirió {STRVAR_1 5, 1, 0}!
+¡{STRVAR_1 1, 0, 0} intercambió los cambios\nde características con el objetivo!
+¡El {STRVAR_1 1, 0, 0} salvaje intercambió\nlos cambios de características\fcon el objetivo!
+¡El {STRVAR_1 1, 0, 0} enemigo intercambió\nlos cambios de características\fcon el objetivo!
+¡{STRVAR_1 1, 0, 0} se rodeó de\nun manto de agua!
+¡El {STRVAR_1 1, 0, 0} salvaje se rodeó\nde un manto de agua!
+¡El {STRVAR_1 1, 0, 0} enemigo se rodeó\nde un manto de agua!
+¡{STRVAR_1 6, 1, 0} recuperó los PS de\n{STRVAR_1 1, 0, 0}!
+¡{STRVAR_1 6, 1, 0} recuperó los PS del\n{STRVAR_1 1, 0, 0} salvaje!
+¡{STRVAR_1 6, 1, 0} recuperó los PS del\n{STRVAR_1 1, 0, 0} enemigo!
+¡{STRVAR_1 1, 0, 0} levita por\nelectromagnetismo!
+¡El {STRVAR_1 1, 0, 0} salvaje levita\npor electromagnetismo!
+¡El {STRVAR_1 1, 0, 0} enemigo levita\npor electromagnetismo!
+¡{STRVAR_1 1, 0, 0} impide movimientos\nde Tierra con {STRVAR_1 6, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje impide\nmovimientos de Tierra\fcon {STRVAR_1 6, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo impide\nmovimientos de Tierra\fcon {STRVAR_1 6, 1, 0}!
+¡El electromagnetismo de\n{STRVAR_1 1, 0, 0} desapareció!
+¡El electromagnetismo del\n{STRVAR_1 1, 0, 0} salvaje desapareció!
+¡El electromagnetismo del\n{STRVAR_1 1, 0, 0} enemigo desapareció!
+¡{STRVAR_1 1, 0, 0} se deshizo\nde {STRVAR_1 6, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje se deshizo\nde {STRVAR_1 6, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo se deshizo\nde {STRVAR_1 6, 1, 0}!
+¡{STRVAR_1 1, 0, 0} disipó la densa\nniebla con {STRVAR_1 6, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje disipó\nla densa niebla con {STRVAR_1 6, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo disipó\nla densa niebla con {STRVAR_1 6, 1, 0}!
+¡{STRVAR_1 1, 0, 0} se dejó engañar\npor Amago!
+¡El {STRVAR_1 1, 0, 0} salvaje se dejó\nengañar por Amago!
+¡El {STRVAR_1 1, 0, 0} enemigo se dejó\nengañar por Amago!
+¡{STRVAR_1 1, 0, 0} no puede curarse!
+¡El {STRVAR_1 1, 0, 0} salvaje\nno puede curarse!
+¡El {STRVAR_1 1, 0, 0} enemigo\nno puede curarse!
+¡{STRVAR_1 1, 0, 0} no puede curarse\npor {STRVAR_1 6, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje no puede\ncurarse por {STRVAR_1 6, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo no puede\ncurarse por {STRVAR_1 6, 1, 0}!
+¡{STRVAR_1 1, 0, 0} no puede usar\n{STRVAR_1 6, 2, 0} debido a\f{STRVAR_1 6, 1, 0}!\r
+¡El {STRVAR_1 1, 0, 0} salvaje no puede\nusar {STRVAR_1 6, 2, 0} debido a\f{STRVAR_1 6, 1, 0}!\r
+¡El {STRVAR_1 1, 0, 0} enemigo no puede\nusar {STRVAR_1 6, 2, 0} debido a\f{STRVAR_1 6, 1, 0}!\r
+¡{STRVAR_1 6, 1, 0} de {STRVAR_1 1, 0, 0}\nse agotó!
+¡{STRVAR_1 6, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje se agotó!
+¡{STRVAR_1 6, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo se agotó!
+¡Tu equipo ha sido rodeado\nde Púas Tóxicas!
+¡El equipo enemigo ha sido\nrodeado de Púas Tóxicas!
+¡Las Púas Tóxicas lanzadas\na tu equipo desaparecieron!
+¡Las Púas Tóxicas lanzadas al equipo\nenemigo desaparecieron!
+¡{STRVAR_1 1, 0, 0} volvió con {STRVAR_1 3, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje volvió\ncon {STRVAR_1 3, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo volvió\ncon {STRVAR_1 3, 1, 0}!
+¡{STRVAR_1 1, 0, 0} alteró las dimensiones!
+¡El {STRVAR_1 1, 0, 0} salvaje alteró\nlas dimensiones!
+¡El {STRVAR_1 1, 0, 0} enemigo alteró\nlas dimensiones!
+¡{STRVAR_1 1, 0, 0} restauró\nlas dimensiones alteradas!
+¡El {STRVAR_1 1, 0, 0} salvaje restauró\nlas dimensiones alteradas!
+¡El {STRVAR_1 1, 0, 0} enemigo restauró\nlas dimensiones alteradas!
+¡Se han restaurado\nlas dimensiones alteradas!
+¡Tu equipo está rodeado\nde piedras puntiagudas!
+¡El equipo enemigo está rodeado\nde piedras puntiagudas!
+¡Se han clavado piedras puntiagudas\nen {STRVAR_1 1, 0, 0}!
+¡Se han clavado piedras puntiagudas\nen el {STRVAR_1 1, 0, 0} salvaje!
+¡Se han clavado piedras puntiagudas\nen el {STRVAR_1 1, 0, 0} enemigo!
+¡{STRVAR_1 1, 0, 0} desapareció\ninstantáneamente!
+¡El {STRVAR_1 1, 0, 0} salvaje desapareció\ninstantáneamente!
+¡El {STRVAR_1 1, 0, 0} enemigo desapareció\ninstantáneamente!
+¡El Conjuro de tu equipo\nse ha desvanecido!
+¡El Conjuro del equipo enemigo\nse ha desvanecido!
+¡{STRVAR_1 1, 0, 0} tiene {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje\ntiene {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo\ntiene {STRVAR_1 5, 1, 0}!
+¡{STRVAR_1 1, 0, 0} fue dañado\npor su {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje fue dañado\npor su {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo fue dañado\npor su {STRVAR_1 5, 1, 0}!
+¡{STRVAR_1 1, 0, 0} subió su {STRVAR_1 13, 2, 0}\nal máximo con {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje subió su\n{STRVAR_1 13, 2, 0} al máximo con {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo subió su\n{STRVAR_1 13, 2, 0} al máximo con {STRVAR_1 5, 1, 0}!
+¡{STRVAR_1 1, 0, 0} perdió algunos PS\ndebido a su {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje perdió\nalgunos PS debido a su {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo perdió\nalgunos PS debido a su {STRVAR_1 5, 1, 0}!
+¡{STRVAR_1 1, 2, 0} fue herido\npor {STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}!
+¡El {STRVAR_1 1, 2, 0} salvaje fue herido\npor {STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}!
+¡El {STRVAR_1 1, 2, 0} enemigo fue herido\npor {STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}!
+¡{STRVAR_1 1, 2, 0} fue herido\npor {STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\fsalvaje!
+¡El {STRVAR_1 1, 2, 0} salvaje fue herido\npor {STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\fsalvaje!
+¡{STRVAR_1 1, 2, 0} fue herido por\n{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\fenemigo!
+¡El {STRVAR_1 1, 2, 0} enemigo fue herido\npor {STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\fenemigo!
 ¡{STRVAR_1 5, 0, 0} de {STRVAR_1 1, 1, 0}\nle hizo estremecerse!
-El {STRVAR_1 1, 1, 0} salvaje hizo estremecerse\na su rival con {STRVAR_1 5, 0, 0}.
-El {STRVAR_1 1, 1, 0} rival hizo estremecerse\na su rival con {STRVAR_1 5, 0, 0}.
-¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nle alertó de {STRVAR_1 6, 2, 0}!
-El {STRVAR_1 1, 0, 0} salvaje supo gracias a Alerta\nque {STRVAR_1 6, 2, 0} se acercaba.
-El {STRVAR_1 1, 0, 0} rival supo gracias a Alerta\nque {STRVAR_1 6, 2, 0} se acercaba.
-{STRVAR_1 1, 0, 0} tarda\nen arrancar.
-El {STRVAR_1 1, 0, 0} salvaje tarda\nen arrancar.
-El {STRVAR_1 1, 0, 0} rival tarda\nen arrancar.
-{STRVAR_1 1, 0, 0} por fin\nse ha puesto las pilas.
-El {STRVAR_1 1, 0, 0} salvaje por fin\nse ha puesto las pilas.
-El {STRVAR_1 1, 0, 0} rival por fin\nse ha puesto las pilas.
-{STRVAR_1 1, 0, 0} registró a su\nrival y encontró un {STRVAR_1 8, 1, 0}!
-El {STRVAR_1 1, 0, 0} salvaje registró a su\nrival y encontró un {STRVAR_1 8, 1, 0}!
-El {STRVAR_1 1, 0, 0} rival registró a su\nrival y encontró un {STRVAR_1 8, 1, 0}!
-{STRVAR_1 1, 0, 0} está atormetado.
-El {STRVAR_1 1, 0, 0} salvaje está atormetado.
-El {STRVAR_1 1, 0, 0} rival está atormetado.
-(unused)
-(unused)
-(unused)
-(unused)
-{STRVAR_1 1, 0, 0} maximizó su\n{STRVAR_1 13, 2, 0} con su {STRVAR_1 8, 1, 0}.
-El {STRVAR_1 1, 0, 0} salvaje maximizó su\n{STRVAR_1 13, 2, 0} con su {STRVAR_1 8, 1, 0}.
-El {STRVAR_1 1, 0, 0} rival maximizó su\n{STRVAR_1 13, 2, 0} con su {STRVAR_1 8, 1, 0}.
-¡Su disfraz le sirvió de señuelo!
-¡{STRVAR_1 1, 0, 0} sufre daño\npor su {STRVAR_1 8, 1, 0}!
-El {STRVAR_1 1, 0, 0} salvaje\nsufre daño por su {STRVAR_1 8, 1, 0}!
-El {STRVAR_1 1, 0, 0} rival\nsufre daño por su {STRVAR_1 8, 1, 0}!
-{STRVAR_1 1, 0, 0} ya no puede\nusar objetos.
-El {STRVAR_1 1, 0, 0} salvaje ya no puede\nusar objetos.
-El {STRVAR_1 1, 0, 0} rival ya no puede\nusar objetos.
-{STRVAR_1 1, 0, 0} puede volver\na usar objetos.
-El {STRVAR_1 1, 0, 0} salvaje puede volver\na usar objetos.
-El {STRVAR_1 1, 0, 0} rival puede volver\na usar objetos.
-{STRVAR_1 1, 0, 0} robó y\nse comió el {STRVAR_1 8, 1, 0} de su objetivo.
-El {STRVAR_1 1, 0, 0} salvaje robó y\nse comió el {STRVAR_1 8, 1, 0} de su objetivo.
-El {STRVAR_1 1, 0, 0} rival robó y\nse comió el {STRVAR_1 8, 1, 0} de su objetivo.
-{STRVAR_1 1, 0, 0} lanzó\nsu {STRVAR_1 8, 1, 0}!
-El {STRVAR_1 1, 0, 0} salvaje lanzó\nsu {STRVAR_1 8, 1, 0}!
-El {STRVAR_1 1, 0, 0} rival lanzó\nsu {STRVAR_1 8, 1, 0}!
-{STRVAR_1 1, 0, 0} usó su {STRVAR_1 5, 1, 0}\npara anular el {STRVAR_1 8, 2, 0}!
-El {STRVAR_1 1, 0, 0} salvaje usó su {STRVAR_1 5, 1, 0}\npara volver inútil\fel {STRVAR_1 8, 2, 0}!
-El {STRVAR_1 1, 0, 0} rival usó su {STRVAR_1 5, 1, 0}\npara volver inútil\fel {STRVAR_1 8, 2, 0}!
+¡{STRVAR_1 5, 0, 0} del {STRVAR_1 1, 1, 0}\nsalvaje le hizo estremecerse!
+¡{STRVAR_1 5, 0, 0} del {STRVAR_1 1, 1, 0}\nenemigo le hizo estremecerse!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\ndetectó {STRVAR_1 6, 2, 0}!
+¡Alerta del {STRVAR_1 1, 0, 0} salvaje\ndetectó {STRVAR_1 6, 2, 0}!
+¡Alerta del {STRVAR_1 1, 0, 0} enemigo\ndetectó {STRVAR_1 6, 2, 0}!
+¡{STRVAR_1 1, 0, 0} no está al máximo\npor su {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje no está\nal máximo por su {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo no está\nal máximo por su {STRVAR_1 5, 1, 0}!
+¡{STRVAR_1 1, 0, 0} por fin está al máximo!
+¡El {STRVAR_1 1, 0, 0} salvaje por fin\nestá al máximo!
+¡El {STRVAR_1 1, 0, 0} enemigo por fin\nestá al máximo!
+¡{STRVAR_1 1, 0, 0} cacheó a su rival\ny encontró {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje cacheó\na su rival y encontró {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo cacheó\na su rival y encontró {STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 1, 2, 0} sufre por\n{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}!
+¡El {STRVAR_1 1, 2, 0} salvaje sufre por\n{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}!
+¡El {STRVAR_1 1, 2, 0} enemigo sufre por\n{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}!
+¡{STRVAR_1 1, 2, 0} sufre por\n{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\fsalvaje!
+¡El {STRVAR_1 1, 2, 0} salvaje sufre por\n{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\fsalvaje!
+¡{STRVAR_1 1, 2, 0} sufre por\n{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\fenemigo!
+¡El {STRVAR_1 1, 2, 0} enemigo sufre por\n{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\fenemigo!
+¡{STRVAR_1 1, 0, 0} subió su {STRVAR_1 13, 2, 0}\nal máximo con {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje subió su\n{STRVAR_1 13, 2, 0} al máximo con {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo subió su\n{STRVAR_1 13, 2, 0} al máximo con {STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 8, 0, 0} debilitó el poder\nde {STRVAR_1 6, 1, 0}!
+¡{STRVAR_1 1, 0, 0} fue herido\npor {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje fue herido\npor {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo fue herido\npor {STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 1, 0, 0} no puede usar objetos!
+¡El {STRVAR_1 1, 0, 0} salvaje no puede\nusar objetos!
+¡El {STRVAR_1 1, 0, 0} enemigo no puede\nusar objetos!
+¡{STRVAR_1 1, 0, 0} ya puede\nusar objetos de nuevo!
+¡El {STRVAR_1 1, 0, 0} salvaje ya puede\nusar objetos de nuevo!
+¡El {STRVAR_1 1, 0, 0} enemigo ya puede\nusar objetos de nuevo!
+¡{STRVAR_1 1, 0, 0} robó y se comió la\n{STRVAR_1 8, 1, 0} del rival!
+¡El {STRVAR_1 1, 0, 0} salvaje robó y se\ncomió la {STRVAR_1 8, 1, 0} del rival!
+¡El {STRVAR_1 1, 0, 0} enemigo robó y se\ncomió la {STRVAR_1 8, 1, 0} del rival!
+¡{STRVAR_1 1, 0, 0} tiró su {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje tiró\nsu {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo tiró\nsu {STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 5, 1, 0} de {STRVAR_1 1, 0, 0}\nanuló {STRVAR_1 8, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje anuló {STRVAR_1 8, 2, 0}!
+¡{STRVAR_1 5, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo anuló {STRVAR_1 8, 2, 0}!
 ¡{STRVAR_1 8, 1, 0} de {STRVAR_1 1, 0, 0}\nenamoró a {STRVAR_1 1, 2, 0}!
-{STRVAR_1 1, 0, 0} usó {STRVAR_1 8, 1, 0}\npara enamorar al {STRVAR_1 1, 2, 0} salvaje!
-{STRVAR_1 1, 0, 0} usó {STRVAR_1 8, 1, 0}\npara enamorar al {STRVAR_1 1, 2, 0} rival!
-El {STRVAR_1 1, 0, 0} salvaje usó {STRVAR_1 8, 1, 0}\npara enamorar a {STRVAR_1 1, 2, 0}!
-El {STRVAR_1 1, 0, 0} salvaje usó {STRVAR_1 8, 1, 0}\npara enamorar al {STRVAR_1 1, 2, 0}\fsalvaje!
-El {STRVAR_1 1, 0, 0} rival usó {STRVAR_1 8, 1, 0}\npara enamorar a {STRVAR_1 1, 2, 0}!
-El {STRVAR_1 1, 0, 0} rival usó {STRVAR_1 8, 1, 0}\npara enamorar al {STRVAR_1 1, 2, 0}\frival!
-{STRVAR_1 1, 0, 0} aumentó\nla precisión de su próximo movimiento\fusando {STRVAR_1 8, 1, 0}!
-El {STRVAR_1 1, 0, 0} salvaje aumentó\nla precisión de su próximo movimiento\fusando {STRVAR_1 8, 1, 0}!
-El {STRVAR_1 1, 0, 0} rival aumentó\nla precisión de su próximo movimiento\fusando {STRVAR_1 8, 1, 0}!
-¡{STRVAR_1 1, 0, 0} sufrió daño por\n{STRVAR_1 1, 1, 0} y su {STRVAR_1 8, 2, 0}!
-¡{STRVAR_1 1, 0, 0} sufrió daño del\n{STRVAR_1 1, 1, 0} salvaje y su {STRVAR_1 8, 2, 0}!
-¡{STRVAR_1 1, 0, 0} sufrió daño del\n{STRVAR_1 1, 1, 0} rival y su {STRVAR_1 8, 2, 0}!
-¡El {STRVAR_1 1, 0, 0} salvaje sufrió daño por\n{STRVAR_1 1, 1, 0} y su {STRVAR_1 8, 2, 0}!
-¡El {STRVAR_1 1, 0, 0} salvaje sufrió daño por el\n{STRVAR_1 1, 1, 0} salvaje y su {STRVAR_1 8, 2, 0}!
-¡El {STRVAR_1 1, 0, 0} rival sufrió daño por\n{STRVAR_1 1, 1, 0} y su {STRVAR_1 8, 2, 0}!
-¡El {STRVAR_1 1, 0, 0} rival sufrió daño por el\n{STRVAR_1 1, 1, 0} rival y su {STRVAR_1 8, 2, 0}!
-¡Guau!\n¡Un {STRVAR_1 1, 0, 0} salvaje se lanzó al ataque!
-¡{STRVAR_1 1, 0, 0} se envenenó gravemente\npor {STRVAR_1 8, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} salvaje se envenenó gravemente\npor {STRVAR_1 8, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} rival se envenenó gravemente\npor {STRVAR_1 8, 1, 0}!
-¡{STRVAR_1 1, 0, 0} se quemó\npor {STRVAR_1 8, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} salvaje se quemó\npor {STRVAR_1 8, 1, 0}!
-¡El {STRVAR_1 1, 0, 0} rival se quemó\npor {STRVAR_1 8, 1, 0}!
-¡{STRVAR_1 1, 0, 0} se transfirió a\n{STRVAR_1 11, 1, 0} en un PC!
-¡{STRVAR_1 1, 0, 0} se transfirió a\n{STRVAR_1 11, 1, 0} en el PC de Bill!
-El PC de alguien está lleno.\r{STRVAR_1 1, 0, 0} se transfirió a\n{STRVAR_1 11, 2, 0} en su lugar!
-El PC de Bill está lleno.\r{STRVAR_1 1, 0, 0} se transfirió a\n{STRVAR_1 11, 2, 0} en su lugar!
-{STRVAR_1 1, 0, 0} quiere aprender\nel movimiento {STRVAR_1 6, 1, 0}.\r
+¡{STRVAR_1 8, 1, 0} de {STRVAR_1 1, 0, 0}\nenamoró al {STRVAR_1 1, 2, 0} salvaje!
+¡{STRVAR_1 8, 1, 0} de {STRVAR_1 1, 0, 0}\nenamoró al {STRVAR_1 1, 2, 0} enemigo!
+¡{STRVAR_1 8, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje enamoró a {STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 8, 1, 0} del {STRVAR_1 1, 0, 0}\nsalvaje enamoró al {STRVAR_1 1, 2, 0}\fsalvaje!
+¡{STRVAR_1 8, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo enamoró a {STRVAR_1 1, 2, 0}!
+¡{STRVAR_1 8, 1, 0} del {STRVAR_1 1, 0, 0}\nenemigo enamoró al {STRVAR_1 1, 2, 0}\fenemigo!
+¡{STRVAR_1 1, 0, 0} aumentó la precisión\nde su próximo movimiento\fusando {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje aumentó la\nprecisión de su próximo movimiento\fusando {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo aumentó la\nprecisión de su próximo movimiento\fusando {STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 1, 0, 0} fue herido\npor {STRVAR_1 8, 2, 0} de {STRVAR_1 1, 1, 0}!
+¡{STRVAR_1 1, 0, 0} fue herido\npor {STRVAR_1 8, 2, 0} del {STRVAR_1 1, 1, 0}\fsalvaje!
+¡{STRVAR_1 1, 0, 0} fue herido\npor {STRVAR_1 8, 2, 0} del {STRVAR_1 1, 1, 0}\fenemigo!
+¡El {STRVAR_1 1, 0, 0} salvaje fue herido\npor {STRVAR_1 8, 2, 0} de {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje fue herido\npor {STRVAR_1 8, 2, 0} del {STRVAR_1 1, 1, 0}\fsalvaje!
+¡El {STRVAR_1 1, 0, 0} enemigo fue herido\npor {STRVAR_1 8, 2, 0} de {STRVAR_1 1, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo fue herido\npor {STRVAR_1 8, 2, 0} del {STRVAR_1 1, 1, 0}\fenemigo!
+¡Vaya!\n¡Un {STRVAR_1 1, 0, 0} ataca!
+¡{STRVAR_1 1, 0, 0} fue gravemente\nenvenenado por {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje fue\ngravemente envenenado por\f{STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo fue\ngravemente envenenado por\f{STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 1, 0, 0} fue quemado\npor {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje\nfue quemado por {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo\nfue quemado por {STRVAR_1 8, 1, 0}!
+¡Se envió a {STRVAR_1 1, 0, 0} a\n{STRVAR_1 11, 1, 0} en el PC de alguien!
+¡Se envió a {STRVAR_1 1, 0, 0} a\n{STRVAR_1 11, 1, 0} en el PC de Bill!
+No hay espacio en {STRVAR_1 11, 1, 0}\nen el PC de alguien.\r¡En su lugar se envía a\n{STRVAR_1 1, 0, 0} a {STRVAR_1 11, 2, 0}!
+No hay espacio en {STRVAR_1 11, 1, 0}\nen el PC de Bill.\r¡En su lugar se envía a\n{STRVAR_1 1, 0, 0} a {STRVAR_1 11, 2, 0}!
+¡{STRVAR_1 1, 0, 0} intenta aprender\n{STRVAR_1 6, 1, 0}!\r
 Pero {STRVAR_1 1, 0, 0} no puede aprender\nmás de cuatro movimientos.\r
-¿Quieres que olvide\notro movimiento?{YESNO 0}
-{ALN_CENTER}¡Olvidar un movimiento!
-{ALN_CENTER}¡Conservar los antiguos!
-¿Qué movimiento debe\nolvidar?{YESNO 0}
-Bueno, entonces...\r
-¿Quieres que este Pokémon deje de\naprender este movimiento?{YESNO 0}
-{ALN_CENTER}¡Dejar de aprender {STRVAR_1 6, 0, 0}!
-{ALN_CENTER}¡No dejar de aprender {STRVAR_1 6, 0, 0}!
-{STRVAR_1 1, 0, 0} no aprendió\n{STRVAR_1 6, 1, 0}.\r
-Uno...{PAUSE 20}dos...{PAUSE 20}y...{PAUSE 20}{WAIT 4}¡tachán!\r
-{STRVAR_1 1, 0, 0} olvidó\n{STRVAR_1 6, 1, 0}.\r
+¿Quieres que olvide otro\nmovimiento?{YESNO 0}
+{ALN_CENTER}Olvidar otro movimiento
+{ALN_CENTER}Mantener movimientos antiguos
+¿Qué movimiento debe olvidar?{YESNO 0}
+Entonces...\r
+¿Quieres que este Pokémon no\naprenda el nuevo movimiento?{YESNO 0}
+{ALN_CENTER}No aprender {STRVAR_1 6, 0, 0}
+{ALN_CENTER}Aprender {STRVAR_1 6, 0, 0}
+¡{STRVAR_1 1, 0, 0} no aprendió\n{STRVAR_1 6, 1, 0}!\r
+1, {PAUSE 0}2 y{PAUSE 0}... {PAUSE 0}... {PAUSE 0}... {WAIT 0}¡puf!\r
+¡{STRVAR_1 1, 0, 0} olvidó {STRVAR_1 6, 1, 0}!\r
 Y...\r
-¡{STRVAR_1 1, 0, 0} aprendió\n{STRVAR_1 6, 1, 0}!{WAIT 5}{WAIT 2}\r
-{STRVAR_1 1, 0, 0} quiere aprender\nel movimiento {STRVAR_1 6, 1, 0}.\r
-Pero {STRVAR_1 1, 0, 0} ya conoce\ncuatro movimientos.\r
-¿Quieres borrar un movimiento? {YESNO 0}
+¡{STRVAR_1 1, 0, 0} aprendió\n{STRVAR_1 6, 1, 0}!{WAIT 0}{WAIT 0}\r
+¡{STRVAR_1 1, 0, 0} intenta aprender\n{STRVAR_1 6, 1, 0}!\r
+Pero {STRVAR_1 1, 0, 0} no puede aprender\nmás de cuatro movimientos.\r
+¿Olvidar un movimiento?{YESNO 0}
 ¿Qué movimiento debe olvidar?\r
-¿Dejar de enseñar\n{STRVAR_1 6, 0, 0}? {YESNO 0}
-{STRVAR_1 1, 0, 0} no aprendió el\nmovimiento {STRVAR_1 6, 1, 0}.\r
-Uno...{PAUSE 20}dos...{PAUSE 20}y...{PAUSE 20}{WAIT 4}¡tachán!\r
-{STRVAR_1 1, 0, 0} olvidó\n{STRVAR_1 6, 1, 0}.\r
+¿Prefieres que no aprenda\n{STRVAR_1 6, 0, 0}?{YESNO 0}
+¡{STRVAR_1 1, 0, 0} no aprendió\n{STRVAR_1 6, 1, 0}!\r
+1, {PAUSE 0}2 y{PAUSE 0}... {PAUSE 0}... {PAUSE 0}... {WAIT 0}¡puf!\r
+¡{STRVAR_1 1, 0, 0} olvidó {STRVAR_1 6, 1, 0}!\r
 Y...\r
-¡{STRVAR_1 1, 0, 0} aprendió\n{STRVAR_1 6, 1, 0}!{WAIT 5}{WAIT 2}\r
-¡El {STRVAR_1 13, 1, 0} de {STRVAR_1 1, 0, 0}\naumentó!
-¡Tu equipo quedó cubierto por\nuna niebla blanca!
-¡{STRVAR_1 1, 0, 0} se está\nanimando!
-¡Has usado {STRVAR_1 8, 0, 0}!
-{STRVAR_1 1, 0, 0} se curó del\nenvenenamiento.
-{STRVAR_1 1, 0, 0} se curó de\nla parálisis.
-La quemadura de {STRVAR_1 1, 0, 0} se curó.
-{STRVAR_1 1, 0, 0} se despertó.
-{STRVAR_1 1, 0, 0} se descongeló.
-{STRVAR_1 1, 0, 0} se recuperó de\nla confusión.
-{STRVAR_1 1, 0, 0} superó el\nenamoramiento.
-Los PS de {STRVAR_1 1, 0, 0} se recuperaron\n{STRVAR_1 52, 1, 0} punto(s).
+¡{STRVAR_1 1, 0, 0} aprendió\n{STRVAR_1 6, 1, 0}!{WAIT 0}{WAIT 0}\r
+¡{STRVAR_1 13, 1, 0} de {STRVAR_1 1, 0, 0} subió!
+¡Tu equipo ha quedado rodeado\npor una neblina blanca!
+¡{STRVAR_1 1, 0, 0} se está\npreparando para luchar!
+¡Se usó el objeto {STRVAR_1 8, 0, 0}!
+{STRVAR_1 1, 0, 0} se ha curado\ndel envenenamiento.
+{STRVAR_1 1, 0, 0} se ha curado\nde la parálisis.
+{STRVAR_1 1, 0, 0} ya no tiene quemaduras.
+¡{STRVAR_1 1, 0, 0} se despertó!
+{STRVAR_1 1, 0, 0} ya no está congelado.
+{STRVAR_1 1, 0, 0} ya no está confuso.
+{STRVAR_1 1, 0, 0} ya no está enamorado.
+{STRVAR_1 1, 0, 0} ha recuperado {STRVAR_1 52, 1, 0} PS.
 Cambiar Pokémon
-Seguir combatiendo
-Usar siguiente Pokémon
+Seguir luchando
+Usar otro Pokémon
 Huir
-¡Vaya! ¡El {STRVAR_1 1, 1, 0} de {STRVAR_1 3, 0, 0}\nse acerca!\r
-Bolas del parque
-Quedan: {STRVAR_1 51, 0, 0}
-¿Qué hará {STRVAR_1 3, 0, 0}?{YESNO 0}
-Bola
-Huir
-{STRVAR_1 1, 0, 0}, ¡vuelve!
-¡Muy bien! ¡Le he bajado los PS!\n¡Es hora de lanzar una Poké Ball!{YESNO 0}
-¡Vale! ¡Tiene pocos PS!\n¡Ya está listo para una Poké Ball!{YESNO 0}
-¡{STRVAR_1 3, 0, 0} lanzó\nuna Poké Ball!
-{STRVAR_1 1, 0, 0} superó su\nproblema de estado.
-¡Empezó a soplar viento de cola\nen tu lado!
-¡Empezó a soplar viento de cola\nen el lado rival!
-El viento de cola de tu lado\namainó.
-El viento de cola del lado rival\namainó.
-Pero no había ningún objetivo...
-¡No afectó a\n{STRVAR_1 1, 0, 0}!
-¡No afectó al {STRVAR_1 1, 0, 0}\nsalvaje!
-¡No afectó al {STRVAR_1 1, 0, 0}\nrival!
-{STRVAR_1 1, 0, 0} está ejerciendo\nsu habilidad {STRVAR_1 5, 1, 0}.
-El {STRVAR_1 1, 0, 0} salvaje está ejerciendo\nsu habilidad {STRVAR_1 5, 1, 0}.
-El {STRVAR_1 1, 0, 0} rival está ejerciendo\nsu habilidad {STRVAR_1 5, 1, 0}.
-¡El Canto Afortunado protegió a tu equipo\nde los golpes críticos!
-¡El Canto Afortunado protegió al equipo rival\nde los golpes críticos!
-¡Atravesó la protección\n de {STRVAR_1 1, 0, 0}!
-¡Atravesó la protección\ndel {STRVAR_1 1, 0, 0} salvaje!
-¡Atravesó la protección\ndel {STRVAR_1 1, 0, 0} rival!
-¡{STRVAR_1 1, 0, 0} apareció!
-{STRVAR_1 1, 0, 0} quedó atrapado\npor magma arremolinado!
-El {STRVAR_1 1, 0, 0} salvaje quedó atrapado\npor magma arremolinado!
-El {STRVAR_1 1, 0, 0} rival quedó atrapado\npor magma arremolinado!
-{STRVAR_1 1, 0, 0} se recuperó.
-{STRVAR_1 1, 0, 0} se cargó por completo\ngracias a su {STRVAR_1 8, 1, 0}!
-El {STRVAR_1 1, 0, 0} salvaje se cargó por completo\ngracias a su {STRVAR_1 8, 1, 0}!
-El {STRVAR_1 1, 0, 0} rival se cargó por completo\ngracias a su {STRVAR_1 8, 1, 0}!
-{STRVAR_1 1, 0, 0}\npuede actuar más rápido de lo normal\fgracias a su {STRVAR_1 8, 1, 0}.
-El {STRVAR_1 1, 0, 0} salvaje\npuede actuar más rápido de lo normal\fgracias a su {STRVAR_1 8, 1, 0}.
-El {STRVAR_1 1, 0, 0} rival\npuede actuar más rápido de lo normal\fgracias a su {STRVAR_1 8, 1, 0}.
-{STRVAR_1 6, 1, 0} de {STRVAR_1 1, 0, 0}\ndesapareció!
-El {STRVAR_1 1, 0, 0} salvaje notó cómo\n{STRVAR_1 6, 1, 0} dejaba de hacer efecto.
-El {STRVAR_1 1, 0, 0} rival notó cómo\n{STRVAR_1 6, 1, 0} dejaba de hacer efecto.
-Parar
-Parar reproducción.
-Espera por favor.
-Los datos están dañados.
-Reproducción cancelada.
-El combate es demasiado largo.
-Reproducción cancelada.
-¡Las dimensiones se distorsionaron!
-¡El {STRVAR_1 1, 0, 0} del Mundo\nDistorsión ha aparecido!\r
-Locutor: ¡Te has quedado sin\n{STRVAR_1 8, 0, 0}s!\f¡Fin del juego!\r
-Bola
+¡Anda! ¡{STRVAR_1 1, 1, 0} de {STRVAR_1 3, 0, 0}\nse está acercando!\r
+PARQUE BALLS
+Tienes {STRVAR_1 51, 0, 0}
+¿Qué debería hacer {STRVAR_1 3, 0, 0}?{YESNO 0}
+BALL
+HUIR
+¡{STRVAR_1 1, 0, 0}, ven aquí!
+¡Bien! ¡Han bajado sus PS!\nSi le lanzas ahora una Poké Ball...{YESNO 0}
+¡Bien! ¡Han bajado sus PS!\n¡Ahora, a usar una Poké Ball!{YESNO 0}
+¡{STRVAR_1 3, 0, 0} usó una Poké Ball!
+¡El estado de {STRVAR_1 1, 0, 0}\nregresó a la normalidad!
+¡Viento Afín sopla a favor\nde tu equipo!
+¡Viento Afín sopla a favor\ndel equipo rival!
+¡Ha cesado el Viento Afín\nde tu equipo!
+¡Ha cesado el Viento Afín\ndel equipo rival!
+Pero no había objetivo...
+¡No ha afectado a {STRVAR_1 1, 0, 0}!
+¡No ha afectado\nal {STRVAR_1 1, 0, 0} salvaje!
+¡No ha afectado\nal {STRVAR_1 1, 0, 0} enemigo!
+¡{STRVAR_1 1, 0, 0} ejerce\nsu {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje ejerce\nsu {STRVAR_1 5, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo ejerce\nsu {STRVAR_1 5, 1, 0}!
+¡El Conjuro protege a tu equipo\nde los golpes críticos!
+¡El Conjuro protege al equipo\nrival de los golpes críticos!
+¡Ha eliminado la protección\nde {STRVAR_1 1, 0, 0}!
+¡Ha eliminado la protección\ndel {STRVAR_1 1, 0, 0} salvaje!
+¡Ha eliminado la protección\ndel {STRVAR_1 1, 0, 0} enemigo!
+¡Un {STRVAR_1 1, 0, 0} salvaje!
+¡{STRVAR_1 1, 0, 0} quedó atrapado\nen Lluvia Ígnea!
+¡El {STRVAR_1 1, 0, 0} salvaje quedó\natrapado en Lluvia Ígnea!
+¡El {STRVAR_1 1, 0, 0} enemigo quedó\natrapado en Lluvia Ígnea!
+{STRVAR_1 1, 0, 0} recuperó su estado.
+¡{STRVAR_1 1, 0, 0} ya está listo\ngracias a {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje ya está listo\ngracias a {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo ya está listo\ngracias a {STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 1, 0, 0} se mueve primero\ngracias a {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} salvaje se mueve\nprimero gracias a {STRVAR_1 8, 1, 0}!
+¡El {STRVAR_1 1, 0, 0} enemigo se mueve\nprimero gracias a {STRVAR_1 8, 1, 0}!
+¡El efecto de {STRVAR_1 6, 1, 0} de\n{STRVAR_1 1, 0, 0} ha pasado!
+¡El efecto de {STRVAR_1 6, 1, 0} del\n{STRVAR_1 1, 0, 0} salvaje ha pasado!
+¡El efecto de {STRVAR_1 6, 1, 0} del\n{STRVAR_1 1, 0, 0} enemigo ha pasado!
+SALIR
+El vídeo se ha detenido.
+Espera, por favor.
+Datos dañados.
+Vídeo cancelado.
+Dura demasiado.
+Vídeo cancelado.
+¡Las dimensiones se han alterado!
+¡Ha aparecido {STRVAR_1 1, 0, 0}\ndel Mundo Distorsión!\r
+Presentador: ¡Biip! No te quedan más\n{STRVAR_1 8, 0, 0}. ¡Se acabó el concurso!\r
+BALL
 x{STRVAR_1 51, 0, 0}
 ♂
 ♀
-{ALN_RIGHT}Nvl. {STRVAR_1 52, 1, 0}
-{STRVAR_1 3, 0, 0} consiguió ${STRVAR_1 54, 1, 0} por ganar!\nEnvió algo a Mamá!\r
+{ALN_RIGHT}Nv.{STRVAR_1 52, 1, 0}
+¡{STRVAR_1 3, 0, 0} ganó {STRVAR_1 54, 1, 0} $!\nEnvió algo a Mamá.\r
 {STRVAR_1 1, 0, 0} nota cómo su {STRVAR_1 5, 1, 0}\nreacciona a {STRVAR_1 5, 2, 0}.
 El {STRVAR_1 1, 0, 0} salvaje colocó su\nhabilidad {STRVAR_1 5, 1, 0} en su Aro.
 El {STRVAR_1 1, 0, 0} rival nota cómo su {STRVAR_1 5, 1, 0}\nreacciona a {STRVAR_1 5, 2, 0}.

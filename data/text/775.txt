@@ -1,113 +1,113 @@
           
                              
-{STRVAR_1 1, 0, 0} was not traded.\r
-{STRVAR_1 1, 0, 0} appears to have\nfled...\r
-Are you seeking or offering a Pokémon?
-Do what with this {STRVAR_1 1, 0, 0}?
-Will you take this {STRVAR_1 1, 0, 0}?
-Is it OK to disconnect from\nNintendo Wi-Fi Connection?
-What kind of Pokémon are you seeking?
-Please choose the Pokémon you want.
-Please choose its gender.
-Please choose the level.
-Please choose the Pokémon you want!
-Searching for the Pokémon you want...
-None were found!
-Stop searching?
-Trade Pokémon with this Trainer?
-Choose the Pokémon you are trading.
-Do what with this {STRVAR_1 1, 0, 0}?
+No se ha intercambiado a {STRVAR_1 1, 0, 0}.\r
+Parece que {STRVAR_1 1, 0, 0} ha huido...\r
+¿Buscas u ofreces un Pokémon?
+¿Qué haces con este {STRVAR_1 1, 0, 0}?
+¿Aceptas a este {STRVAR_1 1, 0, 0}?
+¿Quieres desconectarte de\nla Conexión Wi-Fi de Nintendo?
+¿Qué tipo de Pokémon estás buscando?
+Por favor, elige el Pokémon que quieres.
+Por favor, elige el sexo.
+Por favor, elige el nivel.
+Por favor, elige el Pokémon que quieres.
+Buscando el Pokémon que quieres...
+¡No se ha encontrado nada!
+¿Dejas de buscar?
+¿Cambiar por el Pokémon\nde este Entrenador?
+Elige el Pokémon objeto de intercambio.
+¿Qué haces con este {STRVAR_1 1, 0, 0}?
                  
                  
-Choose the Pokémon you want to offer.
-Offer {STRVAR_1 1, 0, 0}?
-Are these conditions OK?
-Checking GTS’s status...
-The Ball Capsule will be detached.\nIs that OK?
-That Pokémon may not be offered\nfor trade!\r
-An Egg may not be offered\nfor trade!\r
-Your party is full.\nYou can’t receive a Pokémon!\r
-Your Storage Boxes are full.\nYou can’t receive a Pokémon!\r
-A trade partner has been found!
-Nintendo Wi-Fi Connection
-Touch “SELECT” to set trade partner.
-Please change your conditions.
-Please wait a while.
-Your party is full.\rYou can’t receive a Pokémon that\nis holding Mail.\r
-There is no room in your party.
-It has a special Ribbon.\nIt can’t be offered for a trade.\r
-GTS check failed.
-{ALN_CENTER}GLOBAL TRADE SYSTEM
-{ALN_CENTER}SUMMARY
-{ALN_CENTER}DEPOSIT POKéMON
-{ALN_CENTER}SEEK POKéMON
-{ALN_CENTER}EXIT
+Elige el Pokémon que quieres ofrecer.
+¿Ofreces a {STRVAR_1 1, 0, 0}?
+¿Te parecen bien esas condiciones?
+Comprobando servidor de la GTS...
+Se separará la Cápsula.\n¿Estás de acuerdo?
+¡No se puede intercambiar ese Pokémon!\r
+¡No se puede intercambiar un Huevo!\r
+Tu equipo está completo.\n¡No puedes recibir Pokémon!\r
+Tus Cajas están llenas.\n¡No puedes recibir Pokémon!\r
+¡Alguien se interesó por el intercambio!
+Conexión Wi-Fi de Nintendo
+Toca ELEGIR para continuar.
+Por favor, cambia tus condiciones.
+Por favor, espera un momento.
+Tu equipo está completo.\rNo puedes recibir un Pokémon\nque lleve una Carta.\r
+Tu equipo está completo.
+Tiene una Cinta especial.\nNo puede intercambiarse.\r
+Comprobación de la GTS fallida.
+{ALN_CENTER}SISTEMA GTS
+{ALN_CENTER}DATOS
+{ALN_CENTER}DEJAR POKéMON
+{ALN_CENTER}BUSCAR POKéMON
+{ALN_CENTER}SALIR
      
      
         
     
      
-OFFERER
+OFRECE
      
        
      
             
         
-TAKE BACK
-LEAVE AS IS
+RECUPERAR
+DEJARLO ASÍ
   
    
-NAME
+NOMBRE
          
 POKéMON
      
-GENDER
+SEXO
      
-LEVEL
+NIVEL
      
-SEARCH
-{ALN_CENTER}BACK
-SELECT
+BUSCAR
+{ALN_CENTER}SALIR
+ELEGIR
      
      
         
-ITEM
+OBJETO
      
       
      
-WANTED
+SE BUSCA
      
      
      
-OT’S LOCATION
+UBIC. ENTRENADOR
 {STRVAR_1 36, 8, 0}
 {STRVAR_1 37, 9, 0}
         
    
      
-SUMMARY
-TRADE
-CANCEL
+DATOS
+INTERCAMBIAR
+SALIR
   
    
-IN PARTY
+EN EL EQUIPO
    
           
      
         
    
-SUMMARY
-OFFER
-CANCEL
-WANTED
+DATOS
+OFRECER
+SALIR
+SE BUSCA
      
      
-OFFER POKéMON
+OFRECER POKéMON
      
-Lv.
+Nv.
 {STRVAR_1 52, 3, 0}
-Lv. {STRVAR_1 52, 3, 0}
-CANCEL
+Nv. {STRVAR_1 52, 3, 0}
+SALIR
 ABC
 DEF
 GHI
@@ -122,22 +122,22 @@ YZ
 
 
 
-EITHER
+AMBOS
 ♂
 ♀
       
-ANY
-Lv. 9 and under
-Lv. 10 and up
-Lv. 20 and up
-Lv. 30 and up
-Lv. 40 and up
-Lv. 50 and up
-Lv. 60 and up
-Lv. 70 and up
-Lv. 80 and up
-Lv. 90 and up
-Lv. 100
+CUALQUIERA
+Nv. 9 e inf.
+Nv. 10 y sup.
+Nv. 20 y sup.
+Nv. 30 y sup.
+Nv. 40 y sup.
+Nv. 50 y sup.
+Nv. 60 y sup.
+Nv. 70 y sup.
+Nv. 80 y sup.
+Nv. 90 y sup.
+Nv. 100
       
                      
                       
@@ -145,47 +145,47 @@ Lv. 100
                      
                       
                        
-Unfortunately, it was traded to\nanother Trainer.\r
-Saving...\nDo not turn off the power.
+Por desgracia, se ha intercambiado\ncon otro Entrenador.\r
+Guardando...\nNO APAGUES LA CONSOLA.
                           
-The GTS is currently\nundergoing maintenance.\rPlease try again later.\r
-The GTS is very crowded now.\nPlease try again later.\r
-The search failed...
-Communication error...
-Communication error...\r
-Unable to connect to the GTS.\nReturning to the reception counter.\r
-You were disconnected from the GTS.\nReturning to the reception counter.\r
+La GTS está en obras.\rPor favor, vuelve a intentarlo\nmás tarde.\r
+La GTS está llena.\rPor favor, vuelve a intentarlo\nmás tarde.\r
+La búsqueda no ha tenido éxito...
+Error de conexión...
+Error de conexión...\r
+No se ha podido conectar con la GTS.\nVolviendo al mostrador de recepción.\r
+Te has desconectado de la GTS.\nVolviendo al mostrador de recepción.\r
                       
-Returning to the reception counter.
-ANY
-Lv. 1 to 10
-Lv. 11 to 20
-Lv. 21 to 30
-Lv. 31 to 40
-Lv. 41 to 50
-Lv. 51 to 60
-Lv. 61 to 70
-Lv. 71 to 80
-Lv. 81 to 90
-Lv. 91 to 100
+Volviendo al mostrador de recepción.
+CUALQUIERA
+Nv. 1 al 10
+Nv. 11 al 20
+Nv. 21 al 30
+Nv. 31 al 40
+Nv. 41 al 50
+Nv. 51 al 60
+Nv. 61 al 70
+Nv. 71 al 80
+Nv. 81 al 90
+Nv. 91 al 100
       
-LOCATION
+UBICACIÓN
      
-ANY
- ANY
+CUALQUIERA
+ CUALQUIERA
       
-Please choose a Pokémon location.
-This Pokémon cannot be traded in this\nForme!\r
-Spiky-eared PICHU cannot be offered\nin trade. \r
-This Pokémon cannot be traded while\nholding that item!\r
-O.T.
-There was an error while attempting to\nsend an authentication Wii message.\r
-There was a communication error.\r
-The data was corrupted.\nIt could not be sent.\r
-The server is undergoing maintenance.\nPlease connect again later.\r
-There was a Wii message\nauthentication error.\r
-Disconnecting from Nintendo Wi-Fi\nConnection...
-You have disconnected from Nintendo\nWi-Fi Connection.
+Elige la ubicación de un Pokémon.
+No puedes intercambiar este Pokémon\nen esa forma.\r
+El PICHU Picoreja no se puede\nintercambiar.\r
+No puedes intercambiar este Pokémon\nsi lleva ese objeto.\r
+EO
+Se ha producido un error al enviar\nun mensaje de Wii de autenticación.\r
+Se ha producido un error de conexión.\r
+Los datos están dañados.\nNo se ha podido enviar el mensaje.\r
+Se está reparando el servidor. Vuelve\na intentar conectarte más tarde.\r
+Se ha producido un error en la\nautenticación del mensaje de Wii.\r
+Saliendo de la Conexión Wi-Fi\nde Nintendo...
+Te has desconectado de la\nConexión Wi-Fi de Nintendo.
 A
 B
 C
@@ -230,10 +230,10 @@ Z
 
 
 
-　
+
 GTS
-GTS\nTRADE POKéMON
-GTS\nSUMMARY
-GTS\nDEPOSIT POKéMON
-GTS\nSEEK POKéMON
-CANCEL
+GTS\nINTERCAMBIAR POKéMON
+GTS\nDATOS
+GTS\nDEJAR POKéMON
+GTS\nBUSCAR POKéMON
+SALIR

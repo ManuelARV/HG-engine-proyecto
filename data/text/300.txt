@@ -1,195 +1,195 @@
-Confirmar
-Volver
-
-
-
-
-
-
+VALE
+SALIR
+     
+     
+     
+     
+     
+     
 {STRVAR_1 1, 0, 0}
 {STRVAR_1 1, 0, 0}
 {STRVAR_1 1, 0, 0}
 {STRVAR_1 1, 0, 0}
 {STRVAR_1 1, 0, 0}
 {STRVAR_1 1, 0, 0}
-
-
-
-
-
-
-
-
-
-
-
-
-
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+ 
 ♂
 ♀
 Elige un Pokémon.
 Elige un Pokémon.\r
-¿Mover dónde?
+¿Mover a qué posición?
 ¿Dar a qué Pokémon?
-¿Usar en qué Pokémon?
-¿Usar en qué Pokémon?
-Elige un Pokémon y confirma.
-
-¿Usar en qué Pokémon?
-¿Qué hacer con\n{STRVAR_1 1, 0, 0}?
-¿Qué hacer con\nun objeto?
-¿Qué hacer con\nel correo?
-¿Qué movimiento\nrestaurar?
-¿A qué movimiento\nsubir los PP?
-¿Colocar esta\nBall personalizada?
-¿Enviar el correo retirado\na tu PC?
-
-
-El correo se ha enviado a tu PC.\r
-Si retiras el correo, perderás\nel mensaje escrito. ¿Está bien?
-
-
-El buzón de tu PC está lleno.\r
-Has retirado el correo del\nPokémon.\r
-{STRVAR_1 1, 0, 0} quiere aprender\nel movimiento {STRVAR_1 6, 1, 0}.\r¿Quieres olvidar otro movimiento y\nsustituirlo por {STRVAR_1 6, 1, 0}?
-
-
-¿Dejar de enseñar\n{STRVAR_1 6, 1, 0}?
-
-
-{STRVAR_1 1, 0, 0} no aprendió\n{STRVAR_1 6, 1, 0}.\r
-Elige un movimiento para\nsustituirlo por {STRVAR_1 6, 1, 0}.\r
-Uno...{PAUSE 20}dos...{PAUSE 20}y...{PAUSE 20}¡tachán!{WAIT 3}{WAIT 5}\r{STRVAR_1 1, 0, 0} olvidó\n{STRVAR_1 6, 1, 0}\r
-¡y aprendió {STRVAR_1 6, 1, 0} en su lugar!{WAIT 4}{WAIT 2}\r
-¡{STRVAR_1 1, 0, 0} no puede aprender\n{STRVAR_1 6, 1, 0}!\r¡Son incompatibles!\r
-{STRVAR_1 1, 0, 0} ya conoce\n{STRVAR_1 6, 1, 0}.\r
-Los PS de {STRVAR_1 1, 0, 0} se han recuperado\n{STRVAR_1 52, 1, 0} punto(s).\r
+¿Usar con qué Pokémon?
+¿Enseñar a qué Pokémon?
+Elige Pokémon y confirma.
+             
+¿Usar con qué Pokémon?
+¿Qué quieres hacer\ncon {STRVAR_1 1, 0, 0}?
+¿Qué quieres hacer\ncon un objeto?
+¿Qué quieres hacer\ncon la Carta?
+¿Restaurar qué\nmovimiento?
+¿Aumentar PP de\nqué movimiento?
+¿Asignar la Cápsula\npersonalizada?
+¿Quieres enviar la Carta a tu PC?
+  
+   
+La Carta fue enviada a tu PC.\r
+Si le quitas la Carta, perderás\nel mensaje. ¿Estás de acuerdo?
+  
+   
+El Buzón de tu PC está lleno.\r
+Se ha quitado la Carta al Pokémon.\r
+¡{STRVAR_1 1, 0, 0} quiere aprender el\nmovimiento {STRVAR_1 6, 1, 0}!\rPero {STRVAR_1 1, 0, 0} ya conoce\ncuatro movimientos.\r¿Quieres sustituir uno de esos\nmovimientos por {STRVAR_1 6, 1, 0}?
+  
+   
+¿Prefieres que no aprenda\n{STRVAR_1 6, 1, 0}?
+  
+   
+¡{STRVAR_1 1, 0, 0} no aprendió\n{STRVAR_1 6, 1, 0}!\r
+¿Qué movimiento debe olvidar?\r
+1, {PAUSE 0}2 y{PAUSE 0}... {PAUSE 0}... {PAUSE 0}¡puf!{WAIT 0}{WAIT 0}\r¡{STRVAR_1 1, 0, 0} olvidó cómo utilizar\n{STRVAR_1 6, 1, 0}!\rY...\r
+¡{STRVAR_1 1, 0, 0} aprendió\n{STRVAR_1 6, 1, 0}!{WAIT 0}{WAIT 0}\r
+{STRVAR_1 1, 0, 0} y {STRVAR_1 6, 1, 0}\nson incompatibles.\r¡No puede aprender\n{STRVAR_1 6, 1, 0}!\r
+¡{STRVAR_1 1, 0, 0} ya conoce\n{STRVAR_1 6, 1, 0}!\r
+{STRVAR_1 1, 0, 0} ha recuperado\n{STRVAR_1 52, 1, 0} PS.\r
 {STRVAR_1 1, 0, 0} se ha curado\ndel envenenamiento.\r
 {STRVAR_1 1, 0, 0} se ha curado\nde la parálisis.\r
-La quemadura de {STRVAR_1 1, 0, 0}\nse ha curado.\r
-{STRVAR_1 1, 0, 0} se ha\ndescongelado.\r
-Los PP se han restaurado.\r
-{STRVAR_1 1, 0, 0}\nha recuperado la salud.\r
-{STRVAR_1 1, 0, 0}\nya está sano.\r
+El Pokémon {STRVAR_1 1, 0, 0} ya\nno está quemado.\r
+El Pokémon {STRVAR_1 1, 0, 0} ya\nno está congelado.\r
+PP restaurados.\r
+{STRVAR_1 1, 0, 0} ha mejorado su estado.\r
+{STRVAR_1 1, 0, 0} recuperó su estado.\r
 Los PP de {STRVAR_1 6, 0, 0}\nhan aumentado.\r
-{STRVAR_1 1, 0, 0} se ha recuperado\nde la confusión.\r
-{STRVAR_1 1, 0, 0} se ha recuperado\nde su enamoramiento.\r
-¡La {STRVAR_1 13, 1, 0} base de {STRVAR_1 1, 0, 0}\nha aumentado!\r
-No puedes usar esto hasta conseguir\nuna Medalla nueva.\r
-Debes retirar el correo antes de que\nel Pokémon pueda llevar un objeto.\r
-{STRVAR_1 1, 0, 0} ya lleva\n{STRVAR_1 8, 1, 0}.\r¿Quieres intercambiar los\ndos objetos?
-
-
-{STRVAR_1 1, 0, 0} no lleva\nnada.\r
-Has recibido {STRVAR_1 8, 1, 0}\nde {STRVAR_1 1, 0, 0}.\r
+El Pokémon {STRVAR_1 1, 0, 0} ya\nno está confuso.\r
+El Pokémon {STRVAR_1 1, 0, 0} ya\nno está enamorado.\r
+El valor máximo de {STRVAR_1 13, 1, 0}\nde {STRVAR_1 1, 0, 0} ha subido.\r
+Para poder hacer eso, necesitas\nganar una nueva Medalla.\r
+Debes quitarle la Carta para que\npueda llevar un objeto.\r
+¡{STRVAR_1 1, 0, 0} ya lleva {STRVAR_1 8, 1, 0}!\n¿Quieres cambiar un objeto por otro?
+  
+   
+{STRVAR_1 1, 0, 0} no lleva nada.\r
+¡Recibiste el objeto {STRVAR_1 8, 1, 0}\nde {STRVAR_1 1, 0, 0}!\r
 La Bolsa está llena.\r
-Has retirado {STRVAR_1 8, 1, 0} y lo\nhas sustituido por {STRVAR_1 8, 2, 0}.\r
-
-
-
-
-
-
-{STRVAR_1 1, 0, 0}\nwoke up.\r
-
-
-
-
-
-
-No pueden entrar más de dos\nPokémon.\r
-Ya estás surfeando.\r
-No puedes usar eso aquí.\r
-No tendrá ningún efecto.\r
-Se necesitan dos Pokémon.\r
-{STRVAR_1 1, 0, 0} se ha vuelto más amistoso.\r¡Pero su {STRVAR_1 13, 1, 0} base ha bajado!\r
-¡{STRVAR_1 1, 0, 0} te adora!\r¡Su {STRVAR_1 13, 1, 0} base ha bajado!\r
-{STRVAR_1 1, 0, 0} se ha vuelto más amistoso.\rSu {STRVAR_1 13, 1, 0} base no puede bajar más.\r
-{STRVAR_1 1, 0, 0} ha recibido\nel {STRVAR_1 8, 1, 0} para llevarlo.\r
-Se necesitan tres Pokémon.\r
-Se necesitan cuatro Pokémon.\r
-Se necesitan cinco Pokémon.\r
-Se necesitan seis Pokémon.\r
-No puede entrar más de un\nPokémon.\r
-No pueden entrar más de tres\nPokémon.\r
-No pueden entrar más de cuatro\nPokémon.\r
-No pueden entrar más de cinco\nPokémon.\r
-El correo se ha transferido\ndel buzón.\r
-Este Pokémon lleva un objeto.\nNo puede llevar correo.\r
-La Caja Ball se ha colocado.\r
-No se pueden colocar dos Cajas Ball.\r
-No puedes usar esto con\nese Pokémon.\r
-
-
-
-
-
-
-No tienes suficientes PS...\r
-Cambiar
-Resumen
-Objeto
-Correo
-Leer
-Retirar
-Guardar
-Salir
-
-Entrar
-No entra
+¡Se ha sustituido el objeto\n{STRVAR_1 8, 1, 0} por {STRVAR_1 8, 2, 0}!\r
+           
+  
+   
+             
+  
+   
+{STRVAR_1 1, 0, 0} se despertó.\r
+                        
+  
+   
+                   
+  
+   
+No pueden participar más\nde dos Pokémon.\r
+Ya estás haciendo Surf.\r
+Aquí no puedes usar eso.\r
+No tendría ningún efecto.\r
+Necesitas dos Pokémon.\r
+{STRVAR_1 1, 0, 0} se ha vuelto más amable.\n¡Pero tiene menos {STRVAR_1 13, 1, 0}!\r
+{STRVAR_1 1, 0, 0} te adora.\n¡Pero {STRVAR_1 13, 1, 0} de base baja!\r
+{STRVAR_1 1, 0, 0} se ha vuelto más amable.\r¡{STRVAR_1 13, 1, 0} de base ya\nno puede bajar más!\r
+¡{STRVAR_1 1, 0, 0} lleva ahora\nel objeto {STRVAR_1 8, 1, 0}!\r
+Necesitas tres Pokémon.\r
+Necesitas cuatro Pokémon.\r
+Necesitas cinco Pokémon.\r
+Necesitas seis Pokémon.\r
+No puede participar más de un Pokémon.\r
+No pueden participar más\nde tres Pokémon.\r
+No pueden participar más\nde cuatro Pokémon.\r
+No pueden participar más\nde cinco Pokémon.\r
+Se ha enviado la Carta desde el Buzón.\r
+Este Pokémon lleva un objeto.\nNo puede llevar esa Carta.\r
+Se ha asignado la Cápsula.\r
+No se pueden asignar dos Cápsulas.\r
+No se puede usar con ese Pokémon.\r
+                       
+  
+   
+                     
+  
+   
+PS insuficientes...\r
+MOVER
+DATOS
+OBJETO
+CARTA
+LEER
+QUITAR
+DEJAR
+SALIR
+     
+PARTICIPAR
+NO PARTICIPAR
 {STRVAR_1 6, 0, 0}
 {STRVAR_1 6, 0, 0}
 {STRVAR_1 6, 0, 0}
 {STRVAR_1 6, 0, 0}
-Dar
-Retirar
+DAR
+QUITAR
 {STRVAR_1 6, 0, 0}
 {STRVAR_1 6, 0, 0}
 {STRVAR_1 6, 0, 0}
 {STRVAR_1 6, 0, 0}
-Colocar
-No entra
-Prohibido
-Primero
-Segundo
-Tercero
-Cuarto
-Quinto
-Sexto
-¡Puede!
-¡No puede!
-Aprendido
-¡Puede!
-¡No puede!
-¡Puede!
-¡No puede!
-No se permiten Pokémon idénticos.\r
+ASIGNAR
+NO REGISTRADO
+NO PUEDE
+PRIMERO
+SEGUNDO
+TERCERO
+CUARTO
+QUINTO
+SEXTO
+APTO
+NO APTO
+APRENDIDO
+APTO
+NO APTO
+APTO
+NO APTO
+No se permiten Pokémon iguales.\r
 Algunos Pokémon llevan objetos\nidénticos.\r
-El total de niveles del equipo\nsupera {STRVAR_1 52, 0, 0}.\r
-Hay tres o más Pokémon\nlegendarios.\r
+Los niveles de los miembros del equipo\nhan superado {STRVAR_1 52, 0, 0}.\r
+Hay tres o más Pokémon legendarios.\r
 PS MÁX.
 ATAQUE
 DEFENSA
 AT. ESP.
 DEF. ESP.
-VELOCIDAD
+VELOC.
 +
 {STRVAR_1 52, 0, 0}
-{STRVAR_1 1, 0, 0} ha subido al\nnivel {STRVAR_1 52, 1, 0}.{WAIT 4}{WAIT 2}\r
-¡{STRVAR_1 1, 0, 0} ha aprendido\n{STRVAR_1 6, 1, 0}!{WAIT 4}{WAIT 2}\r
-Se quitará la Caja Ball.\n¿Está bien?
-No puedes usar eso cuando\nllevas a alguien contigo.\r
-¡Este no es el lugar para eso!\r
+¡{STRVAR_1 1, 0, 0} subió al nivel {STRVAR_1 52, 1, 0}!{WAIT 0}{WAIT 0}\r
+¡{STRVAR_1 1, 0, 0} aprendió\n{STRVAR_1 6, 1, 0}!{WAIT 0}{WAIT 0}\r
+Se quitará la Cápsula.\n¿Estás de acuerdo?
+No puedes usarlo\ncuando vas con alguien.\r
+¡No es momento para eso!\r
 {STRVAR_1 8, 1, 0}
-¿Qué harás\ncon el Huevo?
+¿Intercambias\nel Huevo?
 Elige un Huevo.
-
-CONFIRM
-Debes usar el mismo tipo\nde Pokémon.\r
+                
+CONFIRMAR
+No se pueden seleccionar Pokémon\nde especies diferentes.\r
 ¡{STRVAR_1 0, 0, 0} ha cambiado de forma!\r
-¡{STRVAR_1 1, 0, 0} no puede llevar\n{STRVAR_1 8, 1, 0}!\r
-No se puede dar {STRVAR_1 8, 0, 0}\naquí.\r
-Los Pokémon que llevan Rocío Bondad no pueden\nparticipar en la Copa GS.\r
+¡{STRVAR_1 1, 0, 0} no puede llevar\nla {STRVAR_1 8, 1, 0}!\r
+Aquí no puedes darle\nla {STRVAR_1 8, 0, 0}.\r
+Los Pokémon que lleven Rocío Bondad\nno pueden participar en la Copa GS.\r
 
 ¡La habilidad de {STRVAR_1 0, 0, 0}\nha cambiado!\r
 Las estadísticas de {STRVAR_1 0, 0, 0} pueden haber cambiado\npor los efectos de la Menta Firme.\r

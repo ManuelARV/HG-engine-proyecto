@@ -5,7 +5,7 @@
 Objeto
 {STRVAR_1 8, 0, 0}
 Ninguno
-INFO
+Info
 N.º Pokédex
 {STRVAR_1 52, 0, 0}
 Nombre
@@ -15,105 +15,105 @@ EO
 {STRVAR_1 3, 0, 0}
 N.º ID
 {STRVAR_1 54, 0, 0}
-Puntos Exp.
+Ptos. Exp.
 {STRVAR_1 56, 0, 0}
-Al sig. nivel
+Nivel siguiente
 
 {STRVAR_1 55, 0, 0}
-???
-Resumen
-Naturaleza {COLOR 2}Huraña{COLOR 0}.
-Naturaleza {COLOR 2}Solitaria{COLOR 0}.
-Naturaleza {COLOR 2}Audaz{COLOR 0}.
-Naturaleza {COLOR 2}Firme{COLOR 0}.
-Naturaleza {COLOR 2}Pícara{COLOR 0}.
-Naturaleza {COLOR 2}Osada{COLOR 0}.
-Naturaleza {COLOR 2}Dócil{COLOR 0}.
-Naturaleza {COLOR 2}Plácida{COLOR 0}.
-Naturaleza {COLOR 2}Agitada{COLOR 0}.
-Naturaleza {COLOR 2}Floja{COLOR 0}.
-Naturaleza {COLOR 2}Miedosa{COLOR 0}.
-Naturaleza {COLOR 2}Activa{COLOR 0}.
-Naturaleza {COLOR 2}Seria{COLOR 0}.
-Naturaleza {COLOR 2}Alegre{COLOR 0}.
-Naturaleza {COLOR 2}Ingenua{COLOR 0}.
-Naturaleza {COLOR 2}Modesta{COLOR 0}.
-Naturaleza {COLOR 2}Afable{COLOR 0}.
-Naturaleza {COLOR 2}Mansa{COLOR 0}.
-Naturaleza {COLOR 2}Tímida{COLOR 0}.
-Naturaleza {COLOR 2}Alocada{COLOR 0}.
-Naturaleza {COLOR 2}Serena{COLOR 0}.
-Naturaleza {COLOR 2}Amable{COLOR 0}.
-Naturaleza {COLOR 2}Grosera{COLOR 0}.
-Naturaleza {COLOR 2}Cauta{COLOR 0}.
-Naturaleza {COLOR 2}Rara{COLOR 0}.
-{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nEncontrado al Nv. {STRVAR_1 52, 3, 0}.
-{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nAl parecer, se encontró\nal Nv. {STRVAR_1 52, 3, 0}.
-{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nLlegó a Nv. {STRVAR_1 52, 3, 0}.
-{STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\n{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\nHuevo obtenido.\n{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nHuevo eclosionado.
-{STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\n{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\nHuevo obtenido.\n{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nHuevo eclosionado, al parecer.
-{STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\n{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\nHuevo recibido.\n{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nHuevo eclosionado.
-{STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\n{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\nHuevo recibido.\n{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nHuevo eclosionado, al parecer.
-{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nTuvo un encuentro\nfatídico a Nv. {STRVAR_1 52, 3, 0}.
-{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nAl parecer, tuvo un\nencuentro fatídico\na Nv. {STRVAR_1 52, 3, 0}.
-{STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\n{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\nHuevo obtenido.\n{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nHuevo eclosionado.\nEncuentro fatídico.
-{STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\n{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\nHuevo obtenido.\n{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nHuevo eclosionado, al parecer.\nEncuentro fatídico.
-{STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\n{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\nHuevo recibido.\n{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nHuevo eclosionado.\nEncuentro fatídico.
-{STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\n{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\nHuevo recibido.\n{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nHuevo eclosionado, al parecer.\nEncuentro fatídico.
-{STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\n{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\nHuevo obtenido.\n{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nHuevo eclosionado.\nEncuentro fatídico.
-{STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\n{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\nHuevo obtenido.\n{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nHuevo eclosionado, al parecer.\nEncuentro fatídico.
-{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nLlegó a Nv. {STRVAR_1 52, 3, 0}.
-Le gusta la comida {COLOR 2}picante{COLOR 0}.
-Le gusta la comida {COLOR 2}seca{COLOR 0}.
-Le gusta la comida {COLOR 2}dulce{COLOR 0}.
-Le gusta la comida {COLOR 2}amarga{COLOR 0}.
-Le gusta la comida {COLOR 2}ácida{COLOR 0}.
-Come de todo con alegría.
-Adora comer.
-Suele echarse siestas.
-Suele desparramar cosas.
-Desparrama cosas a menudo.
-Le gusta descansar.
-Presume de su fuerza.
-Le gusta revolcarse.
-Es algo colérico.
-Le gusta pelear.
-Es colérico.
-Tiene un cuerpo fuerte.
-Aguanta bien los golpes.
-Es muy persistente.
-Tiene buena resistencia.
-Es muy perseverante.
+(?)
+NOTAS ENTRENAD.
+Naturaleza {COLOR 0}huraña{COLOR 0}.
+Naturaleza {COLOR 0}fuerte{COLOR 0}.
+Naturaleza {COLOR 0}audaz{COLOR 0}.
+Naturaleza {COLOR 0}firme{COLOR 0}.
+Naturaleza {COLOR 0}pícara{COLOR 0}.
+Naturaleza {COLOR 0}osada{COLOR 0}.
+Naturaleza {COLOR 0}dócil{COLOR 0}.
+Naturaleza {COLOR 0}plácida{COLOR 0}.
+Naturaleza {COLOR 0}agitada{COLOR 0}.
+Naturaleza {COLOR 0}floja{COLOR 0}.
+Naturaleza {COLOR 0}miedosa{COLOR 0}.
+Naturaleza {COLOR 0}activa{COLOR 0}.
+Naturaleza {COLOR 0}seria{COLOR 0}.
+Naturaleza {COLOR 0}alegre{COLOR 0}.
+Naturaleza {COLOR 0}ingenua{COLOR 0}.
+Naturaleza {COLOR 0}modesta{COLOR 0}.
+Naturaleza {COLOR 0}afable{COLOR 0}.
+Naturaleza {COLOR 0}mansa{COLOR 0}.
+Naturaleza {COLOR 0}tímida{COLOR 0}.
+Naturaleza {COLOR 0}alocada{COLOR 0}.
+Naturaleza {COLOR 0}serena{COLOR 0}.
+Naturaleza {COLOR 0}amable{COLOR 0}.
+Naturaleza {COLOR 0}grosera{COLOR 0}.
+Naturaleza {COLOR 0}cauta{COLOR 0}.
+Naturaleza {COLOR 0}rara{COLOR 0}.
+{STRVAR_1 51, 2, 0}/{STRVAR_34 16, 1, 0}/20{STRVAR_1 51, 0, 0}\n{COLOR 0}{STRVAR_1 4, 4, 0}{COLOR 0}\nEncontrado con Nv. {STRVAR_1 52, 3, 0}.
+{STRVAR_1 51, 2, 0}/{STRVAR_34 16, 1, 0}/20{STRVAR_1 51, 0, 0}\n{COLOR 0}{STRVAR_1 4, 4, 0}{COLOR 0}\nAparentemente\nencontrado con Nv. {STRVAR_1 52, 3, 0}.
+{STRVAR_1 51, 2, 0}/{STRVAR_34 16, 1, 0}/20{STRVAR_1 51, 0, 0}\n{COLOR 0}{STRVAR_1 4, 4, 0}{COLOR 0}\nLlegado con Nv. {STRVAR_1 52, 3, 0}.
+{STRVAR_1 51, 7, 0}/{STRVAR_34 16, 6, 0}/20{STRVAR_1 51, 5, 0}\n{COLOR 0}{STRVAR_1 4, 8, 0}{COLOR 0}\nHuevo obtenido.\n{STRVAR_1 51, 2, 0}/{STRVAR_34 16, 1, 0}/20{STRVAR_1 51, 0, 0}\n{COLOR 0}{STRVAR_1 4, 4, 0}{COLOR 0}\nHuevo eclosionado.
+{STRVAR_1 51, 7, 0}/{STRVAR_34 16, 6, 0}/20{STRVAR_1 51, 5, 0}\n{COLOR 0}{STRVAR_1 4, 8, 0}{COLOR 0}\nHuevo obtenido.\n{STRVAR_1 51, 2, 0}/{STRVAR_34 16, 1, 0}/20{STRVAR_1 51, 0, 0}\n{COLOR 0}{STRVAR_1 4, 4, 0}{COLOR 0}\nHuevo aparent. abierto.
+{STRVAR_1 51, 7, 0}/{STRVAR_34 16, 6, 0}/20{STRVAR_1 51, 5, 0}\n{COLOR 0}{STRVAR_1 4, 8, 0}{COLOR 0}\nHuevo recibido.\n{STRVAR_1 51, 2, 0}/{STRVAR_34 16, 1, 0}/20{STRVAR_1 51, 0, 0}\n{COLOR 0}{STRVAR_1 4, 4, 0}{COLOR 0}\nHuevo eclosionado.
+{STRVAR_1 51, 7, 0}/{STRVAR_34 16, 6, 0}/20{STRVAR_1 51, 5, 0}\n{COLOR 0}{STRVAR_1 4, 8, 0}{COLOR 0}\nHuevo recibido.\n{STRVAR_1 51, 2, 0}/{STRVAR_34 16, 1, 0}/20{STRVAR_1 51, 0, 0}\n{COLOR 0}{STRVAR_1 4, 4, 0}{COLOR 0}\nHuevo aparent. abierto.
+{STRVAR_1 51, 2, 0}/{STRVAR_34 16, 1, 0}/20{STRVAR_1 51, 0, 0}\n{COLOR 0}{STRVAR_1 4, 4, 0}{COLOR 0}\nEncontrado con Nv. {STRVAR_1 52, 3, 0}.\nFue cosa del destino
+{STRVAR_1 51, 2, 0}/{STRVAR_34 16, 1, 0}/20{STRVAR_1 51, 0, 0}\n{COLOR 0}{STRVAR_1 4, 4, 0}{COLOR 0}\nEncontrado con\nNv. {STRVAR_1 52, 3, 0}. Parece que\nfue cosa del destino.
+{STRVAR_1 51, 7, 0}/{STRVAR_34 16, 6, 0}/20{STRVAR_1 51, 5, 0}\n{COLOR 0}{STRVAR_1 4, 8, 0}{COLOR 0}\nHuevo obtenido.\n{STRVAR_1 51, 2, 0}/{STRVAR_34 16, 1, 0}/20{STRVAR_1 51, 0, 0}\n{COLOR 0}{STRVAR_1 4, 4, 0}{COLOR 0}\nHuevo eclosionado.\nFue cosa del destino.
+{STRVAR_1 51, 7, 0}/{STRVAR_34 16, 6, 0}/20{STRVAR_1 51, 5, 0}\n{COLOR 0}{STRVAR_1 4, 8, 0}{COLOR 0}\nHuevo obtenido.\n{STRVAR_1 51, 2, 0}/{STRVAR_34 16, 1, 0}/20{STRVAR_1 51, 0, 0}\n{COLOR 0}{STRVAR_1 4, 4, 0}{COLOR 0}\nHuevo aparent. abierto.\nFue cosa del destino.
+{STRVAR_1 51, 7, 0}/{STRVAR_34 16, 6, 0}/20{STRVAR_1 51, 5, 0}\n{COLOR 0}{STRVAR_1 4, 8, 0}{COLOR 0}\nEl Huevo ha llegado.\n{STRVAR_1 51, 2, 0}/{STRVAR_34 16, 1, 0}/20{STRVAR_1 51, 0, 0}\n{COLOR 0}{STRVAR_1 4, 4, 0}{COLOR 0}\nHuevo eclosionado.\nFue cosa del destino.
+{STRVAR_1 51, 7, 0}/{STRVAR_34 16, 6, 0}/20{STRVAR_1 51, 5, 0}\n{COLOR 0}{STRVAR_1 4, 8, 0}{COLOR 0}\nEl Huevo ha llegado.\n{STRVAR_1 51, 2, 0}/{STRVAR_34 16, 1, 0}/20{STRVAR_1 51, 0, 0}\n{COLOR 0}{STRVAR_1 4, 4, 0}{COLOR 0}\nHuevo aparent. abierto.\nFue cosa del destino.
+{STRVAR_1 51, 7, 0}/{STRVAR_34 16, 6, 0}/20{STRVAR_1 51, 5, 0}\n{COLOR 0}{STRVAR_1 4, 8, 0}{COLOR 0}\nHuevo obtenido.\n{STRVAR_1 51, 2, 0}/{STRVAR_34 16, 1, 0}/20{STRVAR_1 51, 0, 0}\n{COLOR 0}{STRVAR_1 4, 4, 0}{COLOR 0}\nHuevo eclosionado.\nFue cosa del destino.
+{STRVAR_1 51, 7, 0}/{STRVAR_34 16, 6, 0}/20{STRVAR_1 51, 5, 0}\n{COLOR 0}{STRVAR_1 4, 8, 0}{COLOR 0}\nHuevo obtenido.\n{STRVAR_1 51, 2, 0}/{STRVAR_34 16, 1, 0}/20{STRVAR_1 51, 0, 0}\n{COLOR 0}{STRVAR_1 4, 4, 0}{COLOR 0}\nHuevo aparent. abierto.\nFue cosa del destino.
+{STRVAR_1 51, 2, 0}/{STRVAR_34 16, 1, 0}/20{STRVAR_1 51, 0, 0}\n{COLOR 0}{STRVAR_1 4, 4, 0}{COLOR 0}\nLlegado Nv. {STRVAR_1 52, 3, 0}.
+Le gusta lo {COLOR 0}picante{COLOR 0}.
+Le gusta lo {COLOR 0}seco{COLOR 0}.
+Le gusta lo {COLOR 0}dulce{COLOR 0}.
+Le gusta lo {COLOR 0}amargo{COLOR 0}.
+Le gusta lo {COLOR 0}ácido{COLOR 0}.
+Come de todo.
+Le encanta comer.
+A menudo se duerme.
+Duerme mucho.
+Suele desordenar cosas.
+Le gusta relajarse.
+Orgulloso de su fuerza.
+Le gusta revolverse.
+A veces se enfada.
+Le gusta luchar.
+Tiene mal genio.
+Cuerpo resistente.
+Buen fajador.
+Muy persistente.
+Muy resistente.
+Muy perseverante.
 Le gusta correr.
-Reacciona a los sonidos.
-Es impulsivo y bobo.
+Oído siempre alerta.
+Impetuoso y bobo.
 Es un poco payaso.
-Huye enseguida.
-Es muy curioso.
-Es travieso.
-Es muy astuto.
-Suele distraerse.
-Es muy quisquilloso.
-Tiene voluntad firme.
-Es algo vanidoso.
-Es muy desafiante.
+Huye rápido.
+Extremadamente curioso.
+Travieso.
+Muy astuto.
+A menudo está en Babia.
+Muy melindroso.
+Voluntarioso.
+Algo orgulloso.
+Muy insolente.
 Odia perder.
-Es algo tozudo.
-{STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\nUn misterioso Huevo\nPokémon recibido de\n{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}.\n
-{STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\nUn misterioso Huevo\nPokémon obtenido en\n{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}.\n
-{STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\nUn Huevo Pokémon\nmuy misterioso obtenido\nen {COLOR 1}{STRVAR_1 4, 8, 0}{COLOR 0}.\n
-{STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\nUn Huevo Pokémon\nmuy misterioso que\nvino de {COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}.\n
-“Vigilancia del Huevo”\n¡Se oyen sonidos\nque salen del interior!\n¡Eclosionará pronto!
-“Vigilancia del Huevo”\nParece moverse de\nvez en cuando. Puede\nque eclosione pronto.
-“Vigilancia del Huevo”\n¿Qué saldrá de aquí?\nNo parece que vaya\na eclosionar.
-“Vigilancia del Huevo”\nParece que este Huevo\ntardará mucho tiempo\nen eclosionar.
-Habilidades
+Un poco cabezota.
+{STRVAR_1 51, 7, 0}/{STRVAR_34 16, 6, 0}/20{STRVAR_1 51, 5, 0}\n¡Misterioso Huevo de\nPokémon recibido de\n{COLOR 0}{STRVAR_1 4, 8, 0}{COLOR 0}!\n
+{STRVAR_1 51, 7, 0}/{STRVAR_34 16, 6, 0}/20{STRVAR_1 51, 5, 0}\n¡Misterioso Huevo de\nPokémon obtenido\nen {COLOR 0}{STRVAR_1 4, 8, 0}{COLOR 0}!\n
+{STRVAR_1 51, 7, 0}/{STRVAR_34 16, 6, 0}/20{STRVAR_1 51, 5, 0}\n¡Huevo de Pokémon\nmuy misterioso obtenido\nen {COLOR 0}{STRVAR_1 4, 8, 0}{COLOR 0}!
+{STRVAR_1 51, 7, 0}/{STRVAR_34 16, 6, 0}/20{STRVAR_1 51, 5, 0}\n¡Huevo de Pokémon muy\nmisterioso procedente\nde {COLOR 0}{STRVAR_1 4, 8, 0}{COLOR 0}!\n
+“Vigilando el Huevo”\nEstá haciendo ruidos.\n¡Está a punto\nde eclosionar!
+“Vigilando el Huevo”\nA veces se mueve.\nDebería abrirse pronto.
+“Vigilando el Huevo”\n¿Qué saldrá? Aún le\nqueda para abrirse...
+“Vigilando el Huevo”\nParece que a este Huevo\nle va a costar abrirse.
+CARACTERÍST.
 PS
 Ataque
 Defensa
-Atq. Esp.
+At. Esp.
 Def. Esp.
-Velocidad
+Veloc.
 Habilidad
 /
 {STRVAR_1 52, 0, 0}
@@ -126,7 +126,7 @@ Habilidad
 {STRVAR_1 5, 0, 0}
        
    
-MOVIMIENTOS
+MOV. COMBATE
     
 {STRVAR_1 6, 0, 0}
 {STRVAR_1 6, 0, 0}
@@ -144,18 +144,18 @@ PP
 {STRVAR_1 51, 0, 0}
 {STRVAR_1 51, 0, 0}
 {STRVAR_1 51, 0, 0}
-{ALN_CENTER}Volver
+{ALN_CENTER}SALIR
 POTENCIA
 PRECISIÓN
-CATEGOR.
+CATEG.
 {STRVAR_1 52, 0, 0}
 {STRVAR_1 52, 0, 0}
-CAMBIAR
+CAMBIO
 --
 ---
     
-Ahora no se pueden\nolvidar los movimientos MO.
-POKÉATHLON
+Los movimientos MO no\nse pueden olvidar así.
+RENDIMIENTO
     
     
         
@@ -177,22 +177,22 @@ POKÉATHLON
                 
             
                   
-Lazos
+CINTAS
     
    
-Número de Lazos:
+N.º de Cintas:
 {STRVAR_1 52, 0, 0}
      
  
      
-Velocidad
-Poder
-Habilidad
-Resistencia
-Salto
-Hoja dorada
-{ALN_CENTER}Olvida!
-{ALN_CENTER}Cambia
+VELOCIDAD
+FORTALEZA
+PRECISIÓN
+RESISTENCIA
+SALTO
+HOJA DORADA
+{ALN_CENTER}OLVIDAR
+{ALN_CENTER}CAMBIAR
 
 Ataque↑
 Defensa↑

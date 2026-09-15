@@ -1,132 +1,132 @@
-un Entrenador ₧₦
-un Entrenador ₧₦
-un Joven
-una Chica
-un Entrenador ₧₦
-un Entrenador ₧₦
-un Joven Promesa
-una Chica
-un Excursionista
-un Pícnic
-un Cazabichos
-una Señorita Aroma
-las Gemelas
-un Montañero
-una Luchadora
-un Pescador
-un Ciclista
-un Ciclista
-un Cinturón Negro
-un Artista
-un Criador ₧₦
-un Criador ₧₦
-una Vaquera
-un Corredor
-un Pokéfan
-un Pokéfan
-un Pokéfan Joven
-un rival
-un Entrenador Guay
-un Entrenador Guay
-una Camarera
-un Veterano
-un Ninja
-un Domadragones
-un Ornitólogo
-un Malabarista
-un Niño Rico
-una Señorita
-un Caballero
-una Socialité
-una Bella
-un Coleccionista
-un Policía
-un Ranger ₧₦
-un Ranger ₧₦
-un Científico
-un Nadador♂
-una Nadadora♀
-un Chico Tubérculo
-una Chica Tubérculo
-un Marinero
-una Chica Kimono
-un Maníaco Ruinas
-un Psíquico
-una Psíquica
-un Estafador
-un Guitarrista
-un Entrenador Guay
-un Entrenador Guay
-un miembro del Team Rocket
-un Esquiador
-un Rufián
-un Payaso
-un Trabajador
-un Escolar
-un Escolar
-un miembro del Team Rocket
-un Ladrón
-un Domafuegos
-un Motorista
-un Líder
-un Líder
-un Pokémaniaco
-un Ornitólogo
-un Líder
-un Ganadero
-un Líder
-un Líder
-un Líder
-un Líder
-un Líder
-un Profesor
-un Supernerd
-un Sabio
-una Señorita Parasol
-un Camarero
-un Médium
-un Cámara
-un Reportero
-un Ídolo
-un Campeón
-un miembro del Alto Mando
-un miembro del Alto Mando
-un miembro del Alto Mando
-un Entrenador ₧₦
-un Entrenador ₧₦
-un Entrenador ₧₦
-un Entrenador ₧₦
-un Entrenador ₧₦
-un Entrenador ₧₦
-un Entrenador ₧₦
-un Magnate Torre
-un Líder
-una Matrona Sala
-un Jefe Fábrica
-una Estrella Arcade
-un Ayudante Castillo
-un Líder
-un Líder
-un Líder
-un Líder
-un Líder
-un Líder
-un Entrenador ₧₦
-un Líder
-un Anciano
-un miembro del Alto Mando
-un Científico
-un Ejecutivo
-un Snowboarder
-un Ejecutivo
-un Ejecutivo
-un Ejecutivo
-un Transeúnte
-un Hombre Misterioso
-un equipo doble
-una Pareja Joven
-un Entrenador ₧₦
-un Jefe Rocket
+un Entrenador
+una Entrenadora
+Joven
+Chica
+Campista
+Dominguera
+Cazabichos
+Srta. Aroma
+Gemelas
+Montañero
+Luchadora
+Pescador
+Ciclista
+Ciclista
+Karateka
+Artista
+Criapokémon
+Criapokémon
+Vaquera
+Corredor
+Pokéfan
+Pokéfan
+Pokéchica
+Rival
+Entre. guay
+Entre. guay
+Camarera
+Veterano
+Chico ninja
+Domadragón
+Ornitólogo
+Malabarista
+Niño bien
+Damisela
+Duque
+Marquesa
+Modelo
+Pokécolector
+Policía
+PKMN Ranger
+PKMN Ranger
+Científico
+Nadador
+Nadadora
+Playero
+Playera
+Marinero
+Chica Kimono
+Ruinamaníaco
+Médium
+Médium
+Jugón
+Guitarrista
+Entrenador guay
+Entrenadora guay
+Team Rocket
+Esquiadora
+Calvo
+Payaso
+Obrero
+Escolar
+Escolar
+Team Rocket
+Ladrón
+Comefuego
+Motorista
+Líder
+Líder
+Pokémaníaco
+Ornitólogo
+Líder
+Ranchero
+Líder
+Líder
+Líder
+Líder
+Líder
+Profesora
+Científico
+Pensador
+Dama Parasol
+Camarero
+Mentalista
+Cámara
+Reportera
+Famosa
+Campeona
+Alto Mando
+Alto Mando
+Alto Mando
+Entrenadora
+Entrenador
+Entrenadora
+Entrenador
+Entrenadora
+Entrenador
+Entrenadora
+Amo Torre
+Líder
+Dama Salón
+Jefe Fábrica
+Astro Ruleta
+Mayordomo
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Entrenador
+Líder
+Anciano
+Alto Mando
+Científico
+Ejecutivo Team Rocket
+Snow-boarder
+Ejecutivo Team Rocket
+Ejecutivo Team Rocket
+Ejecutivo Team Rocket
+Transeúnte
+Místico
+Dúo
+Pareja joven
+Entrenador
+Jefe Team Rocket
+Entrenador
+Entrenadora
+Entrenador
+Entrenadora
 un Entrenador ₧₦
 un Entrenador ₧₦
 un Entrenador ₧₦

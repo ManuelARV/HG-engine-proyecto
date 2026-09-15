@@ -1,31 +1,31 @@
- -
+-
 Hedor
 Llovizna
 Impulso
-Armadura Batalla
+Armad. Bat.
 Robustez
 Humedad
 Flexibilidad
 Velo Arena
-Elec. Estática
-Absorbe Elec
-Absorbe Agua
+Elec. Estát.
+Absor. Elec.
+Absor. Agua
 Despiste
 Aclimatación
-Ojo Compuesto
+Ojocompuesto
 Insomnio
 Cambio Color
 Inmunidad
-Absorbe Fuego
+Absor. Fuego
 Polvo Escudo
 Ritmo Propio
 Ventosas
 Intimidación
-Sombra Trampa
+Sombratrampa
 Piel Tosca
 Superguarda
 Levitación
-Ef. Espora
+Efec. Espora
 Sincronía
 Cuerpo Puro
 Cura Natural
@@ -34,7 +34,7 @@ Dicha
 Nado Rápido
 Clorofila
 Iluminación
-Rastreo
+Rastro
 Potencia
 Punto Tóxico
 Foco Interno
@@ -59,9 +59,9 @@ Más
 Menos
 Predicción
 Viscosidad
-Muda
+Mudar
 Agallas
-Escama Especial
+Escama Esp.
 Lodo Líquido
 Espesura
 Mar Llamas
@@ -70,7 +70,7 @@ Enjambre
 Cabeza Roca
 Sequía
 Trampa Arena
-Vigor
+Espír. Vital
 Humo Blanco
 Energía Pura
 Caparazón
@@ -95,7 +95,7 @@ Hidratación
 Poder Solar
 Pies Rápidos
 Normalidad
-Francotirador
+Francotirad.
 Muro Mágico
 Indefenso
 Rezagado
@@ -104,7 +104,7 @@ Defensa Hoja
 Zoquete
 Rompemoldes
 Afortunado
-Detonación
+Resquicio
 Anticipación
 Alerta
 Ignorante

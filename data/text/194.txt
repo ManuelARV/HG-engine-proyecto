@@ -1,29 +1,29 @@
-Please choose Pokémon\nno. {STRVAR_1 50, 0, 0}.
-Are you OK with the\nchosen {STRVAR_1 50, 0, 0} Pokémon?
-Please wait a moment.
+Por favor, elige el Pokémon número {STRVAR_1 50, 0, 0}.
+¿Quieres continuar con\nestos {STRVAR_1 50, 0, 0} Pokémon?
+Espera un momento...
   
    
-SUMMARY
-RENT
-CANCEL
-REMOVE
-Choose the Pokémon to\nbe exchanged.
-Cancel the Pokémon trade?
+DATOS
+PRÉSTAMO
+CANCELAR
+QUITAR
+Elige qué Pokémon quieres dejar.
+¿Quieres cancelar el intercambio\nde Pokémon?
   
    
-Choose the Pokémon you\nwant to receive.
-Will you accept this Pokémon?
-Please wait a moment.
-{STRVAR_1 3, 0, 0} traded\naway {STRVAR_1 0, 1, 0} and\freceived {STRVAR_1 0, 2, 0}.\r
+Elige qué Pokémon quieres.
+¿Quieres este Pokémon?
+Espera un momento...
+¡{STRVAR_1 3, 0, 0} ha dejado\n{STRVAR_1 0, 1, 0}\fy\fha elegido {STRVAR_1 0, 2, 0}!\r
   
    
-CANCEL
-SUMMARY
-EXCHANGE
-CLOSE
-BACK
-CANCEL
-RECEIVE
+CANCELAR
+DATOS
+DEJAR
+CANCELAR
+ATRÁS
+CANCELAR
+RECIBIR
 ♂
 ♀
 {STRVAR_1 0, 0, 0}

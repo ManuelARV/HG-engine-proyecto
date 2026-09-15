@@ -112,3 +112,6 @@ test_logs.txt
 dumped_armips/
 dumped_c/
 test_filter.txt
+
+# herramientas locales de traduccion (no se suben a git)
+/local/

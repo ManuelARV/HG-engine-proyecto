@@ -1,20 +1,20 @@
 EDITAR
 SALIR
-FIJAR
+ASIGNAR
 QUITAR
 CAMBIAR
 OK
-CANCELAR
+SALIR
 Elige una Cápsula.
 ¿Qué quieres hacer?
-Se ha quitado la Cápsula.
-¿Con qué Cápsula la\nquieres cambiar?
-Se han cambiado las\nCápsulas.
-Has terminado de editar\nla Cápsula.
-Confirmando...
-¿Salir sin cambiar el\ndiseño de la Cápsula?
-¡No cabe nada más!
-No te quedan Sellos.
-Salir
+Has quitado la Cápsula.
+¿Cambiar por qué Cápsula?
+Se han cambiado las Cápsulas.
+Has terminado de editar las Cápsulas.
+Comprobando...
+¿Salir sin cambiar el diseño\nde la Cápsula?
+¡No te queda espacio!
+No quedan Sellos.
+SALIR
    
      

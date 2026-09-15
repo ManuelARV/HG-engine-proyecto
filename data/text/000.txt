@@ -1,12 +1,12 @@
-SALIR
+ATRÁS
 VER
-BORRAR
+TIRAR
 MOVER
-CANCELAR
+SALIR
 Elige una foto.
-¿Qué quieres hacer con\nla foto elegida?
-¿Con qué foto quieres\ncambiarla?
-Se han cambiado las\nfotos elegidas.
-¿Seguro que quieres\nborrar esta foto?
-Foto de {STRVAR_1 3, 0, 0}\nFecha: {STRVAR_1 4, 1, 0}\nDe: {STRVAR_1 1, 2, 0}\n{STRVAR_1 51, 4, 0}/{STRVAR_1 51, 5, 0}/{STRVAR_1 53, 3, 0}
-Foto de {STRVAR_1 3, 0, 0}\nFecha: {STRVAR_1 4, 1, 0}\nDe: {STRVAR_1 1, 2, 0} y amigos\n{STRVAR_1 51, 4, 0}/{STRVAR_1 51, 5, 0}/{STRVAR_1 53, 3, 0}
+¿Qué quieres hacer\ncon esta foto?
+¿Por qué foto quieres\ncambiarla?
+La foto se ha cambiado.
+¿Quieres tirar la foto?
+Foto de {STRVAR_1 3, 0, 0}\nen {STRVAR_1 4, 1, 0}\ncon {STRVAR_1 1, 2, 0}\n{STRVAR_1 51, 5, 0}/{STRVAR_1 51, 4, 0}/{STRVAR_1 53, 3, 0}
+Foto de {STRVAR_1 3, 0, 0}\nen {STRVAR_1 4, 1, 0}\ncon {STRVAR_1 1, 2, 0}\n{STRVAR_1 51, 5, 0}/{STRVAR_1 51, 4, 0}/{STRVAR_1 53, 3, 0}

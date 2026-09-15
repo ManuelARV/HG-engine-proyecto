@@ -1,50 +1,50 @@
-XXXXXXXXXXXXXXXXXXXX
+                    
 ¡Vuelve cuando quieras!
-¿Seguro?\n¡Pues vuelve cuando quieras!
-¡Vuelve a visitarnos!
-¿Seguro?\n¡Pues vuelve cuando quieras!\f¡Ji, ji!
-¡Vuelve cuando quieras!\nBueno, por la tarde no: cerramos.
-¿Puedo hacer algo más\npor ti? {YESNO 0}
-¿Necesitas algo más? {YESNO 0}
-¿Necesitas algo más?\n¿Lo que sea? {YESNO 0}
-¿Necesitas algo más?\n¡Ji, ji! {YESNO 0}
-¿Quieres algo más? {YESNO 0}
-No tienes suficiente dinero.
-¿{STRVAR_1 8, 0, 0}? Claro.\n¿Cuántos quieres?
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-Vale, {STRVAR_1 51, 0, 0}. Son\n${STRVAR_1 55, 1, 0}.
-Aquí tienes.\nGracias por comprar aquí.
+Muy bien.\n¡Hasta la próxima!
+¡Vuelve por aquí!
+¿Ah, sí?\n¡Vuelve pronto por aquí! Ji, ji.
+Pásate cuando quieras. ¡Pero recuerda\nque cerramos por la noche!
+¿Puedo ayudarte en algo más?{YESNO 0}
+¿Necesitas algo más?{YESNO 0}
+¿Hay algo más que te haga falta?{YESNO 0}
+¿Hay algo más que te haga falta?\nJi, ji. {YESNO 0}
+¿Quieres alguna cosa más?{YESNO 0}
+No tienes dinero suficiente.
+¿Cuántas unidades de \n{STRVAR_1 8, 0, 0} quieres?
+                                
+Si te llevas {STRVAR_1 51, 0, 0}, \nel total es de {STRVAR_1 55, 1, 0} $.
+¡Aquí tienes!\n¡Gracias!{WAIT 0}\rGuardas {STRVAR_1 8, 0, 0} en el Bolsillo\n{STRVAR_1 27, 1, 0}.
 No tienes suficiente espacio.
-CANCELAR
-${STRVAR_1 53, 0, 0}
+SALIR
+{STRVAR_1 53, 0, 0} $
 {STRVAR_1 53, 0, 0}P
-Además, te llevas una Honor Ball\ncomo regalo.
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXX
-Has guardado {STRVAR_1 10, 0, 0}\nen el Álbum de Sellos. {WAIT 1}
-El Álbum de Sellos está lleno.\nNo tienes sitio para más Sellos.
-¡Hoy ya no puedes comprar más!
-¡Ya tienes esto!
-XXXXXX
-XXXXXX
-XXX
-Dinero
-${STRVAR_1 55, 0, 0}
+También consigues una Honor Ball extra.
+                             
+                        
+Has colocado {STRVAR_1 10, 0, 0}\nen la Caja de Sellos.
+La Caja de Sellos está llena.\nNo tienes espacio para más Sellos.
+Hoy ya no se puede comprar.
+¡Ya lo tienes!
+      
+      
+   
+DINERO
+{STRVAR_1 55, 0, 0} $
 {STRVAR_1 55, 0, 0}P
-Puntos de atleta
-XXXXXXXXXXXXX
-En la Bolsa:
+Ptos. Atleta
+             
+LLEVAS:
 {STRVAR_1 52, 0, 0}
-XXXXXX
-${STRVAR_1 55, 0, 0}
-XX
-XXX
-XXXXXXX
+      
+{STRVAR_1 55, 0, 0} $
+  
+   
+       
 COMPRAR
 {STRVAR_1 51, 0, 0}/{STRVAR_1 51, 1, 0}
 {STRVAR_1 50, 0, 0}
 {STRVAR_1 50, 1, 0}
-¿Quieres\n{STRVAR_1 8, 0, 0}?
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-¡No tienes suficientes puntos!
-¡Muy bien, aquí tienes!\n¡Vuelve cuando quieras! {WAIT 1}
+Has elegido\n{STRVAR_1 8, 0, 0}.\f¿Es correcto?
+                                        
+¡No tienes puntos suficientes!
+Ahí tienes.\n¡Muchas gracias!{WAIT 0}

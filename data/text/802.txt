@@ -1,46 +1,46 @@
-VISTOS
-CAPTURADOS
+AVISTADOS
+ATRAPADOS
    
  
    
    
    
    
-INFO
+INFO.
 {STRVAR_1 52, 0, 0}
 ALT.
-PES.
-Modo búsqueda
-Introduce el criterio\nde búsqueda.
-Resultados
+PESO
+MODO BÚSQUEDA
+Introduce los criterios de búsqueda.
+RESULTADOS DE LA BÚSQUEDA
 RESULTADOS {STRVAR_1 52, 0, 0}
-Elige el modo de lista\nde la Pokédex.
-Ordenar por la primera\nletra del nombre.
+Selecciona cómo se ordena la Pokédex.
+Ordenar por orden alfabético.
 Ordenar por tipo.
 Ordenar por peso.
 Ordenar por altura.
-Ordenar por forma.
+Ordenar por forma corporal.
 Ordenar por zona.
-No se ha encontrado\nningún Pokémon.
-No encontrado...
+No se encontraron Pokémon que se
+ajusten a los criterios de búsqueda.
 Buscando...
-ORDEN
+CRITERIO
 NOMBRE
 TIPO
 ALT.
-PES.
+PESO
 ZONA
 FORMA
     
     
-REINICIAR
-INICIO
+RESTAURAR
+BUSCAR
 CANCELAR
-{STRVAR_1 52, 0, 0}.{STRVAR_1 50, 1, 0}
-OK
-CANCELAR
+{STRVAR_1 52, 0, 0},{STRVAR_1 50, 1, 0}
+VALE
+SALIR
 Numérico
-A a la Z
+A-Z
 Más pesado
 Más ligero
 Más alto
@@ -65,7 +65,7 @@ Bicho
 ----
 JOHTO
 KANTO
-DESCONOCIDA
+DESCON.
 ----
 A
 B
@@ -116,33 +116,33 @@ Macho
 Hembra
 Mar Oeste
 Mar Este
-Manto Planta
-Manto Arena
-Manto Basura
+T. planta
+T. arena
+T. basura
 Una forma
-Pokédex JP
-Pokédex IN
-Pokédex FR
-Pokédex AL
-Pokédex IT
-Pokédex ES
+Pokédex japonesa
+Pokédex inglesa
+Pokédex francesa
+Pokédex alemana
+Pokédex italiana
+Pokédex española
 Zona desconocida
 Mañana
 Día
 Noche
 CAMBIAR
 {STRVAR_1 4, 0, 0}
-VER TODOS
-VER TODOS
-Control altura
-Control peso
-1,4 m
-1,4 m
+MOSTRAR TODO
+MOSTRAR TODO
+Ver altura
+Ver peso
+1,5 m
+1,52 m
 40,0 kg
 41,0 kg
-ZONA
-TAMAÑO
-Registro de la Pokédex\ncompletado.
+ÁREA
+TAM.
+Registro de Pokédex completo
 Forma Normal
 Forma Ataque
 Forma Defensa
@@ -151,26 +151,26 @@ Forma Tierra
 Forma Cielo
 Forma Modificada
 Forma Origen
-ROTOM
+Forma de ROTOM
 ROTOM CALOR
 ROTOM LAVADO
 ROTOM FRÍO
-ROTOM VENT.
+ROTOM VENTILADOR
 ROTOM CORTE
-{STRVAR_1 0, 0, 0}
+Forma de {STRVAR_1 0, 0, 0}
 Normal
-Forma Soleada
-Forma Lluviosa
-Forma Nevada
-Forma Nublada
 Forma Sol
-Orejas picudas
-{STRVAR_1 0, 0, 0}
+Forma Lluvia
+Forma Nieve
+Forma Encapotado
+Forma Soleado
+Picoreja
+{STRVAR_1 0, 0, 0}:
 COMPARAR
 Comparar {STRVAR_1 0, 0, 0}
-FORMAS
+ILUST.
 CAMBIAR
-CANCELAR
-CANCELAR
-VOLVER A LA LISTA
+SALIR
+SALIR
+VOLVER
 {STRVAR_1 51, 0, 0}’{STRVAR_1 51, 1, 0}”

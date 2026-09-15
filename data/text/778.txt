@@ -1,149 +1,149 @@
                  
-Connecting to Nintendo Wi-Fi\nConnection... Please wait a moment...
-{STRVAR_1 3, 0, 0} is seeking someone\nto battle.
-{STRVAR_1 3, 0, 0} is seeking someone\nto trade with.
-{STRVAR_1 3, 0, 0} is seeking someone to\ncook with.
-{STRVAR_1 3, 0, 0} is seeking participants\nfor the Battle Frontier.
-{STRVAR_1 3, 0, 0} is seeking participants\nfor {STRVAR_3 0, 1, 0}.
-{STRVAR_1 3, 0, 0} is on standby.
-What would you like to seek?
-Seeking participants...
-Suspend your invitation?
-{STRVAR_1 3, 0, 0} contacted you!
-Would you like to log out of\nNintendo WFC?
+Accediendo a la CWF de Nintendo...\nEspera unos instantes...
+{STRVAR_1 3, 0, 0} está buscando a alguien\ncon quien enfrentarse.
+{STRVAR_1 3, 0, 0} está buscando a alguien\ncon quien hacer intercambios.
+{STRVAR_1 3, 0, 0} está buscando a alguien\ncon quien cocinar.
+{STRVAR_1 3, 0, 0} busca Entrenadores\npara el Frente de Batalla.
+{STRVAR_1 3, 0, 0} busca a alguien que quiera\njugar a {STRVAR_3 0, 1, 0}.
+{STRVAR_1 3, 0, 0} está en espera.
+¿Qué quieres buscar?
+Buscando jugadores...
+¿Cancelas la invitación?
+¡{STRVAR_1 3, 0, 0} ha contactado contigo!
+¿Quieres desconectarte\nde la CWF de Nintendo?
                             
-{STRVAR_1 3, 0, 0} invites you for\na voice chat!
-{STRVAR_1 3, 0, 0} appears to be busy...
-You can’t connect with\n{STRVAR_1 3, 0, 0}.
-Communicating with {STRVAR_1 3, 0, 0}...
-{STRVAR_1 3, 0, 0} failed to respond...
-{STRVAR_1 3, 0, 0} ended the voice chat.
-Would you like to end\nthis voice chat?
-Nintendo Wi-Fi Connection
+¡{STRVAR_1 3, 0, 0} te ha invitado a un\nchat de voz!
+Parece que {STRVAR_1 3, 0, 0} no puede\nresponder ahora...
+No puedes conectarte con\n{STRVAR_1 3, 0, 0}.
+Conectando con {STRVAR_1 3, 0, 0}...
+{STRVAR_1 3, 0, 0} no pudo responder...
+{STRVAR_1 3, 0, 0} finalizó el chat de voz.
+¿Quieres finalizar este chat\nde voz?
+Conexión Wi-Fi de Nintendo
              
   
    
          
           
-IN BATTLE
-TRADE
-TRADING...
-COOK
-COOKING...
-BATTLE FRONTIER
-IN CHALLENGE...
-PLAZA GAMES
-IN PLAY...
-VOICE CHAT
+EN COMBATE
+INTERCAMBIO
+INTERCAMBIANDO...
+COCINAR
+COCINANDO...
+FRENTE DE BATALLA
+DESAFÍO EN CURSO...
+JUEGOS DE LA PLAZA
+JUGANDO...
+CHAT DE VOZ
            
               
-APPLY
+ACEPTAR
        
-CANCEL
+SALIR
 {STRVAR_1 3, 0, 0}
-GROUP
-BATTLE RECORD
-W: {STRVAR_1 53, 0, 0}
-L: {STRVAR_1 53, 0, 0}
-POKéMON TRADES
+GRUPO
+HISTORIAL COMBATES
+V: {STRVAR_1 53, 0, 0}
+D: {STRVAR_1 53, 0, 0}
+INTERC. DE POKéMON
+N.º de veces: {STRVAR_1 53, 0, 0}
+POKOCHOS
 {STRVAR_1 53, 0, 0}
-POFFIN SESSIONS
-{STRVAR_1 53, 0, 0}
-DATE LAST PLAYED
-BATTLE TOWER
-BATTLE FACTORY
-BATTLE CASTLE
-BATTLE HALL
-BATTLE ARCADE
-PREV
-CURRENT
-RECORD
-LEVEL 50
-OPEN LEVEL
-RENTAL/TRADE
-CASTLE POINTS
+FECHA ÚLTIMA CONEXIÓN
+TORRE BATALLA
+FÁBRICA BATALLA
+CASTILLO BATALLA
+SALA BATALLA
+RULETA BATALLA
+PREVIO
+ACTUAL
+RÉCORD
+NIVEL 50
+NIVEL LIBRE
+Préstamo/Intercambio
+PUNTOS CASTILLO
 {STRVAR_1 0, 0, 0}
-WIN STREAK: {STRVAR_1 53, 0, 0}
+{STRVAR_1 53, 0, 0} VICT. CONS.
 {STRVAR_1 53, 0, 0}
-{STRVAR_1 53, 0, 0} CP
-WIN STREAK: {STRVAR_1 53, 0, 0}
-GAMES CLEARED: {STRVAR_1 53, 0, 0}
-PLAZA GAMES PLAYED
+{STRVAR_1 53, 0, 0} PC
+{STRVAR_1 53, 0, 0} VICT. CONS.
+SUPERADOS: {STRVAR_1 53, 0, 0}
+JUEGOS DE LA PLAZA PROBADOS
 {STRVAR_3 0, 0, 0}
 {STRVAR_1 53, 0, 0}
-CLOSE
-{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, {STRVAR_1 53, 0, 0}
+CERRAR
+{STRVAR_1 51, 2, 0}/{STRVAR_34 16, 1, 0}/{STRVAR_1 53, 0, 0}
                
-{STRVAR_1 3, 0, 0} wants to join you!
-Would you like to have another\nbattle against {STRVAR_1 3, 0, 0}?
-Would you like to do another\ntrade with {STRVAR_1 3, 0, 0}?
-Standing by...
+¡{STRVAR_1 3, 0, 0} quiere unirse a ti!
+¿Quieres entablar otro combate\ncon {STRVAR_1 3, 0, 0}?
+¿Quieres realizar otro intercambio\ncon {STRVAR_1 3, 0, 0}?
+En espera...
        
-{STRVAR_1 3, 0, 0} is in a battle.
-{STRVAR_1 3, 0, 0} is trading.
-{STRVAR_1 3, 0, 0} is cooking.
-{STRVAR_1 3, 0, 0} is in a Battle Frontier\nchallenge.
-{STRVAR_1 3, 0, 0} is playing a Plaza Game.
-{STRVAR_1 3, 0, 0} is having a voice chat.
+{STRVAR_1 3, 0, 0} está en un combate.
+{STRVAR_1 3, 0, 0} está haciendo un\nintercambio.
+{STRVAR_1 3, 0, 0} está cocinando.
+{STRVAR_1 3, 0, 0} está combatiendo en el\nFrente de Batalla.
+{STRVAR_1 3, 0, 0} está participando en\nun juego de la plaza.
+{STRVAR_1 3, 0, 0} está participando en\nun chat de voz.
                               
-Reconnect to Nintendo WFC?
-You need at least two Pokémon\nif you want to trade!
-Voice chat was turned ON.\r
-Voice chat was turned OFF.\r
-???
-SINGLE BATTLE
-DOUBLE BATTLE
-FREE SINGLE
-LV. 50 SINGLE
-LV. 100 SINGLE
-FREE DOUBLE
-LV. 50 DOUBLE
-LV. 100 DOUBLE
-Your friend ended the communication\nbattle.
-Communicating. Please stand by...
-You can’t have a Double Battle\nif you only have one Pokémon...
-You don’t have any Berries...
-Your Poffin Case is full.
-You can’t cook Berries if you don’t\nhave a Poffin Case.
-When the group is ready:\nA Button: Proceed   B Button: Cancel
-Someone wishes to join.\nAccept this Trainer as a member?
+¿Volver a conectar con la CWF\nde Nintendo?
+¡Necesitas al menos dos Pokémon\nsi quieres hacer intercambios!
+El chat de voz está ACTIVADO.\r
+El chat de voz está DESACTIVADO.\r
+(?)
+COMBATE INDIVIDUAL
+COMBATE DOBLE
+LIBRE INDIVIDUAL
+NV. 50 INDIVIDUAL
+NV. 100 INDIVIDUAL
+LIBRE DOBLE
+NV. 50 DOBLE
+NV. 100 DOBLE
+Tu oponente ha finalizado el combate\npor conexión.
+Conectando. Por favor, espera.
+No puedes participar en un combate\ndoble si solo tienes un Pokémon...
+No tienes Bayas...
+Tu Pokochera está llena.
+No puedes cocinar Bayas si no tienes\nuna Pokochera.
+Cuando esté todo listo:\nBotón A: Continuar   Botón B: Cancelar
+Una persona quiere participar.\n¿La aceptas?
   
    
-Are these members OK?
+¿Quieres continuar con estas personas?
   
    
-Awaiting {STRVAR_1 3, 0, 0}’s response...
-{STRVAR_1 3, 0, 0} approved your\nmember-registration request.
-{STRVAR_1 3, 0, 0} turned down your\nmember-registration request...\r
+Esperando a {STRVAR_1 3, 0, 0}...
+{STRVAR_1 3, 0, 0} ha aceptado que\nparticipes.
+{STRVAR_1 3, 0, 0} no quiere que\nparticipes...\r
                 
-A member had to drop out.\nPlease register from the start again.\r
-There aren’t enough members.\r
-Stop looking for members?
-If the leader drops out, the group will\nbe disbanded. Is that OK?
-The member invitations will be canceled.
-Awaiting other members.
-Is it OK to turn on the Voice Chat?
-Is it OK to turn off the Voice Chat?
-Seeking Poffin cooks!
-Seeking {STRVAR_3 0, 0, 0} players!
-Voice Chat ON/OFF: X Button
+Alguien ha tenido que abandonar.\nComenzad otra vez desde el principio.\r
+No hay suficientes personas.\r
+¿Quieres dejar de buscar a alguien?
+Si el anfitrión abandona, el grupo se\ndisolverá. ¿Quieres continuar?
+Se han cancelado las invitaciones.
+Esperando a otros participantes.
+¿Quieres activar el chat de voz?
+¿Quieres desactivar el chat de voz?
+¡Se buscan cocineros de Pokochos!
+Busco gente para {STRVAR_3 0, 0, 0}.
+Botón X: Act./Des. chat de voz
 {STRVAR_1 3, 0, 0}
 ID {STRVAR_1 54, 0, 0}
 {STRVAR_1 3, 0, 0}\nID {STRVAR_1 54, 1, 0}
-The leader appears busy.\nPlease apply again.\r
+El anfitrión está ocupado.\nInténtalo de nuevo.\r
                   
-Voice chat will be turned ON while\nyou play with this friend.\rWould you like to respond to this\nfriend’s invitation?
-Voice chat will be turned OFF while\nyou play with this friend.\rWould you like to respond to this\nfriend’s invitation?
+El chat de voz estará CONECTADO\nmientras juegas con este amigo.\r¿Quieres responder a la invitación de\neste amigo?
+El chat de voz estará DESCONECTADO\nmientras juegas con este amigo.\r¿Quieres responder a la invitación de\neste amigo?
                  
                                 
-Waiting for the other player to\ndecide. Please wait...
+Esperando a que el otro jugador\ndecida. Espera, por favor...
                               
                              
                        
            
                   
-WALKABOUT
-MULTI BATTLE
+PASEO
+COMBATE MÚLTIPLE
 2BITADPCM
 3BITADPCM
 4BITADPCM

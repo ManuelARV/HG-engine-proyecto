@@ -1,8 +1,8 @@
-¿Qué récord quieres ver? {YESNO 0}
+¿Qué récord te gustaría ver?{YESNO 0}
 INDIVIDUAL
 DOBLE
 MÚLTIPLE
-CANCELAR
+SALIR
    
                              
                       
@@ -19,15 +19,15 @@ CANCELAR
    
 {STRVAR_1 0, 0, 0}
    
-Torre Batalla
-Fábrica Batalla
-Castillo Batalla
-Sala Batalla
-Ruleta Batalla
-Récord individual
-Récord doble
-Récord múltiple
-ANT.
+Torre Batalla:
+Fábrica Batalla:
+Castillo Batalla:
+Sala Batalla:
+Ruleta Batalla:
+Récord combate individual
+Récord combate doble
+Récord combate múltiple
+PREVIO
 ACTUAL
      
      
@@ -37,23 +37,23 @@ ACTUAL
      
   
        
-VOLVER
+SALIR
 {STRVAR_1 50, 0, 0}
 /
-Ver récords\nElige un Pokémon. {YESNO 0}
+Elige Pokémon para ver\nsus récords.{YESNO 0}
 RÉCORD
-Múltiple c. Entrenador
-Múltiple con amigo
+Múltiple/Entrenador
+Múltiple/amigo
 Nivel 50
 Nivel libre
-Alquilado/Cambio
+Préstamo/Intercambio
 Puntos Castillo
-Racha: {STRVAR_1 53, 0, 0}
+Vic. cons.: {STRVAR_1 53, 0, 0}
 Récord de {STRVAR_1 0, 0, 0}
 {STRVAR_1 53, 0, 0}
 {STRVAR_1 53, 0, 0} PC
-Racha: {STRVAR_1 53, 0, 0}
-Superadas: {STRVAR_1 53, 0, 0}
+Vic. cons.: {STRVAR_1 53, 0, 0}
+Partidas: {STRVAR_1 53, 0, 0}
 A
 B
 C

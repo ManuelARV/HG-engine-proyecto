@@ -1,12 +1,12 @@
-Usar
-Tirar
-Registrar
-Dar
+USAR
+TIRAR
+ASIGNAR
+DAR
      
-Confirmar
-Caminar
+VALE
+CAMINAR
    
-Cancelar
+SALIR
    
    
      
@@ -14,9 +14,9 @@ Cancelar
    
     
     
-Comprobar
+VER
   
-Deseleccionar
+ANULAR
    
      
  
@@ -41,29 +41,29 @@ Deseleccionar
   
        
    
-El objeto {STRVAR_1 8, 0, 0} está seleccionado.
+{STRVAR_1 8, 0, 0} es el objeto elegido.
                      
             
-Mueve el {STRVAR_1 8, 0, 0}.
-No se puede llevar el {STRVAR_1 8, 0, 0}.
+¿Vas a mover el objeto {STRVAR_1 8, 0, 0}?
+El objeto {STRVAR_1 8, 0, 0}\nno se puede llevar.
                           
                   
                     
                 
                              
-¿Cuántos\n{STRVAR_1 8, 0, 0}(s) quieres tirar?
-Has tirado {STRVAR_1 51, 1, 0} {STRVAR_1 8, 0, 0}.
-¿Seguro que quieres tirar\n{STRVAR_1 52, 1, 0}?
+¿Cuántas unidades de {STRVAR_1 8, 0, 0}?
+¡Has tirado {STRVAR_1 51, 1, 0} {STRVAR_1 8, 0, 0}!
+¿Seguro que quieres tirar\n{STRVAR_1 52, 1, 0} {STRVAR_1 8, 0, 0}?
                                          
-Aquí no puedes bajar de la bici.
-Tus monedas: {STRVAR_1 54, 0, 0}
-Has activado la MT.{WAIT 3}{WAIT 4}\n
-Has activado la MT.{WAIT 3}{WAIT 4}\n
-Contenía\n{STRVAR_1 6, 0, 0}.\r¿Enseñar {STRVAR_1 6, 0, 0}\na un Pokémon?
-Has usado\n{STRVAR_1 8, 1, 0}.
-Sigues bajo los efectos del repelente,\nno puedes usar esto ahora.
-Has usado\n{STRVAR_1 8, 1, 0}.\rAtraerás Pokémon salvajes.
-Has uasdo\n{STRVAR_1 8, 1, 0}.\rRepelerás Pokémon salvajes.
+Aquí no puedes bajarte de la Bici.
+Tus Fichas: {STRVAR_1 54, 0, 0}
+MT activada.{WAIT 0}{WAIT 0}
+MO activada.{WAIT 0}{WAIT 0}
+¡Contiene el movimiento {STRVAR_1 6, 0, 0}!\r¿Quieres enseñarle {STRVAR_1 6, 0, 0}\na un Pokémon?
+¡{STRVAR_1 3, 0, 0} ha usado\n{STRVAR_1 8, 1, 0}!
+El Repelente sigue haciendo efecto.\nNo puedes usarlo todavía.
+¡{STRVAR_1 3, 0, 0} ha usado\n{STRVAR_1 8, 1, 0}!\rAsí atraerá a los Pokémon salvajes.
+¡{STRVAR_1 3, 0, 0} ha usado\n{STRVAR_1 8, 1, 0}!\rAsí alejará a los Pokémon salvajes.
               
              
             
@@ -74,23 +74,23 @@ Has uasdo\n{STRVAR_1 8, 1, 0}.\rRepelerás Pokémon salvajes.
              
                        
 MOVER
-¿{STRVAR_1 8, 0, 0}? ¡Oh, no!\nNo puedo comprar eso.
-¿{STRVAR_1 8, 0, 0}? \n¿Cuántos quieres vender?
-Puedo pagar ${STRVAR_1 55, 0, 0}.\n¿Te parece bien?
-Vendiste el {STRVAR_1 8, 0, 0}\ny recibiste ${STRVAR_1 55, 1, 0}.
-Dinero
-${STRVAR_1 55, 0, 0}
+¿{STRVAR_1 8, 0, 0}? No, lo siento.\nNo puedo comprar eso.
+¿{STRVAR_1 8, 0, 0}?\n¿Qué cantidad vendes?
+Puedo pagar {STRVAR_1 55, 0, 0} $.\n¿Te parece bien?
+¡Recibes {STRVAR_1 55, 1, 0} $\npor la venta de {STRVAR_1 8, 0, 0}!
+DINERO
+{STRVAR_1 55, 0, 0} $
       
-+${STRVAR_1 55, 0, 0}
+{STRVAR_1 55, 0, 0} $
   
    
-Vender
+VENDER
 x{STRVAR_1 52, 0, 0}
     
 PP
-Potencia
-Precisión
-Clase
+POTENCIA
+PRECISIÓN
+CATEGORÍA
 {STRVAR_1 51, 0, 0}
 {STRVAR_1 52, 0, 0}
 Sellos: {STRVAR_1 53, 0, 0}
@@ -98,13 +98,13 @@ Accesorios: {STRVAR_1 52, 0, 0}\nFondos: {STRVAR_1 51, 1, 0}
          
    
    
-Puntos de batalla guardados:\n{STRVAR_1 53, 0, 0} PB
-Tipo
-Un objeto importante de la Bolsa puede\nasignarse a este botón para uso instantáneo.
-¡Solo puedes registrar hasta dos objetos\nen los botones!
-¡Se activó la potencia de\nlos sonidos GB!
-¡Se desactivó la potencia de\nlos sonidos GB!
-No puedes usar el {STRVAR_1 8, 0, 0}.
+Puntos de Batalla\n{STRVAR_1 53, 0, 0} PB
+TIPO
+Puedes asignar un objeto clave de la\nBolsa al Botón Y para tenerlo a mano.
+Puedes asignar hasta\ndos objetos clave.
+Has encendido el Lector GB.
+Has apagado el Lector GB.
+No se puede usar {STRVAR_1 8, 0, 0}.
                   
               
                     
@@ -116,16 +116,16 @@ No puedes usar el {STRVAR_1 8, 0, 0}.
        
          
                                
-¡No se puede usar cuando llevas\na alguien contigo!
-¡Ahora no puedes hacer eso!
-Bolsillo de objetos\nPara objetos útiles durante tu\naventura.
-Bolsillo de objetos\nPara recuperar HP y PP de tu Pokémon.
-Bolsillo de Poké Balls\nPara todos los tipos de Poké Balls.
-Bolsillo de MT y MO\nPara todo tipo de MT y MO.
-Bolsillo de bayas\nPara guardar y ordenar distintas\nbayas.
-Bolsillo de correo\nPara guardar y ordenar cartas\nvibrantes.
-Bolsillo de objetos de batalla\nPara objetos útiles durante la batalla.
-Bolsillo de objetos clave\nPara objetos indispensables para\ntu aventura.
-PARAR
+No puedes usarlo cuando te\nacompaña un Pokémon.
+¡No es momento para eso!
+Bolsillo OBJETOS\nAquí se guardan los objetos útiles\npara la aventura.
+Bolsillo BOTIQUÍN\nAquí se guardan los objetos para\nrestaurar los PS y PP de los Pokémon.
+Bolsillo POKé BALLS\nAquí se guardan las diferentes clases\nde Poké Balls.
+Bolsillo MT / MO\nAquí están las diferentes MT y MO que\npueden aprender los Pokémon.
+Bolsillo BAYAS\nAquí se almacenan las Bayas.
+Bolsillo CARTAS\nAquí se guardan diversas\nclases de Cartas.
+Bolsillo OBJETOS BATALLA\nAquí se guardan los objetos útiles\npara los combates.
+Bolsillo OBJETOS CLAVE\nAquí se guardan los objetos\nindispensables para la aventura.
+CERRAR
 Rep. Exp. Pro activado
 Rep. Exp. Pro desactivado

@@ -1,120 +1,120 @@
-¡Hola! Bienvenido al\nCentro Pokémon.\rCuramos a tus Pokémon cansados\ny los dejamos como nuevos.\r¿Quieres que descanse tu\nPokémon?{YESNO 0}
-Vale, cuidaré de tus Pokémon unos\nsegundos.
-Gracias por esperar.\rTus Pokémon ya están como nuevos.\r
+Hola, te doy la bienvenida\nal Centro Pokémon.\rAquí tu equipo Pokémon se recuperará\npor completo.\r¿Quieres que descanse hasta que\nse reponga?{YESNO 0}
+Vale, dame unos segundos.
+Gracias por esperar.\rTu equipo Pokémon ha recobrado\ntoda su energía.\r
 ¡Vuelve cuando quieras!
-¡Hola! Bienvenido al\nCentro Pokémon.\rCuramos a tus Pokémon cansados\ny los dejamos como nuevos.\r¿Quieres que...?\r
-¡E-esa Tarjeta de Entrenador!\r¡Qué color tan bonito!\n¡Y cuántas estrellas!\rHasta ahora he visto varios\nEntrenadores con tarjetas violetas...\rPero tú eres el primero que las\nsupera con una tarjeta tan genial.\r{STRVAR_1 3, 0, 0}, ¿me dejas\ncurar a tus Pokémon? {YESNO 0}
-¡Qué alegría verte, {STRVAR_1 3, 0, 0}!\nQuieres lo de siempre, ¿verdad? {YESNO 0}
-Estaré encantado de cuidar de tus\nPokémon unos segundos.
+Hola, te doy la bienvenida\nal Centro Pokémon.\rAquí tu equipo Pokémon se recuperará\npor completo.\r¿Te parece bien?\r
+¡Esa Ficha de Entrenador!\r¡Vaya color más intenso!\n¡Y todas esas estrellas!\rHasta ahora había visto a varios\nEntrenadores con Fichas violetas...\rPero tú eres la primera persona\ncon una Ficha de ese color.\r{STRVAR_1 3, 0, 0}, ¿podría tener el honor\nde curar a tu equipo Pokémon?
+¡Qué alegría verte, {STRVAR_1 3, 0, 0}!\nLo de siempre, ¿no?{YESNO 0}
+Muy bien. Ten un poco de paciencia.\nSerá solo un momento.
 Gracias por esperar.
-¡Esperamos verte otra vez!
-Puede que tus Pokémon tengan\nel Pokérus.\rSe sabe muy poco del Pokérus,\nsalvo que son formas de vida\fmicroscópicas que se pegan a los Pokémon.\rDicen que los Pokémon infectados\ncrecen muchísimo mejor.
-¡A {STRVAR_1 3, 0, 0} ya no le quedan\nPokémon listos para combatir!\r¡La vista de {STRVAR_1 3, 0, 0}\nse le nubló!
-
-¿Quieres guardar tu aventura\nhasta ahora? {YESNO 0}
-Ya hay una partida guardada.\n¿Quieres sobrescribirla? {YESNO 0}
-Guardando tu aventura Pokémon...\nNo apagues la consola.
-¡Progreso guardado!
-
+¡Vuelve cuando quieras!
+Es posible que algún Pokémon esté\ninfectado por el Pokérus.\rNo se sabe gran cosa del Pokérus, salvo\nque es una forma de vida microscópica\fque infecta a los Pokémon.\rAl parecer, los Pokémon infectados\ncrecen de una forma extraordinaria.
+¡A {STRVAR_1 3, 0, 0} no le quedan Pokémon!\r¡{STRVAR_1 3, 0, 0} perdió el conocimiento!
+             
+¿Quieres guardar la partida?{YESNO 0}
+Ya hay una partida guardada.\n¿Quieres sobrescribirla?{YESNO 0}
+Guardando...\nNo apagues la consola.
+{STRVAR_1 3, 0, 0} ha guardado la partida.
+                                                                                                                    
 Error al guardar.
-
-Ya hay una partida guardada.\nNo se puede guardar.\rConsulta el manual de instrucciones\npara más detalles.\rPulsa Arriba + SELECT + B en\nla pantalla del título si quieres borrar\fla partida guardada actual.
+                                   
+Ya hay una partida guardada, por\nlo que no es posible guardar ahora.\rPara obtener más información, consulta\nel manual de instrucciones.\rPulsa arriba en el + Panel de Control\n+ SELECT + Botón B en la pantalla del\ftítulo para borrar la partida guardada.
 Guardando muchos datos...\nNo apagues la consola.
-
-
-
-¡Has conseguido {STRVAR_1 8, 0, 0}!
-
-¡Qué pena!\nLa Bolsa está llena...
-¡{STRVAR_1 3, 0, 0} ha conseguido\n{COLOR 2}{STRVAR_1 8, 1, 0}{COLOR 0}!
-¡{STRVAR_1 3, 0, 0} ha conseguido\n{COLOR 1}{STRVAR_1 8, 1, 0}{COLOR 0}!
-{STRVAR_1 3, 0, 0} ha guardado {STRVAR_1 8, 1, 0}\nen el bolsillo de {COLOR 2}{STRVAR_1 31, 2, 0}{COLOR 0}.
-{STRVAR_1 3, 0, 0} ha guardado {STRVAR_1 8, 1, 0}\nen el bolsillo de {COLOR 2}{STRVAR_1 31, 2, 0}{COLOR 0}.
-{STRVAR_1 3, 0, 0} ha guardado\n{STRVAR_1 31, 1, 0} en el Estuche.
+                     
+                   
+                              
+¡Has obtenido {STRVAR_1 8, 0, 0}!
+                         
+¡Mala suerte!\nLa Bolsa está llena...
+¡{STRVAR_1 3, 0, 0} ha obtenido\n{COLOR 0}{STRVAR_1 8, 1, 0}{COLOR 0}!
+¡{STRVAR_1 3, 0, 0} ha obtenido\n{COLOR 0}{STRVAR_1 8, 1, 0}{COLOR 0}!
+{STRVAR_1 3, 0, 0} ha puesto {STRVAR_1 8, 1, 0}\nen el Bolsillo {STRVAR_1 31, 2, 0}.
+{STRVAR_1 3, 0, 0} ha puesto {STRVAR_1 8, 1, 0}\nen el Bolsillo {STRVAR_1 31, 2, 0}.
+{STRVAR_1 3, 0, 0} ha guardado\n{STRVAR_1 31, 1, 0} en la Caja Corazón.
 {STRVAR_1 3, 0, 0} ha encendido el PC.\r
-¿A qué PC quieres acceder? {YESNO 0}
-Has accedido al sistema de\nAlmacenamiento Pokémon.\r
+¿A qué PC quieres acceder?{YESNO 0}
+Has accedido al Sistema de\nAlmacenamiento de Pokémon.\r
 Has accedido al PC de {STRVAR_1 3, 0, 0}.\r
-Las palabras de Oak resonaron...\n¡{STRVAR_1 3, 0, 0}! Cada cosa tiene su\fmomento, ¡pero ahora no toca!
-¡Bienvenido!\n¿Qué necesitas?
-
-¡Listo! ¡Están sanos y felices!\n¡Cuídate mucho!
-Mamá: ¡{STRVAR_1 3, 0, 0}!\nBienvenido a casa.\rParece que has vivido un montón de\naventuras ahí fuera.\rQuizá deberías descansar un poco\npara relajarte.\r...\n...
-Mamá: ¡Qué bien! Tú y tus\nPokémon tenéis muy buen aspecto.\rAh, sí, he hablado con el profesor Elm.\rMe ha dicho que la energía de un Pokémon\nse mide en PS (Puntos de Salud).\rSi tus Pokémon pierden PS,\npuedes recuperarlos en cualquier\fCentro Pokémon.\rSi vas a viajar lejos,\nlo mejor es llevar algunas\fPociones de la Tienda Pokémon.\r¡Hazme sentir orgullosa, cariño!\n¡Cuídate!
-Mamá: ¡Qué bien! Tú y tus\nPokémon tenéis muy buen aspecto.\rAh, sí, {STRVAR_1 3, 0, 0}, tus Pokémon\nse debilitarán si se quedan sin PS.\rSi un Pokémon pierde todos sus PS,\nvuelve a casa antes de que caiga.\rSe recuperará por completo\nsi descansa un poco.\rBueno, cariño, ¡hazme sentir orgullosa!\n¡Cuídate!
-Primero, vamos a curar a tus Pokémon\ny dejarlos como nuevos.
-Tus Pokémon ya están completamente\nrecuperados.
-Pásate por un Centro Pokémon cuando\ntus Pokémon anden bajos de PS.\rSi piensas viajar lejos,\nserá mejor que compres\fPociones en una Tienda Pokémon.\r¡Buena suerte, Entrenador!
-No hay correo en el buzón.\r
-
-Ni siquiera ha picado...
+Las palabras de Oak resuenan:\n“¡{STRVAR_1 3, 0, 0}, cada cosa\fen su momento!”
+¡Hola!\n¿En qué puedo ayudarte?{YESNO 0}
+                     
+Tu equipo Pokémon ya está en plena\nforma. ¡Que te vaya bien!
+Mamá: ¡{STRVAR_1 3, 0, 0}!\n¡Cómo me alegro de que vuelvas!\rParece que has tenido toda una\naventura.\rDeberías tomarte un descanso\npara recuperar fuerzas.\r...\n...
+Mamá: ¡Qué bien! Tu equipo Pokémon\ny tú tenéis muy buen aspecto.\rSí, he oído hablar del Profesor Serbal.\rÉl es el que afirmó que la energía de los\nPokémon se mide en PS (Puntos Salud).\rSi tus Pokémon pierden sus PS,\npuedes recuperarlos en un\fCentro Pokémon.\rLos buenos Entrenadores recopilan\nPociones en Tiendas Pokémon\fantes de realizar un viaje largo.\r¡Haz que me sienta orgullosa de ti,\ncielo! ¡Y cuídate!
+Mamá: ¡Qué bien! Tu Pokémon y tú\ntenéis muy buen aspecto.\rRecuerda, {STRVAR_1 3, 0, 0}, los Pokémon\nse debilitan si se agotan sus PS.\rSi un Pokémon pierde muchos PS,\nvuelve a casa antes de que se debilite.\rAquí podrá descansar y recuperar\ntoda la salud.\r¡Haz que me sienta orgullosa de ti,\ncielo! ¡Y cuídate!
+Primero deberías devolverle la\nenergía a tu equipo Pokémon.
+Tu equipo Pokémon se ha recuperado\ntotalmente.
+No olvides visitar un Centro Pokémon\ncuando tus Pokémon pierdan PS.\rSi piensas viajar lejos, deberías\nhacerte con varias Pociones en\fcualquier Tienda Pokémon.\r¡Buena suerte!
+No hay ninguna Carta en el Buzón.\r
+                    
+Hoy no pican...
 El Pokémon se ha escapado...
-Has recogido demasiado rápido...
-¡Has pescado un Pokémon!
+Has tirado demasiado rápido...
+¡Ha picado un Pokémon!
 {STRVAR_1 1, 0, 0} ha sobrevivido al veneno.\n¡El veneno ha desaparecido!\r
-
+                            
 ♂
 ♀
 Parece que aquí no hay nada...
-El dulce aroma desapareció por\nalgún motivo...
-¿Quieres montar en bici? {YESNO 0}
-¿Quieres bajarte de la bici? {YESNO 0}
-¡Aquí no puedes bajarte de la bici!
-¿Eh?
-¡{STRVAR_1 0, 0, 0} salió del Huevo!
+Parece que el aroma dulce ha\ndesaparecido...
+¿Quieres montar en la Bici?{YESNO 0}
+¿Quieres bajarte de la Bici?{YESNO 0}
+¡Aquí no puedes bajarte de la Bici!
+¿Y esto?
+¡{STRVAR_1 0, 0, 0} ha salido del Huevo!
 ¿Quieres ponerle un mote al\n{STRVAR_1 0, 0, 0} recién nacido?
-¡El efecto del repelente se ha acabado!
-
-
-Lo siento mucho.\rAhora mismo estamos trabajando bajo tierra.\nEl acceso está prohibido.\rVuelve a intentarlo más tarde.
-
-
-Hay un texto grabado en la parte trasera\nde la Tabla obtenida...\r“Cuando nació el universo,\nsus fragmentos formaron esta Tabla”.\r
-Hay un texto grabado en la parte trasera\nde la Tabla obtenida...\r“El poder de los gigantes derrotados\nimpregna esta Tabla”.\r
-Hay un texto grabado en la parte trasera\nde la Tabla obtenida...\r“Dos seres de tiempo y espacio fueron\nliberados por el Uno Original”.\r
-Hay un texto grabado en la parte trasera\nde la Tabla obtenida...\r“Tres seres nacieron para unir\nel tiempo y el espacio”.\r
-Hay un texto grabado en la parte trasera\nde la Tabla obtenida...\r“Dos crean la materia y tres crean\nel espíritu que da forma al mundo”.\r
-Hay un texto grabado en la parte trasera\nde la Tabla obtenida...\r“El Uno Original respiró a solas\nantes de que naciera el universo”.\r
-Hay un texto grabado en la parte trasera\nde la Tabla obtenida...\r“El poder de las Tablas se comparte\nentre los Pokémon”.\r
-Hay un texto grabado en la parte trasera\nde la Tabla obtenida...\r“El legítimo portador de una Tabla\nextrae su poder al llevarla”.\r
-No puedes usar las Cajas Ball porque\nno tienes ningún Sello.\r
-
-¿Quieres guardar tu aventura\nhasta ahora?
+El Repelente ha dejado de hacer efecto.
+             
+                   
+Lo siento mucho.\rAhora estamos de obras y no\nse puede entrar.\rVuelve más tarde.
+                                                                                              
+                                                                                          
+Hay algo grabado en la parte posterior\nde esta tabla...\r“Cuando el universo fue creado,\nsus fragmentos formaron esta tabla.”\r
+Hay algo grabado en la parte posterior\nde esta tabla...\r“El poder de los gigantes derrotados\nse encuentra en esta tabla.”\r
+Hay algo grabado en la parte posterior\nde esta tabla...\r“Dos seres del tiempo y el espacio\nse liberaron del original.”\r
+Hay algo grabado en la parte posterior\nde esta tabla...\r“Tres seres nacieron para unir\nel tiempo y el espacio.”\r
+Hay algo grabado en la parte posterior\nde esta tabla...\r“Dos crean la materia y tres crean\nel espíritu para dar forma al mundo.”\r
+Hay algo grabado en la parte posterior\nde esta tabla...\r“El original respiraba en solitario\nantes de que llegara el universo.”\r
+Hay algo grabado en la parte posterior\nde esta tabla...\r“Los Pokémon comparten los\npoderes de las tablas.”\r
+Hay algo grabado en la parte posterior\nde esta tabla...\r“El legítimo portador de una tabla\nrecibe poder de dicha tabla.”\r
+No puedes usar las Cápsulas porque\nno tienes ningún Sello.\r
+                                         
+¿Quieres guardar la partida?
 Ya hay una partida guardada.\n¿Quieres sobrescribirla?
-¡Buenos días!\nBienvenido al Centro Pokémon.\rCuramos a tus Pokémon cansados\ny los dejamos como nuevos.\r¿Quieres que descanse tu\nPokémon? {YESNO 0}
-¡Hola! Bienvenido al\nCentro Pokémon.\rCuramos a tus Pokémon cansados\ny los dejamos como nuevos.\r¿Quieres que descanse tu\nPokémon? {YESNO 0}
-¡La Flauta Azur de {STRVAR_1 3, 0, 0}\nestá sonando!\r¿Quieres tocar la\nFlauta Azur? {YESNO 0}
+¡Buenos días!\nTe doy la bienvenida al Centro Pokémon.\rAquí tu equipo Pokémon se recuperará\npor completo.\r¿Quieres que descanse hasta que\nse reponga?{YESNO 0}
+Hola, te doy la bienvenida al\nCentro Pokémon.\rAquí tu equipo Pokémon se recuperará\npor completo.\r¿Quieres que descanse hasta que\nse reponga?{YESNO 0}
+¡La Flauta Azur de {STRVAR_1 3, 0, 0} está\nsonando!\r¿Quieres tocar la Flauta Azur?{YESNO 0}
 {STRVAR_1 3, 0, 0} ha tocado la Flauta Azur.\r
-¡Ha aparecido una escalera brillante!
-La Flauta Azur resonó en el vacío...\rParece que aquí no sirve de nada\nusar la Flauta Azur...
-{STRVAR_1 3, 0, 0} ha guardado {STRVAR_1 8, 1, 0}\nen el bolsillo de {COLOR 2}{STRVAR_1 27, 2, 0}{COLOR 0}.\r
-{STRVAR_1 3, 0, 0} ha guardado\n{STRVAR_1 31, 1, 0} en el Estuche.\r
-
-
-La Bolsa está llena.\rNo se ha podido quitar la Gran Esfera,\nasí que no puedes entrar.
-Los datos del Hall de la Fama están dañados.\rSe arreglarán si vuelves a entrar\nen el Hall de la Fama.\r
-¡{STRVAR_1 3, 0, 0} ha recibido\n{STRVAR_1 31, 1, 0}!\r¡Pero el Estuche ya está lleno!
-
-¡{STRVAR_1 3, 0, 0} ha encontrado una Hoja Dorada!\r¡{STRVAR_1 3, 0, 0} se la ha puesto a\n{STRVAR_1 1, 1, 0}!
-¡{STRVAR_1 3, 0, 0} ha encontrado una Hoja Dorada!\r¡Pero {STRVAR_1 1, 1, 0} ya tiene una\nHoja Dorada!
-¿Eh?\nEl estado de {STRVAR_1 1, 0, 0}...\r
-¡{STRVAR_1 1, 0, 0} ha cambiado a su\nForma Tierra!
-¡Número de teléfono registrado en\nel Pokégear!\r
-{STRVAR_1 0, 0, 0} se encuentra mejor, así que\nhas decidido llevarte a {STRVAR_1 0, 0, 0}.\r
-¡Oye!\r¿Me cuentas cómo te sientes\njusto antes de combatir? ¿Y al\fganar o perder? ¿Cómo sería\fser el número uno? {YESNO 0}
-¡Vale! ¡Cuéntame cómo te sientes\nantes de combatir!\r
-¡Vale! ¡Cuéntame cómo te sientes\ndespués de ganar!\r
-¡Vale! ¡Cuéntame cómo te sientes\ndespués de perder!\r
-¡Vale! ¡Cuéntame cómo sería ser\nel número uno!\r
-¿Perdona? ¿No quieres decirlo?\nQué pena...
-¡Gracias! ¿Me cuentas algo más? {YESNO 0}
-¡Entendido! ¡Gracias!
-¡Entendido! ¡Gracias!\n{STRVAR_1 28, 0, 0}, ¿eh...?
-ANTES DE COMBATIR
-AL GANAR
-AL PERDER
-SER EL NÚMERO 1
-NO LO CUENTO
+¡Han aparecido unas escaleras!
+La Flauta Azur resuena profundamente.\rParece que es inútil utilizar la Flauta\nAzur aquí...
+{STRVAR_1 3, 0, 0} ha puesto {STRVAR_1 8, 1, 0}\nen el Bolsillo {COLOR 0}{STRVAR_1 27, 2, 0}{COLOR 0}.\r
+{STRVAR_1 3, 0, 0} ha guardado\n{STRVAR_1 31, 1, 0} en la Caja Corazón.\r
+                        
+                                 
+La Bolsa está llena.\rNo se ha podido retirar la Griseosfera,\nasí que no puedes entrar.
+Los datos del Hall de la Fama\nestán dañados.\rPara solucionarlo, vuelve a entrar en\nel Hall de la Fama.\r
+¡{STRVAR_1 3, 0, 0} ha obtenido \n{STRVAR_1 31, 1, 0}!\r¡Ya tienes la Caja Corazón\nllena de {STRVAR_1 31, 1, 0}!
+                            
+{STRVAR_1 3, 0, 0} ha encontrado\nuna Hoja Dorada.\r{STRVAR_1 3, 0, 0} le ha dado a {STRVAR_1 1, 1, 0}\nla Hoja Dorada.
+{STRVAR_1 3, 0, 0} ha encontrado\nuna Hoja Dorada.\rPero {STRVAR_1 1, 1, 0} ya lleva\nuna Hoja Dorada.
+¡Anda!\nParece que {STRVAR_1 1, 0, 0}...\r
+¡{STRVAR_1 1, 0, 0} ha cambiado\na Forma Tierra!
+Has registrado el número de teléfono\nen el Pokégear.\r
+{STRVAR_1 0, 0, 0} se ha recuperado y podrá\ncaminar contigo de nuevo.\r
+¡Oye!\rMe gustaría saber qué sientes cuando\nestás a punto de combatir.\rTambién quiero conocer cuáles son\ntus sentimientos al ganar o perder\fy qué te parecería ser el número 1.{YESNO 0}
+¿Qué sientes cuando vas\na empezar un combate?\r
+¿Cómo te sientes después de\nganar un combate?\r
+¿Me puedes contar qué sientes\ndespués de perder un combate?\r
+¿Puedes describir qué sentirías\nsi fueras número 1?\r
+¿Qué? ¿No me lo dirás?\nVaya, eso es un problema...
+¡Gracias!\n¿Puedo hacerte otra pregunta?{YESNO 0}
+¡Vale, muchas gracias!
+¡Vale, muchas gracias!\nMuy bien, {STRVAR_1 28, 0, 0}...
+Antes de\nluchar
+Tras una\nvictoria
+Tras una\nderrota
+Al ser \nnúmero 1
+¡Yo qué sé!
 
 ¡El efecto del repelente se ha acabado!\n¿Quieres usar otro?
 Has usado {STRVAR_1 8, 1, 0}.

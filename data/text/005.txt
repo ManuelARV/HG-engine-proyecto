@@ -1,11 +1,11 @@
-PS/PP
 RESTAURAR
-ESTADO
-CURATIVOS
+PS/PP
+CURACIÓN
+ESTADOS
      
     
 OBJ. COMBATE
-POKé BALL
+POKé BALLS
 Último objeto usado
 {STRVAR_1 8, 0, 0}
 x{STRVAR_1 52, 0, 0}
@@ -20,11 +20,11 @@ x{STRVAR_1 52, 0, 0}
 {STRVAR_1 8, 0, 0}
 x{STRVAR_1 52, 0, 0}
    
-PS/PP
 RESTAURAR
-ESTADO
-CURATIVOS
-POKé BALL
+PS/PP
+CURACIÓN
+ESTADOS
+POKé BALLS
 OBJ. COMBATE
 /
 {STRVAR_1 50, 0, 0}
@@ -32,18 +32,18 @@ OBJ. COMBATE
 USAR
 {STRVAR_1 8, 0, 0}
 x{STRVAR_1 52, 0, 0}
-¡No serviría de nada usarlo!
+No tendría ningún efecto.
               
-{STRVAR_1 1, 0, 0} está\nmuy motivado!
-¡El Ataque de {STRVAR_1 1, 0, 0}\nha subido!
-¡El Ataque Especial de\n{STRVAR_1 1, 0, 0} ha subido!
-¡La Velocidad de\n{STRVAR_1 1, 0, 0} ha subido!
-¡La Defensa Especial de\n{STRVAR_1 1, 0, 0} ha subido!
-¡La Defensa de\n{STRVAR_1 1, 0, 0} ha subido!
-¡La Precisión de\n{STRVAR_1 1, 0, 0} ha subido!
-¡Se ha usado {STRVAR_1 8, 0, 0}!
-¡No sirve! Es imposible apuntar\nsi hay dos Pokémon!
+¡{STRVAR_1 1, 0, 0} se está\npreparando para luchar!
+¡El Ataque de {STRVAR_1 1, 0, 0} subió!
+¡El At. Esp. de {STRVAR_1 1, 0, 0} subió!
+¡La Velocidad de {STRVAR_1 1, 0, 0} subió!
+¡La Def. Esp. de {STRVAR_1 1, 0, 0} subió!
+¡La Defensa de {STRVAR_1 1, 0, 0} subió!
+¡La precisión de {STRVAR_1 1, 0, 0} subió!
+¡Has usado el objeto {STRVAR_1 8, 0, 0}!
+¡No tiene efecto! ¡No se puede\napuntar cuando hay dos Pokémon!
 ¡No queda sitio en el PC!
-{STRVAR_1 6, 1, 0} impide usar\nel objeto en {STRVAR_1 1, 0, 0}!
-¡No sirve! Es imposible apuntar\na un Pokémon que no ves!
-¡No sirve! Es imposible apuntar\na un Pokémon que no ves!
+¡El efecto de {STRVAR_1 6, 1, 0} impide\nusar el objeto sobre {STRVAR_1 1, 0, 0}!
+¡No tiene efecto! ¡No se puede\napuntar a Pokémon que no se ven!
+¡No tiene efecto! ¡No se puede\napuntar a Pokémon que no se ven!

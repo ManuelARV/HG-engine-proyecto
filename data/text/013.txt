@@ -1,37 +1,37 @@
 VÍDEOS DE COMBATE
-RÉCORDS DEL FRENTE
-CANCELAR
+RÉCORD DEL FRENTE
 SALIR
+ATRÁS
 MI VÍDEO
 OTROS VÍDEOS
 BORRAR VÍDEOS
-VÍDEO DE {STRVAR_1 3, 0, 0}
+Vídeo de {STRVAR_1 3, 0, 0}
 VACÍO
 {STRVAR_1 53, 0, 0}
-Combate
-Núm. vídeo: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0}
-Núm. vídeo: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0} ☆
+Comb.
+Vídeo n.º: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0}
+Vídeo n.º: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0} ☆
 PERFIL DE {STRVAR_1 3, 0, 0}
     
-Mes de nacimiento: {STRVAR_34 16, 0, 0}
-Ubicación
-Cita del Entrenador
+Mes nacim.: {STRVAR_34 16, 0, 0}
+Residencia
+Mensaje
    
       
 
-Sin registrar
+Desconocida
 {STRVAR_1 36, 0, 0}
 {STRVAR_1 37, 0, 0}
 {STRVAR_1 28, 0, 0} {STRVAR_1 28, 1, 0}
                  
         
       
-CAJA DE PC FAVORITA DE\n{STRVAR_1 3, 0, 0}
-CAJA DE PC GUAY DE\n{STRVAR_1 3, 0, 0}
-CAJA DE PC MONA DE\n{STRVAR_1 3, 0, 0}
-CAJA DE PC SUGERIDA DE\n{STRVAR_1 3, 0, 0}
-CAJA DE PC DIVERTIDA DE\n{STRVAR_1 3, 0, 0}
-CAJA DE PC ELEGIDA DE\n{STRVAR_1 3, 0, 0}
+CAJA DE PC FAVORITA DE {STRVAR_1 3, 0, 0}
+CAJA DE PC CHULA DE {STRVAR_1 3, 0, 0}
+CAJA DE PC BONITA DE {STRVAR_1 3, 0, 0}
+CAJA DE PC ORIGINAL DE {STRVAR_1 3, 0, 0}
+CAJA DE PC DIVERTIDA DE {STRVAR_1 3, 0, 0}
+CAJA DE PC ESPECIAL DE {STRVAR_1 3, 0, 0}
 Siguiente\nPokémon
            
             
@@ -46,9 +46,9 @@ VACÍO
        
        
            
-BUSCAR POR INSTALACIÓN
+BUSCAR POR UBICACIÓN
 BUSCAR POR POKéMON
-BUSCAR TU UBICACIÓN
+BÚSQUEDA LOCAL
 ENVIAR FOTO
 VER FOTOS
 ENVIAR
@@ -56,14 +56,14 @@ ENVIAR
                   
 {STRVAR_1 3, 0, 0}\n{STRVAR_1 28, 1, 0}
     
-ENVIAR DATOS DE CAJA
-VER DATOS DE CAJA
-FAVORITA
-GUAY
-MONA
-SUGERIDA
-DIVERTIDA
-ELEGIDA
+ENVIAR DATOS
+VER DATOS
+INTERESANTES
+CHULAS
+BONITAS
+ORIGINALES
+DIVERTIDAS
+ESPECIALES
     
       
 ABC
@@ -76,230 +76,230 @@ STU
 VWX
 YZ
 
-CLASIFICACIÓN SEMANAL
-CLASIFICACIÓN PASADA
-CAMBIAR CLASIF.
-CAMBIAR EQUIPOS
-Equipo: tipo Entrenador
-Equipo: mes nacimiento
-Equipo: Pokémon favorito
-{STRVAR_1 3, 1, 0}: {STRVAR_1 14, 0, 0}
-{STRVAR_1 3, 1, 0}: {STRVAR_34 16, 0, 0}
-{STRVAR_1 3, 1, 0}: {STRVAR_1 0, 0, 0}
-{STRVAR_1 51, 0, 0}: {STRVAR_1 14, 1, 0}
-{STRVAR_1 51, 0, 0}: {STRVAR_1 51, 1, 0}
-{STRVAR_1 51, 0, 0}: {STRVAR_1 0, 1, 0}
-¡RESULTADOS DE LA SEMANA\nPASADA!
+CLAS. SEMANA ACTUAL
+CLAS. SEMANA PASADA
+CAMBIAR CLASIFICACIONES
+CAMBIAR CRITERIO
+Equipo/Tipo de Entrenador
+Equipo/Mes de nacimiento
+Equipo/Pokémon favoritos
+{STRVAR_1 3, 1, 0}/{STRVAR_1 14, 0, 0}
+{STRVAR_1 3, 1, 0}/{STRVAR_34 16, 0, 0}
+{STRVAR_1 3, 1, 0}/{STRVAR_1 0, 0, 0}
+{STRVAR_1 51, 0, 0}/{STRVAR_1 14, 1, 0}
+{STRVAR_1 51, 0, 0}/{STRVAR_1 51, 1, 0}
+{STRVAR_1 51, 0, 0}/{STRVAR_1 0, 1, 0}
+RESULTADOS DE LA SEMANA PASADA
 COLISEO
-FRENTE BATALLA
+FRENTE DE BATALLA
 GUARDAR
 VER VÍDEO\nDE COMBATE
       
-MEJORES VÍDEOS DE COMBATE\nCOLISEO
-MEJORES VÍDEOS DE COMBATE\nFRENTE BATALLA
+MEJORES VÍDEOS EN EL COLISEO
+MEJORES VÍDEOS EN\nEL FRENTE DE BATALLA
 :
-¿Dónde quieres guardar el\nVídeo de Combate de {STRVAR_1 3, 0, 0}?
+¿Dónde quieres guardar el Vídeo\nde Combate de {STRVAR_1 3, 0, 0}?
        
-¿Quieres borrar el Vídeo de\nCombate de {STRVAR_1 3, 0, 0}?
-VER VÍDEOS DE COMBATE
-ENVIAR VÍDEO DE COMBATE
-30 MÁS RECIENTES
+¿Quieres sobrescribir el Vídeo de\nCombate de {STRVAR_1 3, 0, 0}?
+VER VÍDEOS COMBATE
+ENVIAR VÍDEO COMBATE
+ÚLTIMOS 30
 BUSCAR
-BUSCAR POR NÚM. VÍDEO
-BUSCAR POR INSTALACIÓN
+BUSCAR POR NÚMERO
+BUSCAR POR UBICACIÓN
 BUSCAR POR POKéMON
-BUSCAR TU UBICACIÓN
-¡OK!
-Introduce el número\ndel vídeo.
-Elige la instalación.
-Elige el Pokémon.
-Introduce el criterio\nde búsqueda.
-No has definido ningún\ncriterio de búsqueda.
-Cargando Vídeo de\nCombate...
-No hay ningún Vídeo de\nCombate que coincida...
-Enviando el Vídeo de\nCombate...
+BÚSQUEDA LOCAL
+ACEPTAR
+Introduce el número del vídeo.
+Selecciona la ubicación del combate.
+Selecciona el Pokémon.
+Introduce los criterios de búsqueda.
+No has introducido ningún criterio\nde búsqueda.
+Cargando Vídeos de Combate...
+No se ha encontrado ningún Vídeo de\nCombate con los criterios indicados.
+Enviando Vídeo de Combate...
                
 VER PERFIL
 CERRAR PERFIL
-VÍDEOS DE COMBATE MÁS\nRECIENTES: 30
-Define el criterio\nde búsqueda.
-Sin definir
-LISTA DE VÍDEOS DE COMBATE\nDE LOS RESULTADOS
-No se puede volver a enviar el mismo\nVídeo de Combate.\nToca la pantalla táctil para continuar.
-No has registrado\ntu ubicación.
-No hay ningún Vídeo de\nCombate que enviar.
+ÚLTIMOS 30 VÍDEOS DE COMBATE
+Selecciona los criterios de búsqueda.
+No
+VÍDEOS ENCONTRADOS
+No puedes enviar otra vez el mismo vídeo.\nToca la pantalla táctil para continuar.
+No has guardado tu lugar de residencia.
+No tienes ningún Vídeo de Combate.
 SÍ
 NO
-Coliseo\nIndividual, sin restricciones
-Coliseo\nIndividual, Copa Estándar
-Coliseo\nIndividual, Copa Vistosa
-Coliseo\nIndividual, Copa Pequeña
-Coliseo\nIndividual, Copa Ligera
-Coliseo\nIndividual, Copa Doble
-Coliseo\nIndividual, Copa Otra
-Coliseo\nDoble, sin restricciones
-Coliseo\nDoble, Copa Estándar
-Coliseo\nDoble, Copa Vistosa
-Coliseo\nDoble, Copa Pequeña
-Coliseo\nDoble, Copa Ligera
-Coliseo\nDoble, Copa Doble
-Coliseo\nDoble, Copa Otra
-Coliseo\nMúltiple
-Torre Batalla\nIndividual
-Torre Batalla\nDoble
-Torre Batalla\nMúltiple
-Fábrica Batalla\nNivel 50 individual
-Fábrica Batalla\nNivel 50 doble
-Fábrica Batalla\nNivel 50 múltiple
-Fábrica Batalla\nNivel libre individual
-Fábrica Batalla\nNivel libre doble
-Fábrica Batalla\nNivel libre múltiple
-Sala Batalla\nIndividual
-Sala Batalla\nDoble
-Sala Batalla\nMúltiple
-Castillo Batalla\nIndividual
-Castillo Batalla\nDoble
-Castillo Batalla\nMúltiple
-Ruleta Batalla\nIndividual
-Ruleta Batalla\nDoble
-Ruleta Batalla\nMúltiple
-Coliseo\nIndividual, sin restricciones
-Coliseo\nIndividual, Copa
-Coliseo\nDoble, sin restricciones
-Coliseo\nDoble, Copa
-1: Coliseo\n    Individual, sin restricciones
-2: Coliseo\n    Individual, Copa
-3: Coliseo\n    Doble, sin restricciones
-4: Coliseo\n    Doble, Copa
+Coliseo\nIndividual/Sin restricciones
+Coliseo\nIndividual/Copa Normal
+Coliseo\nIndividual/Copa Fantasía
+Coliseo\nIndividual/Copa Pequeña
+Coliseo\nIndividual/Copa Ligera
+Coliseo\nIndividual/Copa Doble
+Coliseo\nIndividual/Otra Copa
+Coliseo\nDoble/Sin restricciones
+Coliseo\nDoble/Copa Normal
+Coliseo\nDoble/Copa Fantasía
+Coliseo\nDoble/Copa Pequeña
+Coliseo\nDoble/Copa Ligera
+Coliseo\nDoble/Copa Doble
+Coliseo\nDoble/Otra Copa
+Coliseo\nCombate múltiple
+Torre Batalla\nCombate individual
+Torre Batalla\nCombate doble
+Torre Batalla\nCombate múltiple
+Fábrica Batalla\nIndividual/Nivel 50
+Fábrica Batalla\nDoble/Nivel 50
+Fábrica Batalla\nMúltiple/Nivel 50
+Fábrica Batalla\nIndividual/Nivel libre
+Fábrica Batalla\nDoble/Nivel libre
+Fábrica Batalla\nMúltiple/Nivel libre
+Sala Batalla\nCombate individual
+Sala Batalla\nCombate doble
+Sala Batalla\nCombate múltiple
+Castillo Batalla\nCombate individual
+Castillo Batalla\nCombate doble
+Castillo Batalla\nCombate múltiple
+Ruleta Batalla\nCombate individual
+Ruleta Batalla\nCombate doble
+Ruleta Batalla\nCombate múltiple
+Coliseo\nIndividual/Sin restricciones
+Coliseo\nIndividual/Combate Copa
+Coliseo\nDoble/Sin restricciones
+Coliseo\nDoble/Combate Copa
+1: Coliseo\n    Indv./Sin restricciones
+2: Coliseo\n    Individual/Combate Copa
+3: Coliseo\n    Doble/Sin restricciones
+4: Coliseo\n    Doble/Combate Copa
 5: Coliseo\n    Múltiple
-6: Torre Batalla\n    Individual
-7: Torre Batalla\n    Doble
-8: Torre Batalla\n    Múltiple
-9: Fábrica Batalla\n      Nivel 50, individual
-10: Fábrica Batalla\n      Nivel 50, doble
-11: Fábrica Batalla\n      Nivel 50, múltiple
-12: Fábrica Batalla\n      Nivel libre, individual
-13: Fábrica Batalla\n      Nivel libre, doble
-14: Fábrica Batalla\n      Nivel libre, múltiple
-15: Sala Batalla\n      Individual
-16: Sala Batalla\n      Doble
-17: Sala Batalla\n      Múltiple
-18: Castillo Batalla\n      Individual
-19: Castillo Batalla\n      Doble
-20: Castillo Batalla\n      Múltiple
-21: Ruleta Batalla\n      Individual
-22: Ruleta Batalla\n      Doble
-23: Ruleta Batalla\n      Múltiple
-¡TOCA AQUÍ!
-¿Quieres desconectarte de la\nConexión Wi-Fi de Nintendo?
+6: Torre Batalla\n    Combate individual
+7: Torre Batalla\n    Combate doble
+8: Torre Batalla\n    Combate múltiple
+9: Fábrica Batalla\n    Individual/Nivel 50
+10: Fábrica Batalla\n      Doble/Nivel 50
+11: Fábrica Batalla\n      Múltiple/Nivel 50
+12: Fábrica Batalla\n      Individual/Nivel libre
+13: Fábrica Batalla\n      Doble/Nivel libre
+14: Fábrica Batalla\n      Múltiple/Nivel libre
+15: Sala Batalla\n      Combate individual
+16: Sala Batalla\n      Combate doble
+17: Sala Batalla\n      Combate múltiple
+18: Castillo Batalla\n      Combate individual
+19: Castillo Batalla\n      Combate doble
+20: Castillo Batalla\n      Combate múltiple
+21: Ruleta Batalla\n      Combate individual
+22: Ruleta Batalla\n      Combate doble
+23: Ruleta Batalla\n      Combate múltiple
+¡TOCA LA PANTALLA!
+¿Quieres desconectarte de\nla Conexión Wi-Fi de Nintendo?
  
-Error de autenticación del\nusuario. Espera un poco antes\nde volver a conectarte.
-Estos datos ya están\nregistrados. Toca la pantalla\ntáctil para continuar.
-Parece haber un problema con\nlos Datos de Vestuario.
-Parece haber un problema con\nlos datos de Perfil.
-Ha ocurrido un error. Toca la\npantalla táctil para continuar.
+Error de autenticación del usuario.\nEspera un momento y vuelve a conectarte.
+Estos datos ya están registrados.\nToca la pantalla táctil para continuar.
+Al parecer hay un problema\ncon los Datos del Atuendo.
+Al parecer hay un problema\ncon los datos del Perfil.
+Se ha producido un error.\nToca la pantalla táctil para continuar.
  
-Error de autenticación del\nusuario. Espera un poco antes\nde volver a conectarte.
-Parece haber un problema con\nel Pokémon elegido.
-Ha ocurrido un error. Toca la\npantalla táctil para continuar.
+Error de autenticación del usuario.\nEspera un momento y vuelve a conectarte.
+Al parecer hay un problema\ncon el Pokémon seleccionado.
+Se ha producido un error.\nToca la pantalla táctil para continuar.
  
-Error de autenticación del\nusuario. Espera un poco antes\nde volver a conectarte.
-Estos datos ya están\nregistrados. Toca la pantalla\ntáctil para continuar.
-Parece haber un problema con\nlos Datos de Caja.
-Parece haber un problema con\nlos datos de Perfil.
-Parece haber un problema con\ntu equipo.
-Ha ocurrido un error. Toca la\npantalla táctil para continuar.
+Error de autenticación del usuario.\nEspera un momento y vuelve a conectarte.
+Estos datos ya están registrados.\nToca la pantalla táctil para continuar.
+Al parecer hay un problema\ncon los Datos de la Caja.
+Al parecer hay un problema\ncon los datos del Perfil.
+Al parecer hay un problema\ncon tu equipo.
+Se ha producido un error.\nToca la pantalla táctil para continuar.
  
-Error de autenticación del\nusuario. Espera un poco antes\nde volver a conectarte.
-Parece haber un problema con\ntu equipo.
-Ha ocurrido un error. Toca la\npantalla táctil para continuar.
+Error de autenticación del usuario.\nEspera un momento y vuelve a conectarte.
+Al parecer hay un problema\ncon tu equipo.
+Se ha producido un error.\nToca la pantalla táctil para continuar.
  
-Error de autenticación del\nusuario. Espera un poco antes\nde volver a conectarte.
-Ha ocurrido un error. Toca la\npantalla táctil para continuar.
+Error de autenticación del usuario.\nEspera un momento y vuelve a conectarte.
+Se ha producido un error.\nToca la pantalla táctil para continuar.
  
-Error de autenticación del\nusuario. Espera un poco antes\nde volver a conectarte.
-No se han podido recibir los datos\nde clasificación.\nToca la pantalla táctil para continuar.
-Parece haber un problema con\ntu registro de clasificación.
-Parece haber un problema con\nlos datos de Perfil.
-Ha ocurrido un error. Toca la\npantalla táctil para continuar.
+Error de autenticación del usuario.\nEspera un momento y vuelve a conectarte.
+No se ha podido recibir la Clasificación.\nToca la pantalla táctil para continuar.
+Al parecer hay un problema con\nlos Datos de tu Clasificación.
+Al parecer hay un problema\ncon los datos del Perfil.
+Se ha producido un error.\nToca la pantalla táctil para continuar.
  
-Error de autenticación del\nusuario. Espera un poco antes\nde volver a conectarte.
-Estos datos ya están\nregistrados. Toca la pantalla\ntáctil para continuar.
-Parece haber un problema con\nel Vídeo de Combate.
-Parece haber un problema con\nlos datos de Perfil.
-Ha ocurrido un error. Toca la\npantalla táctil para continuar.
-Parece haber un problema con tu\nPokémon. No se han enviado los datos.
-Parece haber un problema con el\nPokémon de un jugador. No se han enviado\nlos datos.
+Error de autenticación del usuario.\nEspera un momento y vuelve a conectarte.
+Estos datos ya están registrados.\nToca la pantalla táctil para continuar.
+Al parecer hay un problema\ncon el Vídeo de Combate.
+Al parecer hay un problema\ncon los datos del Perfil.
+Se ha producido un error.\nToca la pantalla táctil para continuar.
+Al parecer hay un problema con tus Pokémon.\nNo se han enviado los datos.
+Puede haber un problema con los Pokémon del\notro jugador. No se han enviado los datos.
  
-Error de autenticación del\nusuario. Espera un poco antes\nde volver a conectarte.
-Parece haber un problema con\nel criterio de búsqueda.
-Ha ocurrido un error. Toca la\npantalla táctil para continuar.
+Error de autenticación del usuario.\nEspera un momento y vuelve a conectarte.
+Al parecer hay un problema\ncon los criterios de búsqueda.
+Se ha producido un error.\nToca la pantalla táctil para continuar.
  
-Error de autenticación del\nusuario. Espera un poco antes\nde volver a conectarte.
-No se han encontrado Vídeos de\nCombate. Toca la pantalla táctil\npara continuar.
-Ha ocurrido un error. Toca la\npantalla táctil para continuar.
- 
- 
- 
- 
- 
-Ha ocurrido un error.\nCódigo de error 10601
-Ha ocurrido un error.\nCódigo de error 10602
-Ha ocurrido un error.\nCódigo de error 10603
-Ha ocurrido un error.\nCódigo de error 10604
-No se ha podido conectar.\nCódigo de error 10605
-Ha ocurrido un error.\nCódigo de error 10606
-No se ha podido conectar.\nCódigo de error 10607
-Ha ocurrido un error.\nCódigo de error 10608
-Ha ocurrido un error.\nCódigo de error 10609
-No hay respuesta.\nCódigo de error 10610
-No hay respuesta.\nCódigo de error 10611
-No hay respuesta.\nCódigo de error 10612
-Se interrumpió la comunicación.\nCódigo de error 10613
-No se ha podido conectar.\nCódigo de error 10614
+Error de autenticación del usuario.\nEspera un momento y vuelve a conectarte.
+No hay ningún vídeo que cumpla ese criterio.\nToca la pantalla táctil para continuar.
+Se ha producido un error.\nToca la pantalla táctil para continuar.
  
  
  
  
  
+Se ha producido un error.\nError: 10601
+Se ha producido un error.\nError: 10602
+Se ha producido un error.\nError: 10603
+Se ha producido un error.\nError: 10604
+No se ha podido acceder a la conexión.\nError: 10605
+Se ha producido un error.\nError: 10606
+No se ha podido acceder a la conexión.\nError: 10607
+Se ha producido un error.\nError: 10608
+Se ha producido un error.\nError: 10609
+No se recibe ninguna señal.\nError: 10610
+No se recibe ninguna señal.\nError: 10611
+No se recibe ninguna señal.\nError: 10612
+La conexión se ha interrumpido.\nError: 10613
+No se ha podido acceder a la conexión.\nError: 10614
  
  
-Se ha perdido la conexión con\nel servidor. Toca la pantalla\ntáctil para continuar.
  
  
-No hay nada guardado. Toca la\npantalla táctil para continuar.
-Elige una Caja.
-No se pueden enviar los Datos\nde una Caja vacía.
-¿A dónde quieres enviar esto?
-Solo se pueden enviar los Datos\nde una Caja a la vez.
-No se pueden enviar los mismos\nDatos de Caja.
+ 
+ 
+ 
+Se ha perdido la conexión con el servidor.\nToca la pantalla táctil para continuar.
+ 
+ 
+No hay datos guardados.
+Selecciona una Caja.
+No puedes enviar datos de una Caja vacía.
+¿Adónde los quieres enviar?
+Solo puedes enviar los datos\nde una Caja cada vez.
+No puedes volver a enviar\ndatos de la misma Caja.
 ¿Qué categoría quieres ver?
-No se han podido borrar los\ndatos guardados...
-No se puede volver a guardar el mismo\nVídeo de Combate.\nToca la pantalla táctil para continuar.
+No se ha podido borrar los datos guardados.
+No puedes volver a guardar el mismo vídeo.\nToca la pantalla táctil para continuar.
 Guardando...\nNo apagues la consola.
-Recibiendo datos de\nclasificación...
-Enviando datos de guardado...
-Guardado completado. Toca la\npantalla táctil para continuar.
+Recibiendo datos...
+Enviando información de guardado...
+Guardado completado.\nToca la pantalla táctil para continuar.
 ¿Quieres borrar el Vídeo de\nCombate de {STRVAR_1 3, 0, 0}?
-¿Seguro que quieres borrar\nestos datos?
+¿Quieres borrar estos datos?
 Borrando datos...\nGuardando... No apagues la consola.
-Los datos se han borrado.\nToca la pantalla táctil para\ncontinuar.
-Enviando tus Datos de\nVestuario...
-Recibiendo Datos de\nVestuario...
-Enviando tus Datos de Caja...
-Recibiendo Datos de Caja...
-No tienes datos guardados que\nenviar. Haz una foto en el\nTúnel Trigal.
-No se pueden volver a enviar los\nmismos datos. Toca la pantalla\ntáctil para continuar.
-Recibiendo Vídeos de\nCombate...
-No se han encontrado datos que\ncoincidan. Toca la pantalla táctil\npara continuar.
-No se han encontrado Datos de\nCaja que coincidan. Toca la\npantalla táctil para continuar.
-Se ha enviado tu Vídeo de Combate.\nNúm. vídeo: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0}\n
-El juego se guardará antes de que\npuedas ver Vídeos de Combate.
-Borrando datos... Guardando\nmuchos datos... No apagues la\nconsola.
+Se han borrado los datos.\nToca la pantalla táctil para continuar.
+Enviando tus Datos del Atuendo...
+Recibiendo datos...
+Enviando datos de tu Caja...
+Recibiendo datos...
+No tienes ninguna foto que enviar.\nHaz una foto en el Túnel Trigal.
+No puedes volver a enviar los mismos datos.\nToca la pantalla táctil para continuar.
+Recibiendo Vídeos de Combate...
+No se han encontrado fotos...
+No se han encontrado datos de Cajas...\nToca la pantalla táctil para continuar.
+Se ha enviado tu Vídeo de Combate.\nVídeo n.º: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0}\n
+Se va a guardar la partida antes de ver\nel Vídeo de Combate.
+Borrando datos... Guardando muchos\ndatos... No apagues la consola.
 Guardando muchos datos...\nNo apagues la consola.
 Guardando...\nNo apagues la consola.
-No hay datos de clasificación...\nToca la pantalla táctil para\ncontinuar.
-¿Quieres enviar tu Vídeo de\nCombate?
+No hay Clasificaciones.\nToca la pantalla táctil para continuar.
+¿Quieres enviar tu Vídeo de Combate?
  
  
  
@@ -308,27 +308,27 @@ No hay datos de clasificación...\nToca la pantalla táctil para\ncontinuar.
  
  
  
-LOS 20 ÚLTIMOS DE LA CAJA\nDE PC FAVORITA
-LOS 20 ÚLTIMOS DE LA CAJA\nDE PC GUAY
-LOS 20 ÚLTIMOS DE LA CAJA\nDE PC MONA
-LOS 20 ÚLTIMOS DE LA CAJA\nDE PC SUGERIDA
-LOS 20 ÚLTIMOS DE LA CAJA\nDE PC DIVERTIDA
-LOS 20 ÚLTIMOS DE LA CAJA\nDE PC ELEGIDA
+20 ÚLTIMAS CAJAS INTERESANTES
+20 ÚLTIMAS CAJAS CHULAS
+20 ÚLTIMAS CAJAS BONITAS
+20 ÚLTIMAS CAJAS ORIGINALES
+20 ÚLTIMAS CAJAS DIVERTIDAS
+20 ÚLTIMAS CAJAS ESPECIALES
 Escolar♂
 Cazabichos
-Entrenador Guay♂
-Rufián
-Maníaco Ruinas
-Cinturón Negro
-Niño Rico
-Psíquico♂
+Entrenador guay
+Calvo
+Ruinamaníaco
+Karateka
+Niño bien
+Médium♂
 Chica
 Luchadora
-Bella
-Entrenador Guay♀
-Idol
-Socialité
+Modelo♀
+Entrenadora guay
+Famosa
+Marquesa
 Vaquera
-Dama
-Goldver
-Ignorar ubicación
+Damisela
+Oropla
+Cualquier zona
