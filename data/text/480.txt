@@ -1,0 +1,9 @@
+¡Hola!\nSoy el Inspector de los Motes.\r¿Quieres que evalúe los motes\nde tu equipo Pokémon? {YESNO 0}
+¿Qué mote de Pokémon\nquieres que evalúe?
+Je, je. ¿{STRVAR_1 1, 0, 0} dices?\nEs un mote bastante bueno.\rPero podríamos ponerle uno\ntodavía mejor.\r¿Qué te parece? {YESNO 0}
+Así me gusta. A ver...\n¿Cuál será el nuevo mote?\r
+¡Ya está!\nA partir de ahora {STRVAR_1 1, 0, 0} será\fel mote de este Pokémon.\rEs un mote fabuloso, ¿no te parece?
+Bien...\nComo tú quieras.\fVen a verme si cambias de idea.
+¡Ya está!\nA partir de ahora {STRVAR_1 1, 0, 0} será\fel mote de este Pokémon.\rNo parece muy diferente del anterior y,\nsin embargo, es muchísimo mejor.\r¡Bien hecho!
+Mmm...\n¿{STRVAR_1 1, 0, 0} dices?\rNo tiene nada de malo.\nEs un mote excelente.\rCuida bien de {STRVAR_1 1, 0, 0}\ncomo hasta ahora.
+Pero vamos a ver...\n¡Esto es solo un Huevo!

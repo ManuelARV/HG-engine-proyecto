@@ -1,0 +1,30 @@
+Pruebas Velocidad
+Pruebas Fortaleza
+Pruebas Precisión
+Pruebas Resistencia
+Pruebas Salto
+Pruebas Veloc y Salto
+Pruebas Salto y Precis
+Pruebas Precis y Fortal
+Pruebas Fortal y Resist
+Pruebas Resist y Veloc
+Pruebas Maestras
+  
+  
+   
+   
+I. Velocidad
+I. Fortaleza
+I. Precisión
+I. Resistencia
+I. Salto
+Saltaobstáculos
+Atrapabanderas
+Pisacírculos
+Rompelosas
+Atrapadiscos
+Botaluces
+Carrera Relevos
+Fuera del Ring
+Nieve Cruzada
+Metegoles

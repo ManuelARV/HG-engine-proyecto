@@ -1,0 +1,16 @@
+Este es el Ferry S.S. Aqua.\rEl mantenimiento del motor\nestá tardando bastante y no sabemos\fcuándo podremos zarpar.\n
+Este es el Ferry S.S. Aqua.\n¿Puedo ver tu Ticket Barco?\r
+{STRVAR_1 3, 0, 0} intentó enseñar\nel Ticket Barco, pero...\r¡no lo tiene!\r
+Vaya...\rMe gustaría colarte, pero las reglas\nson las reglas. Compréndelo.
+{STRVAR_1 3, 0, 0} enseña el Ticket Barco.\r
+¡Tienes un Ticket Barco!\rMuy bien, date prisa en subir,\nque el barco va a zarpar.\r
+¿Eh? Pero si ya me has enseñado\nel Ticket Barco.
+Este es el Ferry S.S. Aqua.\rTienes Ticket Barco, ¿no?\nAdelante, adelante.\r
+Los barcos también se cansan\nsi se mueven todos los días.\rHoy es su día de descanso.\nLos barcos para Ciudad Carmín\fsalen los lunes y los viernes.
+Prof. Oak: ¡{STRVAR_1 3, 0, 0}!\rCada vez despides un aura de Campeón\nmás intensa.\rA pesar de tu posición, no descuides la\nPokédex. ¡Tiene que estar a la altura!\fDéjame echarle un vistazo.\rVoy a mejorar tu Pokédex\ncon el Modo Nacional.\r
+Prof. Oak: ¡{STRVAR_1 3, 0, 0}!\rCada vez despides un aura\nde Campeona más intensa.\rA pesar de tu posición, no descuides la\nPokédex. ¡Tiene que estar a la altura!\fDéjame echarle un vistazo.\rVoy a mejorar tu Pokédex\ncon el Modo Nacional.\r
+¡La Pokédex de {STRVAR_1 3, 0, 0} contiene\nahora datos sobre el Modo Nacional!
+Prof. Oak: Completar la Pokédex es\nun trabajo más que arduo, pero\ftienes que intentarlo.\r
+¡Oh! ¡Es tardísimo!\rTengo que ir a grabar a la radio\nde Ciudad Trigal.\rPor fin vas a la región de Kanto, ¿no?\rSi pasas por Pueblo Paleta,\ndéjate caer por mi Laboratorio\fy enséñame cómo llevas la Pokédex.\r
+El S.S. Aqua usa propulsores para\nsurcar las olas, por eso levita\fligeramente sobre la superficie.
+¿Ya has ido a Kanto alguna vez?\rHe oído que allí viven gran cantidad\nde Pokémon raros.\f¡Tengo muchas ganas de ir!

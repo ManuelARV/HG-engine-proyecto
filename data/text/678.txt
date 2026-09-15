@@ -1,0 +1,13 @@
+Torel
+¡Qué atrevimiento! Me caes bien.\n¡Quiero que seamos colegas!\rDame tu teléfono y nos contamos\ncosillas, ¿te hace?{YESNO 0}
+¡Muy bien! Llámame cuando te plazca,\ncuando tengas problemas con los\festudios, con tu equipo Pokémon,\rpara resolver puzles, sobre las\ntrampas de los Gimnasios, total,\fpara lo que te venga en mente.\rSiempre que no sea algo muy\ncomplicado, soy todo oídos.\r¡Por algo somos colegas!
+¿Tienes miedo?
+Por fin te has dado cuenta de lo\nque valgo, ¿eh?\r¡Te ha costado un poco!\nVenga, toma mi teléfono, ¿vale?{YESNO 0}
+Vale, sé que puedo dar algo de miedo,\npero soy un cacho de pan de molde.\rNo muerdo. Ven por aquí si estás cerca.
+¡Ricardo! Ya sabes imitar mucho\nmejor tu moto. ¡Eres un artista!\rEn el próximo viaje, vamos a\ncorrer juntos. ¡Y a gritar!\rOye..., ¿tú quién eres?\n¡Huy, me he equivocado!
+Mi Pokémon {STRVAR_1 0, 10, 0} está\nprogresando como nadie.\r¡Está concentrado al 100%!\nSolo pierde contra rivales fuertes.\r¿Qué tal va tu equipo Pokémon?\n¿Progresa?\rNo, déjalo, no me contestes.\nSé que sois fuertes. Muy fuertes.
+Somos Motoristas.\nY te aconsejo, yo por mí mismo.\rLo mejor para fardar con tus Pokémon\nes tener alguno con veneno, espinas,\fcuernos, o que sean fantasmagóricos.\rAsí podrás timar a tu rival.\nAunque para serte sincero, mis\fpreferidos son los Pokémon como\fMARILL. ¡Una auténtica monada!
+Ayer intenté capturar un {STRVAR_1 0, 11, 0}.\n¡Pero se zafó en cuanto me vio!\r¡Ni que fuera tan feo!\nTú no vas a huir de mí al verme, ¿no?\fPor la gloria de PIKACHU, no lo hagas...
+¡Oye! Ya me están entrando ganas\nde meterte caña en combate.\rTe espero donde siempre,\nen {STRVAR_1 4, 3, 0}.\rNo te acobardes, ¿eh?
+¿Qué te pasa? Te estoy esperando\nen {STRVAR_1 4, 3, 0}.\rNo lo habrás olvidado... ¿eh?
+Oye, ¿no te entran ganas de meterte\nen nuestro equipo?\rPodemos correr todos juntos por el\nCamino de Bicis montando follón\fa saco Paco.\r¡Tiraremos basura por ahí!\n¡Luego la recogeremos y volveremos\fa casa!\r¡Estas son las pequeñas cosas que\nhacen la vida, vida!

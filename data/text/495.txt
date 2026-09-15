@@ -1,0 +1,10 @@
+Hace poco que soy Entrenador.\nMi hijo me animó a serlo.\rEstoy impresionado por la cantidad\nde objetos útiles que hay.
+A mi padre le está costando aprender\nlos nombres de los objetos y cómo\fse supone que debe utilizarlos...
+P1 Tienda de Entrenadores\nGran variedad de productos\n
+Mananti: Mmm... Mmm... Mmm...\r
+Mananti: ¡Guau!\nUna máscara muy original...\r
+Mananti: ¿Eh? ¿Querías algo?\rEsa mirada...\n¡Ya lo sé! ¡No digas nada!\r¡Lo que quieres es mi fabulosa máscara\nde Mananti, el Destructor!\r¡Pues de eso ni hablar!\n¡No la vendería por nada del mundo!\r...\n¿Qué?... ¿No es eso lo que quieres?\f¿Dices que prefieres esta otra?\rBueno...\nEsta te la puedes quedar.\r
+Mananti: ¿Cómo?\n¿No te basta con eso?\rVaya... Para ser tan joven no se\nte da nada mal regatear...\rDe acuerdo. Toma esto también.\r
+Mananti: ...\r...\r¡Vale, vale, entendido!\nTambién puedes quedarte esto.\r
+Mananti: No te preocupes.\nYa lo pago yo.\rConsidéralo un regalo de un experto\nen máscaras para alguien que\flas aprecia tanto como yo.\r¡Acéptalo! ¡No tengas reparo!\n¡Ja, ja, ja!\r
+Mananti: Mmm... Mmm...\r¡Guau!\nUna máscara muy original...

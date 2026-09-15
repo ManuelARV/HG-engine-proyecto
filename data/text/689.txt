@@ -1,0 +1,14 @@
+Arturo
+Leer libros de texto a menudo\nmerece la pena.\rCuando camino y leo a la vez,\ntengo que mirar hacia abajo.\rAsí que a veces encuentro objetos\nen el suelo.\rLa próxima vez que encuentre algo\ninteresante, puedo dártelo.\r¿Me das tu número de teléfono?{YESNO 0}
+Te llamaré en cuanto encuentre algo.\n¡No me olvido de ti!
+Esto... Yo pensaba que sería una buena\nidea llamarte mientras estudio\fpara despejarme un poco.
+Si encuentro algo, es tuyo.\n¿Me das tu número de teléfono?{YESNO 0}
+¡Mira esto! ¡Toma!\n¡Tantatacháaaan!\r
+¿Eh? Me da que estás cerca.\r¿No será que no nos hemos visto porque\nestábamos los dos mirando al suelo?
+Mi {STRVAR_1 0, 10, 0} está cada vez más\nfuerte, ¡justo como calculé!\rPor cierto, el otro día noqueamos\nun {STRVAR_1 0, 11, 0} salvaje.\r¡Estudiar funciona!\n¡Hasta luego!
+Mi {STRVAR_1 0, 10, 0} está cada vez más\nfuerte, ¡justo como calculé!\rPor cierto, ayer se me escapó\nun {STRVAR_1 0, 11, 0} salvaje.\rUn error de cálculo por mi parte...\n¡Hasta luego!
+¡He estudiado lo que no te puedes\nimaginar durante todo este tiempo\fy he mejorado bastante!\rEstoy en {STRVAR_1 4, 3, 0}.\n¿Te puedes pasar para luchar?
+¡Si no luchamos pronto,\nolvidaré mis nuevas tácticas!\r¡Te espero en {STRVAR_1 4, 3, 0}!
+Todavía no he encontrado nada.\nTe llamaré si encuentro algo.
+¡Je, je! ¡Hace un rato encontré algo!\rTe lo doy, pero tienes que venir a\n{STRVAR_1 4, 3, 0}.
+Tengo que hacer los deberes,\nasí que ven rápido a por tu regalo.\r¡Te espero en {STRVAR_1 4, 3, 0}!

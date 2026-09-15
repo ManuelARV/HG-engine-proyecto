@@ -1,0 +1,11 @@
+¿Eh?\nEso es una Pokédex, ¿verdad?\f¿Puedo verla?\rVaya...\nHay muchos tipos de Pokémon.\r¿Y esto qué es?\r¿Cuál es este Pokémon?\rSe parece a las extrañas figuras\ngrabadas en las paredes de las ruinas.\rSi esos grabados son Pokémon,\nseguro que hay muchos más...\r¡Ya sé! Voy a actualizar tu Pokédex.\nSígueme.\r
+! ! !\r
+¡Oh! ¡Cuánto lo siento!\nEs que iba con prisa...\fPero eso no es excusa.\f¿Te has hecho daño?\r
+¿C-cómo?...\n¡Ese Pokémon es...!\r¡¿No es ese el Pokémon ARCEUS\nde la región de Sinnoh?!\r
+¡Ah! Pero entonces eso significa que...\n¿ARCEUS es el origen?...\rNo acabo de entenderlo, pero no se\nme ocurre otra explicación...\r
+¿Podría ser ARCEUS la clave para\ndescifrar el misterio de los UNOWN\fy las Ruinas Alfa?...\r
+¿P-por qué no vienes conmigo\na las Ruinas Alfa?\r¡No aceptaré un no por respuesta!\r¡Tengo el presentimiento de que algo\nva a suceder!\r
+Ruinas Alfa\rTodos los interesados en la arqueología\nson bienvenidos
+Ruinas Alfa\r¡Explora las ruinas y conviértete\nen un experto en Fósiles!
+Centro de Investigación de las ruinas
+Pabellón de los misterios\nCuidado al pisar

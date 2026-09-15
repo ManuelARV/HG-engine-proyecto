@@ -1,0 +1,5 @@
+Vaya... ¿Estás completando\nuna Pokédex?\rEntonces habrás luchado contra\nmuchos Pokémon, ¿no?\rPodrías probar esta MT,\na ver qué tal te va...
+                     
+Contiene Mofa.\rEl Pokémon contra el que lo uses,\nsolo podrá usar movimientos que causen\fdaño. Pero solo dura un rato.
+BUTTERFREE: ¡Frii!
+¿Has visto el santuario en honor\ndel guardián?\rProtege el Bosque desde antaño.\nCreo que debe de ser un Pokémon\fde tipo Planta.

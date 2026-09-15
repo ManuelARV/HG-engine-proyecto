@@ -1,0 +1,25 @@
+Aitor
+¡Tus conocimientos impresionan!\n¡No me caes mal!\r¿Quieres intercambiar\nconsejos de batalla?\rTe telefonearé si consigo\ninformación interesante.\r¿Me das tu número?{YESNO 0}
+¡Te llamaré si me entero de algo!
+Oh, vaya. Qué mal...\rBueno, si quieres mi número,\nven a verme, ¿vale?
+¿Quieres intercambiar\nconsejos de batalla?\rTe telefonearé si consigo\ninformación interesante.\r¿Me das tu número?{YESNO 0}
+
+¿Por qué me llamas?\n¡Si estoy aquí mismo!\f¡Vamos a hablar cara a cara!
+La inteligencia de mi {STRVAR_1 0, 10, 0}\nsigue creciendo.\f¡Va a ser más listo que los tuyos!\r¡Hasta luego!
+El otro día, derroté un {STRVAR_1 0, 11, 0}.\rCreo que intercambiar información\ncontigo está empezando a dar frutos.\r¡Hasta luego!
+Oh, y escucha...\rIntenté atrapar un {STRVAR_1 0, 11, 0},\npero fallé por muy poco.\rSi hubiera estado un poco mejor\ninformado, seguro que sería mío.\r¡Hasta luego!
+¿Sabes qué?\rCuando llueve, el movimiento Trueno\nsiempre acierta en el rival.
+¿Sabes qué?\rSi usas Rizo Defensa, sube\nla potencia de Desenrollar.
+¿Sabes qué?\rSi el sol es abrasador, no hay\nque cargar Rayo Solar.
+¿Sabes qué?\rSi el rival usa Reducción, tu Pisotón\nserá mucho más potente.
+¿Sabes qué?\rSi tu rival usa Vuelo, tu Tornado\nserá mucho más potente.
+¿Sabes qué?\rSi tu rival usa Vuelo, tu Ciclón\nserá mucho más potente.
+¿Sabes qué?\rSi tu rival usa Excavar, tu Terremoto\nserá más potente.
+¿Sabes qué?\rSi tu rival usa Excavar, tu Magnitud\nserá más potente.
+¿Sabes qué?\rLos tipos Roca,Tierra y Acero no\npueden ser dañados por Torm. Arena.
+¿Sabes qué?\rSi el sol es abrasador, los movimientos\nde tipo Agua son más débiles.
+¿Sabes qué?\rCuando llueve, los movimientos de tipo\nFuego son más débiles de lo habitual.
+¿Quieres luchar?\nTe enseñaré cómo luchar con lógica.\rEstaré en {STRVAR_1 4, 3, 0}.\nAvísame cuando estés cerca.
+¡Eh, {STRVAR_1 3, 0, 0}!\n¿Recuerdas en lo que quedamos?\r¡Tenemos que luchar pronto!\nEstaré en {STRVAR_1 4, 3, 0}.
+¡Eh, {STRVAR_1 3, 0, 0}!\n¿Recuerdas en lo que quedamos?\r¡Tenemos que luchar pronto!\nEstaré en {STRVAR_1 4, 3, 0}.
+Mi amigo ha oído unos trucos\ngeniales. Me va a enseñar algunos.\rCuando me los cuente, te llamaré\npara contártelos.

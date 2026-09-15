@@ -1,0 +1,21 @@
+{STRVAR_1 3, 0, 0}
+ID {STRVAR_1 54, 0, 0}
+Cuando esté todo listo:\nBotón A: Continuar   Botón B: Cancelar
+¿Quieres continuar con estas personas?
+¿Quieres cancelar el Intercambio Giro?
+Se cancelará el Intercambio Giro.
+Alguien ha abandonado.
+                                 
+Por favor, espera.\nBotón B: Cancelar
+Alguien ha abandonado.\nSe cancelará el Intercambio Giro.
+                
+Se cancelará el Intercambio Giro.
+Mezclando los récords de todos...\nNo apagues la consola.
+                                 
+Si el anfitrión abandona, el grupo se\ndisolverá. ¿Quieres continuar?
+{STRVAR_1 3, 0, 0} ha abandonado.
+El anfitrión, {STRVAR_1 1, 0, 0}, ha\nabandonado. El grupo se disolverá.
+¡Se busca un Intercambio Giro!
+            
+SÍ
+NO

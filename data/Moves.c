@@ -5,7 +5,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
         .names = {
             .name = "-",
             .capsName = "-",
-            .fullName = "-",
+            .fullName = "(!)",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -52,14 +52,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Golpea al objetivo\\ncon las extremidades,\\nla cola o similares.\\n",
+        .description = "Golpea con las\\npatas o la cola.",
     },
 
     [MOVE_KARATE_CHOP] = {
         .names = {
-            .name = "Golpe Kárate",
-            .capsName = "GOLPE KÁRATE",
-            .fullName = "Golpe Kárate",
+            .name = "Golpe Karate",
+            .capsName = "GOLPE KARATE",
+            .fullName = "Golpe Karate",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -79,14 +79,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Da un golpe cortante.\\nSuele ser crítico.\\n",
+        .description = "Da un golpe cortante.\\nSuele ser crítico.",
     },
 
     [MOVE_DOUBLE_SLAP] = {
         .names = {
             .name = "Doblebofetón",
             .capsName = "DOBLEBOFETÓN",
-            .fullName = "Doble Bofetón",
+            .fullName = "Doblebofetón",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -106,7 +106,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Abofetea de dos a\\ncinco veces seguidas.\\n",
+        .description = "Abofetea de dos a\\ncinco veces seguidas.",
     },
 
     [MOVE_COMET_PUNCH] = {
@@ -133,7 +133,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Pega de dos a cinco\\nveces seguidas.\\n",
+        .description = "Pega de dos a cinco\\nveces seguidas.",
     },
 
     [MOVE_MEGA_PUNCH] = {
@@ -160,7 +160,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Puñetazo de gran\\npotencia.\\n",
+        .description = "Un puñetazo de\\ngran potencia.",
     },
 
     [MOVE_PAY_DAY] = {
@@ -187,7 +187,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_PITY_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Ataca arrojando\\nmonedas y las\\nrecupera tras el\\ncombate.\\n",
+        .description = "Arroja monedas que\\nluego recupera.",
     },
 
     [MOVE_FIRE_PUNCH] = {
@@ -214,7 +214,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Puñetazo ardiente\\nque puede causar\\nquemaduras.\\n",
+        .description = "Puñetazo ardiente.\\nPuede quemar.",
     },
 
     [MOVE_ICE_PUNCH] = {
@@ -241,7 +241,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Puñetazo helado que\\npuede llegar a\\ncongelar.\\n",
+        .description = "Puñetazo helado.\\nPuede congelar.",
     },
 
     [MOVE_THUNDER_PUNCH] = {
@@ -268,7 +268,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Puñetazo eléctrico\\nque puede paralizar.\\n",
+        .description = "Puñetazo eléctrico.\\nPuede paralizar.",
     },
 
     [MOVE_SCRATCH] = {
@@ -295,7 +295,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Araña con afiladas\\ngarras.\\n",
+        .description = "Araña con afiladas\\ngarras.",
     },
 
     [MOVE_VICE_GRIP] = {
@@ -322,7 +322,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Atenaza al objetivo\\ny le inflige daño.\\n",
+        .description = "Atrapa con potentes\\npinzas.",
     },
 
     [MOVE_GUILLOTINE] = {
@@ -349,14 +349,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_ALL_SAME_JUDGE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Ataque con grandes\\npinzas que fulmina\\nal objetivo si\\nacierta.\\n",
+        .description = "Pinzas que debilitan\\nal oponente de un\\ngolpe si aciertan.",
     },
 
     [MOVE_RAZOR_WIND] = {
         .names = {
-            .name = "Viento Cort.",
-            .capsName = "VIENTO CORT.",
-            .fullName = "Viento Cortante",
+            .name = "V. Cortante",
+            .capsName = "V. CORTANTE",
+            .fullName = "V. Cortante",
         },
         .data = {
             .effect = MOVE_EFFECT_CHARGE_TURN_HIGH_CRIT,
@@ -376,7 +376,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_UNIQUE_JUDGE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Se prepara y ataca al\\nsegundo turno con\\nráfagas de viento.\\nSuele ser crítico.\\n",
+        .description = "Primer turno:\\nprepara.\\nSegundo turno:\\nataca.\\nSuele ser crítico.",
     },
 
     [MOVE_SWORDS_DANCE] = {
@@ -403,7 +403,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Frenético baile que\\neleva el ánimo y\\nsube mucho el Ataque.\\n",
+        .description = "Baile frenético que\\naumenta mucho\\nel Ataque.",
     },
 
     [MOVE_CUT] = {
@@ -430,7 +430,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Corta al objetivo con\\ngarras o guadañas.\\n",
+        .description = "Corta con garras,\\nguadañas, etc.\\nTambién sirve para\\ncortar árboles\\ny plantas.",
     },
 
     [MOVE_GUST] = {
@@ -457,7 +457,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_SMART,
         },
-        .description = "Crea un tornado con\\nlas alas y lo lanza\\ncontra el objetivo.\\n",
+        .description = "Crea un tornado\\ncon las alas y lo\\nlanza contra el\\nenemigo.",
     },
 
     [MOVE_WING_ATTACK] = {
@@ -484,7 +484,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Golpea con sus\\nextensas y majestuosas\\nalas.\\n",
+        .description = "Golpea al objetivo con\\nunas grandes alas.",
     },
 
     [MOVE_WHIRLWIND] = {
@@ -511,7 +511,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_ALL_SAME_JUDGE,
             .contestType = CONTEST_SMART,
         },
-        .description = "Se lleva al objetivo y\\nentra otro. Si es\\nsalvaje, acaba el\\ncombate.\\n",
+        .description = "Se lleva al rival, que\\nes cambiado por otro\\nPokémon. Si es un\\nPokémon salvaje,\\nacaba el combate.",
     },
 
     [MOVE_FLY] = {
@@ -538,7 +538,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_UNIQUE_JUDGE,
             .contestType = CONTEST_SMART,
         },
-        .description = "Vuela en el primer\\nturno y ataca en el\\nsegundo.\\n",
+        .description = "Primer turno: vuela.\\nSegundo turno:\\nataca. Fuera de\\ncombate, permite ir\\na sitios ya conocidos.",
     },
 
     [MOVE_BIND] = {
@@ -565,14 +565,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LATE_BOOST,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Ata y oprime al\\nobjetivo de cuatro a\\ncinco turnos.\\n",
+        .description = "Ata y oprime de dos\\na cinco turnos.",
     },
 
     [MOVE_SLAM] = {
         .names = {
-            .name = "Atizar",
-            .capsName = "ATIZAR",
-            .fullName = "Atizar",
+            .name = "Portazo",
+            .capsName = "PORTAZO",
+            .fullName = "Portazo",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -592,7 +592,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Golpea con la cola o\\ncon lianas para\\ncausar daño.\\n",
+        .description = "Golpea con las\\nextremidades.",
     },
 
     [MOVE_VINE_WHIP] = {
@@ -619,7 +619,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Azota con lianas\\nlargas y flexibles\\ncomo látigos.\\n",
+        .description = "Azota al enemigo\\ncon ramas finas.",
     },
 
     [MOVE_STOMP] = {
@@ -646,7 +646,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Tremendo pisotón que\\npuede amedrentar al\\nobjetivo.\\n",
+        .description = "Tremendo pisotón\\nque puede hacer\\nretroceder al rival.",
     },
 
     [MOVE_DOUBLE_KICK] = {
@@ -673,7 +673,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Dos patadas seguidas,\\nuna con cada pie.\\n",
+        .description = "Una patada doble.\\nGolpea dos veces.",
     },
 
     [MOVE_MEGA_KICK] = {
@@ -700,7 +700,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Patada de extrema\\nfuerza.\\n",
+        .description = "Patada de extrema\\nfuerza.",
     },
 
     [MOVE_JUMP_KICK] = {
@@ -727,7 +727,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Salta y pega una\\npatada. Si falla, se\\nlesiona.\\n",
+        .description = "Da un salto y pega\\nuna patada. Si falla,\\nse autolesiona.",
     },
 
     [MOVE_ROLLING_KICK] = {
@@ -754,7 +754,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Patada rápida y\\ncircular. Puede\\namedrentar al rival.\\n",
+        .description = "Una patada rápida\\ny circular. Puede\\ntambién hacer\\nretroceder\\nal enemigo.",
     },
 
     [MOVE_SAND_ATTACK] = {
@@ -781,7 +781,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Arroja arena a la\\ncara y reduce la\\nPrecisión.\\n",
+        .description = "Arroja arena a la\\ncara y baja la\\nprecisión.",
     },
 
     [MOVE_HEADBUTT] = {
@@ -808,7 +808,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Potente cabezazo que\\npuede amedrentar.\\n",
+        .description = "Ataca con la cabeza.\\nPuede hacer que el\\nenemigo retroceda y\\nque caigan Pokémon\\nal sacudir árboles.",
     },
 
     [MOVE_HORN_ATTACK] = {
@@ -835,7 +835,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Ataca con una cornada\\npunzante.\\n",
+        .description = "Ataca al enemigo con\\nafilados cuernos.",
     },
 
     [MOVE_FURY_ATTACK] = {
@@ -862,7 +862,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Cornea o picotea de\\ndos a cinco veces\\nseguidas.\\n",
+        .description = "Cornea al enemigo de\\ndos a cinco veces.",
     },
 
     [MOVE_HORN_DRILL] = {
@@ -889,7 +889,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_ALL_SAME_JUDGE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Cuerno giratorio que\\nfulmina al objetivo\\nsi acierta.\\n",
+        .description = "Ataque taladro.\\nFulmina en un golpe.",
     },
 
     [MOVE_TACKLE] = {
@@ -916,7 +916,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Embestida con todo el\\ncuerpo.\\n",
+        .description = "Embiste con todo\\nel cuerpo.",
     },
 
     [MOVE_BODY_SLAM] = {
@@ -943,14 +943,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Salta sobre el rival\\ncon todo su peso.\\nPuede paralizarlo.\\n",
+        .description = "Salta sobre el rival\\ncon todo su peso.\\nPuede paralizar.",
     },
 
     [MOVE_WRAP] = {
         .names = {
-            .name = "Constricción",
-            .capsName = "CONSTRICCIÓN",
-            .fullName = "Constricción",
+            .name = "Repetición",
+            .capsName = "REPETICIÓN",
+            .fullName = "Repetición",
         },
         .data = {
             .effect = MOVE_EFFECT_BIND_HIT,
@@ -970,7 +970,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LATE_BOOST,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Oprime al objetivo de\\ncuatro a cinco turnos\\ncon lianas o su\\ncuerpo.\\n",
+        .description = "Oprime al rival de dos\\na cinco turnos con\\nramas, etc.",
     },
 
     [MOVE_TAKE_DOWN] = {
@@ -997,14 +997,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Carga desmedida que\\ntambién hiere un\\npoco al usuario.\\n",
+        .description = "Carga desmedida\\nque también hiere\\nal agresor.",
     },
 
     [MOVE_THRASH] = {
         .names = {
-            .name = "Saña",
-            .capsName = "SAÑA",
-            .fullName = "Saña",
+            .name = "Golpe",
+            .capsName = "GOLPE",
+            .fullName = "Golpe",
         },
         .data = {
             .effect = MOVE_EFFECT_CONTINUE_AND_CONFUSE_SELF,
@@ -1024,7 +1024,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Ataca enfurecido de\\ndos a tres turnos y\\nluego queda confuso.\\n",
+        .description = "Ataca de dos a tres\\nturnos y acaba\\nconfundiendo\\nal agresor.",
     },
 
     [MOVE_DOUBLE_EDGE] = {
@@ -1051,14 +1051,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_ALL_SAME_JUDGE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Ataque arriesgado que\\ntambién hiere\\nseriamente al\\nusuario.\\n",
+        .description = "Ataque arriesgado\\nque también hiere\\nal agresor.",
     },
 
     [MOVE_TAIL_WHIP] = {
         .names = {
-            .name = "Agitacola",
-            .capsName = "AGITACOLA",
-            .fullName = "Agitacola",
+            .name = "Látigo",
+            .capsName = "LÁTIGO",
+            .fullName = "Látigo",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_DOWN,
@@ -1078,14 +1078,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Agita la cola para\\ndespistar y reduce\\nla Defensa.\\n",
+        .description = "Agita la cola para\\nbajar la Defensa\\ndel contrincante.",
     },
 
     [MOVE_POISON_STING] = {
         .names = {
-            .name = "Picot. Ven.",
-            .capsName = "PICOT. VEN.",
-            .fullName = "Picotazo Veneno",
+            .name = "Picotazo Ven",
+            .capsName = "PICOTAZO VEN",
+            .fullName = "Picotazo Ven",
         },
         .data = {
             .effect = MOVE_EFFECT_POISON_HIT,
@@ -1105,14 +1105,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "Aguijón tóxico que\\npuede envenenar.\\n",
+        .description = "Puede envenenar al\\nenemigo con púas\\ntóxicas.",
     },
 
     [MOVE_TWINEEDLE] = {
         .names = {
-            .name = "Doble Ataque",
-            .capsName = "DOBLE ATAQUE",
-            .fullName = "Doble Ataque",
+            .name = "Dobleataque",
+            .capsName = "DOBLEATAQUE",
+            .fullName = "Dobleataque",
         },
         .data = {
             .effect = MOVE_EFFECT_POISON_MULTI_HIT,
@@ -1132,7 +1132,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Pincha dos veces con\\ndos espinas. Puede\\nenvenenar.\\n",
+        .description = "Clava aguijones al\\nrival dos veces.\\nPuede envenenar.",
     },
 
     [MOVE_PIN_MISSILE] = {
@@ -1159,7 +1159,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Púas afiladas que\\nhieren de dos a cinco\\nveces.\\n",
+        .description = "Lanza finas púas que\\nhieren de dos a\\ncinco veces.",
     },
 
     [MOVE_LEER] = {
@@ -1186,7 +1186,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_COOL,
         },
-        .description = "Mirada torva que\\nintimida y reduce la\\nDefensa.\\n",
+        .description = "Intimida al enemigo\\npara bajar su\\nDefensa.",
     },
 
     [MOVE_BITE] = {
@@ -1213,7 +1213,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Voraz bocado que\\npuede amedrentar al\\nobjetivo.\\n",
+        .description = "Un voraz bocado\\nque puede hacer\\nretroceder al rival.",
     },
 
     [MOVE_GROWL] = {
@@ -1240,7 +1240,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Dulce gruñido que\\ndesconcierta y\\nreduce el Ataque.\\n",
+        .description = "Dulce gruñido que\\nreduce el Ataque\\ndel contrincante.",
     },
 
     [MOVE_ROAR] = {
@@ -1267,7 +1267,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_COOL,
         },
-        .description = "Se lleva al objetivo y\\nentra otro. Si es\\nsalvaje, acaba el\\ncombate.\\n",
+        .description = "Se lleva al rival, que\\nes cambiado por otro\\nPokémon. Si es un\\nPokémon salvaje,\\nacaba el combate.",
     },
 
     [MOVE_SING] = {
@@ -1294,7 +1294,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Cancioncilla que hace\\ndormir profundamente.\\n",
+        .description = "Cancioncilla que\\nhace dormir\\nprofundamente\\nal enemigo.",
     },
 
     [MOVE_SUPERSONIC] = {
@@ -1321,7 +1321,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "Ondas sónicas que\\nconfunden al\\nobjetivo.\\n",
+        .description = "Raras ondas sónicas\\nque confunden.",
     },
 
     [MOVE_SONIC_BOOM] = {
@@ -1348,7 +1348,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Ondas de choque que\\nrestan 20 PS.\\n",
+        .description = "Lanza ondas de\\nchoque que restan\\n20 PS.",
     },
 
     [MOVE_DISABLE] = {
@@ -1375,7 +1375,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "Anula el último\\nmovimiento del\\nobjetivo durante\\ncuatro turnos.\\n",
+        .description = "Desactiva el último\\nmovimiento del enemigo\\ndurante varios\\nturnos.",
     },
 
     [MOVE_ACID] = {
@@ -1402,7 +1402,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_SMART,
         },
-        .description = "Ácido corrosivo que\\npuede bajar la\\nDefensa Especial.\\n",
+        .description = "Rocía ácido corrosivo.\\nPuede bajar la\\nDefensa Especial.",
     },
 
     [MOVE_EMBER] = {
@@ -1429,7 +1429,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Llamas pequeñas que\\npueden causar\\nquemaduras.\\n",
+        .description = "Ataque con llamas\\npequeñas que\\npueden causar\\nquemaduras.",
     },
 
     [MOVE_FLAMETHROWER] = {
@@ -1456,7 +1456,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Gran ráfaga de fuego\\nque puede causar\\nquemaduras.\\n",
+        .description = "Ataque con una\\ngran ráfaga de\\nfuego que puede\\ncausar quemaduras.",
     },
 
     [MOVE_MIST] = {
@@ -1483,7 +1483,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Neblina blanca que\\nimpide reducir las\\ncaracterísticas\\ndurante 5 turnos.\\n",
+        .description = "Rodea de fina niebla\\nal usuario y protege\\nlas características\\nde su equipo durante\\ncinco turnos.",
     },
 
     [MOVE_WATER_GUN] = {
@@ -1510,7 +1510,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Dispara agua con gran\\npotencia.\\n",
+        .description = "Ataca disparando\\nagua con gran\\npotencia.",
     },
 
     [MOVE_HYDRO_PUMP] = {
@@ -1537,7 +1537,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Lanza una gran masa\\nde agua a presión.\\n",
+        .description = "Lanza una gran masa\\nde agua a presión\\npara atacar.",
     },
 
     [MOVE_SURF] = {
@@ -1564,7 +1564,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Una ola gigante\\ninunda el terreno y\\ngolpea a los\\nadyacentes.\\n",
+        .description = "Inunda el campo de\\nbatalla con una\\nola gigante. Fuera de\\ncombate sirve para\\ncruzar el agua.",
     },
 
     [MOVE_ICE_BEAM] = {
@@ -1591,7 +1591,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Rayo de hielo que\\npuede llegar a\\ncongelar.\\n",
+        .description = "Rayo de hielo que\\npuede llegar a\\ncongelar.",
     },
 
     [MOVE_BLIZZARD] = {
@@ -1618,7 +1618,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Tormenta de hielo que\\npuede llegar a\\ncongelar.\\n",
+        .description = "Tormenta de hielo\\nque puede llegar\\na congelar.",
     },
 
     [MOVE_PSYBEAM] = {
@@ -1645,7 +1645,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Extraño rayo que\\npuede causar\\nconfusión.\\n",
+        .description = "Extraño rayo que\\npuede causar\\nconfusión.",
     },
 
     [MOVE_BUBBLE_BEAM] = {
@@ -1672,7 +1672,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_NEXT_TURN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Ráfaga de burbujas que\\npuede reducir la\\nVelocidad.\\n",
+        .description = "Diluvio de burbujas\\nque puede bajar\\nla Velocidad.",
     },
 
     [MOVE_AURORA_BEAM] = {
@@ -1699,7 +1699,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Rayo multicolor que\\npuede reducir el\\nAtaque.\\n",
+        .description = "Rayo multicolor que\\npuede reducir\\nel Ataque.",
     },
 
     [MOVE_HYPER_BEAM] = {
@@ -1726,7 +1726,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Potente haz que le\\nobliga a descansar\\nel turno siguiente.\\n",
+        .description = "Es eficaz, pero\\ndeja inmóvil al\\natacante un turno.",
     },
 
     [MOVE_PECK] = {
@@ -1753,7 +1753,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Ensarta con un pico\\no un cuerno\\npunzante.\\n",
+        .description = "Ensarta al rival con\\nun cuerno o pico\\npunzante.",
     },
 
     [MOVE_DRILL_PECK] = {
@@ -1780,7 +1780,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Picotazo giratorio y\\nperforador muy\\npotente.\\n",
+        .description = "Picotazo giratorio\\ny perforador muy\\npotente.",
     },
 
     [MOVE_SUBMISSION] = {
@@ -1807,7 +1807,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Se lanza al suelo con\\nel rival en brazos y\\ntambién se hiere.\\n",
+        .description = "Tira al enemigo al\\nsuelo. También hiere\\nal agresor.",
     },
 
     [MOVE_LOW_KICK] = {
@@ -1834,14 +1834,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Patada baja que\\nderriba. Cuanto más\\npesa el objetivo,\\nmás daño causa.\\n",
+        .description = "Patada baja.\\nCuanto más pesa\\nel enemigo, más\\ndaño causa.",
     },
 
     [MOVE_COUNTER] = {
         .names = {
-            .name = "Contraataque",
-            .capsName = "CONTRAATAQUE",
-            .fullName = "Contraataque",
+            .name = "Contador",
+            .capsName = "CONTADOR",
+            .fullName = "Contador",
         },
         .data = {
             .effect = MOVE_EFFECT_COUNTER,
@@ -1861,14 +1861,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Devuelve un ataque\\nfísico por duplicado.\\n",
+        .description = "Devuelve un golpe\\nfísico por duplicado.",
     },
 
     [MOVE_SEISMIC_TOSS] = {
         .names = {
-            .name = "Sísmico",
-            .capsName = "SÍSMICO",
-            .fullName = "Sísmico",
+            .name = "Mov. Sísmico",
+            .capsName = "MOV. SÍSMICO",
+            .fullName = "Mov. Sísmico",
         },
         .data = {
             .effect = MOVE_EFFECT_LEVEL_DAMAGE_FLAT,
@@ -1888,7 +1888,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Derriba con la\\ngravedad y resta PS\\nigual al nivel del\\nusuario.\\n",
+        .description = "La gravedad derriba\\nal enemigo. Se\\nrestarán tantos\\nPS como nivel tenga\\nel agresor.",
     },
 
     [MOVE_STRENGTH] = {
@@ -1915,7 +1915,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Golpea al objetivo\\ncon todas sus\\nfuerzas.\\n",
+        .description = "Potente puñetazo.\\nFuera de combate\\nsirve para mover\\npiedras.",
     },
 
     [MOVE_ABSORB] = {
@@ -1942,7 +1942,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Absorbe nutrientes.\\nEl usuario recupera\\nla mitad del daño\\nproducido.\\n",
+        .description = "Absorbe la mitad del\\ndaño producido.",
     },
 
     [MOVE_MEGA_DRAIN] = {
@@ -1969,7 +1969,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Absorbe nutrientes.\\nEl usuario recupera\\nla mitad del daño\\nproducido.\\n",
+        .description = "Absorbe la mitad del\\ndaño producido.",
     },
 
     [MOVE_LEECH_SEED] = {
@@ -1996,7 +1996,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LATE_BOOST,
             .contestType = CONTEST_SMART,
         },
-        .description = "Planta semillas que\\nabsorben PS del rival\\nen cada turno.\\n",
+        .description = "Planta tres semillas\\nque absorben PS\\nen cada turno.",
     },
 
     [MOVE_GROWTH] = {
@@ -2023,7 +2023,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Su cuerpo crece de\\ngolpe y aumentan el\\nAtaque y el Ataque\\nEspecial.\\n",
+        .description = "Crece a marchas\\nforzadas y aumenta\\nel Ataque Especial.",
     },
 
     [MOVE_RAZOR_LEAF] = {
@@ -2050,7 +2050,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Corta con hojas\\nafiladas. Suele ser\\ngolpe crítico.\\n",
+        .description = "Corta con hojas\\nafiladas.\\nSuele ser crítico.",
     },
 
     [MOVE_SOLAR_BEAM] = {
@@ -2077,7 +2077,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_UNIQUE_JUDGE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Acumula luz en el\\nprimer turno y ataca\\nen el segundo.\\n",
+        .description = "Primer turno:\\nabsorbe luz.\\nSegundo turno:\\nataca.",
     },
 
     [MOVE_POISON_POWDER] = {
@@ -2104,7 +2104,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "Polvo tóxico que\\nenvenena al\\nobjetivo.\\n",
+        .description = "Polvo tóxico que\\nenvenena al\\nenemigo.",
     },
 
     [MOVE_STUN_SPORE] = {
@@ -2131,7 +2131,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "Polvo que paraliza al\\nobjetivo.\\n",
+        .description = "Esparce polvo que\\nparaliza al enemigo.",
     },
 
     [MOVE_SLEEP_POWDER] = {
@@ -2158,7 +2158,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "Polvo que duerme al\\nobjetivo.\\n",
+        .description = "Esparce polvo que\\nduerme al enemigo.",
     },
 
     [MOVE_PETAL_DANCE] = {
@@ -2185,14 +2185,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LATE_BOOST,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Ataca lanzando\\npétalos de dos a tres\\nturnos y queda\\nconfuso.\\n",
+        .description = "Lanza pétalos de\\ndos a tres turnos y\\nacaba confundiendo\\nal atacante.",
     },
 
     [MOVE_STRING_SHOT] = {
         .names = {
             .name = "Disp. Demora",
             .capsName = "DISP. DEMORA",
-            .fullName = "Disparo Demora",
+            .fullName = "Disp. Demora",
         },
         .data = {
             .effect = MOVE_EFFECT_SPEED_DOWN_2,
@@ -2212,7 +2212,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "Lanza seda por la boca\\ny reduce mucho la\\nVelocidad.\\n",
+        .description = "Lanza seda al\\nenemigo y reduce\\nsu Velocidad.",
     },
 
     [MOVE_DRAGON_RAGE] = {
@@ -2239,7 +2239,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Furiosas ondas de\\nchoque que quitan\\n40 PS.\\n",
+        .description = "Ráfaga de ondas de\\nchoque que quitan\\n40 PS.",
     },
 
     [MOVE_FIRE_SPIN] = {
@@ -2266,7 +2266,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LATE_BOOST,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Aro de fuego que\\natrapa y daña de\\ncuatro a cinco\\nturnos.\\n",
+        .description = "Un aro de fuego que\\natrapa de dos a\\ncinco turnos.",
     },
 
     [MOVE_THUNDER_SHOCK] = {
@@ -2293,7 +2293,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Ataque eléctrico que\\npuede paralizar al\\nobjetivo.\\n",
+        .description = "Ataque eléctrico que\\npuede paralizar\\nal enemigo.",
     },
 
     [MOVE_THUNDERBOLT] = {
@@ -2320,7 +2320,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Potente ataque\\neléctrico que puede\\nparalizar.\\n",
+        .description = "Potente ataque\\neléctrico que\\npuede paralizar\\nal enemigo.",
     },
 
     [MOVE_THUNDER_WAVE] = {
@@ -2347,7 +2347,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_COOL,
         },
-        .description = "Ligera descarga que\\nparaliza al objetivo.\\n",
+        .description = "Una ligera descarga\\nque paraliza al\\nenemigo si lo\\nalcanza.",
     },
 
     [MOVE_THUNDER] = {
@@ -2374,7 +2374,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Poderoso rayo que\\ndaña y puede\\nparalizar.\\n",
+        .description = "Un rayo que puede\\nparalizar al enemigo.",
     },
 
     [MOVE_ROCK_THROW] = {
@@ -2401,7 +2401,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Tira una pequeña roca\\nal objetivo.\\n",
+        .description = "Tira pequeñas rocas\\nal enemigo.",
     },
 
     [MOVE_EARTHQUAKE] = {
@@ -2428,7 +2428,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Un terremoto que\\nafecta a los Pokémon\\nadyacentes.\\n",
+        .description = "Un terremoto que\\nafecta a los demás\\nPokémon en\\ncombate.",
     },
 
     [MOVE_FISSURE] = {
@@ -2455,7 +2455,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_ALL_SAME_JUDGE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Abre una grieta y mete\\nal objetivo en ella.\\nLo fulmina si acierta.\\n",
+        .description = "Abre una grieta en\\nel suelo y mete al\\nrival en ella.\\nFulmina en un golpe.",
     },
 
     [MOVE_DIG] = {
@@ -2482,7 +2482,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_UNIQUE_JUDGE,
             .contestType = CONTEST_SMART,
         },
-        .description = "Cava en el primer\\nturno y ataca en el\\nsegundo.\\n",
+        .description = "Primer turno: cava.\\nSegundo turno:\\nataca. También sirve\\npara salir de ciertas\\nzonas.",
     },
 
     [MOVE_TOXIC] = {
@@ -2509,7 +2509,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "Envenena gravemente\\ny el daño aumenta\\ncada turno.\\n",
+        .description = "Envenena gravemente\\nal rival y causa un\\ndaño mayor en cada\\nturno.",
     },
 
     [MOVE_CONFUSION] = {
@@ -2536,7 +2536,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_SMART,
         },
-        .description = "Débil ataque\\ntelequinético que\\npuede causar\\nconfusión.\\n",
+        .description = "Ataque psíquico que\\npuede causar\\nconfusión.",
     },
 
     [MOVE_PSYCHIC] = {
@@ -2563,7 +2563,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Fuerte ataque\\ntelequinético que\\npuede bajar la\\nDefensa Especial.\\n",
+        .description = "Fuerte ataque\\npsíquico que puede\\nbajar la Defensa\\nEspecial.",
     },
 
     [MOVE_HYPNOSIS] = {
@@ -2590,7 +2590,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "Ataque hipnótico que\\nhace dormir\\nprofundamente.\\n",
+        .description = "Ataque hipnótico\\nque hace dormir\\nprofundamente\\nal enemigo.",
     },
 
     [MOVE_MEDITATE] = {
@@ -2617,7 +2617,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Reposa y medita para\\npotenciar el Ataque.\\n",
+        .description = "El usuario reposa y\\nmedita para potenciar\\nel Ataque.",
     },
 
     [MOVE_AGILITY] = {
@@ -2644,14 +2644,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_COOL,
         },
-        .description = "Relaja y aligera el\\ncuerpo para aumentar\\nmucho la Velocidad.\\n",
+        .description = "Relaja el cuerpo\\npara ganar mucha\\nVelocidad.",
     },
 
     [MOVE_QUICK_ATTACK] = {
         .names = {
-            .name = "Ataq. Rápido",
-            .capsName = "ATAQ. RÁPIDO",
-            .fullName = "Ataque Rápido",
+            .name = "At. Rápido",
+            .capsName = "AT. RÁPIDO",
+            .fullName = "At. Rápido",
         },
         .data = {
             .effect = MOVE_EFFECT_PRIORITY_1,
@@ -2671,7 +2671,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_COOL,
         },
-        .description = "Ataca a tal velocidad\\nque es casi\\nimperceptible. Tiene\\nprioridad alta.\\n",
+        .description = "Ataque rápido que\\npermite golpear\\nen primer lugar.",
     },
 
     [MOVE_RAGE] = {
@@ -2698,14 +2698,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Aumenta el Ataque del\\nusuario cada vez que\\nrecibe un golpe.\\n",
+        .description = "Cuando se usa,\\nsu fuerza de ataque\\naumenta cada vez\\nque te golpean.",
     },
 
     [MOVE_TELEPORT] = {
         .names = {
-            .name = "Teletransp.",
-            .capsName = "TELETRANSP.",
-            .fullName = "Teletransporte",
+            .name = "Teletransp",
+            .capsName = "TELETRANSP",
+            .fullName = "Teletransp",
         },
         .data = {
             .effect = MOVE_EFFECT_FLEE_FROM_WILD_BATTLE,
@@ -2725,7 +2725,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_COOL,
         },
-        .description = "Cambia por otro del\\nequipo o huye de un\\ncombate salvaje.\\n",
+        .description = "Permite huir al\\ninstante o viajar\\nal último Centro\\nPokémon visitado.",
     },
 
     [MOVE_NIGHT_SHADE] = {
@@ -2752,7 +2752,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_SMART,
         },
-        .description = "Produce un espejismo\\ny el rival pierde PS\\nigual al nivel del\\nusuario.\\n",
+        .description = "Produce un espejismo\\nante el enemigo, que\\npierde tantos PS\\ncomo nivel tenga\\nel agresor.",
     },
 
     [MOVE_MIMIC] = {
@@ -2779,7 +2779,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_STEAL_VOLTAGE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Copia el último\\nmovimiento usado por\\nel objetivo.\\n",
+        .description = "Copia el último\\nmovimiento usado\\npor el enemigo.",
     },
 
     [MOVE_SCREECH] = {
@@ -2806,7 +2806,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOWER_VOLTAGES,
             .contestType = CONTEST_SMART,
         },
-        .description = "Alarido agudo que\\nreduce mucho la\\nDefensa.\\n",
+        .description = "Alarido agudo que\\nreduce mucho la\\nDefensa del rival.",
     },
 
     [MOVE_DOUBLE_TEAM] = {
@@ -2833,7 +2833,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_COOL,
         },
-        .description = "Crea copias ilusorias\\nde sí mismo y sube\\nla Evasión.\\n",
+        .description = "Crea copias de sí\\nmismo para mejorar\\nla evasión.",
     },
 
     [MOVE_RECOVER] = {
@@ -2860,7 +2860,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_SMART,
         },
-        .description = "Regenera sus células y\\nrecupera la mitad de\\nsus PS máximos.\\n",
+        .description = "Restaura hasta\\nla mitad de los\\nPS máximos.",
     },
 
     [MOVE_HARDEN] = {
@@ -2887,7 +2887,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Tensa su musculatura\\npara aumentar la\\nDefensa.\\n",
+        .description = "Tensa la musculatura\\npara aumentar\\nla Defensa.",
     },
 
     [MOVE_MINIMIZE] = {
@@ -2914,14 +2914,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Mengua para aumentar\\nmucho la Evasión.\\n",
+        .description = "El usuario mengua\\npara aumentar\\nla evasión.",
     },
 
     [MOVE_SMOKESCREEN] = {
         .names = {
             .name = "Pantallahumo",
             .capsName = "PANTALLAHUMO",
-            .fullName = "Pantalla de Humo",
+            .fullName = "Pantallahumo",
         },
         .data = {
             .effect = MOVE_EFFECT_ACC_DOWN,
@@ -2941,7 +2941,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOWER_VOLTAGES,
             .contestType = CONTEST_SMART,
         },
-        .description = "Nube de humo o tinta\\nque reduce la\\nPrecisión.\\n",
+        .description = "Baja la precisión del\\nenemigo con una\\nnube de humo o tinta.",
     },
 
     [MOVE_CONFUSE_RAY] = {
@@ -2968,7 +2968,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOWER_VOLTAGES,
             .contestType = CONTEST_SMART,
         },
-        .description = "Rayo siniestro que\\nconfunde al objetivo.\\n",
+        .description = "Rayo siniestro que\\nconfunde al enemigo.",
     },
 
     [MOVE_WITHDRAW] = {
@@ -2995,7 +2995,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Se resguarda en su\\ncoraza y aumenta la\\nDefensa.\\n",
+        .description = "El usuario se protege\\nen su coraza y sube\\nla Defensa.",
     },
 
     [MOVE_DEFENSE_CURL] = {
@@ -3022,7 +3022,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Se enrosca para\\nocultar sus puntos\\ndébiles.\\n",
+        .description = "Se enrosca para\\nocultar su punto\\ndébil. Sube la\\nDefensa.",
     },
 
     [MOVE_BARRIER] = {
@@ -3049,14 +3049,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_COOL,
         },
-        .description = "Crea una barrera que\\nsube mucho la\\nDefensa.\\n",
+        .description = "Crea una barrera\\npara aumentar\\nmucho la Defensa.",
     },
 
     [MOVE_LIGHT_SCREEN] = {
         .names = {
             .name = "Pantalla Luz",
             .capsName = "PANTALLA LUZ",
-            .fullName = "Pantalla de Luz",
+            .fullName = "Pantalla Luz",
         },
         .data = {
             .effect = MOVE_EFFECT_SET_LIGHT_SCREEN,
@@ -3076,7 +3076,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Barrera que reduce\\ndurante 5 turnos el\\ndaño especial rival.\\n",
+        .description = "Pared de luz que\\nreduce durante\\ncinco turnos el daño\\nproducido por los\\nAtaques Especiales.",
     },
 
     [MOVE_HAZE] = {
@@ -3103,7 +3103,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Neblina oscura que\\nelimina los cambios\\nde características.\\n",
+        .description = "Neblina que elimina\\nlos cambios de\\ncaracterísticas de\\ntodos los Pokémon\\ndel combate.",
     },
 
     [MOVE_REFLECT] = {
@@ -3130,7 +3130,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_SMART,
         },
-        .description = "Barrera que reduce\\ndurante 5 turnos el\\ndaño físico rival.\\n",
+        .description = "Pared de luz que\\nreduce durante\\ncinco turnos el daño\\nproducido por\\nlos ataques físicos.",
     },
 
     [MOVE_FOCUS_ENERGY] = {
@@ -3157,7 +3157,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Concentra energía y\\nsube los golpes\\ncríticos.\\n",
+        .description = "Concentra energía\\npara aumentar las\\nposibilidades de\\nun golpe crítico.",
     },
 
     [MOVE_BIDE] = {
@@ -3184,7 +3184,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Espera dos turnos y\\nataca con el doble\\ndel daño recibido.\\n",
+        .description = "Espera dos turnos\\npara atacar con el\\ndoble de potencia\\ndel daño recibido.",
     },
 
     [MOVE_METRONOME] = {
@@ -3211,14 +3211,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_RANDOMIZE_NEXT_TURN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Mueve un dedo y usa\\nal azar casi\\ncualquier movimiento.\\n",
+        .description = "El usuario mueve\\nun dedo y estimula\\nel cerebro para\\nusar al azar casi\\ncualquier movimiento.",
     },
 
     [MOVE_MIRROR_MOVE] = {
         .names = {
-            .name = "Espejo",
-            .capsName = "ESPEJO",
-            .fullName = "Espejo",
+            .name = "Mov. Espejo",
+            .capsName = "MOV. ESPEJO",
+            .fullName = "Mov. Espejo",
         },
         .data = {
             .effect = MOVE_EFFECT_COPY_MOVE,
@@ -3238,14 +3238,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_SMART,
         },
-        .description = "Ataca con el último\\nmovimiento del\\nobjetivo.\\n",
+        .description = "Contraataca con el\\nmismo golpe\\nempleado por\\nel contrincante.",
     },
 
     [MOVE_SELF_DESTRUCT] = {
         .names = {
-            .name = "Autodest.",
-            .capsName = "AUTODEST.",
-            .fullName = "Autodestrucción",
+            .name = "Autodestruc",
+            .capsName = "AUTODESTRUC",
+            .fullName = "Autodestruc",
         },
         .data = {
             .effect = MOVE_EFFECT_HALVE_DEFENSE,
@@ -3265,7 +3265,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_ALL_SAME_JUDGE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Explota y hiere a los\\nadyacentes. El usuario\\nse debilita.\\n",
+        .description = "El atacante explota\\ny hiere a todos los\\ncontendientes.\\nEl usuario se debilita\\nde inmediato.",
     },
 
     [MOVE_EGG_BOMB] = {
@@ -3292,7 +3292,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Arroja un huevo enorme\\ncon gran fuerza.\\n",
+        .description = "Arroja un Huevo\\nal enemigo con\\ngran fuerza.",
     },
 
     [MOVE_LICK] = {
@@ -3319,7 +3319,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Lame al objetivo con\\nsu larga lengua.\\nPuede paralizarlo.\\n",
+        .description = "Usa la lengua para\\natacar. Puede causar\\nparálisis.",
     },
 
     [MOVE_SMOG] = {
@@ -3346,7 +3346,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Gases tóxicos que\\npueden envenenar.\\n",
+        .description = "El rival es atacado\\ncon gases tóxicos\\nque pueden llegar\\na envenenar.",
     },
 
     [MOVE_SLUDGE] = {
@@ -3373,7 +3373,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Arroja residuos.\\nPuede envenenar al\\nobjetivo.\\n",
+        .description = "Arroja residuos\\nal rival. Puede\\nllegar a envenenar.",
     },
 
     [MOVE_BONE_CLUB] = {
@@ -3400,7 +3400,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Aporrea con un hueso.\\nPuede amedrentar.\\n",
+        .description = "Aporrea con un\\nhueso. Puede\\nhacer retroceder\\nal enemigo.",
     },
 
     [MOVE_FIRE_BLAST] = {
@@ -3427,7 +3427,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Llama intensa que\\npuede causar\\nquemaduras.\\n",
+        .description = "Llama intensa que\\nlo chamusca todo\\ny puede causar\\nquemaduras.",
     },
 
     [MOVE_WATERFALL] = {
@@ -3454,7 +3454,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Embiste con ímpetu y\\npuede amedrentar.\\n",
+        .description = "Embiste con gran\\nimpulso que puede\\nhacer retroceder.\\nFuera de combate\\nremonta cascadas.",
     },
 
     [MOVE_CLAMP] = {
@@ -3481,14 +3481,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Atrapa y atenaza\\ndurante 4 o 5 turnos.\\n",
+        .description = "Atrapa y atenaza\\ncon fuerza de dos\\na cinco turnos.",
     },
 
     [MOVE_SWIFT] = {
         .names = {
-            .name = "Meteoros",
-            .capsName = "METEOROS",
-            .fullName = "Meteoros",
+            .name = "Rapidez",
+            .capsName = "RAPIDEZ",
+            .fullName = "Rapidez",
         },
         .data = {
             .effect = MOVE_EFFECT_BYPASS_ACCURACY,
@@ -3508,7 +3508,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Rayos en forma de\\nestrella que no\\nfallan nunca.\\n",
+        .description = "Lanza rayos en forma\\nde estrella que no\\nfallan nunca.",
     },
 
     [MOVE_SKULL_BASH] = {
@@ -3535,7 +3535,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_UNIQUE_JUDGE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Sube la Defensa en el\\nprimer turno y ataca\\nen el segundo.\\n",
+        .description = "Primer turno:\\nse prepara y sube\\nla Defensa.\\nSegundo turno:\\nda el cabezazo.",
     },
 
     [MOVE_SPIKE_CANNON] = {
@@ -3562,7 +3562,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Lanza finas púas de\\ndos a cinco veces.\\n",
+        .description = "Lanza finas púas\\nque hieren de dos\\na cinco veces.",
     },
 
     [MOVE_CONSTRICT] = {
@@ -3589,7 +3589,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LATE_BOOST,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Ataca con tentáculos\\nque pueden reducir la\\nVelocidad.\\n",
+        .description = "Constriñe para herir\\ny puede bajar\\nla Velocidad.",
     },
 
     [MOVE_AMNESIA] = {
@@ -3616,7 +3616,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Olvida sus\\npreocupaciones y sube\\nmucho la Defensa\\nEspecial.\\n",
+        .description = "El usuario olvida sus\\npreocupaciones y\\naumenta mucho la\\nDefensa Especial.",
     },
 
     [MOVE_KINESIS] = {
@@ -3643,14 +3643,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_SMART,
         },
-        .description = "Dobla una cuchara y\\nreduce la Precisión\\ndel objetivo.\\n",
+        .description = "Dobla una cuchara\\npara distraer al rival\\ny bajar su nivel de\\nprecisión.",
     },
 
     [MOVE_SOFT_BOILED] = {
         .names = {
-            .name = "Ovocuración",
-            .capsName = "OVOCURACIÓN",
-            .fullName = "Ovocuración",
+            .name = "Amortiguador",
+            .capsName = "AMORTIGUADOR",
+            .fullName = "Amortiguador",
         },
         .data = {
             .effect = MOVE_EFFECT_RESTORE_HALF_HP,
@@ -3670,14 +3670,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Restaura la mitad de\\nsus PS máximos.\\n",
+        .description = "Restaura la mitad\\nde los PS máximos\\ndel usuario. Puede\\nusarse en un aliado\\nfuera de combate.",
     },
 
     [MOVE_HIGH_JUMP_KICK] = {
         .names = {
-            .name = "Patada Salto",
-            .capsName = "PATADA SALTO",
-            .fullName = "Patada Salto Alta",
+            .name = "Pat. S. Alta",
+            .capsName = "PAT. S. ALTA",
+            .fullName = "Pat. S. Alta",
         },
         .data = {
             .effect = MOVE_EFFECT_CRASH_ON_MISS,
@@ -3697,7 +3697,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Salta muy alto y da\\nun rodillazo. Si\\nfalla, se hiere.\\n",
+        .description = "Salta muy alto y\\nlanza una patada.\\nSi falla, dañará\\nal usuario.",
     },
 
     [MOVE_GLARE] = {
@@ -3724,14 +3724,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Intimida con la mirada\\ny deja paralizado al\\nobjetivo.\\n",
+        .description = "Intimida y asusta\\nal rival con la\\nmirada hasta\\ndejarlo paralizado.",
     },
 
     [MOVE_DREAM_EATER] = {
         .names = {
-            .name = "Comesueños",
-            .capsName = "COMESUEÑOS",
-            .fullName = "Comesueños",
+            .name = "Come Sueños",
+            .capsName = "COME SUEÑOS",
+            .fullName = "Come Sueños",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOVER_DAMAGE_SLEEP,
@@ -3751,7 +3751,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Engulle los sueños de\\nun rival dormido y\\nrecupera la mitad\\ndel daño.\\n",
+        .description = "Restaura al usuario\\nla mitad del daño\\ncausado a un rival\\ndormido.",
     },
 
     [MOVE_POISON_GAS] = {
@@ -3778,14 +3778,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_SMART,
         },
-        .description = "Nube de gas tóxico\\nque envenena al\\nobjetivo.\\n",
+        .description = "Lanza una nube\\nde gas tóxico\\nal enemigo.\\nProduce\\nenvenenamiento.",
     },
 
     [MOVE_BARRAGE] = {
         .names = {
-            .name = "Bombardeo",
-            .capsName = "BOMBARDEO",
-            .fullName = "Bombardeo",
+            .name = "Presa",
+            .capsName = "PRESA",
+            .fullName = "Presa",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -3805,7 +3805,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Arroja esferas de dos\\na cinco veces.\\n",
+        .description = "Arroja esferas al\\nrival entre dos y\\ncinco veces seguidas.",
     },
 
     [MOVE_LEECH_LIFE] = {
@@ -3832,7 +3832,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Chupa sangre y\\nrecupera la mitad del\\ndaño producido.\\n",
+        .description = "Restaura al usuario\\nla mitad del daño\\ncausado al rival.",
     },
 
     [MOVE_LOVELY_KISS] = {
@@ -3859,7 +3859,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Cara que asusta y un\\nbeso que duerme al\\nobjetivo.\\n",
+        .description = "Con una cara que\\nasusta, da un beso\\nal enemigo y lo\\nadormece.",
     },
 
     [MOVE_SKY_ATTACK] = {
@@ -3886,14 +3886,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_UNIQUE_JUDGE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Ataca en el segundo\\nturno. Suele ser\\ncrítico y puede\\namedrentar.\\n",
+        .description = "Ataque en dos turnos\\nque suele ser\\ncrítico. Puede hacer\\nretroceder al rival.",
     },
 
     [MOVE_TRANSFORM] = {
         .names = {
-            .name = "Transform.",
-            .capsName = "TRANSFORM.",
-            .fullName = "Transformación",
+            .name = "Transform",
+            .capsName = "TRANSFORM",
+            .fullName = "Transform",
         },
         .data = {
             .effect = MOVE_EFFECT_TRANSFORM,
@@ -3913,7 +3913,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_PITY_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Se transforma en una\\ncopia del objetivo\\ncon sus movimientos.\\n",
+        .description = "El atacante se\\ntransforma en\\nuna copia del rival,\\ncon los mismos\\nmovimientos.",
     },
 
     [MOVE_BUBBLE] = {
@@ -3940,7 +3940,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_NEXT_TURN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Lanza burbujas y\\npuede reducir la\\nVelocidad.\\n",
+        .description = "Lanza burbujas al\\ncontrincante y puede\\nreducir su Velocidad.",
     },
 
     [MOVE_DIZZY_PUNCH] = {
@@ -3967,7 +3967,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_COOL,
         },
-        .description = "Rítmicos puñetazos\\nque pueden causar\\nconfusión.\\n",
+        .description = "Rítmicos puñetazos\\nque pueden causar\\nconfusión.",
     },
 
     [MOVE_SPORE] = {
@@ -3994,7 +3994,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOWER_VOLTAGES,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Esparce esporas que\\ninducen el sueño.\\n",
+        .description = "Esparce esporas que\\ninducen al sueño.",
     },
 
     [MOVE_FLASH] = {
@@ -4021,7 +4021,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOWER_VOLTAGES,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Luz cegadora que baja\\nla Precisión.\\n",
+        .description = "Luz cegadora que\\nbaja la precisión.\\nFuera de combate\\nsirve para iluminar.",
     },
 
     [MOVE_PSYWAVE] = {
@@ -4048,7 +4048,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_SMART,
         },
-        .description = "Onda de energía de\\nintensidad variable.\\n",
+        .description = "Ataque con onda de\\nenergía de intensidad\\nvariable.",
     },
 
     [MOVE_SPLASH] = {
@@ -4075,14 +4075,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_CUTE,
         },
-        .description = "No tiene ningún\\nefecto. Solo salpica.\\n",
+        .description = "No tiene ningún\\nefecto. Solo salpica.",
     },
 
     [MOVE_ACID_ARMOR] = {
         .names = {
             .name = "Armad. Ácida",
             .capsName = "ARMAD. ÁCIDA",
-            .fullName = "Armadura Ácida",
+            .fullName = "Armad. Ácida",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_UP_2,
@@ -4102,7 +4102,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Se vuelve líquido y\\nsube mucho la\\nDefensa.\\n",
+        .description = "Transforma la\\nestructura celular\\npara hacerse líquido\\ny aumenta mucho\\nla Defensa.",
     },
 
     [MOVE_CRABHAMMER] = {
@@ -4129,7 +4129,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Golpea con fuerza con\\nuna pinza enorme.\\nSuele ser crítico.\\n",
+        .description = "Golpea con fuerza\\ncon unas pinzas.\\nSuele ser crítico.",
     },
 
     [MOVE_EXPLOSION] = {
@@ -4156,7 +4156,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_ALL_SAME_JUDGE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Gran explosión que\\nhiere a los\\nadyacentes. El usuario\\nse debilita.\\n",
+        .description = "El atacante explota\\ny hiere a todos\\nlos contendientes.\\nEl usuario se debilita\\nde inmediato.",
     },
 
     [MOVE_FURY_SWIPES] = {
@@ -4183,7 +4183,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Araña de dos a cinco\\nveces seguidas.\\n",
+        .description = "Araña rápidamente de\\ndos a cinco veces.",
     },
 
     [MOVE_BONEMERANG] = {
@@ -4210,7 +4210,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Lanza un hueso a modo\\nde bumerán y golpea\\ndos veces seguidas.\\n",
+        .description = "Lanza un hueso a modo\\nde bumerán que golpea\\ndos veces.",
     },
 
     [MOVE_REST] = {
@@ -4237,7 +4237,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Restaura todos los PS y\\ncura el estado, pero\\nduerme dos turnos.\\n",
+        .description = "Te duerme durante\\ndos turnos para\\ncurarte totalmente.",
     },
 
     [MOVE_ROCK_SLIDE] = {
@@ -4264,14 +4264,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Lanza grandes\\npedruscos. Puede\\namedrentar al rival.\\n",
+        .description = "Lanza grandes\\npedruscos. Puede\\nhacer retroceder\\nal enemigo.",
     },
 
     [MOVE_HYPER_FANG] = {
         .names = {
             .name = "Hip.Colmillo",
             .capsName = "HIP.COLMILLO",
-            .fullName = "Hipercolmillo",
+            .fullName = "Hip.Colmillo",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -4291,7 +4291,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Ataca con agudos\\ncolmillos. Puede\\namedrentar.\\n",
+        .description = "Ataque con finos\\ncolmillos. Puede\\nhacer retroceder\\nal enemigo.",
     },
 
     [MOVE_SHARPEN] = {
@@ -4318,7 +4318,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Su perfil se vuelve más\\nafilado y sube el\\nAtaque.\\n",
+        .description = "El perfil del atacante\\nse hace más afilado\\ny su Ataque mejora.",
     },
 
     [MOVE_CONVERSION] = {
@@ -4345,7 +4345,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_PITY_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Cambia su tipo por el\\ndel primer movimiento\\nde su lista.\\n",
+        .description = "Cambia el tipo del\\nusuario por el de uno\\nde sus movimientos.",
     },
 
     [MOVE_TRI_ATTACK] = {
@@ -4372,7 +4372,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Tres rayos de luz que\\npueden paralizar,\\nquemar o congelar.\\n",
+        .description = "Ataque triple que\\npuede paralizar,\\nquemar o congelar\\nal rival.",
     },
 
     [MOVE_SUPER_FANG] = {
@@ -4399,7 +4399,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Dentellada que reduce\\na la mitad los PS del\\nobjetivo.\\n",
+        .description = "Finos colmillos que\\nreducen a la mitad\\nlos PS del rival.",
     },
 
     [MOVE_SLASH] = {
@@ -4426,7 +4426,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Ataca con cuchillas o\\npinzas. Suele ser\\ngolpe crítico.\\n",
+        .description = "Acuchilla con pinzas,\\netc. Suele dar\\nun golpe crítico.",
     },
 
     [MOVE_SUBSTITUTE] = {
@@ -4453,14 +4453,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_PITY_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Usa parte de sus PS\\npara crear un\\nsustituto que actúa\\nde señuelo.\\n",
+        .description = "Utiliza parte de los\\nPS propios para crear\\nun sustituto que\\nactúa como señuelo.",
     },
 
     [MOVE_STRUGGLE] = {
         .names = {
-            .name = "Forcejeo",
-            .capsName = "FORCEJEO",
-            .fullName = "Forcejeo",
+            .name = "Combate",
+            .capsName = "COMBATE",
+            .fullName = "Combate",
         },
         .data = {
             .effect = MOVE_EFFECT_STRUGGLE,
@@ -4480,7 +4480,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Solo se usa al acabar\\nlos PP. El usuario se\\nhiere ligeramente.\\n",
+        .description = "Solo se usa como\\núltimo recurso al\\nacabarse los PP.\\nHiere un poco\\nal agresor.",
     },
 
     [MOVE_SKETCH] = {
@@ -4507,14 +4507,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_PITY_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Aprende de forma\\npermanente el último\\nmovimiento del rival.\\n",
+        .description = "Copia el último\\nmovimiento del\\nrival. Es de un\\nsolo uso.",
     },
 
     [MOVE_TRIPLE_KICK] = {
         .names = {
-            .name = "Triple Pat.",
-            .capsName = "TRIPLE PAT.",
-            .fullName = "Triple Patada",
+            .name = "Triplepatada",
+            .capsName = "TRIPLEPATADA",
+            .fullName = "Triplepatada",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_THREE_TIMES_INCREMENT_BASE_POWER_10,
@@ -4534,7 +4534,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Hasta tres patadas\\nseguidas, cada vez más\\npotentes.\\n",
+        .description = "Patea hasta tres\\nveces seguidas y\\ncada vez más fuerte.",
     },
 
     [MOVE_THIEF] = {
@@ -4561,7 +4561,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_STEAL_VOLTAGE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Ataca y roba el objeto\\ndel objetivo si este\\nlleva uno.\\n",
+        .description = "Ataca y le quita al\\nrival el objeto que\\nlleve. Si el agresor\\nlleva un objeto, no\\nrobará el del rival.",
     },
 
     [MOVE_SPIDER_WEB] = {
@@ -4588,7 +4588,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_SMART,
         },
-        .description = "Enreda al objetivo para\\nque no pueda\\nabandonar el combate.\\n",
+        .description = "Enreda al rival para\\nevitar que abandone\\nla batalla.",
     },
 
     [MOVE_MIND_READER] = {
@@ -4615,7 +4615,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Adivina los movimientos\\ndel rival y su\\nsiguiente ataque no\\nfalla.\\n",
+        .description = "El usuario adivina\\nlos movimientos\\ndel rival para hacer\\nque su siguiente\\nataque no falle.",
     },
 
     [MOVE_NIGHTMARE] = {
@@ -4642,7 +4642,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "El rival dormido sufre\\nuna pesadilla y pierde\\nPS en cada turno.\\n",
+        .description = "El rival dormido\\nsufre una pesadilla\\nque le hace perder\\nPS en cada turno.",
     },
 
     [MOVE_FLAME_WHEEL] = {
@@ -4669,7 +4669,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Ataca envuelto en\\nfuego. Puede causar\\nquemaduras.\\n",
+        .description = "Ataca envuelto\\nen fuego. Puede\\ncausar quemaduras.",
     },
 
     [MOVE_SNORE] = {
@@ -4696,7 +4696,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Ronquido que solo se usa\\ndormido. Puede\\namedrentar.\\n",
+        .description = "Fuerte ronquido\\nque debe usarse\\ndormido. Puede\\nhacer retroceder\\nal enemigo.",
     },
 
     [MOVE_CURSE] = {
@@ -4723,7 +4723,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LATE_BOOST,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Su efecto cambia si el\\nusuario es de tipo\\nFantasma o no.\\n",
+        .description = "En el tipo Fantasma\\ntiene un efecto\\ndistinto.",
     },
 
     [MOVE_FLAIL] = {
@@ -4750,14 +4750,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Ataque frenético.\\nCuanto menos PS tenga\\nel usuario, más daño.\\n",
+        .description = "Ataque frenético.\\nCuantos menos\\nPS tenga el usuario,\\nmás daño produce.",
     },
 
     [MOVE_CONVERSION_2] = {
         .names = {
-            .name = "Conversión 2",
-            .capsName = "CONVERSIÓN 2",
-            .fullName = "Conversión 2",
+            .name = "Conversión2",
+            .capsName = "CONVERSIÓN2",
+            .fullName = "Conversión2",
         },
         .data = {
             .effect = MOVE_EFFECT_CONVERSION2,
@@ -4777,7 +4777,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_PITY_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Cambia su tipo para\\nresistir el del último\\nmovimiento rival.\\n",
+        .description = "Cambia el tipo para\\nhacerse resistente\\nal último tipo de\\nataque recibido.",
     },
 
     [MOVE_AEROBLAST] = {
@@ -4804,7 +4804,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Chorro de aire que\\nsuele asestar un golpe\\ncrítico.\\n",
+        .description = "Lanza un chorro de\\naire que suele dar\\nun golpe crítico.",
     },
 
     [MOVE_COTTON_SPORE] = {
@@ -4831,7 +4831,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Adhiere esporas y\\nreduce mucho la\\nVelocidad.\\n",
+        .description = "Adhiere esporas al\\nrival para reducir\\nmucho su Velocidad.",
     },
 
     [MOVE_REVERSAL] = {
@@ -4858,7 +4858,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Ataque desesperado que\\ndaña más cuantos menos\\nPS tenga el usuario.\\n",
+        .description = "Ataque desesperado\\nque causa más daño\\ncuantos menos PS\\ntenga el usuario.",
     },
 
     [MOVE_SPITE] = {
@@ -4885,7 +4885,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Rencor que reduce 4 PP\\ndel último movimiento\\nusado por el rival.\\n",
+        .description = "Da rienda suelta a su\\nrencor para reducir\\ncuatro PP del último\\nmovimiento usado\\npor el rival.",
     },
 
     [MOVE_POWDER_SNOW] = {
@@ -4912,7 +4912,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Lanza nieve que puede\\nllegar a congelar.\\n",
+        .description = "Lanza una nevada\\nque puede llegar\\na congelar.",
     },
 
     [MOVE_PROTECT] = {
@@ -4939,7 +4939,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Frena todos los\\nataques, pero puede\\nfallar si se repite.\\n",
+        .description = "Frena todos los\\nataques, pero puede\\nfallar si se usa\\nrepetidamente.",
     },
 
     [MOVE_MACH_PUNCH] = {
@@ -4966,7 +4966,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_COOL,
         },
-        .description = "Puñetazo de velocidad\\nfulminante. Tiene\\nprioridad alta.\\n",
+        .description = "Puñetazo que se da\\nrápido para golpear\\nprimero.",
     },
 
     [MOVE_SCARY_FACE] = {
@@ -4993,7 +4993,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_NEXT_TURN,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Asusta al objetivo y\\nreduce mucho su\\nVelocidad.\\n",
+        .description = "Asusta al enemigo\\npara reducir mucho\\nsu Velocidad.",
     },
 
     [MOVE_FEINT_ATTACK] = {
@@ -5020,7 +5020,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Engaña al rival para\\nacercarse y golpearlo\\nsin fallar.\\n",
+        .description = "Engaña al enemigo\\npara acercarse y\\ndar un puñetazo\\nque no falla.",
     },
 
     [MOVE_SWEET_KISS] = {
@@ -5047,7 +5047,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Da un beso con tal\\ndulzura que causa\\nconfusión.\\n",
+        .description = "Da un beso con\\ntal dulzura que\\ncausa confusión.",
     },
 
     [MOVE_BELLY_DRUM] = {
@@ -5074,7 +5074,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Sacrifica la mitad de\\nsus PS máximos para\\nsubir al máximo el\\nAtaque.\\n",
+        .description = "Reduce la mitad de\\nlos PS máximos para\\nmejorar al máximo\\nel Ataque.",
     },
 
     [MOVE_SLUDGE_BOMB] = {
@@ -5101,7 +5101,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Arroja residuos.\\nPuede envenenar al\\nobjetivo.\\n",
+        .description = "Explosión de lodo\\nque puede llegar\\na envenenar.",
     },
 
     [MOVE_MUD_SLAP] = {
@@ -5128,7 +5128,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Echa lodo en la cara\\npara dañar y reducir\\nla Precisión.\\n",
+        .description = "Echa lodo en la\\ncara para bajar\\nla precisión.",
     },
 
     [MOVE_OCTAZOOKA] = {
@@ -5155,7 +5155,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Dispara tinta a la cara\\ny puede reducir la\\nPrecisión.\\n",
+        .description = "Dispara tinta a la\\ncara. Puede bajar\\nla precisión.",
     },
 
     [MOVE_SPIKES] = {
@@ -5182,7 +5182,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_SMART,
         },
-        .description = "Trampa de púas que\\nhiere a los rivales que\\nentran en combate.\\n",
+        .description = "Esparce púas que\\nhieren al rival que\\nentre en combate.",
     },
 
     [MOVE_ZAP_CANNON] = {
@@ -5209,7 +5209,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Descarga eléctrica que\\ncausa daño y\\nparálisis.\\n",
+        .description = "Dispara una descarga\\neléctrica que causa\\ndaño y parálisis.",
     },
 
     [MOVE_FORESIGHT] = {
@@ -5236,14 +5236,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Permite golpear a\\nPokémon de tipo\\nFantasma y a los\\nevasivos.\\n",
+        .description = "Permite atacar con\\ncualquier movimiento\\na rivales de tipo\\nFantasma y golpear\\na Pokémon evasivos.",
     },
 
     [MOVE_DESTINY_BOND] = {
         .names = {
             .name = "Mismodestino",
             .capsName = "MISMODESTINO",
-            .fullName = "Mismo Destino",
+            .fullName = "Mismodestino",
         },
         .data = {
             .effect = MOVE_EFFECT_KO_MON_THAT_DEFEATED_USER,
@@ -5263,7 +5263,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_ALL_SAME_JUDGE,
             .contestType = CONTEST_SMART,
         },
-        .description = "Si el usuario se\\ndebilita, el rival\\ntambién lo hará.\\n",
+        .description = "Si el usuario se\\ndebilita, el enemigo\\nse debilita también.",
     },
 
     [MOVE_PERISH_SONG] = {
@@ -5290,7 +5290,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOWER_VOLTAGES,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Quien lo oiga se\\ndebilitará en tres\\nturnos si no es\\ncambiado.\\n",
+        .description = "Si un Pokémon escucha\\neste canto y no es\\ncambiado por otro en\\ntres turnos, acaba\\ndebilitándose.",
     },
 
     [MOVE_ICY_WIND] = {
@@ -5317,7 +5317,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_NEXT_TURN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Aire helado que reduce\\nla Velocidad del\\nobjetivo.\\n",
+        .description = "Ataque con aire\\nhelado que baja\\nla Velocidad.",
     },
 
     [MOVE_DETECT] = {
@@ -5344,7 +5344,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_COOL,
         },
-        .description = "Frena todos los\\nataques, pero puede\\nfallar si se repite.\\n",
+        .description = "Frena todos los\\nataques, pero puede\\nfallar si se usa\\nrepetidamente.",
     },
 
     [MOVE_BONE_RUSH] = {
@@ -5371,7 +5371,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Aporrea con un hueso de\\ndos a cinco veces\\nseguidas.\\n",
+        .description = "Hueso en ristre,\\naporrea al enemigo\\nde dos a cinco veces.",
     },
 
     [MOVE_LOCK_ON] = {
@@ -5398,7 +5398,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Fija el blanco para que\\nel siguiente movimiento\\nno falle.\\n",
+        .description = "Fija el blanco para\\nque el siguiente\\nataque no falle.",
     },
 
     [MOVE_OUTRAGE] = {
@@ -5425,14 +5425,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Ataca enfurecido de dos\\na tres turnos y luego\\nqueda confuso.\\n",
+        .description = "Embestida que dura\\ndos o tres turnos y\\nconfunde al atacante.",
     },
 
     [MOVE_SANDSTORM] = {
         .names = {
             .name = "Torm. Arena",
             .capsName = "TORM. ARENA",
-            .fullName = "Tormenta de Arena",
+            .fullName = "Torm. Arena",
         },
         .data = {
             .effect = MOVE_EFFECT_WEATHER_SANDSTORM,
@@ -5452,7 +5452,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Tormenta de arena que\\ndura 5 turnos y hiere\\nsalvo a Roca, Tierra y\\nAcero.\\n",
+        .description = "Tormenta de arena\\nque dura cinco turnos\\ny hiere a todos,\\nexcepto a los tipos\\nRoca, Tierra y Acero.",
     },
 
     [MOVE_GIGA_DRAIN] = {
@@ -5479,7 +5479,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Absorbe nutrientes.\\nRecupera la mitad del\\ndaño producido.\\n",
+        .description = "Absorbe la mitad del\\ndaño producido.",
     },
 
     [MOVE_ENDURE] = {
@@ -5506,7 +5506,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Resiste cualquier\\nataque y deja al menos\\n1 PS.\\n",
+        .description = "Resiste cualquier\\nataque y deja\\nal menos un PS.\\nPuede fallar si se\\nusa repetidamente.",
     },
 
     [MOVE_CHARM] = {
@@ -5533,14 +5533,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Engatusa al objetivo y\\nreduce mucho su\\nAtaque.\\n",
+        .description = "Engatusa al rival y\\nreduce bastante\\nsu Ataque.",
     },
 
     [MOVE_ROLLOUT] = {
         .names = {
-            .name = "Rodar",
-            .capsName = "RODAR",
-            .fullName = "Rodar",
+            .name = "Desenrollar",
+            .capsName = "DESENROLLAR",
+            .fullName = "Desenrollar",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_POWER_EACH_TURN_LOCK_INTO,
@@ -5560,14 +5560,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Rueda contra el rival\\ndurante 5 turnos y\\ncada vez hace más\\ndaño.\\n",
+        .description = "El atacante rueda\\ncontra el rival\\ndurante cinco turnos,\\ncada vez con\\nmayor fuerza.",
     },
 
     [MOVE_FALSE_SWIPE] = {
         .names = {
             .name = "Falsotortazo",
             .capsName = "FALSOTORTAZO",
-            .fullName = "Falso Tortazo",
+            .fullName = "Falsotortazo",
         },
         .data = {
             .effect = MOVE_EFFECT_LEAVE_WITH_1_HP,
@@ -5587,14 +5587,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_COOL,
         },
-        .description = "Ataque moderado que no\\ndebilita y deja al\\nobjetivo con 1 PS.\\n",
+        .description = "Ataque moderado que\\nno debilita al enemigo\\ny le deja al menos\\nun PS.",
     },
 
     [MOVE_SWAGGER] = {
         .names = {
-            .name = "Fanfarronear",
-            .capsName = "FANFARRONEAR",
-            .fullName = "Fanfarronear",
+            .name = "Contoneo",
+            .capsName = "CONTONEO",
+            .fullName = "Contoneo",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_UP_2_STATUS_CONFUSION,
@@ -5614,7 +5614,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Enfurece y confunde al\\nrival, pero sube mucho\\nsu Ataque.\\n",
+        .description = "Provoca confusión\\nen el enemigo, pero\\ntambién sube mucho\\nsu Ataque.",
     },
 
     [MOVE_MILK_DRINK] = {
@@ -5641,7 +5641,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Restaura la mitad de\\nsus PS máximos.\\n",
+        .description = "Restaura hasta la\\nmitad de los PS\\nmáximos. Fuera de\\ncombate, puede\\nusarse en aliados.",
     },
 
     [MOVE_SPARK] = {
@@ -5668,14 +5668,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Arremete envuelto en\\nelectricidad. Puede\\nparalizar.\\n",
+        .description = "Ataque eléctrico\\nque puede llegar\\na paralizar.",
     },
 
     [MOVE_FURY_CUTTER] = {
         .names = {
-            .name = "Corte Furia",
-            .capsName = "CORTE FURIA",
-            .fullName = "Corte Furia",
+            .name = "Cortefuria",
+            .capsName = "CORTEFURIA",
+            .fullName = "Cortefuria",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_POWER_EACH_TURN,
@@ -5695,7 +5695,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Ataque lacerante cuya\\npotencia crece si se\\nusa seguido.\\n",
+        .description = "Ataque con garras\\no guadaña que crece\\nen intensidad si se\\nusa repetidas veces.",
     },
 
     [MOVE_STEEL_WING] = {
@@ -5722,7 +5722,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Golpea con alas\\nrobustas. Puede subir\\nla Defensa del usuario.\\n",
+        .description = "Alas macizas que\\ngolpean al rival y\\npueden subir\\nla Defensa.",
     },
 
     [MOVE_MEAN_LOOK] = {
@@ -5749,7 +5749,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOWER_VOLTAGES,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Mal de ojo que impide\\nal rival huir o ser\\ncambiado.\\n",
+        .description = "Mal de ojo que\\nimpide al rival huir\\nde la batalla.",
     },
 
     [MOVE_ATTRACT] = {
@@ -5776,7 +5776,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Si el rival es del sexo\\nopuesto, se enamora y\\nataca menos.\\n",
+        .description = "Si el enemigo es\\ndel sexo opuesto,\\nse enamorará y\\nbajará la posibilidad\\nde que ataque.",
     },
 
     [MOVE_SLEEP_TALK] = {
@@ -5803,14 +5803,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Mientras duerme, usa al\\nazar uno de sus\\nmovimientos.\\n",
+        .description = "Mientras duerme,\\nusa uno de sus\\nmovimientos\\nelegido al azar.",
     },
 
     [MOVE_HEAL_BELL] = {
         .names = {
             .name = "Campana Cura",
             .capsName = "CAMPANA CURA",
-            .fullName = "Cascabel Cura",
+            .fullName = "Campana Cura",
         },
         .data = {
             .effect = MOVE_EFFECT_CURE_PARTY_STATUS,
@@ -5830,14 +5830,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Tañido que cura los\\nproblemas de estado\\ndel equipo.\\n",
+        .description = "Tañido que cura\\nlos problemas de\\nestado de todos los\\nPokémon del grupo.",
     },
 
     [MOVE_RETURN] = {
         .names = {
-            .name = "Retribución",
-            .capsName = "RETRIBUCIÓN",
-            .fullName = "Retribución",
+            .name = "Retroceso",
+            .capsName = "RETROCESO",
+            .fullName = "Retroceso",
         },
         .data = {
             .effect = MOVE_EFFECT_POWER_BASED_ON_FRIENDSHIP,
@@ -5857,7 +5857,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Más poderoso cuanto\\nmayor sea la amistad\\ncon el Entrenador.\\n",
+        .description = "Cuanto mayor sea\\nla amistad con el\\nEntrenador, más\\npoderoso será\\neste ataque.",
     },
 
     [MOVE_PRESENT] = {
@@ -5884,7 +5884,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Ataca con un regalo\\ntrampa, aunque a veces\\nrestaura PS.\\n",
+        .description = "Regalo con bomba\\ntrampa. A veces\\nrestaura los PS.",
     },
 
     [MOVE_FRUSTRATION] = {
@@ -5911,7 +5911,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Más poderoso cuanto\\nmenor sea la amistad\\ncon el Entrenador.\\n",
+        .description = "Cuanto menor sea\\nla amistad con el\\nEntrenador, más\\npoderoso será\\neste ataque.",
     },
 
     [MOVE_SAFEGUARD] = {
@@ -5938,7 +5938,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Poder misterioso que\\nprotege de problemas de\\nestado 5 turnos.\\n",
+        .description = "Crea un campo\\nprotector que evita\\nproblemas de estado\\ndurante cinco turnos.",
     },
 
     [MOVE_PAIN_SPLIT] = {
@@ -5965,14 +5965,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOWER_VOLTAGES,
             .contestType = CONTEST_SMART,
         },
-        .description = "Suma sus PS a los del\\nrival y los reparte a\\npartes iguales.\\n",
+        .description = "Suma los PS del\\nusuario a los de\\notro Pokémon y\\nlos reparte a\\npartes iguales.",
     },
 
     [MOVE_SACRED_FIRE] = {
         .names = {
             .name = "Fuegosagrado",
             .capsName = "FUEGOSAGRADO",
-            .fullName = "Fuego Sagrado",
+            .fullName = "Fuegosagrado",
         },
         .data = {
             .effect = MOVE_EFFECT_THAW_AND_BURN_HIT,
@@ -5992,7 +5992,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Fuego místico de gran\\nintensidad que puede\\ncausar quemaduras.\\n",
+        .description = "Fuego místico de\\ngran intensidad\\nque puede causar\\nquemaduras.",
     },
 
     [MOVE_MAGNITUDE] = {
@@ -6019,14 +6019,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Sacudida sísmica de\\nintensidad variable que\\nafecta a los\\nalrededores.\\n",
+        .description = "Sacudida sísmica\\nde intensidad\\nvariable que afecta a\\nlos demás Pokémon\\nen combate.",
     },
 
     [MOVE_DYNAMIC_PUNCH] = {
         .names = {
             .name = "Puñodinámico",
             .capsName = "PUÑODINÁMICO",
-            .fullName = "Puño Dinámico",
+            .fullName = "Puñodinámico",
         },
         .data = {
             .effect = MOVE_EFFECT_CONFUSE_HIT,
@@ -6046,7 +6046,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Puñetazo a máxima\\npotencia que causa\\nconfusión.\\n",
+        .description = "Puñetazo con toda la\\nfuerza concentrada.\\nCausa confusión\\nsi atina.",
     },
 
     [MOVE_MEGAHORN] = {
@@ -6073,7 +6073,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Ensarta con su imponente\\ncuerno o cornamenta.\\n",
+        .description = "Violenta embestida\\ncon cuernos\\nimponentes.",
     },
 
     [MOVE_DRAGON_BREATH] = {
@@ -6100,7 +6100,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Ráfaga de aliento que\\ngolpea y puede\\nparalizar.\\n",
+        .description = "Poderosa ráfaga\\nde aliento que\\ngolpea al enemigo\\ny puede paralizarlo.",
     },
 
     [MOVE_BATON_PASS] = {
@@ -6127,7 +6127,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Cambia el puesto con\\notro y le pasa los\\ncambios de\\ncaracterísticas.\\n",
+        .description = "Cambia el puesto\\ncon un compañero\\ny le pasa los cambios\\nde características.",
     },
 
     [MOVE_ENCORE] = {
@@ -6154,7 +6154,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_CUTE,
         },
-        .description = "El rival repite su\\núltimo movimiento\\ndurante tres turnos.\\n",
+        .description = "El rival repite el\\núltimo movimiento\\nde tres a siete\\nturnos.",
     },
 
     [MOVE_PURSUIT] = {
@@ -6181,7 +6181,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Hace el doble de daño\\nal objetivo que pide el\\nrelevo.\\n",
+        .description = "Hace el doble de daño\\nal rival que pide\\nel relevo.",
     },
 
     [MOVE_RAPID_SPIN] = {
@@ -6208,7 +6208,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Giro que anula Atadura,\\nConstricción y\\nDrenadoras. Sube la\\nVelocidad.\\n",
+        .description = "Ataque giratorio\\nque puede eliminar\\nmovimientos como\\nAtadura, Repetición,\\nDrenadoras y Púas.",
     },
 
     [MOVE_SWEET_SCENT] = {
@@ -6235,7 +6235,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Dulce aroma que engatusa\\ny reduce mucho la\\nEvasión.\\n",
+        .description = "Engatusa al rival para\\nreducir su evasión.\\nTambién atrae\\nPokémon salvajes.",
     },
 
     [MOVE_IRON_TAIL] = {
@@ -6262,7 +6262,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Ataca con una cola\\nférrea y puede bajar\\nla Defensa.\\n",
+        .description = "Ataca con una cola\\nférrea y puede bajar\\nla Defensa.",
     },
 
     [MOVE_METAL_CLAW] = {
@@ -6289,14 +6289,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Garras de acero que\\npueden subir el Ataque\\ndel usuario.\\n",
+        .description = "Ataque con garras\\nde acero que puede\\naumentar el Ataque.",
     },
 
     [MOVE_VITAL_THROW] = {
         .names = {
-            .name = "Llave Vital",
-            .capsName = "LLAVE VITAL",
-            .fullName = "Llave Vital",
+            .name = "Tiro Vital",
+            .capsName = "TIRO VITAL",
+            .fullName = "Tiro Vital",
         },
         .data = {
             .effect = MOVE_EFFECT_PRIORITY_NEG_1_BYPASS_ACCURACY,
@@ -6316,7 +6316,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_NEXT_TURN,
             .contestType = CONTEST_COOL,
         },
-        .description = "El usuario ataca el\\núltimo, pero no falla\\nnunca.\\n",
+        .description = "Permite al rival\\natacar primero,\\npero no falla.",
     },
 
     [MOVE_MORNING_SUN] = {
@@ -6343,14 +6343,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Restaura PS. La cantidad\\nvaría según el tiempo\\nque haga.\\n",
+        .description = "Restaura PS.\\nLa cantidad varía\\nsegún el tiempo\\nque haga.",
     },
 
     [MOVE_SYNTHESIS] = {
         .names = {
-            .name = "Fotosíntesis",
-            .capsName = "FOTOSÍNTESIS",
-            .fullName = "Fotosíntesis",
+            .name = "Síntesis",
+            .capsName = "SÍNTESIS",
+            .fullName = "Síntesis",
         },
         .data = {
             .effect = MOVE_EFFECT_HEAL_HALF_DIFFERENT_IN_WEATHER,
@@ -6370,7 +6370,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_SMART,
         },
-        .description = "Restaura PS. La cantidad\\nvaría según el tiempo\\nque haga.\\n",
+        .description = "Restaura PS.\\nLa cantidad varía\\nsegún el tiempo\\nque haga.",
     },
 
     [MOVE_MOONLIGHT] = {
@@ -6397,7 +6397,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Restaura PS. La cantidad\\nvaría según el tiempo\\nque haga.\\n",
+        .description = "Restaura PS.\\nLa cantidad varía\\nsegún el tiempo\\nque haga.",
     },
 
     [MOVE_HIDDEN_POWER] = {
@@ -6424,7 +6424,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_PITY_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Su tipo varía según el\\nPokémon que lo usa.\\n",
+        .description = "Ataque único cuyo\\ntipo y eficacia varían\\nsegún el agresor.",
     },
 
     [MOVE_CROSS_CHOP] = {
@@ -6451,7 +6451,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Golpe doble con las\\nmanos que suele ser\\ncrítico.\\n",
+        .description = "Corte doble que\\nsuele propinar\\nun golpe crítico.",
     },
 
     [MOVE_TWISTER] = {
@@ -6478,7 +6478,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Violento tornado que\\npuede amedrentar al\\nobjetivo.\\n",
+        .description = "Crea un violento\\ntornado para hacer\\ntrizas al rival. Puede\\nhacerle retroceder.",
     },
 
     [MOVE_RAIN_DANCE] = {
@@ -6505,7 +6505,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Lluvia que dura 5 turnos,\\npotencia el Agua y\\ndebilita el Fuego.\\n",
+        .description = "Genera una fuerte\\nlluvia que refuerza\\nlos ataques de\\ntipo Agua durante\\ncinco turnos.",
     },
 
     [MOVE_SUNNY_DAY] = {
@@ -6532,7 +6532,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Sol intenso que dura 5\\nturnos, potencia el\\nFuego y debilita el\\nAgua.\\n",
+        .description = "El sol se intensifica\\ny sube los ataques\\nde tipo Fuego\\ndurante cinco turnos.",
     },
 
     [MOVE_CRUNCH] = {
@@ -6559,7 +6559,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Tritura con afilados\\ncolmillos y puede bajar\\nla Defensa.\\n",
+        .description = "Tritura con afilados\\ncolmillos y puede\\nbajar la Defensa\\ndel enemigo.",
     },
 
     [MOVE_MIRROR_COAT] = {
@@ -6586,14 +6586,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Responde a un ataque\\nespecial causando el\\ndoble del daño.\\n",
+        .description = "Responde a un\\nAtaque Especial\\ncon doble fuerza.",
     },
 
     [MOVE_PSYCH_UP] = {
         .names = {
-            .name = "Autosugest.",
-            .capsName = "AUTOSUGEST.",
-            .fullName = "Autosugestión",
+            .name = "Más Psique",
+            .capsName = "MÁS PSIQUE",
+            .fullName = "Más Psique",
         },
         .data = {
             .effect = MOVE_EFFECT_COPY_STAT_CHANGES,
@@ -6613,14 +6613,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_SMART,
         },
-        .description = "Trance que copia los\\ncambios en las\\ncaracterísticas del\\nobjetivo.\\n",
+        .description = "El usuario se\\nautohipnotiza para\\ncopiar los cambios de\\nlas características\\ndel rival.",
     },
 
     [MOVE_EXTREME_SPEED] = {
         .names = {
             .name = "Vel. Extrema",
             .capsName = "VEL. EXTREMA",
-            .fullName = "Velocidad Extrema",
+            .fullName = "Vel. Extrema",
         },
         .data = {
             .effect = MOVE_EFFECT_PRIORITY_1,
@@ -6640,7 +6640,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_COOL,
         },
-        .description = "Ataque de velocidad\\nextrema. Tiene\\nprioridad alta.\\n",
+        .description = "Ataque muy rápido\\nque siempre se\\nrealiza el primero.",
     },
 
     [MOVE_ANCIENT_POWER] = {
@@ -6667,7 +6667,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Poder prehistórico que\\npuede subir todas las\\ncaracterísticas.\\n",
+        .description = "Ataque prehistórico\\nque puede subir todas\\nlas características.",
     },
 
     [MOVE_SHADOW_BALL] = {
@@ -6694,7 +6694,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Bola oscura que puede\\nbajar la Defensa\\nEspecial.\\n",
+        .description = "Lanza una bola\\noscura que puede\\nbajar la Defensa\\nEspecial.",
     },
 
     [MOVE_FUTURE_SIGHT] = {
@@ -6721,7 +6721,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Concentra energía\\npsíquica y golpea dos\\nturnos después.\\n",
+        .description = "Concentra energía\\npsíquica para\\ngolpear al enemigo\\ndos turnos después.",
     },
 
     [MOVE_ROCK_SMASH] = {
@@ -6748,7 +6748,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Gran puñetazo que puede\\nreducir la Defensa del\\nobjetivo.\\n",
+        .description = "Ataque demoledor\\nque puede bajar la\\nDefensa. Fuera de\\ncombate sirve para\\nmachacar rocas.",
     },
 
     [MOVE_WHIRLPOOL] = {
@@ -6775,7 +6775,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LATE_BOOST,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Tromba de agua que\\natrapa y daña de cuatro\\na cinco turnos.\\n",
+        .description = "Atrapa al rival en un\\ntorbellino que dura\\nde dos a cinco turnos.\\nSe puede usar para\\ncruzar remolinos.",
     },
 
     [MOVE_BEAT_UP] = {
@@ -6802,7 +6802,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_SMART,
         },
-        .description = "Ataque de todo el\\nequipo. Cuantos más\\nhaya, más veces ataca.\\n",
+        .description = "Ataque de todo el\\nequipo Pokémon.\\nCuantos más haya,\\nmás veces ataca.",
     },
 
     [MOVE_FAKE_OUT] = {
@@ -6829,7 +6829,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Amedrenta con prioridad\\nalta solo al entrar en\\ncombate.\\n",
+        .description = "Ataca primero y,\\nademás, hace\\nretroceder al rival.\\nSolo sirve en el\\nprimer turno.",
     },
 
     [MOVE_UPROAR] = {
@@ -6856,7 +6856,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOWER_VOLTAGES,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Ataca alborotado\\ndurante tres turnos y\\nmantiene despiertos.\\n",
+        .description = "Ataca de forma\\nalborotada de dos\\na cinco turnos.\\nMantiene despiertos\\na todos.",
     },
 
     [MOVE_STOCKPILE] = {
@@ -6883,7 +6883,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Acumula energía hasta\\ntres veces y sube la\\nDefensa y la Defensa\\nEspecial.\\n",
+        .description = "Acumula energía y\\nsube la Defensa y\\nla Defensa Especial.\\nPuede utilizarse hasta\\ntres veces.",
     },
 
     [MOVE_SPIT_UP] = {
@@ -6910,7 +6910,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Libera la energía de\\nReserva. La potencia\\ndepende de la acumulada.\\n",
+        .description = "Libera de una vez la\\nenergía acumulada\\ncon Reserva.",
     },
 
     [MOVE_SWALLOW] = {
@@ -6937,7 +6937,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Absorbe la energía de\\nReserva para recobrar\\nsalud.\\n",
+        .description = "Absorbe la energía\\nacumulada con\\nReserva y\\nrestaura PS.",
     },
 
     [MOVE_HEAT_WAVE] = {
@@ -6964,7 +6964,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Viento abrasador que\\ndaña y puede causar\\nquemaduras.\\n",
+        .description = "Provoca un viento\\nabrasador que puede\\nquemar al rival.",
     },
 
     [MOVE_HAIL] = {
@@ -6991,7 +6991,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Granizo que dura 5\\nturnos e hiere salvo a\\nlos de tipo Hielo.\\n",
+        .description = "Tormenta de granizo\\nque dura cinco\\nturnos. Hiere a\\ntodos, excepto a\\nlos de tipo Hielo.",
     },
 
     [MOVE_TORMENT] = {
@@ -7018,7 +7018,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Atormenta al rival, que\\nno puede repetir\\nmovimiento seguido.\\n",
+        .description = "Atormenta y enfurece\\nal rival, que no puede\\nusar dos veces\\nseguidas el mismo\\nmovimiento.",
     },
 
     [MOVE_FLATTER] = {
@@ -7045,7 +7045,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "Halaga y confunde al\\nrival, pero sube su\\nAtaque Especial.\\n",
+        .description = "Halaga al enemigo y\\nlo confunde, pero\\ntambién sube su\\nAtaque Especial.",
     },
 
     [MOVE_WILL_O_WISP] = {
@@ -7072,7 +7072,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Siniestras llamas\\nmoradas que producen\\nquemaduras.\\n",
+        .description = "Llama siniestra\\nmorada que produce\\nquemaduras.",
     },
 
     [MOVE_MEMENTO] = {
@@ -7099,14 +7099,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_ALL_SAME_JUDGE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "El usuario se debilita y\\nreduce mucho el Ataque\\ny el Ataque Especial\\ndel rival.\\n",
+        .description = "El usuario se debilita,\\npero baja mucho el\\nAtaque y el Ataque\\nEspecial del\\ncontrincante.",
     },
 
     [MOVE_FACADE] = {
         .names = {
-            .name = "Fachada",
-            .capsName = "FACHADA",
-            .fullName = "Fachada",
+            .name = "Imagen",
+            .capsName = "IMAGEN",
+            .fullName = "Imagen",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_POWER_WHEN_STATUSED,
@@ -7126,7 +7126,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Duplica su potencia si\\nel usuario está\\nquemado, paralizado o\\nenvenenado.\\n",
+        .description = "Ataca con el doble de\\npotencia si el usuario\\nestá quemado,\\nparalizado o\\nenvenenado.",
     },
 
     [MOVE_FOCUS_PUNCH] = {
@@ -7153,7 +7153,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_UNIQUE_JUDGE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Se concentra para dar un\\npuñetazo. Falla si\\nrecibe un golpe.\\n",
+        .description = "Se concentra para\\ndar un puñetazo.\\nFalla si se sufre\\nun golpe antes de\\nsu uso.",
     },
 
     [MOVE_SMELLING_SALTS] = {
@@ -7180,7 +7180,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_SMART,
         },
-        .description = "Hace el doble de daño a\\nun rival paralizado,\\npero le cura.\\n",
+        .description = "Hace doble daño a\\nrivales paralizados,\\npero también cura\\nla parálisis.",
     },
 
     [MOVE_FOLLOW_ME] = {
@@ -7207,7 +7207,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_RANDOMIZE_NEXT_TURN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Llama la atención y\\ncentra en sí todos los\\nmovimientos rivales.\\n",
+        .description = "Llama la atención\\npara concentrar\\nlos ataques de todos\\nlos enemigos.",
     },
 
     [MOVE_NATURE_POWER] = {
@@ -7234,7 +7234,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_RANDOMIZE_NEXT_TURN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Usa el poder de la\\nnaturaleza. Su efecto\\nvaría con el entorno.\\n",
+        .description = "Usa el poder de la\\nnaturaleza. Su efecto\\nvaría según el sitio.",
     },
 
     [MOVE_CHARGE] = {
@@ -7261,7 +7261,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_SMART,
         },
-        .description = "Recarga energía para\\npotenciar su siguiente\\nmovimiento eléctrico.\\n",
+        .description = "Recarga energía\\npara potenciar el\\nsiguiente movimiento\\nEléctrico. También\\nsube la Def. Esp.",
     },
 
     [MOVE_TAUNT] = {
@@ -7288,7 +7288,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_SMART,
         },
-        .description = "Enfurece al rival para\\nque solo ataque durante\\ntres turnos.\\n",
+        .description = "Enfurece al rival\\npara que solo\\nuse movimientos\\nde ataque de dos\\na cuatro turnos.",
     },
 
     [MOVE_HELPING_HAND] = {
@@ -7315,7 +7315,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Ayuda a un aliado\\nreforzando la potencia\\nde su ataque.\\n",
+        .description = "Refuerza los ataques\\nde un aliado en un\\ncombate doble.",
     },
 
     [MOVE_TRICK] = {
@@ -7342,7 +7342,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_STEAL_VOLTAGE,
             .contestType = CONTEST_SMART,
         },
-        .description = "Engaña al rival\\ndesprevenido e\\nintercambia su objeto.\\n",
+        .description = "Engaña al rival\\ndesprevenido\\ne intercambia\\nobjetos.",
     },
 
     [MOVE_ROLE_PLAY] = {
@@ -7369,14 +7369,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_PITY_HEARTS,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Imita al objetivo por\\ncompleto y copia su\\nhabilidad.\\n",
+        .description = "Imita al rival por\\ncompleto y copia\\nsu habilidad.",
     },
 
     [MOVE_WISH] = {
         .names = {
             .name = "Deseo",
             .capsName = "DESEO",
-            .fullName = "Deseo",
+            .fullName = "pidió un Deseo",
         },
         .data = {
             .effect = MOVE_EFFECT_HEAL_IN_3_TURNS,
@@ -7396,7 +7396,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Restaura PS en el\\nsiguiente turno, suyos\\no de su relevo.\\n",
+        .description = "Cumple el deseo de\\nrestaurar hasta la\\nmitad de los PS\\nmáximos en el\\nsiguiente turno.",
     },
 
     [MOVE_ASSIST] = {
@@ -7423,7 +7423,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_RANDOMIZE_NEXT_TURN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Usa un movimiento de un\\nmiembro del equipo\\nelegido al azar.\\n",
+        .description = "Usa un movimiento de\\nun miembro del equipo\\nelegido al azar.",
     },
 
     [MOVE_INGRAIN] = {
@@ -7450,7 +7450,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LATE_BOOST,
             .contestType = CONTEST_SMART,
         },
-        .description = "Echa raíces para\\nrecuperar PS, pero no\\npuede huir ni ser\\ncambiado.\\n",
+        .description = "Echa raíces para\\nrecuperar PS en\\ncada turno, pero\\nimpide el relevo.",
     },
 
     [MOVE_SUPERPOWER] = {
@@ -7477,7 +7477,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Ataque de gran potencia\\nque reduce el Ataque y\\nla Defensa del usuario.\\n",
+        .description = "Ataque de gran\\npotencia, pero que\\nreduce el Ataque y la\\nDefensa del agresor.",
     },
 
     [MOVE_MAGIC_COAT] = {
@@ -7504,7 +7504,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Barrera que devuelve al\\nagresor movimientos\\ncomo Drenadoras.\\n",
+        .description = "Barrera capaz de\\ndevolver al agresor\\nmovimientos como\\nDrenadoras y que\\nalteran el estado.",
     },
 
     [MOVE_RECYCLE] = {
@@ -7531,7 +7531,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_STEAL_VOLTAGE,
             .contestType = CONTEST_SMART,
         },
-        .description = "Recicla y recupera un\\nobjeto equipado de un\\nsolo uso ya empleado.\\n",
+        .description = "Los objetos equipados\\nque sean de un solo\\nuso serán reciclados\\ntras ser empleados\\nen combate.",
     },
 
     [MOVE_REVENGE] = {
@@ -7558,7 +7558,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Causa el doble de daño\\nsi el usuario resulta\\nherido en el turno.\\n",
+        .description = "Ataque que produce\\ndoble daño si el\\nenemigo te hiere en\\nel mismo turno.",
     },
 
     [MOVE_BRICK_BREAK] = {
@@ -7585,7 +7585,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Golpe con el filo de la\\nmano capaz de destruir\\nPantalla de Luz y\\nReflejo.\\n",
+        .description = "Potente ataque que\\ntambién es capaz de\\ndestruir barreras\\ncomo Pantalla Luz\\ny Reflejo.",
     },
 
     [MOVE_YAWN] = {
@@ -7612,7 +7612,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Gran bostezo que induce\\nel sueño en el\\nsiguiente turno.\\n",
+        .description = "Gran bostezo que\\ninduce al sueño al\\nrival en el siguiente\\nturno.",
     },
 
     [MOVE_KNOCK_OFF] = {
@@ -7639,7 +7639,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_SMART,
         },
-        .description = "Hace que el rival suelte\\nsu objeto e impide\\nusarlo. Daña más si\\nlleva uno.\\n",
+        .description = "Impide al rival usar\\nel objeto que lleva\\ndurante el combate.",
     },
 
     [MOVE_ENDEAVOR] = {
@@ -7666,7 +7666,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Reduce los PS del rival\\npara que igualen a los\\ndel usuario.\\n",
+        .description = "Reduce los PS del\\nrival para que igualen\\na los del atacante.",
     },
 
     [MOVE_ERUPTION] = {
@@ -7693,7 +7693,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Furia explosiva.\\nCuantos menos PS tenga\\nel usuario, menos\\npotencia.\\n",
+        .description = "Furia explosiva.\\nCuanto menor sea\\nel número de PS del\\nusuario, menos daño\\nhará el ataque.",
     },
 
     [MOVE_SKILL_SWAP] = {
@@ -7720,14 +7720,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_STEAL_VOLTAGE,
             .contestType = CONTEST_SMART,
         },
-        .description = "Intercambia habilidades\\ncon el objetivo usando\\nsu poder psíquico.\\n",
+        .description = "Usa el poder psíquico\\npara intercambiar\\nhabilidades con el\\nenemigo.",
     },
 
     [MOVE_IMPRISON] = {
         .names = {
-            .name = "Sellar",
-            .capsName = "SELLAR",
-            .fullName = "Sellar",
+            .name = "Cerca",
+            .capsName = "CERCA",
+            .fullName = "Cerca",
         },
         .data = {
             .effect = MOVE_EFFECT_MAKE_SHARED_MOVES_UNUSEABLE,
@@ -7747,7 +7747,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Impide a los rivales\\nusar movimientos que\\nconoce el usuario.\\n",
+        .description = "Impide al rival usar\\nataques conocidos\\npor el usuario.",
     },
 
     [MOVE_REFRESH] = {
@@ -7774,7 +7774,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Descansa para curar\\nparálisis,\\nenvenenamiento o\\nquemaduras.\\n",
+        .description = "Descansa para\\ncurar parálisis,\\nenvenenamientos\\ny quemaduras.",
     },
 
     [MOVE_GRUDGE] = {
@@ -7801,7 +7801,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOWER_VOLTAGES,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Si el usuario se\\ndebilita, se eliminan\\ntodos los PP de ese\\nataque.\\n",
+        .description = "Si el usuario se\\ndebilita, elimina todos\\nlos PP del último\\nataque del rival.",
     },
 
     [MOVE_SNATCH] = {
@@ -7828,7 +7828,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_STEAL_VOLTAGE,
             .contestType = CONTEST_SMART,
         },
-        .description = "Roba el efecto de los\\nmovimientos de curación\\no de cambio de\\ncaracterísticas.\\n",
+        .description = "Roba el efecto de\\nmovimientos de\\ncuración o de cambio\\nde características\\nque el rival use.",
     },
 
     [MOVE_SECRET_POWER] = {
@@ -7855,7 +7855,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_RANDOMIZE_NEXT_TURN,
             .contestType = CONTEST_SMART,
         },
-        .description = "Sus efectos secundarios\\nvarían según el entorno\\nde combate.\\n",
+        .description = "Ataque con poder\\nsecreto cuyos\\nefectos varían según\\nla zona.",
     },
 
     [MOVE_DIVE] = {
@@ -7882,7 +7882,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_UNIQUE_JUDGE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Se sumerge en el primer\\nturno y ataca en el\\nsegundo.\\n",
+        .description = "Primer turno: bucea.\\nSegundo turno:\\ngolpea.",
     },
 
     [MOVE_ARM_THRUST] = {
@@ -7909,7 +7909,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Golpea con la palma de\\ndos a cinco veces\\nseguidas.\\n",
+        .description = "Empujones directos\\nque golpean de dos a\\ncinco veces seguidas.",
     },
 
     [MOVE_CAMOUFLAGE] = {
@@ -7936,14 +7936,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_SMART,
         },
-        .description = "Modifica su tipo según\\nel terreno de combate.\\n",
+        .description = "Modifica el tipo del\\nPokémon según la\\nzona donde esté.",
     },
 
     [MOVE_TAIL_GLOW] = {
         .names = {
-            .name = "Luminicola",
-            .capsName = "LUMINICOLA",
-            .fullName = "Luminicola",
+            .name = "Ráfaga",
+            .capsName = "RÁFAGA",
+            .fullName = "Ráfaga",
         },
         .data = {
             .effect = MOVE_EFFECT_SP_ATK_UP_3,
@@ -7963,7 +7963,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Se concentra mirando la\\nluz y aumenta muchísimo\\nsu Ataque Especial.\\n",
+        .description = "Se concentra en\\nuna ráfaga de luz\\nque sube muchísimo\\nel Ataque Especial.",
     },
 
     [MOVE_LUSTER_PURGE] = {
@@ -7990,7 +7990,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Fogonazo de luz que\\npuede reducir la\\nDefensa Especial.\\n",
+        .description = "Fogonazo de luz que\\npuede bajar la\\nDefensa Especial.",
     },
 
     [MOVE_MIST_BALL] = {
@@ -8017,7 +8017,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Bola de plumas\\nneblinosas que puede\\nbajar el Ataque\\nEspecial.\\n",
+        .description = "Banco de niebla que\\npuede bajar el\\nAtaque Especial.",
     },
 
     [MOVE_FEATHER_DANCE] = {
@@ -8044,7 +8044,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Envuelve al rival con un\\nmanto de plumas y baja\\nmucho su Ataque.\\n",
+        .description = "Envuelve al rival\\ncon plumón para\\nreducir mucho\\nsu Ataque.",
     },
 
     [MOVE_TEETER_DANCE] = {
@@ -8071,7 +8071,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_RANDOMIZE_NEXT_TURN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Danza histérica que\\nconfunde a los Pokémon\\nadyacentes.\\n",
+        .description = "Danza histérica que\\nconfunde al resto\\nde Pokémon que\\nhay en escena.",
     },
 
     [MOVE_BLAZE_KICK] = {
@@ -8098,14 +8098,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Patada que suele ser\\ncrítica y puede causar\\nquemaduras.\\n",
+        .description = "Patada que suele\\nser un golpe crítico\\ny puede causar\\nquemaduras.",
     },
 
     [MOVE_MUD_SPORT] = {
         .names = {
-            .name = "Chap. Lodo",
-            .capsName = "CHAP. LODO",
-            .fullName = "Chapoteo Lodo",
+            .name = "Chapoteolodo",
+            .capsName = "CHAPOTEOLODO",
+            .fullName = "Chapoteolodo",
         },
         .data = {
             .effect = MOVE_EFFECT_HALVE_ELECTRIC_DAMAGE,
@@ -8125,7 +8125,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Esparce lodo y debilita\\nlos movimientos\\neléctricos durante 5\\nturnos.\\n",
+        .description = "El usuario se cubre\\nde lodo y debilita los\\nmovimientos eléctricos\\nmientras está\\nen combate.",
     },
 
     [MOVE_ICE_BALL] = {
@@ -8152,7 +8152,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Rueda contra el rival\\ndurante 5 turnos, cada\\nvez con más fuerza.\\n",
+        .description = "Embiste al rival\\ndurante cinco turnos\\ny gana fuerza\\nen cada uno.",
     },
 
     [MOVE_NEEDLE_ARM] = {
@@ -8179,7 +8179,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_SMART,
         },
-        .description = "Pega con brazos de\\npinchos y puede hacer\\nretroceder al rival.\\n",
+        .description = "Pega con brazos de\\npinchos y puede\\nhacer retroceder\\nal enemigo.",
     },
 
     [MOVE_SLACK_OFF] = {
@@ -8206,7 +8206,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Se relaja y restaura la\\nmitad de sus PS\\nmáximos.\\n",
+        .description = "El usuario se relaja\\ny restaura la mitad\\nde sus PS máximos.",
     },
 
     [MOVE_HYPER_VOICE] = {
@@ -8233,14 +8233,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Grito desgarrador que\\ninflige daño al\\nobjetivo.\\n",
+        .description = "Grito desgarrador que\\ninflige daño al rival.",
     },
 
     [MOVE_POISON_FANG] = {
         .names = {
-            .name = "Colm.Veneno",
-            .capsName = "COLM.VENENO",
-            .fullName = "Colmillo Veneno",
+            .name = "Colmillo Ven",
+            .capsName = "COLMILLO VEN",
+            .fullName = "Colmillo Ven",
         },
         .data = {
             .effect = MOVE_EFFECT_BADLY_POISON_HIT,
@@ -8260,7 +8260,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Mordedura con colmillos\\nvenenosos que puede\\nenvenenar gravemente.\\n",
+        .description = "Colmillos tóxicos que\\npueden envenenar\\ngravemente al rival.",
     },
 
     [MOVE_CRUSH_CLAW] = {
@@ -8287,7 +8287,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Hace trizas con garras\\nafiladas y puede\\nreducir la Defensa.\\n",
+        .description = "Hace trizas al\\nenemigo con garras\\nafiladas y puede\\nbajar la Defensa.",
     },
 
     [MOVE_BLAST_BURN] = {
@@ -8314,7 +8314,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Calcina con una\\nexplosión de fuego.\\nEl usuario debe\\ndescansar después.\\n",
+        .description = "Explosión de fuego.\\nEl atacante debe\\ndescansar el\\nsiguiente turno.",
     },
 
     [MOVE_HYDRO_CANNON] = {
@@ -8341,7 +8341,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Cañonazo de agua.\\nEl usuario debe\\ndescansar en el turno\\nsiguiente.\\n",
+        .description = "Disparo de agua.\\nEl atacante debe\\ndescansar el\\nsiguiente turno.",
     },
 
     [MOVE_METEOR_MASH] = {
@@ -8368,7 +8368,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Puñetazo que impacta\\ncomo un meteoro y puede\\nsubir el Ataque.\\n",
+        .description = "Puñetazo que impacta\\ncomo un meteorito y\\nsuele subir el Ataque\\ndel agresor.",
     },
 
     [MOVE_ASTONISH] = {
@@ -8395,7 +8395,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_SMART,
         },
-        .description = "Asusta al objetivo y le\\ngolpea. Puede\\namedrentarlo.\\n",
+        .description = "Impresiona tanto\\nque puede hacer\\nretroceder al rival.",
     },
 
     [MOVE_WEATHER_BALL] = {
@@ -8422,7 +8422,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "El tipo y la potencia\\nvarían según el tiempo\\nque haga.\\n",
+        .description = "El tipo y fuerza del\\nataque varían según\\nel tiempo que haga.",
     },
 
     [MOVE_AROMATHERAPY] = {
@@ -8449,7 +8449,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_SMART,
         },
-        .description = "Cura todos los\\nproblemas de estado del\\nequipo con un suave\\naroma.\\n",
+        .description = "Cura todos los\\nproblemas de\\nestado del equipo\\ncon un suave aroma.",
     },
 
     [MOVE_FAKE_TEARS] = {
@@ -8476,7 +8476,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "Lágrimas de cocodrilo\\nque reducen mucho la\\nDefensa Especial.\\n",
+        .description = "Lágrimas de cocodrilo\\nque bajan mucho la\\nDefensa Especial\\ndel enemigo.",
     },
 
     [MOVE_AIR_CUTTER] = {
@@ -8503,7 +8503,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Viento cortante que\\nazota. Suele asestar un\\ngolpe crítico.\\n",
+        .description = "Viento cortante que\\nazota. Suele ser\\nun golpe crítico.",
     },
 
     [MOVE_OVERHEAT] = {
@@ -8530,7 +8530,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Ataca con toda su\\nfuerza, pero reduce\\nmucho su Ataque\\nEspecial.\\n",
+        .description = "Ataque en toda regla\\nque baja mucho el\\nAtaque Especial\\ndel agresor.",
     },
 
     [MOVE_ODOR_SLEUTH] = {
@@ -8557,7 +8557,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Permite golpear a\\nPokémon de tipo\\nFantasma y a los\\nevasivos.\\n",
+        .description = "Permite atacar con\\ncualquier movimiento\\na rivales de tipo\\nFantasma y golpear a\\nPokémon evasivos.",
     },
 
     [MOVE_ROCK_TOMB] = {
@@ -8584,7 +8584,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_NEXT_TURN,
             .contestType = CONTEST_SMART,
         },
-        .description = "Lanza rocas que dañan y\\nreducen la Velocidad\\ndel objetivo.\\n",
+        .description = "Tira rocas que\\ndetienen al rival y\\nbajan su Velocidad.",
     },
 
     [MOVE_SILVER_WIND] = {
@@ -8611,7 +8611,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Viento con polvo de\\nescamas que puede subir\\ntodas las\\ncaracterísticas.\\n",
+        .description = "Fuerte viento con\\npolvo de escamas.\\nPuede subir todas\\nlas características\\ndel atacante.",
     },
 
     [MOVE_METAL_SOUND] = {
@@ -8638,7 +8638,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOWER_VOLTAGES,
             .contestType = CONTEST_SMART,
         },
-        .description = "Chirrido metálico que\\nreduce mucho la\\nDefensa Especial.\\n",
+        .description = "Horrible chirrido\\nmetálico que baja\\nmucho la Defensa\\nEspecial.",
     },
 
     [MOVE_GRASS_WHISTLE] = {
@@ -8665,7 +8665,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "Agradable melodía que\\nadormece al objetivo.\\n",
+        .description = "Agradable melodía que\\nadormece al rival.",
     },
 
     [MOVE_TICKLE] = {
@@ -8692,7 +8692,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Hace reír al rival para\\nreducir su Ataque y su\\nDefensa.\\n",
+        .description = "Hace reír para bajar\\nel Ataque y la\\nDefensa.",
     },
 
     [MOVE_COSMIC_POWER] = {
@@ -8719,7 +8719,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Energía mística del\\nespacio que sube la\\nDefensa y la Defensa\\nEspecial.\\n",
+        .description = "Sube la Defensa y la\\nDefensa Especial\\npropias con energía\\nmística.",
     },
 
     [MOVE_WATER_SPOUT] = {
@@ -8746,14 +8746,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Chorro de agua.\\nCuantos menos PS tenga\\nel usuario, menos\\npotencia.\\n",
+        .description = "Chorro de agua.\\nCuantos menos PS\\ntenga el usuario,\\nmenos dañino será.",
     },
 
     [MOVE_SIGNAL_BEAM] = {
         .names = {
-            .name = "Rayo Señal",
-            .capsName = "RAYO SEÑAL",
-            .fullName = "Rayo Señal",
+            .name = "Doble Rayo",
+            .capsName = "DOBLE RAYO",
+            .fullName = "Doble Rayo",
         },
         .data = {
             .effect = MOVE_EFFECT_CONFUSE_HIT,
@@ -8773,7 +8773,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Rayo de luz siniestro\\nque puede confundir al\\nobjetivo.\\n",
+        .description = "Rayo siniestro de\\nluz. Puede causar\\nconfusión.",
     },
 
     [MOVE_SHADOW_PUNCH] = {
@@ -8800,7 +8800,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Puñetazo procedente de\\nlas sombras que no\\nfalla nunca.\\n",
+        .description = "Puñetazo ineludible\\nprocedente de las\\nsombras.",
     },
 
     [MOVE_EXTRASENSORY] = {
@@ -8827,7 +8827,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Emite una energía muy\\nextraña que puede\\namedrentar al rival.\\n",
+        .description = "Energía muy extraña\\nque puede hacer\\nretroceder al\\nenemigo.",
     },
 
     [MOVE_SKY_UPPERCUT] = {
@@ -8854,7 +8854,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Gancho ascendente de\\ngran ímpetu.\\n",
+        .description = "Gancho ascendente\\nde gran ímpetu.",
     },
 
     [MOVE_SAND_TOMB] = {
@@ -8881,7 +8881,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LATE_BOOST,
             .contestType = CONTEST_SMART,
         },
-        .description = "Envuelve al rival en un\\nremolino de arena que\\ndaña de cuatro a cinco\\nturnos.\\n",
+        .description = "Enreda en un remolino\\nde arena de dos a\\ncinco turnos.",
     },
 
     [MOVE_SHEER_COLD] = {
@@ -8908,7 +8908,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_ALL_SAME_JUDGE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Fulmina de un solo\\ngolpe. Si el usuario no\\nes de tipo Hielo, es\\ndifícil que acierte.\\n",
+        .description = "Ataque de frío polar\\nque debilita al rival\\nsi le alcanza.",
     },
 
     [MOVE_MUDDY_WATER] = {
@@ -8935,14 +8935,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Agua lodosa que puede\\nreducir la Precisión\\ndel objetivo.\\n",
+        .description = "Ataque con agua\\nlodosa que puede\\nbajar la precisión.",
     },
 
     [MOVE_BULLET_SEED] = {
         .names = {
-            .name = "Semilladora",
-            .capsName = "SEMILLADORA",
-            .fullName = "Semilladora",
+            .name = "Recurrente",
+            .capsName = "RECURRENTE",
+            .fullName = "Recurrente",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -8962,7 +8962,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Dispara rápidas ráfagas\\nde semillas de dos a\\ncinco veces.\\n",
+        .description = "Dispara rápido de dos\\na cinco ráfagas de\\nsemillas de manera\\nconsecutiva.",
     },
 
     [MOVE_AERIAL_ACE] = {
@@ -8989,7 +8989,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Movimientos rápidos que\\ndesconciertan. No falla\\nnunca.\\n",
+        .description = "El usuario lanza un\\nataque muy rápido\\ne ineludible.",
     },
 
     [MOVE_ICICLE_SPEAR] = {
@@ -9016,14 +9016,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Lanza carámbanos\\nafilados de dos a cinco\\nveces seguidas.\\n",
+        .description = "Ataca lanzando de\\ndos a cinco ráfagas\\nconsecutivas\\nde carámbanos.",
     },
 
     [MOVE_IRON_DEFENSE] = {
         .names = {
             .name = "Def. Férrea",
             .capsName = "DEF. FÉRREA",
-            .fullName = "Defensa Férrea",
+            .fullName = "Def. Férrea",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_UP_2,
@@ -9043,7 +9043,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Fortalece su cuerpo como\\nsi fuera de hierro y\\nsube mucho la Defensa.\\n",
+        .description = "Fortalece el cuerpo\\ncomo si fuera hierro\\ny sube mucho la\\nDefensa.",
     },
 
     [MOVE_BLOCK] = {
@@ -9070,7 +9070,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Le corta el paso al\\nrival para que no pueda\\nhuir ni ser cambiado.\\n",
+        .description = "Le corta el paso\\nal rival con los\\nbrazos para que\\nno pueda escapar.",
     },
 
     [MOVE_HOWL] = {
@@ -9097,7 +9097,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Aullido que sube el\\nánimo y aumenta el\\nAtaque.\\n",
+        .description = "Aullido que sube el\\nánimo y aumenta\\nel Ataque.",
     },
 
     [MOVE_DRAGON_CLAW] = {
@@ -9124,7 +9124,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Araña al objetivo con\\nunas enormes garras\\nafiladas.\\n",
+        .description = "Araña al rival con\\ngarras afiladas.",
     },
 
     [MOVE_FRENZY_PLANT] = {
@@ -9151,7 +9151,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Golpea con una enorme\\nplanta. El usuario debe\\ndescansar después.\\n",
+        .description = "Golpea con una enorme\\nplanta. El atacante\\nno puede moverse en\\nel siguiente turno.",
     },
 
     [MOVE_BULK_UP] = {
@@ -9178,7 +9178,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Robustece el cuerpo\\npara aumentar el Ataque\\ny la Defensa.\\n",
+        .description = "Robustece el cuerpo\\npara subir el Ataque\\ny la Defensa.",
     },
 
     [MOVE_BOUNCE] = {
@@ -9205,14 +9205,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_UNIQUE_JUDGE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Bota en el primer turno\\ny golpea en el segundo.\\nPuede paralizar.\\n",
+        .description = "Primer turno: bota.\\nSegundo turno:\\ngolpea.\\nPuede paralizar.",
     },
 
     [MOVE_MUD_SHOT] = {
         .names = {
-            .name = "Disparo Lodo",
-            .capsName = "DISPARO LODO",
-            .fullName = "Disparo Lodo",
+            .name = "Disp. Lodo",
+            .capsName = "DISP. LODO",
+            .fullName = "Disp. Lodo",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SPEED_HIT,
@@ -9232,7 +9232,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_NEXT_TURN,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Lanza una bola de lodo\\nque también reduce la\\nVelocidad.\\n",
+        .description = "El usuario lanza lodo\\nal rival y reduce su\\nVelocidad.",
     },
 
     [MOVE_POISON_TAIL] = {
@@ -9259,7 +9259,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Golpe con la cola que\\npuede envenenar. Suele\\nser crítico.\\n",
+        .description = "Puede envenenar y\\ndar un golpe crítico.",
     },
 
     [MOVE_COVET] = {
@@ -9286,14 +9286,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_STEAL_VOLTAGE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Se acerca con ternura y\\nle roba el objeto al\\nrival.\\n",
+        .description = "Se acerca con\\nternura al rival,\\npero le ataca\\npudiendo robar\\nel objeto que lleve.",
     },
 
     [MOVE_VOLT_TACKLE] = {
         .names = {
-            .name = "Volt Placaje",
-            .capsName = "VOLT PLACAJE",
-            .fullName = "Placaje Eléctrico",
+            .name = "Placaje Eléc",
+            .capsName = "PLACAJE ELÉC",
+            .fullName = "Placaje Eléc",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOIL_PARALYZE_HIT,
@@ -9313,7 +9313,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Se electrifica y ataca,\\npero se hiere\\nseriamente. Puede\\nparalizar.\\n",
+        .description = "Placaje de alto riesgo\\nque hiere también\\nal atacante.",
     },
 
     [MOVE_MAGICAL_LEAF] = {
@@ -9340,7 +9340,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Extrañas hojas que\\npersiguen al objetivo.\\nNo falla nunca.\\n",
+        .description = "Esparce extrañas\\nhojas que persiguen\\nal enemigo. No\\nse puede esquivar.",
     },
 
     [MOVE_WATER_SPORT] = {
@@ -9367,7 +9367,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Se empapa de agua y\\ndebilita los\\nmovimientos de fuego\\ndurante 5 turnos.\\n",
+        .description = "El usuario se moja\\ny, mientras esté\\nen combate, los\\nmovimientos de tipo\\nFuego se debilitan.",
     },
 
     [MOVE_CALM_MIND] = {
@@ -9394,7 +9394,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_SMART,
         },
-        .description = "Mejora la concentración\\ny calma el espíritu para\\nsubir el Ataque y la\\nDefensa Especial.\\n",
+        .description = "Aumenta la\\nconcentración y\\ncalma el espíritu para\\nsubir el At. Especial y\\nla Def. Especial.",
     },
 
     [MOVE_LEAF_BLADE] = {
@@ -9421,7 +9421,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Acuchilla con una hoja\\nfina. Suele asestar un\\ngolpe crítico.\\n",
+        .description = "Acuchilla con una\\nhoja fina. Suele dar\\nun golpe crítico.",
     },
 
     [MOVE_DRAGON_DANCE] = {
@@ -9448,7 +9448,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Frenética danza mística\\nque aumenta el Ataque y\\nla Velocidad.\\n",
+        .description = "Danza mística que\\nsube el Ataque\\ny la Velocidad.",
     },
 
     [MOVE_ROCK_BLAST] = {
@@ -9475,7 +9475,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Lanza pedruscos de dos a\\ncinco veces seguidas.\\n",
+        .description = "Lanza pedruscos al\\nrival de dos a cinco\\nveces consecutivas.",
     },
 
     [MOVE_SHOCK_WAVE] = {
@@ -9502,7 +9502,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Ataque eléctrico muy\\nrápido que no falla\\nnunca.\\n",
+        .description = "Ataque eléctrico muy\\nrápido e ineludible.",
     },
 
     [MOVE_WATER_PULSE] = {
@@ -9529,7 +9529,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Potente onda de agua\\nque puede confundir al\\nobjetivo.\\n",
+        .description = "Potente chorro\\nde agua que puede\\nconfundir al rival.",
     },
 
     [MOVE_DOOM_DESIRE] = {
@@ -9556,7 +9556,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Ataca con incontables\\nhaces de luz dos turnos\\ndespués de usarlo.\\n",
+        .description = "Concentra un haz\\nde luz y ataca dos\\nturnos después.",
     },
 
     [MOVE_PSYCHO_BOOST] = {
@@ -9583,7 +9583,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Ataca con toda su\\nfuerza, pero reduce\\nmucho su Ataque\\nEspecial.\\n",
+        .description = "Es tremendamente\\npotente, pero baja\\nmucho el Ataque\\nEspecial del usuario.",
     },
 
     [MOVE_ROOST] = {
@@ -9610,7 +9610,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Aterriza para descansar\\ny restaura hasta la\\nmitad de sus PS\\nmáximos.\\n",
+        .description = "Aterriza sobre la\\nsuperficie para\\ndescansar.\\nRecupera como máximo\\nla mitad de los PS.",
     },
 
     [MOVE_GRAVITY] = {
@@ -9637,7 +9637,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Durante 5 turnos anula\\nlos vuelos y los de\\ntipo Tierra aciertan a\\nlos que levitan.\\n",
+        .description = "La gravedad aumenta\\ndurante cinco turnos,\\nlo que impide acciones\\nque impliquen volar\\no levitar.",
     },
 
     [MOVE_MIRACLE_EYE] = {
@@ -9664,7 +9664,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Permite golpear a\\nPokémon de tipo\\nSiniestro y a los\\nevasivos.\\n",
+        .description = "Permite atacar con \\ncualquier movimiento\\na rivales de tipo\\nSiniestro y golpear\\na Pokémon evasivos.",
     },
 
     [MOVE_WAKE_UP_SLAP] = {
@@ -9691,7 +9691,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_SMART,
         },
-        .description = "Gran daño a rivales\\ndormidos, aunque los\\nbofetones también los\\ndespiertan.\\n",
+        .description = "Inflige gran daño\\na rivales dormidos.\\nSin embargo, el\\nbofetón también\\nles despierta.",
     },
 
     [MOVE_HAMMER_ARM] = {
@@ -9718,7 +9718,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_NEXT_TURN,
             .contestType = CONTEST_COOL,
         },
-        .description = "Golpe devastador con el\\npuño que reduce la\\nVelocidad del usuario.\\n",
+        .description = "Gira con fuerza el\\npuño y da un gran\\ngolpe. No obstante,\\nbaja la Velocidad.",
     },
 
     [MOVE_GYRO_BALL] = {
@@ -9745,7 +9745,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Ataque giratorio.\\nCuanto menor sea la\\nVelocidad del usuario,\\nmás daño causa.\\n",
+        .description = "Embiste al rival con\\nun potente ataque\\ngiratorio. Cuanto más\\nlento es el usuario,\\nmás daño causa.",
     },
 
     [MOVE_HEALING_WISH] = {
@@ -9772,7 +9772,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "El usuario se debilita,\\npero cura y restaura\\nlos PS de su relevo.\\n",
+        .description = "El Pokémon cae\\ndebilitado, pero su\\nsustituto recupera\\nsu estado y los PS.",
     },
 
     [MOVE_BRINE] = {
@@ -9799,7 +9799,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Si al rival le quedan la\\nmitad o menos de sus\\nPS, duplica su\\npotencia.\\n",
+        .description = "Si al rival le queda\\nla mitad o menos\\nde sus PS, el ataque\\nserá el doble\\nde fuerte.",
     },
 
     [MOVE_NATURAL_GIFT] = {
@@ -9826,7 +9826,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "La baya que lleva\\npresta su fuerza. Tipo\\ny potencia dependen de\\nla baya.\\n",
+        .description = "La Baya que lleva\\npresta su fuerza para\\natacar. El tipo de\\nataque y su fuerza\\ndependen de la Baya.",
     },
 
     [MOVE_FEINT] = {
@@ -9853,7 +9853,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Golpea a quienes usan\\nProtección o Detección\\ny anula sus efectos.\\n",
+        .description = "Permite golpear a\\nenemigos que usan\\nProtección o\\nDetección y anula\\ndichos movimientos.",
     },
 
     [MOVE_PLUCK] = {
@@ -9880,7 +9880,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_STEAL_VOLTAGE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Picotea al rival y, si\\nlleva una baya, se la\\ncome y obtiene su\\nefecto.\\n",
+        .description = "Picotea al rival. Si\\neste sostiene una\\nBaya, la picotea\\ntambién y obtiene\\nsus efectos.",
     },
 
     [MOVE_TAILWIND] = {
@@ -9907,7 +9907,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_SMART,
         },
-        .description = "Remolino que aumenta la\\nVelocidad del bando\\ndurante cuatro turnos.\\n",
+        .description = "Crea un fuerte\\nremolino que aumenta\\nla Velocidad de los\\nPokémon de tu equipo\\ndurante tres turnos.",
     },
 
     [MOVE_ACUPRESSURE] = {
@@ -9934,14 +9934,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Presiona puntos clave\\ndel cuerpo y sube mucho\\nuna característica al\\nazar.\\n",
+        .description = "La presión en puntos\\nclave del cuerpo\\npotencia una de sus\\ncaracterísticas.",
     },
 
     [MOVE_METAL_BURST] = {
         .names = {
             .name = "Repr. Metal",
             .capsName = "REPR. METAL",
-            .fullName = "Represión Metal",
+            .fullName = "Repr. Metal",
         },
         .data = {
             .effect = MOVE_EFFECT_METAL_BURST,
@@ -9961,7 +9961,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Devuelve al rival el\\núltimo ataque recibido,\\npero con mucha más\\nfuerza.\\n",
+        .description = "Devuelve al enemigo\\nel último ataque\\nrecibido, pero con\\nmucha más fuerza.",
     },
 
     [MOVE_U_TURN] = {
@@ -9988,7 +9988,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Tras atacar, vuelve a\\ntoda prisa para dar\\npaso a otro Pokémon.\\n",
+        .description = "Tras atacar, vuelve a\\ntoda prisa para dar\\npaso a otro Pokémon\\ndel equipo.",
     },
 
     [MOVE_CLOSE_COMBAT] = {
@@ -10015,7 +10015,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Ataca sin protegerse, lo\\nque reduce la Defensa y\\nla Defensa Especial del\\nusuario.\\n",
+        .description = "Lucha abiertamente\\ncontra el rival sin\\ndefenderse. También\\nreduce la Defensa y la\\nDef. Esp. del usuario.",
     },
 
     [MOVE_PAYBACK] = {
@@ -10042,7 +10042,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_UNIQUE_JUDGE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Contraataca con el doble\\nde potencia si el rival\\nusa un movimiento\\nantes.\\n",
+        .description = "Si un Pokémon usa\\nun movimiento antes,\\ncontraataca con el\\ndoble de fuerza.",
     },
 
     [MOVE_ASSURANCE] = {
@@ -10069,7 +10069,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Si el rival ya ha sufrido\\ndaño ese turno, duplica\\nsu potencia.\\n",
+        .description = "Si el rival ya ha\\nsufrido daño en\\nese turno, la fuerza\\ndel ataque se duplica.",
     },
 
     [MOVE_EMBARGO] = {
@@ -10096,7 +10096,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Impide al rival usar su\\nobjeto durante 5 turnos.\\nTampoco se le pueden\\ndar objetos.\\n",
+        .description = "Impide al rival usar\\nel objeto que lleva.\\nSu Entrenador\\ntampoco puede usar\\nobjetos sobre él.",
     },
 
     [MOVE_FLING] = {
@@ -10123,14 +10123,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_PITY_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Lanza contra el rival el\\nobjeto que lleva. Su\\nefecto varía según el\\nobjeto.\\n",
+        .description = "Lanza contra el rival\\nel objeto que lleva.\\nLa fuerza del ataque\\ny su efecto varían\\nsegún el objeto.",
     },
 
     [MOVE_PSYCHO_SHIFT] = {
         .names = {
-            .name = "Psicocambio",
-            .capsName = "PSICOCAMBIO",
-            .fullName = "Psicocambio",
+            .name = "Psico-cambio",
+            .capsName = "PSICO-CAMBIO",
+            .fullName = "Psico-cambio",
         },
         .data = {
             .effect = MOVE_EFFECT_TRANSFER_STATUS,
@@ -10150,7 +10150,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_COOL,
         },
-        .description = "Usa su poder mental para\\ntransferir al rival sus\\nproblemas de estado.\\n",
+        .description = "Usa su poder mental\\npara transferir al\\nrival sus problemas\\nde estado.",
     },
 
     [MOVE_TRUMP_CARD] = {
@@ -10177,7 +10177,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LATE_BOOST,
             .contestType = CONTEST_COOL,
         },
-        .description = "Cuantos menos PP tenga\\nel movimiento, mayor\\nserá su fuerza.\\n",
+        .description = "Cuantos menos PP\\ntenga el movimiento,\\nmayor será la fuerza\\npara atacar.",
     },
 
     [MOVE_HEAL_BLOCK] = {
@@ -10204,7 +10204,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Impide al rival curar PS\\ncon movimientos,\\nhabilidades u objetos\\ndurante 5 turnos.\\n",
+        .description = "Impide al rival usar\\nmovimientos de cura\\ndurante cinco turnos.",
     },
 
     [MOVE_WRING_OUT] = {
@@ -10231,7 +10231,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Estruja con fuerza.\\nCuantos más PS tenga el\\nrival, más fuerza\\ntendrá el ataque.\\n",
+        .description = "Abraza fuerte al rival\\ny lo estruja. Cuantos\\nmás PS tenga el\\nrival, más fuerza\\ntendrá el ataque.",
     },
 
     [MOVE_POWER_TRICK] = {
@@ -10258,7 +10258,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_COOL,
         },
-        .description = "Emplea su poder mental\\npara intercambiar su\\nAtaque y su Defensa.\\n",
+        .description = "Usa sus poderes\\nmentales para\\nintercambiar su\\ncaracterística de\\nAtaque por Defensa.",
     },
 
     [MOVE_GASTRO_ACID] = {
@@ -10285,7 +10285,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Arroja jugos biliares\\nque anulan el efecto de\\nla habilidad del\\nobjetivo.\\n",
+        .description = "El usuario arroja\\nsus jugos biliares al\\nrival, lo que anula el\\nefecto de la\\nhabilidad en uso.",
     },
 
     [MOVE_LUCKY_CHANT] = {
@@ -10312,7 +10312,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Conjuro que protege a\\ntodo su equipo de los\\ngolpes críticos.\\n",
+        .description = "Lanza al cielo un\\nconjuro que impide\\nal rival asestar\\ngolpes críticos.",
     },
 
     [MOVE_ME_FIRST] = {
@@ -10339,7 +10339,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Se adelanta al\\nmovimiento del rival y lo\\nlanza antes con más\\nfuerza.\\n",
+        .description = "Trata de adelantarse\\nal movimiento que\\npretende usar el rival\\ny lo lanza primero\\ncon más fuerza.",
     },
 
     [MOVE_COPYCAT] = {
@@ -10366,14 +10366,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_STEAL_VOLTAGE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Imita el movimiento\\nusado justo antes.\\nFalla si no se ha usado\\nninguno.\\n",
+        .description = "Imita el movimiento\\nusado justo antes.\\nEl movimiento falla\\nsi no se ha usado\\naún ninguno.",
     },
 
     [MOVE_POWER_SWAP] = {
         .names = {
-            .name = "Cambiafuerza",
-            .capsName = "CAMBIAFUERZA",
-            .fullName = "Cambiafuerza",
+            .name = "Cambia Fue.",
+            .capsName = "CAMBIA FUE.",
+            .fullName = "Cambia Fue.",
         },
         .data = {
             .effect = MOVE_EFFECT_SWAP_ATK_SP_ATK_STAT_CHANGES,
@@ -10393,14 +10393,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Intercambia con el rival\\nlos cambios en el\\nAtaque y el Ataque\\nEspecial.\\n",
+        .description = "El usuario emplea\\nsu poder mental para\\nintercambiar cambios\\nen Ataque y Ataque\\nEspecial con el rival.",
     },
 
     [MOVE_GUARD_SWAP] = {
         .names = {
-            .name = "Camb.Defensa",
-            .capsName = "CAMB.DEFENSA",
-            .fullName = "Cambiadefensa",
+            .name = "Cambia Def.",
+            .capsName = "CAMBIA DEF.",
+            .fullName = "Cambia Def.",
         },
         .data = {
             .effect = MOVE_EFFECT_SWAP_DEF_SP_DEF_STAT_CHANGES,
@@ -10420,7 +10420,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Intercambia con el rival\\nlos cambios en la\\nDefensa y la Defensa\\nEspecial.\\n",
+        .description = "El usuario emplea\\nsu poder mental para\\nintercambiar cambios\\nen Defensa y Defensa\\nEspecial con el rival.",
     },
 
     [MOVE_PUNISHMENT] = {
@@ -10447,7 +10447,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_PITY_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Su fuerza aumenta cuanto\\nmás se ha fortalecido\\nel rival.\\n",
+        .description = "La fuerza del ataque\\naumenta cuanto más\\nse ha fortalecido el\\nrival con cambios de\\ncaracterísticas.",
     },
 
     [MOVE_LAST_RESORT] = {
@@ -10474,7 +10474,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LATE_BOOST,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Solo puede usarse tras\\nhaber usado al menos una\\nvez todos los demás\\nmovimientos.\\n",
+        .description = "Este movimiento solo\\npuede usarse tras\\nhaber usado todos\\nlos demás conocidos\\npor el Pokémon.",
     },
 
     [MOVE_WORRY_SEED] = {
@@ -10501,7 +10501,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Planta una semilla que\\nsustituye la habilidad\\ndel rival por Insomnio y\\nle impide dormir.\\n",
+        .description = "Se planta una semilla\\nen el rival que le\\ncausa pesar. Evita\\nel sueño gracias a\\nla habilidad Insomnio.",
     },
 
     [MOVE_SUCKER_PUNCH] = {
@@ -10528,7 +10528,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_SMART,
         },
-        .description = "Ataca con prioridad.\\nFalla si el rival no\\nprepara ningún ataque.\\n",
+        .description = "Permite atacar\\nprimero. Falla si el\\nrival no está\\npreparando\\nningún ataque.",
     },
 
     [MOVE_TOXIC_SPIKES] = {
@@ -10555,14 +10555,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_SMART,
         },
-        .description = "Trampa de púas tóxicas\\nque envenena a los\\nrivales que entran en\\ncombate.\\n",
+        .description = "Lanza una trampa de\\npúas tóxicas a los\\npies del rival. El\\nveneno afecta a los\\nPokémon que entran.",
     },
 
     [MOVE_HEART_SWAP] = {
         .names = {
-            .name = "Cambiaalmas",
-            .capsName = "CAMBIAALMAS",
-            .fullName = "Cambiaalmas",
+            .name = "Cambia Almas",
+            .capsName = "CAMBIA ALMAS",
+            .fullName = "Cambia Almas",
         },
         .data = {
             .effect = MOVE_EFFECT_SWAP_STAT_CHANGES,
@@ -10582,7 +10582,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LOW_VOLTAGE_BOOST,
             .contestType = CONTEST_COOL,
         },
-        .description = "Intercambia con el rival\\nlos cambios en las\\ncaracterísticas.\\n",
+        .description = "Usa la fuerza mental\\npara intercambiar\\ncon el rival los\\ncambios en las\\ncaracterísticas.",
     },
 
     [MOVE_AQUA_RING] = {
@@ -10609,7 +10609,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Se cubre con un manto de\\nagua y recupera algunos\\nPS en cada turno.\\n",
+        .description = "Un manto de agua\\ncubre al Pokémon\\nque lo usa. Recupera\\nalgunos PS en\\ncada turno.",
     },
 
     [MOVE_MAGNET_RISE] = {
@@ -10636,7 +10636,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Levita gracias a un\\ncampo magnético durante\\ncinco turnos.\\n",
+        .description = "Levita gracias a un\\ncampo magnético\\ngenerado por\\nelectricidad durante\\ncinco turnos.",
     },
 
     [MOVE_FLARE_BLITZ] = {
@@ -10663,7 +10663,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Se cubre de llamas y\\ncarga, aunque se hiere\\nseriamente. Puede\\nquemar.\\n",
+        .description = "El Pokémon se\\ncubre de llamas y\\ncarga contra el rival,\\naunque él también\\nrecibe daños.",
     },
 
     [MOVE_FORCE_PALM] = {
@@ -10690,7 +10690,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Ataca con una onda de\\nchoque y puede llegar a\\nparalizar al objetivo.\\n",
+        .description = "Ataca al rival con una\\nonda de choque y\\npuede llegar a\\nparalizarlo.",
     },
 
     [MOVE_AURA_SPHERE] = {
@@ -10717,7 +10717,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Libera una inmensa\\ndescarga de aura. No\\nfalla nunca.\\n",
+        .description = "Libera una descarga\\nde la fuerza del aura\\ndesde su interior.\\nEs infalible.",
     },
 
     [MOVE_ROCK_POLISH] = {
@@ -10744,7 +10744,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Pule su cuerpo para\\nreducir la resistencia\\nal aire y sube mucho la\\nVelocidad.\\n",
+        .description = "Reduce la resistencia\\npuliendo su cuerpo.\\nAumenta la Velocidad\\nconsiderablemente.",
     },
 
     [MOVE_POISON_JAB] = {
@@ -10771,7 +10771,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Pincha con un tentáculo\\no brazo envenenado.\\nPuede envenenar.\\n",
+        .description = "Pincha al rival con\\nun tentáculo o brazo\\nenvenenado. Puede\\nllegar a envenenar\\nal rival.",
     },
 
     [MOVE_DARK_PULSE] = {
@@ -10798,7 +10798,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Aura horrible llena de\\nmalos pensamientos que\\npuede amedrentar.\\n",
+        .description = "Libera una horrible\\naura llena de malos\\npensamientos y\\npuede hacer\\nretroceder al rival.",
     },
 
     [MOVE_NIGHT_SLASH] = {
@@ -10825,7 +10825,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Ataca al rival a la\\nprimera oportunidad.\\nSuele ser golpe\\ncrítico.\\n",
+        .description = "Ataca al rival a la\\nprimera oportunidad.\\nSuele ser crítico.",
     },
 
     [MOVE_AQUA_TAIL] = {
@@ -10852,7 +10852,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Ataca agitando la cola\\ncomo si fuera una ola\\nrabiosa.\\n",
+        .description = "Ataca agitando la\\ncola como si fuera\\nuna ola rabiosa en\\nuna fiera tormenta.",
     },
 
     [MOVE_SEED_BOMB] = {
@@ -10879,7 +10879,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_SMART,
         },
-        .description = "Lanza enormes semillas\\nde cáscara muy dura\\ndesde arriba.\\n",
+        .description = "Lanza al enemigo\\nuna descarga de\\nsemillas explosivas\\ndesde arriba.\\n",
     },
 
     [MOVE_AIR_SLASH] = {
@@ -10906,7 +10906,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Viento afilado que corta\\nel aire. Puede\\namedrentar al rival.\\n",
+        .description = "Ataca con una hoja\\nde aire que corta\\nhasta los cielos.\\nTambién puede hacer\\nretroceder al rival.",
     },
 
     [MOVE_X_SCISSOR] = {
@@ -10933,7 +10933,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Cruza las guadañas o\\ngarras para atacar como\\nunas tijeras.\\n",
+        .description = "Cruza las guadañas\\no las garras para\\natacar al rival\\ncomo si fueran\\nunas tijeras.",
     },
 
     [MOVE_BUG_BUZZ] = {
@@ -10960,7 +10960,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Onda sónica dañina que\\ntambién puede reducir la\\nDefensa Especial.\\n",
+        .description = "El movimiento de las\\nalas crea una onda\\nsónica dañina. Puede\\ntambién disminuir la\\nDef. Esp. del rival.",
     },
 
     [MOVE_DRAGON_PULSE] = {
@@ -10987,7 +10987,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Abre mucho la boca y\\nlibera una onda de\\nchoque contra el\\nobjetivo.\\n",
+        .description = "Abre mucho la boca\\ny libera una onda\\nde choque que\\nataca al rival.",
     },
 
     [MOVE_DRAGON_RUSH] = {
@@ -11014,7 +11014,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Ataca de forma brutal\\nmientras intimida.\\nPuede amedrentar.\\n",
+        .description = "Ataca de forma brutal\\nmientras intimida al\\nrival. También puede\\nhacerlo retroceder.",
     },
 
     [MOVE_POWER_GEM] = {
@@ -11041,7 +11041,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Rayo de luz que\\ncentellea como si lo\\nformaran miles de\\njoyas.\\n",
+        .description = "Ataca con un rayo\\nde luz que centellea\\ncomo si lo formaran\\nmiles de joyas.",
     },
 
     [MOVE_DRAIN_PUNCH] = {
@@ -11068,7 +11068,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_CHAIN_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Golpe que drena energía.\\nEl usuario recupera la\\nmitad de los PS\\narrebatados.\\n",
+        .description = "Un golpe que drena\\nenergía. El Pokémon\\nrecupera la mitad de\\nlos PS arrebatados\\nal rival.",
     },
 
     [MOVE_VACUUM_WAVE] = {
@@ -11095,7 +11095,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_SMART,
         },
-        .description = "Gira los puños y libera\\nuna onda de vacío.\\nTiene prioridad alta.\\n",
+        .description = "Gira los puños y\\nlibera una onda de\\nvacío contra el rival.\\nEste movimiento\\nsiempre va primero.",
     },
 
     [MOVE_FOCUS_BLAST] = {
@@ -11122,7 +11122,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Concentra su poder\\nmental y lo libera.\\nPuede bajar la Defensa\\nEspecial.\\n",
+        .description = "Agudiza la\\nconcentración mental\\ny libera su poder.\\nPuede disminuir la\\nDef. Esp. del rival.",
     },
 
     [MOVE_ENERGY_BALL] = {
@@ -11149,7 +11149,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Aúna fuerzas de la\\nnaturaleza. Puede\\nreducir la Defensa\\nEspecial.\\n",
+        .description = "Aúna fuerzas de la\\nnaturaleza y libera\\nsu ataque. Puede\\ndisminuir la Defensa\\nEspecial del rival.",
     },
 
     [MOVE_BRAVE_BIRD] = {
@@ -11176,7 +11176,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Pliega las alas y ataca\\nen vuelo rasante. El\\nusuario se hiere\\nseriamente.\\n",
+        .description = "Pliega sus alas y\\nataca con un vuelo\\nrasante. El Pokémon\\nque lo usa también\\nresulta dañado.",
     },
 
     [MOVE_EARTH_POWER] = {
@@ -11203,7 +11203,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "La tierra bajo el rival\\nerupciona. Puede\\nreducir su Defensa\\nEspecial.\\n",
+        .description = "La tierra a los pies\\ndel rival erupciona\\nviolentamente. Puede\\ndisminuir la Defensa\\nEspecial del rival.",
     },
 
     [MOVE_SWITCHEROO] = {
@@ -11230,14 +11230,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_STEAL_VOLTAGE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Intercambia los objetos\\ncon el rival tan rápido\\nque es imposible verlo.\\n",
+        .description = "Intercambia con el\\nrival los objetos que\\nllevan tan rápido\\nque es imposible\\nverlo a simple vista.",
     },
 
     [MOVE_GIGA_IMPACT] = {
         .names = {
-            .name = "Gigaimpacto",
-            .capsName = "GIGAIMPACTO",
-            .fullName = "Gigaimpacto",
+            .name = "Giga Impacto",
+            .capsName = "GIGA IMPACTO",
+            .fullName = "Giga Impacto",
         },
         .data = {
             .effect = MOVE_EFFECT_RECHARGE_AFTER,
@@ -11257,7 +11257,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Carga con toda su fuerza\\ny descansa en el turno\\nsiguiente.\\n",
+        .description = "Carga contra el rival\\nusando toda la\\nfuerza que tiene.\\nEl Pokémon descansa\\nel turno siguiente.",
     },
 
     [MOVE_NASTY_PLOT] = {
@@ -11284,7 +11284,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Estimula su cerebro\\npensando en cosas malas\\ny sube mucho el Ataque\\nEspecial.\\n",
+        .description = "Estimula su cerebro\\npensando en cosas\\nmalas. Aumenta\\nconsiderablemente\\nel Ataque Especial.",
     },
 
     [MOVE_BULLET_PUNCH] = {
@@ -11311,7 +11311,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_SMART,
         },
-        .description = "Puñetazos tan rápidos\\ncomo proyectiles.\\nTiene prioridad alta.\\n",
+        .description = "Ataca con un fuerte\\npuñetazo tan rápido\\ncomo un proyectil.\\nEste movimiento\\nsiempre va primero.",
     },
 
     [MOVE_AVALANCHE] = {
@@ -11338,14 +11338,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_COOL,
         },
-        .description = "Su potencia se duplica\\nsi el usuario ha sido\\ngolpeado ese mismo\\nturno.\\n",
+        .description = "Este ataque inflige el\\ndoble de daño a un\\nrival que haya\\ngolpeado al usuario\\nen ese mismo turno.",
     },
 
     [MOVE_ICE_SHARD] = {
         .names = {
             .name = "Canto Helado",
             .capsName = "CANTO HELADO",
-            .fullName = "Esquirla Helada",
+            .fullName = "Canto Helado",
         },
         .data = {
             .effect = MOVE_EFFECT_PRIORITY_1,
@@ -11365,7 +11365,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Esquirlas de hielo\\nlanzadas a gran\\nvelocidad. Tiene\\nprioridad alta.\\n",
+        .description = "Crea bolas de hielo\\ny las lanza a gran\\nvelocidad. Este\\nmovimiento siempre\\nva primero.",
     },
 
     [MOVE_SHADOW_CLAW] = {
@@ -11392,14 +11392,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Garra afilada hecha de\\nsombras. Suele ser\\ngolpe crítico.\\n",
+        .description = "Ataca con una garra\\nafilada hecha de\\nsombras.\\nSuele ser crítico.",
     },
 
     [MOVE_THUNDER_FANG] = {
         .names = {
             .name = "Colm. Rayo",
             .capsName = "COLM. RAYO",
-            .fullName = "Colmillo Rayo",
+            .fullName = "Colm. Rayo",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_PARALYZE_HIT,
@@ -11419,14 +11419,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_SMART,
         },
-        .description = "Muerde con colmillos\\nelectrificados y puede\\namedrentar o paralizar.\\n",
+        .description = "Usa colmillos\\nelectrificados para\\nmorder. Puede hacer\\nque el rival retroceda\\no se paralice.",
     },
 
     [MOVE_ICE_FANG] = {
         .names = {
             .name = "Colm. Hielo",
             .capsName = "COLM. HIELO",
-            .fullName = "Colmillo Hielo",
+            .fullName = "Colm. Hielo",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_FREEZE_HIT,
@@ -11446,14 +11446,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Muerde con colmillos\\nhelados y puede\\namedrentar o congelar.\\n",
+        .description = "Usa colmillos helados\\npara morder.\\nPuede hacer que el\\nrival retroceda o\\nse congele.",
     },
 
     [MOVE_FIRE_FANG] = {
         .names = {
             .name = "Colm. Ígneo",
             .capsName = "COLM. ÍGNEO",
-            .fullName = "Colmillo Ígneo",
+            .fullName = "Colm. Ígneo",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_BURN_HIT,
@@ -11473,7 +11473,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Muerde con colmillos en\\nllamas y puede\\namedrentar o quemar.\\n",
+        .description = "Usa colmillos en\\nllamas para morder.\\nPuede hacer que el\\nrival retroceda o\\nreciba quemaduras.",
     },
 
     [MOVE_SHADOW_SNEAK] = {
@@ -11500,7 +11500,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_SMART,
         },
-        .description = "Extiende su sombra y\\nataca por la espalda.\\nTiene prioridad alta.\\n",
+        .description = "Extiende su sombra\\ny ataca al rival por\\nla espalda.\\nEste movimiento\\nsiempre va primero.",
     },
 
     [MOVE_MUD_BOMB] = {
@@ -11527,14 +11527,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Lanza una compacta bola\\nde fango. Puede bajar\\nla Precisión.\\n",
+        .description = "Ataca lanzando una\\ncompacta bola de\\nfango. Puede bajar\\nla precisión del\\nobjetivo.",
     },
 
     [MOVE_PSYCHO_CUT] = {
         .names = {
-            .name = "Psicocorte",
-            .capsName = "PSICOCORTE",
-            .fullName = "Psicocorte",
+            .name = "Psico-corte",
+            .capsName = "PSICO-CORTE",
+            .fullName = "Psico-corte",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -11554,7 +11554,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Cuchillas de energía\\npsíquica. Suele asestar\\nun golpe crítico.\\n",
+        .description = "Ataca al rival con\\ncuchillas formadas\\npor energía psíquica.\\nSuele ser crítico.",
     },
 
     [MOVE_ZEN_HEADBUTT] = {
@@ -11581,14 +11581,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Concentra su energía\\npsíquica en la cabeza.\\nPuede amedrentar.\\n",
+        .description = "Concentra su energía\\npsíquica en la cabeza\\npara golpear.\\nPuede hacer que el\\nrival retroceda.",
     },
 
     [MOVE_MIRROR_SHOT] = {
         .names = {
             .name = "Disp. Espejo",
             .capsName = "DISP. ESPEJO",
-            .fullName = "Disparo Espejo",
+            .fullName = "Disp. Espejo",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_ACCURACY_HIT,
@@ -11608,14 +11608,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Haz de energía desde su\\npulido cuerpo. Puede\\nbajar la Precisión.\\n",
+        .description = "El usuario libera un\\nhaz de energía desde\\nsu bruñido cuerpo.\\nPuede bajar la\\nprecisión.",
     },
 
     [MOVE_FLASH_CANNON] = {
         .names = {
-            .name = "Cañ. Respl.",
-            .capsName = "CAÑ. RESPL.",
-            .fullName = "Cañón Resplandor",
+            .name = "Foco Respl.",
+            .capsName = "FOCO RESPL.",
+            .fullName = "Foco Respl.",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_HIT,
@@ -11635,7 +11635,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Concentra toda la luz de\\nsu cuerpo y la libera.\\nPuede bajar la Defensa\\nEspecial.\\n",
+        .description = "El usuario concentra\\ntoda la luz del cuerpo\\ny la libera. Puede\\nbajar la Defensa\\nEspecial del rival.",
     },
 
     [MOVE_ROCK_CLIMB] = {
@@ -11662,7 +11662,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Ataca con una gran\\nembestida. Puede\\nconfundir al rival.\\n",
+        .description = "Ataque de derribo\\nque puede confundir\\nal rival. También sirve\\npara trepar por\\nparedes escarpadas.",
     },
 
     [MOVE_DEFOG] = {
@@ -11689,7 +11689,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Viento que barre los\\nefectos de Reflejo o\\nPantalla de Luz y baja\\nla Evasión.\\n",
+        .description = "Baja la evasión del\\nrival. También puede\\nusarse para reducir\\nel efecto de Púas y\\nPantalla Luz del rival.",
     },
 
     [MOVE_TRICK_ROOM] = {
@@ -11716,7 +11716,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_RANDOMIZE_NEXT_TURN,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Espacio misterioso en el\\nque los Pokémon lentos\\nse mueven antes\\ndurante 5 turnos.\\n",
+        .description = "Se crea un espacio\\nextraño en el que\\nlos Pokémon lentos\\nse mueven primero\\ndurante cinco turnos.",
     },
 
     [MOVE_DRACO_METEOR] = {
@@ -11743,7 +11743,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Grandes cometas caen\\nsobre el rival. Reduce\\nmucho tu Ataque\\nEspecial.\\n",
+        .description = "Hace que grandes\\ncometas caigan del\\ncielo. Baja mucho\\nel Ataque Especial\\nde quien lo usa.",
     },
 
     [MOVE_DISCHARGE] = {
@@ -11770,7 +11770,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Deslumbradora onda\\neléctrica que afecta a\\nlos adyacentes. Puede\\nparalizar.\\n",
+        .description = "Una deslumbradora\\nonda eléctrica afecta\\na los demás Pokémon\\ndel combate. Puede\\nparalizar.",
     },
 
     [MOVE_LAVA_PLUME] = {
@@ -11797,7 +11797,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Infierno de llamas que\\ndaña a los adyacentes.\\nPuede causar\\nquemaduras.\\n",
+        .description = "Un infierno de llamas\\ndaña a los demás\\nPokémon en combate.\\nPuede quemar.",
     },
 
     [MOVE_LEAF_STORM] = {
@@ -11824,7 +11824,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_CUTE,
         },
-        .description = "Lluvia de hojas afiladas\\nque reduce mucho tu\\nAtaque Especial.\\n",
+        .description = "Cae una lluvia de\\nhojas afiladas. Baja\\nmucho el Ataque\\nEspecial de quien\\nlo usa.",
     },
 
     [MOVE_POWER_WHIP] = {
@@ -11851,7 +11851,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Agita violentamente sus\\nlianas o tentáculos\\npara golpear.\\n",
+        .description = "El usuario agita\\nviolentamente sus\\nhojas o tentáculos\\npara golpear al rival.",
     },
 
     [MOVE_ROCK_WRECKER] = {
@@ -11878,7 +11878,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Lanza una piedra enorme.\\nEl usuario debe\\ndescansar después.\\n",
+        .description = "Lanza una piedra\\nenorme contra\\nel rival, pero tiene\\nque descansar\\nel siguiente turno.",
     },
 
     [MOVE_CROSS_POISON] = {
@@ -11905,14 +11905,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Tajo que puede envenenar.\\nSuele asestar un golpe\\ncrítico.\\n",
+        .description = "Tajo que puede\\nenvenenar al rival.\\nSuele ser crítico.",
     },
 
     [MOVE_GUNK_SHOT] = {
         .names = {
-            .name = "Lanzamugre",
-            .capsName = "LANZAMUGRE",
-            .fullName = "Lanzamugre",
+            .name = "Lanza Mugre",
+            .capsName = "LANZA MUGRE",
+            .fullName = "Lanza Mugre",
         },
         .data = {
             .effect = MOVE_EFFECT_POISON_HIT,
@@ -11932,14 +11932,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Lanza basura asquerosa y\\npuede envenenar al\\nobjetivo.\\n",
+        .description = "Lanza contra el rival\\nasquerosa basura.\\nPuede envenenar\\nal objetivo.",
     },
 
     [MOVE_IRON_HEAD] = {
         .names = {
-            .name = "Cab. Hierro",
-            .capsName = "CAB. HIERRO",
-            .fullName = "Cabeza de Hierro",
+            .name = "Cabezahierro",
+            .capsName = "CABEZAHIERRO",
+            .fullName = "Cabezahierro",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -11959,7 +11959,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Ataca con su cabeza dura\\ncomo el hierro. Puede\\namedrentar.\\n",
+        .description = "Ataca con su dura\\ncabeza de hierro.\\nPuede hacer que\\nel rival retroceda.",
     },
 
     [MOVE_MAGNET_BOMB] = {
@@ -11986,7 +11986,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_BASIC,
             .contestType = CONTEST_COOL,
         },
-        .description = "Bombas de hierro que se\\npegan al rival. No se\\npuede esquivar.\\n",
+        .description = "Lanza una bomba de\\nhierro que se pega\\nal adversario. No se\\npuede esquivar.",
     },
 
     [MOVE_STONE_EDGE] = {
@@ -12013,7 +12013,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Clava piedras muy\\nafiladas. Suele asestar\\nun golpe crítico.\\n",
+        .description = "Clava piedras muy\\nafiladas al rival.\\nSuele ser crítico.",
     },
 
     [MOVE_CAPTIVATE] = {
@@ -12040,7 +12040,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Si el rival es del sexo\\nopuesto, queda\\nembelesado y baja su\\nAtaque Especial.\\n",
+        .description = "Si el rival es del\\nsexo opuesto, queda\\nembelesado y baja\\nmucho su Ataque\\nEspecial.",
     },
 
     [MOVE_STEALTH_ROCK] = {
@@ -12067,7 +12067,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_DOWN,
             .contestType = CONTEST_COOL,
         },
-        .description = "Rocas flotantes que\\nhieren a los rivales que\\nentran en combate.\\n",
+        .description = "Una trampa de rocas\\nque flota en el aire y\\ndaña a los rivales que\\nentran en combate.",
     },
 
     [MOVE_GRASS_KNOT] = {
@@ -12094,7 +12094,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Enreda con hierba y\\nderriba. Cuanto más pesa\\nel rival, más potencia.\\n",
+        .description = "Enreda al enemigo\\ncon hierba y lo\\nderriba. Cuanto más\\npesado es el rival,\\nmás daño inflige.",
     },
 
     [MOVE_CHATTER] = {
@@ -12121,7 +12121,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_PITY_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Onda de sonido muy\\nruidosa que confunde al\\nobjetivo.\\n",
+        .description = "Ataca con una onda\\nsónica compuesta\\npor palabras que ha\\naprendido. Puede\\nconfundir al rival.",
     },
 
     [MOVE_JUDGMENT] = {
@@ -12148,7 +12148,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_RANDOMIZE_NEXT_TURN,
             .contestType = CONTEST_SMART,
         },
-        .description = "Emite incontables haces\\nde luz. Su tipo varía\\nsegún la tabla que\\nlleve.\\n",
+        .description = "Emite incontables\\nhaces de luz. Varía\\nsegún el tipo de tabla\\nque lleve el usuario.",
     },
 
     [MOVE_BUG_BITE] = {
@@ -12175,7 +12175,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_STEAL_VOLTAGE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Pica al rival. Si lleva\\nuna baya, el usuario se\\nla come y obtiene su\\nefecto.\\n",
+        .description = "Pica al rival. Si el\\nadversario lleva una\\nBaya, el agresor se la\\ncome y se beneficia\\nde su efecto.",
     },
 
     [MOVE_CHARGE_BEAM] = {
@@ -12202,7 +12202,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_HEARTS,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Rayo eléctrico que\\npuede subir el Ataque\\nEspecial del usuario.\\n",
+        .description = "Lanza un rayo\\neléctrico contra el\\nrival. Puede subir\\nel Ataque Especial\\nde quien lo usa.",
     },
 
     [MOVE_WOOD_HAMMER] = {
@@ -12229,7 +12229,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_LAST_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Arremete con su robusto\\ncuerpo y se hiere\\nseriamente.\\n",
+        .description = "Arremete contra el\\nrival con su robusto\\ncuerpo. El agresor\\ntambién sufre\\nbastante daño.",
     },
 
     [MOVE_AQUA_JET] = {
@@ -12256,7 +12256,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_FIRST_NEXT_TURN,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "Ataca a tal velocidad\\nque es casi\\nimperceptible. Tiene\\nprioridad alta.\\n",
+        .description = "Arremete contra el\\nrival a una velocidad\\nvertiginosa. Se\\nadelanta a otros\\nmovimientos.",
     },
 
     [MOVE_ATTACK_ORDER] = {
@@ -12283,7 +12283,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Llama a sus súbditos\\npara que ataquen.\\nSuele ser crítico.\\n",
+        .description = "El usuario llama a\\nsus amigos para\\nque ataquen al rival.\\nSuele ser crítico.",
     },
 
     [MOVE_DEFEND_ORDER] = {
@@ -12310,7 +12310,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_SMART,
         },
-        .description = "Llama a sus súbditos\\npara que formen un\\nescudo viviente. Sube\\nlas Defensas.\\n",
+        .description = "El usuario llama a sus\\namigos para que\\nformen un escudo\\nviviente. Sube la\\nDef. y la Def. Esp.",
     },
 
     [MOVE_HEAL_ORDER] = {
@@ -12337,7 +12337,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_SMART,
         },
-        .description = "Llama a sus súbditos\\npara que lo curen.\\nRecupera la mitad de\\nsus PS.\\n",
+        .description = "El usuario llama a\\nsus amigos para que\\nlo curen. Recupera\\nhasta la mitad de\\nlos PS máximos.",
     },
 
     [MOVE_HEAD_SMASH] = {
@@ -12364,7 +12364,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Arriesga su vida con un\\ncabezazo brutal, pero\\nse hiere gravemente.\\n",
+        .description = "El usuario arriesga\\nsu vida y lanza un\\ncabezazo con toda\\nsu fuerza. El agresor\\ntambién sufre daño.",
     },
 
     [MOVE_DOUBLE_HIT] = {
@@ -12391,7 +12391,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_SMART,
         },
-        .description = "Golpea dos veces\\nseguidas con la cola u\\notras partes del\\ncuerpo.\\n",
+        .description = "Golpea al rival dos\\nveces seguidas con\\nla cola u otras\\npartes de su cuerpo.\\n",
     },
 
     [MOVE_ROAR_OF_TIME] = {
@@ -12418,7 +12418,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Ataca con tal energía\\nque el tiempo se\\ndistorsiona. Debe\\ndescansar después.\\n",
+        .description = "Ataca al rival usando\\ntal energía que el\\ntiempo se distorsiona.\\nEl agresor descansa\\nel siguiente turno.",
     },
 
     [MOVE_SPACIAL_REND] = {
@@ -12445,7 +12445,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_VOLTAGE_HEARTS,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Desgarra al objetivo y\\nel espacio a su\\nalrededor. Suele ser\\ncrítico.\\n",
+        .description = "Desgarra al rival y\\nel espacio a su\\nalrededor. Suele\\nser crítico.",
     },
 
     [MOVE_LUNAR_DANCE] = {
@@ -12472,7 +12472,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_BEAUTY,
         },
-        .description = "El usuario se debilita,\\npero cura y restaura\\nlos PS y los PP de su\\nrelevo.\\n",
+        .description = "El usuario se debilita,\\npero el Pokémon que\\nlo sustituye recupera\\nsu estado, los PS y\\nlos PP.",
     },
 
     [MOVE_CRUSH_GRIP] = {
@@ -12499,7 +12499,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_ON_FINALE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "Estruja con gran fuerza.\\nCuantos más PS le\\nqueden al rival, más\\npotencia.\\n",
+        .description = "Estruja al rival con\\ngran fuerza. Cuantos\\nmás PS le queden al\\nrival, más fuerte\\nserá el ataque.",
     },
 
     [MOVE_MAGMA_STORM] = {
@@ -12526,7 +12526,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_SUCCESSIVE,
             .contestType = CONTEST_TOUGH,
         },
-        .description = "El objetivo queda\\natrapado en una tormenta\\nde fuego de cuatro a\\ncinco turnos.\\n",
+        .description = "El rival queda\\natrapado en una\\ntormenta de fuego\\nque dura de dos\\na cinco turnos.",
     },
 
     [MOVE_DARK_VOID] = {
@@ -12553,14 +12553,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_KEEP_VOLTAGE_UP,
             .contestType = CONTEST_SMART,
         },
-        .description = "Envía al objetivo a un\\nmundo de tinieblas que\\nlo hace dormir.\\n",
+        .description = "El rival es enviado a\\nun mundo de tinieblas\\nque lo hace dormir.",
     },
 
     [MOVE_SEED_FLARE] = {
         .names = {
-            .name = "Fulgor Sem.",
-            .capsName = "FULGOR SEM.",
-            .fullName = "Fulgor Semilla",
+            .name = "Fogonazo",
+            .capsName = "FOGONAZO",
+            .fullName = "Fogonazo",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_2_HIT,
@@ -12580,14 +12580,14 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_COOL,
         },
-        .description = "Libera una onda de\\nchoque. Puede reducir\\nmucho la Defensa\\nEspecial.\\n",
+        .description = "Una onda de choque\\nse libera del cuerpo.\\nPuede bajar la\\nDefensa Especial\\ndel objetivo.",
     },
 
     [MOVE_OMINOUS_WIND] = {
         .names = {
-            .name = "V. Aciago",
-            .capsName = "V. ACIAGO",
-            .fullName = "Viento Aciago",
+            .name = "Vien. Aciago",
+            .capsName = "VIEN. ACIAGO",
+            .fullName = "Vien. Aciago",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_ALL_STATS_HIT,
@@ -12607,7 +12607,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_DOUBLE_NEXT_SCORE,
             .contestType = CONTEST_SMART,
         },
-        .description = "Viento horripilante que\\npuede subir de golpe\\ntodas las\\ncaracterísticas.\\n",
+        .description = "Produce un viento\\nhorripilante. Puede\\nsubir de golpe todas\\nlas características\\ndel usuario.",
     },
 
     [MOVE_SHADOW_FORCE] = {
@@ -12634,7 +12634,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .appeal = APPEAL_AFTER_MAX_VOLTAGE_HEARTS,
             .contestType = CONTEST_SMART,
         },
-        .description = "Desaparece en el primer\\nturno y golpea en el\\nsegundo, aunque el\\nrival se proteja.\\n",
+        .description = "En el primer turno,\\ndesaparece. En el\\nsegundo, golpea al\\nrival aunque se esté\\nprotegiendo.",
     },
 
     [MOVE_468] = {

@@ -1,0 +1,4 @@
+¡Soy el hermano pequeño\ndel Gurú Pescador!\r¿Y tú eres...?\rTienes cara de que te gusta la pesca.\n¿Estoy en lo cierto?\r¡Tengo muy buen ojo\npara las caras! {YESNO 0}
+Sí, sí. ¡Justo lo que pensaba!\n¡Aquí tienes! Toma esto.\f¡Es una Supercaña!\r
+Intenta pescar allí donde\nveas agua.\rRecuerda: puedes capturar Pokémon\ndiferentes usando distintas Cañas.
+¿Eh? ¿Me engañan mis ojos?

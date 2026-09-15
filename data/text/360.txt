@@ -1,0 +1,25 @@
+Liga Pokémon\nAcceso a la Calle Victoria
+¡CELEBI os ha transportado al pasado\nmediante un viaje en el tiempo!...\r
+{STRVAR_1 3, 0, 0}: El mejor...\n¡Dijiste que querías ser el mejor\fEntrenador del mundo!\r¿Y ahora piensas abandonar?\r¿Y qué piensas hacer entonces?\r
+{STRVAR_1 3, 0, 0}: ¡Bah! Una organización\nrepleta de esbirros que en el momento\fde la verdad se deja vencer por alguien\ftan joven. ¡Qué vergüenza!\r
+{STRVAR_1 3, 0, 0}: ¡No entiendo toda esa\npalabrería sin sentido!\r¡No entiendo nada de tus desvaríos!\r
+{STRVAR_1 3, 0, 0}: ¡Prefiero no entenderlo!\r¡No pienso acabar como tú! Con esbirros\nmiserables a tu alrededor, que se unen\fa tu organización para sentirse\fimportantes porque solos no son nadie.\r¡Seré un hombre fuerte por mí mismo,\nsin la ayuda de nadie! ¡Yo solo!\r
+{SIZE 0}¡Yo solo!\r
+{STRVAR_1 3, 0, 0}: ¿Qué estás mirando?\r
+...\rUn hombre que no sabe reconocer la\nderrota es incapaz de progresar...\rDebo estar solo un tiempo para poder\ncrear una organización más poderosa.\r
+Una organización bien estructurada y\ncon los efectivos suficientes, debería\fser capaz de ejercer un gran poder.\rEse es el objetivo de una organización.\rYo no he sabido aprovechar el potencial\nde mis subordinados...\r¡Juro que un día resucitaré\nal {COLOR 0}Team Rocket{COLOR 0}!\r
+...\nTú también lo comprenderás algún día.\r
+Eco: ¿Dónde estamos?\r
+Lira: ¿Dónde estamos?\r
+Eco: ¿El Encinar ha desaparecido?\rNo... No es eso... Más bien parece que\nsomos nosotros los que nos hemos\fdesplazado a otro lugar...\r
+Lira: ¿El Encinar ha desaparecido?\rNo... No es eso... Más bien parece que\nsomos nosotros los que nos hemos\fdesplazado a otro lugar...\r
+¡Esto es muy raro, {STRVAR_1 3, 0, 0}!\r¡En la radio han dicho una fecha de hace\ntres años como si fuera la de hoy!\r
+¡Esto es muy raro, {STRVAR_1 3, 0, 0}!\r¡En la radio han dicho una fecha de hace\ntres años como si fuera la de hoy!\r
+Y si... ese Pokémon...\nCELEBI...\r¡Eso es!\n¡Esto es cosa suya!\rMi abuelo me contó que gracias a su\nasombroso poder de {COLOR 0}viajar en el tiempo{COLOR 0},\fCELEBI puede transportarse\fa otras épocas a su voluntad.\r¡Seguro que CELEBI nos\nha traído al pasado!\r
+Y si... ese Pokémon...\nCELEBI...\r¡Eso es!\n¡Esto es cosa suya!\rMi abuelo me contó que gracias a su\nasombroso poder de {COLOR 0}viajar en el tiempo{COLOR 0},\fCELEBI puede transportarse\fa otras épocas a su voluntad.\r¡Seguro que CELEBI\nnos ha traído al pasado!\r
+¡Creo que hay alguien, {STRVAR_1 3, 0, 0}!\n¡Vamos a ver!\r
+¡Creo que hay alguien, {STRVAR_1 3, 0, 0}!\n¡Vamos a ver!\r
+Eco: ¿Qué les pasa a esos dos?\nEra una discusión muy violenta.\rPero eso que hablaban los dos...\n¿Qué han querido decir?\r¿Resucitar al {COLOR 0}Team Rocket{COLOR 0}?\rRecuerdo que alguien de Kanto\nlos derrotó tres años atrás\fy se disolvieron...\r¡Lo que significa que, efectivamente,\nhemos viajado tres años al pasado!\r
+Lira: ¿Qué les pasa a esos dos?\nEra una discusión muy violenta.\rPero eso que hablaban los dos...\n¿Qué han querido decir?\r¿Resucitar al {COLOR 0}Team Rocket{COLOR 0}?\rRecuerdo que alguien de Kanto\nlos derrotó tres años atrás\fy se disolvieron...\r¡Lo que significa que, efectivamente,\nhemos viajado tres años al pasado!\r
+¡Ah! ¡Vuelve a pasar!\r¡Otro {COLOR 0}viaje en el tiempo{COLOR 0} de CELEBI!\r
+¡Ah! ¡Vuelve a pasar!\r¡Otro {COLOR 0}viaje en el tiempo{COLOR 0} de CELEBI!\r

@@ -1,0 +1,6 @@
+Pulsa el Botón X sobre un punto verde\npara ver la ubicación de esa persona.
+SALIR
+UBICACIÓN
+{STRVAR_1 36, 0, 0}
+{STRVAR_1 37, 0, 0}
+¿Quieres salir de los perfiles de\nlos visitantes?

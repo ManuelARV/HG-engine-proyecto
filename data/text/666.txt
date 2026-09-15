@@ -1,0 +1,58 @@
+Prof. Oak
+Soy el Profesor Oak.\rAl oír tu voz por teléfono\ndas una impresión muy diferente.\fEstas máquinas...
+Soy el Profesor Oak.\rAl oír tu voz por teléfono\ndas una impresión muy diferente.\fEstas máquinas...
+Soy el Profesor Oak.\nVeo que has capturado\fun montón de Pokémon.
+Soy el Profesor Oak.\nVeo que estás completando\fla Pokédex a buen ritmo.
+Soy el Profesor Oak.\n¡Impresionante!\rMe recuerdas a mí cuando\nera un mochuelillo como tú.
+Soy el Profesor Oak.\nCuando estés extenuado,\flo mejor es descansar.\fNo te pases, ¿eh?
+Aquí el Profesor Oak...\rTener que viajar entre Kanto\ny Johto para grabar en la radio\fme deja hecho cisco.\r¡Pero eso no es importante!\n¡Tu Pokédex está cada día\fmás completa!
+Soy el Profesor Oak.\rVaya, has encontrado Pokémon que\nno viven ni en Johto ni en Kanto.\rGracias a Entrenadores tan buenos\ncomo tú, mis investigaciones pueden\favanzar constantemente.
+Aquí el Profesor Oak...\rEstoy hasta arriba con tanta\ninvestigación y no duermo.\r¡Pero eso no es importante!\nTu Pokédex va muy bien, ¿eh?
+Soy el Profesor Oak.\r¡A que ahora tienes más amigos\ngracias a la Pokédex!\r¡Esa es la esencia de los Pokémon!\n¡Amistad!
+Soy el Profesor Oak.\rApenas conozco Entrenadores tan\napabullantemente excelentes como tú.\rEstaré eternamente agradecido\nal Profesor Elm.
+Soy el Profesor Oak.\n¡No hables! ¡No digas nada!\rSé que estás poniendo toda la carne\nen el microondas. Nadie lo sabe\fmejor que yo. Por eso te voy a dar\fun pequeño regalo. Nada, una minucia.\rSe me había olvidado comentarte esto\nantes, para qué te voy a engañar.\f¡Ven a por él!\rMe tienes donde siempre, en mi\nLaboratorio de Pueblo Paleta.
+Soy el Profesor Oak.\n¡{STRVAR_1 3, 0, 0}!\r
+Soy el Profesor Oak.\n¡{STRVAR_1 3, 0, 0}!\r
+A ver, a ver qué tal llevas la Pokédex.
+SALIR
+VALORAR POKéDEX
+VALORAR POKéDEX DE JOHTO
+VALORAR POKéDEX NACIONAL
+Mmm...\nHas encontrado {STRVAR_1 52, 5, 0} Pokémon.\fHas capturado {STRVAR_1 52, 6, 0} Pokémon.\f¡Magnífico!\r
+Vuelve a enseñarme tu Pokédex\nun día de estos, ¿vale?
+¡Oh!\n¡Has completado la Pokédex de Johto!\r¡Tus encomiables esfuerzos te\nhan permitido rellenar la Pokédex\fde Johto por completo!\r¡Así se hace!
+¡Oh!\n¡Has completado la Pokédex de Johto!\r¡Tus encomiables esfuerzos te\nhan permitido rellenar la Pokédex\fde Johto por completo!\r¡Así se hace!
+¡Excelente!\nLa Pokédex Nacional ya está.\rEres... eres... eres... ¡un fiera!\rDesde la primera vez que nos vimos,\nsupe que tu potencial era superior.\r¡Incluso más allá!\nEres un Entrenador fuera de lo común.\r¡Gracias, {STRVAR_1 3, 0, 0}!
+¡Excelente!\nLa Pokédex Nacional ya está.\rEres... eres... eres... ¡una fiera!\rDesde la primera vez que nos vimos,\nsupe que tu potencial era superior.\r¡Incluso más allá!\nEres una Entrenadora fuera\fde lo común.\r¡Gracias, {STRVAR_1 3, 0, 0}!
+No dejas de sorprenderme.\rTal y como esperaba, has completado\nla Pokédex de Johto. ¡Muchas gracias!\rAhora que has llegado tan lejos,\ndeberías continuar tu actividad\fen el mundo de los Pokémon.\r¡El mundo es enorme!
+No tengo palabras.\nEsto es indescriptible.\rHas superado con creces\nmis expectativas iniciales.\f¡Has completado la Pokédex Nacional!\rNo sé qué más decirte, ningún\nEntrenador conoce los Pokémon\fmejor que tú.\r¡Alguien como tú me llama a investigar\nmás y más! ¡No puedo dejarlo!
+¡Busca Pokémon en zonas de hierba!\r
+Bien. Ya veo que sabes cómo usar\nlas Poké Balls.\r
+Lo estás haciendo bien, pero tienes\nun largo camino por recorrer aún.\r
+Por fin estás entrando en ritmo.\nEsto promete.\r
+Ya veo que te estás esforzando.\nTu Pokédex empieza a llenarse.\r
+Hay Pokémon que no evolucionan\nsi los crías de una forma normal.\r
+¿Tienes una Caña?\rHay algunos Pokémon que solo puedes\ncapturar pescando.\r
+¡Excelente! ¡Veo que se te da bien\ncoleccionar cosas!\r
+Algunos Pokémon solo aparecen\na ciertas horas del día.\r
+Veo que tienes muchos más Pokémon\nregistrados que antes. ¡Así se hace!\r
+¡Así se hace!\rNo solo capturar es importante,\ntambién hay que hacerlos evolucionar.\r
+Las Poké Balls que fabrica César\nson de gran ayuda para atrapar\fPokémon. ¿Lo conoces?\r
+Lo mejor para capturar muchos Pokémon\nes intercambiar información\fcon algún amigo.\r
+¿Estás intercambiando tus Pokémon?\r¡Es duro completar la Pokédex\fen solitario!\r
+¡Guau! ¡Ya tienes 200!\n¡Tu Pokédex es estupenda!\r
+¡Tienes un montón de Pokémon!\r¡Tu ayuda ha propinado un espaldarazo\nestratosférico a mis investigaciones!\r
+¡Genial! ¡Podrías convertirte en\nuna eminencia de los Pokémon\fahora mismo!\r
+¡Tu Pokédex es increíble!\n¡Eres ejemplo de profesionalidad!\r
+Todavía te queda mucho para llegar\na la meta. ¡No tires la toalla jamás!\r
+Ten siempre presente que hay Pokémon\nque solo aparecen a una hora del día\fdeterminada.\r
+Hay veces que si rompes una roca,\naparece un Pokémon que se estaba\fescondiendo.\r
+Has sufrido mucho para llegar hasta\naquí, pero aún te queda mucho por\frecorrer. ¡No desfallezcas!\r
+Si usas Golpe Cabeza para sacudir\nlos árboles, a veces cae un Pokémon.\r
+En la Zona Safari viven Pokémon\nque no se pueden encontrar en Johto.\f¡Un montón!\r
+También hay Pokémon con los que hay que\nusar la música de cebo para que salgan.\r
+No pensé que llegarías hasta aquí.\r
+A partir de aquí es el momento de\nla verdad. ¡No te rindas!\r
+¡Te falta un pelín!\n¡Espero lo máximo de ti!\r
+Hasta ahora, nunca había conocido\nun Entrenador tan increíble como tú.\r
+A ver, a ver qué tal llevas\nla Pokédex.{YESNO 0}

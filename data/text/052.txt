@@ -1,0 +1,11 @@
+No has capturado a todos tus Pokémon,\npero... ¿te vas a retirar del\fEspectáculo de Captura?
+Bueno...\rMe decepciona que te retires.\n¡A ver si lo haces mejor la próxima vez!\r
+¡Así me gusta, {STRVAR_1 3, 0, 0}!\n¡No hay que rendirse nunca!
+¡Así me gusta, {STRVAR_1 3, 0, 0}!\n¡No hay que rendirse nunca!
+¡Enhorabuena!\r¡{STRVAR_1 3, 0, 0} ha conseguido capturar\ntodos los Pokémon!\r
+¿Quieres retirarte?
+¡Que empiece la cuenta atrás!
+Tres...
+Dos...
+Uno...
+¡Ya!

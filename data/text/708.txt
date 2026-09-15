@@ -1,0 +1,12 @@
+Ángelo
+¡Fiuu! ¡Esa manera de atacar es única!\n¡Debemos vernos de nuevo!\r¿Qué tal si me das tu número?{YESNO 0}
+¡Te llamaré cuando me apetezca\nechar un combate!
+¿No? Pues vale.\n¡Aunque no parece un no definitivo!\rEstaré aquí para cuando quieras\notra ronda.
+Así que quieres tener mi teléfono\npara echar un combate, ¿verdad?{YESNO 0}
+Bien... Eres muy especial.\rOjalá hubiera empezado a entrenar\nPokémon cuando era joven.\rQuiero que te esfuerces por los dos,\nasí que toma esto, ¿vale?\r
+¿Eh?\n¿Se oye el agua del río?\f¿Estás por aquí?
+No hay nada como mi {STRVAR_1 0, 10, 0}.\n¡Noqueamos a un {STRVAR_1 0, 11, 0} salvaje!\rEstuvo bien, pero quería atraparlo.\rVenga, ¡vuelve a llamarme!
+No hay nada como mi {STRVAR_1 0, 10, 0}.\nY ayer vimos a un {STRVAR_1 0, 11, 0} salvaje.\rNos preguntábamos si debíamos\ncapturarlo o tumbarlo.\rEstaba entre Pinto y Valdemoro y ¡pam!\nLlega un chico y lo atrapa.\rSe me quedó una cara de panoli\nde no te menees.\rVenga, ¡vuelve a llamarme!
+Estás pensando que te gustaría luchar\nconmigo, ¿no es cierto?\r¡Sí! ¡Nos vemos en {STRVAR_1 4, 3, 0}!
+No has llegado a {STRVAR_1 4, 3, 0}.\r¡Esperar aquí no está tan mal,\npero preferiría luchar YA!
+Volveremos a luchar, ¿verdad?

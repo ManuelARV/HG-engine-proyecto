@@ -1,0 +1,46 @@
+¡Te damos la bienvenida al Parque Compi!\rSi la Zona Safari se te ha quedado\npequeña, tu lugar está aquí,\fdonde los mejores Entrenadores\fdemuestran sus técnicas\fpara capturar Pokémon.\r¿Eh?\rTú eres...\n¡Eres {STRVAR_1 3, 0, 0}!\r¡Mi padre me ha hablado de ti!\n¡Dice que eres muy bueno!\rNos encantaría que participaras en\nnuestro Espectáculo de Captura.{YESNO 0}
+¡Te damos la bienvenida al Parque Compi!\rSi la Zona Safari se te ha quedado\npequeña, tu lugar está aquí,\fdonde los mejores Entrenadores\fdemuestran sus técnicas\fpara capturar Pokémon.\r¿Eh?\rTú eres...\n¡Eres {STRVAR_1 3, 0, 0}!\r¡Mi padre me ha hablado de ti!\n¡Dice que eres muy buena!\rNos encantaría que participaras en\nnuestro Espectáculo de Captura.{YESNO 0}
+¡Bien! ¡Así que quieres participar!\nMejor no perder el tiempo.\rVoy a explicarte cómo funciona\nel Parque Compi.\r¿Qué quieres que te explique?{YESNO 0}
+En el Parque Compi se mide el tiempo\nque tardas en atrapar seis Pokémon.\rPara este desafío, recibes seis\nParque Balls especiales.\rLos Entrenadores que participen\ntienen que aportar seis Pokémon.\rEn caso contrario, no podrán participar\nen el Espectáculo de Captura.\r¿Quieres que te explique algo más?{YESNO 0}
+Al principio del Espectáculo de Captura\nrecibirás seis Parque Balls.\rUsa las Parque Balls para capturar\nlos seis Pokémon que aportas.\r¿Quieres que te explique algo más?{YESNO 0}
+Inserta un cartucho de Pokémon Rubí,\nZafiro, Esmeralda, Rojo Fuego o Verde\fHoja en la ranura para cartuchos\fde GBA de tu Nintendo DS.\rCuando enciendas la consola DS,\npodrás transferir seis Pokémon\fcapturados del cartucho de GBA\fa Parque Compi eligiendo Transferir\fen la pantalla de menú.\rAh, pero si tu consola es Nintendo DSi,\nno tienes ranura de cartuchos GBA\fy no puedes transferirlos.\r¿Quieres que te explique algo más?{YESNO 0}
+¿Quieres participar en un\nEspectáculo de Captura?{YESNO 0}
+Vaya, es una pena.\rPero si quieres participar luego,\nven a verme, ¿vale?
+¡Hola, {STRVAR_1 3, 0, 0}!\r¿Has venido a participar\nen el Espectáculo de Captura?{YESNO 0}
+¡Hola, {STRVAR_1 3, 0, 0}!\r¿Has venido a participar\nen el Espectáculo de Captura?{YESNO 0}
+Muy bien, ¡aquí tienes tus Parque Balls!\r{STRVAR_1 3, 0, 0} ha recibido\nseis Parque Balls.\rEl récord actual es de {STRVAR_1 3, 1, 0},\ncon {STRVAR_1 53, 2, 0} puntos.\rAdelante, {STRVAR_1 3, 0, 0}.\r¡Asómbranos con una más que magnífica\nexhibición de captura de Pokémon!\r
+Muy bien, ¡aquí tienes tus Parque Balls!\r{STRVAR_1 3, 0, 0} ha recibido\nseis Parque Balls.\rEl récord actual es de {STRVAR_1 3, 1, 0},\ncon {STRVAR_1 53, 2, 0} puntos.\rAdelante, {STRVAR_1 3, 0, 0}.\r¡Asómbranos con una más que magnífica\nexhibición de captura de Pokémon!\r
+Oh, oh... No tienes Pokémon suficientes\npara un Espectáculo de Captura.\rSi quieres participar, tienes que\naportar seis Pokémon.\r¡Deberías transferir algunos Pokémon\nde Hoenn o de cualquier otro sitio!\r¡Hasta la próxima!
+Muy bien, te voy a explicar\nlas reglas de Parque Compi.\r¿Qué quieres saber?{YESNO 0}
+¡Se acabó!\rMe quedo con las Balls\nque te han sobrado.\rLa próxima vez tienes que\nlograr capturar los seis, ¿eh?
+Oh, las Cajas están llenas. No tienes\nsitio para seis Pokémon más.\rNo podrás quedártelos\naunque los captures.\rHaz un poco de sitio en una Caja y\nvuelve al Espectáculo de Captura.
+¡Enhorabuena!\n¡Has capturado los seis Pokémon!\rSeguro que el público ha disfrutado\nmucho de tu Espectáculo de Captura.\rBien, ahora veamos tu magnífica\npuntuación.\rPuntos por captura: ¡{STRVAR_1 53, 0, 0}!\rPuntos por tiempo: ¡{STRVAR_1 53, 1, 0}!\rPuntos por tipo: ¡{STRVAR_1 53, 2, 0}!\rY el total es...\r¡{STRVAR_1 53, 3, 0} puntos!\r
+¡Es un récord increíble!\n¡Mi más sincera enhorabuena!\r
+¡Bien! Es un récord decente.\n¡Enhorabuena!\r
+¿Quieres poner en Cajas todos\nlos Pokémon que has capturado?{YESNO 0}
+¡Ya está!\nTodo ordenadito en Cajas...\rNo olvides guardar la partida.\r
+Vale, igual te apetece intentar\nmejorar tu puntuación capturando\festos seis de nuevo.\rCuando quieras participar en otro\nEspectáculo de Captura, ¡ven a vernos!
+¡Cuando quieras participar en otro\nEspectáculo de Captura, ven a vernos!\r
+¡Ha llegado el momento de darte\ntu premio! ¡Aquí tienes!\r
+¿Quieres participar otra vez\ncon los mismos Pokémon?{YESNO 0}
+El récord actual lo tiene {STRVAR_1 3, 1, 0},\ncon {STRVAR_1 53, 2, 0} puntos.\f¿Puedes superar eso?
+¡Oh! ¡Has superado los 2000 puntos!\n¡Te has ganado esto!\r
+¡Sigue esforzándote para conseguir\nuna puntuación más alta!
+¡Oh! ¡Has superado los 2500 puntos!\n¡Te has ganado esto!\r
+¡Oh! ¡Has superado los 3000 puntos!\n¡Te has ganado esto!\r
+¡Oh! ¡Has superado los 3500 puntos!\n¡Te has ganado esto!\r
+¡Has establecido un récord increíble!\n¡Me dejas sin palabras!
+Tienes la Bolsa llena.\nDeberías volver más tarde.
+Los Entrenadores se quejan de que los\nPokémon raros tardan en aparecer.\rTal vez sea más fácil empezar\ncon Pokémon comunes.
+¿Quién? ¿Yo?\n¡Yo no he tocado ningún Pokémon!\f¡Ni siquiera me acerco!\r¡Pero me encanta ver\nel Espectáculo de Captura!\rMe pirran los Pokémon\nde Johto y de Hoenn.\rLas regiones que no conozco\nson misteriosas y me atraen.
+Hoy me dan ganas de compartir\nmi alegría con todos, todos, todos.\rSiento la necesidad de darte\nesta Corona.\rAntes de que te dé por pensar, te diré\nque es un Accesorio para Pokémon.\r
+Hoy me dan ganas de compartir\nmi alegría con todos, todos, todos.\rSiento la necesidad de darte esta Tiara.\rAntes de que te dé por pensar, te diré\nque es un Accesorio para Pokémon.\r
+Hoy me dan ganas de compartir\nmi alegría con todos, todos, todos.\rQuisiera que aceptaras este Fondo.\nSe llama Fondo marino.\rUtilízalo cuando vistas tus Pokémon\ncon Accesorios.\r
+Hoy me dan ganas de compartir\nmi alegría con todos, todos, todos.\rQuisiera que aceptaras este Fondo.\nSe llama Subsuelo.\rUtilízalo cuando vistas tus Pokémon\ncon Accesorios.\r
+Hoy me dan ganas de compartir\nmi alegría con todos, todos, todos.\rQuisiera que aceptaras este Fondo.\nSe llama Cielo.\rUtilízalo cuando vistas tus Pokémon\ncon Accesorios.\r
+No solo hay Pokéathlon,\ntambién existe la Zona Safari,\fel Frente de Batalla\fy hasta el Parque Compi.\rUn montón de humanos\nestán empleándose a fondo.\f¡Qué alegría! ¡Qué emoción!
+He venido con mi mamá a ver\nel Espectáculo de Captura\fde {STRVAR_1 3, 0, 0}.\r¿{STRVAR_1 3, 0, 0}? ¿De verdad?
+¡Guau! ¡{STRVAR_1 3, 0, 0}!\r¡Tu Espectáculo de Captura\nha sido impresionante!\r¡Algún día seré un Entrenador Pokémon\ntan bueno como tú!
+{STRVAR_1 3, 0, 0}, ya tendrás más suerte\nla próxima vez.
+Creo que mi niño es un gran fan\ntuyo... ¿De verdad eres tan popular?
+Para ver Pokémon raros,\nve al Espectáculo de Captura de\fParque Compi. ¡Te lo pasarás genial!

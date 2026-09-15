@@ -1,0 +1,12 @@
+Bene
+Vamos a intercambiar número y así\nnos podremos volver a enfrentar.{YESNO 0}
+¡Gracias!
+¡Vaya chasco!
+Vamos a intercambiar número y así\nnos podremos volver a enfrentar.{YESNO 0}
+Con lo cerca que estás, déjate\nde cuentos y ven adonde estoy.
+Hay gente que no da de comer\na los Pokémon que pesca.\rPor algo mi {STRVAR_1 0, 10, 0} se está\nesforzando mucho todos los días.\rLe doy comida de la buena, le mimo\ny hasta le hago carantoñas.\r¡Hay que tratarlos bien!
+Ayer fui a pescar y vencí\na un {STRVAR_1 0, 11, 0}.\rSé que hay muchísimos tipos de\nPokémon en praderas y cuevas,\fpero a mí me gustan los Pokémon\fcomo {STRVAR_1 0, 11, 0}.
+Hace un tiempo se me escapó\nun {STRVAR_1 0, 11, 0}. ¡Fue una pena!\rCuando vayas a pescar, te recomiendo\nque te lo tomes en serio y así evites\farrepentirte.
+Estoy harto de pescar.\n¡Vamos a combatir!\rTe espero en {STRVAR_1 4, 3, 0}.
+¿Hola?\n¡Hemos quedado en {STRVAR_1 4, 3, 0}!\f¡Ven rápido!
+La incertidumbre de la pesca es lo que\nmás me engancha.\rUno nunca sabe qué va a picar hasta\nlevantar la Caña.\rA lo mejor un día consigo pescar\nun Pokémon legendario.\fNo es imposible, ¿no?\rRAIKOU viaja por todos lados, podría\nresbalarse en un descuido y ¡chof!,\fal mar. ¡A lo mejor lo pesco yo!\r¿Que no? ¿Que no? No sé yo...

@@ -1,0 +1,12 @@
+Terreno Prado
+Terreno Parterre
+Terreno Sabana
+Terreno Peña
+Terreno Laguna
+Terreno Pantano
+Terreno Arboleda
+Terreno Lagos
+Terreno Albufera
+Terreno Páramo
+Terreno Montaña
+Terreno Desierto

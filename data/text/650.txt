@@ -1,0 +1,15 @@
+Misty
+¡No se oye nada!\nPrueba a llamar desde otro sitio.
+¿Diga? ¿Qué tal estás?\nYo estoy perfectamente.\r
+¡Hay la tira de Líderes de Gimnasio!\n¡Que no decaiga!
+Como sabes, estoy como un tren y\ntengo a todos los chicos a mis pies.\fEstoy hasta arriba de tanta cita.\rAunque... el miércoles por la mañana,\nestoy libre hasta las 10:00.\r¡Llámame entonces!
+¡Hoy no tengo cita con nadie!\n¡Vamos a combatir un rato!{YESNO 0}
+¡Pues dicho y hecho!\nTe espero en el Dojo de Ciudad Azafrán.
+¡Eres un muermo!...
+No tienes nada que hacer, ¿no?\nNo has quedado con otra persona, ¿no?\rDeberías mirar tu agenda.
+Te estoy esperando en el Dojo\nde Ciudad Azafrán.\f¡No me vayas a plantar!
+Hola, soy Misty.\n¿Cómo vas?\r
+No creo, ¿no? No se te puede haber\nolvidado dónde habíamos quedado...\rEs en el Dojo de Ciudad Azafrán.\nLo tienes apuntado, ¿no?
+¿Ya te has dado una vuelta por Kanto?\n¿Qué te parece comparado a Johto?\f¿A que las vistas son fascinantes?\rA mí me gusta especialmente el cabo\nde la Ruta 25.\rMe trae recuerdos muy entrañables.\n¿De qué? ¡Eso no te lo digo!
+A propósito, el tipo raro que se había\nmetido en mi Gimnasio...\fMe han dicho que tú acabaste con él.\r¡Gracias!\rTodos los miembros del Gimnasio\nse pusieron muy contentos.\n
+¡Oye! ¡Oye! He oído que si ganas\na los seis Entrenadores de la Ruta 25\fsin perder, el amor llegará a ti.\r¿No lo sabías?\nBueno, la verdad es que me lo\fhe inventado yo...\n

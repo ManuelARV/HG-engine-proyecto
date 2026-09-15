@@ -1,0 +1,36 @@
+GYARADOS: ¡Gyaraa!
+DRAGONITE: Dragooo...
+Ese GYARADOS rojo no parece\ndel todo normal...\rDa la impresión de que alguien\nlo ha forzado a evolucionar de\fesa manera...\r
+¿Viniste por los rumores?\n¿Eres {STRVAR_1 3, 0, 0}?\rMe llamo Lance y soy Entrenador\ncomo tú.\rOí rumores y por eso vine\na investigar...\rTe vi luchar antes y creo que tienes\nuna habilidad considerable.\rSi no te importa, ¿podrías\necharme una mano?{YESNO 0}
+¿Viniste por los rumores?\n¿Eres {STRVAR_1 3, 0, 0}?\rMe llamo Lance y soy Entrenador\ncomo tú.\rOí rumores y por eso vine\na investigar...\rTe vi luchar antes y creo que tienes\nuna habilidad considerable.\rSi no te importa, ¿podrías\necharme una mano?{YESNO 0}
+Lance: ¡Claro, eso es!\rCreo que las misteriosas ondas de radio\nprocedentes de Pueblo Caoba son lo\fque está forzando la evolución de\flos MAGIKARP.\rEntonces, esa extraña tienda de\nrecuerdos...\r¡Tenemos que ir a Pueblo Caoba,\n{STRVAR_1 3, 0, 0}!\f¡Te veo allí!
+Lance: ¡Claro, eso es!\rCreo que las misteriosas ondas de radio\nprocedentes de Pueblo Caoba son lo\fque está forzando la evolución de\flos MAGIKARP.\rEntonces, esa extraña tienda de\nrecuerdos...\r¡Tenemos que ir a Pueblo Caoba,\n{STRVAR_1 3, 0, 0}!\f¡Te veo allí!
+¡Oh...! Si cambias de opinión\nagradecería tu ayuda.
+Lance: ¿Qué? ¿Me vas a ayudar?{YESNO 0}
+¡Los GYARADOS están enfadados!\n¡Mal presagio!
+¡Ajá! ¡Los MAGIKARP pican!
+Dicen que este lago fue obra de\nviolentos GYARADOS.\rMe pregunto si eso estará relacionado\ncon su aparición masiva.
+¿Me han engañado mis ojos?\nHe visto un GYARADOS rojo en el lago...\rYo pensaba que los GYARADOS\neran azules.
+Fredo: Es como si esta tromba de agua\nestuviera azotando el lago con toda\fsu cólera.\rNo creo que haya sido una coincidencia\nque tú y yo nos hayamos encontrado\faquí. Intercambiemos los números\fde teléfono, ¿no te parece?{YESNO 0}
+¡{STRVAR_1 3, 0, 0} ha registrado a Fredo\nen el Pokégear!
+Fredo: Tengo la costumbre de combatir\nlos lunes por la mañana para\fdesentumecerme un poco.\r¡Llámame si te apetece echar\nun combate!
+Fredo: Como te parezca...\nCada uno es bien libre de hacer\flo que quiera en este mundo.
+Fredo: ¿Qué? ¿Quieres que te dé\nmi número de teléfono?{YESNO 0}
+¡Déjame luchar con el Pokémon que\nacabo de atrapar!
+                             
+                                             
+Haga lo que haga, siempre capturo\nlos mismos Pokémon...
+              
+                       
+Si un Entrenador se encuentra con\notro Entrenador, debe desafiarle.\fEse es nuestro destino.
+                
+                                        
+¿Qué ocurrió con el GYARADOS rojo?\r¿Se ha ido?\n¡Maldición! ¿He venido para nada?\rYa sé. ¡Luchemos!
+    
+                            
+Lago de la Furia\nConocido como Lago de GYARADOS
+Casa del Gurú Pescador
+Casa del Gurú Pescador\rRécord actual: {STRVAR_1 52, 0, 0},{STRVAR_1 50, 1, 0} cm\nAtrapado por {STRVAR_1 3, 2, 0}
+¡{STRVAR_1 3, 0, 0} ha encontrado\n{STRVAR_1 8, 1, 0}!
+{STRVAR_1 3, 0, 0} ha puesto {STRVAR_1 8, 1, 0}\nen el Bolsillo {COLOR 0}{STRVAR_1 31, 2, 0}{COLOR 0}.
+¡Has obtenido {STRVAR_1 8, 0, 0}!\r¡Mala suerte!\nLa Bolsa está llena...

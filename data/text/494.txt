@@ -1,0 +1,4 @@
+¡Hola! ¡Este es el Centro Comercial\nde Ciudad Azulona!\rSe puede consultar el directorio de\nplantas junto al ascensor.
+Este Centro Comercial pertenece a la\nmisma cadena que el de Ciudad Trigal.\rLos dos fueron renovados\nal mismo tiempo.
+Es la primera vez que vengo.\nEs muy grande...\fMe da miedo perderme.
+PB Información\nP1 Tienda de Entrenadores\fP2 Tienda de MT\fP3 Regalos\fP4 Farmacia\fP5 Última planta

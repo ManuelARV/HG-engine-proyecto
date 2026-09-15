@@ -1,0 +1,6 @@
+¡Ciudad Olivo está junto al mar!\r¡Y si está junto al mar,\ntiene que haber peces!\rLlevo 30 años pescando aquí.\n¿Quieres mirar al mar y pescar?{YESNO 0}
+¡Ah, ja, ja!\n¡Por fin, alguien más que pesca!
+                    
+No solo hay peces en el mar.\nAllá donde haya agua los encontrarás.
+¿Quéee? ¿¡No te gusta pescar!?\n¡Incomprensible!
+¿Qué tal va todo?\n¿Pica el grande?

@@ -1,0 +1,15 @@
+Lolo
+Antes de ponerme a comer,\ndame tu número, por favor.{YESNO 0}
+Siempre llevo encima el Pokégear.\nLlámame cuando quieras.
+¡No te preocupes! Soy un Campista\nde corazón cálido.
+Dame tu número, por favor.{YESNO 0}
+¡Por fin vienes!\r¡Mira lo que te tenía guardado!\nLlévatelo sin reparos. Es para ti.\r
+¿Eh? Estás cerca, ¿no?\n¡Métete el teléfono en el bolsillo!
+Criar los Pokémon con cariño\ndentro de una casa es posible,\fpero gracias a que {STRVAR_1 0, 10, 0}\festá siempre conmigo en el campo,\festá hecho un roble.\rHace nada tumbó un {STRVAR_1 0, 11, 0}.\n¡Ojalá lo hubieras visto!
+No hay que obsesionarse en tumbar\nPokémon salvajes para que tus Pokémon\fsean más fuertes. Tampoco debes lanzar\fPoké Balls a lo tonto.\rLo importante es la coordinación entre\ntu equipo Pokémon y tú.\rMi {STRVAR_1 0, 10, 0} y yo estamos\nabsolutamente compenetrados...\rBueno, ojalá, porque el otro día\nse nos escapó un {STRVAR_1 0, 11, 0}.\rNo todo va siempre como uno quiere.
+¿Sabes? El otro día me encontré\ncon un {STRVAR_1 0, 11, 0}.\fFue justo al volver de acampada.\rLa naturaleza esconde muchas\nsorpresas, hay que tener cuidado.
+Estaba a punto de preparar la comida\ncuando me acordé de ti.\rAntes de comer, dan ganas de moverse\nechando un buen combate.\rEstoy en {STRVAR_1 4, 3, 0}. Pásate\npor aquí con tu equipo Pokémon.
+¿Qué pasa? ¿Te has perdido?\rNo me voy a mover de aquí, estoy\nen {STRVAR_1 4, 3, 0}, por el centro.
+¿Sabes en qué se diferencian un picnic\ny una acampada?\r¡En las canciones!\rEn los picnic son alegres y animadas,\ny vamos por la montaña mientras\fcantamos.\rEn las acampadas son melancólicas\ny muy lentas, y se cantan alrededor\fde una fogata.\r¿Eh? ¿No me crees?\rEntonces te voy a tener que llevar de\nacampada un día de estos.\rLos dos, frente al fuego, observándolo\nfijamente, canturrearemos juntos\fa la nostalgia.
+El otro día estaba cavando para hacer\nuna fogata y encontré algo rarísimo.\rParece que recibe el nombre de\nPiedra Solar. Te la doy, pero tienes\fque venir a {STRVAR_1 4, 3, 0}.
+Todavía tengo la Piedra Solar.\n¿Es que no la quieres?\rEstoy en {STRVAR_1 4, 3, 0}.\n¡Ven a toda prisa!

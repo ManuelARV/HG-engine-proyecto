@@ -1,0 +1,12 @@
+¡Hola, futura estrella!\rEl suelo de este Gimnasio no es muy\nseguro, así que será mejor que lleves\ftus Pokémon en sus Poké Balls.\rBien...\nDébora usa los míticos y sagrados\fPokémon de tipo Dragón.\rNo son fáciles de dañar.\rPero se supone que son débiles contra\nlos movimientos de tipo Hielo.
+¡Genial! ¡Has vencido a Débora!\rPor mucho que ella diga lo contrario,\nla has superado con creces.\fO al menos eso me parece a mí...\r¡Ahora será mejor que hagas\nlo que te ha dicho!
+¡Hola, joven promesa!\rCaminar por este Gimnasio es\npeligroso. Por eso es mejor que\flleves a tus Pokémon en sus Poké Balls.\rBien...\nDébora usa los míticos y sagrados\fPokémon de tipo Dragón.\rNo son fáciles de dañar.\rPero se supone que son débiles contra\nlos movimientos de tipo Hielo.\r
+Débora: ¡Soy Débora!\n¡La mejor Domadragones del mundo!\r¡Soy tan fuerte que hasta puedo\nderrotar al Alto Mando\fde la Liga Pokémon!\r¿Qué? ¿Aun así quieres\nenfrentarte a mí?\rTú lo has querido. ¡Empecemos!\n¡Pero te aviso de que no me contengo\fante ningún Entrenador!\r
+Débora: ¡Esto no acaba aquí!\rQuizá haya perdido esta vez,\npero de momento no vas a enfrentarte\fen la Liga Pokémon.\rYa sé.\rTras este Gimnasio hay un lugar\nllamado Guarida Dragón.\rHay un pequeño santuario en el centro.\nVe allí.\r¡Si pruebas tu valía, reconoceré que\nte mereces la Medalla del Gimnasio!
+Débora: ¿Qué pasa?\r¿Es demasiado para ti?
+Débora: ¡Me has hecho esperar!\n¡Ven! ¡Toma esto!\r
+Débora: Esta MT contiene Pulso Dragón.\rLo de “Pulso” viene de...\nBueno... ¡No hace falta que te lo diga!\f¡Lo que importa es que libera\funa energía extraordinaria!\rSi no la vas a usar, no hace falta\nque la aceptes.\r
+¿Qué pasa?\n¿No te queda espacio?
+Débora: ¿Qué pasa?\n¿No vas a la Liga Pokémon?\r¿Acaso... tienes algo que hacer\nantes de ir?\rAhora que caigo, tú vienes de\nPueblo Primavera, donde el Profesor\fElm tiene su Laboratorio, ¿verdad?\rEntonces, ¿por qué no vas a hacerle\nuna visita?\rTodavía te queda un largo camino\npor recorrer.\r¡No se te ocurra tirar la toalla!\nSi no, ¿de qué serviría mi derrota?\r...\n¡Ánimo y a por todas!
+Gimnasio Pokémon de Ciudad Endrino
+Gimnasio Pokémon de Ciudad Endrino\rLíder: Débora\nEntrenadores reconocidos:\f{STRVAR_1 3, 0, 0}

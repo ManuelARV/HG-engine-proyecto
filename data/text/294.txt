@@ -1,0 +1,20 @@
+¡Por favor!\n¡{STRVAR_1 28, 0, 0}!
+¡Vamos! ¡{STRVAR_1 28, 0, 0}!
+¡Lucharé con\n{STRVAR_1 28, 0, 0}!
+¡Es {STRVAR_1 28, 0, 0}!
+¡{STRVAR_1 28, 0, 0}, me voy\ncon {STRVAR_1 28, 1, 0}!
+¡Mira a {STRVAR_1 28, 0, 0}!
+¡Voy a enseñarte {STRVAR_1 28, 0, 0}!
+¡Ahora!\n¡{STRVAR_1 28, 0, 0}!
+¡Voy a enseñarte mi\nestrategia {STRVAR_1 28, 0, 0}!
+¡Voy a {STRVAR_1 28, 0, 0}!
+¡Vas a llevarte una sorpresa\ncon {STRVAR_1 28, 0, 0}!
+¡Este es el principio\nde {STRVAR_1 28, 0, 0}!
+¡Este combate es\n{STRVAR_1 28, 0, 0}!
+¡No creo que nunca\npierda en {STRVAR_1 28, 0, 0}!
+¡El equipo {STRVAR_1 28, 0, 0} está aquí!
+¿Crees que puedes derrotar a\n{STRVAR_1 28, 0, 0}?
+¡{STRVAR_1 28, 0, 0}!\n¡Poder {STRVAR_1 28, 1, 0}!
+¡Este es el Pokémon {STRVAR_1 28, 0, 0}!
+¡{STRVAR_1 28, 0, 0} no puede perder!
+¡Por favor, {STRVAR_1 28, 0, 0}!\n¡{STRVAR_1 28, 1, 0}!

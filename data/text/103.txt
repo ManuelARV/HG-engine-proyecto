@@ -1,0 +1,36 @@
+¡Te doy la bienvenida\nal Frente de Batalla!\r¿Es esta tu primera visita?\n¡Por aquí, por favor!\r
+¡Anda! ¡Si tienes una Cámara Lucha!\n¡Qué chula!\rAquí mejoramos las Cámaras Lucha de\nquienes nos visitan por primera vez.\rDéjame un momentito la tuya.\rA ver... Se abre por aquí, se revuelve\npor allá... ¡Clonk, clac! ¡Listos!\r¡Ya está! Aquí tienes.\r
+Se ha mejorado la Cámara Lucha\nde {STRVAR_1 3, 0, 0}.
+Nuestro personal estará encantado de\nexplicarte el funcionamiento de cada\fedificio del Frente de Batalla.\rYo puedo hablar de los temas\ngenerales. ¿Alguna pregunta? {YESNO 0}
+¿Sobre qué quieres que te informe? {YESNO 0}
+El Frente de Batalla tiene cinco\nedificios dedicados a los combates.\rEn la Torre Batalla el objetivo es\nvencer a siete Entrenadores seguidos.\rEn la Sala Batalla puedes batir\nrécords de un Pokémon en concreto.\rEn la Fábrica Batalla debes ganar\ncombates consecutivos con\fPokémon de préstamo.\rEn el Castillo Batalla puedes usar\nPuntos del Castillo para poder avanzar.\rPor último, en la Ruleta Batalla,\nel azar provoca eventos.\rPuedes elegir el tipo de combate\nque te apetezca.\r
+Los combates de los cinco edificios\nse rigen por normas especiales.\rEn primer lugar, no se ganan\nPuntos de Experiencia.\rPor lo tanto, los Pokémon que luchen\naquí no subirán de nivel.\rSi la regla del nivel 50 está vigente, el\nnivel de Pokémon de niveles superiores\fse reducirá temporalmente a Nv. 50.\rSin embargo, los Pokémon que tengan\nun nivel inferior entrarán sin que\fsu nivel se ajuste hacia arriba.\r
+Solemos referirnos a los Puntos de\nBatalla como PB.\rLos PB son puntos que solo se utilizan\nen el Frente de Batalla.\rConseguirás PB al lograr ciertos\nobjetivos en los distintos edificios\fdel Frente de Batalla.\rPuedes cambiar PB por premios en el\nServicio de Intercambio.\r
+El Servicio de Intercambio está\nen el patio de más adelante.\rAllí puedes cambiar tus PB por una\namplia gama de premios.\r¡Anímate a visitarlo!\r
+El Monitor de Rendimiento muestra datos\ndel Entrenador, como el récord\fanterior y el mejor hasta la fecha.\rHallarás uno cerca del mostrador de\nrecepción que hay en cada edificio.\r
+¡Esperamos que disfrutes de la visita!
+           
+         
+            
+          
+   
+           
+¡Te doy la bienvenida\nal Frente de Batalla!\r¿Quieres que te explique cómo\nfunciona la Torre Batalla?{YESNO 0}
+La Torre Batalla es el edificio que está\nal fondo del Frente de Batalla.\rEl objetivo es formar un equipo\ncon distintos Pokémon y luchar\fhasta que pierdas.\r
+¡Esperamos que disfrutes de la visita!
+¡Te doy la bienvenida\nal Frente de Batalla!\r¿Quieres que te explique cómo\nfunciona la Fábrica Batalla?{YESNO 0}\n
+La Fábrica Batalla se encuentra\nen la esquina superior derecha\fdel Frente de Batalla.\rAllí competirás en un torneo\neliminatorio con Pokémon de préstamo.\rLa meta es acumular tantas victorias\ncomo te sea posible.\rCada vez que ganes un combate,\npodrás cambiar uno de tus Pokémon\fpor uno de los de tu oponente.\r
+¡Esperamos que disfrutes de la visita!
+¡Te doy la bienvenida\nal Frente de Batalla!\r¿Quieres que te explique cómo\nfunciona la Sala Batalla? {YESNO 0}
+La Sala Batalla está\nen la esquina superior izquierda\fdel Frente de Batalla.\rAllí luchas con el Pokémon que hayas\nelegido en combates uno contra uno.\rEl objetivo es ganar todos los combates\nconsecutivos que sea posible.\r
+¡Esperamos que disfrutes de la visita!
+¡Te doy la bienvenida\nal Frente de Batalla!\r¿Quieres que te explique cómo\nfunciona el Castillo Batalla?{YESNO 0}
+El Castillo Batalla está en la esquina\ninferior izquierda del Frente de Batalla.\rAllí recibirás Puntos del Castillo (PC),\nque podrás utilizar para curar Pokémon,\falquilar objetos, comprar Bayas, etc.\rLa meta es ganar todos los combates\nconsecutivos que puedas con la ayuda\fde los Puntos del Castillo.\r
+¡Esperamos que disfrutes de la visita!
+¡Te doy la bienvenida\nal Frente de Batalla!\r¿Quieres que te explique cómo\nfunciona la Ruleta Batalla?{YESNO 0}
+La Ruleta Batalla está en la esquina\ninferior derecha del Frente de Batalla.\rAllí se activa una ruleta\nantes de cada combate.\rSegún lo que aparezca en ella,\ntendrá lugar un evento determinado.\rAlgunos eventos te beneficiarán,\nmientras que otros beneficiarán\fa tu oponente.\rPuede que ni tengas que luchar.\rLa meta es ganar todos los combates\nconsecutivos que te sea posible.\r
+¡Esperamos que disfrutes de la visita!
+¡El Frente de Batalla está ahí delante!\r¡He viajado por todos los rincones\ndel mundo, pero hasta ahora nunca\fhabía estado tan emocionado!\r¿Qué tipo de Entrenadores habrá?\n¿De qué combates disfrutaré?\r¡Es toda una aventura para mí!
+Los cinco edificios\ndel Frente de Batalla:\rLa Torre, la Sala, el Castillo,\nla Fábrica y la Ruleta.\r¿Cómo se hace un acrónimo con\ntales iniciales? ¿TSCFR?\rMmm... ¿Y dándoles la vuelta?\n¡RFCST! ¡FRSCT!\r¡Jolín, no hay manera!...\n¡¿Es que nadie ha pensado en esto?!
+¡La Cámara Lucha es la mar de práctica!\rSi miras los registros\ndel Frente de Batalla,\fpodrás ver cuántos PB tienes.
+Mi sueño sería luchar contra Jericor\nen la Torre Batalla.\rLo grabaría para la posteridad\ncon mi Cámara Lucha.\r¡Pero resulta que me la he dejado\nen casa! ¡Qué desastre!

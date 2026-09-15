@@ -1,0 +1,20 @@
+¡{STRVAR_1 28, 0, 0}!\n¡Hola!
+¡Todo un placer conocerte!\n¡Me encanta {STRVAR_1 28, 0, 0}!
+¡Entreno {STRVAR_1 28, 0, 0}!\n¡Vamos a luchar!
+¡Vamos a intercambiar!\n¡Te ofrezco {STRVAR_1 28, 0, 0}!
+¡Vamos a intercambiar!\n¡Yo quiero {STRVAR_1 28, 0, 0}!
+He entrado en la Sala Unión.
+¡Vamos a dibujar! ¡Quiero dibujar\n{STRVAR_1 28, 0, 0}!
+¡Tengo que irme!\n¡{STRVAR_1 28, 0, 0}!
+Déjame en paz...
+¿Hay alguien que quiera\n{STRVAR_1 28, 0, 0}?
+¡Vamos a {STRVAR_1 28, 0, 0}!
+¿Quieres {STRVAR_1 28, 0, 0}?
+¡Quiero {STRVAR_1 28, 0, 0}!
+¡Vale!
+No quiero\n{STRVAR_1 28, 0, 0}.
+Voy a ir al Coliseo a\nesperar allí.
+¡Háblame!
+¿Sabes dónde estoy?
+Intercambio mi {STRVAR_1 28, 0, 0}.\nHabla conmigo.
+¡Quiero un combate {STRVAR_1 28, 0, 0}!\n¡Habla conmigo!

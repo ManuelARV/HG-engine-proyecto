@@ -1,0 +1,14 @@
+Óscar
+¿Tú también estás intentando llegar a \nla élite de los Entrenadores Pokémon?\r¡Entonces somos camaradas!\rSi encuentro más objetos en el agua,\nte daré alguno.\rVenga, dame tu número de teléfono.{YESNO 0}
+Sabrás de mí si encuentro algo\nen condiciones.
+¡Conque esas tenemos!\rEntonces tendré que usar los objetos\nyo mismo.
+Si encuentro más objetos en el agua,\nte daré alguno.\rSolo tienes que darme tu número.{YESNO 0}
+¡Hola! ¡Has venido!\r¡Aquí tienes el regalo,\ntal y como te dije!\r
+¿Eh? ¡Pero si estás aquí al lado!\n¡Ven a hablar conmigo directamente!
+Mi {STRVAR_1 0, 10, 0} ha vuelto a crecer.\rSolo era así de grande cuando lo\natrapé, pero ahora así de grandote.\rHace nada noqueé a un {STRVAR_1 0, 11, 0}\nsalvaje.\fEra enorme, más o menos aaaasí.\rAunque... por mucho que te lo explique\npor teléfono no te vas a enterar...\r¡Nos vemos!
+Mi {STRVAR_1 0, 10, 0} ha vuelto a crecer.\rSolo era así de grande cuando lo\natrapé, pero ahora así de grandote.\rHace nada noqueé a un {STRVAR_1 0, 11, 0}\nsalvaje.\fEra enorme, más o menos aaaasí.\rAunque... por mucho que te lo explique\npor teléfono no te vas a enterar...\r¡Nos vemos!
+¡Tendríamos que luchar!\nEstaré pescando en {STRVAR_1 4, 3, 0}.\rPásate por ahí si tienes tiempo.
+¿Qué? ¿Te has perdido?\rNuestro combate es\nen {STRVAR_1 4, 3, 0}.
+¿Que si he encontrado algo bueno?\rNo, aún no.\rYa sabes, es como la pesca:\nexige paciencia.
+He encontrado una cosita interesante\nen la orilla.\rComo te prometí, es tuya.\nTe espero en {STRVAR_1 4, 3, 0}.
+Tengo algo bueno para ti.\nVen rápido a {STRVAR_1 4, 3, 0}.

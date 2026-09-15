@@ -1,0 +1,58 @@
+Hola, este es el Castillo Batalla.\nMe llamo Kokuran.\rSoy el encargado de atender a la gente\nen nombre de la dueña del castillo,\fla señorita Catleya.\rPara comenzar, será necesario que\nrequise los objetos de los Pokémon.\rLes serán devueltos a la salida.\rBien, aquí tengo 10 PC o Puntos del\nCastillo, que solo se pueden usar aquí.\r
+Hola, {STRVAR_1 3, 0, 0}.\rComo indica el reglamento, tengo que\nrequisar los objetos que lleven los\fPokémon.\rLes serán devueltos a la salida.\rSe me olvidaba, aquí tengo 10 PC,\nque solo se pueden usar aquí.\r
+Espera un momento, por favor.
+Muy bien.\nAdelante, por favor.
+Reviviremos a los Pokémon\nque se hayan debilitado.\r
+El combate número {STRVAR_1 53, 0, 0} aguarda.\n¿Todo preparado?
+¿Quieres guardar el último combate\ncomo tu Vídeo de Combate?
+Se ha guardado el último enfrentamiento\nde {STRVAR_1 3, 0, 0} como Vídeo de Combate.\r
+Se ha producido un error.\nNo se ha podido guardar el vídeo.\r
+¿Quieres borrar el Vídeo de Combate\nactual y guardar tu último combate?
+Guardando...\nNo apagues la consola.
+¿Quieres guardar la partida\ny tomarte un descanso?
+  
+   
+¿Quieres retirarte\ndel Castillo Batalla?
+  
+   
+{STRVAR_1 3, 0, 0} se lo está pensando.\nPor favor, espera.
+                    
+{STRVAR_1 3, 0, 0} se ha retirado.
+Elige qué quieres hacer.\r
+Puedes restaurar los PS de un Pokémon\no alquilarle un objeto.
+Ver los Pokémon rivales.
+Empezar el combate.
+Evitar el siguiente enfrentamiento.
+Te costará {STRVAR_1 52, 0, 0} PC.\n¿Te parece bien?
+  
+   
+Lo siento mucho. No tienes\nsuficientes PC.\r
+A partir de ahora, es posible elegir\r“PASAR” para evitar\nun combate determinado.\rHay que seleccionar “PASAR”\ncuando no se quiera participar\fen cierto combate.\r
+Catleya: ¡Kokuran! ¡Entrega PC!\n¡Es lo justo!
+Kokuran: Bravo, {STRVAR_1 3, 1, 0}.\nUna victoria impecable, está claro.
+Kokuran: Bien hecho, {STRVAR_1 3, 1, 0}.\nUna victoria excelente.
+Kokuran: Buen combate, {STRVAR_1 3, 1, 0}.\nHa sido duro, ¿no?
+Kokuran: {STRVAR_1 3, 1, 0}, buen combate...
+Kokuran: Bravo, {STRVAR_1 3, 1, 0}.\nUna victoria impecable, está claro.\r
+Kokuran: Bien hecho, {STRVAR_1 3, 1, 0}.\nUna victoria excelente.\r
+Kokuran: Buen combate, {STRVAR_1 3, 1, 0}.\nHa sido duro, ¿no?\r
+Kokuran: {STRVAR_1 3, 1, 0}, buen combate...\r
+La señorita Catleya me ha ordenado\nque te entregue {STRVAR_1 51, 0, 0} PC.
+Kokuran: Te doy la enhorabuena por\nsuperar siete combates seguidos.\r{STRVAR_1 3, 0, 0}, por todo tu esfuerzo,\nsé tan amable de aceptar estos PB.\r
+¡{STRVAR_1 3, 0, 0} ha conseguido {STRVAR_1 51, 1, 0} PB!\r
+Ahora les devolveré a los Pokémon\nlos objetos que les hayamos requisado.\r
+Guardando...\nNo apagues la consola.
+Catleya: ¿Qué es eso de pasar?...\n¡Qué vulgar!
+ADELANTE
+GUARDAR VÍDEO
+DESCANSO
+RETIRADA
+EQUIPO
+RIVAL
+COMBATE
+PASAR
+Kokuran: ¡Enhorabuena, {STRVAR_1 3, 0, 0}!\rTiene mérito que hayas conseguido\nllegar hasta aquí...\rLa dueña del castillo, en reconocimiento\na tu valía, exige que te enfrentes\fal mayordomo.\r¿Todo listo?\r
+Kokuran: Hola.\rSoy Kokuran y soy el mayordomo\ndel castillo.\rMi jefa, la señorita Catleya, no\nencaja bien las derrotas.\rAun así, por motivos que no puedo\nrevelar, ella no puede combatir.\fPor tanto, yo ocuparé su lugar.\rSubestimarme es inútil, soy mucho\nmejor de lo que parezco... ¡En guardia!\r
+Kokuran: Tus habilidades con los\nPokémon siguen siendo impresionantes.\f{STRVAR_1 3, 0, 0}, todo elogio es poco.\rNo obstante, si se me permite decirlo,\nme he percatado de algo acerca de\rtu manera de combatir al tener la\noportunidad de verte de cerca.\r¿Que de qué me he dado cuenta?\rSería maleducado por mi parte decírtelo\nantes del combate, ¡así que en guardia!\r
+Kokuran: {STRVAR_1 3, 0, 0}, ¡está claro que\ntienes un talento fuera de lo común!\rHe recurrido a toda la experiencia\ny nobleza de mi profesión, pero aun así\fhe sido incapaz de vencerte.\rAhora solo me queda intentar apaciguar\na la señorita Catleya.\r{STRVAR_1 3, 0, 0}, te ruego que vuelvas al\nCastillo Batalla en otra ocasión.\r¡Estaré encantado de verte\naquí de nuevo!\r
+Kokuran: Estoy anonadado...\rLo que pensaba que era tu punto débil\nha resultado ser un mero espejismo...\rPuede que fuera algo que hayas suplido\ndurante el combate.\rTus habilidades han vuelto a brillar\nuna vez más.\rLa señorita Catleya, aunque no lo puede\ndecir, está sorprendida por tu estilo.\r¡Vuelve al Castillo Batalla, incluso si\nsolo es por mi señora!\r

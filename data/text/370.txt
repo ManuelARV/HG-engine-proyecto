@@ -1,0 +1,4 @@
+¿Adónde vas con los Pokémon?\n¿A la Liga Pokémon?\r¿Son tus Pokémon lo bastante fieles\ncomo para permitirte ganar?\rDéjame ver...\r
+¡Ah! Tus Pokémon confían mucho en ti.\rDa gusto ver a alguien tan bueno.\nToma. Un regalo para el viaje.\r
+La MT37 contiene Tormenta Arena.\rEste movimiento daña\na todos los combatientes.\rSin embargo, no afecta a los de tipo\nRoca, Tierra o Acero.\rHay otras formas de protegerse de\nsus efectos, pero mejor que las\fdescubras por tu cuenta.\n
+Si no confían más en ti, tendrás\nproblemas para ganar.\rLa confianza es el vínculo entre\nlos Pokémon y sus Entrenadores.

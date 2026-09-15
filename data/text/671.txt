@@ -1,0 +1,16 @@
+José
+¡Fiuuuuu! ¡Fiuuuu!\rEn cuanto FARFETCH’D ve algo bonito,\nlo agarra con el pico y me lo trae.\r¿Te gustan las cosas bonitas?\nSi quieres, la próxima vez que me\ftraiga algo, te lo doy.\r¿Me das tu número de teléfono?{YESNO 0}
+Te llamaré tan pronto como\nconsiga algo bonito.
+¿No? Bueno, avísame si cambias\nde opinión.
+¡Fiuuuuu! ¡Fiuuuu!\r¿Te gustan las cosas bonitas?\rSi FARFETCH’D me trae algo,\nte lo doy, así que dame\ftu teléfono.{YESNO 0}
+¡Fiuuuuu! ¡Fiuuuu!\r¡Huy! Me daba la impresión de que\nhabías venido hasta aquí por mi silbido.\rVeo que no era eso, lo que querías\neran Trozos Estrella.\r¡Anda, toma!\r
+¡Fiuuuuu! ¡Fiuuuu!\n¿Eh? ¿Estás cerca de aquí?\rEntonces ven a hablar conmigo\nen persona.
+Escucha, el puerro de mi {STRVAR_1 0, 10, 0}\ntiene un aroma delicioso.\r¡Ese aroma huele que alimenta!\n¡Siempre me abre el apetito!\r¡Hasta la vista!
+Hace un tiempo, mi FARFETCH’D derrotó\na un {STRVAR_1 0, 11, 0}.\rDeberías haber visto a FARFETCH’D\ncon ese puerro.\r¡Fue impresionante! ¡Hasta la vista!
+Me encontré con un {STRVAR_1 0, 11, 0}.\rIntenté atraparlo, pero huyó más\nrápido de lo que pensaba.\rMe llevé un chasco pero, qué se le va\na hacer. ¡Hasta la vista!
+¿Quieres volver a luchar?\nPor alguna razón, mi FARFETCH’D está\fentusiasmado y quiere empezar ya.\rEstoy en {STRVAR_1 4, 3, 0}.\nMira a ver si me ves, ¿vale?
+{STRVAR_1 3, 0, 0}, ¿puedes darte prisa?\rFARFETCH’D está que no puede\nya ni contenerse.\r¡Si no vienes pronto, podría empezar\na liarse a puerrazos!\r¡Estoy en {STRVAR_1 4, 3, 0}!\n¡Ven o no respondo de lo que pueda\focurrir!...
+{STRVAR_1 3, 0, 0}, ¿puedes darte prisa?\rFARFETCH’D está que no puede\nya ni contenerse.\r¡Si no vienes pronto, podría empezar\na liarse a puerrazos!\r¡Estoy en {STRVAR_1 4, 3, 0}!\n¡Ven o no respondo de lo que pueda\focurrir!...
+No he conseguido lo que te prometí.\rTe llamaré en cuanto lo tenga.\n¿Puedes esperar un poco?
+Mi FARFETCH’D llevaba en el pico\nalgo bonito.\rLo prometido es deuda,\nte lo puedes quedar.\rBúscame en {STRVAR_1 4, 3, 0} y\nte lo daré.
+¿Qué ocurre? ¿No quieres este regalo?\rBúscame en {STRVAR_1 4, 3, 0}\ny te lo daré.

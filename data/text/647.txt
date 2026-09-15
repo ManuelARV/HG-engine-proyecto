@@ -1,0 +1,15 @@
+Azul
+¡No se te oye nada!\n¡Intenta llamarme desde otro sitio!
+¿Hola? No te preocupes.\n¡Yo estoy feliz como una perdiz!\r
+Te faltan unos cuantos Líderes\na los que enfrentarte.\f¡Date prisa y ve a machacarlos!
+Yo solo estoy libre el domingo\npor la noche. ¡Dame un toque!
+Me pillas medio aburrido.\n¿Volvemos a luchar?{YESNO 0}
+¡Genial! ¡Esta vez no perderé!\nTe espero en el Dojo de Ciudad Azafrán.
+Vaya... No debes de tener tiempo...
+¿Eh? ¿No has quedado ya con alguien?\n
+¡Te espero en el Dojo\nde Ciudad Azafrán!\f¡Lo prometido hay que cumplirlo!
+Soy Azul.\r
+Habíamos quedado en el Dojo de\nCiudad Azafrán, ¿no?\rEspero que no se te haya olvidado.\n¡Ya sabes dónde estoy!
+Cuando me pongo a ver Pokémon,\npienso muchas cosas.\rUnos son redondos, otros cuadrados,\nunos vuelan, otros nadan,\funos queman, otros congelan,\funos brillan, otros son oscuros...\r¡Hay de todos los colores y sabores!\r¡Y todos son Pokémon! A lo mejor\nlos humanos somos un tipo de Pokémon...\r¿No te parece?\n¿O es ir demasiado lejos?
+Eres excepcional. Viajas sin compañía,\nvences a Líderes por aquí y por allí\fsin ayuda de nadie...\rAhora que lo pienso, claro que tienes\ncompañía, ¡tus Pokémon!
+Rojo me abatió en un santiamén.\rHace un montón que no lo veo.\n¿Qué estará haciendo? ¡Un momento!\rTú te pareces a Rojo. Esa comisura\nde los labios te da un aire.

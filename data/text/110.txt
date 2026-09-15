@@ -1,0 +1,56 @@
+Te doy la bienvenida a la Ruleta Batalla.\rSoy la guía de las Salas de Combate\nIndividual y Doble.\rTen en cuenta que estos desafíos están\npensados para un solo Entrenador.\r
+¿Qué reto te gustaría afrontar?{YESNO 0}
+En la Ruleta Batalla puedes competir en\ncombates dobles o individuales.\rAquí se activa una ruleta antes de\ncada combate.\rSegún lo que aparezca en ella, tendrá\nlugar un evento determinado.\rAlgunos eventos te beneficiarán,\nmientras que otros beneficiarán\fa tu oponente.\rLa meta es ganar todos los combates\nconsecutivos que te sea posible.\rDurante el desafío, guardaremos los\nobjetos de tus Pokémon en consigna.\rSi ganas siete combates seguidos,\nobtendrás Puntos de Batalla (PB).\rSi quieres interrumpir el desafío,\nno olvides guardar antes la partida.\rSi no la guardas, se te descalificará.\r¡Tenlo en cuenta!\r
+Te doy la bienvenida a la Ruleta Batalla.\rSoy la guía de las Salas de Combate\nMúltiple.\rTen en cuenta que estos desafíos están\npensados para dos Entrenadores.\r
+¿Aceptas el desafío de los combates\nmúltiples de la Ruleta Batalla?{YESNO 0}
+Para participar en combates múltiples,\ndebes formar equipo con otra persona.\rAquí se activa una ruleta antes de\ncada combate.\rSegún lo que aparezca en ella, tendrá\nlugar un evento determinado.\rLos eventos pueden influir de forma\ndecisiva en el resultado del combate.\rLa meta es ganar todos los combates\nconsecutivos que os sea posible.\rDurante el desafío, guardaremos los\nobjetos de tus Pokémon en consigna.\rSi ganáis siete combates seguidos,\nobtendréis Puntos de Batalla (PB).\rLos combates múltiples de la Ruleta\nBatalla no se pueden interrumpir.\r
+¡Vuelve cuando quieras!
+Selecciona los Pokémon que quieres\nque participen.\r
+¡Lo siento!\rNo tienes {STRVAR_1 50, 0, 0} Pokémon válidos.\rNecesitas {STRVAR_1 50, 1, 0} Pokémon diferentes\npara poder participar.\r
+Además, no se puede participar\ncon Huevos.\r
+Los Huevos y {STRVAR_1 0, 1, 0} no pueden\nparticipar.\r
+Los Huevos, {STRVAR_1 0, 1, 0} y\n{STRVAR_1 0, 2, 0} no pueden participar.\r
+Los Huevos, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0}\ny {STRVAR_1 0, 3, 0} no pueden participar.\r
+Los Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0} y\f{STRVAR_1 0, 4, 0} no pueden participar.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0} ni {STRVAR_1 0, 5, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0}\fni {STRVAR_1 0, 6, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0} ni {STRVAR_1 0, 7, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0}\fni {STRVAR_1 0, 8, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0} ni {STRVAR_1 0, 9, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0}\fni {STRVAR_1 0, 10, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\f{STRVAR_1 0, 10, 0} ni {STRVAR_1 0, 11, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\f{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0}\fni {STRVAR_1 0, 12, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\f{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\f{STRVAR_1 0, 12, 0} ni {STRVAR_1 0, 13, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\f{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\f{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0}\fni {STRVAR_1 0, 14, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\f{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\f{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0},\f{STRVAR_1 0, 14, 0} ni {STRVAR_1 0, 15, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\f{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\f{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0},\f{STRVAR_1 0, 14, 0}, {STRVAR_1 0, 15, 0}\fni {STRVAR_1 0, 16, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\f{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\f{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0},\f{STRVAR_1 0, 14, 0}, {STRVAR_1 0, 15, 0},\f{STRVAR_1 0, 16, 0} ni {STRVAR_1 0, 17, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\f{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\f{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0},\f{STRVAR_1 0, 14, 0}, {STRVAR_1 0, 15, 0},\f{STRVAR_1 0, 16, 0}, {STRVAR_1 0, 17, 0}\fni {STRVAR_1 0, 18, 0}.\r
+Vuelve cuando tengas\ntodo lo necesario.\r
+¡Ambos Entrenadores habéis elegido\nel Pokémon {STRVAR_1 0, 0, 0}!\rHabla con la otra persona y\nelegid Pokémon diferentes.\r
+¡Ambos habéis elegido los Pokémon\n{STRVAR_1 0, 0, 0} y {STRVAR_1 0, 1, 0}!\rHabla con la otra persona y\nelegid Pokémon diferentes.\r
+Debes guardar la partida antes\nde entrar. ¿Estás de acuerdo?{YESNO 0}
+¡Por aquí, por favor!
+¡Te hemos echado de menos!\rTienes que guardar la partida antes de\nreanudar tu reto. Espera, por favor...
+¡Vaya!\rHa habido una irregularidad a la\nhora de abandonar el desafío...\rEso quiere decir que, ejem,\nse te ha descalificado...\r
+¡Enhorabuena!\r¡Para celebrar tu victoria te damos\neste regalo conmemorativo!\r
+¡Se ha añadido la Foto Dorada\na la Cámara Lucha de {STRVAR_1 3, 0, 0}!\r
+¡Se ha añadido la Foto Plateada\na la Cámara Lucha de {STRVAR_1 3, 0, 0}!\r
+COMBATE INDIVIDUAL
+COMBATE DOBLE
+ACEPTAR EL DESAFÍO
+INFORMACIÓN
+SALIR
+Un Entrenador debe elegir\n“HACER DE LÍDER”.\rEl otro Entrenador debe elegir\n“UNIRSE”.{YESNO 0}
+La comunicación inalámbrica de\nNintendo DS se iniciará. ¿Seguir?{YESNO 0}
+Tienes que guardar la partida antes de\nentrar. Espera, por favor...
+La ruleta es como la vida.\rDa vueltas y vueltas y no sabes\nlo que te depara el destino...\r¿Qué? Quería decir algo muy profundo,\npero creo que me he liado...
+Las luchas de Pokémon son\na veces cuestión de suerte.\rEsto lo comprenderás rápidamente\ncuando participes en la Ruleta Batalla.
+¿Qué cualidad se necesita aquí?\n¿Fuerza?\f¿Inteligencia?\f¿Suerte?\fNinguna de las tres.\rHace falta pensar de forma flexible.\nAl menos eso creo...
+Puedes detener la ruleta en cualquier\nmomento. Pulsa el botón para\fintentar que se detenga en\flos símbolos que necesites.\rAh, y no te quedes mirando el movimiento\nde la ruleta. Si no la detienes en medio\fminuto, se parará sola.
+Usé mi Pokémon más poderoso,\npero me tocó intercambiarlo\fcon mi rival y me la dieron con queso.\rVoy a tener que trazar una estrategia\nmás sagaz.
+Empecé con un Pokémon que tenía\nmucha fuerza, pero mi rival me atacó\fcon velocidad.\r¡Ahora yo voy a cambiar de táctica\ny voy a usar un Pokémon veloz!
+Intentar sacar los símbolos que mejor\nte vengan es una táctica, pero dejarse\fllevar por la incierta mano del azar\ftambién tiene su aliciente.
+Cuantos más combates ganes, mejores\nserán las opciones que te muestre\fla ruleta. ¿Será que está viva?\n
+¿Te habías enterado ya?\rSi la ruleta señala un evento\nparalizante, los Pokémon de tipo\fTierra no se ven afectados.\r¡Avisa a todo el mundo!
+Ah, y una cosa más.\rLos eventos de envenenamiento o\ncongelación pueden no ser eficaces.\rEl tipo o la habilidad del Pokémon pueden\nprotegerlo de esos problemas\fde estado. ¡Para que lo sepas!

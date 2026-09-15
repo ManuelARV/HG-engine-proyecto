@@ -1,0 +1,59 @@
+Ver clave Wii
+Registrar clave Wii
+Ajustar mensajes de Wii
+Borrar ajustes mensajes
+Salir
+               
+                 
+                  
+                                                                                    
+¿Puedes acceder desde donde estás\na la Conexión Wi-Fi de Nintendo?
+Regístrate cuando puedas acceder\na la Conexión Wi-Fi de Nintendo.\r
+Antes de acceder a la CWF de Nintendo,\nse guardarán tu clave Wii y\fla información de usuario\fde la CWF de Nintendo de esta consola.\r¿Quieres continuar?
+No se ha podido acceder a\nla Conexión Wi-Fi de Nintendo.\rComprueba los ajustes de conexión.
+Se ha enviado el código de registro\na tu consola Wii.\rIntroduce el código de registro.
+¿Quieres desconectarte de la CWF de\nNintendo y no registrar la clave Wii?
+Saliendo de la Conexión Wi-Fi\nde Nintendo...
+Te has desconectado de la\nConexión Wi-Fi de Nintendo.
+Introduce las últimas cuatro cifras del\ncódigo de registro del mensaje de Wii.\r
+Confirmando el código de registro.\nPor favor, espera...
+El código de registro no es correcto.\r
+Se ha registrado tu clave Wii.\r
+Necesitas crear una contraseña\npara confirmar tu clave Wii.\rIntroduce un número de cuatro cifras\ncomo contraseña de la clave Wii.\r
+                     
+                                  
+Has establecido tu contraseña\nde la clave Wii.\r
+Si quieres, puedes recibir un mensaje\nde Wii cuando se produzca\fun intercambio en la GTS.\r¿Te gustaría recibir un mensaje\nde Wii como notificación?
+Has decidido recibir mensajes de Wii.\rLa próxima vez que utilices la GTS,\nse te notificarán los intercambios\fmediante mensajes de Wii.\r
+Has decidido no recibir mensajes de Wii.\rLa próxima vez que utilices la GTS,\nno se te notificarán los intercambios\fmediante mensajes de Wii.\r
+Se borrarán los ajustes de mensajes de\nWii y la contraseña. ¿Quieres continuar?
+Se han borrado los ajustes\nde los mensajes de Wii.\r
+                   
+               
+Guardando...\nNo apagues la consola.
+{STRVAR_1 3, 0, 0} ha guardado los ajustes.
+Error al guardar.
+                      
+                                           
+                       
+Vuelve a introducir tu clave Wii\npara confirmar.\r
+La clave Wii no coincide.\nPor favor, vuelve a introducirla.\r
+La contraseña no es correcta.\nPor favor, vuelve a introducirla.\r
+Tu clave Wii es:\n{STRVAR_1 53, 0, 0} {STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}\r
+No registrar
+Registrar
+{COLOR 0}Registro de clave Wii{COLOR 0}\n\nAl registrar tu clave Wii, se te informará\ncon un mensaje de Wii cuando se produzca\nun intercambio en la GTS.\n\nConsulta el manual de instrucciones para\nobtener más información.\n\n¿Quieres registrar tu clave Wii?
+                  
+                
+          
+                 
+            
+               
+                    
+ 
+  
+Se está reparando la Conexión Wi-Fi\nde Nintendo.\rVuelve a intentar conectarte\nmás tarde.\r
+La Conexión Wi-Fi de Nintendo tiene\nun volumen de tráfico demasiado elevado\fo el servicio se ha interrumpido.\rVuelve a intentar conectarte\nmás tarde.\r
+No se ha podido acceder a\nla Conexión Wi-Fi de Nintendo.\r
+Error de conexión. Te has desconectado\nde la Conexión Wi-Fi de Nintendo.\r
+                       

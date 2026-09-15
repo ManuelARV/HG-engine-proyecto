@@ -1,0 +1,15 @@
+Lil y Lala
+¿Te lo has pasado bien con nosotras?\rYa que estamos, lo mejor es que te\ndemos nuestro número, así podremos\fluchar en cualquier momento.{YESNO 0}
+¡Número registrado!\nTú también, ¿no?
+Como quieras. No somos partidarias\nde usar la fuerza para estas cosas.
+¡A que ahora sí quieres nuestro\nnúmero de teléfono!{YESNO 0}
+¡Toma! Aquí tienes una Piedra Oval.\n¡Es para ti!\r
+¿Eh? Pero si estás muy cerca.\n¿Aun así prefieres hablar por teléfono?\rNadie comprende a los jóvenes...
+Nuestro {STRVAR_1 0, 10, 0} es más rápido\nque antes.\rCuando luchamos contra {STRVAR_1 0, 11, 0}\nhace unos días, el combate se acabó\fen un pis pas.\rAh, soy Lala, ¿eh?
+Nuestro {STRVAR_1 0, 10, 0} es mucho más\nfuerte que antes.\rPero el otro día, que luchamos contra\nun {STRVAR_1 0, 11, 0}, salió huyendo.\rAh, soy Lil, ¿eh?
+Vimos un {STRVAR_1 0, 11, 0} en la Ruta 15.\n¿Verdad, Lala?\rSí, y entonces, el {STRVAR_1 0, 11, 0}\nse abalanzó sobre nosotras.\f¿Verdad, Lil?\rCasi nos da algo del susto\ny nos dimos las de Villadiego.\rAhora que me doy cuenta, teníamos\nPokémon, tendríamos que haber\fcombatido, Lala.\rEs un poco de lío cuando hablamos\nlas dos por teléfono, ¿eh?
+¡Vamos a combatir entre los tres!\n¡Te esperamos en {STRVAR_1 4, 3, 0}!
+Habíamos quedado en combatir, ¿no?\rEstamos en {STRVAR_1 4, 3, 0}.\nNada de olvidos, ¿eh?
+Ya que nos has llamado,\nte voy a poner a prueba.\r... ... ...\n¿Quién está hablando ahora, Lil o Lala?\r... ... ...\n... ... ...\f... ... ...\f... ... ...\rLa respuesta correcta es...\n¡la Pokéfan Isidra!... que estaba\faquí por casualidad.
+Lala ha encontrado una Piedra Oval.\nSi quieres te la doy, pero\ftienes que venir a {STRVAR_1 4, 3, 0}.
+Estamos en {STRVAR_1 4, 3, 0}.\nTenemos una Piedra Oval.

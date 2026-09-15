@@ -1,0 +1,15 @@
+Rufo
+Quiero que conozcas las bondades\nde los Pokémon bicho, así que dame\ftu teléfono.{YESNO 0}
+¡Mil gracias, colega!\n¡Vamos a llamarnos a partir de hoy!
+No seas insociable, colega.
+Por fin te has decidido a darme\ntu teléfono, ¿no?{YESNO 0}
+¡Por fin llegas!\rTe estaba esperando aquí para darte\nunas Bayas. ¡Anda, toma!\r
+Si estás cerca, déjate de teléfonos\ny de tonterías y ven hasta aquí.
+Mi {STRVAR_1 0, 10, 0} se está criando\nfrancamente sano y fuerte.\rEl otro día tumbó en un abrir y\ncerrar de ojos a un {STRVAR_1 0, 11, 0}.\r¡Me quedé pasmado!
+¡Vaya mala pata!\rAhora que mi {STRVAR_1 0, 10, 0} está hecho\ntodo un Pokémon, pensé que sería capaz\fde vencer a un {STRVAR_1 0, 11, 0}, pero\fqué va, nos pasó por el rodillo.\rTenía un nivel altísimo. Menos mal que\nsalimos vivitos y coleando.
+Hace unos días, un {STRVAR_1 0, 11, 0}\nse nos echó encima.\rPor mucho que me gusten los Pokémon,\nme dio un susto de padre y muy señor\fmío. Si se va a tirar a lo banzai encima\fde mí, por lo menos prefiero que se\fpresente primero.
+Me han entrado ganas de mostrarte\ntodo el encanto de los Pokémon bicho.\r¿Te viene bien?\nVamos a combatir en {STRVAR_1 4, 3, 0}.
+¡Vamos a combatir!\nTe espero en {STRVAR_1 4, 3, 0}.\f¡No te olvides!
+Mi padre fue investigador especializado\nen los Pokémon bicho.\rPor eso, ya de pequeño, la casa\nestaba a rebosar de ellos y me\fempezaron a gustar.\rAunque mi madre no paraba de gritar\nen todo el día...
+He encontrado unas Bayas.\nYo ya tengo bastantes, te las doy.\rVen a {STRVAR_1 4, 3, 0} a por ellas.
+¿Quieres Bayas?\rTe las doy, pero ven\na {STRVAR_1 4, 3, 0}.

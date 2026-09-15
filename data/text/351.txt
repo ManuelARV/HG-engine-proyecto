@@ -1,0 +1,8 @@
+¿Sabes cuál es el Pokémon\nmás mono del mundo?\f¡CHANSEY, por supuesto!\fNo hay lugar a dudas.\r
+Si me traes un CHANSEY,\nte daré algo bueno.
+¡Hala! ¡Pero si es un CHANSEY!\r¡Guau! ¡Menuda suerte poder ver\nuno tan de cerca!\r¡Toma esto como agradecimiento!\r
+Dale este Puño Suerte a CHANSEY\ny aumentará su probabilidad de\fgolpes críticos.\r¿A que es genial?
+¡CHANSEYYYY!
+¿Sabes cuál es el Pokémon\nmás mono del mundo?\f¡CHANSEY, por supuesto!\fNo hay lugar a dudas.
+Eusine: ¡Aquí estás, {STRVAR_1 3, 0, 0}!\n¡Esta vez no se me escapará!\r¡Después de haberle seguido la pista\ntanto tiempo, por fin sé hacia dónde\fse dirige SUICUNE!\rSi estoy en lo cierto, debería\nguardarme esta información para mí,\rpero debo mostrarme amable\nante SUICUNE.\rPor eso voy a darte una pista.\nSUICUNE se dirige al norte...\fa un lugar junto al agua...\fen una zona elevada...\f¡Ahí es donde se le podrá ver!\rNo tengo ni idea de dónde se\nencuentra ese lugar por el momento.\r¡Pero pienso ser el primero\nen descubrirlo!
+Eusine: ¿Qué quieres, {STRVAR_1 3, 0, 0}?\nDebo mostrarme amable ante SUICUNE.\fPor eso voy a darte una pista.\rSUICUNE se dirige al norte...\fa un lugar junto al agua...\fen una zona elevada...\f¡Ahí es donde se le podrá ver!\rNo tengo ni idea de dónde se\nencuentra ese lugar por el momento.\r¡Pero pienso ser el primero\nen descubrirlo!

@@ -1,0 +1,9 @@
+Anciano: Eres muy hábil entrenando\nPokémon.\rComo te prometí, aquí tienes tu MT.\nPero déjame que te diga que deberías\ftratar mejor a tus Pokémon.\rLuchas de forma muy violenta.\nLos Pokémon no son armas de guerra.\r
+{STRVAR_1 3, 0, 0}: ...\r¡Bah! Afirma ser el Anciano,\npero es muy débil. \rEs evidente. Jamás perdería contra\nquienes dicen que hay que ser bueno\fcon los Pokémon.\rSolo me interesan los Pokémon \nganadores. Paso de los Pokémon débiles.\r
+¡{STRVAR_1 3, 0, 0} usó Cuerda Huida!
+¡Encantado de verte por aquí!\rTorre BELLSPROUT es un lugar de \nentrenamiento para que personas y\fPokémon puedan construir juntos\fun futuro mejor.\fYo soy la prueba final.\r¡Déjame evaluar tus lazos\ncon los Pokémon!\r
+Vaya... \nTu estilo de lucha no está nada mal.\rPodrías estar a la altura de Pegaso.\rTampoco deberías tener problemas\ncon este movimiento.\rToma esta MT. Es Destello.\r
+Destello ilumina hasta el lugar\nmás oscuro.\rPodrías enseñárselo a un BELLSPROUT,\npor ejemplo.
+¡Ojalá aprendas y madures\ncon tu viaje!
+Es un cuadro de un BELLSPROUT\nde trazos muy decididos.
+Estatua Pokémon...\nParece muy ilustre.

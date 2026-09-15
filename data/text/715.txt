@@ -1,0 +1,12 @@
+Karina
+Yo... te caigo bien, ¿verdad?\nSi no me equivoco, dame tu número.{YESNO 0}
+Llámame cuando quieras.
+Vaya, parece que mi intuición\nme ha traicionado...
+¡Sabía que te caía bien!\n¡Dame tu número!{YESNO 0}
+La timidez te caracteriza, ¿eh?\nVen hasta donde estoy, por favor.
+Cuido de {STRVAR_1 0, 10, 0} con mucho\ncariño y cada vez está más fuerte.\r¿Qué Pokémon te gusta más?\n¡Enséñamelo algún día!
+¡Oye, oye, oye, oye, oye!\nAyer me enfrenté a un {STRVAR_1 0, 11, 0}.\rNo usé la Poción en el momento\nque debía y casi acabo en el suelo.\r¡Pero mi Pokémon hizo de tripas\ncorazón y ganamos!\fEsas cosas pasan, ¿no?\n
+¿Guardas todos tus Pokémon en Cajas?\nYo los suelto bastante a menudo.\rEl otro día dejé irse a un {STRVAR_1 0, 11, 0}.\nAhora me arrepiento...
+Oye, vamos a combatir un ratito.\nTe espero en {STRVAR_1 4, 3, 0}.
+¿Hola? ¡No tardes!\rEstoy esperándote ya en posición\nen {STRVAR_1 4, 3, 0}.
+No debería haber venido al parque\ncon minifalda.\rLas hojas me raspan las piernas y\nme han hecho muchas heriditas.

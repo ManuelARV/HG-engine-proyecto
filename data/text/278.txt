@@ -1,0 +1,10 @@
+{STRVAR_4 1, 0, 0}
+Astros
+♂
+♀
+Fortaleza
+Resist.
+Precisión
+Salto
+Velocidad
+Ganada con\n{STRVAR_1 0, 0, 0}

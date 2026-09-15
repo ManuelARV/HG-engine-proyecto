@@ -1,0 +1,6 @@
+Siguiendo el Camino de Bicis se\npuede llegar a Ciudad Fucsia.
+Hola. ¿Quieres oír una cosa?\n¿Algo que está muy de moda? {YESNO 0}
+Muy bien...\r¡{STRVAR_1 28, 0, 0}!\r¡Eso es lo que hay que decir!\n¡Es la expresión que está de moda!
+Pues menuda actitud la tuya.\n¡Así no vas a ninguna parte!
+Espero que uses las expresiones de\nmoda estando siempre a la última.
+¡Hola!\n¿Estás usando las expresiones de moda?

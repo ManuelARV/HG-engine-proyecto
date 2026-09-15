@@ -1,0 +1,11 @@
+Fredo: Los Pokémon viven\ntodo tipo de experiencias.\rYo también he visto y sufrido\nmucho en mi vida.\rSoy mayor, así que te enseñaré\nlo que quiero decir.\rHe estado con los Pokémon desde\nantes de que tú nacieras.\rY no pierdo fácilmente.\r¡Yo, Fredo, el Entrenador del\ninvierno, te mostraré mi poder!\r
+Fredo: ¡Ah! Me impresiona tu valor.\rCon tu gran voluntad, sé que\nsuperarás todos los obstáculos.\r¡Te mereces esta Medalla!\r
+¡{STRVAR_1 3, 0, 0} ha recibido la\nMedalla Glaciar de Fredo!
+Fredo: Con esa Medalla, los Pokémon\npueden usar el movimiento Torbellino\fpara atravesar remolinos.\rAdemás, voy a darte esto.\r
+Fredo: Es el movimiento Granizo.\rProvoca una granizada durante un rato\nque no les hará ninguna gracia a los\fPokémon que no sean de tipo Hielo.\rSeguro que les hace comprender\nla dureza del invierno.
+Fredo: La primavera llega cuando\nse derriten el hielo y la nieve.\rTus Pokémon y tú pasareis juntos\fmuchos años.\r¡Pasadlo bien!
+Fredo: Oh, eres tú...\rYa que has venido hasta aquí,\n¿quieres hacerte una foto\fconmigo?{YESNO 0}
+Fredo: Vale, pero antes de hacer\nla foto, voy a darte un consejo.\rCuando te saques una foto, tienes\nque aguantar la respiración, sacar\fpecho y sonreír.\r¡Vamos allá!\r
+Fredo: ¿Qué te parece?\nYo creo que es buena.
+Fredo: Bien...\nComo quieras...
+Tu Álbum de Fotos está lleno.\rUsa el PC para hacer un poco\nde sitio en tu Álbum.

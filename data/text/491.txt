@@ -1,0 +1,36 @@
+¡Este es mi fiel compañero,\nPOLIWRATH!\r¿Crees que algún día evolucionará\na un Pokémon Rana?
+POLIWRATH: ¡Poli wrath!
+¡Ah!\n¿Me has visto?\r¿Me has visto salir del Casino?\nCon más dinero del que había soñado\fjamás y una sonrisa incontenible\fde oreja a oreja...\f¡¿A que me has visto?!
+Últimamente esto está infestado\nde GRIMER.\rY también están en el estanque\nque hay frente a mi casa.\rNo sé de dónde salen.\nSon un verdadero problema.
+¡Este Gimnasio es genial!\n¡Está lleno de Entrenadoras!
+Voy a contarte un secreto.\rHay lugares del Edificio Azulona a los\nque no se puede acceder si no es\fcon el ascensor de la primera planta.
+Están celebrando un concurso de\nglotones en el restaurante.\rEste año ha venido una participante\nde Sinnoh que es una fuera de serie.
+¡El Centro Comercial de Ciudad Azulona\nes el mejor de todos!\r¡Puedes encontrar todo\nlo que se te antoje!\r¡Je, je! ¡Parece que me den comisión!
+¡Me encantan los lugares repletos\nde edificios grandes!\r¿Verdad que en Ciudad Trigal en Johto\ntambién hay un montón de edificios?\r¡Qué ganas tengo de ir a Johto\nal menos una vez!
+Erika: Oye, Yasmina.\r¿Es cierto que Blanca, del Gimnasio de\nCiudad Trigal, te dijo que eres una sosa\fy que debes poner más color en tu vida?\r
+Yasmina: Pues sí...\rPor eso pensé en ir a Sinnoh a\nparticipar en algún Concurso para\fsentirme un poco más espléndida...\r
+Erika: ¿Y qué pasó?\r
+Yasmina: Al final no tuve valor\npara participar...\r
+Erika: Oh, vaya...\r¿Y si cambias de estilo y te vistes con\ncolores más vivos?\r
+Yasmina: ¡Pues tienes razón!\n¡Si hago eso podría participar en un\fConcurso sin echarme atrás!\r
+Erika: Podrías ponerte un vestido\nceñido de color azul y una capa...\f¿Qué te parece?\r
+Yasmina: ¿Cómo? ¡Ni hablar!\n¡Jamás me pondría esa ropa!\r
+Erika: Vale, vale...\nEntonces Débora de Ciudad Endrino es\funa hortera vistiendo... Me lo apunto.\r
+Yasmina: ¡Ah, Erika!\n¡Cómo te pasas!
+Erika: ¡Ah, {STRVAR_1 3, 0, 0}!\n¿Quieres mi número?{YESNO 0}
+¡{STRVAR_1 3, 0, 0} ha registrado a Erika\nen el Pokégear!
+Erika: Los domingos por la mañana tengo\nun rato libre. Llámame entonces, ¿vale?
+Erika: Vaya, es una pena...
+Erika: ¿Intercambiamos nuestros\nnúmeros de teléfono? {YESNO 0}
+Erika: ¡Ah! ¡Llegas en el mejor momento!\r¿Quieres que nos hagamos una foto?{YESNO 0}
+Erika: Allá va.\nDi pa-ta-ta...\r
+Erika: Ya está.\nHa salido muy bien.
+Erika: Vaya, es una pena...
+Tu Álbum de Fotos está lleno.\rUsa el PC para hacer un poco\nde sitio en tu Álbum.
+Yasmina: ¡Menos mal que\nAmphy está bien!
+Ciudad Azulona\nLa gran ciudad irisada
+Líder del Gimnasio Pokémon de\nCiudad Azulona: Erika\fPrincesa amante de la naturaleza
+¡Compra lo que necesites\nen el Centro Comercial Azulona!
+Edificio Azulona
+Casino de Ciudad Azulona\nDiversión para todos
+Pistas para Entrenadores:\rProtección Especial evita que las\ncaracterísticas de los Pokémon\fdisminuyan durante cinco turnos.\r¡En el Centro Comercial Azulona puedes\nadquirir montones de objetos útiles!

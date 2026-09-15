@@ -1,0 +1,32 @@
+Buenos días. Tú debes de ser\n{STRVAR_1 3, 0, 0}.\rHe recibido un regalo para ti.\n¡Aquí tienes!\r
+Buenas. Tú debes de ser\n{STRVAR_1 3, 0, 0}.\rHe recibido un regalo para ti.\n¡Aquí tienes!\r
+Hola. Tú debes de ser\n{STRVAR_1 3, 0, 0}.\rHe recibido un regalo para ti.\n¡Aquí tienes!\r
+No me han llegado más regalos para ti.\nVuelve pronto.
+Me temo que no tienes sitio.\nNo te puedo dar esto aún.
+¿{STRVAR_1 8, 0, 0}? ¿Otra vez?\nNo te puedo dar más.
+Para poder aceptar esto, debes hacer\nhueco para objetos decorativos.
+¡{STRVAR_1 3, 0, 0} ha recibido {COLOR 0}{STRVAR_1 0, 1, 0}{COLOR 0}!\r
+¡{STRVAR_1 3, 0, 0} ha recibido\nun {COLOR 0}Huevo de Pokémon{COLOR 0}!\r
+¡{STRVAR_1 3, 0, 0} ha recibido el siguiente\nregalo: {COLOR 0}{STRVAR_1 8, 1, 0}{COLOR 0}!\r
+{STRVAR_1 3, 0, 0} ha recibido las {COLOR 0}Reglas\n{COLOR 0}de la Copa{COLOR 0} {STRVAR_1 26, 1, 0}{COLOR 0}.\r
+¡{STRVAR_1 3, 0, 0} ha recibido el siguiente\nregalo: {COLOR 0}{STRVAR_1 10, 1, 0}{COLOR 0}!\r
+¡{STRVAR_1 3, 0, 0} ha recibido el siguiente\nregalo: {COLOR 0}{STRVAR_1 31, 1, 0}{COLOR 0}!\r
+¡{STRVAR_1 3, 0, 0} ha recibido el\n{COLOR 0}Huevo de MANAPHY{COLOR 0}!\r
+{STRVAR_1 3, 0, 0} ha recibido\nun {COLOR 0}Carné de Socio{COLOR 0}.\r
+¡{STRVAR_1 3, 0, 0} ha recibido\nla {COLOR 0}Carta del Profesor Oak{COLOR 0}!\r
+¡{STRVAR_1 3, 0, 0} ha recibido\nla {COLOR 0}Flauta Azur{COLOR 0}!\r
+{STRVAR_1 3, 0, 0} ha recibido\nuna {COLOR 0}Llave Secreta{COLOR 0}.\r
+{STRVAR_1 3, 0, 0} ha recibido una\n{COLOR 0}Foto conmemorativa{COLOR 0}.\r
+{STRVAR_1 3, 0, 0} ha recibido un\n{COLOR 0}Mapa de Rutas {COLOR 0}{STRVAR_1 4, 1, 0}.\r
+¡Vuelve siempre que quieras!
+¡El Poké-reloj de {STRVAR_1 3, 0, 0} recibió\nla función {COLOR 0}{STRVAR_1 24, 1, 0}{COLOR 0}!\r
+Un momento... {STRVAR_1 3, 0, 0}, todavía\nno tienes un Poké-reloj.\rNo te puedo habilitar esta función\nsi no tienes un Poké-reloj.
+¡A {STRVAR_1 3, 0, 0} le han concedido\nla {COLOR 0}{STRVAR_1 39, 1, 0}{COLOR 0}!\r{STRVAR_1 1, 2, 0} ha recibido\nla {STRVAR_1 39, 1, 0}.\r
+¡Ahí va, {STRVAR_1 3, 0, 0}!\n¡Tienes el Álbum de Fotos lleno!\rVuelve otra vez cuando hayas\nhecho algo de hueco.
+¡Ahí va, {STRVAR_1 3, 0, 0}!\n¡Tienes el Álbum de Fotos lleno!\rVuelve otra vez cuando hayas\nhecho algo de hueco.
+¡Ahí va, {STRVAR_1 3, 0, 0}!\r¡Pero si ya tienes el Mapa de Rutas\nde {STRVAR_1 4, 1, 0}!
+¡Buenos días!\nEres {STRVAR_1 3, 0, 0}, ¿no?\rTu madre te ha enviado este paquete.\n¡Toma!\r
+¡Buenas!\nEres {STRVAR_1 3, 0, 0}, ¿no?\rTu madre te ha enviado este paquete.\n¡Toma!\r
+¡Hola!\nEres {STRVAR_1 3, 0, 0}, ¿no?\rTu madre te ha enviado este paquete.\n¡Toma!\r
+No tenemos ningún paquete más para ti.\n¡Esperamos volver a verte!
+Con esta versión no se pueden\nrecibir regalos.

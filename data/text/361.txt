@@ -1,0 +1,17 @@
+Solo pueden pasar los Entrenadores\nque demuestren su valía.\r¡Oh! ¡Las ocho Medallas de Johto!\f¡Le ruego que pase, por favor!
+Este camino lleva al Monte Plateado.\nAhí habitan Pokémon demasiado fuertes.\fTú todavía no estás preparado.\rSería mejor que lo dejaras correr.
+¡Espera un momento!\rEste camino lleva al Monte Plateado.\nAhí habitan Pokémon demasiado fuertes.\fTú todavía no estás preparado.\rSería mejor que lo dejaras correr.\r
+¡Espera un momento!\rEste camino lleva al Monte Plateado.\nAhí habitan Pokémon demasiado fuertes.\rEn tu caso no creo que corras peligro,\npero deberías ir con cuidado.
+¿Qué ocurre?\nPor aquí se va a Kanto, pero...\fde momento este camino está\fbloqueado.
+¡Espera un momento!\nPor aquí se va a Kanto, pero...\fde momento este camino está\fbloqueado.\r
+Por el oeste se va al Monte Plateado\ny por el este a la región de Kanto.\rSi vas a enfrentarte al Alto Mando,\nve al norte.\rPero bueno...\n¡tú que has vencido al Campeón\fya debes de saber estas cosas!
+Sachiko: Voy a llevarle la cena\na mi padre.\rComo ayudante del Alto Mando\nno tengo un minuto de descanso,\fni de día ni de noche. Es agotador.\r¡Ya sé! ¿Intercambiamos nuestros\nnúmeros de teléfono? {YESNO 0}
+¡{STRVAR_1 3, 0, 0} ha registrado a Sachiko\nen el Pokégear!
+Sachiko: Si quieres combatir conmigo,\nllámame el jueves durante el día.
+Sachiko: A primera vista no pensaba\nque fueras una persona tan tímida.
+Sachiko: ¿Quieres mi número\nde teléfono? {YESNO 0}
+Sachiko: Vengo de llevarle la cena a\nmi padre. ¿Quieres que nos hagamos\funa foto? {YESNO 0}
+Sachiko: Venga, a ver si puedes posar\ntan bien como yo.\r
+Sachiko: Ha quedado una buena foto.
+Sachiko: ¿No? ¡Es una lástima!
+Tu Álbum de Fotos está lleno.\rUsa el PC para hacer un poco\nde sitio en tu Álbum.

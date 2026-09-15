@@ -1,0 +1,4 @@
+{STRVAR_1 3, 0, 0}
+SALIR
+¿Quieres dejar de jugar con los\nSellos Huella?
+Los Sellos Huella no están disponibles.

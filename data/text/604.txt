@@ -1,0 +1,9 @@
+{STRVAR_1 3, 0, 0}: ...\r¿Tú otra vez?\r¿Por qué insistes tanto?\nEnclenques como tú no me asustan.\rY hablando de debiluchos,\nla Líder del Gimnasio no está aquí.\rSe supone que está cuidando un\nPokémon enfermo en el faro.\r¡Bah! ¡Habría que deshacerse\nde un Pokémon así!\r¡Los Pokémon que no pueden luchar\nson unos inútiles!\r¿Por qué no vas a entrenar al faro?\rDebe de ser el único sitio donde puedas\ndestacar un poco.\r
+Las calles oscuras son muy peligrosas\npor la noche.\rPero, si es noche cerrada,\n¡el mar es aún más traicionero!\rSi no les guiara la luz del faro,\nlos barcos no podrían navegar.
+Eso que tienes es un Pokégear,\n¿verdad? ¡Guau! ¡Es genial!
+¡Guau, tienes una Pokédex!\nEs realmente increíble.
+¡Oh! ¿Ya entrenas Pokémon a tu edad?\nPárate y disfruta de la belleza del mar.\r¿No te dan ganas de cantar?\nMatarile, rile, ron... ¡chimpón!
+Ciudad Olivo\nLa ciudad de la brisa marina
+Puerto Olivo\nMuelle del Ferry
+Líder del Gimnasio Pokémon\nde Ciudad Olivo: Yasmina\fLa Chica de Acero
+Faro de Olivo\nTambién conocido como el Faro Brillante

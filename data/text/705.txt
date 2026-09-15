@@ -1,0 +1,14 @@
+Galo
+¡Guau, qué duro! No había luchado\ntan en serio desde hacía mucho.\r¿Me das tu número de teléfono?\nMe gustaría luchar otra vez cuando\fcure mis Pokémon.{YESNO 0}
+¿Cómo podré derrotarte?\nNo pienso en nada más...
+Vale... Lo entiendo...\nPero si cambias de\fopinión, avísame.
+¿Me das tu número de teléfono?\nMe gustaría luchar otra vez cuando\fentrene mis Pokémon.{YESNO 0}
+
+Esa voz... Me da que no estás lejos.\n¡Ven aquí ahora mismo!
+Mi {STRVAR_1 0, 10, 0} puede que sea mejor\nde lo que imaginaba.\rDudo que haya un {STRVAR_1 0, 10, 0} mejor\nque el mío.
+Hace un rato, intenté atrapar\nun {STRVAR_1 0, 11, 0} salvaje,\fpero consiguió eludirme.\rUna decisión equivocada puede\nhacer fracasar todo.\rTú también debes tener cuidado.
+El otro día conseguí derrotar\na duras penas a un {STRVAR_1 0, 11, 0}.\rNunca había visto un {STRVAR_1 0, 11, 0}\ntan fuerte...\rNo debes bajar la guardia, ni siquiera\nante los Pokémon más normaluchos.
+¡Luchemos!\rTe espero en {STRVAR_1 4, 3, 0}.\nLlámame cuando estés cerca.
+{STRVAR_1 3, 0, 0}, ¿por qué no estás aquí?\r¡Te voy a hacer papilla, ya verás!\n¡Pero ven a {STRVAR_1 4, 3, 0}!
+{STRVAR_1 3, 0, 0}, ¿por qué no estás aquí?\r¡Te voy a hacer papilla, ya verás!\n¡Pero ven a {STRVAR_1 4, 3, 0}!
+No puedo quitarme de la cabeza\ntu inmenso poder.\rMe obsesiona la idea de vencerte.

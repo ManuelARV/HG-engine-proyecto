@@ -1,0 +1,8 @@
+¡Sí, como te lo cuento!\nYa no hay Gimnasio en Isla Canela.\f¡Me quedé de piedra!\r¿Qué quieres?... Estoy al teléfono.\n¡Fuera!
+JIGGLYPUFF: Puff, puff.
+Casi todos los Pokémon se duermen\nal oír cantar a JIGGLYPUFF.\rCuando un Pokémon está dormido,\nse pueden usar ciertos movimientos.
+Ah...\nMe gustaría tener un HAUNTER...\rSi tuvieras un HAUNTER, ¿me lo\ncambiarías por mi XATU? {YESNO 0}
+¡Estupendo! ¡Genial!\r¡Gracias a ti por fin tengo\nel Pokémon que llevaba\ftanto tiempo buscando!
+¡Ese no es un HAUNTER!\rYo quiero un HAUNTER, he dicho.
+Si tuvieras un HAUNTER\nno rechazarías el cambio.\rEso significa que no tienes ninguno.\n¿Qué otra razón iba a haber si no?
+¿A que el XATU que te di es superguay?\n¡Claro, eso es porque yo también soy\fsuperguay!

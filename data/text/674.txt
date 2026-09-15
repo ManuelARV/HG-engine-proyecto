@@ -1,0 +1,12 @@
+Ken
+¡Guay! ¡Es la primera vez que\npierdo desde hace mucho!\rDame tu número de teléfono.\nMe lo paso pipa luchando contigo.\rTe llamaré cuando me supere...{YESNO 0}
+¡Eh, luchemos de nuevo!
+Ya veo que te doy miedo.
+Dame tu número de teléfono.\nMe lo paso pipa luchando contigo.\rTe llamaré cuando me supere...{YESNO 0}
+¡Uf! ¡El combate ha sido muy duro!\rHe luchado contra ti una y otra vez,\npero no te he ganado nunca.\rMe preparé comprando muchos artículos\npara mejorar mis Pokémon, pero...\fparece que no son la solución.\rAhí debe de estar el problema...\rToma esto, {STRVAR_1 3, 0, 0}.\nNo lo voy a necesitar más.\r
+Si estamos los dos en el faro,\n¿para qué nos llamamos?\fAunque bueno, el eco me gusta...
+¿Qué tal va tu equipo Pokémon?\nLos míos son agotadores...\fSobre todo {STRVAR_1 0, 10, 0}.\rCada vez que ve a un Entrenador,\nse abalanza sobre él.\r¡Es demasiado para mí! ¡No puedo más!\n¡Adiós!
+Mi {STRVAR_1 0, 10, 0} está más fuerte\nque nunca.\r¡Casi parece que me ha superado!\n¡Adiós!
+¡Eh, quiero luchar contra ti!\n¡No será como la última vez!\rTe esperaré en {STRVAR_1 4, 3, 0}.\n¡Ven aquí a toda prisa!
+¡Eh! ¡Será mejor que no te olvides\ndel combate!\r¡Estoy en {STRVAR_1 4, 3, 0}!\n¡Date prisa! ¡Estoy esperándote ya!
+Ya lucharemos en otra ocasión.\rDescuida, seguiré retándote hasta\nque te gane.

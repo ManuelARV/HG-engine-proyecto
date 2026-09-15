@@ -1,0 +1,9 @@
+Olvidará la frase que ahora\nconoce. ¿De acuerdo?{YESNO 0}
+Toca SIGUIENTE y luego\nhabla al micrófono.\r
+¡{STRVAR_1 1, 0, 0} aprendió la nueva frase!\r
+{STRVAR_1 1, 0, 0} no logró aprender\nla nueva frase.\r
+¿Quieres intentarlo de nuevo?{YESNO 0}
+Parece que ahora no puede\nconcentrarse...
+  
+   
+Preparando el micrófono...

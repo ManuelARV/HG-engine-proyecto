@@ -1,0 +1,3 @@
+Prueba mic
+Acércate al micrófono y habla.
+{ALN_CENTER}VOLVER

@@ -1,0 +1,12 @@
+Héctor
+En señal de que nos hemos relajado,\nlo mejor es intercambiar números de\fteléfono, ¿qué me dices?{YESNO 0}
+¡Perfecto!\nAsí ya podemos estar en contacto\fsiempre que queramos.
+¡Vaya fiasco!\rLos jóvenes solo se juntan con jóvenes,\neso no lo puede cambiar nadie.
+Te has decidido a darme tu teléfono,\n¿no?{YESNO 0}
+Estás en el mismo piso que yo, ¿no?\nPues entonces, ven aquí.
+¡Qué sorpresa!\rEl otro día me hice con un NOCTOWL\nen un intercambio y resultó que era\fel mismo que yo le di hace un montón\fa otro Entrenador.\rLa vida da muchas vueltas, pero\nreconforta saber que el mundo está\fcompletamente interconectado.
+¡Qué mala pata!\rEl otro día me hice con un NOCTOWL\nen un intercambio y... la verdad es que\fme sonaba la cara. Pues bien, era\fjustamente uno que estaba criando y\facabó volviendo a mis manos.\r¡La vida da muchas vueltas!\rEso era lo que creía yo, pero me fijé\nbien y no, era un NOCTOWL\fcompletamente desconocido.\r¡El mundo no se mueve\nsiempre como uno quiere!
+A mí se me escapan casi siempre\nlos Pokémon salvajes cuando intento\fcapturarlos.\rHace nada, mismamente, se me escapó\nun RATTATA.\rMe quité el sombrero para saludar\neducadamente y justo entonces, ¡zas!,\fsalió corriendo. Estos RATTATA\fsalvajes no tienen modales.
+¡Jo, jo!\n¿Quieres volver a enfrentarte a mí?\rTe espero en {STRVAR_1 4, 3, 0}.
+Esto me huele mal. ¿Se te ha ido de la\ncabeza que habíamos quedado?\rTe espero en {STRVAR_1 4, 3, 0}.\n¡Ven a combatir!
+Me gusta hablar con gente joven\ncomo tú e intercambiar información.\rLos Pokémon unen a la gente,\nson unos seres maravillosos.

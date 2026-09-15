@@ -1,0 +1,220 @@
+    
+    
+    
+    
+   
+    
+    
+{STRVAR_1 28, 2, 0}{PAUSE 0}\r{STRVAR_1 3, 0, 0} ha contactado contigo.
+Se ha interrumpido la sesión.
+Esperando respuesta\nde {STRVAR_1 3, 0, 0}...
+La sesión ha finalizado.
+{STRVAR_1 3, 0, 0} te permite ver\nsu Ficha de Entrenador.\r¿Quieres mostrarle la tuya?{YESNO 0}
+Esta es la Ficha de Entrenador\nde {STRVAR_1 3, 0, 0}, que vive en\f{STRVAR_1 37, 4, 0},\f{STRVAR_1 36, 3, 0}.
+Esta es la Ficha de Entrenador\nde {STRVAR_1 3, 0, 0}, que vive en\f{STRVAR_1 36, 3, 0}.\n
+Esta es la Ficha de Entrenador\nde {STRVAR_1 3, 0, 0}, que vive en\f{STRVAR_1 37, 4, 0}.\n
+Esta es la Ficha de Entrenador\nde {STRVAR_1 3, 0, 0}.
+Esperando que el otro jugador termine.
+Has rechazado la oferta.
+{STRVAR_1 3, 0, 0} te ha invitado a hacer\nun dibujo.\r¿Quieres unirte a esta persona\npara dibujar?{YESNO 0}
+¡Vamos a dibujar!
+Has rechazado la oferta.
+{STRVAR_1 3, 0, 0} te ha retado\na un combate.\r¿Aceptas el desafío?{YESNO 0}
+El combate va a comenzar.
+Has rechazado la oferta.
+Para el combate necesitas dos\nPokémon de nivel 30 o inferior.
+Se ha cancelado el combate.
+{STRVAR_1 3, 0, 0} te ha propuesto realizar\nun intercambio.\r¿Aceptas la oferta?{YESNO 0}
+El intercambio va a comenzar.
+Has rechazado la oferta.
+Para realizar el intercambio debes\nllevar al menos dos Pokémon contigo.
+{STRVAR_1 3, 0, 0} te ha propuesto\nmezclar récords.\r¿Quieres mezclar récords\ncon esta persona?{YESNO 0}
+La mezcla de récords va a comenzar.
+Has rechazado la oferta.
+{STRVAR_1 3, 0, 0} te ha invitado\na un Intercambio Giro.\r¿Quieres participar?{YESNO 0}
+¡Que empiece el Intercambio Giro!
+Has rechazado la oferta.
+No tienes ningún Huevo.\nNo puedes aceptar la oferta.
+{STRVAR_1 28, 2, 0}{PAUSE 0}\r¡Hola, soy {STRVAR_1 3, 0, 0}!\n¿Te apetece hacer algo?
+¡Anda, si yo tenía que hacer\nun montón de cosas!\fOtra vez será, ¡lo siento!
+¿Quieres hacer algo más?
+...\nEsta persona parece estar ocupada...
+                       
+¡Claro! A modo de saludo,\nte enseño mi Ficha de Entrenador.
+¿Mmm? ¿Dónde habré puesto\nmi Ficha de Entrenador?...\r¡Bueno, otra vez será!
+Mira mi Ficha de Entrenador.\nEs mi forma de mandarte un saludo.
+Espero que nos conozcamos mejor.
+Oh, ¿querías dibujar conmigo?\nClaro, espera un momento.
+¡Gracias por esperar!\n¡Vamos a dibujar!
+Oh... Lo siento, ¡ahora mismo no puedo!\n¡Dejémoslo para otra ocasión!
+{STRVAR_1 3, 0, 0}: Ahora mismo estamos\ndibujando.\rOh, ¡tengo una idea! {STRVAR_1 3, 1, 0},\n¿quieres unirte y dibujar tú\ftambién?{YESNO 0}
+Está bien.\nBueno, hasta la próxima.
+¡Genial! ¡Vamos a dibujar!
+                                          
+¿Debo dibujar algo que empiece con\nla última letra de lo que tú dibujas?
+¡No dibujes tantas caras tronchantes!\n¡Me duele de tanto reírme!
+¡Guau! ¡Qué bien se te da dibujar!\n¡A ver si a mí me sale igual de bien!
+Eh... ¿Qué es eso?\n¿Se supone que es mi retrato?
+Quieres luchar, ¿eh?\nVale, pero dame un poco de tiempo.
+¡Gracias por esperar!\n¡Empecemos el combate!
+Lo siento, pero mis Pokémon\nno se encuentran muy allá.\fDejémoslo para otra ocasión.
+Para mantener un combate, debes tener\ndos Pokémon de nivel 30 o inferior.\r
+¡Guauuu!\n¡Sí que sois fuertes!
+¡Qué movimiento tan chuli!\n¡Qué estrategia tan buena!
+¡Qué pasada!\n¡Alucinante!
+¿Pero cómo se puede usar ese Pokémon\nen una situación así?
+¿Quieres hacer un intercambio?\nClaro, espera un momento.
+¡Adelante!\n¡A intercambiar!
+¡Lo siento! Ahora mismo no tengo\nPokémon que intercambiar.\rDejémoslo para otro momento.
+¡Yuuuujuu!\n¡Siempre he querido este Pokémon!
+¡Por fin! ¡He estado buscando este\nPokémon un montón de tiempo!
+No puedes hacer intercambios si\nsolo llevas un Pokémon contigo.\r
+Cuando quieras que hagamos algo,\n¡ya sabes dónde estoy!
+¿Quieres mezclar récords conmigo?\nVale. Un momentito, por favor.
+¡Gracias por esperar!\nVamos a mezclar récords.
+Lo siento.\nAhora tengo mucho que hacer.\f¿Lo dejamos para otro momento?
+{STRVAR_1 3, 0, 0}: Ahora íbamos a\nmezclar récords...\r¡Lo tengo!\n{STRVAR_1 3, 1, 0}, ¿te quieres unir?{YESNO 0}
+Bueno, hasta la próxima.\nVen a verme cuando quieras, ¿vale?
+¡Genial! ¡Vamos a mezclar récords!
+                                        
+¡Mezclar récords es divertido!
+¡Voy a mezclar récords\ncon todo el mundo!
+¡Mezcla! ¡A mezclar se ha dicho!
+¡Tú también deberías mezclar récords!
+¿Que hagamos un Intercambio Giro?\n¡Venga! ¡Espera que me prepare!
+¡Vale, ya está! ¡Ya podemos hacer\nun Intercambio Giro!
+                                        
+Te hace falta un Huevo para participar\nen un Intercambio Giro.\r
+{STRVAR_1 3, 0, 0}: Vamos a hacer\nun Intercambio Giro.\r¡Oye, {STRVAR_1 3, 1, 0}! ¿Te gustaría\nparticipar en el Intercambio Giro?
+Ah, bueno, no te preocupes.\n¡Ven a vernos cuando quieras!
+¡Genial! ¡Hagamos un Intercambio Giro!
+                                         
+                                        
+Hay un Huevo en tu equipo\nque no se puede intercambiar.
+¡Me encanta hacer Intercambios Giro!
+¡Oye! Sí, tú.\nEspera un segundo.
+¡Mi Huevo mola!
+¡Estupendo! ¡He conseguido justo\nel Huevo que quería!
+{STRVAR_1 28, 2, 0}{PAUSE 0}\r¡Hola, soy {STRVAR_1 3, 0, 0}!\n¿Te apetece hacer algo?
+¡Anda, si yo tenía que hacer\nun montón de cosas!\fEn otra ocasión, ¿vale?
+¿Quieres hacer algo más?
+...\nEsta persona parece estar ocupada...
+                       
+Para presentarme, te enseño\nmi Ficha de Entrenador.
+¿Mmm? ¿Dónde habré puesto\nmi Ficha de Entrenador?...\r¡Lo siento! ¡Otra vez será!
+Nos estamos enseñando las Fichas\nde Entrenador para conocernos.
+Me he alegrado de conocerte.\n¡Espero que nos veamos por ahí!
+¿Quieres dibujar conmigo?\nClaro, espera un momento...
+Perdona que te haya hecho\nesperar. ¡Comencemos!
+Oh... Lo siento.\n¡Dejémoslo para otra ocasión!
+{STRVAR_1 3, 0, 0}: Ahora mismo estamos\ndibujando.\rOh, ¡lo tengo! {STRVAR_1 3, 1, 0},\n¿quieres unirte y dibujar tú también?
+Oh...\nBueno, vuelve cuando quieras.
+¡Gracias por esperarme!\n¡Vamos a dibujar!
+                                      
+¡Guau!...\n¡Qué bien se te da!
+¡Ja, ja, ja!\n¡¿Qué es eso?!
+¡Me encanta dibujar!\n¡Podría hacerlo durante horas!
+¡Huy!\n¡Me salgo de las líneas!
+¿Un combate? ¡Hecho!\nDeja solo que me prepare.
+Perdona que te haya hecho\nesperar. ¡Ya estoy!
+No sabes cuánto lo siento, pero\nmis Pokémon no se encuentran bien.\fYa lucharemos en otro momento.
+Para luchar necesitarás dos Pokémon\nde nivel 30 o inferior.\r
+Ese Pokémon sí que está\nbien entrenado.
+¡Eso es! ¡Ese es el movimiento\nque hay que usar aquí!
+¡Es impresionante!\n¿Pero cómo se puede luchar así?
+¡No se puede cambiar de Pokémon\nen un momento mejor!
+¿Intercambiar? Claro, pero dame\nun momento para prepararme.
+Perdona que te haya hecho\nesperar. ¡Ya estoy!
+Lo siento. Ahora mismo no tengo\nPokémon para intercambiar...\r¡Vamos a dejarlo para otro momento!
+¡Estoy intercambiando Pokémon!
+¡Por fin logré ese Pokémon que tanto\nquería mediante un intercambio!
+No puedes hacer intercambios si solo\nllevas un Pokémon contigo.\r
+Cuando quieras que hagamos algo,\nme lo dices, ¿vale?
+¿Quieres mezclar récords?\n¡Claro! ¡Solo necesito un momento!
+Perdona que te haya hecho esperar.\n¡Ya estoy!
+Oh, ¡lo siento! Lo dejamos\npara otro momento, ¿vale?
+{STRVAR_1 3, 0, 0}: Ahora mismo estábamos\nmezclando récords.\r¡Tengo una idea! {STRVAR_1 3, 1, 0}, ¿te\ngustaría unirte?
+Oh...\nBueno, ya nos veremos.
+¡Gracias por esperar!\n¡Vamos a mezclar récords!
+¡Lo siento!\n¡Dejémoslo para otra ocasión!
+¡Mezclar récords es divertido!
+¡Voy a seguir mezclando récords!
+¡A mezclar récords!
+Me pregunto qué va a ocurrir.
+¿Quieres que hagamos un Intercambio\nGiro? ¡Vale! ¡Espera que me prepare!
+¡Lista! ¡Empecemos el Intercambio Giro!
+                     
+Tienes que llevar un Huevo para\nparticipar en un Intercambio Giro.\r
+{STRVAR_1 3, 0, 0}: Justo ahora vamos a\nhacer un Intercambio Giro.\r{STRVAR_1 3, 1, 0}, ¿te apetece unirte\na nuestro Intercambio Giro?
+Ah, entiendo. ¡Pásate por aquí\ncuando quieras!
+¡Genial! ¡Hagamos un Intercambio Giro!
+                                             
+                     
+Hay un Huevo en tu equipo que no se\npuede intercambiar.
+Estamos haciendo un Intercambio Giro.
+¡Vaya! ¡Se ha vuelto a mover!
+Me acabo de quedar\nsin el Huevo que quería.
+Si se hubiera parado allí,\nhabría conseguido una Baya.
+Esta es la Sala Unión.\rSi necesitas ayuda con lo que sea,\nno dudes en decírmelo.{YESNO 0}
+¿En qué puedo ayudarte?{YESNO 0}
+¿Qué quieres que te explique?{YESNO 0}
+En la Sala Unión podrás combatir\ncon los dos Pokémon que elijas\fde nivel 30 o inferior.\rCuando vengas aquí,\nte recomendamos traer Pokémon\fque cumplan este requisito.\r
+Puedes intercambiar Pokémon\ncon otros jugadores.\r¡Conocer a gente nueva puede ser una\nforma de encontrar nuevos Pokémon!\r
+Puedes comunicarte con otros\njugadores y mezclar tus récords.\rTe preguntarás qué pasa\nsi mezclas récords...\r¡Te recomendamos que lo pruebes\npara descubrirlo!\rPueden participar hasta cinco\njugadores, ¡prueba con tus amigos!\r
+En un Intercambio Giro, cada uno lleva\nun Huevo que intercambia con los demás.\r¿Con qué Huevo acabarás?\n¿Qué Pokémon saldrá del Huevo?\f¿A que es emocionante?\rPueden participar hasta cinco personas,\n¡así que pruébalo con tus amigos!\r
+Puedes dibujar junto\na otros jugadores.\rOs reuniréis todos en un mismo\nlienzo de manera simultánea.\r¡Seguro que muchos dibujos entre\namigos son auténticas obras de arte!\rPueden participar hasta cinco\njugadores, ¡así que invita a tus amigos!\r
+¡Puedes chatear con otros jugadores\nseleccionando “CHATEAR” en el menú!\r¡Sal a conocer a otros jugadores\nen la Sala Unión!\rDeja que la gente te conozca y sepa\nsobre tus gustos.\r¡Socializa, habla con la gente y amplía\ntu círculo de amigos!\r
+¡Oh!\n¡Ha entrado alguien nuevo!\r¿Por qué no hablas con esta persona\nen lugar de conmigo?\r
+                                  
+¿{STRVAR_1 14, 0, 0}?... ¿No te toman a\nveces por una persona así?\rA veces me da esa sensación al verte.\r
+¡Hola!\r¡Eso es!\n¡Es importante saludarse!\r¡Si llega alguien, intentemos\nser cordiales!\r
+¡Un saludo!\r¿{STRVAR_1 28, 0, 0}?\n¡Genial!\f¡Me encanta!\rCuando llega alguien nuevo por primera\nvez, lo correcto es presentarse.\r¡Si te presentas, también tendrás la\nocasión de conocer a la otra persona!\r
+¿{STRVAR_1 28, 0, 0}?\n¿Así te consideras?\f¡Vaya, vaya!\rPues siento decirte que\nyo no tengo Pokémon...\rCasi que prefiero mantenerme al\nmargen y solo mirar, ya ves.\r
+¡Oh! ¡{STRVAR_1 28, 0, 0}!\n¡Me encantaría!\f¡Vamos a intercambiar!\r...\rEstaba de broma.\rYo no tengo Pokémon,\nasí que no puedo intercambiar...\r
+¿{STRVAR_1 28, 0, 0}?\nEntiendo el porqué de tu búsqueda...\rPero no esperes que todo el mundo\ntenga siempre lo que buscas.\rTambién debes tener en cuenta\nlos Pokémon que buscan los demás.\r
+¡Estás en la Sala Unión!\rAhora solo estamos tú y yo aquí,\npero si te traes a algunos amigos\flo podríamos pasar en grande.\rSi tienes tiempo, podemos hablar.\rYa ves que no se puede decir que\ntenga mucho trabajo...\r
+¡Se me da bien el dibujo!\r¿{STRVAR_1 28, 0, 0}?...\n¡Déjamelo a mí!\f¡Nadie me supera en eso!\r
+Oh, ya te vas...\r...\rAhora me quedaré aquí triste y sola...\r¡Por favor, vuelve pronto!\r
+¿Qué ocurre?\n¿Te sientes depre o algo?\rCuando se está triste, es mucho\nmejor pasar un rato agradable\fcon amigos que estar solo.\r
+¿{STRVAR_1 28, 0, 0}?\n¡Sí, por favor!\rMe gustaría participar, pero ahora\nestoy de servicio, no puedo...\rAah... {STRVAR_1 28, 0, 0}...\nMe encantaría...\r
+¿{STRVAR_1 28, 0, 0}?\n¡Yo también, por favor!\rPero me tengo que quedar aquí\na atender a las visitas...\r¡Pásalo bien con tus amigos!\r
+¿{STRVAR_1 28, 0, 0}?\n¿Me invitas?\rOh, pero me tengo que quedar aquí\na atender a nuestras visitas...\rLo siento. Ya me gustaría, pero\nde verdad que no puedo.\r
+¡Exacto!\rA veces es mejor invitar\na otras personas.\rPero no seas egoísta o cabezota\nsi tienes ganas de {STRVAR_1 28, 0, 0}.\r
+¡Sí!\n¡Genial!\rNada es imposible.\r¡Mantén una actitud positiva y\nve con la cabeza bien alta!\r
+A todo el mundo se le da mal hacer\npor lo menos una cosa.\rNo deberías intentar que la gente haga\ncosas que no quiere hacer.\rPor cierto, {STRVAR_1 28, 0, 0} es algo\nque a mí me encantaría hacer.\r
+¡Buena suerte! Espero que te gusten\nlos combates serios.\r¡En la Sala Unión no puedes mantener\ncombates como estos!\r
+¿Quieres chatear?\rPero no deberías perder el tiempo\nhablando conmigo.\rTienes que dejar de lado la timidez\ny hablar con otros jugadores.\rDespués de todo, no puedes hacer\namigos si no hablas con la gente.\r
+¿Que dónde estás?\nPues... delante de mis ojos.\rO... ¿es que me estás intentando\nengañar?\r¿La persona real está en otro lugar?\r¡Eso es ridículo!\n¡No digas tonterías!\f¡Ay, ay, ay...!\r
+¿Intercambiar {STRVAR_1 28, 0, 0}?\n¡Eso suena divertido!\fMe encantaría...\rPero contándome eso no adelantas nada.\nYo no puedo hacer intercambios.\r
+Si quieres mantener un combate\n{STRVAR_1 28, 0, 0}, necesitas tener más\farrojo y hablar con otros jugadores.\rSi no te decides a hablar con otros,\n¡puede que nunca tengas oportunidad de\fentablar un combate {STRVAR_1 28, 0, 0}!\r
+INFORMACIÓN
+      
+SALIR
+COMBATE
+INTERCAMBIO
+RÉCORDS
+    
+DIBUJAR
+CHATEAR
+SALIR
+Hablando con {STRVAR_1 3, 0, 0}...
+                  
+¡Anda, si yo tenía que hacer\nun montón de cosas!\fOtra vez será, ¡lo siento!
+Esperando a que el otro jugador elija.
+          
+           
+                                 
+                
+                 
+Amigo de {STRVAR_1 3, 0, 0}
+Amigo de {STRVAR_1 3, 1, 0}
+Amigo de {STRVAR_1 3, 2, 0}
+こんにちは！
+Hello!
+Bonjour!
+Ciao!
+Hallo!
+¡Hola!
+¡H-o-l-a!
+Lo siento, no puedes hacer un\nIntercambio Giro con Pokémon\fDiamante o Perla.\r
+MENÚ

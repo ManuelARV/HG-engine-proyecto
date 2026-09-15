@@ -1,0 +1,14 @@
+Cintia: Me llamo Cintia.\nSoy Entrenadora Pokémon.\rCuando vengo a estas {COLOR 0}Ruinas de Sinjoh{COLOR 0},\nme acuerdo de Sinnoh,\fel lugar donde nací.\rAquí nieva tanto como en Sinnoh,\npero no es lo único que los conecta.\rResulta que hace mucho tiempo,\ngente de Sinnoh se trasladó a esta\fzona y edificó las {COLOR 0}Ruinas de Sinjoh{COLOR 0}.\r
+Cintia: ¿Entrenas Pokémon?\rSiento una fuerza espectacular\nemanando de una de tus Poké Balls.\r
+Cintia: No puedo creerme que hayas\nllegado hasta aquí sin ayuda.\rLa nieve cubre el paisaje y es capaz de\ncongelar el más cálido de los cuerpos.\rAdemás, bloquea la zona todo el año.\rCuando quieras volver, habla con el\nanciano. Te puede devolver a donde\festabas con la fuerza de ABRA.\n
+Cintia: Este aura... esta fuerza...\n¿Será DIALGA?\f¿Será PALKIA?\f¿O quizás GIRATINA?\rSe parece mucho...\r
+Cintia: ¿Tienes tiempo?\r¿Te vienes conmigo a ver\nlas {COLOR 0}Ruinas de Sinjoh{COLOR 0}?\rMi intuición me dice que cuando\nsubas hasta allí, ocurrirá algo grande.\r
+     
+Cintia: Una se pregunta cosas\nal conocer a alguien como tú\fen medio de unas ruinas inhóspitas.\rEl tiempo y espacio rigen el destino\ny alteran todo a su antojo.\rDejan algo.\nLo mezclan con otro algo.\fSinnoh, Johto...\rAunque uno se crea que comprende\ncómo funciona el mundo, es una ilusión.\rSimplemente ajusta a su realidad\nlo poco que conoce.\r
+Los hombres de antaño eran otorgados\ncon la vida de los Pokémon\fy, a su vez, ellos generaban vida.\rEran tiempos en los que el hombre y\nlos Pokémon estaban unidos por lazos\finquebrantables.\rPor eso, siempre que esos hombres\niban a vivir a nuevas tierras,\fse llevaban con ellos mitos y leyendas\fsobre el poder de los Pokémon.\rLas ruinas milenarias de esta zona\nson receptoras de la tradición de\flas {COLOR 0}Ruinas Alfa{COLOR 0} de Johto y de la {COLOR 0}Columna{COLOR 0}\f{COLOR 0}Lanza{COLOR 0} de Sinnoh.\rEs la prueba de que los habitantes\nde Johto y Sinnoh convivieron\fen este lugar.
+La leyenda cuenta que ARCEUS surgió\nde un Huevo. En Johto, los Huevos de\fPokémon están considerados origen\fde vida, son casi sagrados.\rEs curioso que existan leyendas\nsimilares en lugares tan lejanos.
+¡Buenas! ¡Nos volvemos a encontrar!\nCintia ha vuelto a Sinnoh.\rEs Campeona de Sinnoh, siempre está\nmuy ocupada, pero hizo un hueco para\fvenir a investigar la ruinas.\rSu dedicación es loable.\n
+Es posible que te sientas fuera de\nlugar en un sitio como este.\rSi quieres volver a tu casa,\nmi querido ABRA te puede ayudar\fcon su poder.\f¿Quieres regresar?{YESNO 0}
+¡Vaya, vaya!\nEntonces encuentra tu hogar en los\frecuerdos que hay en tu corazón.\r
+¡Ah, ya veo!\n¡Pues adelante!
+ABRA: Abrrr...

@@ -1,0 +1,28 @@
+¡Hola!\n¿Cómo te va?\rEstás en el grupo {STRVAR_34 3, 1, 0},\ncuyo líder es {STRVAR_1 3, 0, 0}, ¿verdad?\r¿Te apetece dejar ese grupo y\npasarte a otro?{YESNO 0}
+¡Hola!\n¿Cómo te va?\rEstás en el grupo {STRVAR_34 3, 1, 0},\ncuyo líder es {STRVAR_1 3, 0, 0}, ¿verdad?\r¿Te apetece dejar ese grupo y\ncrear uno nuevo?{YESNO 0}
+Oye, tú. Sé que es un poco repentino,\npero ¿te apetecería estar en un grupo?\rSi formas parte de un grupo, puedes\ncompetir o colaborar con sus miembros.\rEs muy divertido.\n¿Te apetece entonces?{YESNO 0}
+¿A qué grupo quieres unirte?{YESNO 0}
+Vaya. Pues es una pena.
+Ah, ¿que quieres crear un grupo nuevo?\n¡Claro!\rPero el grupo que creaste antes\nse disolverá. ¿Te parece bien?{YESNO 0}
+¡Estupendo!\n¿Y cómo quieres llamar a tu grupo?
+{STRVAR_34 3, 0, 0}, ¿eh?\n¡Es un nombre genial!\rA ver... Líder: {STRVAR_1 3, 1, 0}.\nEspero que vengan más miembros...
+¿El grupo {STRVAR_34 3, 0, 0}? Ajá. Sé cuál es.\nY sé quién es el líder. {STRVAR_1 3, 1, 0}.\f¿Quieres unirte a ese grupo?
+¡Vale! Nuevo miembro del grupo\n{STRVAR_34 3, 1, 0}: {STRVAR_1 3, 0, 0}.
+Cuando te unes a un grupo o creas un\ngrupo nuevo, debes ir a una Sala Unión.\rMezcla tus récords con los miembros\ndel grupo y entrarás en él.\rPuedes unirte con tus amigos a un mismo\ngrupo y, una vez dentro, verás como\ftodos sois testigos de diversos\facontecimientos al mismo tiempo.\r¡Es mucho más divertido jugar en grupo!\rCualquiera puede crear un grupo o\nunirse a uno ya creado.\r¡Que reclutes muchos amigos\ny que todos os divirtáis mucho!{YESNO 0}
+CREAR GRUPO
+UNIRSE
+INFORMACIÓN
+SALIR
+Grupo {STRVAR_34 3, 0, 0}
+Grupo {STRVAR_34 3, 1, 0}
+Grupo {STRVAR_34 3, 2, 0}
+Grupo {STRVAR_34 3, 3, 0}
+Grupo {STRVAR_34 3, 4, 0}
+Grupo {STRVAR_34 3, 0, 0}
+Grupo {STRVAR_34 3, 1, 0}
+Grupo {STRVAR_34 3, 2, 0}
+Grupo {STRVAR_34 3, 3, 0}
+Grupo {STRVAR_34 3, 4, 0}
+SALIR
+Ese grupo... ¿no lo había creado ya\n{STRVAR_1 3, 0, 0}? Sí, ¿no?
+Ya hay un grupo con ese nombre, ¿no?

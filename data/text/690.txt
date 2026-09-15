@@ -1,0 +1,12 @@
+Julia
+¡Tus Pokémon son adorables!\r¡Veo que quieres a los Pokémon\ntanto como yo!\f¿Quieres mi número de teléfono?\rAsí podremos hablar alguna vez\nsobre Pokémon. ¡Será chachi!{YESNO 0}
+Para serte sincero, quiero un MARILL,\npero me conformo con mi SNUBBULL...\r¡No! ¡SNUBBULL, es mentira!\n¡Tú eres el mejor! ¡Créeme!
+Oh... Qué pena... Adiós...
+Tú que vas acompañado de un Pokémon\ntan adorable.\r¿Quieres mi número de teléfono?{YESNO 0}
+¿Eh?\r{STRVAR_1 3, 0, 0}, te estaba esperando.\nToma.\r
+Estás en el Parque Nacional, ¿no?\n¿Entonces para qué me llamas?
+¡He arreglado a mi {STRVAR_1 0, 10, 0} y\nestá más guapo que nunca!\rHace poco me encontré\ncon un SNUBBULL salvaje.\rTe puedo asegurar que mi SNUBBULL\nes mucho más coqueto que el salvaje.\rSeguro que te llamaré.
+¡He arreglado a mi {STRVAR_1 0, 10, 0} y\nestá más guapo que nunca!\rHace poco me encontré\ncon un MARILL salvaje.\rAunque al verlo con más detenimiento,\nresultó ser un {STRVAR_1 0, 11, 0}.\r¡Qué chasco! Seguro que te llamaré.
+Mi marido consiguió unas Pepitas.\rSi quieres, puedes quedarte con una\npor ayudarme.\rEstaré en {STRVAR_1 4, 3, 0}.\nPor favor, ven a verme cuando puedas.
+¿Perdón? Oh... ¿la Pepita?\rNo hace falta que te des prisa,\nno se la voy a dar a nadie.\rVen a {STRVAR_1 4, 3, 0} cuando puedas.
+¿Está en forma tu equipo Pokémon?\rMe puedo pasar horas hablando\nde Pokémon. ¡Hasta la próxima!

@@ -1,0 +1,11 @@
+¡Hola! ¡Qué sorpresa!\nSoy el tío F. Otto, retratista.\r¡Tu cara es muy fotogénica!\n¿Quieres una foto de recuerdo? {YESNO 0}
+¡Estupendo! ¡Prepárate para\nla foto! Mira hacia el pajarito...\r
+¡Eso es! ¡Genial!\n¡Ha quedado una foto estupenda!\rPuedes verla en el PC\ncuando quieras.
+¡Ah, espera un momento!\r¡Mi intuición sobrehumana me dice\nque ahora mismo tu Álbum de Fotos\festá lleno! Lo siento mucho.\rVen a verme cuando hayas hecho\nun poco de sitio en tu Álbum.
+Pero, ¿cómo?\n¿Que todavía no tienes un Álbum?\rPues necesitas uno para ir guardando\nlas fotos.\rMi hermano tiene un estudio fotográfico\nen Ciudad Trigal. Ve a verle y\fte dará un Álbum.
+¡Vaya, vaya!\n¡No hay por qué tener vergüenza!
+Es una máquina de fotos automática.\r¿Quieres una foto? {YESNO 0}
+Prepárate para la foto.\r
+La foto ha salido correctamente.
+Tu Álbum de Fotos está lleno.\rVuelve cuando hayas hecho sitio\nen el Álbum.
+No tienes un Álbum de Fotos.\rVuelve cuando hayas obtenido\nuno en el Túnel de Ciudad Trigal.

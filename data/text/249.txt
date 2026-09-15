@@ -1,0 +1,10 @@
+¿Tu nombre?{YESNO 0}
+¿El mote de {STRVAR_1 1, 0, 0}?{YESNO 0}
+¿Nombre de la caja?{YESNO 0}
+¿Cómo se llama ese chico?{YESNO 0}
+                    
+¿Nombre del grupo?{YESNO 0}
+                      
+Group
+¿Cómo se llama tu amigo?{YESNO 0}
+        

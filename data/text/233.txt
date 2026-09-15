@@ -1,0 +1,4 @@
+VALE
+SALIR
+Introduce una frase o palabra.
+¿Prefieres no dar la Carta al Pokémon?

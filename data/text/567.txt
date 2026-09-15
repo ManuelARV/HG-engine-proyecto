@@ -1,0 +1,7 @@
+Antón: ¡Soy Antón!\nSoy invencible con los Pokémon bicho.\r¡Mis estudios me van a convertir en\nuna autoridad en los Pokémon bicho!\rTe enseñaré lo que he aprendido.\r
+Antón: ¡Guau, increíble!\n¡No hay Pokémon que se te resista!\rMi investigación aún no ha acabado.\rVale, tú ganas.\nToma esta Medalla.\r
+¡{STRVAR_1 3, 0, 0} ha recibido la\nMedalla Colmena de Antón!
+Antón: ¿Conoces las ventajas de la\nMedalla Colmena?\rSi la tienes, los Pokémon de hasta\nnivel 30 te obedecerán.\rY los Pokémon que sepan Corte\npodrán usarlo fuera del combate.\rMira, también te daré esto.\r
+                           
+Antón: ¡La Máquina Técnica 89 contiene\nIda y Vuelta!\rEl Pokémon que utilice este movimiento\npuede atacar y acto seguido cambiarse\fpor otro Pokémon de tu equipo.\r¿No es genial?
+Antón: Los Pokémon de tipo Bicho son\nmuy complejos. Todavía me queda mucho\fque aprender. Tú también deberías\festudiar a fondo tus favoritos.

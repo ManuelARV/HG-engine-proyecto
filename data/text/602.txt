@@ -1,0 +1,16 @@
+Aquí puedes constatar que hay gente de\ntodo el mundo que adora los Pokémon.\rVer los Vídeos de Combate de otros te\npermite ser partícipe de su diversión.
+Es una idea genial.\nCualquiera puede participar.\rAunque pierdas, puede convertirse en el\nVídeo de Combate preferido de alguien.
+¡Estos Vídeos de Combate me han dejado\nsin aliento!\rCreo que me voy a casa a seguir\nentrenando con mis Pokémon.
+Entre mis preferidos solo tengo Vídeos\nde Combate de MARILL monísimos.
+¡Qué colección tan estupenda!\nEntiendo por qué es tan popular.\r¡Solo con ver algunos de estos Vídeos\nde Combate, me siento más fuerte!
+Darse el gustazo de ver Vídeos de\nCombate cada día...\rSería un pasatiempo digno\nde un auténtico caballero.
+Un Vídeo de Combate misterioso.\nUn Vídeo de Combate misterioso.\r¿De qué va?\n¿De qué va?\r¿Quién sabe?\n¿Quién sabe quién lo sabe?
+Voy a hacer un acróstico con\nlas letras de Ciudad Trigal.\rT... Tierra al norte del Encinar\nR... Repleta de gente, gran actividad\rI... Inicio y final del Magnetotrén\nG... Gangas y ofertas a tutiplén\rA... Acechando está el Team Rocket\nL... ¡La ciudad donde se vive a tope!
+El Montañero que disfruta mirando los\nDatos de Cajas en la primera planta es\fmi hermano pequeño.
+Panel hacia la GTS y la Clasificación\nde Entrenadores de la planta baja.
+Panel para ir a la Sala de Datos\nde Cajas y Datos del Atuendo\fde la primera planta.
+¿Conectarse a la CWF de Nintendo y\nver o enviar Vídeos de Combate?{YESNO 0}
+Aquí puedes enviar un Vídeo de Combate\nde tus Pokémon.\rTambién puedes ver Vídeos de Combate\nde otros Entrenadores.\rLos Vídeos de Combate se pueden\nclasificar según Pokémon, lugar, etc.\rEl Vídeo de Combate que envíes tendrá\nasignado un número de 12 cifras.\rTus amigos podrán verlo introduciendo\naquí ese código de 12 cifras.\r
+CONECTAR
+INFORMACIÓN
+CANCELAR

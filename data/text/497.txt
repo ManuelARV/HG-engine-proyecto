@@ -1,0 +1,19 @@
+Pegaso: Mi padre es el mejor\nEntrenador Pokémon del mundo,\fdigan lo que digan.\r
+Sachiko: ¡Ja, ja, ja!\n¡No tienes ni idea!\r¡El mejor Entrenador del mundo\nes Koga! O sea, mi padre.\f¡Sin lugar a dudas!\r
+Pegaso: ¡Tú sí que no tienes ni idea!\nMi padre es el mej...\r
+Sachiko: ¡No digas tonterías y reconoce\nque mi padre es insuperable!\r
+Pegaso: ¡Eh! ¿Has oído eso?\n¿A que mi padre es\fun Entrenador excepcional? {YESNO 0}
+Pegaso: ¡Claro que sí!\n¡Tal como lo suponía!\fSe nota que sabes escuchar.\r¡Te contaré un montón de historias\nsobre mi padre!\r¡Voy a darte mi número de teléfono!\r
+¡{STRVAR_1 3, 0, 0} ha registrado a Pegaso\nen el Pokégear!
+Pegaso: Si quieres que te cuente\nhistorias sobre mi padre, llámame\fel sábado por la mañana.
+Pegaso: ¿Que no?\nLa verdad es que engañas\fa primera vista.\rParecía que sabías escuchar.\rNo importa. Seguro que cambias de idea.
+Pegaso: ¿No te parece que mi padre\nes un Entrenador excepcional?{YESNO 0}
+Pegaso: Oye, ¿quieres que nos\nsaquemos una foto juntos? {YESNO 0}
+Pegaso: ¡Qué bien!\nVenga, vamos allá.\r
+Pegaso: Ha quedado una foto muy chula.
+Pegaso: Ah, bueno...\nEntonces me haré una foto\fcon mi padre...
+Tu Álbum de Fotos está lleno.\rUsa el PC para hacer un poco\nde sitio en tu Álbum.
+Sachiko: ¿Lo ves?
+He venido a por una Carta Flores\npara mi novia.
+¡Escucha!\r¿Sabías que en este Centro Comercial\nse pueden encontrar las Cartas Mina\rque antes solo se vendían\nen Ciudad Malva?
+P3 Regalos\nDetalles con sentimiento\n

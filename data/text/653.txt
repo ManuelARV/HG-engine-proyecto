@@ -1,0 +1,15 @@
+Morti
+Esto se oye menos que\nla voz de un espectro...\rLlámame desde otro sitio, anda.
+¿Diga? ¿Todo bien?\nYo estoy fantasmagóricamente bien.\r
+Hay otros Líderes como poco\ntan fuertes como yo.\r¡Mételes en vereda a todos!
+Pues para luchar otra vez, las noches\nde los martes me van bien.\fLlámame entonces, ¿vale?
+¡Hoy no tengo nada que hacer!\n¡Vamos a combatir!{YESNO 0}
+¡Brrrr! ¡Me dan escalofríos solo de\npensar lo bien que me lo voy a pasar!\rTe espero en el Dojo de Ciudad Azafrán.
+Brrr...\nEsta es una decepción escalofriante.\rEstarás con la agenda hasta arriba,\nqué se le va a hacer...
+¡Ey, ey! Me da que ya has quedado\ncon alguien antes que conmigo...\f¿Me equivoco?
+¡Te espero en el Dojo de Ciudad\nAzafrán! Prepárate bien, ¿eh?
+¡Soy Morti!\n¿Cómo vas?\r
+Habíamos quedado en el Dojo de\nCiudad Azafrán, ¿no?\rSupongo que no lo habías olvidado,\npero por si las moscas.
+De los Pokémon legendarios SUICUNE,\nENTEI y RAIKOU... ¿cuál prefieres?\rA mí no me gusta SUICUNE tanto como a\nEusine; yo prefiero ENTEI.\rAunque RAIKOU también tiene su cosilla.\nNo me decido...
+Una vez vi un ENTEI desde muy,\nmuy cerca. Estaba justo delante de él.\rJamás podré olvidar su mirada.\rEra como si supiera todo lo que\nestaba pensando.
+¿Qué tal te ha ido después de la última\nvez que nos vimos?\rYo soy Líder de mi Gimnasio para variar.\nHay cosas que no cambian.\rDesde que viniste, no me lo he podido\npasar bien con ningún Entrenador.\rEres de lo mejorcito.\nNo hay muchos como tú.

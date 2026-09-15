@@ -1,0 +1,2 @@
+Eusine: ¡¿Has visto eso?!\r¡SUICUNE ha salido corriendo como\nun rayo, delante de mis narices!\rMe he pasado los diez últimos años\npersiguiéndolo y por fin he podido\fverlo de cerca. ¡Estoy alucinado!\r
+De cualquier modo...\rEs evidente que has llamado\nla atención de SUICUNE.\rLos Pokémon legendarios de Ciudad Iris\nsuelen acercarse a aquellas personas\fque consideran lo bastante fuertes.\rLa próxima vez haré como tú y me\nacercaré a SUICUNE con más decisión.\rBien, {STRVAR_1 3, 0, 0}, ¡ya nos veremos!\r

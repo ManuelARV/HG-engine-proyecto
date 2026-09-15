@@ -1,0 +1,910 @@
+{STRVAR_3 3, 0, 0}\r
+{STRVAR_3 3, 0, 0}\n{COLOR 0}{STRVAR_3 4, 1, 0}{COLOR 0}\r
+{STRVAR_3 4, 0, 0}\n{COLOR 0}{STRVAR_3 3, 1, 0}{COLOR 0}\r
+{STRVAR_3 3, 0, 0}\n{COLOR 0}{STRVAR_3 5, 1, 0}{COLOR 0}\r
+{STRVAR_3 5, 0, 0}\n{COLOR 0}{STRVAR_3 3, 1, 0}{COLOR 0}\r
+{STRVAR_3 3, 0, 0}\n{COLOR 0}{STRVAR_3 7, 1, 0}{COLOR 0}\r
+{STRVAR_3 7, 0, 0}\n{COLOR 0}{STRVAR_3 3, 1, 0}{COLOR 0}\r
+{STRVAR_3 3, 0, 0}\n{COLOR 0}{STRVAR_3 6, 1, 0}{COLOR 0}\r
+{STRVAR_3 6, 0, 0}\n{COLOR 0}{STRVAR_3 3, 1, 0}{COLOR 0}\r
+{STRVAR_3 3, 0, 0}\n{COLOR 0}{STRVAR_3 8, 1, 0}{COLOR 0}\r
+{STRVAR_3 8, 0, 0}\n{COLOR 0}{STRVAR_3 3, 1, 0}{COLOR 0}\r
+{STRVAR_3 4, 0, 0}\n{COLOR 0}{STRVAR_3 5, 1, 0}{COLOR 0}\r
+{STRVAR_3 5, 0, 0}\n{COLOR 0}{STRVAR_3 4, 1, 0}{COLOR 0}\r
+{STRVAR_3 4, 0, 0}\n{COLOR 0}{STRVAR_3 7, 1, 0}{COLOR 0}\r
+{STRVAR_3 7, 0, 0}\n{COLOR 0}{STRVAR_3 4, 1, 0}{COLOR 0}\r
+{STRVAR_3 4, 0, 0}\n{COLOR 0}{STRVAR_3 6, 1, 0}{COLOR 0}\r
+{STRVAR_3 6, 0, 0}\n{COLOR 0}{STRVAR_3 4, 1, 0}{COLOR 0}\r
+{STRVAR_3 4, 0, 0}\n{COLOR 0}{STRVAR_3 8, 1, 0}{COLOR 0}\r
+{STRVAR_3 8, 0, 0}\n{COLOR 0}{STRVAR_3 4, 1, 0}{COLOR 0}\r
+{STRVAR_3 5, 0, 0}\n{COLOR 0}{STRVAR_3 7, 1, 0}{COLOR 0}\r
+{STRVAR_3 7, 0, 0}\n{COLOR 0}{STRVAR_3 5, 1, 0}{COLOR 0}\r
+{STRVAR_3 5, 0, 0}\n{COLOR 0}{STRVAR_3 6, 1, 0}{COLOR 0}\r
+{STRVAR_3 6, 0, 0}\n{COLOR 0}{STRVAR_3 5, 1, 0}{COLOR 0}\r
+{STRVAR_3 5, 0, 0}\n{COLOR 0}{STRVAR_3 8, 1, 0}{COLOR 0}\r
+{STRVAR_3 8, 0, 0}\n{COLOR 0}{STRVAR_3 5, 1, 0}{COLOR 0}\r
+{STRVAR_3 7, 0, 0}\n{COLOR 0}{STRVAR_3 6, 1, 0}{COLOR 0}\r
+{STRVAR_3 6, 0, 0}\n{COLOR 0}{STRVAR_3 7, 1, 0}{COLOR 0}\r
+{STRVAR_3 7, 0, 0}\n{COLOR 0}{STRVAR_3 8, 1, 0}{COLOR 0}\r
+{STRVAR_3 8, 0, 0}\n{COLOR 0}{STRVAR_3 7, 1, 0}{COLOR 0}\r
+{STRVAR_3 6, 0, 0}\n{COLOR 0}{STRVAR_3 8, 1, 0}{COLOR 0}\r
+{STRVAR_3 8, 0, 0}\n{COLOR 0}{STRVAR_3 6, 1, 0}{COLOR 0}\r
+¡Hola!\r
+{STRVAR_3 4, 0, 0}\r
+{STRVAR_3 5, 0, 0}\r
+{STRVAR_3 7, 0, 0}\r
+{STRVAR_3 6, 0, 0}\r
+{STRVAR_3 8, 0, 0}\r
+¡Hala! Hay mucha diferencia horaria\nentre donde estoy yo y donde estás tú.\r¿Vas a salir a la calle cuando termines?\r
+¡Hala! Hay mucha diferencia horaria\nentre donde estoy yo y donde estás tú.\r¿Es posible que tengas sueño?\r
+¡Hala! Hay mucha diferencia horaria\nentre donde estoy yo y donde estás tú.\r¿Es posible que te acabes de levantar?\r
+{STRVAR_1 3, 0, 0}:\nEs un placer conocerte.\r
+{STRVAR_1 3, 0, 0}:\n¡Anda, {STRVAR_1 3, 1, 0}!\f¡Me alegro de verte de nuevo!\r
+Parece que no puede hablar contigo.\r
+{STRVAR_1 3, 0, 0}:\n¡Hasta luego!\r
+{STRVAR_1 3, 0, 0}:\nPor cierto...\r
+Lo siento, no tengo tiempo,\nme tengo que ir.\r
+{STRVAR_1 3, 0, 0}:\n¿Sí? Dime...\r
+{STRVAR_1 3, 0, 0}:\nOye, ¿tienes un segundo?\r
+                                   
+{STRVAR_1 3, 0, 0}:\nNo te preocupes, no hace falta que\frespondas si no quieres.\r
+{STRVAR_1 3, 0, 0}:\nEntiendo...\r
+{STRVAR_1 3, 0, 0}:\n¡Ya es casualidad!\f¡Qué coincidencia!\r
+{STRVAR_1 3, 0, 0}:\n¡Gracias por responder!\r
+{STRVAR_1 3, 0, 0}:\nBueno...\r
+{STRVAR_1 3, 0, 0}:\n¿Algo más?\r
+{STRVAR_1 3, 0, 0}:\n¿Cuál es tu color favorito?\r
+{STRVAR_1 3, 0, 0}:\n¿Qué Pokémon te gustan más?\r
+{STRVAR_1 3, 0, 0}:\n¿Qué tiempo hace por ahí?\r
+{STRVAR_1 3, 0, 0}:\n¿Qué estabas haciendo antes de jugar?\r
+{STRVAR_1 3, 0, 0}:\n¿Qué vas a hacer mañana?\r
+{STRVAR_1 3, 0, 0}:\n¿Adónde prefieres ir de vacaciones?\r
+{STRVAR_1 3, 0, 0}:\n¿A quién te pareces?\r
+{STRVAR_1 3, 0, 0}:\n¿Qué preferirías tener ahora mismo?\r
+{STRVAR_1 3, 0, 0}:\n¿Qué te parece más difícil?\r
+{STRVAR_1 3, 0, 0}:\n¿En qué sitios prefieres jugar?\r
+{STRVAR_1 3, 0, 0}:\n¿Qué juego de la plaza se te da mejor?\r
+{STRVAR_1 3, 0, 0}:\n¿Qué le gusta a la gente donde vives?\r
+{STRVAR_1 3, 0, 0}:\n¿Qué se te da mejor?\r
+{STRVAR_1 3, 0, 0}:\n¿Qué te gusta más?\r
+{STRVAR_1 3, 0, 0}:\n¿Cuál es tu afición secreta?\r
+{STRVAR_1 3, 0, 0}:\n¿Qué vas a hacer ahora?\r
+{STRVAR_1 3, 0, 0}:\n¿Qué hay cerca de tu casa?\r
+{STRVAR_1 3, 0, 0}:\n¿Qué sueles hacer con tus colegas?\r
+{STRVAR_1 3, 0, 0}:\n¿Qué te importa más?\r
+{STRVAR_1 3, 0, 0}:\nLa gente dice que eres una persona...\r
+{STRVAR_1 3, 0, 0}:\n¿Qué prefieres hacer?\r
+{STRVAR_1 3, 0, 0}:\n¿Qué te preocupa?\r
+{STRVAR_1 3, 0, 0}:\n¿Qué te cuesta más trabajo?\r
+{STRVAR_1 3, 0, 0}:\n¿Qué deporte se te da mejor?\r
+{STRVAR_1 3, 0, 0}:\n¿Qué quieres ser de mayor?\r
+{STRVAR_1 3, 0, 0}:\n¿Qué es lo mejor de tu barrio?\r
+{STRVAR_1 3, 0, 0}:\n¿Qué temperatura hace por ahí?\r
+{STRVAR_1 3, 0, 0}:\n¿Qué puedes oír desde donde estás?\r
+{STRVAR_1 3, 0, 0}:\n¿A qué huele por ahí?\r
+{STRVAR_1 3, 0, 0}:\n¿Qué te interesa más?\r
+{STRVAR_1 3, 0, 0}:\nBueno, pues...\r
+{STRVAR_1 3, 0, 0}:\nBueno, pues...\r
+{STRVAR_1 3, 0, 0}:\nVamos a ver... Por aquí...\r
+{STRVAR_1 3, 0, 0}:\nVamos a ver... Por aquí...\r
+{STRVAR_1 3, 0, 0}:\nBueno, pues...\r
+{STRVAR_1 3, 0, 0}:\nBueno, pues...\r
+{STRVAR_1 3, 0, 0}:\nBueno, pues...\r
+{STRVAR_1 3, 0, 0}:\nBueno, pues...\r
+{STRVAR_1 3, 0, 0}:\nBueno, pues...\r
+{STRVAR_1 3, 0, 0}:\nBueno, pues...\r
+{STRVAR_1 3, 0, 0}:\nBueno, pues...\r
+{STRVAR_1 3, 0, 0}:\nVamos a ver... Por aquí...\r
+{STRVAR_1 3, 0, 0}:\nBueno, pues...\r
+{STRVAR_1 3, 0, 0}:\nBueno, pues...\r
+{STRVAR_1 3, 0, 0}:\nBueno, pues...\r
+{STRVAR_1 3, 0, 0}:\nBueno, pues...\r
+{STRVAR_1 3, 0, 0}:\nVamos a ver... Por aquí...\r
+{STRVAR_1 3, 0, 0}:\nBueno, pues...\r
+{STRVAR_1 3, 0, 0}:\nBueno, pues...\r
+{STRVAR_1 3, 0, 0}:\nBueno, pues...\r
+{STRVAR_1 3, 0, 0}:\nBueno, pues...\r
+{STRVAR_1 3, 0, 0}:\nBueno, pues...\r
+{STRVAR_1 3, 0, 0}:\nBueno, pues...\r
+{STRVAR_1 3, 0, 0}:\nBueno, pues...\r
+{STRVAR_1 3, 0, 0}:\nBueno, pues...\r
+{STRVAR_1 3, 0, 0}:\nVamos a ver... Por aquí...\r
+{STRVAR_1 3, 0, 0}:\nVamos a ver... Por aquí...\r
+{STRVAR_1 3, 0, 0}:\nVamos a ver... Por aquí...\r
+{STRVAR_1 3, 0, 0}:\nVamos a ver... Por aquí...\r
+{STRVAR_1 3, 0, 0}:\nBueno, pues...\r
+El rojo
+El azul
+El amarillo
+El verde
+Los duros
+Los dulces
+Los bonitos
+Los raros
+Hace sol
+Está nublado
+Está lloviendo
+Está granizando
+Estaba durmiendo
+Estaba fuera
+Estaba trabajando
+Estaba comiendo
+No tengo planes
+Tengo mucho trabajo
+¡Es día festivo!
+Es un secreto...
+A la playa
+A esquiar
+A donde hay gente
+A donde no hay nadie
+A mi hermano mayor
+A mi hermana mayor
+A mi tío
+A mi tía
+Tiempo
+Dinero
+Amigos
+Comida, mmm...
+La escuela
+El deporte
+Madrugar
+Limpiar
+Parques
+Grandes almacenes
+Parques temáticos
+Teatros
+SWALOT Tragón
+MIME JR. Rodón
+WOBBUFFET Inflón
+Todavía no he jugado
+Televisión y música
+Videojuegos
+Escuela y deporte
+Moda y ligues
+Hacer deporte
+Usar la cabeza
+Hacerme notar
+Hacer amigos
+Leer
+Escuchar música
+Los ordenadores
+Acostarme tarde
+La moda
+La decoración
+La cocina
+La filosofía
+Jugar en la plaza
+Poner Sellos Huella
+Ver perf. visitantes
+Ver novedades plaza
+Otra casa
+Tiendas
+Una fábrica enorme
+Muchos árboles
+Deporte
+Jugar
+Chatear
+Zona de Compras
+La familia
+Los amigos
+Yo
+No te lo voy a decir
+Alegre
+Bromista
+Agradable
+Misteriosa
+Jugar
+Trabajar
+Dormir
+Comer
+La paga
+La escuela
+Estar en forma
+Los amigos
+La escuela
+Comer sano
+Ligar
+Hacer deporte
+Los de equipo
+El atletismo
+La natación
+Bailar
+Deportista
+Inventor
+Artista
+Humorista
+Está bien situado
+Hay muchos árboles
+Es tranquilo
+Es muy animado
+Hace calor
+Se está bien
+Hace frío
+Se está fresquito
+Voces...
+Música
+La televisión
+Nada
+Mmm... ¡A comida!
+A humanidad...
+A primavera
+Uf, ¡qué peste!
+Los juguetes nuevos
+La ropa moderna
+La meteorología
+Lo último en música
+Dejar de chatear
+{STRVAR_1 3, 0, 0}:\nEl mío es el rojo.\r
+{STRVAR_1 3, 0, 0}:\nEl mío es el azul.\r
+{STRVAR_1 3, 0, 0}:\nEl mío es el amarillo.\r
+{STRVAR_1 3, 0, 0}:\nEl mío es el verde.\r
+{STRVAR_1 3, 0, 0}:\nA mí me gustan los Pokémon que\ftienen pinta de ser duros.\r
+{STRVAR_1 3, 0, 0}:\nA mí me gustan los Pokémon dulces.\r
+{STRVAR_1 3, 0, 0}:\nA mí me gustan los Pokémon bonitos.\r
+{STRVAR_1 3, 0, 0}:\nA mí me gustan los Pokémon raros.\r
+{STRVAR_1 3, 0, 0}:\nAquí hace sol.\r
+{STRVAR_1 3, 0, 0}:\nAquí está nublado.\r
+{STRVAR_1 3, 0, 0}:\nAquí está lloviendo.\r
+{STRVAR_1 3, 0, 0}:\nAquí está granizando.\r
+{STRVAR_1 3, 0, 0}:\nCreo que estaba durmiendo.\r
+{STRVAR_1 3, 0, 0}:\nCreo que estaba fuera.\r
+{STRVAR_1 3, 0, 0}:\nCreo que estaba trabajando.\r
+{STRVAR_1 3, 0, 0}:\nCreo que estaba comiendo.\r
+{STRVAR_1 3, 0, 0}:\nNo tengo planes para mañana.\r
+{STRVAR_1 3, 0, 0}:\nMañana tengo mucho trabajo.\r
+{STRVAR_1 3, 0, 0}:\n¡Mañana es día festivo!\r
+{STRVAR_1 3, 0, 0}:\n¡A ti te lo voy a decir!\r
+{STRVAR_1 3, 0, 0}:\nA mí me gusta ir a la playa.\r
+{STRVAR_1 3, 0, 0}:\nA mí me gusta ir a esquiar.\r
+{STRVAR_1 3, 0, 0}:\nA mí me gusta ir a sitios donde\fhaya mucha gente.\r
+{STRVAR_1 3, 0, 0}:\nA mí me gusta ir a sitios donde\fno haya nadie.\r
+{STRVAR_1 3, 0, 0}:\nCreo que me parezco a mi hermano mayor.\r
+{STRVAR_1 3, 0, 0}:\nCreo que me parezco a mi hermana mayor.\r
+{STRVAR_1 3, 0, 0}:\nCreo que me parezco a mi tío.\r
+{STRVAR_1 3, 0, 0}:\nCreo que me parezco a mi tía.\r
+{STRVAR_1 3, 0, 0}:\nCreo que me gustaría tener más tiempo.\r
+{STRVAR_1 3, 0, 0}:\nCreo que me gustaría tener dinero.\r
+{STRVAR_1 3, 0, 0}:\nCreo que me gustaría tener amigos.\r
+{STRVAR_1 3, 0, 0}:\nPues a mí lo que me gustaría tener\fes comida, mmm...\r
+{STRVAR_1 3, 0, 0}:\nEsto... la escuela, creo.\r
+{STRVAR_1 3, 0, 0}:\nEsto... los deportes, creo.\r
+{STRVAR_1 3, 0, 0}:\nEsto... madrugar, creo.\r
+{STRVAR_1 3, 0, 0}:\nEsto... limpiar, creo.\r
+{STRVAR_1 3, 0, 0}:\nMe gustaría jugar en un parque.\r
+{STRVAR_1 3, 0, 0}:\nMe gustaría jugar en unos grandes\falmacenes.\r
+{STRVAR_1 3, 0, 0}:\nMe gustaría jugar en un parque\ftemático.\r
+{STRVAR_1 3, 0, 0}:\nMe gustaría jugar en un teatro.\r
+{STRVAR_1 3, 0, 0}:\nYo soy un hacha en SWALOT Tragón.\r
+{STRVAR_1 3, 0, 0}:\nYo soy un hacha en MIME JR. Rodón.\r
+{STRVAR_1 3, 0, 0}:\nYo soy un hacha en WOBBUFFET Inflón.\r
+{STRVAR_1 3, 0, 0}:\nVaya, todavía no he jugado a ninguno.\r
+{STRVAR_1 3, 0, 0}:\nCreo que a la gente le gustan la tele\fy la música.\r
+{STRVAR_1 3, 0, 0}:\nCreo que a la gente le gustan\flos videojuegos.\r
+{STRVAR_1 3, 0, 0}:\nCreo que a la gente le gustan\fla escuela y el deporte.\r
+{STRVAR_1 3, 0, 0}:\nCreo que a la gente le gustan la moda\fy los ligues.\r
+{STRVAR_1 3, 0, 0}:\nMe parece que lo mío es hacer deporte.\r
+{STRVAR_1 3, 0, 0}:\nMe parece que lo mío es estudiar.\r
+{STRVAR_1 3, 0, 0}:\nMe parece que lo mío es hacerme notar.\r
+{STRVAR_1 3, 0, 0}:\nMe parece que lo mío es hacer amigos.\r
+{STRVAR_1 3, 0, 0}:\nMe encanta la lectura.\r
+{STRVAR_1 3, 0, 0}:\nMe encanta la música.\r
+{STRVAR_1 3, 0, 0}:\nMe encantan los ordenadores.\r
+{STRVAR_1 3, 0, 0}:\nMe encanta acostarme tarde.\r
+{STRVAR_1 3, 0, 0}:\n¡La moda, sin duda!\r
+{STRVAR_1 3, 0, 0}:\n¡La decoración, sin duda!\r
+{STRVAR_1 3, 0, 0}:\n¡La cocina, sin duda!\r
+{STRVAR_1 3, 0, 0}:\n¡La filosofía, sin duda!\r
+{STRVAR_1 3, 0, 0}:\nIgual entro en un Juego de la plaza.\r
+{STRVAR_1 3, 0, 0}:\nIgual pongo unos Sellos Huella.\r
+{STRVAR_1 3, 0, 0}:\nIgual les echo un vistazo a los perfiles\fde los visitantes.\r
+{STRVAR_1 3, 0, 0}:\nIgual me paso a ver las novedades\fde la plaza.\r
+{STRVAR_1 3, 0, 0}:\nCerca de mi casa hay... ¡otra casa!\r
+{STRVAR_1 3, 0, 0}:\nCerca de mi casa hay muchas tiendas.\r
+{STRVAR_1 3, 0, 0}:\nAquí cerca hay una fábrica enorme.\r
+{STRVAR_1 3, 0, 0}:\nPor aquí cerca hay muchos árboles.\r
+{STRVAR_1 3, 0, 0}:\nUm... Yo diría que solemos hacer\fdeporte.\r
+{STRVAR_1 3, 0, 0}:\nUm... Yo diría que solemos jugar.\r
+{STRVAR_1 3, 0, 0}:\nUm... Yo diría que solemos chatear.\r
+{STRVAR_1 3, 0, 0}:\nUm... Yo diría que solemos ir\fde compras.\r
+{STRVAR_1 3, 0, 0}:\nA mí, la familia.\r
+{STRVAR_1 3, 0, 0}:\nA mí, los amigos.\r
+{STRVAR_1 3, 0, 0}:\nA mí... ¡pues yo, claro!\r
+{STRVAR_1 3, 0, 0}:\nEs un secreto.\r
+{STRVAR_1 3, 0, 0}:\nLa gente dice que soy alegre.\r
+{STRVAR_1 3, 0, 0}:\nLa gente dice que soy bromista.\r
+{STRVAR_1 3, 0, 0}:\nLa gente dice que soy agradable.\r
+{STRVAR_1 3, 0, 0}:\nLa gente dice que soy una persona\fmisteriosa.\r
+{STRVAR_1 3, 0, 0}:\n¡Me lo paso pipa jugando!\r
+{STRVAR_1 3, 0, 0}:\n¡Me lo paso pipa trabajando!\r
+{STRVAR_1 3, 0, 0}:\n¡Me lo paso pipa durmiendo!\r
+{STRVAR_1 3, 0, 0}:\n¡Me lo paso pipa comiendo!\r
+{STRVAR_1 3, 0, 0}:\nMe preocupa mi paga.\r
+{STRVAR_1 3, 0, 0}:\nMe preocupa la escuela.\r
+{STRVAR_1 3, 0, 0}:\nMe preocupa estar en forma.\r
+{STRVAR_1 3, 0, 0}:\nMe preocupan mis amigos.\r
+{STRVAR_1 3, 0, 0}:\nMe cuesta bastante ir a la escuela.\r
+{STRVAR_1 3, 0, 0}:\nMe cuesta bastante comer sano.\r
+{STRVAR_1 3, 0, 0}:\nMe cuesta ligar.\r
+{STRVAR_1 3, 0, 0}:\nMe cuesta bastante hacer deporte.\r
+{STRVAR_1 3, 0, 0}:\n¡Los de equipo!\r
+{STRVAR_1 3, 0, 0}:\n¡El atletismo!\r
+{STRVAR_1 3, 0, 0}:\n¡La natación!\r
+{STRVAR_1 3, 0, 0}:\nEstá claro: ¡bailar!\r
+{STRVAR_1 3, 0, 0}:\nQuiero ser deportista profesional.\r
+{STRVAR_1 3, 0, 0}:\nQuiero inventar cosas.\r
+{STRVAR_1 3, 0, 0}:\nQuiero ser artista.\r
+{STRVAR_1 3, 0, 0}:\nQuiero ser humorista.\r
+{STRVAR_1 3, 0, 0}:\nMi barrio está bien situado.\r
+{STRVAR_1 3, 0, 0}:\nEn mi barrio hay muchos árboles.\r
+{STRVAR_1 3, 0, 0}:\nMi barrio es tranquilo.\r
+{STRVAR_1 3, 0, 0}:\nMi barrio es muy animado.\r
+{STRVAR_1 3, 0, 0}:\nUf, aquí hace calor.\r
+{STRVAR_1 3, 0, 0}:\nAquí se está bien.\r
+{STRVAR_1 3, 0, 0}:\nAquí hace frío.\r
+{STRVAR_1 3, 0, 0}:\nAquí se está fresquito.\r
+{STRVAR_1 3, 0, 0}:\nOigo voces...\r
+{STRVAR_1 3, 0, 0}:\nPuedo oír música.\r
+{STRVAR_1 3, 0, 0}:\nPuedo oír la tele.\r
+{STRVAR_1 3, 0, 0}:\nNo oigo ni una mosca.\r
+{STRVAR_1 3, 0, 0}:\nAquí huele a comida. ¡Qué hambre!\r
+{STRVAR_1 3, 0, 0}:\nPuaj, aquí huele a humanidad...\r
+{STRVAR_1 3, 0, 0}:\n¡Qué bien, huele a primavera!\r
+{STRVAR_1 3, 0, 0}:\nEsto... No voy a entrar en detalles,\fpero no huele muy bien que digamos.\r
+{STRVAR_1 3, 0, 0}:\n¡Me pirran los juguetes nuevos!\r
+{STRVAR_1 3, 0, 0}:\n¡Me pirra la ropa más moderna!\r
+{STRVAR_1 3, 0, 0}:\nYo diría que me preocupa saber qué\ftiempo va a hacer mañana.\r
+{STRVAR_1 3, 0, 0}:\nMe interesa lo último en música.\r
+{STRVAR_1 3, 0, 0}:\nUm... Pues no sé...\fCreo que no te puedo responder.\r
+{STRVAR_1 3, 0, 0}:\nAh, tu color favorito es el rojo.\r
+{STRVAR_1 3, 0, 0}:\nAh, tu color favorito es el azul.\r
+{STRVAR_1 3, 0, 0}:\nAh, tu color favorito es el amarillo.\r
+{STRVAR_1 3, 0, 0}:\nAh, tu color favorito es el verde.\r
+{STRVAR_1 3, 0, 0}:\nAsí que te gustan los Pokémon\fcon pinta de duros.\r
+{STRVAR_1 3, 0, 0}:\nAsí que te gustan los Pokémon dulces.\r
+{STRVAR_1 3, 0, 0}:\nAsí que te gustan los Pokémon bonitos.\r
+{STRVAR_1 3, 0, 0}:\nAsí que te gustan los Pokémon raros.\r
+{STRVAR_1 3, 0, 0}:\nVaya, dices que hace sol por ahí.\r
+{STRVAR_1 3, 0, 0}:\nVaya, dices que está nublado por ahí.\r
+{STRVAR_1 3, 0, 0}:\nVaya, dices que está lloviendo por ahí.\r
+{STRVAR_1 3, 0, 0}:\n¿De veras está granizando?\r
+{STRVAR_1 3, 0, 0}:\nAh, que estabas durmiendo.\r
+{STRVAR_1 3, 0, 0}:\nAh, que estabas fuera.\r
+{STRVAR_1 3, 0, 0}:\nAh, que estabas trabajando.\r
+{STRVAR_1 3, 0, 0}:\nAh, que estabas comiendo.\r
+{STRVAR_1 3, 0, 0}:\nVaya, no tienes planes.\r
+{STRVAR_1 3, 0, 0}:\nVaya, mañana tienes mucho trabajo.\r
+{STRVAR_1 3, 0, 0}:\nVaya, mañana tienes vacaciones.\r
+{STRVAR_1 3, 0, 0}:\n¿Es un secreto?\r
+{STRVAR_1 3, 0, 0}:\nEntonces te gusta ir a la playa.\r
+{STRVAR_1 3, 0, 0}:\nEntonces te gusta ir a esquiar.\r
+{STRVAR_1 3, 0, 0}:\nEntonces te gusta ir a sitios donde\fhaya mucha gente.\r
+{STRVAR_1 3, 0, 0}:\nEntonces te gusta ir a sitios donde\fno haya nadie.\r
+{STRVAR_1 3, 0, 0}:\n¿A tu hermano mayor?\r
+{STRVAR_1 3, 0, 0}:\n¿A tu hermana mayor?\r
+{STRVAR_1 3, 0, 0}:\n¿A tu tío?\r
+{STRVAR_1 3, 0, 0}:\n¿A tu tía?\r
+{STRVAR_1 3, 0, 0}:\nTe gustaría tener más tiempo, ¿no?\r
+{STRVAR_1 3, 0, 0}:\nTe gustaría tener dinero, ¿no?\r
+{STRVAR_1 3, 0, 0}:\nTe gustaría tener más amigos, ¿no?\r
+{STRVAR_1 3, 0, 0}:\n¿Te gustaría tener comida? Ya veo...\r
+{STRVAR_1 3, 0, 0}:\nAsí que la escuela te resulta difícil...\r
+{STRVAR_1 3, 0, 0}:\nAsí que el deporte te resulta difícil...\r
+{STRVAR_1 3, 0, 0}:\nAsí que se te hace duro madrugar...\r
+{STRVAR_1 3, 0, 0}:\nAsí que se te hace duro limpiar...\r
+{STRVAR_1 3, 0, 0}:\nAh, te gustaría ir a jugar a un parque.\r
+{STRVAR_1 3, 0, 0}:\n¿En unos grandes almacenes?\fEntonces te tiene que gustar comprar.\r
+{STRVAR_1 3, 0, 0}:\nEn un parque temático, ¡cómo no!\r
+{STRVAR_1 3, 0, 0}:\nEn teatros. Eso es diferente, supongo.\r
+{STRVAR_1 3, 0, 0}:\n¡Oh, se te da bien SWALOT Tragón!\r
+{STRVAR_1 3, 0, 0}:\n¡Oh, se te da bien MIME JR. Rodón!\r
+{STRVAR_1 3, 0, 0}:\n¡Oh, se te da bien WOBBUFFET Inflón!\r
+{STRVAR_1 3, 0, 0}:\n¿De verdad no has probado ninguno?\r
+{STRVAR_1 3, 0, 0}:\nA la gente le gustan la tele y la música,\fya veo.\r
+{STRVAR_1 3, 0, 0}:\nA la gente le gustan los videojuegos,\fya veo.\r
+{STRVAR_1 3, 0, 0}:\nA la gente le gustan la escuela y\fel deporte, ya veo.\r
+{STRVAR_1 3, 0, 0}:\nA la gente le gustan la moda y los\fligues, ya veo.\r
+{STRVAR_1 3, 0, 0}:\nEntonces se te da bien hacer deporte.\fEso está bien.\r
+{STRVAR_1 3, 0, 0}:\nEntonces se te da bien pensar.\fEso está bien.\r
+{STRVAR_1 3, 0, 0}:\nEntonces te gusta hacerte notar.\fSueles ser el centro de atención, ¿no?\r
+{STRVAR_1 3, 0, 0}:\nEntonces se te da bien hacer amigos.\fEso está bien.\r
+{STRVAR_1 3, 0, 0}:\n¿Te encanta la lectura?\r
+{STRVAR_1 3, 0, 0}:\n¿Te encanta escuchar música?\r
+{STRVAR_1 3, 0, 0}:\n¿Te encantan los ordenadores?\r
+{STRVAR_1 3, 0, 0}:\n¿Te encanta acostarte tarde?\r
+{STRVAR_1 3, 0, 0}:\nAh, así que tu pasión es la moda.\r
+{STRVAR_1 3, 0, 0}:\nAh, así que tu pasión es la decoración.\r
+{STRVAR_1 3, 0, 0}:\nAh, así que tu pasión es la cocina.\r
+{STRVAR_1 3, 0, 0}:\nAh, así que tu pasión es la filosofía.\r
+{STRVAR_1 3, 0, 0}:\n¿Vas a participar en un Juego de la\fplaza? ¡Pásatelo bien!\r
+{STRVAR_1 3, 0, 0}:\n¿Vas a poner Sellos Huella?\fNo está mal.\r
+{STRVAR_1 3, 0, 0}:\n¿Ver los perfiles de los visitantes?\fAsí puedes ver de dónde viene cada uno.\r
+{STRVAR_1 3, 0, 0}:\nMuy bien, mantente informado de las\fúltimas novedades de la plaza.\r
+{STRVAR_1 3, 0, 0}:\nYa veo, así que hay otra casa.\r
+{STRVAR_1 3, 0, 0}:\nYa veo, así que hay unas tiendas.\r
+{STRVAR_1 3, 0, 0}:\nAnda, vives cerca de una gran fábrica.\r
+{STRVAR_1 3, 0, 0}:\nAsí que la naturaleza rodea tu casa.\r
+{STRVAR_1 3, 0, 0}:\nDices que normalmente haces deporte\fcon tus amigos.\r
+{STRVAR_1 3, 0, 0}:\nDices que normalmente juegas\fcon tus amigos.\r
+{STRVAR_1 3, 0, 0}:\nDices que normalmente chateas\fcon tus amigos.\r
+{STRVAR_1 3, 0, 0}:\nDices que normalmente vas de tiendas\fcon tus amigos.\r
+{STRVAR_1 3, 0, 0}:\nLo más importante para ti es la familia.\r
+{STRVAR_1 3, 0, 0}:\nLo importante para ti son los amigos.\r
+{STRVAR_1 3, 0, 0}:\nLo más importante para ti eres tú, ¿no?\r
+{STRVAR_1 3, 0, 0}:\nVaya, un secreto. Ahora me pica la\fcuriosidad.\r
+{STRVAR_1 3, 0, 0}:\nEntonces, piensan que eres alegre.\r
+{STRVAR_1 3, 0, 0}:\nEntonces, piensan que eres bromista.\r
+{STRVAR_1 3, 0, 0}:\nEntonces, piensan que eres agradable.\r
+{STRVAR_1 3, 0, 0}:\nEntonces, piensan que eres una persona\fmisteriosa.\r
+{STRVAR_1 3, 0, 0}:\nAsí que prefieres jugar, claro.\r
+{STRVAR_1 3, 0, 0}:\nAsí que prefieres trabajar, eso es\fpoco común.\r
+{STRVAR_1 3, 0, 0}:\nAsí que prefieres dormir, ya veo.\r
+{STRVAR_1 3, 0, 0}:\nMmm, dices que prefieres comer.\r
+{STRVAR_1 3, 0, 0}:\nVaya, ¿te preocupa tu paga?\r
+{STRVAR_1 3, 0, 0}:\nVaya, ¿te preocupa la escuela?\r
+{STRVAR_1 3, 0, 0}:\nVaya, ¿te preocupa no estar en forma?\r
+{STRVAR_1 3, 0, 0}:\nVaya, ¿te preocupan tus amigos?\r
+{STRVAR_1 3, 0, 0}:\nEntonces, ¿estudias mucho en casa?\fEso está bien.\r
+{STRVAR_1 3, 0, 0}:\nEntonces, ¿intentas comer mejor?\fHay que cuidarse.\r
+{STRVAR_1 3, 0, 0}:\nEntonces, ¿te cuesta un poco ligar?\fNo te preocupes.\r
+{STRVAR_1 3, 0, 0}:\nEntonces, ¿te cuesta un poco hacer\fdeporte? No te desanimes.\r
+{STRVAR_1 3, 0, 0}:\nYa veo, se te dan bien los deportes de\fequipo.\r
+{STRVAR_1 3, 0, 0}:\nYa veo, se te da bien el atletismo.\r
+{STRVAR_1 3, 0, 0}:\nYa veo, se te da bien la natación.\r
+{STRVAR_1 3, 0, 0}:\nYa veo, se te da bien la danza.\r
+{STRVAR_1 3, 0, 0}:\nEntonces quieres ser deportista.\r
+{STRVAR_1 3, 0, 0}:\nEntonces quieres inventar cosas.\r
+{STRVAR_1 3, 0, 0}:\nAsí que te quieres dedicar a las artes.\r
+{STRVAR_1 3, 0, 0}:\nEntonces quieres ser humorista.\r
+{STRVAR_1 3, 0, 0}:\n¿Tu barrio está bien situado?\fEso tiene que molar.\r
+{STRVAR_1 3, 0, 0}:\n¿En tu barrio hay muchos árboles?\fEso tiene que molar.\r
+{STRVAR_1 3, 0, 0}:\n¿Tu barrio es tranquilo?\fSeguro que así estudias mejor.\r
+{STRVAR_1 3, 0, 0}:\n¿Tu barrio es muy animado?\fEso tiene que molar.\r
+{STRVAR_1 3, 0, 0}:\nVaya, dices que hace calor.\r
+{STRVAR_1 3, 0, 0}:\nAnda, dices que se está bien.\r
+{STRVAR_1 3, 0, 0}:\nAsí que hace frío.\r
+{STRVAR_1 3, 0, 0}:\nVaya, dices que se está fresquito.\r
+{STRVAR_1 3, 0, 0}:\nAh, entonces hay más gente contigo.\r
+{STRVAR_1 3, 0, 0}:\nAh, así que estás escuchando música.\r
+{STRVAR_1 3, 0, 0}:\nAh, así que por ahí hay una tele.\r
+{STRVAR_1 3, 0, 0}:\nAh, así que no oyes nada.\r
+{STRVAR_1 3, 0, 0}:\nVaya, hueles a comida.\f¡Qué envidia!\r
+{STRVAR_1 3, 0, 0}:\nAsí que hay más gente por ahí...\r
+{STRVAR_1 3, 0, 0}:\nVaya, dices que huele a primavera,\f¿no? ¡Qué bonito!\r
+{STRVAR_1 3, 0, 0}:\nPuaj, así que algo huele mal...\r
+{STRVAR_1 3, 0, 0}:\n¿Lo que más te interesa son los\fúltimos juguetes?\r
+{STRVAR_1 3, 0, 0}:\n¿Lo que más te interesa es la ropa\fmoderna?\r
+{STRVAR_1 3, 0, 0}:\n¿Lo que más te interesa es qué tiempo\fva a hacer mañana?\r
+{STRVAR_1 3, 0, 0}:\n¿Lo que más te interesa es estar\fa la última en música?\r
+{STRVAR_1 3, 0, 0}:\n¿Y el tuyo?\r
+{STRVAR_1 3, 0, 0}:\n¿Y a ti?\r
+{STRVAR_1 3, 0, 0}:\n¿Y por ahí?\r
+{STRVAR_1 3, 0, 0}:\n¿Y tú?\r
+{STRVAR_1 3, 0, 0}:\n¿Y tú?\r
+{STRVAR_1 3, 0, 0}:\n¿Y tú?\r
+{STRVAR_1 3, 0, 0}:\n¿Y tú?\r
+{STRVAR_1 3, 0, 0}:\n¿Y tú?\r
+{STRVAR_1 3, 0, 0}:\n¿Y a ti?\r
+{STRVAR_1 3, 0, 0}:\n¿Y tú?\r
+{STRVAR_1 3, 0, 0}:\n¿Y a ti?\r
+{STRVAR_1 3, 0, 0}:\n¿Y por ahí?\r
+{STRVAR_1 3, 0, 0}:\n¿Y a ti?\r
+{STRVAR_1 3, 0, 0}:\n¿Y a ti?\r
+{STRVAR_1 3, 0, 0}:\n¿Y la tuya?\r
+{STRVAR_1 3, 0, 0}:\n¿Y tú?\r
+{STRVAR_1 3, 0, 0}:\n¿Y de la tuya?\r
+{STRVAR_1 3, 0, 0}:\n¿Y tú?\r
+{STRVAR_1 3, 0, 0}:\n¿Y a ti?\r
+{STRVAR_1 3, 0, 0}:\n¿Y qué dicen de ti?\r
+{STRVAR_1 3, 0, 0}:\n¿Y tú?\r
+{STRVAR_1 3, 0, 0}:\n¿Y a ti?\r
+{STRVAR_1 3, 0, 0}:\n¿Y a ti?\r
+{STRVAR_1 3, 0, 0}:\n¿Y a ti?\r
+{STRVAR_1 3, 0, 0}:\n¿Y tú?\r
+{STRVAR_1 3, 0, 0}:\n¿Y del tuyo?\r
+{STRVAR_1 3, 0, 0}:\n¿Y por ahí?\r
+{STRVAR_1 3, 0, 0}:\n¿Y tú?\r
+{STRVAR_1 3, 0, 0}:\n¿Y por ahí?\r
+{STRVAR_1 3, 0, 0}:\n¿Y a ti?\r
+{STRVAR_1 3, 0, 0}:\nVaya, veo que te han dado\f{STRVAR_3 0, 1, 0}. ¡Como a mí!\r¡Qué coincidencia!\r
+{STRVAR_1 3, 0, 0}:\n¿Tienes {STRVAR_3 2, 1, 0}?\rYo tengo {STRVAR_3 2, 2, 0}.\n¿Te interesa?\r
+{STRVAR_1 3, 0, 0}:\n¡Toma!\f¡Pásatelo bien!\r
+¡{STRVAR_1 3, 0, 0} te ha dado {STRVAR_3 2, 1, 0}!\r
+{STRVAR_1 3, 0, 0}:\n¿Tienes {STRVAR_3 0, 1, 0}?\f¡Qué guay!\r
+{STRVAR_1 3, 0, 0}:\n¡Yo también quiero el juguete\ftáctil {STRVAR_3 0, 1, 0}!\r
+Le has dado a {STRVAR_1 3, 0, 0}\nel juguete táctil {STRVAR_3 2, 1, 0}.\r
+{STRVAR_1 3, 0, 0}:\n¡Gracias! ¡Me gusta mucho!\r
+JUGUETES TÁCTILES
+CHATEAR
+CANCELAR
+COGER
+¿Cuál es tu color favorito?
+¿Qué Pokémon te gustan más?
+¿Qué tiempo hace por ahí?
+¿Qué estabas haciendo antes?
+¿Qué vas a hacer mañana?
+Prefieres ir de vacaciones...
+¿A quién te pareces?
+¿Qué preferirías tener ahora?
+¿Qué te parece más difícil?
+¿En qué sitios prefieres jugar?
+¿Qué juego se te da mejor?
+¿Qué prefiere la gente de allí?
+¿Qué se te da mejor?
+¿Qué te gusta más?
+¿Cuál es tu afición secreta?
+¿Qué vas a hacer ahora?
+¿Qué hay cerca de tu casa?
+¿Qué haces con tus colegas?
+¿Qué te importa más?
+Dicen que eres una persona...
+¿Qué prefieres hacer?
+¿Qué te preocupa?
+¿Qué te cuesta más trabajo?
+¿Qué deporte se te da mejor?
+¿Qué quieres ser de mayor?
+¿Qué es lo mejor de tu barrio?
+¿Qué temperatura hace por ahí?
+¿Qué puedes oír desde allí?
+¿A qué huele por ahí?
+¿Qué te interesa más?
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMe alegro de verte.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¡Anda, {STRVAR_1 3, 1, 0}!\f¡Me alegro de verte de nuevo!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¡Hasta luego!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nPor cierto...\r
+Lo siento, pero me tengo que ir.\nNo tengo tiempo para hablar.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Sí? ¿Qué tal?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nOye, ¿tienes un segundo?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nUm... Pues no sé...\fCreo que no te puedo responder.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nNo te preocupes, no hace falta que\frespondas si no quieres.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nYa veo...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¡Ya es casualidad!\f¡Qué coincidencia!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¡Gracias por responder!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nBueno...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Algo más?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Cuál es tu color favorito?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Qué Pokémon te gustan más?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Qué tiempo hace por ahí?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Qué estabas haciendo antes de jugar?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Qué vas a hacer mañana?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Adónde prefieres ir de vacaciones?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿A quién te pareces?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Qué preferirías tener ahora mismo?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Qué te parece más difícil?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿En qué sitios prefieres jugar?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nBueno, pues...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nBueno, pues...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nVamos a ver... Por aquí...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nVamos a ver... Por aquí...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nBueno, pues...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nBueno, pues...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nBueno, pues...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nBueno, pues...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nBueno, pues...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nBueno, pues...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEl mío es el rojo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEl mío es el azul.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEl mío es el amarillo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEl mío es el verde.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nA mí me gustan los Pokémon que\ftienen pinta de ser duros.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nA mí me gustan los Pokémon dulces.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nA mí me gustan los Pokémon bonitos.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nA mí me gustan los Pokémon raros.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAquí hace sol.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAquí está nublado.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAquí está lloviendo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAquí está granizando.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nCreo que estaba durmiendo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nCreo que estaba fuera.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nCreo que estaba trabajando.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nCreo que estaba comiendo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nNo tengo planes para mañana.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMañana tengo mucho trabajo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMañana tengo vacaciones.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¡A ti te lo voy a decir!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nA mí me gusta ir a la playa.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nA mí me gusta ir a esquiar.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nA mí me gusta ir a sitios donde\fhaya mucha gente.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nA mí me gusta ir a sitios donde\fno haya nadie.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nCreo que me parezco a mi hermano mayor.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nCreo que me parezco a mi hermana mayor.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nCreo que me parezco a mi tío.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nCreo que me parezco a mi tía.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nCreo que me gustaría tener más tiempo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nCreo que me gustaría tener dinero.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nCreo que me gustaría tener amigos.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nPues a mí lo que me gustaría tener\fes comida, mmm...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEsto... la escuela, creo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEsto... los deportes, creo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEsto... madrugar, creo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEsto... limpiar, creo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMe gustaría jugar en un parque.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMe gustaría jugar en unos grandes\falmacenes.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMe gustaría jugar en un parque\ftemático.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMe gustaría jugar en un teatro.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nUm... Pues no sé...\fCreo que no te puedo responder.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAh, tu color favorito es el rojo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAh, tu color favorito es el azul.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAh, tu color favorito es el amarillo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAh, tu color favorito es el verde.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAsí que te gustan los Pokémon\fcon pinta de duros.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAsí que te gustan los Pokémon dulces.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAsí que te gustan los Pokémon bonitos.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAsí que te gustan los Pokémon raros.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nVaya, dices que hace sol por ahí.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nVaya, dices que está nublado por ahí.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nVaya, dices que está lloviendo por ahí.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿De veras está granizando?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAh, que estabas durmiendo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAh, que estabas fuera.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAh, que estabas trabajando.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAh, que estabas comiendo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nVaya, no tienes planes.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nVaya, mañana tienes mucho trabajo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nVaya, mañana tienes vacaciones.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Un secreto?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEntonces te gusta ir a la playa.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEntonces te gusta ir a esquiar.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEntonces te gusta ir a sitios donde\fhaya mucha gente.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEntonces te gusta ir a sitios donde\fno haya nadie.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿A tu hermano mayor?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿A tu hermana mayor?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿A tu tío?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿A tu tía?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nTe gustaría tener más tiempo, ¿no?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nTe gustaría tener dinero, ¿no?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nTe gustaría tener más amigos, ¿no?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Te gustaría tener comida? Ya veo...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAsí que la escuela te resulta difícil...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAsí que el deporte te resulta difícil...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAsí que se te hace duro madrugar...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAsí que se te hace duro limpiar...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAh, te gustaría ir a jugar a un parque.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿En unos grandes almacenes?\fEntonces te tiene que gustar comprar.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEn un parque temático, ¡cómo no!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEn teatros. Eso es diferente, supongo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y el tuyo?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y a ti?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y por ahí?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y tú?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y tú?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y tú?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y tú?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y tú?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y a ti?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y tú?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nVaya, veo que te han dado\f{STRVAR_3 0, 1, 0}. ¡Como a mí!\r¡Qué coincidencia!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Tienes {STRVAR_3 2, 1, 0}?\rYo tengo {STRVAR_3 2, 2, 0}.\n¿Te interesa?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¡Toma!\f¡Pásatelo bien!\r
+¡{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0} te ha dado {STRVAR_3 2, 1, 0}!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Tienes {STRVAR_3 0, 1, 0}?\f¡Qué guay!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¡Yo también quiero el juguete\ftáctil {STRVAR_3 0, 1, 0}!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¡Gracias! ¡Me gusta mucho!\r
+{STRVAR_1 3, 0, 0}:\n¡Anda, {COLOR 0}{STRVAR_1 3, 1, 0}{COLOR 0}!\f¡Me alegro de verte de nuevo!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¡Anda, {COLOR 0}{STRVAR_1 3, 1, 0}{COLOR 0}!\f¡Me alegro de verte de nuevo!\r
+{STRVAR_1 3, 0, 0}:\n¿Qué ocurre? ¿Estás bien?
+{STRVAR_1 3, 0, 0}:\nEsto... Espera un momento...
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Qué ocurre? ¿Estás bien?
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEsto... Espera un momento...
+{STRVAR_1 3, 0, 0}:\n¡Vamos a hablar!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¡Vamos a hablar!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Qué juego de la plaza se te da mejor?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Qué prefiere la gente donde vives?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Qué se te da mejor?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Qué te gusta más?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Cuál es tu afición secreta?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Qué vas a hacer ahora?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Qué hay cerca de tu casa?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Qué sueles hacer con tus colegas?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Qué te importa más?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nLa gente dice que eres una persona...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Qué prefieres hacer?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Qué te preocupa?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Qué te cuesta más trabajo?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Qué deporte se te da mejor?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Qué quieres ser de mayor?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Qué es lo mejor de tu barrio?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Qué temperatura hace por ahí?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Qué puedes oír desde donde estás?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿A qué huele por ahí?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Qué te interesa más?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nBueno, pues...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nVamos a ver... Por aquí...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nBueno, pues...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nBueno, pues...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nBueno, pues...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nBueno, pues...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nVamos a ver... Por aquí...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nBueno, pues...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nBueno, pues...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nBueno, pues...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nBueno, pues...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nBueno, pues...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nBueno, pues...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nBueno, pues...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nBueno, pues...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nVamos a ver... Por aquí...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nVamos a ver... Por aquí...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nVamos a ver... Por aquí...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nVamos a ver... Por aquí...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nBueno, pues...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nYo soy un hacha en SWALOT Tragón.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nYo soy un hacha en MIME JR. Rodón.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nYo soy un hacha en WOBBUFFET Inflón.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nVaya, todavía no he jugado a ninguno.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nCreo que a la gente le gustan la tele\fy la música.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nCreo que a la gente le gustan\flos videojuegos.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nCreo que a la gente le gustan la escuela\fy el deporte.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nCreo que a la gente le gustan la moda\fy los ligues.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMe parece que lo mío es hacer deporte.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMe parece que lo mío es estudiar.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMe parece que lo mío es hacerme notar.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMe parece que lo mío es hacer amigos.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMe encanta la lectura.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMe encanta la música.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMe encantan los ordenadores.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMe encanta acostarme tarde.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¡La moda, sin duda!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¡La decoración, sin duda!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¡La cocina, sin duda!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¡La filosofía, sin duda!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nIgual juego en la Plaza Wi-Fi.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nIgual pongo unos Sellos Huella.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nIgual les echo un vistazo a los perfiles\fde los visitantes.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nIgual me paso a ver las novedades\fde la plaza.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nCerca de mi casa hay... ¡otra casa!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nCerca de mi casa hay muchas tiendas.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAquí cerca hay una fábrica enorme.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nPor aquí cerca hay muchos árboles.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nUm... Yo diría que solemos hacer\fdeporte.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nUm... Yo diría que solemos jugar.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nUm... Yo diría que solemos chatear.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nUm... Yo diría que solemos ir\fde compras.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nA mí, la familia.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nA mí, los amigos.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nA mí... ¡pues yo, claro!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEs un secreto.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nLa gente dice que soy alegre.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nLa gente dice que soy bromista.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nLa gente dice que soy agradable.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nLa gente dice que soy una persona\fmisteriosa.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¡Me lo paso pipa jugando!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¡Me lo paso pipa trabajando!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¡Me lo paso pipa durmiendo!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¡Me lo paso pipa comiendo!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMe preocupa mi paga.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMe preocupa la escuela.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMe preocupa estar en forma.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMe preocupan mis amigos.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMe cuesta bastante ir a la escuela.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMe cuesta bastante comer sano.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMe cuesta ligar.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMe cuesta bastante hacer deporte.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¡Los de equipo!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¡El atletismo!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¡La natación!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEstá claro: ¡bailar!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nQuiero ser deportista profesional.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nQuiero inventar cosas.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nQuiero ser artista.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nQuiero ser humorista.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMi barrio está bien situado.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEn mi barrio hay muchos árboles.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMi barrio es tranquilo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMi barrio es muy animado.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nUf, aquí hace calor.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAquí se está bien.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAquí hace frío.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAquí se está fresquito.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nOigo voces...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nPuedo oír música.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nPuedo oír la tele.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nNo oigo ni una mosca.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAquí huele a comida. ¡Qué hambre!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nPuaj, aquí huele a humanidad...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¡Qué bien, huele a primavera!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEsto... No voy a entrar en detalles,\fpero no huele muy bien que digamos.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¡Me pirran los juguetes nuevos!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¡Me pirra la ropa más moderna!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nYo diría que me preocupa saber qué\ftiempo va a hacer mañana.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMe interesa lo último en música.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nDices que se te da bien SWALOT Tragón.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAsí que se te da bien MIME JR. Rodón.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nSe te da bien WOBBUFFET Inflón, ¿no?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿De verdad no has probado ninguno?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nA la gente le gustan la tele y la música,\fya veo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nA la gente le gustan los videojuegos,\fya veo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nA la gente le gustan la escuela y\fel deporte, ya veo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nA la gente le gustan la moda y los\fligues, ya veo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEntonces se te da bien hacer deporte.\fEso está bien.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEntonces se te da bien pensar.\fEso está bien.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEntonces te gusta hacerte notar.\fSueles ser el centro de atención, ¿no?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEntonces se te da bien hacer amigos.\fEso está bien.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Te encanta la lectura?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Te encanta escuchar música?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Te encantan los ordenadores?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Te encanta acostarte tarde?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAh, así que tu pasión es la moda.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAh, así que tu pasión es la decoración.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAh, así que tu pasión es la cocina.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAh, así que tu pasión es la filosofía.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Vas a participar en un juego de la\fplaza? ¡Pásatelo bien!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Vas a poner Sellos Huella?\fNo está mal.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Ver los perfiles de los visitantes?\fAsí puedes ver de dónde viene cada uno.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMuy bien, mantente informado de las\fúltimas novedades de la plaza.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nYa veo, así que hay otra casa.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nYa veo, así que hay unas tiendas.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAnda, vives cerca de una gran fábrica.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAsí que la naturaleza rodea tu casa.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nDices que normalmente haces deporte\fcon tus amigos.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nDices que normalmente juegas\fcon tus amigos.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nDices que normalmente chateas\fcon tus amigos.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nDices que normalmente vas de tiendas\fcon tus amigos.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nLo más importante para ti es la familia.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nLo importante para ti son los amigos.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nLo más importante para ti eres tú, ¿no?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nVaya, un secreto. Ahora me pica la\fcuriosidad.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEntonces, piensan que eres alegre.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEntonces, piensan que eres bromista.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEntonces, piensan que eres agradable.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEntonces, piensan que eres una persona\fmisteriosa.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAsí que prefieres jugar, claro.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAsí que prefieres trabajar, eso es\fpoco común.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAsí que prefieres dormir, ya veo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMmm, dices que prefieres comer.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nVaya, ¿te preocupa tu paga?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nVaya, ¿te preocupa la escuela?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nVaya, ¿te preocupa no estar en forma?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nVaya, ¿te preocupan tus amigos?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEntonces, ¿estudias mucho en casa?\fEso está bien.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEntonces, ¿intentas comer mejor?\fHay que cuidarse.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEntonces, ¿te cuesta un poco ligar?\fNo te preocupes.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEntonces, ¿te cuesta un poco hacer\fdeporte? No te desanimes.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nYa veo, se te dan bien los deportes de\fequipo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nYa veo, se te da bien el atletismo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nYa veo, se te da bien la natación.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nYa veo, se te da bien la danza.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEntonces quieres ser deportista.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEntonces quieres inventar cosas.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAsí que te quieres dedicar a las artes.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nEntonces quieres ser humorista.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Tu barrio está bien situado?\fEso tiene que molar.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿En tu barrio hay muchos árboles?\fEso tiene que molar.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Tu barrio es tranquilo?\fSeguro que así estudias mejor.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Tu barrio es muy animado?\fEso tiene que molar.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nVaya, dices que hace calor.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAnda, dices que se está bien.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAsí que hace frío.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nVaya, dices que se está fresquito.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAh, entonces hay más gente contigo.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAh, así que estás escuchando música.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAh, así que por ahí hay una tele.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAh, así que no oyes nada.\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nVaya, hueles a comida.\f¡Qué envidia!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nAsí que hay más gente por ahí...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nVaya, dices que huele a primavera,\f¿no? ¡Qué bonito!\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\nPuaj, así que algo huele mal...\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Lo que más te interesa son los\fúltimos juguetes?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Lo que más te interesa es la ropa\fmoderna?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Lo que más te interesa es qué tiempo\fva a hacer mañana?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Lo que más te interesa son las\festrellas de la música pop?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y a ti?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y por ahí?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y a ti?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y a ti?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y la tuya?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y tú?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y de la tuya?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y tú?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y a ti?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y qué dicen de ti?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y tú?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y a ti?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y a ti?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y a ti?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y tú?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y del tuyo?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y por ahí?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y tú?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y por ahí?\r
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}:\n¿Y a ti?\r
+Le has dado a {STRVAR_1 3, 0, 0}\nel juguete táctil {STRVAR_3 2, 1, 0}.\r

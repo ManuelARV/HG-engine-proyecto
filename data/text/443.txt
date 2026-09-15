@@ -1,0 +1,9 @@
+PS
+Ataque
+Defensa
+Veloc.
+At. Esp.
+Def. Esp.
+Precisión
+Evasión
+PS Máx.

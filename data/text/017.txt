@@ -1,0 +1,8 @@
+Has recibido una solicitud de\nun Pokémon Ranger.\n\n¡Puedes recibir un {COLOR 0}Huevo de\nMANAPHY {COLOR 0}del Pokémon Ranger!\n\nA continuación, selecciona\n{COLOR 0}CONECTAR CON RANGER{COLOR 0}.\nToca para continuar.
+¡Se ha encontrado un aviso\nde regalo misterioso!\n\n¡Puedes recibir\nun regalo misterioso!\n\nA continuación, selecciona\n{COLOR 0}REGALO MISTERIOSO{COLOR 0}.\nToca para continuar.
+Has recibido una solicitud de un\nPokémon Ranger.\n\nSin embargo, para comunicarte\ncon el Pokémon Ranger,\ndebes avanzar en tu aventura\ny obtener una Pokédex.\nToca para continuar.
+¡Se ha encontrado un aviso\nde regalo misterioso!\n\nSin embargo, para recibir un regalo\nmisterioso, debes avanzar en tu\naventura y obtener una Pokédex.\nToca para continuar.
+        
+{COLOR 0}¡AVISO!\n{COLOR 0}Ya hay otra partida guardada.\nSi empiezas una aventura ahora,\nno podrás guardarla.\n¿Qué deseas hacer?
+Empezar la aventura.
+Volver al menú.

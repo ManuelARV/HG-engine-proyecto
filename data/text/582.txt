@@ -1,0 +1,14 @@
+Blanca: ¡Hola!\n¡Soy Blanca!\rY tú...\n¿No estabas en la Torre Radio?\rAsí que entrenas Pokémon, ¿eh?\n¿Y los cuidas bien?\r¡A mí también me encantan!\n¡Son tan monos!\r¿Qué? ¿Quieres enfrentarte a mí?\nComo quieras, ¡pero te aviso\fque soy muy fuerte!\r
+アカネ『うう⋯⋯\r⋯⋯うわ－ん！！\nひどいよ　ひどいよ！！\rむきに　なんないでよ！！\nもお　こども　なんやから⋯⋯
+Blanca: ¡Uaaaaa!\r¡Uaaaaa!\r¡Buaa, buaa...!\n¡Eres cruel!
+Blanca: ¡Sniff...!\r¿Qué quieres?\n¿Una Medalla?\r¡Ah, sí! Se me olvidaba.\nToma la Medalla Planicie.\fEs lo que querías, ¿no?\r
+¡{STRVAR_1 3, 0, 0} ha recibido\nla Medalla Planicie de Blanca!
+Blanca: Con la Medalla Planicie\nlos Pokémon podrán usar Fuerza\ffuera del combate.\r¡Y toma esto también!\r
+                           
+Blanca: ¡Contiene Atracción!\rUn movimiento que utiliza todo\nel encanto de un Pokémon.\rPerfecto para una monada como yo.\n¡Ah, sí!\rAl lado del Parque Nacional que hay\nal norte de aquí acaban de abrir\fun recinto para pruebas deportivas\fllamado Pokéathlon.\rYa que se te dan tan bien los Pokémon\ndeberías ir a probarlo.
+Blanca: ¡Uuf!\n¡La llorera me ha sentado bien!\r¡Vuelve cuando quieras!\n¡Adiós!
+¡Oh, no! Has hecho llorar a Blanca.\n¡No te preocupes!\rPronto se le pasará.\nSiempre llora cuando pierde.\r
+¡Hola, joven promesa!\rLos Entrenadores de este Gimnasio\nusan Pokémon de tipo Normal.\rSi vas a combatir, te recomiendo usar\nPokémon de tipo Lucha.
+¿Has ganado? ¡Genial!\rYo estaba ocupado admirando\nel talento de las Entrenadoras.
+Gimnasio Pokémon de Ciudad Trigal
+Gimnasio Pokémon de Ciudad Trigal\rLíder: Blanca\nEntrenadores reconocidos:\f{STRVAR_1 3, 0, 0}

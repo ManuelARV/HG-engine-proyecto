@@ -1,0 +1,63 @@
+Um...\n¿Quién has dicho que eras?\r...\n...\r¿Yo?\n¡Soy el Quita-Movimientos!\r
+¿Quieres que haga que uno de tus\nPokémon olvide un movimiento?{YESNO 0}
+¿Qué Pokémon debe olvidar movimientos?\r
+Vuelve por aquí si quieres que tus\nPokémon olviden algún movimiento.
+Ese Pokémon solo conoce un movimiento,\nasí que no puede olvidarlo...\r
+¿Cómo? Un Huevo no puede\nsaber ningún movimiento.\r
+¿Qué movimiento debería olvidar?\r
+Ajá. ¿{STRVAR_1 6, 0, 0}?\n¿Ese quieres? ¿De verdad?{YESNO 0}
+¡Ha salido de perlas!\rTu Pokémon ha olvidado\n{STRVAR_1 6, 0, 0} completamente.
+¿Yo?\nYo soy un Movimaníaco.\rConozco todos los movimientos que los\nPokémon aprenden a medida que crecen.\rPor eso soy capaz incluso de hacerles\nrecordar movimientos que ya habían\folvidado.\r¡Pero no lo hago por amor al arte!\rPor cada movimiento que les hago\nolvidar, quiero una Escama Corazón\fa cambio.
+¡Sí! ¡Esa es! ¡Una auténtica Escama\nCorazón! ¡Una de las de verdad!\rDéjame adivinar... ¿Quieres que le\nenseñe un movimiento a un Pokémon?\r
+Si quieres que adiestre alguno de tus\nPokémon, tráeme una Escama Corazón.
+¿Qué Pokémon quieres que lo aprenda?\r
+¿Qué movimiento quieres que le enseñe?\r
+Perdona...\rParece que no puedo enseñarle nada\na ese Pokémon...
+¿Eh?\r¡¿Pero cómo le voy a enseñar\nun movimiento a un Huevo?!\r¡Si todavía no ha eclosionado!
+                        
+                 
+                                 
+                     
+                                                                                           
+                                  
+                           
+                      
+                                                                               
+{STRVAR_1 3, 3, 0} entregó una Escama\nCorazón a cambio.
+Je, je, je,...\nSoy la Abuela Ela.\rAlgo me dice que posees las cualidades\nde los Domadragones.\rDime...\n¿Quieres que enseñe un movimiento\fa uno de tus Pokémon?{YESNO 0}
+Mmm... Tú otra vez...\r¿Quieres que le enseñe mi movimiento\nDomadragón más poderoso\fa algún Pokémon?{YESNO 0}
+Como quieras...\nSi cambias de idea, aquí estoy.
+Tal como pensaba...\n¡Lo llevas en la sangre!\rLamentablemente, no llevas ningún\nPokémon contigo que pueda aprenderlo.
+¿A qué Pokémon quieres\nque se lo enseñe?\r
+Lo siento...\rTu Pokémon podría aprender este\nmovimiento, pero todavía no está\flo bastante ligado a ti...\rAsí no hay forma de que pueda\nenseñárselo.
+Lo siento...\rEse Pokémon no puede aprender\neste movimiento.
+Mmm...\rCreo que va a ser un poco difícil que\nle enseñe un movimiento a un Huevo.
+Pero... ese Pokémon ya conoce\nel movimiento {STRVAR_1 6, 0, 0}.
+                            
+                         
+                                                                                        
+                             
+                         
+                      
+                                                                            
+¡La potencia de Cometa Draco\nes tremenda!\rPero el Ataque Especial del Pokémon\nque lo use bajará.
+¿Tu anhelo de poder te ha traído\nhasta mí?\rBien... Recompensaré tu empeño.\rVoy a enseñarte el movimiento que andas\nbuscando. ¡El movimiento definitivo!\r¿Quieres que alguno de tus Pokémon\nlo aprenda?{YESNO 0}
+¡El movimiento definitivo! ¿Quieres\nque algún Pokémon lo aprenda?{YESNO 0}
+¿Qué Pokémon quieres que lo aprenda?\r
+Mmm... Como quieras...\nSi cambias de idea, aquí estaré.
+                          
+¡No puedo enseñarle un movimiento\na este Pokémon! Antes de nada,\fdeberías leer ese cartel. ¡Bah!
+¡No se le pueden enseñar movimientos\na un Huevo! ¡Bah!
+¡El vínculo que os une no es\nlo bastante fuerte! ¡Bah!
+¡Ese Pokémon ya conoce el movimiento!\n¡Bah!
+Voy a enseñarle Anillo Ígneo\na tu {STRVAR_1 0, 0, 0}. ¿Vale?{YESNO 0}
+Voy a enseñarle Hidrocañón\na tu {STRVAR_1 0, 0, 0}. ¿Vale?{YESNO 0}
+Voy a enseñarle Planta Feroz\na tu {STRVAR_1 0, 0, 0}. ¿Vale?{YESNO 0}
+                         
+                                                                                        
+                      
+                                                                            
+                             
+                         
+Solo enseñamos movimientos\na los siguientes Pokémon:\rPokémon de llamas ardientes:\nCHARIZARD, TYPHLOSION\fBLAZIKEN e INFERNAPE\rPokémon de aguas dispersas:\nBLASTOISE, FERALIGATR,\fSWAMPERT y EMPOLEON\rPokémon de flora serena:\nVENUSAUR, MEGANIUM,\fSCEPTILE y TORTERRA
+Bien, voy a enseñarle un movimiento\na tu {STRVAR_1 0, 0, 0}...\r

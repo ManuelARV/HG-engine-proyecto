@@ -1,0 +1,159 @@
+Eco
+Eco: ¡Huy, casi se me olvida!\nDame tu número de teléfono.\fYo también te doy el mío.
+Eco: Llámame cuando quieras y\nhablamos sobre Pokémon.
+{STRVAR_1 3, 0, 0}, ¿qué pasa?\rCon el teléfono, aunque estés\ncerca, parece como si estuvieras\fmuy lejos. Casi dan ganas de gritar.
+¿{STRVAR_1 3, 0, 0}?\n¡Buenos días!\r
+¡{STRVAR_1 3, 0, 0}!\n¿Cómo estás?\r
+¿{STRVAR_1 3, 0, 0}?\nBuenas noches.\r
+¡Hola, soy Eco!\nBuenas noches.\r
+¡Hola, soy Eco!\n¿Cómo estás?\r
+¡Hola, soy Eco!\n¡Buenas noches!\r
+Un Pokémon embistió a mi padre\ny le duele la espalda horrores.\rEstaba simplemente jugando\ny mira el resultado. Menos mal\fque no llegó a mayores.\r¡Hasta pronto, ya te llamaré!
+Cuando le pasa algo malo a MARILL,\nse sumerge en el agua rápidamente.\rHoy se ha metido en la bañera,\nha empezado a chapotear y lo ha puesto\ftodo perdido. ¡Hablamos, un saludo!
+Es un chollo eso de que los\nCentros Pokémon curen tus Pokémon\fsin gasto alguno.\rAl llegar a cada ciudad lo primero\nes ir al Centro Pokémon.\r¡Vivan los Centros Pokémon!\n¡{STRVAR_1 3, 0, 0}, métele caña!
+Prueba a llevarte un BULBASAUR\na la Ruta 1.\rSeguro que descubres algo curioso.
+¿Por qué no te llevas un CHARMANDER\na la Ruta 2?\rLas malas lenguas dicen que les pirra\nesa zona.
+He oído que los SQUIRTLE\nse pegan unas tortas tremendas\fal caerse en la Ruta 3.
+El Mt. Moon, sí, el que está en\nla Ruta 4, le encanta a CLEFAIRY,\f¿no lo sabías?
+En Ciudad Azafrán hay un dojo.\nPues Pokémon que llevo, Pokémon\fque se lleva un sorpresón.
+Cuando fui a Ciudad Carmín monté\nmis Pokémon en el S.S. Aqua\fy se pusieron contentísimos.
+Si llevas a PORYGON por Ciudad Azulona,\nse oye un ruido muy raro.\f¿No has oído nunca ese rumor?
+En Ciudad Azafrán vive el Sr. Psíquico.\r¿Por qué no le llevas algún Pokémon\nde tipo Psíquico?
+¿Ya te has pasado por el Túnel Roca?\rCreo que si llevas a ONIX allí se pone\nla mar de contento.
+Si por casualidad vas a la Central\nEnergía, llévate a PIKACHU.\rYa verás como ocurre algo chachi.
+La Cueva DIGLETT está cerca\nde la Ruta 11, ¿no?\rPues bien, ahí te tienes que llevar a...\n¡A que no hace falta que te lo diga!
+¿Por dónde andas? ¿Por la Ruta 12?\rMmm... Ahora que caigo, pásate por\nla Casa Pokémon de Pueblo Lavanda\fy verás qué bien te lo pasas.
+¿Por dónde andas? ¿Por la Ruta 13?\nEs como un laberinto, ¿verdad?\rTen cuidado no se te vayan a perder\ntus Pokémon. Se confunden mucho.
+Ahora estás por la Ruta 14, ¿no?\rPor esa zona hay unos cuantos molinos\nen fila y la vista es fastuosa.
+¿Dónde estás ahora? ¿En la Ruta 15?\rEntonces estás cerca del Parque Compi\nde Ciudad Fucsia. Pásate por la casa\fdel guarda. Tiene un montón de AIPOM.
+¿Dices que estás en la Ruta 16?\rEntonces, el Camino de Bicis\nte pilla cerquísima.\rSi pudieras correr con tu Pokémon\nsería casi un sueño. Aunque pensándolo\fbien... ¡sería peligroso!
+¿Dices que estás en la Ruta 17?\n¡Ese es el Camino de Bicis!\rSi pudieras correr con tu Pokémon\nsería casi un sueño. Aunque pensándolo\fbien... ¡sería peligroso!
+¿Dices que estás en la Ruta 18?\rEntonces, el Camino de Bicis\nte pilla cerquísima.\rSi pudieras correr con tu Pokémon\nsería casi un sueño. Aunque pensándolo\fbien... ¡sería peligroso!
+Si vas hasta la Ruta 19, puedes jugar\nen el agua con tus Pokémon. ¡Eso mola!\n
+Los Pokémon de tipo Fuego no soportan\nacercarse al agua.\fNo es difícil imaginarse el porqué.
+¿No te apetece ver junto a tus Pokémon\nel sol rielando al anochecer?\fPuedes hacerlo en la Ruta 21.\rEs muy romántico.
+La Ruta 22 es el camino a la Liga\nPokémon. Seguro que se ponen\fmuy nerviosos al pasar por ella.
+Al puente de la Ruta 24 lo llaman\n“El puente de las esferas áureas”.\rNo es su nombre original, pero casi\ntodos lo conocen por ese nombre.\rEs porque la luz del sol se refleja\nen el agua y es bastante luminoso.
+A mí me parece que los Pokémon\nno han visto nunca su cara.\r¿Cómo reaccionarán al verse\nreflejados en las charcas que hay\fen la Ruta 25?
+En la Ruta 26 hay naturaleza\na raudales y los Pokémon deberían\fsentirse muy relajados, pero como\festá cerca de la Liga Pokémon,\fse les nota algo tensos, ¿no crees?
+En la Ruta 27, los Pokémon rastrean\nhasta conseguir algo.\rSi quieres saber qué es, lo mejor\nes llevar un Pokémon con el que\fte lleves muy bien.
+La Ruta 28 lleva al Monte Plateado.\nLo sabes, ¿no?\rLos Pokémon se ponen nerviosos\ncuando vas por ella, seguro.
+¡Una cosa! Te aconsejo llevarte\nun CHIKORITA a la Ruta 29.\rSeguro que pasa algo curioso.
+Yo de ti me llevaría a TOTODILE\na la Ruta 30.\rSeguro que pasa algo curioso.
+Seguro que pasa algo chachi si te llevas\na CYNDAQUIL a la Ruta 31.\rHe oído que le encanta esa zona.
+Los UNOWN viven en las Ruinas Alfa,\n¿verdad?\fSi ya tienes uno, llévalo a ver qué pasa.
+La lluvia nunca para en la Ruta 33.\rEn ese tipo de días me deprimo mucho,\npero hay Pokémon que pierden la cola\fpor la lluvia y se lo pasan chachi piruli,\fcomo TOTODILE.\n
+El Encinar vuelve loco a FARFETCH’D.\rLa próxima vez voy a llevarlo\na ver qué pasa.
+¿Sabes? Los Pokémon se entusiasman\ncon el Pokéathlon.\rYo llevaré mis Pokémon un día\nde estos a que participen.
+Lleva a SUDOWOODO a la Ruta 36 y\nverás qué pasa.\rNo te cuento nada más. Quiero\nque lo descubras por ti mismo.
+¿Has hablado con las Gemelas\nde la Ruta 37?\rSon muy guapas, por eso a los\nPokémon también les caen bien.
+Hace un tiempo, llevé a TAUROS a la\nGranja Mu-mu y se puso como\fun energúmeno. ¡Era incontenible!
+Lleva a MILTANK a la Ruta 39 y verás.\nSe lo pasará muy bien porque allí\fviven un montón de compañeras suyas.
+Un buen experimento sería llevar a\nPOLIWAG a la Ruta 40.\rSeguro que ocurre algo curioso.
+A los Pokémon de tipo Agua les encanta\nel mar. Al verles con tanta ilusión,\funo también siente la misma felicidad\fque ellos.
+¿Vas bien?\nLa Ruta 42 es muy escarpada.\rLos Pokémon de tipo Roca se pondrán\nmuy contentos si los llevas por ahí.
+Si quieres ver a MAGIKARP lleno de\nvitalidad, llévalo al Lago de la Furia.
+Ahora estás... ¿en la Ruta 44?\n¿Me equivoco?\rPor ahí las temperaturas son muy bajas\ny los Pokémon frioleros lo pasan mal.\rEso sí, los Pókemon de tipo Hielo están\nen su ambiente y se lo pasan pipa.
+La corriente del río que pasa por la\nRuta 45 es serpenteante y mola mazo.\rCuando fui, mis Pokémon miraban\nhacia el río con mucha curiosidad.
+En la Ruta 46 hay mucha hierba alta\ny a mis Pokémon les preocupa\fencontrarse con algún Pokémon salvaje.
+La Ruta 47 tiene una vista increíble.\n¿Conoces el Pokémon DITTO?\rDicen que se ponen muy contentos\nen esa zona. Qué raro, ¿no?
+En los alrededores de la Ruta 48,\nmuy cerca, hay un precipicio altísimo.\rSeguro que los Pokémon que te\nacompañan pasan mucho miedo.\r¿Y yo qué?\n¡Tengo un vértigo de no te menees!
+¿Dónde estás?\nSi es por Pueblo Paleta, entonces...\f¡es donde vive el Profesor Oak!\rLe encantan los Pokémon, deberías\npasarte por su Laboratorio.
+¿Dónde estás? ¿En Ciudad Verde?\nAhí está la Casa del Entrenador.\rLos Pokémon se ponen la mar\nde contentos cuando van allí.
+¿Por dónde estás?\n¿Cerca de Ciudad Verde?\rAh, en Ciudad Plateada.\nEl Museo está ahí.\rPodrías ir con tus Pokémon.\nA lo mejor les gusta y todo.
+¿Por dónde estás?\nAsí que por Ciudad Celeste.\r¿Ya has visto a Misty,\nla Líder del Gimnasio?\rNo, no es por nada, solo me picaba\nel gusanillo de la curiosidad.
+Dime, ¿dónde te encuentras?\n¿En Pueblo Lavanda?\fSí que estás lejos.\rAhí es donde se encuentra\nel Cementerio, donde están\flas tumbas de los Pokémon.\rTodo Entrenador debería ir a mostrar\nsus respetos al menos una vez.
+¿Por dónde vas ya? ¿Por Ciudad Carmín?\nAhí está el Club de Fans de Pokémon.\rBAYLEEF vive allí, ve a verlo.
+¿Dónde estás? Así que en Ciudad\nAzulona. Me llevé a TANGELA al\fGimnasio y se puso hecho unas\fcastañuelas. ¿Por qué no pruebas?
+¿Qué? ¿Que estás en Ciudad Fucsia?\nTienes ambición, ¿eh?\rHe oído que TAUROS se excita mucho allí.\nNo tengo ni idea de por qué será,\fpero te recomiendo que te lo lleves\fy veas qué pasa.\n
+¿Dónde estás? Ah, en Isla Canela.\nVaya a dónde te llevan tus viajes...\rAllí puedes ver el horizonte marino\nacompañado de tu Pokémon desde\funa ciudad sepultada por la lava.\rParece la última escena de una película\nde ciencia ficción.
+Cuando un amigo fue a la Meseta Añil,\nsus Pokémon estaban que se salían de\fentusiasmo y se quedaron sin aliento.\n
+¿Dónde estás?\nAsí que en Ciudad Azafrán.\rAhí está la casa de la Copiona.\nLlévate a MIME JR. contigo, a lo mejor\focurre algo interesante.
+¿Dónde estás?\nAh, en Pueblo Primavera.\f¿Te has pasado por tu casa?\rDeberías ir con un Pokémon a decirle\nhola a tu mamá.
+¿Dónde estás? ¿En Ciudad Cerezo?\nAllí abundan las olas del mar.\rEs muy relajante correr con los\nPokémon por la playa mientras\fel sonido de las olas te envuelve.
+¿Dónde estás? Ah, en Ciudad Malva.\nAhí está la Torre BELLSPROUT.\rSi llevas un BELLSPROUT hasta allí,\nse pone a bailar... o eso dicen...\r¿Será verdad?\n¿Por qué no lo compruebas?
+¿Por dónde estás ahora?\n¿En Ciudad Orquídea?\r¿Ah, no? Es en Pueblo Azalea.\n¿Ya te has montado en los SPINARAK\fmecánicos del Gimnasio?\r¿Cómo se comportará un SPINARAK\nde verdad si lo llevas ahí?\fPuede ser curioso.
+¿Por dónde te pillo?\nAh, ¿en Ciudad Orquídea?\r¡Lo sabía!\nSi te llevas a KRABBY, ¿qué pasará?\r¡Compruébalo!
+¿Dónde te pillo? Ah, en Ciudad Trigal.\rSi te das cuenta, el Gimnasio tiene\nla forma de un CLEFAIRY.\r¡Prueba a llevarte uno!\nA lo mejor pasa algo gracioso.
+Ah, pues en Ciudad Olivo, el faro\ndel puerto es lo más vistoso.\rPrueba a ir con AMPHAROS hasta allí.\nA lo mejor hasta brilla...
+¿Por dónde estás? ¿En Ciudad Iris?\rLlévate a PICHU al Teatro de Danza,\nque me da que va a ocurrir algo curioso.\r¡Es que allí dan muchas ganas de bailar!
+Oye, ¿ya tienes Pokémon de tipo Hielo?\rCuando están sobre el hielo\nse lo pasan pipa.
+En el Lago de la Furia, se pueden ver\nMAGIKARP llenos de energía.\rSi tienes un MAGIKARP, llévatelo.\n
+En Ciudad Endrino hay alguien que te\nayuda a que tu Pokémon olvide\fmovimientos. En ese lugar, parece que\fa los Pokémon también se les van a\folvidar hasta los objetos que llevan.\rAunque no, eso no puede ocurrir,\nimposible.
+Yo tampoco he ido todavía\nal Monte Plateado.\rSeguro que los Pokémon\nse ponen muy nerviosos.
+¿Por dónde te pillo?\nAh, en el Parque Nacional.\f¡A mí también me encanta ese lugar!\rLos Pokémon de tipo Bicho se ponen\nmuy contentos allí.
+¿Ahora estás en las Ruinas Alfa?\nPor ahí puedes encontrar UNOWN.\r¿Ya tienes alguno? Si es así, llévatelo\nhasta allí a ver qué pasa.
+¿Dónde estás?\nHuy, en la Zona Safari.\fEso está en el quinto pimiento.\rIr hasta allí andando es un calvario,\npero vale la pena, ¿eh?
+Si pasas por casualidad por la Ruta 1,\nllévate un BULBASAUR.\rSeguro que descubres algo curioso.
+Si pasas por casualidad por la Ruta 2,\ndeberías llevarte un CHARMANDER.\rLas malas lenguas dicen que les pirra\nese lugar.
+¿Ya te has pasado por la Ruta 3?\rHe oído que los SQUIRTLE se pegan\nunas tortas tremendas al caerse\fen la Ruta 3.
+Cerca de la Ruta 4 está el Mt. Moon.\nA CLEFAIRY le encanta, ¿no lo sabías?
+En Ciudad Azafrán hay un dojo.\nPues Pokémon que llevo, Pokémon\fque se lleva un sorpresón.\rNo sé si será porque es un buen\nlugar para combatir y les gusta.
+Cuando fui a Ciudad Carmín monté\nmis Pokémon en el S.S. Aqua\fy se pusieron contentísimos.
+¿Has ido ya a Ciudad Azulona?\rSi llevas a PORYGON allí,\nse oye un ruido muy raro.\f¿No has oído nunca ese rumor?
+En Ciudad Azafrán vive el Sr. Psíquico.\rSi le llevas algún Pokémon de tipo\nPsíquico tal vez ocurra algo curioso.
+Si por casualidad te pasas por el Túnel\nRoca, llévate un ONIX. El mío se puso\fla mar de contento.
+¿Ya has ido a la Central Energía?\nSi ya tienes alguno, llévate un PIKACHU.\rYa verás como ocurre algo chachi.
+¿Ya has ido a la Cueva DIGLETT?\rPues bien, ahí te tienes que llevar a...\n¡A que no hace falta que te lo diga!
+En Pueblo Lavanda está la Casa\nPokémon. Verás qué bien se lo\fpasa allí tu equipo Pokémon.
+La Ruta 13 es como un laberinto,\n¿verdad?\rTen cuidado no se te vayan a perder\ntus Pokémon. Se confunden mucho.
+Si todavía no has ido a la Ruta 14,\n¡no pierdas más el tiempo!\rPor esa zona hay unos cuantos molinos\nen fila y la vista es fastuosa.
+El guarda del Parque Compi vive\nen Ciudad Fucsia.\f¿Te has pasado por su casa?\rEs chachi porque tiene\nun montón de AIPOM.
+¿Has corrido ya por el Camino de Bicis?\rSi pudieras correr con tu Pokémon\nsería casi un sueño. Aunque pensándolo\fbien... ¡sería peligroso!
+¿Has corrido ya por el Camino de Bicis?\rSi pudieras correr con tu Pokémon\nsería casi un sueño. Aunque pensándolo\fbien... ¡sería peligroso!
+¿Has corrido ya por el Camino de Bicis?\rSi pudieras correr con tu Pokémon\nsería casi un sueño. Aunque pensándolo\fbien... ¡sería peligroso!
+Es refrescante jugar en el agua\ncon tus Pokémon. Creo que desde\fla Ruta 19 se podía ir a la playa.\n
+Los Pokémon de tipo Fuego no soportan\nacercarse al agua.\fNo es difícil imaginarse el porqué.
+Si por casualidad pasas por la Ruta 21,\nte recomiendo disfrutar de la puesta\fde sol con tus Pokémon. Je...\rEs muy romántico.
+La Ruta 22 lleva hasta la Liga Pokémon,\n¿no? Seguro que los Pokémon se ponen\fmuy nerviosos al pasar por ella.
+En la Ruta 24 hay un puente que\nllaman el Puente de las Esferas Áureas.\rNo es su nombre original, pero casi\ntodos lo conocen por ese nombre.\rEs porque la luz del sol se refleja\nen el agua y es bastante luminoso.
+En la Ruta 25 hay dos charcas enormes.\nA mí me parece que los Pokémon\fno han visto nunca su cara.\r¿Cómo reaccionarán al verse\nreflejados en ellas?
+En la Ruta 26 hay naturaleza\na raudales y los Pokémon deberían\fsentirse muy relajados, pero como\festá cerca de la Liga Pokémon,\fse les nota algo tensos, ¿no crees?
+¿Sabes? En la Ruta 27, los Pokémon\nrastrean y pueden conseguir algo.\rSi quieres saber qué es, lo mejor\nes llevar un Pokémon con el que\fte lleves muy bien.
+La Ruta 28 lleva al Monte Plateado.\nLo sabes, ¿no?\rLos Pokémon se quedan muy callados\nal pasar, y es que se ponen nerviosos.\fEl corazón se les estremece de pavor.
+¿Sabes? Te aconsejo llevarte\nun CHIKORITA a la Ruta 29.\rSeguro que pasa algo curioso.
+Yo de ti me llevaría a TOTODILE\na la Ruta 30.\rDicen que pasa algo curioso.
+Seguro que pasa algo chachi si te llevas\na CYNDAQUIL a la Ruta 31.
+Ha llegado hasta mis oídos que\nen las Ruinas Alfa habitan Pokémon\fllamados UNOWN.\rAsí que si te llevas uno allí,\ntal vez ocurra algo.
+La lluvia nunca para en la Ruta 33.\rEn ese tipo de días me deprimo mucho,\npero hay Pokémon que pierden la cola\fpor la lluvia y se lo pasan chachi piruli,\fcomo TOTODILE.
+El Encinar vuelve loquito a FARFETCH’D.\rLa próxima vez voy a llevarlo\na ver qué pasa.
+¿Sabes qué es el Pokéathlon?\nLos Pokémon se entusiasman\fsolo con pensar en él.\rYo llevaré mis Pokémon un día\nde estos para que participen.
+Si llevas un SUDOWOODO a la Ruta 36,\nverás qué pasa.\rNo te cuento nada más. Quiero\nque lo descubras por ti mismo.
+¿Has visto a las Gemelas de la Ruta 37?\rSon muy guapas, por eso a los\nPokémon también les chiflan.
+Hace un tiempo, llevé a TAUROS\na la Granja Mu-mu de la Ruta 39\fy se puso como un energúmeno.\r¡Era incontenible!
+Si por casualidad pasas por la Ruta 39,\nllévate a MILTANK.\rAllí viven un montón de compañeros\nsuyos y se lo pasará pipa.
+Si por casualidad te pasas por la\nRuta 40, llévate a POLIWAG.\rSeguro que ocurre algo curioso.
+Me estaba pensando ir a pasar el rato\na la Ruta 41.\rA los Pokémon de tipo Agua les encanta\nel mar. Al verlos con tanta ilusión,\funo también siente la misma felicidad\fque ellos.
+¿Vas bien?\nLa Ruta 42 es muy escarpada.\rLos Pokémon de tipo Roca se ponen de\nbuen humor si los llevas por esa zona.
+Si quieres ver a MAGIKARP lleno de\nvitalidad, llévalo al Lago de la Furia.
+En la Ruta 44 hace un frío que pela\ny los Pokémon frioleros lo pasan mal.\rEso sí, los Pokémon de tipo Hielo están\nen su salsa y se lo pasan pipa.
+La corriente del río que pasa por la\nRuta 45 es serpenteante y mola taco.\rCuando fui, mis Pokémon miraban\nel río con mucha curiosidad.
+En la Ruta 46 hay mucha hierba alta\ny a mis Pokémon les preocupa\fencontrarse con algún Pokémon salvaje.
+La Ruta 47 tiene una vista increíble.\n¿Conoces el Pokémon DITTO?\rDicen que se ponen muy contentos\nen esa zona. Qué raro, ¿no?
+En los alrededores de la Ruta 47,\nmuy cerca, hay un precipicio\faltísimo.\rSeguro que los Pokémon que te\nacompañan pasan mucho miedo.\r¿Y yo qué?\n¡Tengo un vértigo de no te menees!
+En Pueblo Paleta vive el Profesor Oak.\nLos Pokémon lo adoran.\rDeberías pasarte\npor su Laboratorio.
+En Ciudad Verde está\nla Casa del Entrenador.\rLos Pokémon se ponen la mar\nde contentos cuando van allí.
+En Ciudad Plateada hay un Museo.\rPodrías ir con tus Pokémon.\nA lo mejor les gusta y todo.
+¿Ya has visto a Misty, la Líder\ndel Gimnasio de Ciudad Celeste?\rNo, no es por nada, solo\nme picaba el gusanillo de la curiosidad.
+En Pueblo Lavanda se encuentra\nel Cementerio, donde están las tumbas\fde los Pokémon.\rTodo Entrenador debería ir a mostrar\nsus respetos al menos una vez.
+En Ciudad Carmín está ubicado\nel Club de Fans de Pokémon.\rBAYLEEF está ahí, ve a verle.
+Pues ahora que me acuerdo, me llevé\na TANGELA al Gimnasio de Ciudad Azulona\fy se puso hecho unas castañuelas.\r¿Por qué no pruebas tú también?
+He oído que TAUROS se excita mucho\nen Ciudad Fucsia.\rNo tengo ni idea de por qué será,\fpero te recomiendo que te lo lleves\fy veas cómo se comporta.\n
+En Isla Canela puedes ver el horizonte\nmarino acompañado de tu Pokémon\fdesde una ciudad sepultada por la lava.\rParece la última escena de una película\nde ciencia ficción.
+La Liga Pokémon está cerca de la\nMeseta Añil, por eso los Pokémon\fse salen de entusiasmo cuando pasan\fpor ahí.\n
+En Ciudad Azafrán está la casa\nde la Copiona.\rLlévate a MIME JR. contigo, a lo mejor\nocurre algo interesante.
+Si vuelves a pasarte por Pueblo\nPrimavera, no olvides ir a decirle\fhola a tu mamá con un Pokémon, ¿eh?
+En Ciudad Cerezo las olas del mar\nsiempre están presentes.\rEs muy relajante correr con los\nPokémon por la playa mientras\fel sonido de las olas te envuelve.
+En Ciudad Malva está la Torre\nBELLSPROUT.\rSi llevas un BELLSPROUT hasta allí,\nse pone a bailar... o eso dicen...\r¿Será verdad?\n¿Por qué no lo compruebas?
+El Gimnasio de Pueblo Azalea es la caña.\r¿Ya te has montado en los SPINARAK\nmecánicos del Gimnasio?\r¿Cómo se comportará un SPINARAK\nde verdad si lo llevas ahí?\fPuede ser curioso.
+Llévate a KRABBY a Ciudad Orquídea\na ver qué pasa. ¡Compruébalo!
+Si te das cuenta, el Gimnasio de\nCiudad Trigal tiene forma de CLEFAIRY.\r¡Prueba a llevarte uno!\nA lo mejor pasa algo gracioso.
+Ah, pues en Ciudad Olivo, el faro\ndel puerto es lo más vistoso.\rPrueba a ir con AMPHAROS hasta allí.\nA lo mejor hasta brilla...
+Llévate a PICHU al Teatro de Danza\nde Ciudad Iris, que me da que va a\focurrir algo curioso.\r¡Es que allí dan muchas ganas de bailar!
+Oye, ¿ya tienes Pokémon de tipo Hielo?\rCuando están sobre el hielo\nse lo pasan pipa.
+En el Lago de la Furia, MAGIKARP\nse siente lleno de energía.
+En Ciudad Endrino hay alguien que te\nayuda a que tu Pokémon olvide\fmovimientos. En ese lugar, parece que\fa los Pokémon también se les van a\folvidar hasta los objetos que llevan.\rAunque no, eso no puede ocurrir,\nimposible.
+¿Sabes dónde está el Monte Plateado?\nYo no he ido todavía.\rSeguro que los Pokémon se ponen\nmuy nerviosos.
+En el Parque Nacional se celebra un\nConcurso de Captura de Bichos.\rEs normal que allí haya un montón\nde Pokémon de tipo Bicho.\rSi tienes alguno, llévatelo y\nse pondrá muy contento, seguro.
+He oído un rumor interesante.\rDicen que en las Ruinas Alfa\nse pueden encontrar UNOWN.\r¿Ya tienes alguno? Si es así, llévatelo\nhasta allí a ver qué pasa.
+La Zona Safari está en el quinto pino.\rIr hasta allí andando es un calvario,\npero vale la pena, ¿eh?\fAdemás, hay un montonazo de Pokémon.

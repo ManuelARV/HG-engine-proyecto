@@ -1,0 +1,25 @@
+Empezaste hace poco, ¿verdad?\n¡Estoy seguro!\r¡Está bien! ¡Todo el mundo es novato\nalguna vez!\rNo te preocupes, yo puedo enseñarte\nalgunas cosas.\f¡Sígueme!\r
+Oh, lo siento.\n¡No me había fijado en que no tienes\funas Deportivas!\rVale, voy a ir más despacio para que\npuedas seguirme.\r
+Esto es un Centro Pokémon.\nAquí curan a tus Pokémon.\rVas a necesitar mucho de ellos,\nasí que es mejor conocerlos bien.\r
+Esto es una Tienda Pokémon.\nHay Poké Balls para capturar Pokémon\fsalvajes y otras muchas cosas.\r
+La Ruta 30 está por aquí.\rLos Entrenadores luchan entre ellos\ncon sus queridos Pokémon.\rAdemás, todo recto está\nla casa del Sr. Pokémon.\r
+Como puedes ver, esto es el mar.\rAlgunos Pokémon solo viven\nen el agua.\r
+Y...\nesta es mi casa.\rPor haberme seguido todo el rato sin\nrechistar, voy a darte mis Deportivas.\r¡Están calentitas y huelen a pies!\r...\n...\r¡Je, je, es broma!\nNo te preocupes, son nuevas.\r
+¡{STRVAR_1 3, 0, 0} ha recibido\nunas Deportivas!
+La etiqueta dice lo siguiente:\r“Puedes correr tocando\nlas Deportivas en la pantalla táctil.”\rY también:\r“También puedes correr\nsi mantienes pulsado el Botón B.”\r
+Ah, ah, ah...\n¡Por fin te atrapo!...\rSe me ha olvidado darte algo más.\r¡Toma!\r
+¡El Guía ha introducido una Tarjeta\nMapa en el Pokégear de {STRVAR_1 3, 0, 0}!
+¡Ahora se puede consultar el Mapa\nen el Pokégear!\r
+Elige el Pokégear en la pantalla táctil\ny toca sobre el icono del Mapa.\rPor ahora, puedes ver el Mapa\nde esta región.\rSe puede mejorar el Pokégear\nintroduciendo más tarjetas como esta.\r¡Mucha suerte en tu aventura!\r
+...\rTú eres quien ha recibido un Pokémon\nen el Laboratorio, ¿no?\rVaya desperdicio dárselo a alguien\ntan enclenque como tú.\r...\r¿Qué pasa? ¿No entiendes nada de lo\nque te estoy diciendo?\rBien, no me dejas alternativa...\nYo también tengo un buen Pokémon.\fVoy a enseñarte lo que quiero decir.\r
+...\r¿Quieres saber quién soy yo?\nPues...\rSoy el Entrenador de Pokémon\nmás fuerte del mundo.\r
+¡Dame eso! Es mi Ficha de Entrenador,\nque se me ha caído.\rMmm...\n¿Has visto mi nombre?...\r
+¿Has hablado con el anciano que\nestá cerca del Centro Pokémon?\rTe dará un Mapa de Johto\npara tu Pokégear.
+Cuando vas con los Pokémon,\ncualquier sitio está bien.
+La casa del Sr. Pokémon\nestá más adelante.\rSi tienes unas Deportivas,\npuedes ir corriendo hasta allí.\rPero ten en cuenta que cuando corres,\nlos Pokémon salvajes y\flos Entrenadores oyen tus pisadas\ffácilmente, así que ándate con ojo.
+He luchado con todas mis fuerzas\ncontra los Entrenadores del camino.\rMis Pokémon han perdido y están\nhechos polvo.\rTengo que llevarlos al Centro Pokémon.
+Atrapé un Pokémon que llevaba\nun objeto.\rCreo que es Agua Mística.\nNo lo necesito, ¿lo quieres?\r
+Pues yo me voy a pescar.
+No tienes espacio para esto.
+Ciudad Cerezo\nLa ciudad que huele a flores
+Casa del Guía\nEl anciano que va a cien por hora

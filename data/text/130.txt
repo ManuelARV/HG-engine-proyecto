@@ -1,0 +1,33 @@
+Mmm... Encantado de verte.\nNo necesitas explicarme\fpor qué has venido.\rDébora te envía, ¿verdad?\nEsa chica siempre dando problemas...\rPerdona las molestias,\npero debo probarte.\rNo te preocupes.\rSolo deberás contestar\nunas pocas preguntas.\r¿Comenzamos?\r
+¿Qué son los Pokémon para ti? {YESNO 0}
+¿Qué te ayuda a vencer combates? {YESNO 0}
+¿Contra qué clase de Entrenador\nprefieres luchar? {YESNO 0}
+¿Qué es lo más importante\npara mejorar un Pokémon? {YESNO 0}
+Pokémon fuertes. Pokémon débiles.\n¿Cuáles son más importantes? {YESNO 0}
+Mmm... Ya veo...\rCuidas mucho de los Pokémon.\nEs algo encomiable.\r¡La convicción es lo más importante!\n{STRVAR_1 3, 0, 0}, no pierdas la confianza.\fLa necesitarás en la Liga Pokémon.\r
+¿Eh? No te he oído bien...\r
+¿Qué has dicho?
+Oh, ya entiendo...\r
+¿Qué tal te fue?\rCreo que no hace falta preguntar...\nSeguro que has fallado, ¿no?\f...\f¡¿Qué?! ¡¿Lo conseguiste?!\r
+{SIZE 0}¡No es posible!{SIZE 0}\r
+¡Estás mintiendo!\n¡Ni siquiera yo he conseguido\fsu aprobación!\r
+¡Débora!\r¡Esta persona es admirable en todos\nlos sentidos!\r¡Admite la derrota y dale la Medalla\fDragón!\r¿O debo informar a Lance de esto?...\r
+De... de acuerdo...\r
+Toma. Esta es la Medalla Dragón...\n¡Vamos, tómala!\r
+¡{STRVAR_1 3, 0, 0} ha recibido\nla Medalla Dragón de Débora!
+La Medalla Dragón permite que\ntus Pokémon puedan usar el movimiento\fpara subir cascadas.\rAdemás, todos los Pokémon\nte reconocerán y obedecerán\fcualquier orden sin rechistar.\r
+Débora...\rMedita acerca de lo que esta persona\ntiene y a ti te falta...\r\n
+...\n...\r
+Por cierto...\n¿Has oído alguna vez hablar de LUGIA?\rCuentan que es un Pokémon que habitaba\nlos alrededores de las Islas Remolino...\rPero bueno... No me hagas mucho caso.\nSon historias de viejos.
+Por cierto...\n¿Has oído alguna vez hablar de LUGIA?\rEntre Ciudad Olivo y Ciudad Orquídea\nhay un lugar llamado Islas Remolino.\rEn esas islas hay una enorme cascada.\nY dicen que en el fondo de la cascada\fdescansa LUGIA...\rPero la leyenda también cuenta que\nsin un Ala Plateada no se puede llegar\fal fondo de la cascada...
+Dicen que en lo profundo de las Islas\nRemolino hay una cascada enorme.\rY que en el fondo de esa cascada\ndescansa LUGIA...\rPero la leyenda también cuenta que\nsin un Ala Plateada no se puede llegar\fal fondo de la cascada...
+Ven de nuevo, si así lo deseas.
+Ha pasado mucho tiempo desde que Lance\nobtuvo la aprobación del Maestro. Nadie\fmás lo había conseguido hasta ahora.
+¿Conoces al joven Lance?\rSe parece bastante a nuestro Maestro\ncuando era joven.\fLo llevan en la sangre...
+Mmm... Encantado de verte.\rTu llegada es más que afortunada.\nTengo algo para ti.\rCoge este DRATINI como prueba de que\nreconozco tu esfuerzo.\r
+¡{STRVAR_1 3, 0, 0} ha recibido a DRATINI!
+Mmm... Tu equipo Pokémon está lleno.
+Los Pokémon dragón son el símbolo\nde nuestro clan.\rHas demostrado que podemos darte uno.
+Parece que Débora ha aprendido de ti\nuna lección inestimable.\rComo abuelo suyo, te lo agradezco.
+Un chico de tu edad está aquí\nentrenándose.\rEs como Débora era antes.\nMe preocupa un poco...
+¿Quieres ponerle un mote\nal DRATINI? {YESNO 0}

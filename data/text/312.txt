@@ -1,0 +1,63 @@
+¡Ya estás en el Pokéathlon!\n¿Quieres inscribir tus Pokémon?{YESNO 0}
+¡Te damos la bienvenida\na la Copa de los Astros!\r¡Se trata de una competición reservada\na la flor y nata de los Pokéatletas!\r¿Quieres probar suerte?{YESNO 0}
+¿Puedo ayudarte en algo más?{YESNO 0}
+¿En qué Pruebas quieres\ninscribirte?{YESNO 0}
+En las {STRVAR_4 1, 3, 0}.\n¿Estás de acuerdo?{YESNO 0}
+Por aquí, por favor.\r
+La competición va a comenzar de\ninmediato. Tu equipo irá de rojo.\r¡Mucha suerte!\r
+                                
+¡{STRVAR_1 3, 0, 0} se ha puesto el chándal!
+                           
+Esperamos volver a tenerte\npor aquí muy pronto.
+¿Qué quieres que te explique?{YESNO 0}
+El Pokéathlon es una competición donde\nlos Pokémon compiten en tres Pruebas\fen grupos de tres.\rEstas Pruebas están adaptadas\na las diferentes particularidades\fde los Pokémon.\r¡No dudes en participar en el Pokéathlon\ncon tres de tus Pokémon!\r
+La Copa de los Astros es una Prueba en\nla que se enfrenta una selección de los\fmejores Pokéatletas de cada región.\r¡Una victoria en esta Copa te concederá\nmuchísimos más puntos!\f¡Pon a prueba tus mejores Pokémon\fen la Copa de los Astros!\r
+Las Pruebas de Velocidad miden\ntu rapidez en tres disciplinas:\rSaltaobstáculos:\n¡Salta vallas y llega antes que nadie!\rAtrapabanderas:\nRápido, ¡recoge las banderas!\rCarrera de Relevos:\n¡Indispensable trabajar en equipo!\rSi ganas, conseguirás la\nInsignia de Velocidad.\r¡Participa con los tres Pokémon\nmás rápidos que tengas!\r
+Las Pruebas de Fortaleza miden\ntu potencia en tres disciplinas:\rRompelosas:\n¡Destroza las baldosas apiladas!\rPisacírculos:\n¡Empuja, empuja y no te quedes fuera!\rMetegoles:\n¡Despista al enemigo y chuta a gol!\rSi ganas, conseguirás la\nInsignia de Fortaleza.\r¡Participa con los tres Pokémon\nmás fuertes que tengas!\r
+Las Pruebas de Resistencia miden\ntu aguante en tres disciplinas:\rFuera del Ring:\n¡Lanza a tus enemigos fuera del ring!\rCarrera de Relevos:\n¡Aúna el esfuerzo de tus tres Pokémon!\rRompelosas:\n¡Pártelas hasta que no puedas más!\rSi ganas, conseguirás la\nInsignia de Resistencia.\r¡Participa con los tres Pokémon\nmás tenaces que tengas!\r
+Las Pruebas de Salto miden\ntus reflejos en tres disciplinas:\rBotaluces:\n¡Catapúltate a lo más alto!\rAtrapadiscos:\n¡Da un salto y a por ellos!\rSaltaobstáculos:\n¡Salta y salta hasta la meta!\rSi ganas, conseguirás la\nInsignia de Salto.\r¡Participa con los tres Pokémon\nmás ágiles que tengas!\r
+Las Pruebas de Precisión miden\ntu maña en tres disciplinas:\rNieve Cruzada:\n¡Apunta con cuidado y lanza las bolas!\rMetegoles:\n¡Apunta y chuta a puerta!\rAtrapabanderas:\n¡Espera el momento adecuado y róbalas!\rSi ganas, conseguirás la\nInsignia de Precisión.\r¡Participa con los tres Pokémon\nmás minuciosos que tengas!\r
+¡Gracias por participar!\rConvertiremos tus resultados\nen Puntos Atleta.\r
+{STRVAR_1 3, 0, 0} ha obtenido {STRVAR_1 53, 2, 0} puntos.
+                 
+Tu recompensa por quedar en primer\nlugar son estos {STRVAR_1 52, 2, 0} puntos extra.\r
+¡Enhorabuena!\r{STRVAR_1 3, 0, 0}, como Pokéatleta has\nlogrado unos resultados excepcionales.\rAhora podrás acceder\na la Sala Confianza del Museo.\r
+¡Enhorabuena!\r{STRVAR_1 3, 0, 0}, como Pokéatleta has\nlogrado unos resultados excepcionales.\rAhora podrás acceder\na la Sala Potencial del Museo.\r
+¡Enhorabuena!\r{STRVAR_1 3, 0, 0}, como Pokéatleta has\nlogrado unos resultados excepcionales.\rAhora podrás acceder\na la Sala Amistad del Museo.\r
+¡Te damos la bienvenida al\nPokéathlon en conexión!\rPodrás unirte a tus amigos y\ncompetir contra ellos usando\ftus Pokémon en las mismas Pruebas.\r¿Quieres participar en el\nPokéathlon en conexión?{YESNO 0}
+Un jugador debe elegir\n“HACER DE LÍDER”.\rLos demás deben seleccionar\n“UNIRSE”.{YESNO 0}
+La comunicación inalámbrica de\nNintendo DS se iniciará. ¿Seguir?{YESNO 0}
+Error de conexión.\rPor favor, repite el proceso de\nregistro desde el principio.
+Tu equipo participará en\n{STRVAR_4 1, 3, 0} de rojo.
+Tu equipo participará en\n{STRVAR_4 1, 3, 0} de azul.
+Tu equipo participará en\n{STRVAR_4 1, 3, 0} de verde.
+Tu equipo participará en\n{STRVAR_4 1, 3, 0} de amarillo.
+Tu recompensa por terminar en segundo\nlugar son estos {STRVAR_1 52, 2, 0} puntos extra.\r
+¡{STRVAR_1 3, 0, 0} se ha puesto el chándal!
+Por aquí, por favor.
+¿Eh? ¡Un segundo! Parece que no tienes\nsuficientes Pokémon para participar.\rNecesitas al menos tres Pokémon\npara inscribirte en el Pokéathlon.\rCuantos más Pokémon tengas,\nmás divertido será el Pokéathlon.\r¡Hazte con todos!\n
+¡Te damos la bienvenida al Pokéathlon\nen conexión! Pero... ¡un segundo!\r¿Es tu primera vez?\rEn ese caso, acércate al mostrador\npara las inscripciones individuales.\rEs el que está en medio a tu derecha.\rAllí recibirás toda la información que\nnecesitas sobre el Pokéathlon.
+El Pokéathlon en conexión es una\ncompetición donde los Pokémon\fcompiten en cuatro disciplinas\fen grupos de tres.\rTus amigos pueden enfrentarse a ti\nen las mismas Pruebas.\rEstas Pruebas están adaptadas\na las diferentes particularidades\fde los Pokémon.\r¡No lo dudes, participa en el Pokéathlon\nen conexión con tres de tus Pokémon!\r
+Las Pruebas de Velocidad y Salto\ncombinan cuatro ejercicios que miden\ftu rapidez y tus reflejos:\rSaltaobstáculos:\n¡Salta vallas y llega antes que nadie!\rBotaluces:\n¡Catapúltate a lo más alto!\rAtrapadiscos:\n¡Toca los platillos voladores!\rCarrera de Relevos:\n¡La velocidad es la clave!\rSi ganas, ¡conseguirás la Insignia\nde Velocidad y la Insignia de Salto!\r¡Participa con los tres Pokémon\nmás rápidos y ágiles que tengas!\r
+Las Pruebas de Salto y de Precisión\ncombinan cuatro disciplinas que\fmiden tu rapidez y tu maña:\rBotaluces:\n¡Catapúltate a lo más alto!\rAtrapadiscos:\n¡Salta y toca los platillos voladores!\rAtrapabanderas:\n¡Actúa con agilidad y coge las banderas!\rNieve Cruzada:\n¡Apunta bien y acierta a tu oponente!\rSi ganas, ¡conseguirás la Insignia\nde Salto y la Insignia de Precisión!\r¡Participa con los tres Pokémon\nmás ágiles y minuciosos que tengas!\r
+Las Pruebas de Precisión y de Fortaleza\ncombinan cuatro disciplinas que miden\ftu potencia y tu maña:\rMetegoles:\n¡Apunta y chuta con todas tus fuerzas!\rNieve Cruzada:\n¡Apunta a tu oponente y lanza la bola!\rAtrapabanderas:\n¡Actúa con agilidad y coge las banderas!\rRompelosas:\n¡Destroza las baldosas hasta el final!\rSi ganas, ¡conseguirás la Insignia de\nPrecisión y la Insignia de Fortaleza!\r¡Participa con los tres Pokémon\nmás fuertes y minuciosos que tengas!\r
+Las Pruebas de Fortaleza y Resistencia\ncombinan cuatro disciplinas que miden\ftu potencia y tu aguante:\rRompelosas:\n¡Golpea los bloques hasta partirlos!\rPisacírculos:\n¡Expulsa del círculo a tus oponentes!\rMetegoles:\n¡Chuta mientras te queden fuerzas!\rFuera del Ring:\n¡Expulsa a tus oponentes a empujones!\rSi ganas, ¡conseguirás la Insignia de\nFortaleza y la Insignia de Resistencia!\r¡Participa con los tres Pokémon\nmás fuertes y tenaces que tengas!\r
+Las Pruebas de Resistencia y Velocidad\ncombinan cuatro disciplinas que miden\ftu aguante y tu rapidez:\rCarrera de Relevos:\n¡Corre rápido y aguanta hasta el final!\rFuera del Ring:\n¡Expulsa a tus oponentes a empujones!\rSaltaobstáculos:\n¡Salta vallas y llega antes que nadie!\rPisacírculos:\n¡Expulsa del círculo a tus oponentes!\rSi ganas, ¡conseguirás la Insignia de\nResistencia y la Insignia de Velocidad!\r¡Participa con los tres Pokémon\nmás tenaces y rápidos que tengas!\r
+Las Pruebas Maestras se componen\nde diferentes disciplinas que son\fdistintas cada vez.\r¡Piénsate bien qué equipo podrá\nalzarse con la victoria!\rEn estas Pruebas no conseguirás\nInsignias, ¡pero recibirás el doble de\fPuntos Atleta!\r¡Queda con tus amigos y compite contra\nellos en estas Pruebas!\r
+El resultado de {STRVAR_1 3, 0, 0} es de\n{STRVAR_1 52, 1, 0} puntos, y eso hace\f{STRVAR_1 53, 2, 0} Puntos Atleta.\r
+El resultado de {STRVAR_1 3, 0, 0} es de\n{STRVAR_1 52, 1, 0} puntos.\rTus puntos valen el doble en\nlas Pruebas Maestras, con lo que tienes\f{STRVAR_1 53, 2, 0} Puntos Atleta.\r
+                                                                                                                                                                                                             
+                            
+                               
+             
+                 
+                    
+                 
+                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                          
+                                           
+                                                 
+                                               
+                                                                                                                                                        
+                  

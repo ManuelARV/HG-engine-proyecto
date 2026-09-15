@@ -1,0 +1,92 @@
+¡Una gran aventura con\nel {STRVAR_1 1, 3, 0} de {STRVAR_1 3, 2, 0}!
+¡{STRVAR_1 1, 1, 0} rebosa energía!\n¡Si hasta parece más grande!
+{STRVAR_1 1, 1, 0} tiene energía para dar\ny tomar. Va caminando por delante.
+{STRVAR_1 1, 1, 0} tiene energía para dar\ny tomar. Se ha resbalado un poco.
+¡{STRVAR_1 1, 3, 0} te ha echado un cable!\nSe han fortalecido vuestros lazos.
+Un combate con el {STRVAR_1 1, 3, 0}\nde {STRVAR_1 3, 2, 0}.
+{STRVAR_1 1, 1, 0} se mueve con energía.\n¡{STRVAR_1 1, 3, 0} no se puede acercar!
+¡El combate del siglo!\n¡{STRVAR_1 1, 1, 0} ha ganado por los pelos!
+¡El combate del siglo!\n¡Ha sido un error crítico justo al final!
+Parecía que {STRVAR_1 1, 1, 0} se movía\nalegremente... pero se ha caído.
+Corre con el {STRVAR_1 1, 3, 0}\nde {STRVAR_1 3, 2, 0}.
+¡{STRVAR_1 1, 1, 0} es muy rápido!\nHa logrado despistar a {STRVAR_1 1, 3, 0}.
+¡Último esfuerzo de {STRVAR_1 1, 1, 0}!\n¡Ha echado el resto!
+{STRVAR_1 1, 1, 0} se ha agotado\nhacia el final.
+{STRVAR_1 1, 3, 0} es tan rápido que no se le\npuede alcanzar.
+Un Paseo con el {STRVAR_1 1, 3, 0}\nde {STRVAR_1 3, 2, 0}.
+{STRVAR_1 1, 1, 0} ha tirado de\n{STRVAR_1 1, 3, 0}.
+{STRVAR_1 1, 1, 0} camina por delante\ncon mucho ánimo.
+¡Ha sido un Paseo como buenos amigos!
+¡{STRVAR_1 1, 1, 0} se ha caído!
+Juega un poco con el {STRVAR_1 1, 3, 0}\nde {STRVAR_1 3, 2, 0}.
+{STRVAR_1 1, 1, 0} está molestando\na {STRVAR_1 1, 3, 0}.
+{STRVAR_1 1, 1, 0} ha sonreído mirando\na {STRVAR_1 1, 3, 0}.
+Parece que {STRVAR_1 1, 1, 0} tiene sueño.
+¡{STRVAR_1 1, 1, 0} se ha dormido!
+Encuentro con el {STRVAR_1 1, 3, 0} de\n{STRVAR_1 3, 2, 0}, que viene de lejos.\nUn Pokémon singular, en efecto.\nEspera... ¿Cómo se llamaba?
+¡Encontraste {STRVAR_1 8, 4, 0}\nusando Zahorí!
+¡Vaya intuición que tiene hoy!\n{STRVAR_1 1, 1, 0} se siente muy seguro.
+Parece que {STRVAR_1 1, 1, 0} tiene\nlos sentidos muy aguzados.
+{STRVAR_1 1, 1, 0} está de muy buen humor.\nParece que va a ponerse a bailar.
+{STRVAR_1 1, 1, 0} parece feliz. Quiere jugar\ncon el objeto {STRVAR_1 8, 4, 0}.
+{STRVAR_1 1, 1, 0} mira hacia acá.\nEl objeto {STRVAR_1 8, 4, 0} le intriga.
+{STRVAR_1 1, 1, 0} presume un poco.
+¡Hala!\nHa caído un objeto {STRVAR_1 8, 4, 0}.\n{STRVAR_1 1, 1, 0} está entusiasmado por\nhaberse encontrado un objeto especial.
+¡Hala!\nHa caído un objeto {STRVAR_1 8, 4, 0}.\n¡Qué curioso!
+¡Has encontrado un {STRVAR_1 0, 5, 0}\ncon el Pokéradar! ¡Formidable captura!
+¡Hoy está en muy buena forma!\n{STRVAR_1 1, 1, 0} se siente muy seguro.
+{STRVAR_1 1, 1, 0} está lleno de energía.\nHa caminado mucho sin cansarse.
+¡Qué andares tan graciosos y ágiles\ntiene {STRVAR_1 1, 1, 0}!
+{STRVAR_1 1, 1, 0} ha ejecutado un paso\nsingular... ¿para anticipar al enemigo?
+No hay la menor sombra de inseguridad\nen los movimientos de {STRVAR_1 1, 1, 0}.
+A {STRVAR_1 1, 1, 0} le quedan muchos\nrecursos. Puede continuar.
+¡Os habéis encontrado con un\n{STRVAR_1 0, 5, 0}! {STRVAR_1 1, 1, 0} está\nsorprendido y observa al {STRVAR_1 0, 5, 0}.
+¡Os habéis encontrado un {STRVAR_1 0, 5, 0}!\n{STRVAR_1 0, 5, 0} observa a {STRVAR_1 3, 0, 0}.
+Has encontrado un {STRVAR_1 0, 5, 0}\ncon el Pokéradar... ¡pero ha huido!
+Has encontrado un {STRVAR_1 0, 5, 0}\ncon el Pokéradar... pero era\nmuy fuerte y {STRVAR_1 1, 1, 0} ha perdido.
+¡{STRVAR_1 1, 1, 0} ha encontrado\nel objeto {STRVAR_1 8, 4, 0}!
+Da la impresión de que {STRVAR_1 3, 0, 0}\nquería hacer un regalo.
+Parece que {STRVAR_1 1, 1, 0} quiere\nque {STRVAR_1 3, 0, 0} lo utilice.
+{STRVAR_1 1, 1, 0} te ha dado el objeto\ncon un aire ligeramente presumido.
+Alguien lo ha tirado.\n¿Quieres recogerlo?
+{STRVAR_1 1, 1, 0} está radiante y\nno para de dar botes.\nParece contento de estar\ncon {STRVAR_1 3, 0, 0}.
+{STRVAR_1 1, 1, 0} está radiante y\nno para de dar botes.\nIntenta llamar la atención\nde {STRVAR_1 3, 0, 0}.
+
+{STRVAR_1 1, 1, 0} está contento y\ncorre alrededor de {STRVAR_1 3, 0, 0}\nsin cesar.\n¿No se cansa nunca?
+{STRVAR_1 1, 1, 0} está contento y va\ncorriendo por delante sin parar.\nPero si ve que se separa mucho de\n{STRVAR_1 3, 0, 0}, regresa inmediatamente.
+{STRVAR_1 1, 1, 0} corre ensimismado\nde puro contento.\nParece que no oye ni cuando le llaman.
+{STRVAR_1 1, 1, 0} ha mirado hacia ti.\nCamina junto a {STRVAR_1 3, 0, 0}\nen completo silencio.\n¿Qué estará pensando?
+{STRVAR_1 1, 1, 0} mira hacia ti.\nCamina mirando a todas partes.\n¿Se habrá encontrado algo?
+Parecía que {STRVAR_1 1, 1, 0} iba a volverse\nhacia ti, pero ha desviado la mirada\nen el último momento.
+{STRVAR_1 1, 1, 0} parece muy tranquilo.\nTe está observando como si\nestuviera esperando algo.
+{STRVAR_1 1, 1, 0} parece muy tranquilo.\nNo deja de mirarte como si quisiera\nque le hicieras mimos.
+{STRVAR_1 1, 1, 0} no hace nada.\n¿Vas a enfadarte?
+Parece que {STRVAR_1 1, 1, 0} quiere volver.\nA lo mejor quiere descansar después\nde un día repleto de diversión.
+Parece que {STRVAR_1 1, 1, 0} quiere volver.\nA lo mejor quiere descansar después\nde haber jugado tanto.
+Parece que {STRVAR_1 1, 1, 0} quiere volver.\nA lo mejor quiere descansar después\nde haber jugado tanto.
+{STRVAR_1 1, 1, 0} ha aparecido de repente.\nSe diría que quiere caminar contigo.
+{STRVAR_1 1, 1, 0} se ha cansado y\nha regresado.
+{STRVAR_1 51, 10, 0}-{STRVAR_1 51, 9, 0}
+Un Paseo con {STRVAR_1 1, 1, 0} por\n{STRVAR_34 19, 8, 0}.
+Un Paseo por {STRVAR_34 19, 8, 0}.
+Hora de regreso: {STRVAR_1 33, 6, 0} h
+¡{STRVAR_1 1, 1, 0} está encantado!\n¡Ha sido un día inolvidable!
+{STRVAR_1 1, 1, 0} está encantado\nde haber jugado tanto.
+Parece que {STRVAR_1 1, 1, 0} está feliz.\n¡Le brilla la cara!
+{STRVAR_1 1, 1, 0} está contento de haber\npodido jugar contigo.
+{STRVAR_1 1, 1, 0} está feliz. Da la impresión\nde que ha disfrutado el Paseo.
+{STRVAR_1 1, 1, 0} está tirando de ti.\nPuede que quiera jugar un poco más.
+{STRVAR_1 1, 1, 0} no parece muy contento.
+¡Ha dado {STRVAR_1 54, 7, 0} pasos!\n{STRVAR_1 1, 1, 0} está contentísimo\nde haber caminado tanto con\n{STRVAR_1 3, 0, 0}. ¡Le brilla la cara!
+¡Ha dado {STRVAR_1 54, 7, 0} pasos!\n{STRVAR_1 1, 1, 0} está entusiasmado.\n¡Parece que te va a saltar encima!
+¡Ha dado {STRVAR_1 54, 7, 0} pasos!\n{STRVAR_1 1, 1, 0} está rebosante de\nenergía y te sigue con mucho ánimo.
+¡Ha dado {STRVAR_1 54, 7, 0} pasos!\n{STRVAR_1 1, 1, 0} te sigue por detrás\ntranquilamente.
+{STRVAR_1 1, 1, 0} duerme como un tronco.
+{STRVAR_1 1, 1, 0} se está echando\nuna siestecita.
+{STRVAR_1 1, 1, 0} está haciendo una breve\npausa. Parece que se lo toma con calma.
+{STRVAR_1 51, 10, 0}-{STRVAR_1 51, 9, 0}
+{STRVAR_1 33, 6, 0} h
+{STRVAR_1 33, 6, 0} h
+SALIR
+Hora de regreso: {STRVAR_1 33, 6, 0} h
+{STRVAR_1 0, 11, 0}:{STRVAR_1 0, 12, 0}

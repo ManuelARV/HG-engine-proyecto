@@ -1,0 +1,18 @@
+¡Esto es discriminación!\n¿Por qué solo hay fotos de Pokémon?\r¿Por qué no las hay de chicas también?\n¡Esto es inaudito!
+Subir a las montañas y contemplar\nel majestuoso paisaje es una gozada...\r¡Y espiando solapadamente las Cajas\nde los demás cuando vengo aquí\ftambién me lo paso bomba!
+¿Lo sabías?\nTe hablo de mi Caja de PC.\rEstá llena de Pokémon que todo el mundo\nansía capturar, como...\rBueno, sería una presuntuosa si lo\ndijera. Parecería una fanfarrona.\rSi de verdad quieres saberlo, puedes\naveriguarlo por tus propios medios.
+Vengo cada día para ver los Datos\ndel Atuendo de otros Entrenadores.\r¡Para mí, es como el primer paso\nhacia el mundo de la moda!
+¡Anda! ¡Pero bueno!\n¡Esto es casi un escándalo!
+Si te fijas en los Pokémon\ny los Accesorios que lleva\fla gente, puedes descubrir\fmuchas cosas.
+El mismo tipo de Accesorio puede crear\nimpresiones totalmente distintas.\rLa verdad es que depende totalmente\nde dónde y cómo se utilice.
+¡Me ha tocado un Fondo en la lotería\nde Accesorios que hay al fondo\fdel Subterráneo!
+¿Que qué me gusta hacer?\rMe gusta mirar con disimulo a la gente\nque comprueba los Datos del Atuendo.
+Panel hacia la GTS y la Clasificación\nde Entrenadores de la planta baja.
+Panel para ir a la Galería de Vídeos\nde Combate de la segunda planta.
+¿Conectarse a la CWF de Nintendo y\nver o enviar Datos del Atuendo?{YESNO 0}
+Aquí puedes enviar los Datos\ndel Atuendo de tus Pokémon.\rLos Datos del Atuendo se pueden\nconfigurar y guardar en el Subterráneo\fde Ciudad Trigal.\rTambién puedes ver los Datos del\nAtuendo de otros Entrenadores.\rLos datos se pueden buscar por\nPokémon, para que sea más práctico.\r
+¿Conectarse a la CWF de Nintendo y\nver o enviar Datos de Cajas?{YESNO 0}
+Aquí puedes enviar los Datos de la Caja\nque contiene tus Pokémon.\rElige un Fondo y coloca tus Pokémon en\nel PC a tu derecha creando tu escena.\rCuando hayas acabado, envíala para\nque la vean otros Entrenadores.\rTambién podrás ver los Datos de las\nCajas de otros Entrenadores.\r
+CONECTAR
+INFORMACIÓN
+CANCELAR

@@ -1,0 +1,15 @@
+Ruta 39\nAl sur, Ciudad Olivo
+Granja Mu-mu\n¡Prueba nuestra rica leche fresca!
+Pistas para Entrenadores:\rDependiendo del tipo de árbol,\npueden caer distintos Pokémon\fcuando los sacudes con Golpe Cabeza.\r¡Úsalo contra distintos árboles!
+MILTANK: ¡Miiil!
+Baoba: ¡Oh, a ver...!\r¿Eso que llevas ahí es una Pokédex?\n¡Qué recuerdos me trae!\rYo soy Baoba.\rAntes era el encargado\nde la Zona Safari en Ciudad Fucsia,\fpero casi de un día para otro,\flos visitantes fueron perdiendo\fel interés y encontraron otros\fentretenimientos. Decían que estaba\fpasado de moda. ¡Mi Zona Safari!\rEntonces decidí irme al extranjero a\naprender nuevas técnicas de gerencia\fy ahora he construido una Zona Safari\fnueva en Ciudad Orquídea.\rY ahora el destino ha hecho que tú y yo\nnos encontremos por alguna razón.\rCreo que es una señal para que\nnos demos nuestros números\fde teléfono.\r¡Cuando la Zona Safari esté a punto,\ntú serás el primero en saberlo!\r
+¿Qué, te doy mi número de teléfono?{YESNO 0}
+¡Perfecto!\r
+Oh, esto no me lo esperaba.\nDaba por hecho que querrías mi número.\rPiensa que podrías encontrar Pokémon\nbastante raros. Te iría muy bien\fpara completar la Pokédex.\fSon todo ventajas, ¿no crees?\r
+¡{STRVAR_1 3, 0, 0} ha registrado a Baoba\nen el Pokégear!
+Baoba: ¡Cuando esté todo listo,\nte avisaré con el Pokégear!\r
+Lt. Surge: ¡Eh, tú!\r¿Quieres que nos hagamos una foto\npara recordar nuestro encuentro?{YESNO 0}
+Lt. Surge: ¡Muy bien!\r¡Venga, quiero ver una sonrisa\nde oreja a oreja!\r
+Lt. Surge: ¡Guau!\n¡Ha salido una foto genial!\r¡Gracias, Ruta 39!
+Lt. Surge: ¿Cómo que no?\rBueno, a ver si la próxima vez\nestás más de humor...
+Tu Álbum de Fotos está lleno.\rUsa el PC para hacer un poco\nde sitio en tu Álbum.

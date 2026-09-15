@@ -1,0 +1,11 @@
+El Ferry S.S. Aqua se dirige\na Ciudad Carmín.\rDaremos un aviso cuando lleguemos.
+El Ferry S.S. Aqua se dirige\na Ciudad Olivo.\rDaremos un aviso cuando lleguemos.
+El Ferry S.S. Aqua ha llegado\na Ciudad Carmín.\r
+El Ferry S.S. Aqua ha llegado\na Ciudad Carmín.
+¡Oh! Ya hemos llegado a Ciudad Carmín.\r
+El Ferry S.S. Aqua ha llegado\na Ciudad Olivo.\r
+El Ferry S.S. Aqua ha llegado\na Ciudad Olivo.
+Perdona.\n¡Es que soy un manojo de nervios!\r¡Mi nieta ha desaparecido!\rEs muy pequeña.\n¡Si la ves, por favor, házmelo saber!\r
+Este es tu camarote.\rSi tu equipo Pokémon está herido,\néchate una siestecita. Eso lo curará.
+Es tu camarote.\rPuedes curar tus Pokémon\ndurmiendo una siesta.\rEl barco llegará a su destino\nmientras duermes.
+Muchos pasajeros son Entrenadores.\rAlgunos están deseando luchar contra\nti en sus camarotes.

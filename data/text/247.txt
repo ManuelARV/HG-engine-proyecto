@@ -1,0 +1,83 @@
+¡Estás en la zona del regalo misterioso!
+Por favor, elige cómo quieres\nrecibir tu regalo.
+La comunicación inalámbrica de\nNintendo DS se iniciará. ¿Seguir?
+Buscando regalo.\nPor favor, espera...
+¿Aceptar este regalo?
+¿Buscar un regalo diferente?
+Se ha enviado tu petición.\nPor favor, espera...
+Recibiendo tu regalo.\nNo apagues la consola.
+¡Se ha recibido el regalo!\rVe al repartidor de cualquier\nTienda Pokémon a recogerlo.
+Otra persona comparte\neste regalo contigo.\rPuedes aceptarlo,\npero no podrás distribuirlo\fentre tus amigos.\r¿Aceptas el regalo?
+                   
+Transferencia de Huevo de\nMANAPHY de Pokémon Ranger
+RECIBIR REGALO
+VER TARJETA
+SALIR
+RECIBIR DE UN AMIGO
+REC. DE CWF NINTENDO
+SALIR
+SÍ
+NO
+RECIB. COM. INALÁMB.
+TARJETA CÁP. CANDADO
+¡Nuestro repartidor tiene\nmogollón de regalos para ti!\rPuedes visitarlo en cualquier Tienda\nPokémon para recoger tus regalos.
+Ya has recibido este regalo.\nNo puedes recibir otro.
+No se encontraron regalos.
+Se ha rechazado tu solicitud.
+No te queda espacio para\nTarjetas misteriosas.\rNo puedes aceptar más regalos.
+Ha habido un problema\nal recibir el regalo.\rPulsa el Botón A para volver\na la pantalla del título.
+Se ha encontrado un regalo, pero no se\npuede recibir con esta versión.\rPulsa el Botón A para volver\na la pantalla del menú.
+La persona con la que estabas\ncompartiendo se ha desconectado...
+                     
+Pulsa el Botón A.
+                          
+               
+                    
+Por favor, toca la pantalla de\nPokémon Ranger.
+                     
+Tarj. misteriosa
+Pídele tu regalo a un repartidor\nde cualquier Tienda Pokémon.
+Ya has recibido este regalo\nantes.
+Esta tarjeta no lleva ningún\nregalo.
+Fecha recepción
+N.º de veces que puedes distribuir\neste regalo: {STRVAR_1 52, 0, 0}.
+INFORMACIÓN
+COMPARTIR
+TIRAR
+SALIR
+¿Quieres compartir este regalo?
+SÍ
+NO
+{STRVAR_1 51, 2, 0}/{STRVAR_34 16, 1, 0}/{STRVAR_1 53, 0, 0}
+               
+Puedes compartir este regalo\ncon tantos amigos como quieras.
+Registro distribución
+{STRVAR_1 3, 0, 0}
+N.º ID: {STRVAR_1 54, 0, 0}
+Particip.\nactuales
+{COLOR 0}{STRVAR_1 50, 0, 0}{COLOR 0}/4
+ENVIAR
+SALIR
+Distribuyendo el regalo...\nNo apagues la consola.
+Tu regalo se ha distribuido\ncon éxito.
+¿Quieres tirar esta tarjeta?
+No has recibido tu regalo aún.\n¿Quieres rechazar esta tarjeta?
+Rechazando...\nNo apagues la consola.
+SÍ
+NO
+                    
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0} {COLOR 0}N.º ID: {STRVAR_1 54, 1, 0}
+          
+N.º de solicitud:
+{STRVAR_1 53, 0, 0}-{STRVAR_1 53, 1, 0}
+Recibiendo una solicitud\nde un Pokémon Ranger.
+Esperando transferencia\ndesde Pokémon Ranger.
+Recibiendo el Huevo de MANAPHY...\nNo apagues la consola.
+Transferencia completada.\nBotón A: pantalla del título
+Se ha perdido la conexión con\nPokémon Ranger... Pulsa el Botón A.
+                              
+        
+La comunicación inalámbrica de\nNintendo DS se iniciará. ¿Seguir?
+¿Conectarse a la CWF de Nintendo?
+La Cáp. Candado está ahora almacenada.
+La Cáp. Candado se ha recibido\nsin problemas.

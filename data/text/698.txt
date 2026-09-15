@@ -1,0 +1,13 @@
+Tara
+No está mal...\rGanarme ya es algo, aunque haya\nsido de chiripa...\r¡Me caes chachi! ¡Dame tu teléfono!\n¡Entrénate conmigo!{YESNO 0}
+¡Que no se te suban los humos!\n¡Ha sido de chiripa!
+¡No me lo creo!\n¡Te vas a arrepentir!
+¡Dame tu número de teléfono!\n¡Entrena conmigo!{YESNO 0}
+
+¿A ti también te gusta la Ruta 27?\rIgual que a mí. Siempre ando rondando\npor esa zona.
+Escucha, joven...\r¿Te acuerdas de mi {STRVAR_1 0, 10, 0}?\nExactamente.\rEse {STRVAR_1 0, 10, 0} que derrochaba\nbelleza por los cuatro costados.\r¿No opinas que es un compañero\nperfecto para mí?\rBueno, voy cortando. ¡Adiós!
+¿Que si me he enfrentado a un\n{STRVAR_1 0, 11, 0} salvaje alguna vez?\r¡Claro! ¿Por quién me has tomado?\n¡He derrotado a miles de {STRVAR_1 0, 11, 0}!\rBueno, voy cortando. ¡Adiós!
+¿Que si alguna vez se me ha escapado\nde las manos algún Pokémon?\r¿Por quién me tomas? Nunca\ndejaría escapar a un {STRVAR_1 0, 11, 0}.\r¡Jamás!
+¡Vamos a luchar!\n¡Te espero en {STRVAR_1 4, 3, 0}!\r¡No tardes mucho! ¿Entendido?
+¿Qué haces? ¡Te dije que te esperaba\nen {STRVAR_1 4, 3, 0}!\f¡No te me vayas a escaquear!
+No te enorgullezcas tanto\npor haberme vencido.\f¡Ha sido pura casualidad!

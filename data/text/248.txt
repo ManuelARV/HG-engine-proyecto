@@ -1,0 +1,29 @@
+SALIR
+SALIR
+REGAR
+PLANTAR BAYA
+ABONAR
+COGER BAYA
+Toca sobre tu Plantabayas.
+No tienes Bayas.
+No tienes Abono.
+Utiliza ←→ para desplazarte o bien\ntoca la pantalla.
+La tierra está suelta y es fértil.
+Has echado {STRVAR_1 8, 2, 0}\nen la tierra.
+¡Hay sembrada una {STRVAR_1 8, 0, 0}!
+La planta de {STRVAR_1 8, 0, 0}\nha brotado.
+El brote de {STRVAR_1 8, 0, 0} está\ncreciendo.
+El brote de {STRVAR_1 8, 0, 0}\nha florecido.
+¡Es una {STRVAR_1 8, 0, 0}!\n¿Quieres cogerla?
+¡Has abonado la tierra con\n{STRVAR_1 8, 2, 0}!
+Has sembrado una {STRVAR_1 8, 0, 0}\nen esta tierra tan fértil.
+¡Hala, ya tienes agüita!
+¡Has recogido {STRVAR_1 51, 1, 0} {STRVAR_1 8, 0, 0}!
+Has metido {STRVAR_1 8, 0, 0} en la Bolsa.\nLa tierra vuelve a estar suelta.
+La Bolsa está llena.\nHas dejado la {STRVAR_1 8, 0, 0}.
+     
+N {STRVAR_1 51, 0, 0}/{STRVAR_1 51, 1, 0}/{STRVAR_1 51, 2, 0} {STRVAR_1 51, 3, 0}:{STRVAR_1 51, 4, 0}:{STRVAR_1 51, 5, 0}\nS {STRVAR_1 51, 6, 0}/{STRVAR_1 51, 7, 0}/{STRVAR_1 51, 8, 0} {STRVAR_1 51, 9, 0}:{STRVAR_1 51, 10, 0}:{STRVAR_1 51, 11, 0}
+D {STRVAR_1 55, 0, 0}:{STRVAR_1 51, 1, 0}:{STRVAR_1 51, 2, 0} TIME-RATE {STRVAR_1 52, 3, 0} times
+{STRVAR_1 8, 0, 0}:{STRVAR_1 8, 1, 0}
+{STRVAR_1 8, 0, 0}:{STRVAR_1 8, 1, 0} ST{STRVAR_1 50, 2, 0} CT{STRVAR_1 51, 3, 0}\nN:{STRVAR_1 53, 4, 0} D:{STRVAR_1 53, 5, 0} SH:{STRVAR_1 51, 6, 0} GH:{STRVAR_1 52, 7, 0}
+NONE

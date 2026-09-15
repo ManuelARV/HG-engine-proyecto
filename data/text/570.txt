@@ -1,0 +1,9 @@
+Todos los SLOWPOKE del pueblo\nhan desaparecido.\rQuizá el guardián del Encinar\nesté enfadado...\rPuede ser un mal presagio.\nSerá mejor no salir.
+Los SLOWPOKE han vuelto...\rPero ahora son mis FARFETCH’D\nlos que se han escapado.\rMi aprendiz ha ido a buscarlos\nal Encinar, pero tarda mucho en volver.\r¡No tiene remedio!
+¿Ahuyentaste al Team Rocket\ny fuiste al Encinar sin ningún miedo?\r¡Qué valiente! Me gustas.\nEntrena con nosotros.
+¿Adónde han ido los SLOWPOKE?\n¿Están jugando fuera?
+Lo siento. Olvidé darte las gracias.\rEste es el Carbón que fabrico.\rDáselo a los Pokémon de fuego\ny reforzará sus ataques.
+¡{STRVAR_1 3, 0, 0} ha recibido Carbón!
+Los SLOWPOKE han vuelto.\nY has encontrado a los FARFETCH’D.\r¡Eres lo mejor, de verdad!
+Ah, tu Bolsa está llena.
+FARFETCH’D: ¡Farf!

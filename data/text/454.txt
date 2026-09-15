@@ -1,0 +1,11 @@
+Azul: ¡Hola! Al fin llegaste, ¿eh?\rEn Isla Canela no estaba a punto,\npero ahora estoy listo para luchar.\r...\r¿Me estás contando que superaste\nlos Gimnasios de Johto?\r¡Ja, ja, ja! Pues los Gimnasios de Johto\ndeben de ser patéticos.\rPero bueno, no te preocupes.\nSabremos si vales o no en un momento.\rLuchemos ahora.\n¿Vale?\r
+Azul: ¿Qué?\n¿Cómo diablos he perdido?\r...\r¡Está bien!...\nToma. Aquí tienes la Medalla Tierra.\r
+¡{STRVAR_1 3, 0, 0} ha obtenido la\nMedalla Tierra de Azul!
+Azul: Con esta Medalla puedes usar\nla Máquina Oculta Treparrocas.\rY además voy a darte esto.\r
+Azul: Contiene Espacio Raro.\rPermite que el Pokémon más lento ataque\nprimero durante un rato.\rEl nombre le viene que ni pintado, ¿eh?
+Azul: ...\rDe acuerdo, me he equivocado.\nNo me engañabas. Eres muy fuerte.\rPero algún día te derrotaré.\n¡No lo olvides!
+¡Hola, futura leyenda!\rEl suelo de este Gimnasio\nno es muy seguro.\rGuarda el Pokémon que va junto a ti,\npodría ser peligroso.\rBien...\rEl Líder del Gimnasio luchó contra\nel Campeón hace tres años.\r¡Es un tipo duro!\n¡Debes esforzarte al máximo!
+Vaya, eres realmente fuerte...\r¡Qué batalla más emocionante!\nMe ha hecho llorar.
+¡Hola, futura leyenda!\rEl suelo de este Gimnasio\nno es muy seguro.\rGuarda el Pokémon que va junto a ti,\npodría ser peligroso.\rBien...\rEl Líder del Gimnasio luchó contra\nel Campeón hace tres años.\r¡Es un tipo duro!\n¡Debes esforzarte al máximo!\r
+Gimnasio Pokémon de Ciudad Verde
+Gimnasio Pokémon de Ciudad Verde\rLíder del Gimnasio: Azul\nEntrenadores reconocidos:\f{STRVAR_1 3, 0, 0}

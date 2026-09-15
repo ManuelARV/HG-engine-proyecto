@@ -1,0 +1,25 @@
+¿Has ido al Gimnasio de Ciudad Plateada?\nEl Líder utiliza Pokémon de tipo Roca.
+Por la noche, los CLEFAIRY salen a\njugar al Mt. Moon, pero no todas\flas noches.
+¡Vaya!\n¿Vienes de Johto?\rMe trae muchos recuerdos. Cuando\nera joven, fui a Johto a entrenar.\rTe pareces mucho a mí\ncuando yo tenía tu edad.\rMe gustaría darte este objeto\nque encontré en Johto.\r
+                      
+                      
+Visitar nuevos sitios y conocer\ngente nueva...\fEso es lo bueno de viajar.
+Máximo: ¡Por fin hemos conseguido\nhacer aparecer a LATIOS!\r
+Máximo: ¡Por fin hemos conseguido\nhacer aparecer a LATIAS!\r
+LATIOS desprende una poderosa\naura combativa.\rMe encantaría enfrentarme a él,\npero voy a cederte ese honor a ti.
+LATIAS desprende una poderosa\naura combativa.\rMe encantaría enfrentarme a ella,\npero voy a cederte ese honor a ti.
+LATIOS: ¡Tiooos!\r
+LATIAS: ¡Tiaaas!\r
+LATIOS se ha perdido en la distancia...\r
+LATIAS se ha perdido en la distancia...\r
+Máximo: Formidable. Ha sido\nrealmente emocionante.\rY no creo que hayas liberado toda\ntu fuerza en el combate.\fTu dominio es espeluznante.\r
+Me he ausentado demasiado tiempo\nde la Liga Pokémon de Hoenn.\rTengo que irme ya.\r...\nNo te he preguntado tu nombre.\rDa igual.\nYa me lo dirás en otra ocasión.\r
+Máximo: Formidable. Ha sido\nrealmente emocionante.\rEstoy seguro de que el LATIOS\nmalherido volverá por aquí.\rEs probable que quiera la revancha.\r
+Máximo: Formidable. Ha sido\nrealmente emocionante.\rEstoy seguro de que la LATIAS\nmalherida volverá por aquí.\rEs probable que quiera la revancha.\r
+Máximo: Ya lo entiendo. No quieres\nmostrarme tu verdadero poder.\fTu dominio es espeluznante.\r
+Máximo: ¿Eh? ¿Qué te pasa?\nNo me dirás que te intimido, ¿no?\fNo tienes por qué tener vergüenza.
+Ciudad Plateada\nCiudad de riscos inaccesibles
+Líder del Gimnasio Pokémon\nde Ciudad Plateada: Brock\rEl hombre más fuerte que la roca
+Museo de la Ciencia de Ciudad Plateada
+¡Bienvenidos a\nCiudad Plateada!
+Puerta cerrada con llave...

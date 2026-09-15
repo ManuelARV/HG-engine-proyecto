@@ -1,0 +1,12 @@
+Ulises
+Prepararé mi venganza hasta la próxima\nvez que nos veamos.\r¡Ya nos enfrentaremos otra vez!\nDame tu teléfono, yo te doy el mío.{YESNO 0}
+¡Perfecto! ¡Número registrado!\n¡Adiós!
+Vaya...
+¿A que te han entrado ganas de\nintercambiar tu número de teléfono\fconmigo?{YESNO 0}
+¿Eh? Oigo molinos...\r¿Estás por casualidad cerca?\n¡Entonces vamos a hablar cara a cara!
+Mi {STRVAR_1 0, 10, 0} ha puesto\nla quinta marcha.\rPone en práctica todo lo que aprende\nipso facto.\r¿Tu Pokémon te hace caso?
+Ayer vencí a un {STRVAR_1 0, 11, 0}.\rSolo tuve que poner en práctica lo que\nme enseñaron en la Escuela Pokémon.\r¿A qué escuela fuiste tú?\n¿A ninguna? No me lo creo.
+El otro día un {STRVAR_1 0, 11, 0}\nse me escapó por nada. ¡Qué rabia!\rSiempre apunto en un cuaderno\nel nombre de los Pokémon que\fse me escapan. ¡Tengo apuntados\fya tantos nombres que casi no me\fcabe ninguno más!
+Va siendo hora de enfrentarnos.\n¡Te espero en {STRVAR_1 4, 3, 0}!
+¿Sí? ¡Combatimos en {STRVAR_1 4, 3, 0}!\n¡Ven como una flecha!
+¿Eh?\r¿Que solo ves estudiantes que vuelven\nde la escuela?\rPues claro, porque antes de entrar\nno tienen tiempo para nada si quieren\fllegar a tiempo.

@@ -1,0 +1,31 @@
+¡Muy buenas!\nTú debes de ser {STRVAR_1 3, 0, 0}, ¿no?\rYo soy quien le mandó la Carta\nal Profesor Elm hace poco.\r
+¡Muy buenas!\nTú debes de ser {STRVAR_1 3, 0, 0}, ¿no?\rYo soy quien le mandó la Carta\nal Profesor Elm hace poco.\r
+Esto es lo que quiero que examine\nel Profesor Elm.\r
+Alguien que conozco en Ciudad Iris\nme dio esto.\r¿Alguna vez habías visto uno\nde estos Huevos en Johto?\rImagino que el Profesor Elm\ndebe de saber lo que es.\rEs toda una eminencia en lo que\nrespecta a la evolución de los Pokémon.\rHasta el famoso Profesor Oak\nopina lo mismo.\r
+¿Vas a volver al Laboratorio\ndel Profesor Elm?\rDeja que tu Pokémon\ndescanse un rato.\r
+Siento hacerte ir y venir,\npero es necesario que le lleves\fese Huevo al Profesor Elm.
+¡Es tan emocionante explorar el mundo!\n¡Siempre hay tanto por descubrir!
+¿Una Chica Kimono? ¿De qué estás\nhablando? Creo que no te entiendo.\r
+Oak: Ya que lo mencionas...\nYo soy el Profesor Oak y\festudio los Pokémon.\r¿Tú eres {STRVAR_1 3, 0, 0}?\rHe venido para echarle una mano a mi\namigo el Sr. Pokémon y Elm me ha dicho\fque él ya había enviado a alguien, así\fque me he quedado a esperarte.\r
+Oak: Ya que lo mencionas...\nYo soy el Profesor Oak y\festudio los Pokémon.\r¿Tú eres {STRVAR_1 3, 0, 0}?\rHe venido para echarle una mano a mi\namigo el Sr. Pokémon y Elm me ha dicho\fque él ya había enviado a alguien, así\fque me he quedado a esperarte.\r
+Oak: ¡Guau! Veo que tienes un Pokémon\nbastante raro.\r¡Ah, ya veo!\nAsí que tú también estás ayudando\fal Profesor Elm con su investigación.\rMmm... Creo que sé por qué te\nha confiado ese Pokémon.\rDas la impresión de ser alguien\nque valora mucho los Pokémon.\r
+Oak: ¡Ah!...\rPareces ser muy responsable.\n¿Querrías ayudarme?\r¿Ves? Esta es la última versión\nde la Pokédex.\rGuarda automáticamente datos de los\nPokémon que hayas visto o capturado.\r¡Es una enciclopedia de alta tecnología!\r
+¡{STRVAR_1 3, 0, 0} ha recibido\nla Pokédex del Profesor Oak!
+¡Ve a conocer todos los Pokémon\nque puedas y completa esa Pokédex!\rLlevo demasiado tiempo aquí.\rTengo que ir a Ciudad Trigal\npor mi programa de radio.\r{STRVAR_1 3, 0, 0}, tengo el presentimiento\nde que volveremos a encontrarnos.\rAún así, voy a darte mi número de\nteléfono por lo que pudiera pasar.\r
+¡Ve a conocer todos los Pokémon\nque puedas y completa esa Pokédex!\rLlevo demasiado tiempo aquí.\rTengo que ir a Ciudad Trigal\npor mi programa de radio.\r{STRVAR_1 3, 0, 0}, tengo el presentimiento\nde que volveremos a encontrarnos.\rAún así, voy a darte mi número de\nteléfono por lo que pudiera pasar.\r
+¡{STRVAR_1 3, 0, 0} ha registrado al\nProfesor Oak en el Pokégear!\r
+¿Mmm? ¡Esa Escama!\n¿Qué es esto? ¿Un GYARADOS rojo?\r¡Qué extraordinario! Lo quiero...\r¿{STRVAR_1 3, 0, 0}, quieres intercambiarlo?\rPuedo ofrecerte este Repartir Exp\nque me dio el Profesor Oak.{YESNO 0}
+¿Mmm? ¡Esa Escama!\n¿Qué es esto? ¿Un GYARADOS rojo?\r¡Qué extraordinario! Lo quiero...\r¿{STRVAR_1 3, 0, 0}, quieres intercambiarlo?\rPuedo ofrecerte este Repartir Exp\nque me dio el Profesor Oak.{YESNO 0}
+                      
+Vaya, tu Bolsa está llena.
+Es una pena.\nEs realmente raro.
+¡Muy buenas, {STRVAR_1 3, 0, 0}!\rTengo algo para ti.\rEstaba a punto de escribirle\nal Profesor Oak.\r
+¡Muy buenas, {STRVAR_1 3, 0, 0}!\rTengo algo para ti.\rEstaba a punto de escribirle\nal Profesor Oak.\r
+Resulta que...\nUn amigo mío de la región de Hoenn\fme ha traído esto.\r
+¡{STRVAR_1 3, 0, 0} ha recibido\nuna Esfera Azul!\r
+¡{STRVAR_1 3, 0, 0} ha recibido\nuna Esfera Roja!\r
+Esa Esfera guarda una estrecha\nrelación con unas ruinas de\fCiudad Orquídea, conocidas como\fla Torre Oculta.\rPero se trata de un lugar al que no\npuede llegar cualquier Entrenador...\rPor eso he pensado en ti.\rEl Profesor Oak confía en tus\nhabilidades y además has vencido\fal Campeón.\rEstoy seguro de que serás capaz de\ndesvelar el misterio de esta Esfera\fy las ruinas.
+La Torre Oculta se encuentra\npasada Ciudad Orquídea.\rSe yergue sobre un gran precipicio.\rO al menos eso creo.\rEso es lo que he oído.\rVamos, me parece...
+Lleno de revistas extranjeras.\r...\nNi siquiera puedo leer los títulos.
+Es un PC enorme. ¡Mmm!\nEstá estropeado.
+¡Un montón de monedas extrañas!\nQuizá sean de otro país...

@@ -1,0 +1,13 @@
+Leuco
+¡Nuestro combate fue notable!\n¡Quiero algo para recordarte siempre!\r¿Quizás tu número de teléfono?\rAunque la intensidad de mi\nentrenamiento no me permite\fhablar demasiado...{YESNO 0}
+¡Debo entrenarme más\npara ser el más fuerte!
+Si decides que quieres mi número,\nven a verme.
+Mi entrenamiento no me permite\nhablar mucho, pero venga,\fapunta mi teléfono.{YESNO 0}
+¡Quiero darte las gracias,\n{STRVAR_1 3, 0, 0}!\rHe estado entrenándome tan solo...\nMe hizo muy feliz que llamaras y...\f¡Quiero darte esto!\r
+¡No tienes espacio para nada más!\r¡Te guardaré esto hasta que aligeres\ntu Bolsa!
+¡Ey, ey! ¡Estás aquí mismito!\n¡Ven para acá!
+¿Continúas viajando?\rYo sigo entrenándome a fondo.\n¡Oooaaarg!
+¡Lo siento, pero no tengo tiempo\npara hablar cuando me entreno!\r¡Mañana podremos charlar un rato!\n¡Wataaaaaaaaaaaa!
+Voy a parar para comer, así que...\n¡Búscame entonces! ¡Wataaaaaaaaa!
+¡Estoy descansando en la Ruta 45!\n¿Por qué no te pasas un rato?
+Descansé durante la hora de comer.\n¡Ahora toca volver a entrenarse!\r¡Oooriaa!

@@ -1,0 +1,30 @@
+Madre
+¿Diga? Hola, {STRVAR_1 3, 0, 0}.\rTu voz suena distinta, no sé,\nno pareces tú. Con lo acostumbrada\fque estoy a oírte hablar justo\fdelante de mí, supongo que es normal.
+¿Diga? Hola, {STRVAR_1 3, 0, 0}.\rOír tu voz es distinto, no sé,\nno pareces tú. Con lo acostumbrada\fque estoy a oírte hablar justo\fdelante de mí, supongo que es normal.
+¿Dígame? ¡Hola, {STRVAR_1 3, 0, 0}!\n¿Cómo te va todo?\rSeguro que no tienes ni un minuto\npara descansar.\rPero, {STRVAR_1 3, 0, 0}, sé que puedes\nseguir esforzándote y hacer bien\ftodo lo que te propongas.\rLlámame otra vez cuando puedas.
+¿Diga? Oh, hola, {STRVAR_1 3, 0, 0}.\r¿No te estaba esperando\nel Profesor Elm?
+¿Diga? Oh, hola, {STRVAR_1 3, 0, 0}.\r¿Estás ayudando al Profesor Elm?\n¡Me alegro! Pórtate bien, ¿eh?
+¿Diga? Oh, hola, {STRVAR_1 3, 0, 0}.\rCuando termines tus quehaceres,\nno te entretengas y vuelve a casa.
+¿Dígame? ¡{STRVAR_1 3, 0, 0}!\r¿Qué tal te va?\n¿Tienes muchos amigos Pokémon?\rSi te portas bien con ellos se ponen\nmuy cariñosos. Cuídalos bien, ¿eh?\r
+¿Dígame? ¡{STRVAR_1 3, 0, 0}!\n¿Cómo te va todo?\r¿Estás en Ciudad Cerezo?\nSi tienes tiempo, pásate por casa,\fque te pilla muy cerca.\r
+¿Dígame? ¡{STRVAR_1 3, 0, 0}!\n¿Cómo te va todo?\rAh, estás en Ciudad Malva.\nAllí está la Torre BELLSPROUT, ¿no?\r¿Ya la has visto?\r
+¿Dígame? ¡{STRVAR_1 3, 0, 0}!\n¿Cómo te va todo?\rAh, estás en Pueblo Azalea.\nAllí está el Pozo SLOWPOKE, ¿no?\r¿Ya lo has visto?\r
+¿Dígame? ¡{STRVAR_1 3, 0, 0}!\n¿Cómo te va todo?\rMmm, así que estás en Ciudad Orquídea.\rCreo que por ahí estaban\nmontando la Zona Safari.\r¿Estará ya abierta al público?\r
+¿Dígame? ¡{STRVAR_1 3, 0, 0}!\n¿Cómo te va todo?\rAh, estás en Ciudad Trigal.\nAllí está la famosa Torre Radio.\r¿Ya has ido?\r
+¿Dígame? ¡{STRVAR_1 3, 0, 0}!\n¿Cómo te va todo?\rAh, estás en Ciudad Olivo.\nAllí creo que hay un faro enorme.\r¿Ya lo has visto?\r
+¿Dígame? ¡{STRVAR_1 3, 0, 0}!\r¿Cómo te va todo?\nMmm... En Ciudad Iris...\rPues por allí estaba la Torre Campana\nsi no recuerdo mal. ¿Ya la has visto?\r
+¿Dígame? ¡{STRVAR_1 3, 0, 0}!\r¿Cómo te va todo?\n¿Estás en {STRVAR_1 4, 2, 0}?\r¡Cuantos más Pokémon consigas, mejor!\nEstoy muy orgullosa de ti.\r
+¿Dígame? ¡{STRVAR_1 3, 0, 0}!\r¿Cómo te va todo?\rAnda, estás en {STRVAR_1 4, 2, 0}.\rEstés donde estés, sé que estás\ntrabajando muy duro, por algo\fsoy tu madre.\r
+¿Dígame? ¡{STRVAR_1 3, 0, 0}!\r¡Pareces de muy buen humor!\nMe alegro de que estés bien.\r
+¿Dígame? ¡Hola, {STRVAR_1 3, 0, 0}!\n¿Cómo te va todo?\rSeguro que no tienes ni un minuto\npara descansar.\rPero, {STRVAR_1 3, 0, 0}, sé que puedes\nseguir esforzándote y hacer bien\ftodo lo que te propongas.\r
+¿Dígame? ¡{STRVAR_1 3, 0, 0}!\n¿Cómo te va todo?\r¿Estás en Kanto?\n¡Estoy orgullosa de ti!\r
+¿Dígame? ¡{STRVAR_1 3, 0, 0}!\n¿Vas a participar en el Pokéathlon?\r¡Espero que ganes todas las pruebas!\n¡Hurra! ¡Hurra! ¡Hurra!\r
+Todavía no has ido a buscar lo que\nte he comprado.\rVe a recogerlo a cualquier Tienda\nPokémon. Habla con el repartidor.
+¿Diga? ¿{STRVAR_1 3, 0, 0}?\rMe ha dicho el Profesor Elm que\nhas emprendido un viaje muy largo.\rMe hubiera gustado que me lo dijeras.\nTu dinero... ¿quieres que te lo guarde?
+Por cierto, has ahorrado {STRVAR_1 55, 10, 0} $.\n¿Quieres seguir ahorrando dinero?
+Por cierto, {STRVAR_1 3, 0, 0},\nhas ahorrado {STRVAR_1 55, 10, 0} $.\r¿Quieres empezar a ahorrar otra vez?
+Vale. Te guardaré el dinero.\r¡Sigue así, {STRVAR_1 3, 0, 0}!\n¡Estoy contigo!
+Vale. No te guardaré dinero.\r¡Sigue así, {STRVAR_1 3, 0, 0}!\n¡Estoy contigo!
+Es importante que ahorres dinero.
+{STRVAR_1 3, 0, 0}, ahora que lo pienso,\nno estás ahorrando nada.\f¿Quieres empezar a ahorrar?{YESNO 0}
+¿Diga? ¿Cómo estás, {STRVAR_1 3, 0, 0}?\rHoy he salido a la calle y te he\ncomprado algo que te será útil.\r...\rPerdona, pero lo he comprado con\nel dinero que tenías ahorrado.\rLe he pedido al repartidor que te lo dé,\nasí que pásate por cualquier Tienda\fPokémon para recogerlo.\rTambién puedes ir a por él\nal Centro Comercial.\r¡Seguro que te gusta!

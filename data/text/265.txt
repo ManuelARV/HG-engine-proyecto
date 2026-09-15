@@ -1,0 +1,759 @@
+Mmm... Parece que {STRVAR_1 1, 0, 0}\nha cogido algo...\r¿Quieres ver qué es?{YESNO 0}
+Parece que {STRVAR_1 1, 0, 0} está contento\nde haber encontrado algo.
+¡Vaya! Da la impresión de que es tan\nimportante que le cuesta soltarlo.
+Se diría que {STRVAR_1 1, 0, 0} te lo\nha dado de mil amores.
+...\n¡Vaya!\r{STRVAR_1 1, 0, 0} tiene una especie de hoja\nmisteriosamente brillante.
+Te está mirando balanceándose\nsuavemente.
+{STRVAR_1 1, 0, 0} está haciendo\nruidos extraños.
+{STRVAR_1 1, 0, 0} lanza un ligero chillido,\ncomo si quisiera decirte algo.
+¿Qué? Parece que se oye algo\ndesde la lejanía.
+¡{STRVAR_1 1, 0, 0} casi se olvida del objeto\n{STRVAR_1 8, 4, 0} que tenía!
+¡{STRVAR_1 1, 0, 0} ha dado un empujoncito\na {STRVAR_1 3, 2, 0}!\f¿Se lo quieres devolver?{YESNO 0}
+{STRVAR_1 1, 0, 0} está dando empujoncitos\na los objetos a su alrededor.
+{STRVAR_1 1, 0, 0} se pega a tus piernas.
+¡{STRVAR_1 1, 0, 0} ha montado en cólera!
+¡{STRVAR_1 1, 0, 0} se ha sobresaltado!
+{STRVAR_1 1, 0, 0} parece estar\nun poco alicaído.
+{STRVAR_1 1, 0, 0} está mirando hacia ti y\ntiene algo en la boca.\f¿Quieres cogerlo?{YESNO 0}
+{STRVAR_1 1, 0, 0} se acurruca junto a ti\ntiritando de frío.
+¡{STRVAR_1 1, 0, 0} está muy contento!
+¡Da la impresión de que {STRVAR_1 1, 0, 0}\nestá ligeramente aliviado!
+{STRVAR_1 1, 0, 0} se pega a ti todo feliz.
+{STRVAR_1 1, 0, 0} está radiante\npor alguna razón.
+¡{STRVAR_1 1, 0, 0} está entusiasmado!
+{STRVAR_1 1, 0, 0} ha dado\nun ligero respingo.
+¡{STRVAR_1 1, 0, 0} está radiante!
+Por alguna razón, parece que\n{STRVAR_1 1, 0, 0} está algo nervioso.\f¿Quieres decirle algo?{YESNO 0}
+{STRVAR_1 1, 0, 0} se ha asustado y\nha dejado de hacer travesuras.
+{STRVAR_1 1, 0, 0} se acurruca a tu lado\ncon mucho cariño.\f¿Quieres acariciarlo?{YESNO 0}
+{STRVAR_1 1, 0, 0} se muestra muy interesado\npor todo lo que le rodea.
+¡{STRVAR_1 1, 0, 0} está encantado!
+{STRVAR_1 1, 0, 0} estaba mirando a otro\nlado y se ha chocado contigo.
+{STRVAR_1 1, 0, 0} te observa con cara\nde querer jugar contigo.\f¿Quieres hacerle caso?{YESNO 0}
+¡{STRVAR_1 1, 0, 0} te ha empujado\nde repente!\f¿Deseas ver qué quiere?{YESNO 0}
+{STRVAR_1 1, 0, 0} está dando cabezadas.\n¿Quieres llamarlo?{YESNO 0}
+Parece que {STRVAR_1 1, 0, 0} está\ncomo ausente.
+¡{STRVAR_1 1, 0, 0} está trasteando por la\nhierba y vuelve lleno de hojas!\f¿Se las quieres quitar?{YESNO 0}
+{STRVAR_1 1, 0, 0} te está haciendo\nmimos. ¿Quieres hacerle\fmimos tú también?{YESNO 0}
+{STRVAR_1 1, 0, 0} está mirando\nfijamente hacia aquí.\f¿Quieres llamarlo?{YESNO 0}
+Se diría que {STRVAR_1 1, 0, 0}\nquiere ir delante.
+{STRVAR_1 1, 0, 0} se ha puesto\nmuy insistente de repente.\f¿Quieres jugar con él?{YESNO 0}
+{STRVAR_1 1, 0, 0} mira en todas direcciones,\ncomo si estuviera inquieto.\f¿Quieres decirle algo?{YESNO 0}
+{STRVAR_1 1, 0, 0} está embobado.\n¿Quieres llamarlo?{YESNO 0}
+{STRVAR_1 1, 0, 0} tiene cara de querer\nregresar al Laboratorio.
+¡{STRVAR_1 1, 0, 0} se pega a tus piernas!
+¡{STRVAR_1 1, 0, 0} te está mordiendo\nlos zapatos!\f¿Quieres hacerle caso?{YESNO 0}
+{STRVAR_1 1, 0, 0} tiene hojas por encima.
+¡{STRVAR_1 1, 0, 0} se ha sonrojado!
+Parece que a {STRVAR_1 1, 0, 0}\nle cuesta moverse.
+{STRVAR_1 1, 0, 0} te sigue todo contento.
+Parece que {STRVAR_1 1, 0, 0} quiere jugar\ncon {STRVAR_1 3, 2, 0}.
+{STRVAR_1 1, 0, 0} te mira esperando\nque lo acaricies.
+{STRVAR_1 1, 0, 0} hace todo lo posible\npara seguirte a tu ritmo.
+¡{STRVAR_1 1, 0, 0} no cabe en sí de gozo!
+{STRVAR_1 1, 0, 0} te hace mimos,\ncon la cara rebosante de alegría.
+¡{STRVAR_1 1, 0, 0} parece estar\nmuy contento!
+{STRVAR_1 1, 0, 0} parece feliz\ncuando te sigue.
+{STRVAR_1 1, 0, 0} está esforzándose\nde veras.
+{STRVAR_1 1, 0, 0} ha dado vueltas\nsobre sí mismo.
+{STRVAR_1 1, 0, 0} te está mirando fijamente.
+{STRVAR_1 1, 0, 0} se vuelve hacia ti\ny te sonríe.
+{STRVAR_1 1, 0, 0} se mueve con aire\ndespreocupado.
+{STRVAR_1 1, 0, 0} está brincando de alegría.
+¡{STRVAR_1 1, 0, 0} está radiante!
+{STRVAR_1 1, 0, 0} ha saltado con aire\ndespreocupado.
+¡{STRVAR_1 1, 0, 0} está rebosante\nde energía!
+{STRVAR_1 1, 0, 0} está mirándote de frente.
+{STRVAR_1 1, 0, 0} desvía la mirada...
+¡{STRVAR_1 1, 0, 0} está revolviendo\nen la Bolsa de {STRVAR_1 3, 2, 0}!\f¿Quieres llamarle la atención?{YESNO 0}
+{STRVAR_1 1, 0, 0} está mirando a\n{STRVAR_1 3, 2, 0} fijamente a los ojos.
+{STRVAR_1 1, 0, 0} está saludando.
+{STRVAR_1 1, 0, 0} ha saludado\nal adversario.
+{STRVAR_1 1, 0, 0} ha soltado un grito.
+{STRVAR_1 1, 0, 0} se ha vuelto hacia tu \nadversario y ha gruñido con fuerza.
+{STRVAR_1 1, 0, 0} está intimidando\nal adversario.
+{STRVAR_1 1, 0, 0} lanza una intensa mirada\nal adversario.
+{STRVAR_1 1, 0, 0} mira fijamente\nal adversario.
+Parece que a {STRVAR_1 1, 0, 0} le ha llamado\nla atención Amphy.
+Parece que {STRVAR_1 1, 0, 0} quiere jugar\ncon Amphy.
+{STRVAR_1 1, 0, 0} ha saludado a Amphy.
+{STRVAR_1 1, 0, 0} se muestra interesado\npor Amphy.
+{STRVAR_1 1, 0, 0} bosteza y bosteza...\n...\fYa ha parado.
+{STRVAR_1 1, 0, 0} admira el amanecer.
+{STRVAR_1 1, 0, 0} te está mordisqueando\nlas piernas.
+{STRVAR_1 1, 0, 0} picotea junto a tus pies.
+{STRVAR_1 1, 0, 0} te está mordisqueando\nlas piernas.\f¿Vas a regañarlo?{YESNO 0}
+{STRVAR_1 1, 0, 0} se entretiene \nmordisqueando junto a tus pies.\f¿Vas a regañarlo?{YESNO 0}
+{STRVAR_1 1, 0, 0} te está mirando fijamente.
+{STRVAR_1 1, 0, 0} inspecciona\na su alrededor.
+{STRVAR_1 1, 0, 0} observa con atención\nlo que tiene a su alrededor.
+Parece que a {STRVAR_1 1, 0, 0} no le gusta\npasar calor...
+{STRVAR_1 1, 0, 0} parece un poco abatido\npor el calor.
+¡{STRVAR_1 1, 0, 0} parece que disfruta\nde veras con el calor!
+¡Da la impresión de que a {STRVAR_1 1, 0, 0}\nle encanta la lluvia!
+¡A {STRVAR_1 1, 0, 0} le encanta la lluvia!
+¡Parece que a {STRVAR_1 1, 0, 0} le ha pillado\npor sorpresa la lluvia!
+¡{STRVAR_1 1, 0, 0} ha estado\na puntito de caerse!
+{STRVAR_1 1, 0, 0} está soltando\nunas llamas muy vivas.
+¡{STRVAR_1 1, 0, 0} se ha enfadado\nde repente!
+¡{STRVAR_1 1, 0, 0} ha lanzado\nun grito de guerra!
+{STRVAR_1 1, 0, 0} se ha girado de repente\ny ha lanzado un gruñido.
+¡{STRVAR_1 1, 0, 0} se ha girado de repente!
+{STRVAR_1 1, 0, 0} se divierte\npicoteando el suelo.
+{STRVAR_1 1, 0, 0} está jugando\ncon la tierra.
+{STRVAR_1 1, 0, 0} se divierte picoteando\nel suelo.
+{STRVAR_1 1, 0, 0} se entretiene haciendo\nrodar guijarros.
+{STRVAR_1 1, 0, 0} está olisqueando\na su alrededor.
+¡{STRVAR_1 1, 0, 0} se ha sorprendido\nal mirar a las rocas!
+{STRVAR_1 1, 0, 0} está mirando al cielo\ncon la boca abierta de par en par.
+{STRVAR_1 1, 0, 0} mira hacia arriba con la\nmandíbula colgando de asombro.
+¡{STRVAR_1 1, 0, 0} está emocionado!
+{STRVAR_1 1, 0, 0} agita sus brazos\ny se arma de valor.
+{STRVAR_1 1, 0, 0} ha soltado un gruñido.
+{STRVAR_1 1, 0, 0} ha soltado un gruñido.
+{STRVAR_1 1, 0, 0} mira al mar fijamente.
+{STRVAR_1 1, 0, 0} está feliz mirando al mar.
+¡{STRVAR_1 1, 0, 0} está bailando de alegría!
+{STRVAR_1 1, 0, 0} está haciendo piruetas\nlleno de alegría.
+{STRVAR_1 1, 0, 0} te saluda contento.
+{STRVAR_1 1, 0, 0} hace piruetas\ntodo contento.
+{STRVAR_1 1, 0, 0} salta de alegría.
+{STRVAR_1 1, 0, 0} salpica de alegría.
+Da la impresión de que {STRVAR_1 1, 0, 0}\nquiere montarse en el tren.
+{STRVAR_1 1, 0, 0} se ha enredado\ncon las ramas y casi se cae.
+{STRVAR_1 1, 0, 0} se ha asustado\nal golpearle una rama.
+{STRVAR_1 1, 0, 0} ha abierto la boca\nde par en par.
+{STRVAR_1 1, 0, 0} ha soltado\nun rugido tremendo.
+{STRVAR_1 1, 0, 0} ha bostezado\ncon todas sus ganas.
+{STRVAR_1 1, 0, 0} mira fijamente\nen la distancia.
+{STRVAR_1 1, 0, 0} mira a lo lejos y tiembla.
+¡{STRVAR_1 1, 0, 0} ha lanzado\nun grito de guerra!
+{STRVAR_1 1, 0, 0} está curioseando\nentre las hojas caídas.
+{STRVAR_1 1, 0, 0} mira con atención\nel agujero en el suelo.
+{STRVAR_1 1, 0, 0} te da golpecitos\nen la tripa.
+A {STRVAR_1 1, 0, 0} le está goteando sudor.
+{STRVAR_1 1, 0, 0} mira la sombra\ncon mucho miedo.
+¡Parece que {STRVAR_1 1, 0, 0}\nse ha sobresaltado!
+{STRVAR_1 1, 0, 0} se siente con\nenergías renovadas.
+{STRVAR_1 1, 0, 0} tiembla\nincontroladamente.
+{STRVAR_1 1, 0, 0} admira el flujo del agua.
+¡{STRVAR_1 1, 0, 0} lanza un grito de ataque!
+{STRVAR_1 1, 0, 0} escucha el ruido\nde la máquina.
+¡{STRVAR_1 1, 0, 0} quiere tocar la máquina!
+{STRVAR_1 1, 0, 0} mira la máquina fijamente.
+{STRVAR_1 1, 0, 0} contempla al adversario.
+{STRVAR_1 1, 0, 0} se ha puesto a gruñir.
+{STRVAR_1 1, 0, 0} se mueve con estilo.
+{STRVAR_1 1, 0, 0} parece sumamente\ninteresado.
+{STRVAR_1 1, 0, 0} inspecciona\na su alrededor con interés.
+{STRVAR_1 1, 0, 0} escucha con interés\nun ruido.
+{STRVAR_1 1, 0, 0} está buscando algo\na su alrededor frenéticamente.
+{STRVAR_1 1, 0, 0} está incansable.
+{STRVAR_1 1, 0, 0} inspecciona los árboles\ncon interés.
+{STRVAR_1 1, 0, 0} escucha con interés\nel ruido del agua al fluir.
+{STRVAR_1 1, 0, 0} inspecciona con interés\na su alrededor.
+{STRVAR_1 1, 0, 0} mira los árboles\nfijamente.
+¡{STRVAR_1 1, 0, 0} está preparándose!
+{STRVAR_1 1, 0, 0} está en tensión.
+{STRVAR_1 1, 0, 0} se divierte picoteando\nla hierba.
+{STRVAR_1 1, 0, 0} está masticando\nla hierba.
+{STRVAR_1 1, 0, 0} se divierte arrancando\nla hierba.
+{STRVAR_1 1, 0, 0} mira fijamente al suelo\ncomo si se fuera a desmoronarse.
+{STRVAR_1 1, 0, 0} mira hacia el techo\ncomo si fuera a desmoronarse.
+{STRVAR_1 1, 0, 0} ha abierto la boca\nde par en par.
+A {STRVAR_1 1, 0, 0} le castañetean\nlos dientes.
+{STRVAR_1 1, 0, 0} gira la cabeza y\nse envalentona.
+{STRVAR_1 1, 0, 0} hace todo lo que puede\npara seguirte.
+{STRVAR_1 1, 0, 0} ha dado vueltas\nsobre sí mismo.
+{STRVAR_1 1, 0, 0} olisquea la brisa marina.
+¡{STRVAR_1 1, 0, 0} está alerta!
+¡{STRVAR_1 1, 0, 0} está lleno de energía!
+¡{STRVAR_1 1, 0, 0} te saluda\ncon mucho vigor!
+{STRVAR_1 1, 0, 0} ha saltado\ncon mucho ímpetu.
+{STRVAR_1 1, 0, 0} trastea con el hielo.
+{STRVAR_1 1, 0, 0} está picoteando el hielo.
+{STRVAR_1 1, 0, 0} picotea el suelo\ncomo si buscara algo.
+{STRVAR_1 1, 0, 0} te está mirando fijamente.
+{STRVAR_1 1, 0, 0} se ha girado y\nte ha sonreído.
+{STRVAR_1 1, 0, 0} se ha vuelto hacia ti y\nse balancea suavemente.
+{STRVAR_1 1, 0, 0} mira fijamente los juegos\nde sombras del sol en los árboles.
+{STRVAR_1 1, 0, 0} está haciendo piruetas.
+¡{STRVAR_1 1, 0, 0} se ha asustado y\nse ha abrazado a {STRVAR_1 3, 2, 0}!
+¡{STRVAR_1 1, 0, 0} se ha asustado y\nse ha abrazado a ti!
+¡{STRVAR_1 1, 0, 0} está muy emocionado\ncon el hielo!
+Parece que a {STRVAR_1 1, 0, 0} no le hace\nmucha gracia el hielo.
+¡A {STRVAR_1 1, 0, 0} le encanta el frío!
+{STRVAR_1 1, 0, 0} se acurruca\na causa del frío.
+Parece que a {STRVAR_1 1, 0, 0} le encanta\nla brisa marina.
+{STRVAR_1 1, 0, 0} mira hacia abajo y\ntiembla de miedo.
+{STRVAR_1 1, 0, 0} mira hacia abajo\ny se sorprende.
+Las llamas de la cola de {STRVAR_1 1, 0, 0}\nlucen con intensidad.
+Parece que {STRVAR_1 1, 0, 0} siente\ncuriosidad por las Bicicletas.
+{STRVAR_1 1, 0, 0} está mirando\nlas huellas de {STRVAR_1 3, 2, 0}.
+{STRVAR_1 1, 0, 0} observa su propia cara.
+{STRVAR_1 1, 0, 0} se está mirando\na sí mismo.
+No parece que a {STRVAR_1 1, 0, 0}\nle guste mucho mojarse.
+{STRVAR_1 1, 0, 0} olisquea el suelo.
+{STRVAR_1 1, 0, 0} está cavando en el suelo.
+{STRVAR_1 1, 0, 0} mira fijamente\nhacia abajo.
+{STRVAR_1 1, 0, 0} picotea en el suelo.
+{STRVAR_1 1, 0, 0} se divierte\npicoteando el suelo.
+{STRVAR_1 1, 0, 0} está picoteando el suelo.
+{STRVAR_1 1, 0, 0} está calentando.
+{STRVAR_1 1, 0, 0} te sigue\ncon mucho cuidado.
+{STRVAR_1 1, 0, 0} está inquieto.
+{STRVAR_1 1, 0, 0} está exultante.
+Parece que {STRVAR_1 1, 0, 0}\nestá algo inquieto.
+¡{STRVAR_1 1, 0, 0} está ligeramente\nemocionado!
+¡{STRVAR_1 1, 0, 0} se ha tropezado!
+Parece que {STRVAR_1 1, 0, 0}\nestá un poco cansado.
+{STRVAR_1 1, 0, 0} quiere llamar la atención\ncorriendo a toda velocidad.
+{STRVAR_1 1, 0, 0} ha dado un bote\nde sorpresa.
+{STRVAR_1 1, 0, 0} se ha resbalado y\nchocado contigo.
+A {STRVAR_1 1, 0, 0} le saca de quicio\nla falta de espacio.
+{STRVAR_1 1, 0, 0} se muestra alerta\nen este espacio tan reducido.
+A {STRVAR_1 1, 0, 0} le inquieta\nlo que hay fuera.
+{STRVAR_1 1, 0, 0} mira contento lo que hay\nen el exterior.\n
+{STRVAR_1 1, 0, 0} tiene unas ganas\ntremendas de ver lo que hay fuera.
+{STRVAR_1 1, 0, 0} está un poco raro porque\nquiere ver lo que hay fuera.
+{STRVAR_1 1, 0, 0} está deslumbrado\nmirando al cielo.
+{STRVAR_1 1, 0, 0} mira hacia la cumbre\nde la montaña.
+{STRVAR_1 1, 0, 0} mira la gran montaña\ny lanza un grito de guerra.
+Parece que la cascada llama la atención\nde {STRVAR_1 1, 0, 0}.
+{STRVAR_1 1, 0, 0} escucha el ruido\nde la cascada.
+{STRVAR_1 1, 0, 0} está escuchando el ruido\nproveniente de detrás de la cascada.
+Parece que {STRVAR_1 1, 0, 0} ha encontrado\nalgo dentro de la cascada.
+{STRVAR_1 1, 0, 0} intenta llamar la atención\nmoviéndose mucho.
+{STRVAR_1 1, 0, 0} está notando\nalgo extraño...
+{STRVAR_1 1, 0, 0} olisquea el tatami.
+{STRVAR_1 1, 0, 0} escucha los ruidos\ndel edificio.
+{STRVAR_1 1, 0, 0} observa lo alto\nde la torre.
+{STRVAR_1 1, 0, 0} está gruñendo\nmuy bajito.
+{STRVAR_1 1, 0, 0} intenta llamar la atención\ncon todas sus ganas.
+Parece que {STRVAR_1 1, 0, 0} no está\nmuy contento.\n
+{STRVAR_1 1, 0, 0} está algo inquieto.
+{STRVAR_1 1, 0, 0} tiene un poco de miedo.
+Da la impresión de que {STRVAR_1 1, 0, 0}\nse ha sobresaltado un poco.
+Da la impresión de que {STRVAR_1 1, 0, 0}\nestá un poco perdido.
+{STRVAR_1 1, 0, 0} está mirando cómo pescas.
+{STRVAR_1 1, 0, 0} ha agitado sus lianas.
+{STRVAR_1 1, 0, 0} ha movido sus lianas.
+{STRVAR_1 1, 0, 0} está mirando los objetos\nexpuestos.
+{STRVAR_1 1, 0, 0} se ha sorprendido\nal mirar el techo.
+{STRVAR_1 1, 0, 0} ha estado a punto de\ncaerse mientras miraba el techo.
+{STRVAR_1 1, 0, 0} eleva la mirada\nal techo.
+{STRVAR_1 1, 0, 0} ha lanzado un aullido\na la lejanía.
+Da la impresión de que {STRVAR_1 1, 0, 0}\ntiene mucho calor.
+¡{STRVAR_1 1, 0, 0} ha saludado a tu madre!
+{STRVAR_1 1, 0, 0} parece estar muy alegre.
+Da la impresión de que {STRVAR_1 1, 0, 0}\nestá pasando mucho frío.
+Parece que {STRVAR_1 1, 0, 0}\nestá muy contento.
+{STRVAR_1 1, 0, 0} se divierte con la arena.
+{STRVAR_1 1, 0, 0} se lo pasa bien\nenredándose con la hierba alta.
+{STRVAR_1 1, 0, 0} se ha enredado\ncon la hierba alta.
+{STRVAR_1 1, 0, 0} ha estado a punto de\ntropezar con la hierba alta.
+{STRVAR_1 1, 0, 0} está mordisqueando\nla hierba alta.
+{STRVAR_1 1, 0, 0} admira el ir y venir\ndel agua del mar.
+Parece que {STRVAR_1 1, 0, 0}\nestá asustado por algo.
+Parece que un ruido ha sorprendido\na {STRVAR_1 1, 0, 0}.
+{STRVAR_1 1, 0, 0} se ha sorprendido\ncon un olor peculiar.
+{STRVAR_1 1, 0, 0} está percibiendo algo...
+Da la impresión de que {STRVAR_1 1, 0, 0}\nse ha encontrado algo.
+{STRVAR_1 1, 0, 0} escucha el ruido\nde las olas.
+{STRVAR_1 1, 0, 0} está alegre\nviendo las olas.
+Parece que {STRVAR_1 1, 0, 0}\nestá escuchando un ruido extraño.
+Da la impresión de que {STRVAR_1 1, 0, 0}\nestá alegre por alguna razón.
+Da la impresión de que {STRVAR_1 1, 0, 0} \nestá enfadado por alguna razón.
+Parece que {STRVAR_1 1, 0, 0} está\ninquieto por alguna razón.
+Da la impresión de que\n{STRVAR_1 1, 0, 0} tiene algo de frío.
+Parece que {STRVAR_1 1, 0, 0}\nse lo está pasando bien.
+Parece que {STRVAR_1 1, 0, 0}\ntiene algo de vergüenza.
+{STRVAR_1 1, 0, 0} está exultante\npor alguna razón.
+A {STRVAR_1 1, 0, 0} le ha llamado la atención\nalgún olor peculiar.
+{STRVAR_1 1, 0, 0} se ha dado la vuelta y\nte ha sonreído.
+{STRVAR_1 1, 0, 0} se lo toma con calma.
+{STRVAR_1 1, 0, 0} está fascinado por\nel brillo del puente.
+{STRVAR_1 1, 0, 0} baila siguiendo\nel movimiento de la columna.
+{STRVAR_1 1, 0, 0} va a coger carrerilla.
+{STRVAR_1 1, 0, 0} tenía vergüenza y\nse ha escondido detrás de ti.
+{STRVAR_1 1, 0, 0} ha salido pitando,\nfruto de la vergüenza.
+{STRVAR_1 1, 0, 0} se divierte con las hojas.
+A {STRVAR_1 1, 0, 0} le relaja el sonido\nde las hojas al frotarlas.
+Se diría que {STRVAR_1 1, 0, 0} está\nescuchando la fricción de las hojas.
+{STRVAR_1 1, 0, 0} se divierte jugueteando\ncon las hojas.
+¡{STRVAR_1 1, 0, 0} protegió su vista\nde la centelleante luz!
+{STRVAR_1 1, 0, 0} está bailando\nbajo la lluvia.
+{STRVAR_1 1, 0, 0} está bailando\nbajo la lluvia.
+{STRVAR_1 1, 0, 0} quiere llamar la atención\nsaltando por doquier.
+¡{STRVAR_1 1, 0, 0} da botes\npor todas partes!
+{STRVAR_1 1, 0, 0} se muestra inquieto y se\npega a {STRVAR_1 3, 2, 0}.
+{STRVAR_1 1, 0, 0} mira la máquina\ncon mucha curiosidad.
+{STRVAR_1 1, 0, 0} saluda a los dos.
+{STRVAR_1 1, 0, 0} mira a los dos\ny les suelta un grito.
+{STRVAR_1 1, 0, 0} se tambalea con la barca.
+{STRVAR_1 1, 0, 0} está mareado.
+¡{STRVAR_1 1, 0, 0} está temblando!
+{STRVAR_1 1, 0, 0} está mirando la fuente.
+Da la impresión de que {STRVAR_1 1, 0, 0}\nestá contento mirando la fuente.
+{STRVAR_1 1, 0, 0} mira con interés\nla estatua de PERSIAN.
+{STRVAR_1 1, 0, 0} ha visto la estatua de\nPERSIAN y ha gruñido.
+{STRVAR_1 1, 0, 0} está soltando esporas.
+{STRVAR_1 1, 0, 0} olisquea la hierba.
+{STRVAR_1 1, 0, 0} mira fijamente\nhacia la Liga Pokémon.
+Las llamas de {STRVAR_1 1, 0, 0}\nse han vuelto más vivas.
+{STRVAR_1 1, 0, 0} se ha envalentonado y\nestá soltando llamas.
+{STRVAR_1 1, 0, 0} observa\nel maltrecho suelo.
+Parece que {STRVAR_1 1, 0, 0} está muy feliz\nde montar en barco.
+A {STRVAR_1 1, 0, 0} le queda energía\npara rato.
+Parece que {STRVAR_1 1, 0, 0} no tiene\nintención de bajarse del barco.
+{STRVAR_1 1, 0, 0} se muestra contento\nal ver el agua por la ventana.
+{STRVAR_1 1, 0, 0} se ha perdido y mira\na todos lados.
+{STRVAR_1 1, 0, 0} escucha con atención\nlos ruidos a su alrededor.
+{STRVAR_1 1, 0, 0} escruta a su alrededor\ncon la mirada inquieta.
+{STRVAR_1 1, 0, 0} mira a su alrededor\ncon aire distraído.
+{STRVAR_1 1, 0, 0} observa incansablemente\na su alrededor.
+¡A {STRVAR_1 1, 0, 0} le ha sorprendido\nel agua!
+{STRVAR_1 1, 0, 0} está jugando\nen un charco.
+{STRVAR_1 1, 0, 0} se desliza por el agua y\nha estado a punto de caerse.
+{STRVAR_1 1, 0, 0} ha expulsado agua\ncon mucha vehemencia.
+{STRVAR_1 1, 0, 0} mueve sus orejas y\nescucha el sonido del viento.
+{STRVAR_1 1, 0, 0} ha saludado\na todo el mundo.
+A {STRVAR_1 1, 0, 0} le llama la atención\nel sombrero de paja.
+{STRVAR_1 1, 0, 0} ha centrado su mirada\nlarga y fijamente.
+{STRVAR_1 1, 0, 0} está muy tranquilo,\ncon cara de paz.
+{STRVAR_1 1, 0, 0} ha agarrado con fuerza\nel objeto {STRVAR_1 8, 4, 0}.
+{STRVAR_1 1, 0, 0} mira atentamente\nel objeto {STRVAR_1 8, 4, 0} que sujeta.
+{STRVAR_1 1, 0, 0} mira fijamente\nel objeto {STRVAR_1 8, 4, 0} que sujeta.
+{STRVAR_1 1, 0, 0} mira el monitor y\nse carga de energía.
+{STRVAR_1 1, 0, 0} mira a lo alto de los\nárboles con cara de preocupación.
+Parece que a {STRVAR_1 1, 0, 0} le duele\nmucho su quemadura.
+Da la impresión de que {STRVAR_1 1, 0, 0}\nse ha encontrado algo en la montaña.
+Da la impresión de que {STRVAR_1 1, 0, 0}\nse ha encontrado algo en la montaña.
+{STRVAR_1 1, 0, 0} mira la montaña fijamente.
+{STRVAR_1 1, 0, 0} mira la montaña fijamente.
+{STRVAR_1 1, 0, 0} está mirando la montaña\nilusionado.
+{STRVAR_1 1, 0, 0} se siente\nmuy motivado.
+{STRVAR_1 1, 0, 0} se siente\nmás motivado todavía.
+{STRVAR_1 1, 0, 0} vuela por el cielo\ncon elegancia.
+{STRVAR_1 1, 0, 0} observa cómo el cielo\ntorna rojizo.
+{STRVAR_1 1, 0, 0} ha rodado por el suelo.
+{STRVAR_1 1, 0, 0} se ha tropezado y\nha estado a punto de caer.
+A {STRVAR_1 1, 0, 0} le sorprende\nel crujido del suelo.
+{STRVAR_1 1, 0, 0} está olisqueando el suelo.
+{STRVAR_1 1, 0, 0} está olisqueando el suelo.
+{STRVAR_1 1, 0, 0} te observa\ncon detenimiento.
+{STRVAR_1 1, 0, 0} está relajándose\ntranquilamente.
+{STRVAR_1 1, 0, 0} está tambaleándose y\nparece que se va a caer.
+A {STRVAR_1 1, 0, 0} le inquieta el bamboleo\nde esa columna.
+{STRVAR_1 1, 0, 0} baila siguiendo el bamboleo\ndel barco.
+{STRVAR_1 1, 0, 0} contempla el cielo\nnocturno.
+{STRVAR_1 1, 0, 0} está totalmente\nrelajado.
+{STRVAR_1 1, 0, 0} ha bostezado\ncon todas sus fuerzas.
+¡{STRVAR_1 1, 0, 0} se ha pegado\na {STRVAR_1 3, 2, 0}!
+¡{STRVAR_1 1, 0, 0} se ha chocado\ncon {STRVAR_1 3, 2, 0}!
+{STRVAR_1 1, 0, 0} está mirando fijamente\nla cara de {STRVAR_1 3, 2, 0}.
+¡{STRVAR_1 1, 0, 0} está saludando!
+{STRVAR_1 1, 0, 0} te ha dado golpecitos\nen los pies.
+{STRVAR_1 1, 0, 0} observa a su alrededor.
+¡{STRVAR_1 1, 0, 0} ha estado a punto\nde tropezarse!
+¡{STRVAR_1 1, 0, 0} está soltando llamas\nmuy vivas!
+¡{STRVAR_1 1, 0, 0} está a punto de caerse!
+A {STRVAR_1 1, 0, 0} le ha sorprendido\nsu propio reflejo.
+{STRVAR_1 1, 0, 0} está cantando\nmaravillosamente.
+{STRVAR_1 1, 0, 0} se ha puesto colorado\nde alegría.
+{STRVAR_1 1, 0, 0} ha bostezado abriendo\nla boca de par en par.
+{STRVAR_1 1, 0, 0} te está dando golpecitos\nen la tripa.
+{STRVAR_1 1, 0, 0} está mirando la cara de\n{STRVAR_1 3, 2, 0} fijamente.
+¡{STRVAR_1 1, 0, 0} ha saludado\na FARFETCH’D!
+Se diría que a {STRVAR_1 1, 0, 0} la brisa le\nhace sentirse bien.
+{STRVAR_1 1, 0, 0} está mirando el edificio\nmuy agitado.
+{STRVAR_1 1, 0, 0} olisquea la hierba.
+{STRVAR_1 1, 0, 0} está feliz de haberse\nencontrado guijarros en la hierba.
+{STRVAR_1 1, 0, 0} se está refugiando\nen la hierba alta.
+{STRVAR_1 1, 0, 0} está haciendo piruetas\nen la hierba alta.
+{STRVAR_1 1, 0, 0} está cubierto de rocío.
+{STRVAR_1 1, 0, 0} ha estado a punto de\nenredarse en la hierba alta.
+A {STRVAR_1 1, 0, 0} le ha sorprendido\nel ruido de la hierba alta.
+{STRVAR_1 1, 0, 0} está olisqueando\nla hierba alta.
+{STRVAR_1 1, 0, 0} está mirando fijamente\nla hierba alta.
+{STRVAR_1 1, 0, 0} está dando pisotones\nen la hierba alta.
+{STRVAR_1 1, 0, 0} está arrancando\nla hierba.
+{STRVAR_1 1, 0, 0} abre y cierra la boca.
+{STRVAR_1 1, 0, 0} está cerrando la boca\ncon mucha fuerza.
+{STRVAR_1 1, 0, 0} abre y cierra la boca.
+¡{STRVAR_1 1, 0, 0} está saludando\na Rosa, la DJ!
+{STRVAR_1 1, 0, 0} está olisqueando\nla habitación.
+{STRVAR_1 1, 0, 0} te sigue alegremente.
+{STRVAR_1 1, 0, 0} está tiritando de frío.
+{STRVAR_1 1, 0, 0} está mirando hacia abajo.
+Da la impresión de que {STRVAR_1 1, 0, 0}\ntiene un poco de frío.
+{STRVAR_1 1, 0, 0} se ha resbalado y\nha estado a punto de caerse.
+Parece que a {STRVAR_1 1, 0, 0}\nle encanta deslizarse.
+{STRVAR_1 1, 0, 0} mira hacia el exterior\nalborozado.
+{STRVAR_1 1, 0, 0} está mirando el cielo\nfijamente.
+{STRVAR_1 1, 0, 0} eleva la mirada al cielo.
+{STRVAR_1 1, 0, 0} mira fijamente\nen la distancia.
+{STRVAR_1 1, 0, 0} está tiritando\na causa del veneno.
+¡{STRVAR_1 1, 0, 0} está radiante!
+{STRVAR_1 1, 0, 0} ha dado saltos\nmuy grandes.
+{STRVAR_1 1, 0, 0} está notando algo...
+{STRVAR_1 1, 0, 0} ha notado algo raro y\nha soltado un gruñido.
+{STRVAR_1 1, 0, 0} está mirando a la nada.
+Parece que {STRVAR_1 1, 0, 0} será\ncapaz de seguirte.
+{STRVAR_1 1, 0, 0} está luchando\ncontra el cansancio.
+{STRVAR_1 1, 0, 0} está cansado y\nestá dando cabezadas.
+{STRVAR_1 1, 0, 0} tiene cara de sueño.
+{STRVAR_1 1, 0, 0} está bailando\nlleno de energía.
+{STRVAR_1 1, 0, 0} hace volar las hojas\na su alrededor.
+{STRVAR_1 1, 0, 0} menea sus hojas.
+{STRVAR_1 1, 0, 0} está soplando\nlas hojas.
+Da la impresión de que {STRVAR_1 1, 0, 0}\nquiera jugar con MARILL.
+Las llamas de {STRVAR_1 1, 0, 0}\nlucen con intensidad.
+{STRVAR_1 1, 0, 0} ha soltado llamas\nmuy intensas.
+Las llamas de {STRVAR_1 1, 0, 0} están\nchisporroteando.
+Parece que {STRVAR_1 1, 0, 0} quiere\ntocar la máquina.
+A {STRVAR_1 1, 0, 0} le inquieta tu madre.
+{STRVAR_1 1, 0, 0} está chapoteando\nen el charco.
+{STRVAR_1 1, 0, 0} está mirando su reflejo\nen el agua.
+¡{STRVAR_1 1, 0, 0} está saludando\na todo el mundo!
+{STRVAR_1 1, 0, 0} se muestra nervioso\ndelante de todo el mundo.
+{STRVAR_1 1, 0, 0} se siente muy motivado.
+{STRVAR_1 1, 0, 0} está totalmente relajado.
+Da la impresión de que {STRVAR_1 1, 0, 0}\ncree que {STRVAR_1 3, 2, 0} ha desaparecido.
+...\nParece que ha estornudado.
+...\nLos zapatos están un poco sucios.
+...\nTiene un poco de frío.
+...\nEstá poniendo caras raras. Parece que\fse ha comido algo en mal estado.
+...\nAlgo le ha sorprendido.
+...\nAlgo le ha asustado.
+...\nParece que huele algo que le gusta.
+...\nObserva cómo el cielo se torna rojizo.
+...\nEstá observando el vaivén del barco.
+Pero bueno...\n¡Está toqueteando las estanterías!\f¿Quieres llamarle la atención?{YESNO 0}
+Pero bueno...\nQuiere hacer travesuras.\f¿Quieres llamarle la atención?{YESNO 0}
+...\nTe está lanzando una mirada fulminante.
+...\nLas estanterías han estado a punto\fde caer y eso le ha sorprendido.
+...\nLas estanterías están revueltas.
+...\nNo te mira a los ojos.
+No se vuelve hacia ti\na pesar de que lo has llamado.
+Pero bueno... {STRVAR_1 1, 0, 0}\ntiene papel en la boca.\f¿Vas a enfadarte?{YESNO 0}
+Pero bueno... {STRVAR_1 1, 0, 0} está\nmascando un cable eléctrico.\f¿Vas a enfadarte?{YESNO 0}
+Pero bueno... {STRVAR_1 1, 0, 0} está\ntocando unos botones.\f¿Quieres que los deje?{YESNO 0}
+¡Ay! Se ha resbalado\ny ha caído en tus brazos.
+Pero bueno...\nEstá comiéndose algo a hurtadillas.\f¿Quieres llamarle la atención?{YESNO 0}
+Pero bueno...\n¡Se está comiendo algo!\f¿Quieres abrirle la boca?{YESNO 0}
+¡Vaya!\nTu Bolsa se ha ensuciado un poco.
+¡Caramba!\n¡Tiene hojas pegadas!
+Está contento de ver el amanecer.
+Está jugando en la arena.
+Mira contento las huellas\nde {STRVAR_1 3, 2, 0}.
+Mira contento las huellas\nde {STRVAR_1 3, 2, 0}.
+No le gusta nada el suelo mojado.
+Le encanta el suelo mojado.
+Está emocionado con este calor.
+No le gusta mucho este calor.
+¡Cuidado!\n¡Parece que se va a caer!
+¡Cuidado! Parece que el suelo se hunde\ny se puede venir abajo.
+¡Se ha tropezado y va a caerse!
+{STRVAR_1 1, 0, 0} se ha pegado a ti.
+{STRVAR_1 1, 0, 0} ha empezado a girar\ncomo un trompo.
+Parece que está feliz con\neste tiempo tan bueno.
+Snif...\nMmm... ¡Algo que huele bien!
+{STRVAR_1 1, 0, 0} se ha puesto a gruñir\nde repente.
+Se ha sorprendido al dirigirle\nla palabra.
+¡Está saludando a Fresita!
+Está bailando contigo.
+{STRVAR_1 1, 0, 0} se ha enfadado\nde repente.
+Está observando varios objetos.
+{STRVAR_1 1, 0, 0} está contento de cavar\nen el suelo.
+{STRVAR_1 1, 0, 0} ha empezado a pulverizar\nrocas.
+{STRVAR_1 1, 0, 0} se divierte\nhaciendo chocar rocas.
+{STRVAR_1 1, 0, 0} se divierte rodando\npor el suelo.
+{STRVAR_1 1, 0, 0} ha empezado\na allanar el suelo.
+{STRVAR_1 1, 0, 0} está bailando\nde manera muy peculiar.
+{STRVAR_1 1, 0, 0} se mece lentamente y\nbaila de manera peculiar.
+{STRVAR_1 1, 0, 0} está bailando lentamente\ncon curiosos movimientos.
+{STRVAR_1 1, 0, 0} se mece lentamente y\nbaila de manera peculiar.
+Está mirando al mar fijamente.
+Está mascullando algo alegremente.
+Ha bostezado enérgicamente.
+{STRVAR_1 1, 0, 0} ha hecho temblar\nla torre con su vozarrón.
+{STRVAR_1 1, 0, 0} ha rugido con fuerza.
+Parece que el viento está\nsoplando desde lejos.
+Observa el baile entusiasmado.
+Está mirando los souvenirs con interés.
+¡{STRVAR_1 1, 0, 0} está muy inquieto!
+{STRVAR_1 1, 0, 0} está contento de jugar\ncon el objeto {STRVAR_1 8, 4, 0}.
+{STRVAR_1 1, 0, 0} baila haciendo círculos.
+Se está repantingando.
+Parece que está a gusto y a punto\nde echarse a dormir.
+{STRVAR_1 1, 0, 0} ha soltado un potente\ngrito de guerra.
+Está buscando algo con insistencia.
+Está curioseando las estanterías.
+Le llaman la atención las veletas\ndando vueltas.
+Está olisqueando el humo.
+Está olisqueando una flor.
+Está olisqueando el suelo.
+Snif...\n¿Habrá algo extraño cerca?
+{STRVAR_1 1, 0, 0} está oliendo a la chica.
+Snif...\nVaya, parece que algo huele bien.
+Está olisqueando una flor.
+{STRVAR_1 1, 0, 0} saluda con entusiasmo.
+{STRVAR_1 1, 0, 0} saluda con mucha energía.
+Parece que le sorprende el contacto\ncon el hielo.
+{STRVAR_1 1, 0, 0} mira fijamente\nal adversario.
+Mira la pizarra fijamente...\npero parece que no entiende nada.
+{STRVAR_1 1, 0, 0} se entretiene\ncon la basura.
+{STRVAR_1 1, 0, 0} se siente intrigado por lo\nque hay detrás de la valla.
+Parece que a {STRVAR_1 1, 0, 0}\nle encanta el frío.
+{STRVAR_1 1, 0, 0} tiene frío y se pega a ti.
+{STRVAR_1 1, 0, 0} se ha acercado a ti\nporque tiene frío.
+{STRVAR_1 1, 0, 0} está mirando fijamente\nlas estanterías.
+Se siente atraído por lo que hay\nen la habitación de abajo.
+Está completamente inmóvil.
+Está jugando con los tornillos\nde la Bici.
+Da la impresión de que le gusta\nestar mojado.
+Parece que a {STRVAR_1 1, 0, 0} no le gusta\nnada mojarse.
+{STRVAR_1 1, 0, 0} ha hecho temblar\nla torre con su vozarrón.
+{STRVAR_1 1, 0, 0} ha soltado\nun potente rugido.
+{STRVAR_1 1, 0, 0} ha bailado\ncon mucho estilo.
+{STRVAR_1 1, 0, 0} está exultante.
+{STRVAR_1 1, 0, 0} ha bailado con\nsuma elegancia.
+{STRVAR_1 1, 0, 0} ha bailado con todo\nsu empeño.
+Parece que tiene muchas ganas de ver\nqué hay ahí fuera.
+{STRVAR_1 1, 0, 0} pone cara de no estar\nmuy contento.
+A {STRVAR_1 1, 0, 0} le gusta que\nhaga un poco de frío.
+Da la impresión de que {STRVAR_1 1, 0, 0}\nse ha sorprendido un poco.
+Se le cae la baba...
+Se ha tropezado y ha estado a punto\nde caerse.
+Parece que le encanta deslizarse.
+Te está dando golpecitos en la tripa.
+Se está repantingando.
+{STRVAR_1 1, 0, 0} está cavando en el suelo\ncon mucho alboroto.\n
+{STRVAR_1 1, 0, 0} está raspando el suelo\ncon mucha energía.
+{STRVAR_1 1, 0, 0} parece muy contento.
+{STRVAR_1 1, 0, 0} mira fijamente a lo lejos.
+{STRVAR_1 1, 0, 0} se ha puesto a aullar.
+{STRVAR_1 1, 0, 0} está un poco exaltado.
+Parece que está cantando.
+¿Lleva algo a rastras?
+Ha notado algo que le ha puesto\nlos nervios de punta.
+Ha encontrado algo que le ha gustado.
+Está mirando fijamente a la nada.
+Parece que hay algo que no le gusta.
+{STRVAR_1 1, 0, 0} parece estar contento\npor algún motivo.
+{STRVAR_1 1, 0, 0} está muy contento y\nse ha puesto a bailar.
+Se ha enfadado por algo.
+Parece que huele algo que le gusta.
+Parece que escucha un ruido de\ndetrás de la pared.
+De repente ha soplado un viento frío.
+Parece que está pasando mucho calor.
+Parece que {STRVAR_1 1, 0, 0} no tiene\nmucho espacio.
+{STRVAR_1 1, 0, 0} parece un poco\navergonzado.
+{STRVAR_1 1, 0, 0} ha saludado sonriente.
+{STRVAR_1 1, 0, 0} está picoteando el suelo\ncon muchas ganas.
+{STRVAR_1 1, 0, 0} está canturreando algo.
+Tiene pétalos en la cara.
+Tiene unas ganas increíbles\nde ir a la costa.
+{STRVAR_1 1, 0, 0} está gimiendo\ncon cara de enfado.
+{STRVAR_1 1, 0, 0} se ha puesto a bailar\nde repente.
+{STRVAR_1 1, 0, 0} eleva la mirada.
+{STRVAR_1 1, 0, 0} se lo ha pasado muy bien\nbailando.
+{STRVAR_1 1, 0, 0} baila con mucho\nentusiasmo.
+{STRVAR_1 1, 0, 0} está que se sube\npor las paredes.
+{STRVAR_1 1, 0, 0} se ha puesto a bailar\nde repente.
+{STRVAR_1 1, 0, 0} eleva la mirada al cielo.
+Se lo pasa en grande salpicando.
+{STRVAR_1 1, 0, 0} se lo ha pasado muy bien\nbailando.
+{STRVAR_1 1, 0, 0} baila con mucho\nentusiasmo.
+Algo le ha sorprendido y ha mirado\nhacia ti.
+Algo le ha sorprendido y ha pegado\nun bote.
+{STRVAR_1 1, 0, 0} se ha puesto a bailar\nde repente.
+{STRVAR_1 1, 0, 0} eleva la mirada al cielo.
+Parece que se lo está pasando\ngenial saltando de aquí para allá.
+{STRVAR_1 1, 0, 0} se ha estremecido.
+{STRVAR_1 1, 0, 0} está temblando\ncomo un flan.
+Tiene cara de estar muy contento.
+Se ha dado la vuelta, enfurruñado.
+{STRVAR_1 1, 0, 0} está mirando al cielo\nfijamente.
+{STRVAR_1 1, 0, 0} les está mirando a los dos\nfijamente.
+¡Bah!\n¡Solo había basura!
+Hay algo que huele raro...
+{STRVAR_1 1, 0, 0} ha soltado\nun fuerte rugido.
+{STRVAR_1 1, 0, 0} ha hecho temblar\nla torre con su vozarrón.
+{STRVAR_1 1, 0, 0} ha lanzado un grito\nal cielo.
+Le encanta mirar el cielo estrellado.
+No estaba mirando y se ha chocado.
+Parece que sigue sin entenderlo...
+{STRVAR_1 1, 0, 0} baila lentamente con\nunos movimientos poco comunes.
+{STRVAR_1 1, 0, 0} está bailando de forma\npeculiar con movimientos curiosos.
+{STRVAR_1 1, 0, 0} se ha estremecido.
+{STRVAR_1 1, 0, 0} está temblando\ncomo un flan.
+Está mirando a su alrededor y\nno puede parar.
+Mira a todos lados con una mirada\ninquieta.
+{STRVAR_1 1, 0, 0} parece disfrutar\nestando todo mojado.
+A {STRVAR_1 1, 0, 0} no le hace mucha gracia\nel agua.
+Da la impresión de que a {STRVAR_1 1, 0, 0}\nle encanta refrescarse con el agua.
+Se divierte chapoteando\npor todas partes.
+{STRVAR_1 1, 0, 0} ha soltado un grito\nde repente.
+{STRVAR_1 1, 0, 0} se ha caído de bruces.
+{STRVAR_1 1, 0, 0} está rugiéndole al techo.
+{STRVAR_1 1, 0, 0} ha empezado a girar\nsobre sí mismo.
+{STRVAR_1 1, 0, 0} se ha puesto a gritar.
+{STRVAR_1 1, 0, 0} se ha echado a temblar.
+Se le cae la baba mirando\nel objeto {STRVAR_1 8, 4, 0} que sujeta.
+Parece que quiere darle a tu madre\nel objeto {STRVAR_1 8, 4, 0} que sujeta.
+Está mirando fijamente hacia la cima.
+Observa feliz cómo el cielo\nse torna rojizo.
+Está fascinado contemplando\nel cielo nocturno.
+{STRVAR_1 1, 0, 0} ha hecho temblar\nla torre con su vozarrón.
+{STRVAR_1 1, 0, 0} ha soltado\nun rugido tremendo.
+{STRVAR_1 1, 0, 0} se ha puesto a bailar\nde repente.
+{STRVAR_1 1, 0, 0} eleva la mirada al cielo.
+{STRVAR_1 1, 0, 0} está lleno de energía\ny resoplando fuego.
+{STRVAR_1 1, 0, 0} se ha puesto a gruñir.
+¡Aaah! {STRVAR_1 1, 0, 0} te está haciendo\ncarantoñas.
+¡Vaya! {STRVAR_1 1, 0, 0} se ha puesto\nmuy juguetón de repente.
+¡Eh! {STRVAR_1 1, 0, 0} se ha puesto\na bailar de alegría.
+¡Aaah! Se diría que se ha puesto\nmuy contento con esta brisa fresca.
+¡Caramba!\nSe ha pegado a ti de repente.\f¿Quieres acariciarlo?{YESNO 0}
+¡Vaya!\n¡Se ha puesto a salpicar de repente!
+¡Vaya!\n¡Se ha puesto a rugir de repente!
+¿Qué? Parece que ha encontrado\nalgo en la cima de la montaña.
+Se ha sobresaltado un poco.
+¡Está lanzando gritos de alegría!
+...\nParece aburrirse.
+Parece estar triste.
+¡Vaya! Parece que le ha sentado mal\nalgo que ha comido.
+¡Vaya!\n¡Se ha sorprendido un montón!
+...\nLe cuesta moverse...
+¡Está muy contento!
+... \nEstá terriblemente enfadado.
+¡Está radiante!
+¡Ay!\n¡Parece que va a ponerse a llorar!
+Está cabizbajo y pensativo.
+Se está pasando un poco\nde la raya.
+Ha dado un bote de sorpresa.
+Está mirando al infinito\ny se le cae la baba.
+¡Está dando botes de alegría!
+¡Vaya!\n¡Ha temblado!
+¡Vaya!\n¡Te ha frotado la cara!
+¡Ay!\n¡Parece que va a ponerse a llorar!
+Está tan feliz...
+Está en otro planeta.
+{STRVAR_1 3, 2, 0} está contento\nde poder jugar contigo.
+Está mascullando algo porque parece\nque quiere que le hagas más caso.
+Se queda más tranquilo al\nver la cara de {STRVAR_1 3, 2, 0}.
+¡Ay!\n¡Ha estado a punto de caerse!
+¡Ha dado un bote de sorpresa!
+Está mirando al infinito\ny se le cae la baba.
+Está un poco abatido.
+¡Te está mordiendo el zapato\ndel otro pie!
+Da la impresión de que\nse ha sorprendido un poco.
+Sigue pensando que es divertido\ndarte golpecitos.
+Está un poco abatido.
+¡Vaya! Parece que no le ha gustado\nmucho y está escupiéndolo.
+Se ha girado un poco para ver bien.
+¡Te está lamiendo!
+Se ha girado un poco para ver bien.
+¡Vaya! Parece que se ha sorprendido al\nver las estanterías a punto de caerse.
+Ha suspirado y soltado la hoja.
+¡Ay! Parece que se ha atragantado\ncon algo e intenta escupirlo.
+Parece que tiene un poco de vergüenza.
+¡Ay!\nParece que le ha dado un calambre.
+Ha parado, pero le siguen llamando\nla atención esos botones.
+¡Clic!\rPero no ha pasado nada.
+Está completamente ensimismado\ny con la baba colgando.
+¡Ay! Parece que se ha atragantado\ncon algo e intenta escupirlo.
+¡Ha soltado algo de basura\nque tenía en la boca!
+¡Ay! Parece que se ha atragantado\ncon algo e intenta escupirlo.
+Está tan contento que da vueltas\ncomo un trompo.
+Está un poco triste...
+¡Está dando botes de alegría!
+Ha puesto cara de pena y ha soltado\nla basura que tenía en la boca.
+¡Ha soltado un grito de sorpresa!
+¡Está gritando de alegría!
+¡No para de dar botes de alegría!
+Ha soltado un gemido muy fuerte.
+Ha soltado un pequeño grito\nde sorpresa.
+Se ha puesto a bailar de alegría\ncon mucho entusiasmo.
+Se reclina en tu tripa, lleno de alegría.
+Ha respondido con un fuerte grito.
+Está muy contento de que juegues\ncon él.
+¡Ha soltado un grito de sorpresa!
+¡Ha soltado un grito de sorpresa!
+Con cara de enfado está haciendo\nrechinar los dientes.
+Se vuelve y lanza un ligero gemido.
+¡Ha soltado algo de basura\nque tenía en la boca!
+¡Está tan contento que se ha puesto\na dar vueltas!
+{STRVAR_1 1, 0, 0} está bailando\ne imita a las Chicas del Kimono.
+{STRVAR_1 1, 0, 0} se ha unido al baile\nde las Chicas del Kimono.
+{STRVAR_1 1, 0, 0} aprovecha para demostrar\nlo fuerte que es.
+{STRVAR_1 1, 0, 0} se ha acercado a ti y\nbrilla con todas sus fuerzas.
+{STRVAR_1 1, 0, 0} se ha quedado inmóvil\ncompletamente imitando a un árbol.
+{STRVAR_1 1, 0, 0} se ha quedado inmóvil\ncompletamente imitando a un árbol.
+{STRVAR_1 1, 0, 0} se ha puesto a bailar\nmoviendo los dedos.
+Parece que a {STRVAR_1 1, 0, 0} no le gusta\nel ascensor.
+{STRVAR_1 1, 0, 0} se ha movido con energía.
+{STRVAR_1 1, 0, 0} se mueve de lado.
+{STRVAR_1 1, 0, 0} está resoplando\nde entusiasmo.
+A {STRVAR_1 1, 0, 0} se le ve contento\ny se contonea suavemente.
+{STRVAR_1 1, 0, 0} se ha puesto a lloriquear.
+{STRVAR_1 1, 0, 0} está brincando\ncon mucho brío.
+{STRVAR_1 1, 0, 0} está rebuscando\nen la basura.
+Da la impresión de que {STRVAR_1 1, 0, 0}\nestá un poco triste.
+{STRVAR_1 1, 0, 0} tiembla de miedo.
+{STRVAR_1 1, 0, 0} está quieto, sin mirar a\nnada, como si estuviera meditando.
+{STRVAR_1 1, 0, 0} está dando\nbotes de alegría.
+Parece que {STRVAR_1 1, 0, 0} tiene ganas\nde jugar con otros Pokémon.
+{STRVAR_1 1, 0, 0} está balanceando\nsu tripa.
+Parece que {STRVAR_1 1, 0, 0}\nha murmurado algo.
+{STRVAR_1 1, 0, 0} ha abierto la boca de par\nen par y ha soltado un rugido.
+¡{STRVAR_1 1, 0, 0} ha sacado sus garras y\nha soltado un inmenso rugido!
+{STRVAR_1 1, 0, 0} ha movido todo su cuerpo\ny ha soltado un fuerte rugido.
+{STRVAR_1 1, 0, 0} ha mirado hacia el cielo y\nha gritado con toda su fuerza.
+{STRVAR_1 1, 0, 0} ha soltado un grito\nde guerra que le ha hecho temblar.
+{STRVAR_1 1, 0, 0} se ha enderezado y\nha soltado un temible rugido.
+{STRVAR_1 1, 0, 0} está revoloteando\nalegremente.
+{STRVAR_1 1, 0, 0}, lleno de alegría,\nse ha puesto a dar botes.
+{STRVAR_1 1, 0, 0} está mirando totalmente\ninmóvil la cara de {STRVAR_1 3, 2, 0}.
+{STRVAR_1 1, 0, 0} olisquea a {STRVAR_1 3, 2, 0}.
+{STRVAR_1 1, 0, 0}, sonriente, se ha girado.
+Parece que {STRVAR_1 1, 0, 0} aún no\nse ha acostumbrado a su nombre.
+{STRVAR_1 1, 0, 0} ha soltado esporas.
+{STRVAR_1 1, 0, 0} se ha encaramado\nal árbol.
+Pero bueno...\nLa apariencia de {STRVAR_1 1, 0, 0}...\f¡no ha cambiado!
+{STRVAR_1 1, 0, 0} ha estirado sus lianas y\nse ha envuelto con ellas.\f¡Parece que le divierte!
+¡{STRVAR_1 1, 0, 0} baila mejor incluso\nque las Chicas del Kimono!
+Parece que hay un olor que le\ntrae buenos recuerdos.
+{STRVAR_1 1, 0, 0} está completamente\nrelajado.
+{STRVAR_1 1, 0, 0} escudriña con interés\nel Laboratorio.
+Le intriga el funcionamiento\nde la máquina.
+{STRVAR_1 1, 0, 0} se siente\nmuy motivado.
+{STRVAR_1 1, 0, 0} se siente con muchísima\nenergía.
+{STRVAR_1 1, 0, 0} parece intrigado\npor el contenido de la Caja.
+{STRVAR_1 1, 0, 0} está mirando la piedra\ncon mucho interés.
+{STRVAR_1 1, 0, 0} está corriendo a lo largo\nde la piscina.
+¿Para qué estará calentando?
+{STRVAR_1 1, 0, 0} ha saludado a\nSLOWBRO.
+{STRVAR_1 1, 0, 0} ha saludado a\nBAYLEEF.
+{STRVAR_1 1, 0, 0} está inmóvil\ncontemplando el mar.
+Parece que {STRVAR_1 1, 0, 0} se quiere\nsubir al barco.
+Da la impresión de que a {STRVAR_1 1, 0, 0}\nle gustaría montarse en el tren.
+{STRVAR_1 1, 0, 0} está mirando el techo.
+A {STRVAR_1 1, 0, 0} le ha sorprendido\nel crujido del suelo.
+¡{STRVAR_1 1, 0, 0} está imitando\na {STRVAR_1 3, 2, 0}!
+...\r...\r...\r{STRVAR_1 1, 0, 0} se balancea en silencio.
+{STRVAR_1 1, 0, 0} está contento de\npoder ducharse.
+Parece que a {STRVAR_1 1, 0, 0} no le agrada\nmucho la idea de ducharse.
+A {STRVAR_1 1, 0, 0} se le cae la baba...
+{STRVAR_1 1, 0, 0} ha tragado con fuerza.
+{STRVAR_1 1, 0, 0} se siente agobiado\npor la falta de espacio.
+Parece que {STRVAR_1 1, 0, 0}\nse ha chocado con algo.\n
+Parece que {STRVAR_1 1, 0, 0} quiere jugar\ncon AIPOM.
+{STRVAR_1 1, 0, 0} está haciendo rodar\nunas piedras.
+{STRVAR_1 1, 0, 0} ha tragado con fuerza.
+{STRVAR_1 1, 0, 0} ha asentido moviendo\nla cabeza lentamente.
+{STRVAR_1 1, 0, 0} se está preparando.
+{STRVAR_1 1, 0, 0} se está concentrando.
+{STRVAR_1 1, 0, 0} ha lanzado de repente\nun grito de guerra.

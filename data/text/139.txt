@@ -1,0 +1,53 @@
+¡Pokéatleta chiquilín,\nhola, holitas!\r...\rNo te veo buena cara.\nOtra vez... ¡Hooolaaaa!\r¡Ahora sí!\nMe llamo Pólux.\rSoy presentador de Pokéathlon.\n¡Suerte!\rAh, y si no comprendes algo\nrelacionado con el Pokéathlon, dímelo.\fTe contaré todo lo que sé de pe a pa.\r
+Pólux: ¡Hooolaaa!\rSi no comprendes algo relacionado\ncon el Pokéathlon, dímelo.\fTe contaré todo lo que sé de pe a pa.\r
+¿Quieres que te explique algo?{YESNO 0}
+Dime, ¿qué disciplina de qué prueba\nte interesa?{YESNO 0}
+¿Sobre qué disciplina\nnecesitas información?{YESNO 0}
+Muy bien, te voy a dar una lección\nsobre el Pokéathlon.\rEl Pokéathlon es la amistad entre\nPokémon y humanos en estado puro.\r¿Eh? ¿No te basta con eso?\nEntonces entremos en detalles.\rTienes que formar un equipo\nde tres Pokémon para participar\fen diez tipos de disciplinas.\r¡Supera obstáculos! La amistad\ncon tus Pokémon estará a prueba\fen todo momento.\rAhí es cuando se pone de manifiesto\nla verdadera amistad, ¿entendido?\f¿Algo más?\r
+Muy bien, te voy a explicar\nla disciplina de Saltaobstáculos.\rEl Pokémon más rápido gana la carrera.\rCuando tu Pokémon se acerque\na una valla, hazlo saltar.\rSi lo haces en el momento justo,\nla superará sin problemas.\rLa puntuación depende de los tiempos\ncombinados de tus tres Pokémon.\rNecesitas Pokémon veloces\npara esta prueba. ¿Entendido?\f¿Algo más?\r
+Muy bien, te voy a explicar\nla disciplina de Atrapabanderas.\rTienes que conseguir antes que nadie\nlas banderas que hay desperdigadas\fpor la playa. Pero eso no basta,\ftienes que llevarlas hasta la meta,\fsi no, no consigues ni un mísero punto.\rNecesitas Pokémon veloces\ny con precisión, ¿entendido?\f¿Algo más?\r
+Muy bien, te voy a explicar\nla disciplina de Pisacírculos.\rAquí tienes que empujar a tus rivales.\rSi te mantienes dentro de los círculos\ndel ring, conseguirás puntos.\rLos puntos que obtienes dependen del\ntotal combinado de tus tres Pokémon.\rNecesitas Pokémon duros y con gran\nfortaleza, ¿entendido?\f¿Algo más?\r
+Muy bien, te voy a explicar\nla disciplina de Rompelosas.\rComo el propio nombre indica,\ntienes que romper losas sin parar.\rEl número total de losas rotas\nserá tu puntuación.\rHasta un niño de párvulos\nlo entendería.\rNecesitas Pokémon con gran fortaleza\npara esta prueba, ¿entendido?\f¿Algo más?\r
+Muy bien, te voy a explicar\nla disciplina de Atrapadiscos.\rTienes que saltar para cazar\nlos discos que salen volando.\rObtienes más puntos si los consigues\ndesde la parte inferior de la pantalla.\rLa suma de puntos de todos los discos\nque atrapes será la puntuación final.\rNecesitas Pokémon con una buena\npotencia de salto y fortaleza,\f¿entendido?\f¿Algo más?\r
+Muy bien, te voy a explicar\nla disciplina de Botaluces.\rTienes que saltar sobre una cama\nelástica y tocar muchas luces.\rCada vez que toques una luz,\nconseguirás puntos.\rNecesitas Pokémon con potencia\nde salto, ¿entendido?\f¿Algo más?\r
+Muy bien, te voy a explicar\nla disciplina de Carrera de Relevos.\rAquí tres Pokémon tienen que turnarse\npara correr durante 90 segundos\fa ver quién recorre más distancia,\flo que determinará la puntuación final.\rNecesitas Pokémon veloces\ncomo gacelas, ¿entendido?\f¿Algo más?\r
+Muy bien, te voy a explicar\nla disciplina de Fuera del Ring.\rTienes que sacar tus Pokémon\nrivales del ring.\rPor cada placaje, un punto, si saltas\ny pisoteas a tu rival, dos puntos y\fsi lo tiras, bonificación de diez puntos.\rNecesitas Pokémon duros de pelar,\n¿entendido?\f¿Algo más?\r
+Muy bien, te voy a explicar\nla disciplina de Nieve Cruzada.\rEste nombre te puede confundir pero...\n¡es una batalla de bolas de nieve!\rRecibes tantos puntos como bolas\nconsigas que impacten en tus rivales.\rNecesitas Pokémon con gran fortaleza\ny precisión, ¿entendido?\f¿Algo más?\r
+Muy bien, te voy a explicar\nla disciplina de Metegoles.\rComo el propio nombre indica,\nhay que meter la pelota en la portería.\rDa igual donde la metas siempre que sea\nen una portería rival. Un punto por gol.\fSi la pelota es dorada, son dos puntos.\rEl puesto depende del número total de\ngoles del equipo y según el puesto final,\fsaldrá el resultado final.\rNecesitas Pokémon con gran fortaleza\ny precisión, ¿entendido?\f¿Algo más?\r
+¡Pokéatleta!\rAntes de empezar, no olvides algo\nesencial: ¡El calentamiento!
+¿Yo?\n¿Tú también quieres hablar sobre mí?\r¡Ja, ja, ja! ¡Que no te dé vergüenza!\nPues...\r...\n...\f¡Tengo un hermano gemelo!\rYo soy el más pequeño, así que\nmi hermano es el mayor.\r¿Te enteras de lo que te digo? ¿No?\n¿Algo más?\r
+RATTATA: Tatatatatata
+RATTATA: ¿Tata? Taaaa
+MACHOP: Chop, chop
+MACHOP: ¡Chooop!
+BUTTERFREE: But, but, but, ¡free!
+BUTTERFREE: Butter... free... ¡Butter!
+El ganador de las pruebas de Pokéathlon\nlo decide la puntuación final.\r¡No bajes la guardia, en cualquier\nmomento tus rivales pueden\fdarle la vuelta a la tortilla!
+{STRVAR_1 3, 0, 0}, te mueves\ncon más gracia que nadie.\f¡No puedo quitarte los ojos de encima!\r...\n¿Eres de verdad?
+Antes de las pruebas,\n¿una Bongurchata?\r¡Así podrás mejorar\nel Rendimiento de tus Pokémon!
+Antes de las pruebas,\n¿una Bongurchata?\r{STRVAR_1 3, 0, 0},\n¿qué bebida usas normalmente?\rQuiero saberlo para comprar\nexactamente la misma que tú.\r¡Es que soy fan tuyo!
+¡Me he propuesto ganar\nen todas las pruebas con MAGIKARP!
+¡{STRVAR_1 3, 0, 0}!\rYo... Yo... quiero ganar en todas\nlas pruebas con MAGIKARP.\r¿Cómo lo puedo hacer? No sé...\n¿Lo conseguiré?
+¡Voy a conseguir un nuevo récord\nen Saltaobstáculos! ¡Seguro!\rPero no sé qué Pokémon es\nel mejor para conseguirlo...
+¡Guau, qué sorpresa!\nPero si es {STRVAR_1 3, 0, 0}.\rHuy, no sé con qué Pokémon\nenfrentarme a ti...\r¡Es que eres el Pokéatleta\npor antonomasia!
+¡Guau! Ahí está Sansón,\nel dueño del Pokéathlon.\rDicen que hace tiempo ganó a MACHAMP\nen un pulso, pero no me lo creo.
+¡Guau! ¡{STRVAR_1 3, 0, 0}!\n¡Soy fan tuyo! ¡Qué emoción!\r¡Me va a dar un jamacuco!\n¡Un autógrafo, por favor!
+¡Guau!
+¡Uaaah! ¡Es {STRVAR_1 3, 0, 0}!\nAl mirarte, me siento rejuvenecer.\r¡Vaya aura! ¡Nunca dejaré de animarte!
+¡Madre míaaaa!
+¡Oh! ¡Es {STRVAR_1 3, 0, 0} en persona!\nAl natural es idéntico a mi hijo.\r¡Desde hoy soy fan suya!
+¡Oh!\n¡Es ni más ni menos que {STRVAR_1 3, 0, 0}!\rAl natural es idéntica a mi hija.\n¡Desde hoy soy fan suya!
+¡Mi noviete es Pokéatleta!\nLo que pasa es que es muy tímido.\rPor eso siempre voy a sus combates\nsin que lo sepa.\n
+¡Mi novio hace deporte con sus Pokémon!\n¿A que es molón?\rPero no te llega ni a la suela\ndel zapato, {STRVAR_1 3, 0, 0}.
+El Pokéathlon es lo mejor\npara deshacerse del estrés.
+¡Qué va! ¡Cuando tu madre\nse pone seria es impresionante!\rTenías que verla en la temporada de\nrebajas comprando. Daba miedo mirarla.\r
+Quiero que mi hijo me admire. Ya sabes,\ntodos los padres piensan igual.\rPor eso voy a empezar a participar\nen competiciones de Pokéathlon.\rMi hijo verá de lo que soy capaz.
+Hijo mío, dime algo.\n¿No quieres ser como tu padre?\r
+Mi mamá ha salido de casa. Normalmente\nno sale. Espero que no le pase nada.\r
+Cuando sea mayor, quiero ser\ntan fuerte como tú, {STRVAR_1 3, 0, 0}.\r
+¡Estoy animando\na mi Entrenador favorito!
+¡Je, je, je! ¡Es {STRVAR_1 3, 0, 0}!\r¡Es {STRVAR_1 3, 0, 0} de verdad!\n¡De carne y hueso, y lo he visto!
+¡Estoy viendo los combates!
+¡Aaaaah! ¡Es {STRVAR_1 3, 0, 0}!\n¡Lo he tocado! ¡Lo he tocadooooo!
+Aquí hay hasta mujeres entradas\nen edad como yo, je, je.\rMe estoy pensando participar...\nEs que Jet me vuelve loquita.\rQuiero acercarme a él.\n¡Ojalá pudiera! ¡Ja, ja!\n
+¡Cáspita! ¡Es {STRVAR_1 3, 0, 0}!\rCuando estás en la pista, mis niñas\nno pueden apartar la mirada.\r¿Te importaría darme un autógrafo?\nNo es para mí, ¿eh?\r¡Es para mis hijas!

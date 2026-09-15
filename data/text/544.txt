@@ -1,0 +1,4 @@
+¡Hola, {STRVAR_1 3, 0, 0}!\rMi marido siempre está muy ocupado.\nEspero que esté bien.\rCuando se embebe en la investigación\nde Pokémon, se olvida hasta de comer.
+¡Hola, {STRVAR_1 3, 0, 0}!\rMi marido siempre está muy ocupado.\nEspero que esté bien.\rCuando se embebe en la investigación\nde Pokémon, se olvida hasta de comer.
+¡Cuando sea mayor, ayudaré a mi padre!\n¡Voy a ser un gran profesor Pokémon!
+“Pokémon... ¿De dónde vienen?\r¿Adónde van?\r¿Por qué nadie ha visto\nun Pokémon nacer?\r¿Y qué influencia tienen sobre ellos\nlas personas con las que se relacionan?\r¡Quiero saberlo!\r¡Dedicaré mi vida\nal estudio de los Pokémon!\r...”\rEs parte de los papeles de la\ninvestigación del Profesor Elm.

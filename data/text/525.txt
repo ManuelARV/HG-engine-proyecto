@@ -1,0 +1,3 @@
+Soy Bruno, del Alto Mando.\rMe entreno siempre al máximo\nporque confío en nuestro potencial.\fPor eso somos tan fuertes.\r¿Acaso crees que tienes\nalguna posibilidad?\rNo parece que tengas miedo.\rPor tu cara diría que estás deseando\nempezar el combate. ¡Perfecto!\r¡Prepárate, {STRVAR_1 3, 0, 0}!\r¡Te doblegarás ante nuestro\ninmenso poder!\r¡Kyaaaaa!\r
+Como he perdido,\nno tengo derecho a decir nada...\f¡Enfréntate al siguiente desafío!\r
+Como he perdido,\nno tengo derecho a decir nada...\f¡Enfréntate al siguiente desafío!

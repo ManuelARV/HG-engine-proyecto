@@ -1,0 +1,5 @@
+Verás...\nEstoy buscando un Pokémon.\r¿Si tuvieras un KRABBY, me lo\ncambiarías por mi VOLTORB?{YESNO 0}
+¡Genial! ¡Gracias!\nPor fin conseguí un KRABBY.
+¿No tienes un KRABBY?\n¡Qué lástima!
+¿Tú tampoco tienes uno?\n¡Pues vaya! ¡Qué decepción...!
+¡Hola!\r¡El KRABBY que me cambiaste\nestá fenomenal!

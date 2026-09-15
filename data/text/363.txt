@@ -1,0 +1,20 @@
+Misty: ¡Jooo! ¿Por qué has tenido que\nvenir a molestarnos?\r¿Sabes cómo se llama la gente como tú?\n¿No? Pues te lo voy a decir:\f¡Aguafiestas!\r...\r¿Eh?...\nEsas Medallas...\r¿Son Medallas de Gimnasio de Johto?\nSi tienes ocho, no eres moco de pavo.\rEntonces, vale.\nVen al Gimnasio de Celeste.\rSoy Misty, la Líder del Gimnasio\nde Ciudad Celeste.\r
+Misty: ¡Me encanta contemplar\nla puesta de sol desde aquí!\r¡Me da ánimos para esforzarme más\nal día siguiente!\r¿Intercambiamos nuestros números\nde teléfono? {YESNO 0}
+¡{STRVAR_1 3, 0, 0} ha registrado a Misty\nen el Pokégear!
+Misty: Si quieres que volvamos a\ncombatir, llámame el miércoles\fpor la mañana.
+Misty: Vaya, qué pena.
+Misty: ¿Quieres mi número de\nteléfono? {YESNO 0}
+Misty: ¡Anda, qué Pokémon de tipo\nAgua que tienes!\r¿Podemos hacernos una foto\njuntos? {YESNO 0}
+Misty: ¡Muy bien!\nVenga, quiero ver una buena sonrisa.\r
+Misty: Una foto muy buena, sí señor.\n¡Claro, habiendo Pokémon de tipo Agua!
+Misty: Bueno, pues nada...
+Tu Álbum de Fotos está lleno.\rUsa el PC para hacer un poco\nde sitio en tu Álbum.
+Has tenido que luchar una vez más,\npero has ganado.\rComo te mereces, el premio es tuyo.\r
+                    
+¿Sabes..?\rDespués de verte luchar,\nme gustaría saber cómo me iría a mí.\rDéjame luchar contra ti.\r
+¡Ha sido un combate fabuloso!\r¡Tú y tu equipo Pokémon sois\nfuertes de verdad!
+Casa del mar\nCasa de Bill
+Eusine: Ja, ja...\nEstaba claro que no estoy a tu nivel.\r...\nEstá bien. No te preocupes.\rEn cuanto nos vimos por primera vez\nen la Torre Quemada de Ciudad Iris,\flo supe.\rSabía que SUICUNE te elegiría a ti.\r
+Eusine: ¡Mira!\n¡SUICUNE te está esperando!\rQuiere enfrentarse a alguien con\nquien pueda medir sus fuerzas\fde igual a igual.
+Eusine: {STRVAR_1 3, 0, 0}...\nHa sido admirable...\rTodo un privilegio presenciar\neste combate...\r¡Adiós, SUICUNE!\n¡Adiós... {STRVAR_1 3, 0, 0}!\r
+Eusine: {STRVAR_1 3, 0, 0}...\nNo te avergüences.\rNo voy a reprocharte\nque hayas huido de él.\rEso demuestra que SUICUNE es un\nPokémon increíblemente fuerte.\rPero ahora se ha marchado y\nestamos igual que al comienzo...\r

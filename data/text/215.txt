@@ -1,0 +1,49 @@
+FIN
+¿Está listo tu Pokémon?
+¿Quieres guardar este diseño?
+No queda espacio.
+  
+   
+       
+       
+       
+       
+      
+       
+        
+      
+     
+       
+        
+        
+       
+                                                                                                                         
+                                                     
+                                                   
+                                                    
+                                                    
+                                                     
+                                                                                      
+                                                                          
+                                                                                     
+                                                                                                              
+                         
+                         
+                         
+                        
+                         
+                          
+                        
+                       
+                         
+                          
+                          
+                         
+                                                                            
+                                                                             
+           
+             
+{STRVAR_1 28, 0, 0}
+Conectando. Por favor, espera...
+Puedes ver los Accesorios en la\nparte izquierda de la pantalla táctil.\rToca un Accesorio, arrástralo a tu\nPokémon y asegúrate de que esté\fbien colocado.\rPuedes usar diez Accesorios, así\nque busca los más adecuados\fusando los botones de flechas.\rCambia el Fondo con el botón derecho\ndel recuadro situado en el centro.\r¿Entendido? Ahora... ¡a vestirse!
+

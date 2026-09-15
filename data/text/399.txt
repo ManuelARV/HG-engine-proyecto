@@ -1,0 +1,10 @@
+Ruta 42\nAl este, Pueblo Caoba
+Monte Mortero\nCueva Cascada en el interior
+Monte Mortero\nCueva Cascada en el interior
+Ruta 42\nAl oeste, Ciudad Iris
+{SIZE 0}¡BUM!{SIZE 0}\r
+¡Caramba! ¡Qué desastre!\r¡Me he llevado a alguien por delante\npor ir disparado!\r¿Te has hecho daño?\nVoy a darte esto como muestra\fde disculpa. No llores, ¿eh?\r
+Es Fuerza.\rEl Pokémon que sepa este movimiento\npodrá mover las rocas que te estorben\fen tu camino.\rSuena bien, ¿no?\rCon eso te ahorrarás muchos problemas\ncuando quieras subir montañas.\r
+Eusine: SUICUNE...\nQué nobleza...\fQué viveza...\fQué belleza...\f¡Qué presteza!\r
+¡{STRVAR_1 3, 0, 0}!\nSiempre te encuentro en los lugares\fdonde aparece SUICUNE.\rEn cualquier caso, tu deseo\nde encontrar a SUICUNE nunca será\fmayor que el mío.\rMi abuelo conoce muchas leyendas\nal pie de la letra.\rY yo he escuchado la de SUICUNE\nmontones de veces desde que era niño.\r
+SUICUNE...\r¿Hacia dónde te diriges?...\nTe perseguiré hasta que lo averigüe.\r¡Tenlo presente!\r

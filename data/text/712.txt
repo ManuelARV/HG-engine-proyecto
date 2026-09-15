@@ -1,0 +1,12 @@
+Joserra
+¿La gente joven ya no pesca?\rSi quieres, te puedo enseñar\nlas maravillas de la pesca.\f¿Quieres mi número de teléfono?{YESNO 0}
+¡Así se habla!\rEsto me llena de alegría.\nMe encanta tener amigos jóvenes.
+Oh... Ni siquiera mis propios\nhijos me dan sus números.\rVaya con los jóvenes de hoy en día...
+Así que quieres mi teléfono porque\nte interesa ser amigo mío, ¿no?{YESNO 0}
+Si estás cerca, ven a hablar conmigo.
+He estado pasando más tiempo\ncon mi {STRVAR_1 0, 10, 0} que con mis niños.\fEn realidad es un poco triste.\r¡Tú también llama a veces a tu mamá!
+Acabo de derrotar a un {STRVAR_1 0, 11, 0}\nsalvaje.\rSe lo he dicho a mi niño, pero se burló\nde mí diciendo que él hubiera hecho lo\fmismo, pero más rápido y con más estilo.\rSe ha vuelto un poco gallito...\n¡Tú también llama a veces a tu mamá!
+Ayer, cuando estaba con mi hijo,\nhuyó de mí un {STRVAR_1 0, 11, 0} salvaje.\rMe sentí un poco triste hasta que\ncompartió sus Poké Balls conmigo.\r¡Ja, ja! ¡Eso me alegró el día!\n¡Tú también llama a veces a tu mamá!
+¿Qué te parece luchar conmigo?\rYa ha pasado tiempo desde la última vez.\n¿Qué me dices? Para ser tan joven,\feres bastante agradable.\r¡{STRVAR_1 4, 3, 0} es el lugar!
+¿Dónde estás? Tenemos que luchar.\rEstoy esperando a que aparezcas por\n{STRVAR_1 4, 3, 0}.\r¡Deberías respetar más a los mayores!
+¿Cómo te va?\n¡A mí, magnífico!\f¿En qué sentido?\r¿Con los Pokémon?\n¿Con la pesca?\rPues para qué te voy a mentir,\n¡con los dos!

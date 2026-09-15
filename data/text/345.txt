@@ -1,0 +1,20 @@
+Entró un ladrón en\nla Central Energía...\r¿Adónde vamos a ir a parar?
+Tengo noticias de Ciudad Celeste.\rParece que ha estado merodeando\npor allí un hombre muy sospechoso.\r
+¿Puedo pedirte ayuda?\rAl parecer, un hombre muy sospechoso\nha estado merodeando por el Gimnasio\fde Ciudad Celeste...\r
+¿Puedo pedirte ayuda?\rAl parecer, un hombre muy sospechoso\nha estado merodeando por el Gimnasio\fde Ciudad Celeste...
+¡Alguien ha robado un componente\ndel generador!\r¡Y sin ese componente no hay manera\nde hacerlo funcionar!
+Esta Central Energía estaba\nabandonada desde hacía tiempo.\rVolvimos a ponerla en funcionamiento\npara suministrar energía\fal Magnetotrén.
+El Director es ese de ahí.\rAhora está bastante alterado porque\nhan robado un componente\fdel generador.\rTan pronto se enfurece o se deprime\nprofundamente, como se\fecha a reír desesperado.
+El Magnetotrén consume\nmucha electricidad.\rSi el generador no funciona,\nel Magnetotrén tampoco.
+Colecciono Pokémon.\n¿Tienes un DUGTRIO?\rSi quieres, te lo cambio\npor mi MAGNETON. {YESNO 0}
+¡Qué bien!\n¡Ya tengo un DUGTRIO!\r¡Gracias!
+¿Eh?...\n¿No tienes un DUGTRIO?\fJo, qué lástima...
+¿No quieres cambiarlo?\nJo, qué chasco...
+¡Hola!\n¿Cómo está el MAGNETON\fque te he dado?
+Director: ¡Esto no quedará así!\r¡¿Cómo se atreven a robar un\ncomponente del generador?!\r¡Después de lo que me ha costado\nvolver a ponerlo a punto!\r¡Como pille al culpable le va a caer\nun Rayo Carga que se va a enterar!
+Director: ¿Eh? ¡Oooh!\r¿Eso que traes es el componente\ndel generador?\r¡El que me robaron y buscaba\ndesesperadamente!\r¿Lo has encontrado tú?\n¡Muchas gracias!\r¡Lo colocaré en su sitio\nen un periquete!\r
+Director: ¡Oooh!\r¡Ya funciona!\n¡Qué bien!\r
+Director: ¡Muchas gracias!\n¡Acepta esta Máquina Técnica\fcomo agradecimiento!\r
+Director: ¡La MT57 es Rayo Carga,\nun ataque fulminante!\rAdemás de soltar una fuerte descarga,\npuede llegar a subir tu Ataque Especial.
+Normas para los empleados:\r1 La electricidad no es infinita.\n2 Ahorrar energía cuando sea posible.\f3 Hablar con los demás.\f4 Evitar las negligencias.\f5 Llevar zapatos con suelas de goma.\f6 El Director es una gran persona.
+Hay que usar la electricidad sabiamente\npara garantizar una vida próspera.\rCentral Energía de Kanto

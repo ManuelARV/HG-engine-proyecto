@@ -1,0 +1,19 @@
+¡Es un árbol muy raro!\n¿Quieres usar la Regadera?{YESNO 0}
+¡{STRVAR_1 3, 0, 0} ha utilizado la Regadera!\r
+Al árbol raro no le ha gustado\nla Regadera.\r¡Se dispone a atacar!\r
+¡Hola!\r¿No puedes avanzar por culpa\nde las rocas que hay en el camino?\rEn ese caso voy a darte esta\nMáquina Oculta.\r
+¿Tú eres quien ha retirado ese\nárbol tan raro del camino?\rTal como pensaba.\n¡Toma esto!\r
+Contiene el efectivo Golpe Roca.\rSi tienes la Medalla del Gimnasio\nde Ciudad Malva, podrás destruir\flas rocas resquebrajadas que\fencuentres por ahí.\r¡Pero ten algo presente!\rSi le enseñas este movimiento a un\nPokémon, no podrá olvidarlo fácilmente.\r¡Así que piensa bien a qué Pokémon\nse lo vas a enseñar!
+¡Tu Bolsa está llena!
+No puedo ir a Ciudad Trigal porque\nun extraño árbol bloquea el camino.\fAlguien debería hacer algo al respecto.
+El árbol que bloqueaba el camino\nha desaparecido sin dejar rastro.\r¿Qué? ¿Era un Pokémon?\nBueno, el caso es que ahora\fse puede llegar a Ciudad Iris\fen un periquete.\rSe llega yendo hacia el norte\ndesde donde estaba el árbol.
+Ruta 36\nAl norte, Ciudad Iris
+Ruinas Alfa\nEntrada norte
+Pistas para Entrenadores:\rPokémon de la misma especie\npueden tener distinta fuerza.\rAl principio suelen tener la misma,\npero eso varía dependiendo de\fcómo se han criado.
+Pistas para Entrenadores:\rEl movimiento Excavar permite\nllegar a la entrada de un lugar\fen un instante.\rEs muy práctico enseñarle ese\nmovimiento a un Pokémon cuando\fvas a explorar una cueva.
+Soy Flora, la florista.\r¿Sabes qué?\nHe regado ese árbol que se movía,\f¡y se ha asustado tanto que\fha pegado un bote!\f¡Seguro que es un Pokémon!\rCreo que si lo regamos más,\nse levantará y mostrará\fsu verdadero aspecto.
+Soy Flora, la florista.\r¿Sabes qué?\nHe regado ese árbol que se movía,\f¡y se ha asustado tanto\fque ha pegado un bote!\f¡Seguro que es un Pokémon!\rCreo que si lo regamos más...\n¡Ah, una Regadera!\r¡Venga, tengo ganas de ver qué pasa\ncuando riegues el árbol que se mueve!\n
+¡Guau! ¡Qué bien me lo he pasado!\rQuiero darte un regalo por hacerme\npasar este buen rato.\r
+Con un Plantabayas puedes cultivar\nBayas de cualquier sitio\fsin preocuparte.\r
+¡Ah, claro!\n¡También debería darte unas Bayas!\rSi no, el Plantabayas no iba a servirte\nde mucho.\r
+Planta las Bayas en la tierra,\nriégalas de vez en cuando y\fverás cómo crecen.\rBueno, yo tengo que volver\na Ciudad Trigal.\r¿Tú te vas a Ciudad Iris?\nEntonces debes ir hacia el norte.\r¡Ya nos veremos!\r

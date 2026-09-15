@@ -1,0 +1,46 @@
+¡Bienvenidos a la Torre Radio\nde Ciudad Trigal!
+¡Bienvenidos a la Torre Radio\nde Ciudad Trigal!\rEso es lo que me gustaría poder decir,\npero en estos momentos\fno se admiten visitas.
+Como hemos dicho, ahora mismo\nno se admiten visitas. Cuando abramos\fal público, se lo haremos saber.
+¡Estamos de promoción!\r¡Si respondes correctamente a cinco\npreguntas, te obsequiaremos\fcon una Tarjeta Radio!\rIntrodúcela en tu Pokégear para\nescuchar la radio siempre que quieras.\r¿Te gustaría participar? {YESNO 0}
+¡Ahí va la primera pregunta!\r¿Se puede consultar el Mapa\nen el Pokégear? {YESNO 0}
+¡Correcto!\nSegunda pregunta:\r¿Es cierto que los Pokémon\nNIDORINA son todos hembras? {YESNO 0}
+¡Correcto!\nTercera pregunta:\r¿Es cierto que César utiliza\nBongore para hacer las Poké Balls? {YESNO 0}
+¡Otro acierto!\nCuarta pregunta:\r¿Es cierto que no se puede usar\nuna MT con MAGIKARP? {YESNO 0}
+¡Impresionante!\nHemos llegado a la última pregunta.\r¿Es Rosi la compañera de Oak\nen La hora Pokémon? {YESNO 0}
+Has acertado todas las preguntas.\n¡Enhorabuena!\fEste es tu premio: ¡la Tarjeta Radio!\r
+¡Ahora se puede escuchar la radio\nen el Pokégear de {STRVAR_1 3, 0, 0}!
+¡Esperamos que disfrutes \nescuchando nuestros programas!
+Lo siento mucho, pero \nte has equivocado.\fVuelve a intentarlo en otra ocasión.
+Como quieras. Ven a probar suerte\nsi cambias de idea.
+Blanca: ¡Hola! ¡Soy Blanca!\r¿Has oído lo del concurso para obtener\nuna Tarjeta Radio? ¡Yo he venido\fporque quiero una!\rPero es que las preguntas...\n¡son superdifíciles!\r
+Blanca: ¡Guau! ¡Eres la caña!\n¡Yo estaba convencida de que\fla tercera era Bongore!\r¡Qué mal! En fin... Tendré que\nvolver al Gimnasio.\r
+Nardo es un DJ fabuloso.\n¡Su dulce voz me derrite!
+Me gusta Rosa, de La hora Pokémon,\naunque solo conozca su voz.\n
+¿Quién eres tú?\nNo nos molestes.\r¡Nos han dicho que no dejemos pasar a\nnadie que no sea del Team Rocket!\r¿Entendido?\rSolo los que llevan el distinguido\nuniforme negro del Team Rocket\fpueden pasar por aquí.
+¡Anda! ¿Acabas de alistarte?\nJe, je, el uniforme del Team Rocket\fte sienta muy bien.\rAdelante, puedes pasar.\r
+¿Qué ocurre?\n¡Rápido, vuelve a tu puesto\finmediatamente!
+{STRVAR_1 3, 1, 0}: ¡Vaya, pero si es \nel Team Rocket!\rVosotros sois esos cobardes que van\npor ahí causando problemas\fa la gente honrada, ¿no?\r
+{STRVAR_1 3, 1, 0}: ¿Cómo?...\n¿Tú eres {STRVAR_1 3, 0, 0}?\f¿Qué estás haciendo aquí?\rYa veo...\n¿Acaso pensabas que con esas pintas\fibas a parecer más fuerte?\r¡No me hagas reír!\n¡Ve a cambiarte de ropa!\r
+¡¿Qué?! ¡¿No eres miembro\ndel Team Rocket?!\f¡Pues prepárate a luchar!\r
+Eres demasiado fuerte.\rArruinarías nuestros planes.\nSerá mejor que avise a los otros...\r
+{STRVAR_1 3, 1, 0}: Así que te has disfrazado\npara colarte aquí...\r¡Ja! Eso es propio de alguien\nenclenque como tú.\rVoy a dejarte aquí por ahora.\r¡Primero voy a atrapar a ese\nDomadragón de la capa, Lance!\rY luego será tu turno,\nasí que prepárate...\r
+PB Recepción\nP1 Ventas\fP2 Personal\fP3 Producción\fP4 Oficina del Director\fP5 Observatorio
+¡La popular Lotería Pokémon!\r¡Gana con los ID de los Pokémon!\n¡Intercambia Pokémon y reúne\fdiferentes números ID!
+Este es el Despacho de Lotería\nPokémon. Me llamo Felicity.\rSi el número que sacas coincide con el\nnúmero de ID de uno de tus Pokémon,\frecibirás un estupendo premio.\r¿Quieres ver el número\npremiado de hoy? {YESNO 0}
+Ya has sacado un Billete de Lotería\nhoy. Vuelve mañana, por favor.
+Ah. Entiendo.\nEn otra ocasión será.
+De acuerdo, veamos entonces cuál\nes el número premiado de hoy.\r...\r
+El número del Billete de Lotería\nes {STRVAR_1 54, 0, 0}.\rVoy a comprobar si este número coincide\ncon el del ID de algún Pokémon tuyo.\r
+¡Enhorabuena!\rUna o más cifras del número ID del\n{STRVAR_1 1, 0, 0} de tu equipo coinciden\fcon el número del Billete de Lotería.\r
+¡Enhorabuena!\rUna o más cifras del número ID del\n{STRVAR_1 1, 0, 0} de una caja de PC\rcoinciden con el número\ndel Billete de Lotería.\r
+Lo siento.\nNo coincide ningún número.
+¡El último número coincide!\n¡Has ganado el cuarto premio!\r
+Has ganado un nuevo Fondo\npara usarlo en el probador.
+¡Los dos últimos números coinciden!\n¡Has ganado el tercer premio!\r
+¡Los tres últimos números coinciden!\n¡Has ganado el segundo premio!\r
+¡Coinciden los cuatro últimos números!\n¡Has ganado el primer premio!\r
+¡Vaya! ¡Coinciden los cinco dígitos!\n¡Has ganado el premio gordo!\r¡Es increíble! ¡Has ganado!\n¡Pero qué emoción!\r¡Ay, perdón! ¡Tu premio! ¡Que me he\nalborotado y casi se me olvida! ¡Ten!\r
+¿Eh? \nParece que no tienes sitio para esto.\rVuelve cuando tengas hueco en la Bolsa.
+¿{STRVAR_1 3, 0, 0}?\nSí, te estaba esperando.\rEste era el premio que tenía guardado\npara ti. ¡Toma!\r
+Vuelve cuando quieras.\n¡Estaré encantada de atenderte!
+Este es el Despacho\nde Lotería Pokémon.\r¿Quieres volver a ver el número\npremiado de hoy? {YESNO 0}

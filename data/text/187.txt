@@ -1,0 +1,4 @@
+¡{STRVAR_1 0, 0, 0} ha nacido del Huevo!
+¿Quieres ponerle un mote\nal {STRVAR_1 0, 0, 0} recién nacido?
+{ALN_CENTER}Sí
+{ALN_CENTER}No

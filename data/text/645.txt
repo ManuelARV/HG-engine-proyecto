@@ -1,0 +1,15 @@
+Sachiko
+¿Eh? ¡No se oye!\nA lo mejor no tienes cobertura.\rLlámame desde otro sitio.\n
+¡Hola! ¿Qué estabas haciendo?\n¡Yo estoy chachi piruli!\r
+Aparte de mí, hay otros Líderes\nque son supermegachachifuertes.\f¡Ve a por ellos!
+El lunes a mediodía me va bien.\nDame un toque.
+Me has llamado en el momento\nmás oportuno. Tengo un hueco,\fasí que vamos a luchar.{YESNO 0}
+¡Hurra! ¡Ya estoy que me salgo!\nTe espero en el Dojo de Ciudad Azafrán.
+Vaya... Tienes un poco de miedo...\n¿No?
+¿Seguro que tienes tiempo\nde luchar contra mí?\r¿No tienes nada más que hacer?
+¡Te espero en el Dojo de Ciudad\nAzafrán! ¡Ven volando!
+¡Soy Sachiko! ¿Cómo vas?\r
+Espero que no se te haya olvidado\nque te espero en el Dojo de Ciudad\fAzafrán, ¿eh? ¡Estoy esperándote!
+¿Quieres que te cuente cosas\nde mi papá?\r¡Podría estar horas hablando sobre él!
+Desde que era un garbancito minúsculo,\nmi papuchi me ha estado entrenando.\f¡Por eso soy Líder ahora!\rEra imposible que hiciera otra cosa\nen la vida. Ni se me habría ocurrido.\r¡Era mi sueño! ¡Y lo he hecho realidad!
+Pegaso de Ciudad Malva está\nsiempre cotorreando sobre su padre.\rYa va siendo hora de que madure.\n¿Que yo estoy igual?\r¿Y quién te ha preguntado?

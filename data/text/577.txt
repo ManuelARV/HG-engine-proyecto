@@ -1,0 +1,9 @@
+¿Cómo? ¿Quieres una medicina?\rParece que tus Pokémon están bien.\n¿Cuál es el problema?\r...\rMmm...\n¿El Pokémon del faro está enfermo?\r¡Entendido!\nEsto debería ayudarte.
+                     
+Mi Poción Secreta es muy potente.\nSolo la doy en casos de urgencia.
+¿Qué quieres?\n¿Alguna medicina?
+                 
+    
+           
+             
+                

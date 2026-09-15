@@ -1,0 +1,12 @@
+Kevin
+No quiero olvidarme del combate\ntan memorable que hemos disputado.\f¡Dame tu teléfono!{YESNO 0}
+¡Perfecto! ¡Te tengo!\n¡Es imposible que te olvide!
+Vaya...\nNo tengo nada más que decirte.
+Te ha picado el gusanillo y ahora\nla conciencia te dice que es mejor\fque me des tu teléfono, ¿a que sí?{YESNO 0}
+¿Eh? Tú estás cerca, ¿me equivoco?\nPara hablar, ven adonde estoy.
+Mi {STRVAR_1 0, 10, 0} está haciendo todo\nlo que puede. ¡Tiene futuro!\rEso era lo único que quería decirte.
+Ayer derroté a un {STRVAR_1 0, 11, 0}.\nEso era lo único que quería decirte.
+Hace un momento se me escapó\nde las manos un {STRVAR_1 0, 11, 0}.\rEso era lo único que quería decirte.
+¿Te acuerdas del pedazo de combate\nque mantuvimos entre los dos?\rQuiero volver a sentir en la piel\nesa tensión. ¿Qué me dices?\rTe espero en {STRVAR_1 4, 3, 0}.
+¿Te acuerdas de que habíamos quedado\npara echar un combatillo?\rEstoy esperándote en\n{STRVAR_1 4, 3, 0}.
+Así que por fin te has decidido a pedirme\nque te enseñe a pescar como es debido.\rComo quieras, sin problema.\nLo primero es ponerse mirando al agua.\rRespira profundamente, pon la Caña\nen posición, apunta y ¡lanza!\rNo sueltes la Caña si no quieres\nque salga disparada.\rSujétala bien.\nCuando el anzuelo y el sedal\fse sumerjan, espera inmutable.\f¡No te muevas!\rSolo se permite, si acaso, rascarse\nla nariz si es realmente necesario.\rEn cuanto notes que han picado,\ntira de la Caña con todas tus fuerzas,\f¿entendido?\rNo se te ocurra tirar antes de notar\nque han picado, ¿eh?\r¡Oye! ¿Sigues ahí?...\n¿Me oyes bien?...\f¿Le pasa algo al teléfono?...

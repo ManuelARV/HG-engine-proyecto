@@ -1,0 +1,13 @@
+Elisa
+Me enfada bastante perder.\nTendré que entrenarme mucho más.\rEste es mi número. Soy Elisa.\n¡No lo olvides!\f¿Quieres luchar de nuevo?{YESNO 0}
+¡Cuando quieras volver a luchar,\nllámame!
+Oh... Vaya chasco...\nSi quieres luchar, ven a verme.\f¡Soy Elisa!
+Quiero luchar contigo otra vez.\r¿Quieres que intercambiemos\nnuestros números de teléfono?{YESNO 0}
+Oh... ¡He perdido otra vez!\rMe gustaría saber cuántas veces\nva a repetirse esto.\r¡Gracias por venir! ¡Toma este regalo!\r
+¿Qué pasa?\nCreo que me llamas desde muy cerca.\rNo me tienes miedo, ¿no?\n¿Por qué no hablamos cara a cara?
+Mis {STRVAR_1 0, 10, 0} están mucho más\nfuertes que antes.\r¡Hasta la vista!
+Pues...\n¡Acabo de derrotar a {STRVAR_1 0, 11, 0}!\r¡Se ve que mi entrenamiento\nha surtido efecto!\r¡Hasta la vista!
+¿Sabes? ¿Sabes? ¿Sabes?\rSe me ha vuelto a escapar\nun {STRVAR_1 0, 11, 0} salvaje...\f¡No es justo!\r¡Hasta la vista!
+¿Luchamos de nuevo?\n¡Esta vez no perderé!\r¡Te espero en {STRVAR_1 4, 3, 0}!
+¡{STRVAR_1 3, 0, 0}! ¡Lucha contra mí!\n¡Te espero en {STRVAR_1 4, 3, 0}!
+¡Trabajo duro para entrenar\nmis Pokémon!\rTenemos que volver a luchar, ¿eh?

@@ -1,0 +1,12 @@
+Lance: ¡Te estaba esperando,\n{STRVAR_1 3, 0, 0}!\rSabía que finalmente serías capaz\nde llegar hasta mí.\rNo necesitamos más palabras.\rDebemos luchar para decidir\nquién es el más fuerte de los dos.\rComo Entrenador más poderoso\ny Campeón de la Liga Pokémon...\r¡yo, Lance, el maestro dragón,\nacepto tu desafío!\r
+Lance: ¡Te estaba esperando,\n{STRVAR_1 3, 0, 0}!\rSabía que finalmente serías capaz\nde llegar hasta mí.\rNo necesitamos más palabras.\rDebemos luchar para decidir\nquién es el más fuerte de los dos.\rComo Entrenador más poderoso\ny Campeón de la Liga Pokémon...\r¡yo, Lance, el maestro dragón,\nacepto tu desafío!\r
+Fiuuu...\rEres realmente fuerte, {STRVAR_1 3, 0, 0}.\rTus Pokémon han respondido\na tu fuerte naturaleza.\rDebes continuar fortaleciéndote\ncon tus Pokémon.\r
+Fiuuu...\rEres realmente fuerte, {STRVAR_1 3, 0, 0}.\rTus Pokémon han respondido\na tu fuerte naturaleza.\rDebes continuar fortaleciéndote\ncon tus Pokémon.\r
+¡...!\r
+Rosa: ¡Oh, no hemos llegado a tiempo!\n¡Si no fuera tan lento, Profesor Oak...!\r
+Profesor Oak: ¡Ah, {STRVAR_1 3, 0, 0}!\nHa pasado mucho tiempo.\fCada día eres más impresionante.\r¡Tu conquista de la Liga\nha sido fantástica!\rTu dedicación, confianza y amor\npor tus Pokémon lo han conseguido.\rTus Pokémon también\nhan estado increíbles.\rHan perseverado porque han creído\nen ti y en tu entrenamiento.\r¡Felicidades, {STRVAR_1 3, 0, 0}!\r
+Profesor Oak: ¡Ah, {STRVAR_1 3, 0, 0}!\nHa pasado mucho tiempo.\fCada día eres más impresionante.\r¡Tu conquista de la Liga\nha sido fantástica!\rTu dedicación, confianza y amor\npor tus Pokémon lo han conseguido.\rTus Pokémon también\nhan estado increíbles.\rHan perseverado porque han creído\nen ti y en tu entrenamiento.\r¡Felicidades, {STRVAR_1 3, 0, 0}!\r
+Rosa: ¡Vamos a entrevistar\na la persona que ha ganado!\r
+Lance: Vaya...\nMenudo alboroto...\r¿Puedes venir conmigo\nun momento, {STRVAR_1 3, 0, 0}?\r
+Lance: Vaya...\nMenudo alboroto...\r¿Puedes venir conmigo\nun momento, {STRVAR_1 3, 0, 0}?\r
+Rosa: ¡Espera! ¿Y la entrevista?

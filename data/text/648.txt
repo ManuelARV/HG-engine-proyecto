@@ -1,0 +1,15 @@
+Pegaso
+No se oye ni mu.\n¿No tendrás el teléfono roto?\rAnda, llámame desde otro sitio.
+¿Dígame?\nAh, eres tú.\fYo estoy de perlas.\r
+Todavía te quedan Líderes\ncon los que luchar, ¿no?\f¡Métele caña al asunto!
+Déjame que vea...\nEl sábado por la mañana tengo tiempo.\fLlámame, ¿vale?
+Justo ahora estoy sin hacer nada.\n¡Te desafío! ¿Quieres luchar?{YESNO 0}
+¡Así se habla! ¡Esto promete!\rLugar: Dojo de Ciudad Azafrán.\n¿Cuándo? ¡Ya!
+¡Vaya chasco!\rPero bueno, tienes que estar\nhasta arriba de cosas que hacer.
+Mmm... \n¿No tienes otras cosas que hacer?
+Estoy en el Dojo de Ciudad Azafrán.\n¡Lo prometido es deuda!\fAquí te espero.
+¡Soy el de siempre, Pegaso!\nDime, ¿sigues con la energía a tope?\r
+Ibas a venir a luchar al Dojo de\nCiudad Azafrán, ¿lo recuerdas?
+Cuando era pequeño, mi padre siempre\ndecía que los Pokémon pájaro\fno volaban con las alas, sino con\fese deseo irrenunciable de volar.\rNo tengo ni idea de qué significa\nesa historia, pero mi padre es\fun hombre impresionante.
+Mi Gimnasio está en un lugar alto;\nel suelo está hecho un desastre...\rTodos los años hago limpieza general.\nMe trae por la calle de la amargura,\fpero al menos mis Pokémon me ayudan\fy me las arreglo.
+¿Has hablado con Sachiko\nde Ciudad Fucsia?\rNo para de hablar de su padre,\nes una pesada de no te menees.\rParece un disco rayado.\nNo veo mal que admire a su padre,\fpero debería pensar más en ella misma.\r¿Tú tienes confianza en tu potencial?

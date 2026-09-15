@@ -1,0 +1,19 @@
+¡Bienvenido al Hall de la Fama!
+{STRVAR_1 0, 0, 0} ♂
+{STRVAR_1 0, 0, 0} ♀
+{STRVAR_1 0, 0, 0}
+{STRVAR_1 1, 0, 0}
+Nv. {STRVAR_1 52, 0, 0}
+EO/{STRVAR_1 3, 0, 0}
+¡Encontrado en\n{STRVAR_1 4, 0, 0}!
+¡Eclosionado en\n{STRVAR_1 4, 0, 0}!
+Recibido\npor intercambio.
+Procedente\nde Kanto.
+Procedente\nde Hoenn.
+Procedente\nde un lugar lejano.
+Obtenido en un\nencuentro fatídico.
+Procedente\nde Sinnoh.
+Recibido en\n{STRVAR_1 4, 0, 0}.
+¡Has vencido! ¡Enhorabuena!
+{STRVAR_1 3, 0, 0} ID: {STRVAR_1 54, 1, 0} Tiempo: {STRVAR_1 52, 2, 0}:{STRVAR_1 51, 3, 0}
+                   

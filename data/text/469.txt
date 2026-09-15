@@ -1,0 +1,17 @@
+{SIZE 0}¡BUM!{SIZE 0}\r
+¡Uuups! ¡Yo sentir!\nTú no hacer daño, ¿ok?\rYo very ocupado. No tener time\npara hablar with you. Nobody poder\fverme o voy tener problems.\r
+¡Ouh, nouh! ¡Tú verme!\n¡Yo cometer big error!\r
+¡Oye! You olvidar que me has visto,\n¿ok? Tú ver, oír y saber nada, ¿ok?\r¡Bye, bye!\n¡Good-bye!\r
+Lo siento, estaré fuera un tiempo.\nMisty, Líder del Gimnasio
+Como Misty ha salido, nosotros\ntampoco estaremos.\fLos Entrenadores
+Gimnasio Pokémon de Ciudad Celeste
+Gimnasio Pokémon de Ciudad Celeste\rLíder: Misty\nEntrenadores reconocidos:\f{STRVAR_1 3, 0, 0}
+Misty: ¡Te estaba esperando, pelma!\rSeguro que tienes muchas Medallas\nde Johto, pero no me subestimes\fen absoluto.\r¡Mis Pokémon de tipo Agua son fuertes!\r
+Misty: Eres realmente genial...\rReconozco tu gran experiencia...\rAquí tienes la Medalla Cascada.\r
+¡{STRVAR_1 3, 0, 0} ha recibido la Medalla\nCascada de Misty!
+Misty: Y voy a darte algo más...\nToma esto como recuerdo de\fnuestro combate...\r
+Misty: Contiene Hidropulso.\rEs un movimiento que en ocasiones\npuede llegar a confundir al oponente.\rAlguien como tú, que has salvado todos\nlos combates desde Johto hasta aquí,\fsabrá hacer buen uso de él.
+Misty: ¿Hay muchos Entrenadores\nfuertes en Johto?\rAlgún día emprenderé un viaje como tú\ny combatiré contra los más fuertes.
+¡Hola, futura leyenda!\rComo Misty no estaba, salí a\ndivertirme un rato. ¡Je, je, je!
+¡Qué fuerte eres!\n¡Ha sido un gran combate!
+¡...!\r¡{STRVAR_1 3, 0, 0} ha encontrado un objeto\nque había junto a la piscina!\r¡Parece que es Maquinaria!\r

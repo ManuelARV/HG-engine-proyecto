@@ -1,0 +1,5 @@
+Antón: Quiero ser un Entrenador de\nPokémon de tipo Bicho mucho más fuerte.\rPor eso he venido a buscar Pokémon\nde ese tipo a la región de Kanto.\r¡Venga!\n¡Vamos a intercambiar nuestros\fnúmeros de teléfono! {YESNO 0}
+¡{STRVAR_1 3, 0, 0} ha registrado el número\nde Antón en el Pokégear!
+Antón: Me gustaría combatir contra ti\nel jueves durante el día.\f¡Llámame si te viene bien!
+Antón: Vaya...\nBueno, como tú quieras...
+Antón: ¿Me das tu número\nde teléfono?{YESNO 0}

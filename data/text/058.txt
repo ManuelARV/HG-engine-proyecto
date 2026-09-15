@@ -1,0 +1,9 @@
+Tamao: Aquí es donde recibiremos\na HO-OH.\rCuando el ritmo de la danza que\nensayamos cada día se entrelace con\rlas vibraciones de la Campana Clara que\nvos nos habéis entregado, HO-OH\fdescenderá del cielo una vez más.\r
+Aquí acaba nuestro papel.\nEl resto depende de vos.
+Contemplad a HO-OH.\nUna entidad protectora que ha surcado\flos cielos desde tiempos remotos.\rHasta hoy, muchos fueron los que lo\ninvocaron y no obtuvieron respuesta.\rPero solo ahora que la Campana Clara\nresuena en armonía en el interior de\f{STRVAR_1 3, 0, 0}, ha acudido a la llamada.\r
+¡Contemplad, oh, este gran momento,\n{STRVAR_1 3, 0, 0}!\rCiertamente...\nHO-OH aguardaba a que alguien\fde vuestra valía se presentara ante él.\r
+HO-OH: ¡Hooo-ooh!\r
+Os felicito por llegar hasta aquí.\nSi por fortuna veis al Profesor Elm,\fdadle recuerdos de nuestra parte.
+No solo habéis traído a HO-OH ante vos,\nsino que además habéis asimilado\fsu fortaleza.\rEs una loable proeza.\nMe temo que no hay nada más\fque yo os pueda enseñar.\rEspero que sigáis progresando como\nhasta ahora durante vuestro periplo.
+Si ese es vuestro deseo, no tenemos \nnada que objetar.\rAun así, si deseáis reencontraros con\nHO-OH, regresad a este lugar\fcuando hayáis concluido vuestro viaje.
+Cuando os alejéis de este lugar,\nHO-OH tampoco regresará por un tiempo.\rSerá menester que volváis aquí cuando\nvuestro periplo llegue a su fin.

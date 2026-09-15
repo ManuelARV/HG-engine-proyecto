@@ -1,0 +1,42 @@
+Aquí puedes canjear tus Fichas por\npremios.{YESNO 0}
+Ah... Vuelve cuando tengas\nsuficientes Fichas.
+Vaya, no tienes Fichas suficientes.{YESNO 0}
+Has elegido {STRVAR_1 8, 0, 0}.\n¿Es eso lo que quieres?{YESNO 0}
+¡Aquí tienes!\r
+Tu Bolsa está llena.\r
+Ahora mismo no puedes llevar\nmás Pokémon contigo.\rVuelve cuando tengas sitio\nen tu equipo.
+¿Quieres el {STRVAR_1 0, 1, 0}?{YESNO 0}
+¡{STRVAR_1 3, 0, 0} ha obtenido\nun {STRVAR_1 0, 1, 0}!{YESNO 0}
+Aquí te cambiamos las Fichas\nque has obtenido por estupendos\fPokémon.{YESNO 0}
+Guardas {STRVAR_1 8, 0, 0} en el Bolsillo\n{STRVAR_1 18, 1, 0}.{YESNO 0}
+CANCELAR
+MT
+OBJETOS
+Sustituto\n2000 Fichas
+Danza Espada\n4000 Fichas
+Descanso\n6000 Fichas
+Lanzallamas\n10 000 Fichas
+Rayo Hielo\n10 000 Fichas
+Rayo\n10 000 Fichas
+Pañuelo Seda\n1000 Fichas
+Lupa\n1000 Fichas
+Telescopio\n1000 Fichas
+Metrónomo\n1000 Fichas
+ABRA{CURSOR_X 0}200 Fichas
+EKANS{CURSOR_X 0}700 Fichas
+DRATINI{CURSOR_X 0}2100 Fichas
+SANDSHREW{CURSOR_X 0}700 Fichas
+¡Hola, soy el Sr. Juego!\r¡Cuando alguien se sienta a jugar\na la mesa frente a mí, enseguida me\fveo inmerso en el juego y siento\fun cosquilleo por todo el cuerpo\fque me hace estremecer!\rPuedo ver en tu mirada que tú también\nsabes disfrutar una buena partida.\rSi consigues bastantes Fichas, podrás\ncambiarlas por premios estupendos.\r¿Quieres jugar?{YESNO 0}
+  
+   
+¡Muy bien!\n¡Entonces toma este Monedero!\r
+¡Venga, haz que me estremezca\ncon una buena partida!\r
+¡Yo siento la misma expectación que tú\ny un cosquilleo estremecedor solo con\fverte jugar!
+¡Hola, soy el Sr. Juego!\r¡Cuando alguien se sienta a jugar\na la mesa frente a mí, enseguida me\fveo inmerso en el juego y siento\fun cosquilleo por todo el cuerpo\fque hace que me estremezca!\r¡Vamos, no pierdas tiempo!\r¡Hazme temblar de emoción\ncon una buena partida!
+¡Vamos, no pierdas tiempo!\n¡Haz que me estremezca\fcon una buena partida!
+Me encanta ver como la gente prueba\nsuerte en el juego. ¡Es superior a mí!\r¡Como lo oyes!...\rAcumula Fichas y habla con esos dos\ntipos que hay ahí sentados para que\fte las cambien por regalos estupendos.
+Lo sé, te han entrado unas ganas locas\nde probar suerte, ¿eh?
+Si no tienes un Monedero,\nno puedes jugar...\r
+Sr. Juego: ¡Eh, atiende!\nHas venido a probar suerte, ¿verdad?\rVen aquí, voy a darte un Monedero.
+Sr. Juego: ¡Venga, haz que me\nestremezca con una buena partida!\r
+Sr. Juego: ¡Eh! No te quedes ahí,\nen el borde de la mesa.\r¡Toma asiento en el centro y deléitame\ncon un buen juego!

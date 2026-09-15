@@ -1,0 +1,63 @@
+                                                                                
+...\n...\rHuaaa...\n...\r¿Qué? ¿Pero se ha hecho ya\nde día ahí fuera?\r
+...\n...\rHuaaa...\n...\rMmm... ¿Qué? ¿Ya se ha hecho tan\ntarde? ¡Me he debido de dormir!\r
+...\n...\rMmm... Parece que el sol se está\nponiendo ya...\rEsto debe de ser lo que llaman\ncrepúsculo, ¿no?\r
+...\n...\rAjá... Ya veo, ya...\n...\r¡Huy! Perdona, perdona...\nEstaba leyendo este libro.\r
+...\n...\rHuaaa...\n...\r¿Qué? ¿Una visita?\n¡¿A estas horas?!\r
+¡Hola! ¡Perdona por la espera!\r¡Estás en el mundo de los Pokémon!\rMe llamo Oak.\rPero me llaman\nProfesor Pokémon.\rAntes de seguir, dime, ¿es esta\ntu primera aventura?\rPuedo hablarte de todo lo que\nnecesites saber de este mundo.\r
+En primer lugar te explicaré lo\nmás importante del juego.\n\nToca sobre el tema del que quieras\nsaber en la pantalla inferior.
+                                  
+Te voy a explicar los controles\ndel juego.\n\nPuedes controlar el juego tocando\nla pantalla inferior, también \nllamada pantalla táctil.\n\nPor favor, toca el panel a la \nderecha de la parte inferior de\nla pantalla táctil.\n
+Al tocar así la pantalla, \nconfirmarás tus selecciones y\navanzarán tus conversaciones.
+También puedes avanzar si pulsas\nel Botón A cuando veas una A en\nese panel.
+En la pantalla táctil aparecerán\ndiferentes paneles de acuerdo\ncon las distintas escenas.
+A continuación te explicaré las\noperaciones con los botones.\n\nPuedes mover al protagonista por\nla pantalla usando el\nPanel de Control.
+A continuación te hablaré de\nlos botones.\n\nUsa el Panel de Control para mover\nal protagonista.\n\nTambién puedes usarlo para elegir\nlas diferentes opciones.
+Puedes controlar las pantallas\nusando los botones en lugar de la\npantalla táctil.
+Se usa para confirmar, marcar una\nselección, hablar y desplazar\nel texto.\n\nSe usa para salir y cancelar una\nselección o un modo.
+Se usa para moverse por los menús.\n\nSe utiliza para usar un objeto,\ncomo la Bici, que ha tenido que\nser asignado anteriormente.
+                    
+                                  
+                                                                                                           
+                                                        
+                                                                     
+Esta marca en el cuadro del\nmensaje indica que hay botones\nactivos en la pantalla táctil.
+                         
+{YESNO 0}
+¿Has entendido todo hasta ahora?{YESNO 0}
+                                 
+Estás a punto de sumergirte en un\nmundo lleno de aventuras de las\nque vas a ser protagonista.
+Habla con la gente y curiosea todo\nlo que te llame la atención,\nestés donde estés.\nConsigue información y pistas\nde todo lo que te rodee.
+Cuando ayudes a alguien, superes\ndesafíos y resuelvas misterios,\nse abrirán ante ti nuevos caminos.
+En ocasiones, otras personas\nte retarán a un combate.\nY también encontrarás criaturas\nsalvajes en tu camino.\n\nSuperando esos obstáculos\nirás adquiriendo un gran poder.
+Pero el objetivo de esta aventura\nno es acumular poder.
+En tus viajes encontrarás a mucha\ngente y, gracias a ella, irás\ncreciendo también como persona.\n\nEste es el objetivo más importante\nde esta aventura.
+Este mundo está habitado por\ncriaturas llamadas Pokémon.\r
+Los humanos y los Pokémon\nvivimos juntos como amigos.\rA veces jugamos y otras trabajamos\ncodo con codo.\rHay quien combate con sus Pokémon\npara estrechar lazos con ellos.\r¿Que qué hago yo?\rYo me dedico a estudiar los Pokémon\npara conocerlos mejor.\r
+Bueno, ¿qué te parece si ahora\nme cuentas algo sobre ti?\r
+¿Eres un chico o una chica?\rDímelo, por favor.{YESNO 0}
+Bien, así que eres un chico...{YESNO 0}
+Bien, así que eres una chica...{YESNO 0}
+Y dime, ¿cómo te llamas?
+¿Te llamas {STRVAR_1 3, 0, 0}?{YESNO 0}
+¿Te llamas {STRVAR_1 3, 0, 0}?{YESNO 0}
+Muy bien, {STRVAR_1 3, 0, 0}.\nHa llegado el momento.\r¡Tu propia leyenda Pokémon\nestá a punto de comenzar!\rVivirás aventuras emocionantes y\npasarás momentos difíciles.\r¡Todo eso y mucho más te está\nesperando! Ahora ve.\f¡Entra en el mundo Pokémon!\r
+INFO. CONTROLES
+INFO. AVENTURA
+NO NECESITO NADA
+SÍ
+NO
+        
+   
+   
+   
+    
+   
+    
+   
+   
+       
+   
+TOCAR
+{ALN_CENTER}Sí
+{ALN_CENTER}No

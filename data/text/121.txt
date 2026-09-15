@@ -1,0 +1,7 @@
+¡Hola!\n¡Soy el Rey del Karate!\r¡Me entreno solo en esta cueva!\r¡Tú!\n¡Lucha conmigo!\f¡Aaarg!\r
+He... perdido...\nTendré que seguir entrenándome...\rPero una derrota es una derrota.\nNo me importa reconocerlo.\rComo prueba de tu victoria, te voy a\ndar mi valioso Pokémon de tipo Lucha.\r
+¡{STRVAR_1 3, 0, 0} ha recibido un TYROGUE\ndel Rey del Karate!
+TYROGUE es de tipo Lucha.\rSi lo entrenas bien, puede evolucionar\na un Pokémon más fuerte.\r¡Yo también seguiré entrenándome!\n¡Adiós!
+¡Vaya!\n¡No tienes sitio en tu equipo!
+¿Quieres ponerle un mote\na TYROGUE? {YESNO 0}
+                         

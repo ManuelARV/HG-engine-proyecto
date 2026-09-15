@@ -1,0 +1,19 @@
+Han salido del suelo un montón\nde DIGLETT.\f¡Qué susto!
+Brock: Siempre es agradable encontrar\nalgún resquicio entre las rocas\fen el que poder descansar.\f¿No te parece?\rAhora que caigo, ¡intercambiemos\nnuestros números de teléfono! {YESNO 0}
+¡{STRVAR_1 3, 0, 0} ha registrado el número\nde Brock en el Pokégear!
+Brock: Todavía tengo ganas de combatir\ncontra ti. ¡Llámame el sábado\fpor la noche!
+Brock: Vaya... Es una pena.\nTodavía tenía ganas de combatir\fcontra ti.
+Brock: Venga, ¿intercambiamos\nnuestros números de teléfono? {YESNO 0}
+Brock: Oye, ¿por qué no nos\nsacamos una foto juntos? {YESNO 0}
+Brock: ¡Venga, ponte aquí a mi vera\ny relájate!\r
+Brock: ¡Ya está! Esto sí que es\nun buen recuerdo.
+Brock: ¿Ah, no?\nBueno, qué le vamos a hacer...
+Tu Álbum de Fotos está lleno.\rUsa el PC para hacer un poco\nde sitio en tu Álbum.
+Brock: ¡Hey, {STRVAR_1 3, 0, 0}!\n¿Has visto alguna vez un Pokémon\fque se llama BONSLY?\rNo puedo criarlo a partir de un Huevo\ny no lo encuentro por ninguna parte...\r¿Si tuvieras un BONSLY, me lo\ncambiarías por mi RHYHORN? {YESNO 0}
+Brock: ¡Hey, {STRVAR_1 3, 0, 0}!\n¿Has visto alguna vez un Pokémon\fque se llama BONSLY?\rNo puedo criarlo a partir de un Huevo\ny no lo encuentro por ninguna parte...\r¿Si tuvieras un BONSLY, me lo\ncambiarías por mi RHYHORN? {YESNO 0}
+Brock: ¡Bien!\n¡Vamos a hacer el cambio!\r
+Brock: Así que no tienes ningún BONSLY.\n¡Si encuentras uno ven a verme!
+Brock: Estaba buscando un BONSLY.\n¿Me lo cambiarías por mi RHYHORN?{YESNO 0}
+Brock: ¡Gracias! ¡Qué ganas tenía de\ntener un BONSLY!\rEl RHYHORN que te he dado lo crié de un\nHuevo. Sabe Colmillo Rayo y estoy\fmuy orgulloso de él.\rSin embargo, un Pokémon de tipo Agua\npodría vencerlo fácilmente, así que\fcuídalo bien, por favor.
+Brock: Ese RHYHORN lo crié de un Huevo.\nSabe Colmillo Rayo y estoy muy\forgulloso de él.\rSin embargo, un Pokémon de tipo Agua\npodría vencerlo fácilmente, así que\fcuídalo bien, por favor.
+Brock: ¡Oye, tú!\n¡Que eso no es un BONSLY!

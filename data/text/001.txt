@@ -1,0 +1,48 @@
+VOLVER
+{ALN_CENTER}Bloc UNOWN
+{STRVAR_1 3, 0, 0}
+{ALN_CENTER}Número de UNOWN
+{ALN_CENTER}Clases descubiertas: {STRVAR_1 51, 0, 0}
+{ALN_CENTER}{STRVAR_1 50, 0, 0}/{STRVAR_1 50, 1, 0}
+Has descubierto misteriosos\nenigmas en los grabados de las\nruinas. Al resolverlos se ha \nabierto un agujero en el suelo y\nhas caído a la sala inferior.\n¡Qué mecanismo más rudimentario!
+Esta sala secreta está repleta\nde estatuas de piedra.\nAdemás, aquí los UNOWN aparecen\nde repente, lo cual apunta a que\nal resolver estos enigmas se\ndespierta a los UNOWN.\n¡Qué ruinas más misteriosas!
+Si se enciende la radio\nen las ruinas se puede oír\nun ruido peculiar...\n¡Es la prueba de que los UNOWN\nse comunican mediante ondas!
+Existe el mismo número de UNOWN\nque de caracteres. Así que si se\nhan identificado 26 caracteres\ndiferentes, debe de haber\nlas mismas clases de UNOWN.\n¿Podrás encontrarlas todas?
+La existencia de los UNOWN,\nque se ha puesto en tela de juicio\ndurante muchos años, ha quedado\npor fin demostrada. Puede dar\nla impresión de que aparecen sin\norden alguno en la naturaleza,\npero lo cierto es que sí que\nsiguen unos patrones lógicos.
+Los UNOWN que aparecen\nen el Bloc han sido ordenados\npor el personal del Centro de\nInvestigación. Así es más fácil\nque se pueda desentrañar\nsus misterios.
+¡Se ha descubierto una sala\nsecreta bajo las ruinas!\n¡Un hallazgo sin parangón!\n¡El personal del Centro\nno cabe en sí de gozo\ncon la idea de explorar!
+No hay solo 26 clases de UNOWN.\nSe han identificado 2 caracteres\nnuevos, lo que significa que hay\ndos nuevas clases de UNOWN\nque aún no se han descubierto.
+{CURSOR_Y 0}Los símbolos grabados en el panel\nde la sala pequeña quedarán\ntranscritos en este Bloc.
+{CURSOR_Y 0}AMIGOS\nCONTEMPLAMOS\nBENDECIMOS
+{CURSOR_Y 0}¡El significado de esta inscripción\nes todo un misterio!
+Un trabajador del Centro\nha afirmado que es posible\nque tengan que volver a explorar\nlas ruinas.
+Parece que hace mucho,\nmucho tiempo, los UNOWN\nvivían con una tribu de humanos\nen estas ruinas.\nProbablemente fue esta tribu\nla que esculpió las estatuas\nde Pokémon antiguas que hay\nbajo tierra.
+Los UNOWN eran muy miedosos, así\nque no salían nunca de las ruinas.\nEl número de humanos alrededor\nde las ruinas fue creciendo sin\nparar y el entorno cambió, con lo\nque el clan que habitaba en\narmonía con los UNOWN decidió\nabandonar este lugar.
+ANGER
+BEAR
+CHASE
+DIRECT
+ENGAGE
+FIND
+GIVE
+HELP
+INCREASE
+JOIN
+KEEP
+LAUGH
+MAKE
+NUZZLE
+OBSERVE
+PERFORM
+QUICKEN
+REASSURE
+SEARCH
+TELL
+UNDO
+VANISH
+WANT
+XXXXX
+YIELD
+ZOOM
+!!!!!
+?????

@@ -1,0 +1,15 @@
+Erika
+¡No se oye! ¡No se oye!\n¿Te importaría llamar desde otro sitio?
+¿Hola? ¿Qué tal has estado últimamente?\n¡Yo, como una moto, igual que siempre!\r
+¿Sabes? Creo que existen otros Líderes\nmuy poderosos.\fNo te rindas, ¿eh?
+El domingo por la mañana creo que\ntendré algo de tiempo.\rLlámame si puedes.
+Ahora estaba bastante aburrida.\n¿Luchamos?{YESNO 0}
+¡Qué alegría me das!\n¡Ahora soy un poquito más feliz!\rNos vemos en el Dojo de Ciudad Azafrán,\n¿vale?
+Vaya...
+Oye...\n¿no habías quedado ya con alguien?\fSeguro que mucha gente te espera...
+Te espero en el Dojo de Ciudad Azafrán.\n¡No lo olvides!
+Soy Erika. ¿Qué tal vas?\r
+Si te olvidas de venir al Dojo de Ciudad\nAzafrán, me voy a poner muy triste.\f¿Tú quieres que me ponga triste?
+¿Te gustan las plantas?\nSon muy frágiles. Necesitan...\fagua...\ftierra...\fy una temperatura adecuada.\fTodo en su justa medida.\rEl tiempo las afecta mucho también.\nIgual que cualquier cambio\fen el ambiente.
+¿Crees en la superstición?\nYo... cuando veo pétalos caer...\ro la adivinación que consiste en cortar\nhojas... No sé...\rEl adivino de Pueblo Lavanda\nparece que acierta bastante.\n
+¿Tú qué haces en tus días libres?\rYo me paso el día en el Gimnasio\ncambiando plantas de maceta\fy quitando el polvo de las flores\fy las hojas con un pincel...\r¡Estoy liadísima con todo esto!

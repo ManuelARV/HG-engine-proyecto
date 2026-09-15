@@ -1,0 +1,6 @@
+(Suspiro...)\rMe trasladé aquí, pero\nno vendo mis Bicis.\r¿Qué te parece?\r¿Montarías en una Bici\npara hacerme publicidad?{YESNO 0}
+¿De verdad? ¡Bien!\rDime tu nombre y número de teléfono\ny te prestaré una Bici.{YESNO 0}
+                  
+La tienda principal de la cadena\nestá en Ciudad Celeste, en Kanto.\f¡Si vas allí, saluda al encargado!\rLas Bicis de la Tienda de Bicis\nson de la mejor calidad.\f¡Puedes recorrer todo Kanto!
+(Suspiro...)\n¿Por qué no vendrá nadie amable?...
+¡Es una Bici nuevecita!

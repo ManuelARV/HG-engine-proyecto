@@ -1,0 +1,61 @@
+Se ha seleccionado.
+            
+¿Liberas a este Pokémon?
+{STRVAR_1 1, 0, 0} fue liberado.
+¡Adiós, {STRVAR_1 1, 0, 0}!
+¡Tu equipo está completo!
+¡Ese es tu último Pokémon!
+¿Qué deseas hacer?
+                 
+            
+Elige un Fondo.
+¿Salir de la Caja?
+¿Continuar operaciones?
+La Caja está llena.
+La Bolsa está llena.
+¡Cogiste el objeto {STRVAR_1 8, 0, 0}!
+¡El Pokémon tiene {STRVAR_1 8, 0, 0}!
+                
+Toca el Pokémon.
+¿Dónde deseas dejarlo?
+      
+ 
+ 
+¿Coger {STRVAR_1 8, 0, 0}?
+No se pueden ordenar las Cartas.
+              
+¿Guardas el objeto {STRVAR_1 8, 0, 0}?
+Pusiste {STRVAR_1 8, 0, 0} en la Bolsa.
+          
+Por favor, quita la Cápsula.
+Por favor, quita la Carta.
+No puedes liberar un Huevo.
+¡{STRVAR_1 1, 0, 0} ha vuelto!
+¿Estaría preocupado por ti?
+Los Huevos no pueden llevar objetos.
+Toca la marca.
+Queda sitio en la Caja.
+Queda sitio en tu equipo Pokémon.
+La Caja está llena.
+Tu equipo Pokémon está completo.
+    
+   
+   
+    
+    
+    
+    
+    
+  
+   
+DEJAR POKéMON
+SACAR POKéMON
+MOVER POKéMON
+MOVER OBJETO
+No se puede mover la Carta.
+No puede llevar la {STRVAR_1 8, 0, 0}.
+Lleva una Carta.
+Lleva una Cápsula.
+¡Ese es tu último Pokémon!
+No se puede mover la Carta.
+No puede llevarlo un Pokémon.

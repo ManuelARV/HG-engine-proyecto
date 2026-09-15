@@ -1,0 +1,97 @@
+¡Esta es la Zona Safari!\r¡Es enorme y por solo {STRVAR_1 52, 1, 0} $,\npodrás atrapar todos los Pokémon\fque quieras! ¿Te gustaría probar?{YESNO 0}
+¡Buenas, gerente!\n¡Esta es la Zona Safari!\r¡Es enorme y por solo {STRVAR_1 52, 1, 0} $,\npodrás atrapar todos los Pokémon\fque quieras! ¿Te gustaría probar?{YESNO 0}
+¡Son {STRVAR_1 52, 1, 0} $, por favor!\r
+Vaya...\nMuy bien. Vuelve cuando quieras.
+¡Adelante! ¡Pasa a la Zona Safari!\r
+¡{STRVAR_1 3, 0, 0} ha recibido\n{STRVAR_1 51, 1, 0} Safari Balls!
+En cuanto te quedes sin Safari Balls,\nte aviso. ¡Espero que te lo pases bien!\r¡Adelante!\r
+Todavía te quedan Safari Balls,\n¿ya te quieres ir de la Zona Safari?{YESNO 0}
+Como quieras.\rDevuélveme las Safari Balls\nque te queden.\r
+Espero que te haya ido bien.\n¡Hasta la próxima!
+Lo siento, pero te falta dinero.\n¡Hasta la próxima!
+¡Gerente! Te falta dinero.\n¡Hasta la próxima!
+Vaya, no tienes espacio en la Caja.\nRegresa cuando hayas hecho un hueco.
+¡Gerente! No tienes espacio en la Caja.\nRegresa cuando hayas hecho un hueco.
+¡Esta es la Zona Safari!\r¿Es tu primera vez aquí?{YESNO 0}
+¡Buenas!\r¿Te explico qué es la Zona Safari?{YESNO 0}
+En la Zona Safari, tendrás que usar\n{STRVAR_1 51, 1, 0} Safari Balls para capturar\fPokémon. ¡Es un verdadero Safari!\rEl juego termina cuando se te acaban\nlas Safari Balls.\rAl encontrarte con un Pokémon,\npuedes lanzarles Cebo o\fun pegote de Lodo.\rCon el Cebo, consigues que sea\nmás difícil que escapen y también\fes más difícil capturarlos.\rCon el Lodo, por el contrario,\nson más fáciles de capturar, pero\fpodrán huir más fácilmente.\r¡Espero que te lo pases bien!
+¡Espero que te lo pases bien\nen la Zona Safari!
+Baoba quiere hablar contigo.
+Estás en Personalizar Terrenos.\n¿Qué quieres que te explique?{YESNO 0}
+El Safari está compuesto de seis\nTerrenos, entre los que están el\fTerreno Prado y el Terreno Peña.\rEn Personalizar Terrenos, puedes\nmodificarlos a tu antojo.\r¿Qué quieres que te explique?{YESNO 0}
+Puedes acceder a la pantalla\nde Personalizar Terrenos\fexaminando la máquina.\rEn la pantalla inferior aparecerá\nla configuración actual del Safari.\rEscoge Terreno con el botón A\npara sustituirlo por otro.\r¿Qué quieres que te explique?{YESNO 0}
+Después de escoger un Terreno,\nelige Sustituir y aparecerán\f12 terrenos nuevos en pantalla.\rElige el que prefieras con el botón A.\r¿Qué quieres que te explique?{YESNO 0}
+Después de escoger Terreno,\nelige Mover para modificar\fla ubicación del Terreno\fsin alterar la clase del mismo.\r¿Qué quieres que te explique ahora?{YESNO 0}
+En los diferentes Terrenos\nde la Zona Safari habitan\fdistintas especies de Pokémon.\rPor tanto, cambiarán los que te\nencuentres si cambias el Terreno.\rTe aconsejo que pruebes\ndistintos Terrenos.\r¿Qué quieres que te explique?{YESNO 0}
+Lo siento, pero esta máquina\naún no está operativa.\rParece que Baoba está preparando algo\nincreíble con esa máquina. Parece...\rAunque todavía es secreto mayor\ny no sabemos nada de nada de nada.
+¡Que te lo pases bien\npersonalizando los Terrenos!
+{STRVAR_1 3, 0, 0} ha encendido el dispositivo\nPersonalizar Terrenos.\r
+Están preparando todo aún.
+¡Te estaba esperando!\n¿A que está guay?\r¡Por fin está abierta\nla nueva Zona Safari!\rSé que te va a pillar\npor sorpresa pero...\r¿quieres hacer la prueba de\naptitud para gerente?{YESNO 0}
+¡Así me gusta!\rTe voy a explicar de qué va la prueba.\n¡Está chupado!\rSolo tienes que capturar un GEODUDE\nen la Zona Safari y venir a enseñármelo.\r¡Ya está! ¡Con eso apruebas!\nAdemás, no es muy difícil encontrarlo.\r¡Te deseo la mejor suerte del mundo!
+¡Qué decepción!\r¿Es que no quieres ser gerente?\nGerente... ¿A que suena bien?\rYo te recomendaría que\nte presentaras a la prueba,\fpero... bueno...{YESNO 0}
+¡Magnífico! ¡Has capturado un GEODUDE!\n¡Has superado la primera prueba!\r¿Eh? ¿No te lo había dicho?\nHay otra prueba más...\rLlegar a ser jefe no es\nun camino de rositas.\rLo siento, pero aún no estamos listos.\rEn cuanto terminemos te avisamos por el\nPokégear. ¡Sé paciente, por favor!
+¡Métele caña y captura un GEODUDE!\rEstá justo al entrar en la Zona Safari,\nen la hierba. No te debe de costar\fmucho dar con él.\r¡Te deseo suerte!\n
+¡Ya está, ya está!\n¡Todo está listo para la prueba!\rTienes que capturar un SANDSHREW\ny me lo tienes que venir a enseñar.\rEs prácticamente igual que la primera\nprueba, ¿no?\r¡Ja! ¡Eso te crees tú!\n¡SANDSHREW no aparece tan fácilmente!\r¡Para que salga, vas a necesitar esto!\r
+Es una máquina de última generación\nque te permite dar la forma que\fquieras a la Zona Safari.\r¡Es la máquina de Personalizar Terreno!\rY su fundamento teórico es...\n¡un secreto!\rSeguro que no tendrás problemas\npara hacerte con su manejo.\rPregúntale al encargado que está aquí\nal lado si necesitas información.\r
+¡Lo siento! ¡Perdona!\rNo había acabado de explicarte\nla segunda prueba.\rSANDSHREW no aparece en los\nTerrenos actuales de la Zona Safari.\r¡Por eso, tendrás que utilizar\nla máquina de Personalizar Terrenos!\rMejor me dejo de rodeos,\nSANDSHREW está en... ¡el Desierto!\rLo dicho, ¡te deseo la mejor suerte\ndel mundo!
+¡Magnífico!\n¡Has capturado un SANDSHREW!\r¡Sabía que serías capaz de superar\nlas dos pruebas!\rA partir de ahora, eres gerente\nde la Zona Safari.\r
+La verdad es que... quería ver\na algún joven amante de los Pokémon\fpasándoselo bien en el Safari.\rEntonces, tal vez podría crear\nalgo nuevo y, además, tal vez ser útil\fpara completar tu Pokédex.\r¡Y yo también podré estudiar!\n¿No?...\r
+Una cosa más.\nAhora eres jefe, lo sé, pero...\r¿Me podrías pagar la entrada?\rEs que el tema financiero...\rAdemás, todo es por ser útil\npara tu Pokédex...\rAdemás, me estrujaré la cabeza\npara buscar nuevas actividades.\r¡Hala, pásatelo bien en la Zona Safari!
+En cuanto se me ocurra\nalguna actividad nueva,\fte avisaré por el Pokégear.
+¡Captura a SANDSHREW y enséñamelo!\rMejor me dejo de rodeos,\nSANDSHREW está en... ¡el Desierto!\rLo dicho,\n¡te deseo la mejor suerte del mundo!
+Tómatelo con tranquilidad.\rCuando tenga todo listo\npara la segunda prueba,\fte aviso por el Pokégear.\fUn poco de paciencia, por favor.
+¡Ya está! ¡Todo listo!\r¡He sentido cómo me atravesaba\nun rayo de iluminación!\rMejor me dejo de rodeos...\n¡Colocar bloques!\r¡Es algo fabuloso!\nPuedes colocar cosas en el Terreno\fcuando estás explorando la Zona Safari.\r
+¡Pero aún hay más!\rSegún el tipo de bloque que coloques,\nvariarán los Pokémon que aparecen.\rEs un mecanismo que te sorprenderá.\rPara cualquier cosa, te aviso\npor el Pokégear.\r
+Te voy a explicar qué es eso\nde Colocar Bloques.\rPregúntame lo que quieras.{YESNO 0}
+Te voy a explicar qué es eso\nde Colocar Bloques.\rPregúntame lo que quieras.\r
+Puedes colocarlos en cualquier\nlugar cuando andes por la Zona Safari.\rLa excepción son las escaleras y\nlas zonas de hierba alta donde aparecen\fPokémon. Además, tienes un límite de\f30 bloques por terreno. ¡No lo olvides!\rPregúntame lo que quieras.{YESNO 0}\n
+Colocarlos es muy sencillo.\rComprueba la zona. Si hay espacio,\npuedes elegir el bloque que quieras.\rLos bloques tienen tamaños variados,\npuede que el que elijas no quepa.\rPregúntame lo que quieras.{YESNO 0}\n
+Para eliminar un bloque colocado\nen el terreno, solo tienes\fque examinarlo.\rLos bloques colocados\nestán ligeramente iluminados,\fpor eso brillan por la noche\fy son fáciles de localizar.\rPregúntame lo que quieras.{YESNO 0}
+Hay distintos tipos de bloques:\rde hierba,\nde madera,\fde roca,\fde agua\fy de cualquier otro tipo.\fPrueba con varios tipos.\rPuedes comprobar el número de bloques\nque has colocado en la pantalla\fsuperior de la máquina\fde Personalizar Terreno.\rVe poniéndolos poco a poco, ¿vale?\rPregúntame lo que quieras.{YESNO 0}
+Los Pokémon que aparecen varían\nsegún los bloques que coloques.\rLa Zona Safari cambia en cuanto\nintroduces un cambio en el terreno.\r¡Prueba y ya verás!\rPregúntame lo que quieras.{YESNO 0}
+¡Cuidado!\rCuando sustituyes un Terreno,\ndesaparecen todos los bloques\fque había en él. ¡No lo olvides!\rPregúntame lo que quieras.{YESNO 0}
+¡Hala, a pasárselo pipa\nen la Zona Safari!
+Esta es la Zona Safari de {STRVAR_1 3, 0, 0}.\r¡Por 500 $, podrás atrapar todos\nlos Pokémon que quieras!\r¿Te gustaría probar?{YESNO 0}
+Son {STRVAR_1 52, 1, 0} $.\r
+¡No pasa nada!\n¡Vuelve cuando quieras!
+Toma Safari Balls.\r
+¡{STRVAR_1 3, 0, 0} ha recibido\n{STRVAR_1 51, 1, 0} Safari Balls!
+Te avisaremos si te quedas\nsin Safari Balls.\r¡Disfruta todo lo que puedas y\nmuy buena suerte!\r
+Como no tienes ninguna Zona Safari\nde amigos, no puedes entrar.\rInfórmate en el mostrador\nde aquí al lado.
+Todavía te quedan Safari Balls,\n¿ya te quieres ir de la Zona Safari?
+Como quieras.\rDevuélveme las Safari Balls\nque te queden.\r
+Espero que te haya ido bien.\n¡Hasta la próxima!
+Lo siento, pero te falta dinero.\n¡Hasta la próxima!
+¡Te doy la bienvenida!\rAquí nos encargamos del\nintercambio de Zonas Safari.\rPuedes conectarte con tus amigos\ne intercambiar Zonas Safari.\r¿Quieres intercambiar Zonas Safari?{YESNO 0}
+¡Te doy la bienvenida!\rAquí nos encargamos del\nintercambio de Zonas Safari.\rPuedes conectarte con tus amigos\ne intercambiar Zonas Safari.\r¿Quieres intercambiar Safaris?{YESNO 0}
+¿Quieres guardar la partida?
+Ya hay una partida guardada.\n¿Quieres sobrescribirla?
+Guardando...\nNo apagues la consola.
+{STRVAR_1 3, 0, 0} ha guardado la partida.
+Un Entrenador debe elegir\n“HACER DE LÍDER”.\rEl otro Entrenador debe elegir\n“UNIRSE”.{YESNO 0}
+Elige con quién quieres\nintercambiar tu Zona Safari.{YESNO 0}
+Esperando respuesta de\n{STRVAR_1 3, 0, 0}...
+{STRVAR_1 3, 0, 0} responde\ncon un “vale”...\n
+{STRVAR_1 3, 0, 0} responde\ncon un “no”...
+¿Te sales del grupo?
+Has dejado el grupo.
+Esperando que tu amigo contacte.
+{STRVAR_1 3, 0, 0} ha contactado contigo.\r¿Quieres intercambiar Zonas Safari\ncon {STRVAR_1 3, 0, 0}?{YESNO 0}
+Se ha respondido “vale” a\n{STRVAR_1 3, 0, 0}.
+Estás recibiendo la Zona Safari.\nEspera un momento.
+Has recibido la Zona Safari\nde {STRVAR_1 3, 0, 0}.\r
+El intercambio ha concluido.\rPasa por el mostrador que está\njusto aquí al lado.
+Lo siento, pero aún\nno estamos abiertos.
+¡Vuelve cuando quieras!
+La comunicación inalámbrica de\nNintendo DS se iniciará. ¿Seguir?{YESNO 0}
+Error de conexión.\rPor favor, repite el proceso de\nregistro desde el principio.
+Guardando...\nNo apagues la consola.
+{STRVAR_1 3, 0, 0} ha guardado la partida.
+                                                       
+Has sustituido dos Terrenos\nde la Zona Safari.
+Aquí nos encargamos del envío\ny recepción de Zonas Safari.\rHuy, no...\nEso será dentro de un tiempo.\rEstamos preparándolo todo.\nEspera un poco más, por favor.
+¡Gerente!\rAquí nos encargamos del envío\ny recepción de Zonas Safari.\r¿Quieres que te explique\nesta función?{YESNO 0}
+Aquí nos encargamos del envío\ny recepción de Zonas Safari.\r¿Quieres que te explique\nesta función?{YESNO 0}
+Desde aquí, puedes conectarte con\ntus amigos e intercambiar Zonas Safari.\rAsí podrás jugar en las suyas.\rLos Terrenos y Pokémon que\naparecen varían dependiendo\fde la Zona Safari, claro.\rLas Zonas Safari que recibas por\nconexión pueden sustituir a las nuevas\fo serán eliminadas tras 24 horas.\r¡No lo olvides!\rEl mostrador de la derecha es\npara intercambiar Zonas Safari,\fel de la izquierda es para entrar\fen la Zona Safari de tus amigos.\r¡Espero que te lo pases bien!
+¡Genial!\n¡Vamos a intercambiar Zonas Safari!

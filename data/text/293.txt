@@ -1,0 +1,20 @@
+¡Hola!\n¡{STRVAR_1 28, 0, 0}!
+¡Me encanta {STRVAR_1 28, 0, 0}!
+¡Me encanta {STRVAR_1 28, 0, 0}!\n¡También me encanta {STRVAR_1 28, 1, 0}!
+Este {STRVAR_1 28, 0, 0} es\n{STRVAR_1 28, 1, 0}, ¿verdad?
+¡Haría lo que fuera por\n{STRVAR_1 28, 0, 0}!
+¡Este {STRVAR_1 28, 0, 0} es\n{STRVAR_1 28, 1, 0}!
+¡{STRVAR_1 28, 0, 0} es de verdad\n{STRVAR_1 28, 1, 0}!
+Puede ser {STRVAR_1 28, 0, 0}...
+¡Solo queda {STRVAR_1 28, 0, 0}!
+¡Es {STRVAR_1 28, 0, 0}!\n¡Es {STRVAR_1 28, 1, 0}!
+¡La verdad es que\nyo prefiero {STRVAR_1 28, 0, 0}!
+¿Es {STRVAR_1 28, 0, 0}\n{STRVAR_1 28, 1, 0}?
+¿Te gusta {STRVAR_1 28, 0, 0}?
+¿Qué piensas de\n{STRVAR_1 28, 0, 0}?
+¡{STRVAR_1 28, 0, 0} es muy\n{STRVAR_1 28, 1, 0}!
+¡{STRVAR_1 28, 0, 0} son\n{STRVAR_1 28, 1, 0}!
+{STRVAR_1 28, 0, 0}, ¿no?
+¿Conocías a {STRVAR_1 28, 0, 0}?\n¡Es {STRVAR_1 28, 1, 0}!
+Perdona...\n¡Es {STRVAR_1 28, 0, 0}!
+{STRVAR_1 28, 0, 0}, ¿no?\n¡{STRVAR_1 28, 1, 0}!

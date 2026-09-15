@@ -1,0 +1,24 @@
+Esta es la lista de participantes:
+¡Estos son los resultados!
+¡El juguete táctil de {STRVAR_1 3, 0, 0} se\nha convertido en {STRVAR_3 2, 1, 0}!
+¿Quieres seguir jugando a\n{STRVAR_3 0, 0, 0}?
+  
+   
+Alguien ha tenido que abandonar.\nSe cancelará el juego de la plaza.
+Número de globos que habéis\nexplotado entre todos: {STRVAR_1 51, 0, 0}.
+¡Enhorabuena! ¡Todos habéis conseguido\nmejoras en vuestros juguetes táctiles!
+¡Qué lástima! No has conseguido\nmejoras en tu juguete táctil.
+{STRVAR_1 3, 0, 0}
+{STRVAR_1 36, 0, 0}
+{STRVAR_1 37, 0, 0}
+Puntos: {STRVAR_1 55, 0, 0}
+Puntos: {STRVAR_1 54, 0, 0}
+Esperando que contacte otro jugador...
+{STRVAR_3 0, 0, 0}
+¡Enhorabuena!\n¡{STRVAR_1 3, 0, 0} ha ganado!
+{STRVAR_1 3, 0, 0} no ha conseguido ganar...
+Ya no puedes obtener más mejoras para\ntu juguete táctil.
+¡El juguete táctil de {COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0} se\nha convertido en {STRVAR_3 2, 1, 0}!
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}
+¡Enhorabuena!\n¡{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0} ha ganado!
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0} no ha conseguido ganar...

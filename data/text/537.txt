@@ -1,0 +1,31 @@
+Sede de Silph S.A.
+¡Eh, eh! El ascensor está averiado.\rEl fluido eléctrico no va como debiera\ny por eso no funciona.\rYa que te has tomado la molestia\nde venir a visitarnos,\ftoma este pequeño recuerdo.\r
+Es lo último de Silph S.A.\nAún no se encuentra a la venta.
+El ascensor está averiado.\rNo te acerques,\npodrías electrocutarte.
+
+
+
+Máximo: Nos volvemos a encontrar.\n¿Has ido a Hoenn alguna vez?\rEs un lugar precioso. El mar cristalino\nse extiende hasta el horizonte.\rSi aún no lo has visto, espero que\nalgún día tengas la ocasión.\r¡Oye! ¿Cambiamos Pokémon?\nEstaba buscando un FORRETRESS,\f¿me lo cambias por un BELDUM?\rVenga, por favor...{YESNO 0}\n
+Máximo: ¿Me cambias el BELDUM\nque yo tengo por un FORRETRESS?{YESNO 0}
+Máximo: ¡Guay, hecho!\r
+Máximo: ¿No? Vaya chasco...
+Máximo: ¿Me estás diciendo\nque eso es un FORRETRESS?
+Máximo: No hay FORRETRESS en Hoenn.\rEs la primera vez que\nveo uno de verdad.\r¡Gracias!\r¡Guau! ¡Qué tarde se ha hecho!\n¡Me tengo que ir!\r
+Máximo: A este Pokémon le caes muy bien.\r¿Te gustan por casualidad\nlos Pokémon de tipo Acero?\r¡Lo sabía!\rSu tacto engancha mucho.\n¡Y además todo su cuerpo brilla!\rLa sensación, cuando abrazas a BELDUM\ny casi sientes rechazo por su dureza,\fes precisamente una forma de expresión\fde su nobleza.\rEn pocas palabras, mi METAGROSS es\nfortachón y guapo. ¡Me vuelve loco!\r
+¿Hola?...\n¿Qué dices?...\rEs que no se te oye bien.\rSupongo que eso lo decidirá mi padre.\nVale, muy bien.\rMe voy. Adiós.\r
+Máximo: Mmm...\nRecuerdo esa mirada.\rEl fulgor de los ojos de los\nEntrenadores es inolvidable para mí.\r
+Máximo: ¡Oh, es la Pokédex!\nAsí que tú también coleccionas Pokémon.\rDeja que te ayude, ¿vale?\rSi vieras piedras preciosas\nde varios colores, ¿cuál elegirías?{YESNO 0}
+PIEDRA VERDE
+PIEDRA ROJA
+PIEDRA AZUL
+Máximo: ¡Buena elección!\nToma, este {STRVAR_1 0, 1, 0} es para ti.\r
+{STRVAR_1 3, 0, 0} ha recibido\nun {STRVAR_1 0, 1, 0} de Máximo.
+Máximo: Cuídalo bien y me\npondré muy contento.\r
+Máximo: Mmm...\nPensaba darte este Pokémon...\rPero tu equipo está completo.\nHaz sitio, aquí te espero.
+Máximo: Te lo vuelvo a preguntar.\n¿La Piedra de qué color eligirías?{YESNO 0}
+¿Quieres ponerle\nun mote a {STRVAR_1 0, 1, 0}?{YESNO 0}
+Máximo: ¡Qué mote más guay!\r
+CANCELAR
+Máximo: Eres muy prudente.\nNo quieres que te vean venir, ¿no?\fContigo hay que estar atento.
+                                     
+                                                                                                                                                 

@@ -1,0 +1,81 @@
+Primero tengo que requisar todos los\nobjetos que lleven los Pokémon.\r
+Espera un momento, por favor.
+             
+¡Buen combate!\nAhora voy a curar a los Pokémon.
+¡Ahora toca el combate {STRVAR_1 53, 0, 0}!\n¿Todo listo?
+¿Quieres guardar el último combate\ncomo tu Vídeo de Combate?
+Se ha guardado el último enfrentamiento\nde {STRVAR_1 3, 0, 0} como Vídeo de Combate.\r
+Se ha producido un error.\nEl Vídeo de Combate no se ha guardado.\r
+¿Quieres borrar el Vídeo de Combate\nactual y guardar tu último combate?
+Guardando...\nNo apagues la consola.
+¿Quieres guardar la partida\ny tomarte un descanso?
+  
+   
+¿Quieres retirarte?
+  
+   
+{STRVAR_1 3, 0, 0} se lo está pensando.\nPor favor, espera.
+                    
+{STRVAR_1 3, 0, 0} se ha retirado.
+¡Hola! ¡Esta es la Ruleta Batalla!\r
+¡Combate número {STRVAR_1 53, 0, 0}!\n¡Empecemos!
+¡Activemos la ruleta y\nque la fortuna decida!
+¡La suerte está echada!
+¡Los Pokémon de {STRVAR_1 3, 0, 0} empezarán\nel combate sin algunos de sus PS!
+¡Tanto los Pokémon de {STRVAR_1 3, 0, 0}\ncomo los de {STRVAR_1 3, 1, 0} comenzarán el\fcombate sin algunos de sus PS!
+¡Los Pokémon de {STRVAR_1 3, 0, 0} empezarán\nel combate con más nivel del normal!
+¡Tanto los Pokémon de {STRVAR_1 3, 0, 0}\ncomo los de {STRVAR_1 3, 1, 0} comenzarán el\fcombate con más nivel del normal!
+¡El combate dará comienzo con los\nPokémon de {STRVAR_1 3, 0, 0} envenenados!
+¡Tanto los Pokémon de {STRVAR_1 3, 0, 0}\ncomo los de {STRVAR_1 3, 1, 0} comenzarán el\fcombate envenenados!
+¡El combate dará comienzo con los\nPokémon de {STRVAR_1 3, 0, 0} paralizados!
+¡Tanto los Pokémon de {STRVAR_1 3, 0, 0}\ncomo los de {STRVAR_1 3, 1, 0} comenzarán el\fcombate paralizados!
+¡El combate dará comienzo con los\nPokémon de {STRVAR_1 3, 0, 0} quemados!
+¡Tanto los Pokémon de {STRVAR_1 3, 0, 0}\ncomo los de {STRVAR_1 3, 1, 0} comenzarán el\fcombate quemados!
+¡El combate dará comienzo con un\nPokémon de {STRVAR_1 3, 0, 0} dormido!
+¡Un Pokémon de {STRVAR_1 3, 0, 0}\no de {STRVAR_1 3, 1, 0} comenzará el\fcombate dormido!
+¡El combate dará comienzo con un\nPokémon de {STRVAR_1 3, 0, 0} congelado!
+¡Un Pokémon de {STRVAR_1 3, 0, 0}\no de {STRVAR_1 3, 1, 0} comenzará el\fcombate congelado!
+¡A cada Pokémon de {STRVAR_1 3, 0, 0} se le\nha dado el objeto {STRVAR_1 8, 2, 0}!
+¡A cada Pokémon de {STRVAR_1 3, 0, 0} y de\n{STRVAR_1 3, 1, 0} se le ha dado\fel objeto {STRVAR_1 8, 2, 0}!
+¡Tomad!\r
+El siguiente combate se llevará\na cabo bajo un sol abrasador.
+El siguiente combate se llevará\na cabo bajo un fuerte aguacero.
+El siguiente combate se llevará\na cabo bajo una tormenta de arena.
+El siguiente combate se llevará\na cabo bajo una tormenta de granizo.
+El siguiente combate se llevará\na cabo bajo una densa niebla.
+El siguiente combate se llevará a cabo\nen un lugar donde el tiempo y el espacio\fhan sido distorsionados.
+En el siguiente combate se\nintercambiarán los equipos Pokémon.
+A partir del siguiente combate, la\nruleta funcionará a mayor velocidad.
+A partir del siguiente combate, la\nruleta funcionará a menor velocidad.
+Para el siguiente combate, la\nruleta funcionará aleatoriamente.
+¡{STRVAR_1 3, 0, 0} ha conseguido {STRVAR_1 51, 2, 0} PB!
+¡{STRVAR_1 3, 0, 0} y {STRVAR_1 3, 1, 0} han\nconseguido {STRVAR_1 51, 2, 0} PB!
+¿Todo listo?
+¡Vaya, menuda suerte!\n¡Es posible evitar el siguiente combate!
+¡Qué mala pata! Una casilla en blanco.\nNo pasará nada especial en el combate.
+¡Adelante! ¡Que empiece el combate!
+Los Pokémon de {STRVAR_1 3, 0, 0} empezarán\nel combate envenenados...\r¡Un momento! ¡Qué suerte!\r¡Los Pokémon de {STRVAR_1 3, 0, 0} son\ninmunes al veneno!
+Los Pokémon de {STRVAR_1 3, 0, 0} y los de\r{STRVAR_1 3, 1, 0} empezarán el combate\nenvenenados...\r¡Oh! ¡Parece que estáis de suerte!\r¡Vuestros Pokémon son inmunes\nal veneno!
+Los Pokémon de {STRVAR_1 3, 0, 0} empezarán\nel combate paralizados...\r¡Pero parece que está de suerte!\r¡Los Pokémon de {STRVAR_1 3, 0, 0} son\ninmunes a la parálisis!
+Los Pokémon de {STRVAR_1 3, 0, 0} y los de\r{STRVAR_1 3, 1, 0} empezarán el combate\nparalizados...\r¡Un momento! ¡Qué suerte!\r¡Todos vuestros Pokémon son inmunes\na la parálisis!
+Los Pokémon de {STRVAR_1 3, 0, 0} empezarán\nel combate quemados...\r¡Espera! ¡Qué potra!\r¡A los Pokémon de {STRVAR_1 3, 0, 0} no les\nafectan las quemaduras!
+Los Pokémon de {STRVAR_1 3, 0, 0} y los de\r{STRVAR_1 3, 1, 0} empezarán el combate\nquemados...\rA ver... ¡Parece que estáis de suerte!\n¡A vuestros Pokémon no les afecta!
+Un Pokémon de {STRVAR_1 3, 0, 0} empezará\nel combate dormido...\r¡¿Cómo?! ¡Parece que está de suerte!\r¡Los Pokémon de {STRVAR_1 3, 0, 0} son\ninsomnes!
+Un Pokémon de {STRVAR_1 3, 0, 0} o de\r{STRVAR_1 3, 1, 0} empezará el combate\ndormido...\r¡Parece que ha habido suerte!\n¡Vuestros Pokémon son insomnes!
+Un Pokémon de {STRVAR_1 3, 0, 0} empezará\nel combate congelado...\rUn momento... ¡Qué suerte!\r¡Los Pokémon de {STRVAR_1 3, 0, 0} no se\npueden congelar!
+Un Pokémon de {STRVAR_1 3, 0, 0} o de\r{STRVAR_1 3, 1, 0} empezará el combate\ncongelado...\rUn momento... ¡Habéis tenido suerte!\n¡Vuestros Pokémon son inmunes!
+¡Siete victorias consecutivas!\n¡Enhorabuena!\r¡Me complace entregar PB como premio!\r
+¡{STRVAR_1 3, 0, 0} ha conseguido {STRVAR_1 51, 1, 0} PB!\r
+                                 
+Ahora les devolveré a los Pokémon\nlos objetos que les hayamos requisado.\r
+Guardando...\nNo apagues la consola.
+                          
+ADELANTE
+GUARDAR VÍDEO
+DESCANSO
+RETIRADA
+¡Mi más sincera enhorabuena!\rEn reconocimiento a la pericia\ndemostrada hasta ahora, nuestro As\fdel Frente solicita un duelo.\rPor lo tanto, ¡el siguiente combate\nserá irremediablemente contra\fel Astro Ruleta!\r¡Adelante!\r
+Delila: No te preocupes y deja \nque la suerte decida por ti. ♫\rLa vida gira como una ruleta y tiene\nsus sorpresas, malas o buenas.\rNo te preocupes y deja\nque la suerte decida... ♫\rBah, mejor dejo el canturreo.\nUna cosa tengo bien clara:\rNo se llega hasta aquí solo\ngracias a la buena suerte.\rAsí que no perdamos el tiempo, ¡tengo\nganas de que midamos nuestros\fequipos Pokémon!\r
+Delila: No te preocupes y deja \nque la suerte decida por ti. ♫\rLa vida gira como una ruleta y tiene\nsus sorpresas, malas o buenas.\rNo te preocupes y deja\nque la suerte decida... ♫\rBah, mejor dejo el canturreo.\nLlegar hasta aquí ya es increíble,\r¿pero no habrá sido exclusivamente\ncon buena fortuna?\r¿O acaso la suerte no ha tenido\nnada que ver?\r¡Voy a comprobarlo con mis\npropios ojos!\r
+Delila: ¡Vaya, menudo combate!\rLos Pokémon se sienten apreciados y,\na cambio, han mostrado su confianza.\rPor eso la suerte no los ha abandonado.\r¡Enhorabuena por una victoria\ninapelable!\r
+Delila: En serio, ¡ha sido un combate\ntotalmente increíble!\rEstá claro de qué lado\nha estado la suerte.\rEsa es otra habilidad más.\r¡Al derrotarme ha quedado de manifiesto\nquién tiene más pericia con los Pokémon!\r¡Ha sido todo un honor haber\nparticipado en este combate!\r

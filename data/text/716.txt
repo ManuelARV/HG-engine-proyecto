@@ -1,0 +1,45 @@
+Prof. Elm
+¡Hola, {STRVAR_1 3, 0, 0}!\rOye, si estás por aquí cerca,\nven a verme.
+¡Hola, {STRVAR_1 3, 0, 0}!\rOye, si estás por aquí cerca,\nven a verme.
+Hola, ¿{STRVAR_1 3, 0, 0}?\nTrabaja, pero con mesura.\rAsegúrate de que tu equipo Pokémon\ndescanse si está débil.
+Hola, ¿{STRVAR_1 3, 0, 0}?\nTrabaja, pero con mesura.\rAsegúrate de que tu equipo Pokémon\ndescanse si está débil.
+¡{STRVAR_1 3, 0, 0}! ¿Sabes?\rMe he descuidado un segundo y...\npuf... ha ocurrido una cosa horrible...
+¡{STRVAR_1 3, 0, 0}! ¿Sabes?\rMe he descuidado un segundo y...\npuf... ha ocurrido una cosa horrible...
+Hola, {STRVAR_1 3, 0, 0}.\rEstamos examinando el Huevo.\nParece ser un Huevo Pokémon.\rA ver si descubrimos algo interesante.
+Hola, {STRVAR_1 3, 0, 0}.\rEstamos examinando el Huevo.\nParece ser un Huevo Pokémon.\rA ver si descubrimos algo interesante.
+Hola, ¿{STRVAR_1 3, 0, 0}?\r¿Has visto a mi ayudante? Está en\nla Tienda Pokémon de Ciudad Malva.\rTiene algo importante, ve a ver qué es.
+Hola, ¿{STRVAR_1 3, 0, 0}?\r¿Has visto a mi ayudante? Está en\nla Tienda Pokémon de Ciudad Malva.\rTiene algo importante, ve a ver qué es.
+Hola, {STRVAR_1 3, 0, 0}.\r¿Cómo está el Huevo?\n¿Ha cambiado algo?\rSi le ocurre algo peculiar, por favor,\nllámame.
+Hola, {STRVAR_1 3, 0, 0}.\r¿Cómo está el Huevo?\n¿Ha cambiado algo?\rSi le ocurre algo peculiar, por favor,\nllámame.
+Hola, {STRVAR_1 3, 0, 0}.\n¡Ya me he enterado!\rEl Huevo ha eclosionado, ¿no?\n¡Bien hecho, {STRVAR_1 3, 0, 0}!\rFue completamente acertada mi decisión\nde dejarte el Huevo.\f¡Tienes que enseñarme qué Pokémon es!\n
+Hola, {STRVAR_1 3, 0, 0}.\n¡Ya me he enterado!\rEl Huevo ha eclosionado, ¿no?\n¡Bien hecho, {STRVAR_1 3, 0, 0}!\rFue completamente acertada mi decisión\nde dejarte el Huevo.\f¡Tienes que enseñarme qué Pokémon es!\n
+Hola, {STRVAR_1 3, 0, 0}.\nHe hecho un nuevo descubrimiento.\rEl tiempo que tarda un Huevo en\neclosionar depende del Pokémon.
+Hola, {STRVAR_1 3, 0, 0}.\nHe hecho un nuevo descubrimiento.\rEl tiempo que tarda un Huevo en\neclosionar depende del Pokémon.
+Hola, {STRVAR_1 3, 0, 0}.\rTodavía son un misterio los movimientos\nque tendrá un Pokémon al eclosionar.\rJusto ahora estamos investigando\neste asunto.
+Hola, {STRVAR_1 3, 0, 0}.\rTodavía son un misterio los movimientos\nque tendrá un Pokémon al eclosionar.\rJusto ahora estamos investigando\neste asunto.
+Hola, {STRVAR_1 3, 0, 0}.\rLa radio no me va bien, ¿habrá pasado\nalgo en Ciudad Trigal?
+Hola, {STRVAR_1 3, 0, 0}.\rLa radio no me va bien, ¿habrá pasado\nalgo en Ciudad Trigal?
+Hola, {STRVAR_1 3, 0, 0}.\rTe queda una Medalla de Gimnasio\nde la región de Johto.\rLa Líder del Gimnasio de Ciudad Endrino\nes una Domadragón. Dicen que es\fmuy buena.
+Hola, {STRVAR_1 3, 0, 0}.\rTe queda una Medalla de Gimnasio\nde la región de Johto.\rLa Líder del Gimnasio de Ciudad Endrino\nes una Domadragón. Dicen que es\fmuy buena.
+Hola, {STRVAR_1 3, 0, 0}.\rEstás mejorando mucho, ¿a que sí?\nTanto que no hace falta ni que me\fpreocupe por ti.\r¡Intenta llegar tan lejos como puedas!
+Hola, {STRVAR_1 3, 0, 0}.\rEstás mejorando mucho, ¿a que sí?\nTanto que no hace falta ni que me\fpreocupe por ti.\r¡Intenta llegar tan lejos como puedas!
+Hola, {STRVAR_1 3, 0, 0}.\rEl Profesor Oak ha dejado una cosa\npara ti. Pásate por el Laboratorio.\n
+Hola, {STRVAR_1 3, 0, 0}.\rEl Profesor Oak ha dejado una cosa\npara ti. Pásate por el Laboratorio.\n
+Hola, {STRVAR_1 3, 0, 0}.\rLa evolución de los Pokémon\ntiene muchos secretos.\rAlgunos solo evolucionan\nen circunstancias muy determinadas.
+Hola, {STRVAR_1 3, 0, 0}.\rLa evolución de los Pokémon\ntiene muchos secretos.\rAlgunos solo evolucionan\nen circunstancias muy determinadas.
+Hola, {STRVAR_1 3, 0, 0}.\rEn Kanto todavía debe de haber\nPokémon desconocidos para mí.\rTal vez haya hasta evoluciones\nque jamás haya visto.\r¡Fíjate bien en todo lo que pasa\na tu alrededor!
+Hola, {STRVAR_1 3, 0, 0}.\rEn Kanto todavía debe de haber\nPokémon desconocidos para mí.\rTal vez haya hasta evoluciones\nque jamás haya visto.\r¡Fíjate bien en todo lo que pasa\na tu alrededor!
+Hola, {STRVAR_1 3, 0, 0}.\rLos Pokémon infectados por el Pokérus\nse crían mucho mejor.\rNadie sabe por qué...
+Hola, {STRVAR_1 3, 0, 0}.\rLos Pokémon infectados por el Pokérus\nse crían mucho mejor.\rNadie sabe por qué...
+Hola, {STRVAR_1 3, 0, 0}.\r¡Menudo desastre!\nSí, sí... ¡Es terrible!\r¿Qué hago? ¿Qué hago?\nEs que... Oh, no...\r¡Por favor, vuelve cuanto antes!
+Hola, {STRVAR_1 3, 0, 0}.\r¡Menudo desastre!\nSí, sí... ¡Es terrible!\r¿Qué hago? ¿Qué hago?\nEs que... Oh, no...\r¡Por favor, vuelve cuanto antes!
+Hola, {STRVAR_1 3, 0, 0}.\nHemos descubierto algo más.\rEs difícil contarte todo al detalle,\npero quiero que cuides el Huevo.\rMi ayudante está en la Tienda Pokémon\nde Ciudad Malva. Ve allí; él te lo dará.
+Hola, {STRVAR_1 3, 0, 0}.\nHemos descubierto algo más.\rEs difícil contarte todo al detalle,\npero quiero que cuides el Huevo.\rMi ayudante está en la Tienda Pokémon\nde Ciudad Malva. Ve allí; él te lo dará.
+{STRVAR_1 3, 0, 0}, ¿qué tal van las cosas?\rTe llamo porque pasa algo raro\ncon las emisiones de radio.\rEstán hablando del Team Rocket.\n{STRVAR_1 3, 0, 0}, ¿sabes algo acerca\fde esto?\rQuizá el Team Rocket ha regresado.\nNo, no puede ser verdad.\rSiento molestarte. ¡Y ten cuidado!
+{STRVAR_1 3, 0, 0}, ¿qué tal van las cosas?\rTe llamo porque pasa algo raro\ncon las emisiones de radio.\rEstán hablando del Team Rocket.\n{STRVAR_1 3, 0, 0}, ¿sabes algo acerca\fde esto?\rQuizá el Team Rocket ha regresado.\nNo, no puede ser verdad.\rSiento molestarte. ¡Y ten cuidado!
+Hola, {STRVAR_1 3, 0, 0}. ¿Qué tal estás?\n¡He conseguido algo estupendo!\rPásate por mi Laboratorio\nsi lo quieres.\r¡Hasta luego!
+Hola, {STRVAR_1 3, 0, 0}. ¿Qué tal estás?\n¡He conseguido algo estupendo!\rPásate por mi Laboratorio\nsi lo quieres\r¡Hasta luego!
+Hola, {STRVAR_1 3, 0, 0}.\rTengo aquí algo para ti.\n¿Puedes venir a mi Laboratorio?\r¡Hasta luego!
+Hola, {STRVAR_1 3, 0, 0}.\rTengo aquí algo para ti.\n¿Puedes venir a mi Laboratorio?\r¡Hasta luego!
+Hola, {STRVAR_1 3, 0, 0}.\nHe descubierto una cosa muy rara.\rAparentemente, hay una cosa llamada\nPokérus que infecta a los Pokémon.\rSí, es como un virus muy raro.\nSe multiplica muy rápido e infecta a\flos Pokémon. Pero eso es todo.\rNo parece que haga nada y\nse pasa con el tiempo.\rCreo que no hay por qué preocuparse.\n¡Adiós!
+Hola, {STRVAR_1 3, 0, 0}.\nHe descubierto una cosa muy rara.\rAparentemente, hay una cosa llamada\nPokérus que infecta a los Pokémon.\rSí, es como un virus muy raro.\nSe multiplica muy rápido e infecta a\flos Pokémon. Pero eso es todo.\rNo parece que haga nada y\nse pasa con el tiempo.\rCreo que no hay por qué preocuparse.\n¡Adiós!

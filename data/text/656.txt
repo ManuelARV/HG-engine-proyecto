@@ -1,0 +1,15 @@
+Aníbal
+Huy, esto no se oye.\nEsto es raro. Muy raro.\rTú marca desde otro lugar.
+¿Mande? Se me oye bien, ¿no?\rPerdona por gritar, no estoy\nacostumbrado a estos cacharros.\r¡Estoy como un sansón!\r
+Hay otros Líderes de Gimnasio\nharto poderosos. ¡No te rindas!
+Los miércoles por la noche estoy\nsiempre tirado en el sofá, llámame.
+¡Oye! Justo acababa de terminar\nde entrenarme, ¿combatimos?{YESNO 0}
+Ese es el espíritu.\rTe espero en el Dojo de Ciudad Azafrán.\n¡No tardes!
+¡Grrrrrrrrrr!\nA aguantarte. Otra vez será.
+Mmm... ¿Luchar conmigo? ¿Ahora?\n¿No has quedado ya?
+Te estoy esperando en el Dojo\nde Ciudad Azafrán.\r¡Hay que desentumecerse\nde vez en cuando!
+¡Hola, aquí Aníbal!\n¿Qué tal estás?\r
+Hay cosas que los guerreros de verdad\nno olvidan. Vas a venir a combatir\fal Dojo de Ciudad Azafrán, ¿no?\fConfío en tu entereza.
+Joven, ya sabes que todos los\ndías me entreno bajo una cascada.\rPor eso mi mujer lo pasa muy mal.\nNunca estoy en casa. Un día de estos\fvoy a tener que llevarla de viaje\fa algún sitio. ¿Qué sitio le gustará?\r¡Seguro que se muere por ir a las\nCataratas de Tohjo!\r¿O tal vez no?...
+Me encantan los dulces.\rDespués de entrenar, me zampo\nalguno sin que mi mujer se entere.\r¡Es mi pequeño secreto!\rPero, por esa misma razón,\nestoy empezando a echar barriga...\rNo le cuentes esto a mi mujer, ¿eh?
+El mecanismo de la catarata\ndel Gimnasio no va bien últimamente...\r¡Uaaaaaaaaaaaaaaaaaaaaaaaaaaah!\n¡Uaaaaaaaaaaaaaaaaaaaaaaaaaaah!\f¡Uaaaaaaaaaaaaaaaaaaaaaaaaaaah!\f¡Uaaaaaaaaaaaaaaaaaaaaaaaaaaah!\rHuy, lo siento...\rEl agua ha empezado a salir disparada\npor una avería y casi ni lo cuento.\rYa te llamaré cuando ponga todo esto\nen orden.

@@ -1,0 +1,36 @@
+Quería un PORYGON,\npero me faltan 100 Fichas...
+¡Vaya!...\rDebo frenarme un poco...\r¡Como me pase el día jugando, mi mujer\nme pone de patitas en la calle!
+¡Una mañana me desperté y\ndescubrí todo mi potencial!\r¿Que cuál es mi potencial?\n¿Que cuál es mi poder oculto?\rEs una fuerza que me permite ver\nel Poder Oculto de un Pokémon.\rPuedo decirte de qué tipo será\ncuando lo aprenda un Pokémon.\r¿Quieres que use mi poder oculto?\rTe diré de qué tipo será el Poder\nOculto del Pokémon que elijas. {YESNO 0}
+¿Te digo de qué tipo será el Poder\nOculto de un Pokémon tuyo?\fEse es mi propio poder oculto.{YESNO 0}
+Si este Pokémon aprendiera\nel movimiento Poder Oculto,\f¡este sería de tipo {STRVAR_1 15, 0, 0}!
+¡El Poder Oculto de este Pokémon\nes del tipo {STRVAR_1 15, 0, 0}!
+Si quieres saberlo, pídemelo y activaré\nmi poder oculto para ti.
+¡¿Enseñarle un movimiento a un Huevo?!\nNo. Eso es totalmente imposible.
+No, no. Este Pokémon ni siquiera puede\naprender el movimiento Poder Oculto.
+¡Hola!\r¡Aquí cambiamos tus Fichas\npor premios fabulosos! {YESNO 0}
+Vale. ¡Vuelve cuando tengas\nFichas guardadas!
+¡Vaya! ¡Necesitas más Fichas! {YESNO 0}
+¿Has dicho {STRVAR_1 8, 0, 0}?\n¿Es eso lo que quieres? {YESNO 0}\n
+¡Aquí tienes!\r
+Tu Bolsa está llena.\r
+No puedes llevar más Pokémon contigo.\nVuelve cuando hayas dejado alguno.
+¿Quieres un {STRVAR_1 0, 1, 0}? {YESNO 0}
+¡{STRVAR_1 3, 0, 0} ha obtenido\nun {STRVAR_1 0, 1, 0}! {YESNO 0}
+¡Hola!\r¡Aquí te cambiamos tus Fichas\npor Pokémon! {YESNO 0}
+Has puesto el objeto {STRVAR_1 8, 0, 0}\nen el Bolsillo {STRVAR_1 18, 1, 0}.{YESNO 0}
+CANCELAR
+MÁQUINAS TÉCNICAS
+OBJETOS
+Aguante\n2000 Fichas
+Doble Equipo\n4000 Fichas
+Poder Oculto\n6000 Fichas
+Psíquico\n10 000 Fichas
+Giro Bola\n10 000 Fichas
+Giga Impacto\n15 000 Fichas
+Pañuelo Seda\n1000 Fichas
+Lupa\n1000 Fichas
+Telescopio\n1000 Fichas
+Metrónomo\n1000 Fichas
+MR. MIME{CURSOR_X 0}3333 Fichas
+EEVEE{CURSOR_X 0}6666 Fichas
+PORYGON{CURSOR_X 0}9999 Fichas

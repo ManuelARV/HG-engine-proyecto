@@ -1,0 +1,13 @@
+Dalia: ¡Hola! Mi hermano es Líder\ndel Gimnasio de Ciudad Verde.\rPero sale tanto de la ciudad que trae\nproblemas a los Entrenadores.
+Dalia: ¡Llegas a tiempo!\nIba a tomar un té.\r¿Quieres tomarte uno?\rLimpio Pokémon que estén sucios.\r¿Quieres que limpie uno?\rTendrá mejor aspecto\ny será más afectuoso.\r¿Te parece bien? {YESNO 0}
+Dalia: ¿Qué Pokémon limpio?\r
+{STRVAR_1 0, 0, 0} parece muy contento.
+Dalia: ¡Ya está!\n¡Listo!\r¿Qué? ¿Tiene buen aspecto o no?\n¡Qué Pokémon más mono!
+Dalia: Siempre tomo té a esta\nhora. Ven cuando quieras.
+Dalia: ¿No quieres que limpie un\nPokémon? Vale, tan solo tomaremos té.
+Dalia: Lo siento.\nNo puedo limpiar un Huevo.
+Dalia: Je, je, je.\nQuieres mucho a los Pokémon, ¿no?\f¡Ya sé!\rVoy a darte el número de teléfono\nde mi hermano.\rEs el Líder del Gimnasio de Ciudad Verde.\r¿Ya te has enfrentado a él?\rEntonces, ¿quieres su teléfono? {YESNO 0}
+¡{STRVAR_1 3, 0, 0} ha registrado a Azul\nen el Pokégear!
+Dalia: Llámalo si te apetece.\rEs un poco serio, pero es porque\nse siente un poco solo...\rMe dijo que los domingos por la noche\nno tiene nada que hacer.
+Dalia: ¿Eh? ¿No quieres su número?\nVaya...\fMe sabe muy mal...
+Dalia: ¿Quieres el número\nde mi hermano? {YESNO 0}\n

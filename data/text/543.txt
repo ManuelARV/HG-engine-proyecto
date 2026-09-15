@@ -1,0 +1,106 @@
+Elm: ¡{STRVAR_1 3, 0, 0}!\n¡Te estaba esperando!\r¿Conocías mi Laboratorio?\rHoy en día es de lo más normal\nllevar Pokémon contigo dentro de\flas Poké Balls, ¿verdad?\rPero antes de que se inventaran\nlas Poké Balls la gente iba a todas\fpartes con los Pokémon a su lado.\r¡Eso es, como tu amiga Lira!\rAunque llevarlos dentro de las\nPoké Balls es mucho más práctico,\fcreo que dejar que caminen contigo\ftambién puede aportarte algo positivo.\rProbablemente influya en su desarrollo\ny su evolución...\r¡Tengo una idea!\rVoy a darte un Pokémon. Quiero\nque lo lleves junto a ti y observes\fsi muestra algún sentimiento o vínculo\fespecial con las personas.\rEl Pokémon está ahí encima...\r
+Elm: ¡{STRVAR_1 3, 0, 0}!\n¡Te estaba esperando!\r¿Conocías mi Laboratorio?\rHoy en día es de lo más normal\nllevar Pokémon contigo dentro de\flas Poké Balls, ¿verdad?\rPero antes de que se inventaran\nlas Poké Balls la gente iba a todas\fpartes con los Pokémon a su lado.\r¡Eso es, como tu amigo Eco!\rAunque llevarlos dentro de las\nPoké Balls es mucho más práctico,\fcreo que dejar que caminen contigo\ftambién puede aportarte algo positivo.\rProbablemente influya en su desarrollo\ny su evolución...\r¡Tengo una idea!\rVoy a darte un Pokémon. Quiero\nque lo lleves junto a ti y observes\fsi muestra algún sentimiento o vínculo\fespecial con las personas.\rEl Pokémon está ahí encima...\r
+Elm: ¡Oh, vaya! ¡Tengo un e-mail!\r
+Elm: Mmm...\nAjá, vale...\r
+Elm: Escucha. Conozco a alguien llamado\nSr. Pokémon. Siempre está investigando\fcosas extrañas y se emociona muchísimo\fcada vez que descubre algo.\rMe acaba de escribir un e-mail diciendo\nque esta vez ha hecho un hallazgo\fbastante importante.\rQuizá se trate de otro Huevo Pokémon.\nEn cualquier caso, no puedo moverme\fde aquí porque estoy dirigiendo\funa investigación y tengo una montaña\fde trabajo...\r¡Ah, ya sé!\r¡Podrías ir tú en mi lugar!\n¡Vamos, hazme ese favor!\r¡Elige un Pokémon de los que hay\nahí encima!\r
+Elm: Si llevas tu propio Pokémon,\npodrás hacer que luche contra los\fPokémon salvajes que te ataquen.
+Elm: ¿Adónde vas?\nLas Poké Balls están ahí.\r
+¡{STRVAR_1 3, 0, 0} ha recibido\nun {STRVAR_1 0, 1, 0} del Profesor Elm!
+¿Quieres ponerle un mote\nal {STRVAR_1 0, 1, 0} que has recibido?{YESNO 0}
+¿{STRVAR_1 1, 1, 0}? ¿Ese es el mote que\nquieres ponerle?{YESNO 0}
+Elm: Creo que si llevas el Pokémon\na tu lado, no tardaréis mucho en\fllevaros bien. ¿Qué te parece?\rId hasta la casa del Sr. Pokémon\ny en caso de que tu Pokémon\fse haga daño...\r
+Puedes curarlo con esa máquina de ahí.\rEs un dispositivo que controlo\nfácilmente con mi PC.\r
+Elm: El Sr. Pokémon va a todas\npartes buscando rarezas.\rVive yendo hacia el norte,\npasada Ciudad Cerezo.\rMe haces un gran favor\nyendo hasta allí, {STRVAR_1 3, 0, 0}.
+Elm: El Sr. Pokémon va a todas\npartes buscando rarezas.\rVive yendo hacia el norte,\npasada Ciudad Cerezo.\rMe haces un gran favor\nyendo hasta allí, {STRVAR_1 3, 0, 0}.
+Este PC está conectado a la máquina\nde curación.
+Quedan dos Pokémon muy valiosos.\nPero estos son del Profesor...
+Queda un Pokémon muy valioso.\rMmm... Mirándolo bien, está protegido\ncon una barrera de cristal para evitar\fque lo roben.
+¡Ya no queda ningún Pokémon!\r¿A quién se lo habrá dado\nel Profesor Elm?...
+¿Eh? ¿Yo? \nNo, yo no soy el Profesor.\rEs el que está al fondo de la sala.
+¡{STRVAR_1 3, 0, 0}, quiero que tengas esto\npor hacernos el recado!\r
+¡{STRVAR_1 3, 0, 0}, quiero que tengas esto\npor hacernos el recado!\r
+El Pokémon que llevas contigo aún no es\nmuy fuerte y podríais tener problemas.\rEn caso de que resulte herido,\nconviene que le des esta Poción\fenseguida.\r
+El Pokémon que llevas contigo aún no es\nmuy fuerte y podríais tener problemas.\rEn caso de que resulte herido,\nconviene que le des esta Poción\fenseguida.
+¡¿Qué haces tú aquí?!\nEstamos investigando el robo...\ry la norma dice que “el criminal siempre\nregresa al lugar de los hechos”.\rEntonces... ¡No me digas que tú eres\nE L  L A D R Ó N!\r
+Lira: ¡No corras tanto!\nÉl no tiene nada que ver con el robo.\r¡Yo he visto al ladrón! ¡Es un tipo con\nel pelo rojo!\r
+Eco: ¡No corras tanto!\nElla no tiene nada que ver con el robo.\r¡Yo he visto al ladrón! ¡Es un tipo con\nel pelo rojo!\r
+¿Eh? ¿Dices que te has enfrentado a él?\nMmm... Debe de ser un tipo bastante\ffuerte...\r¿No sabrás cómo\nse llama, por casualidad?\r
+¡Bien! ¡Así que su nombre\nes {STRVAR_1 3, 1, 0}!{YESNO 0}
+¡Gracias por tu colaboración!\rAhora toca seguirle la pista al tipo\npelirrojo.\f¡Manos a la obra!\r
+¿No es así como se llama?\n¿Puedes repetir el nombre, por favor?\r
+Lira: ¡Menos mal que ya no\nsospechan de ti, {STRVAR_1 3, 0, 0}!\r¡Bueno, luego nos vemos!\r
+Eco: ¡Menos mal que ya no\nsospechan de ti, {STRVAR_1 3, 0, 0}!\r¡Bueno, luego nos vemos!\r
+Elm: {STRVAR_1 3, 0, 0}...\nMenuda desgracia...\rOh, sí, ¿cuál era el gran descubrimiento\ndel Sr. Pokémon?\r
+Elm: {STRVAR_1 3, 0, 0}...\nMenuda desgracia...\rOh, sí, ¿cuál era el gran descubrimiento\ndel Sr. Pokémon?\r
+¡{STRVAR_1 3, 0, 0} le ha dado\nel Huevo Misterioso al Prof. Elm!
+Elm: Mmm... ¿Qué es esto?\rParece un Huevo, pero... reconozco\nque nunca había visto uno de estas\fcaracterísticas hasta ahora.\rDe todos modos, ya es una costumbre\nque el Sr. Pokémon siga armando\falboroto por cosas tan banales como\fun simple Huevo... a estas alturas...\faunque... tampoco podemos dar por\fsentado que no tenga nada de especial.\rY ya que me lo has traído...\rDe acuerdo, me lo quedaré aquí\npara ir estudiándolo.\r
+Elm: ¿Qué? ¿El Profesor Oak te dio\nuna Pokédex, {STRVAR_1 3, 0, 0}?\r¿En serio? ¡Eso es estupendo!\rEl Profesor Oak tiene un don especial:\nver el potencial de un Entrenador\fsolo con mirarlo.\rVaya, vaya...\nNo es que yo pensara que eras\fun Entrenador cualquiera, pero\fla verdad es que esto resulta\fbastante interesante.\rTambién veo que el Pokémon que te di\nte ha cogido bastante cariño...\r¡Muy bien!\rCreo que podrías atreverte con\nlos Líderes de los Gimnasios y...\f¡si consiguieras vencerlos a todos,\fel siguiente paso sería aspirar al\ftítulo de Campeón Pokémon\fde la Liga Pokémon!\r¡Aunque eso no es moco de pavo!\rDe momento el Gimnasio de Ciudad Malva\nes el que está más cerca de aquí.\rDado tu potencial no creo\nque te dé muchos problemas.\r
+Elm: ¿Qué? ¿El Profesor Oak te dio\nuna Pokédex, {STRVAR_1 3, 0, 0}?\r¿En serio? ¡Eso es estupendo!\rEl Profesor Oak tiene un don especial:\nver el potencial de un Entrenador\fsolo con mirarlo.\rVaya, vaya...\nNo es que yo pensara que eras\funa Entrenadora cualquiera, pero\fla verdad es que esto resulta\fbastante interesante.\rTambién veo que el Pokémon que te di\nte ha cogido bastante cariño...\r¡Muy bien!\rCreo que podrías atreverte con\nlos Líderes de los Gimnasios y...\f¡si consiguieras vencerlos a todos,\fel siguiente paso sería aspirar al\ftítulo de Campeón Pokémon\fde la Liga Pokémon!\r¡Aunque eso no es moco de pavo!\rDe momento el Gimnasio de Ciudad Malva\nes el que está más cerca de aquí.\rDado tu potencial no creo\nque te dé muchos problemas.\r
+{STRVAR_1 3, 0, 0}...\nSi piensas ir a desafiar a los Líderes\fde los Gimnasios, te espera un viaje\fbastante largo.\rAntes de partir deberías ir\na ver a tu madre.\r
+{STRVAR_1 3, 0, 0}...\nSi piensas ir a desafiar a los Líderes\fde los Gimnasios, te espera un viaje\fbastante largo.\rAntes de partir deberías ir\na ver a tu madre.\r
+Elm: ¡Ve a por todas!\nYo estaré ocupado con el estudio\fdel Huevo. ¡Te tendré al corriente!
+Oímos un ruido muy fuerte...\nY cuando salimos a mirar,\falguien se coló y nos robó un Pokémon.\rAyy... Me pregunto cómo estará\nese pobre Pokémon...\rDicen que si los cría una persona\nmalvada, los Pokémon también acaban\fsiendo malvados...
+Elm: ¿Eh? ¿{STRVAR_1 3, 0, 0}, no te\nhas encontrado a mi ayudante?\rLe he dicho que te llevara el Huevo\na la Tienda Pokémon de Ciudad Malva...
+Elm: ¿Eh? ¿{STRVAR_1 3, 0, 0}, no te\nhas encontrado a mi ayudante?\rLe he dicho que te llevara el Huevo\na la Tienda Pokémon de Ciudad Malva...
+Elm: ¡Tienes buen aspecto,\n{STRVAR_1 3, 0, 0}!\rPor cierto...\n¿Cómo está el Huevo?\r¿Lo llevas siempre contigo\nallá donde vas?\r¡Si le dedicas tiempo y lo tratas bien,\nseguro que el Pokémon que nazca\fserá sano y fuerte!
+Elm: ¡Tienes buen aspecto,\n{STRVAR_1 3, 0, 0}!\rPor cierto...\n¿Cómo está el Huevo?\r¿Lo llevas siempre contigo\nallá donde vas?\r¡Si le dedicas tiempo y lo tratas bien,\nseguro que el Pokémon que nazca\fserá sano y fuerte!
+Elm: ¿Qué?\n¿¡Ese Pokémon!?...\r
+Mmm... Por lo que yo sé,\nese Pokémon es imposible de\fencontrar en la región de Johto...\rTal como me contó el Sr. Pokémon\npor teléfono, este tiene que ser un\fPokémon legend...\rEsto... ¡No me hagas caso!\n¡En cualquier caso, estoy convencido\fde que va a ocurrirte algo\fextraordinario, {STRVAR_1 3, 0, 0}!\r¡Bien! ¡Voy a darte un regalo por\nlo mucho que prometes!\f¡Acéptalo sin reparos!\r
+Mmm... Por lo que yo sé,\nese Pokémon es imposible de\fencontrar en la región de Johto...\rTal como me contó el Sr. Pokémon\npor teléfono, este tiene que ser un\fPokémon legend...\rEsto... ¡No me hagas caso!\n¡En cualquier caso, estoy convencido\fde que va a ocurrirte algo\fextraordinario, {STRVAR_1 3, 0, 0}!\r¡Bien! ¡Voy a darte un regalo por\nlo mucho que prometes!\f¡Acéptalo sin reparos!\r
+Elm: ¡Es una Piedraeterna!\rLos Pokémon cambian de aspecto\ncuando evolucionan.\rPero si van equipados con la\nPiedraeterna no evolucionarán.\r¡Si quieres que algún Pokémon\nmantenga su aspecto actual,\fdale la Piedraeterna!\r
+¡Adelante con tu aventura,\n{STRVAR_1 3, 0, 0}!\r¡Y no te olvides de ayudarme con\nmi investigación!
+¡Adelante con tu aventura,\n{STRVAR_1 3, 0, 0}!\r¡Y no te olvides de ayudarme con\nmi investigación!
+Oh, tu Bolsa está llena.
+Elm: {STRVAR_1 3, 0, 0}, creía que el Huevo\nhabía eclosionado.\f¿Dónde está el Pokémon?\r
+Elm: {STRVAR_1 3, 0, 0}, creía que el Huevo\nhabía eclosionado.\f¿Dónde está el Pokémon?\r
+Me pregunto cómo estará\nese pobre Pokémon que robaron...\rDicen que si los cría una persona\nmalvada, los Pokémon también acaban\fsiendo malvados...
+¡{STRVAR_1 3, 0, 0}!\n¡Escucha esto! ¡No te lo vas a creer!\rEs sobre el tipo que robó el Pokémon\ndel Profesor!\r¡Ha venido a devolverlo!\n¡Nadie se esperaba algo así!\r¿Y sabes lo que le ha dicho el Profesor?\n...\r“Da la impresión de que este Pokémon\nte tiene bastante aprecio.\rLo más importante es que un Pokémon\ncrezca feliz junto a las personas\fque quiere...\rAsí que este pequeño debería\nquedarse contigo.”\r...\r¿Qué te parece?\n¿No es para tirarse de los pelos?\r
+El ladrón... bueno, el tipo pelirrojo\nse ha marchado con el Pokémon sin\fdecir ni pío.\rPero... yo lo he visto todo desde aquí,\ny te aseguro que el chico tenía cara\fde estar muy contento.
+Lira: ¡{STRVAR_1 3, 0, 0}!\n¿Ya has conseguido ocho Medallas?\f¡Impresionante!\rBueno, venga, ¡que el Profesor\nte está esperando!\r
+Eco: ¡{STRVAR_1 3, 0, 0}!\n¿Ya has conseguido ocho Medallas?\f¡Impresionante!\rBueno, venga, ¡que el Profesor\nte está esperando!\r
+Elm: ¡Ah, {STRVAR_1 3, 0, 0}!\n¡No dejas de sorprenderme, de verdad!\rMi investigación está avanzando\ngracias a tu ayuda.\rToma esto como muestra\nde agradecimiento.\r
+Elm: ¡Ah, {STRVAR_1 3, 0, 0}!\n¡No dejas de sorprenderme, de verdad!\rMi investigación está avanzando\ngracias a tu ayuda.\rToma esto como muestra\nde agradecimiento.\r
+¡La Master Ball es la mejor!\r¡Es la Ball definitiva!\nCaptura cualquier Pokémon sin\ffallar.\rSe les entrega a los grandes\ninvestigadores Pokémon.\r¡Creo que tú harás un mejor uso de\nella que yo, {STRVAR_1 3, 0, 0}!\r
+¡La Master Ball es la mejor!\r¡Es la Ball definitiva!\nCaptura cualquier Pokémon sin\ffallar.\rSe les entrega a los grandes\ninvestigadores Pokémon.\r¡Creo que tú harás un mejor uso de\nella que yo, {STRVAR_1 3, 0, 0}!\r
+Por cierto...\rHace poco vinieron al Laboratorio\nunas Chicas Kimono muy elegantes.\fMe dijeron que te andaban buscando...\r
+Por cierto...\rHace poco vinieron al Laboratorio\nunas Chicas Kimono muy elegantes.\fMe dijeron que te andaban buscando...\r
+Las Chicas Kimono me dijeron\nque te esperan en el Teatro de Danza\fde Ciudad Iris.\rCreo que se está cociendo algo\nimportante en torno a ese Huevo.\rYa que has llegado hasta aquí...\n¿por qué no llegar hasta el final?\r
+Lira: ¡{STRVAR_1 3, 0, 0}, he oído\nlos rumores!\r¿Has ido a ayudar a las Chicas Kimono?\n¡Qué fuerte! ¡Todo el mundo está\fhablando de ello!\r¡Estoy tan contenta de que\nseamos amigos!\r
+Eco: ¡{STRVAR_1 3, 0, 0}, he oído\nlos rumores!\r¿Has ido a ayudar a las Chicas Kimono?\n¡Qué fuerte! ¡Todo el mundo está\fhablando de ello!\r¡Estoy tan contento de que\nseamos amigos!\r
+Elm: Las Chicas Kimono dijeron\nque te esperan en el Teatro de Danza\fde Ciudad Iris.
+Elm: Je, je... ¡Misión cumplida!\rPensaba que tan solo se trataba de\nun Huevo un poco raro, pero resulta\fque es algo bastante importante!\r¿Te han contado algo las Chicas Kimono?\nBueno, de todas formas a mí no me\fincumbe.\rAhora debes tener confianza.\nEscucha tu corazón y sé fiel\fa lo que te diga el alma.\r¡Si actúas según estos principios,\nhasta podrás ganar la Liga Pokémon!\r¡Venga!\nVe hacia la Meseta Añil.\r¿Sabes dónde está?\rToma la Ruta 27 desde aquí y\ncuando llegues a la Ruta 26 dirígete\fhacia el norte.
+Elm: ¡{STRVAR_1 3, 0, 0}!\n¡Aquí estás!\rTe llamé porque tengo algo para ti.\r¿Ves?\nEs un Ticket Barco.\rAhora puedes atrapar Pokémon\nen Kanto.\r
+Elm: ¡{STRVAR_1 3, 0, 0}!\n¡Aquí estás!\rTe llamé porque tengo algo para ti.\r¿Ves?\nEs un Ticket Barco.\rAhora puedes atrapar Pokémon\nen Kanto.\r
+Elm: El barco parte de Ciudad Olivo.\rPero a estas alturas eso ya lo sabes,\n{STRVAR_1 3, 0, 0}.\rYa lo has recorrido todo con tus\nPokémon.\r¡Si vas a Kanto, saluda al Profesor Oak\nde mi parte!
+Elm: El barco parte de Ciudad Olivo.\rPero a estas alturas eso ya lo sabes,\n{STRVAR_1 3, 0, 0}.\rYa lo has recorrido todo con tus\nPokémon.\r¡Si vas a Kanto, saluda al Profesor Oak\nde mi parte!
+Elm: ¡Es increíble!\n¡Llevas un PICHU!\f¡Déjame verlo!\r
+Mmm...\nTiene una oreja en forma\fde tres picos...\fPero, aparte de eso, es un poco\fdiferente de los PICHU que conozco.\rEs ciertamente inusual.\r
+¿Lo encontraste en el Encinar?\rDicen que allí puede encontrase\na CELEBI, un extraño Pokémon.\r
+¡Ahora que lo pienso...!\r
+En un simposio sobre Pokémon el\nProfesor Oak presentó un ensayo sobre\fCELEBI y {COLOR 0}los viajes en el tiempo{COLOR 0}...\r
+Elm: CELEBI y {COLOR 0}los viajes en el tiempo{COLOR 0}...\rTiene el asombroso poder de viajar a\nvoluntad hacia el pasado o el futuro.\r
+¿Y si este PICHU hubiera llegado\nhasta aquí gracias a un viaje\fen el tiempo?\rNo deberías dárselo a nadie. Es mejor\nque te encargues tú de criarlo,\f{STRVAR_1 3, 0, 0}.\rParece que su cuerpo ha sufrido\nalgunos efectos por haber viajado\fcon CELEBI desde una época muy lejana.\rSerá mejor contactar con el\nCentro Pokémon.\rLa empleada del mostrador sabrá\ndecirnos cuáles son esos efectos.
+¿Y si este PICHU hubiera llegado\nhasta aquí gracias a un viaje\fen el tiempo?\rNo deberías dárselo a nadie. Es mejor\nque te encargues tú de criarlo,\f{STRVAR_1 3, 0, 0}.\rParece que su cuerpo ha sufrido\nalgunos efectos por haber viajado\fcon CELEBI desde una época muy lejana.\rSerá mejor contactar con el\nCentro Pokémon.\rLa empleada del mostrador sabrá\ndecirnos cuáles son esos efectos.
+Elm: No parece un PICHU normal\ny corriente.\fSerá mejor estudiarlo detenidamente.
+Elm: Vaya, {STRVAR_1 3, 0, 0}.\r
+Elm: Vaya, {STRVAR_1 3, 0, 0}.\r
+Parece que el PICHU Picoreja te tiene\nmucho cariño.\r
+Parece que el PICHU Picoreja te tiene\nmucho cariño.\r
+Qué raro...\rA estas alturas, después de llevar\ntodo este tiempo contigo, ya debería\fhaber evolucionado a PIKACHU...\r
+A ver, a ver...\rMmm...\rQuizá sea...\r¡Sí, eso es!\r
+¡Esto es de lo más inusual,\npero este PICHU no evoluciona!\rParece que el viaje en el tiempo\nha alterado el contenido genético\fresponsable de la evolución.\rEs la primera vez que oigo algo\nparecido.
+Elm: El PICHU Picoreja tiene muy buen\naspecto.\rJamás había visto u oído hablar de un\nPICHU que no evoluciona.\fDe todos modos, cuídalo bien.
+¿Quieres curar a tu\nequipo Pokémon?{YESNO 0}
+{STRVAR_1 3, 0, 0} abrió un libro.\r“Consejo de viaje 1:\rPulsa el botón A en la pantalla inferior\npara hablar o consultar cosas.”
+{STRVAR_1 3, 0, 0} abrió un libro.\r“Consejo de viaje 2:\rLa Ficha de Entrenador es\nla identificación oficial de\fun Entrenador y sus Pokémon.\rPuedes guardar tus progresos\nsiempre que quieras.”
+{STRVAR_1 3, 0, 0} abrió un libro.\r“Consejo de viaje 3:\rDependiendo del tipo de objeto,\ncada uno se guarda en un Bolsillo\fdistinto de la Bolsa.”
+{STRVAR_1 3, 0, 0} abrió un libro.\r“Consejo de viaje 4:\rEl Pokégear sirve para llamar\npor teléfono, escuchar la radio,\fconsultar un mapa, etc.\f¡Es un dispositivo muy útil!”
+Alguien ha tirado una nota...\r“Se puede cancelar la evolución\nde un Pokémon pulsando el botón B.”
+Elm: ¡Ah, {STRVAR_1 3, 0, 0}!\n¿Qué tal estás?\rHas hecho un gran trabajo cuidando\nde ese Huevo. ¡Seguro que serás\ftodo un Campeón!
+Elm: ¡Ah, {STRVAR_1 3, 0, 0}!\n¿Qué tal estás?\rHas hecho un gran trabajo cuidando\nde ese Huevo. ¡Seguro que serás\ftoda una Campeona!
+{STRVAR_1 3, 0, 0}, tengo ganas de ver\ncómo será el Pokémon que salga\fdel Huevo.
+{STRVAR_1 3, 0, 0}, tengo ganas de ver\ncómo será el Pokémon que salga\fdel Huevo.
+Elm: ¡Estoy impresionado, {STRVAR_1 3, 0, 0}!\r¿Que por qué?\r¡Por haber conocido a un Entrenador\ntan asombroso como tú!\rGracias a ti, he podido comprender\nla importancia de llevar un Pokémon\fa tu lado.\rAhora puedo afirmar que los Pokémon\nestán estrechamente ligados a los\fhumanos. Se trata de un vínculo que\fsiempre está presente.\rEstoy en deuda contigo.\r¡Muchísimas gracias!
+Elm: ¡Estoy impresionado, {STRVAR_1 3, 0, 0}!\r¿Que por qué?\r¡Por haber conocido a una Entrenadora\ntan asombrosa como tú!\rGracias a ti, he podido comprender\nla importancia de llevar un Pokémon\fa tu lado.\rAhora puedo afirmar que los Pokémon\nestán estrechamente ligados a los\fhumanos. Se trata de un vínculo que\fsiempre está presente.\rEstoy en deuda contigo.\r¡Muchísimas gracias!
+Mmm... Por lo que yo sé,\nese Pokémon es imposible de\fencontrar en la región de Johto...\rTal como me contó el Sr. Pokémon\npor teléfono.\r¡En cualquier caso, estoy convencido\nde que va a ocurrirte algo\fextraordinario, {STRVAR_1 3, 0, 0}!\r¡Bien! ¡Voy a darte un regalo por\nlo mucho que prometes!\f¡Acéptalo sin reparos!\r
+Mmm... Por lo que yo sé,\nese Pokémon es imposible de\fencontrar en la región de Johto...\rTal como me contó el Sr. Pokémon\npor teléfono.\r¡En cualquier caso, estoy convencido\nde que va a ocurrirte algo\fextraordinario, {STRVAR_1 3, 0, 0}!\r¡Bien! ¡Voy a darte un regalo por\nlo mucho que prometes!\f¡Acéptalo sin reparos!\r

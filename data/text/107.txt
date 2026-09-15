@@ -1,0 +1,34 @@
+¡Te doy la bienvenida\na la Fábrica Batalla!\rSoy la guía de las Salas de Combate\nIndividual y Doble.\rTen en cuenta que estos desafíos están\npensados para un solo Entrenador.\r
+¿Qué reto te gustaría afrontar?{YESNO 0}
+En la Fábrica Batalla puedes competir\nen combates dobles o individuales\fcon Pokémon de préstamo.\rUna vez dentro, el reto continuará\nhasta que pierdas.\rTras cada combate ganado, puedes\nintercambiar un Pokémon de préstamo\fpor uno del oponente.\rEn la modalidad de nivel 50 empezarás\nsolo con Pokémon que sepan movimientos\fde poca potencia.\rLa opción nivel libre te da acceso a\nPokémon de nivel 100 con movimientos\fpotentes desde el inicio.\rSi ganas siete combates consecutivos,\nrecibirás Puntos de Batalla (PB).\rSi deseas interrumpir el desafío,\nno olvides guardar la partida.\rSi no lo haces, se te descalificará.\r¡Tenlo en cuenta!\r
+¡Te doy la bienvenida\na la Fábrica Batalla!\rSoy la guía de las Salas\nde Combate Múltiple.\rTen en cuenta que estos desafíos están\npensados para dos Entrenadores.\r
+¿Aceptas el desafío de los combates\nmúltiples de la Fábrica Batalla?{YESNO 0}\n
+Para participar en combates múltiples\nusando Pokémon de préstamo, debes\fformar equipo con otra persona.\rRecibiréis dos Pokémon de préstamo\npor cabeza.\rEn cuanto entréis, lucharéis en\ncombates múltiples hasta que perdáis.\rTras cada victoria, uno de los dos\npodrá cambiar un Pokémon de préstamo.\rAl ganar siete combates consecutivos\nse reciben Puntos de Batalla (PB).\rEn la modalidad de nivel 50, empezaréis\nsolo con Pokémon que sepan movimientos\fde poca potencia.\rLa modalidad de nivel libre os da acceso\na Pokémon de Nv. 100 con movimientos\fpotentes desde el principio.\rLos combates múltiples de la Fábrica\nBatalla no se pueden interrumpir.\r
+¡Vuelve cuando quieras!
+¿A qué reto quieres enfrentarte?\n¿Nivel 50 o nivel libre?{YESNO 0}
+Tienes que guardar la partida antes de\nentrar. ¿Estás de acuerdo?{YESNO 0}\n
+¡Por aquí, por favor!
+Esperamos que vuelvas a visitarnos.\r
+¡Te hemos echado de menos!\rTienes que guardar la partida antes de\nreanudar tu reto. Espera, por favor...
+¡Vaya!\rHa habido una irregularidad a la\nhora de abandonar el desafío...\rEso quiere decir que, ejem,\nse te ha descalificado...\r
+¡Enhorabuena!\r¡Para celebrar tu victoria te damos\neste regalo conmemorativo!\r
+¡Se ha añadido la Foto Dorada\na la Cámara Lucha de {STRVAR_1 3, 0, 0}!\r
+¡Se ha añadido la Foto Plateada\na la Cámara Lucha de {STRVAR_1 3, 0, 0}!\r
+COMBATE INDIVIDUAL
+COMBATE DOBLE
+ACEPTAR EL DESAFÍO
+INFORMACIÓN
+SALIR
+NIVEL 50
+NIVEL LIBRE
+SALIR
+Un Entrenador debe elegir\n“HACER DE LÍDER”.\rEl otro Entrenador debe elegir\n“UNIRSE”.{YESNO 0}
+La comunicación inalámbrica de\nNintendo DS se iniciará. ¿Seguir?{YESNO 0}
+Tienes que guardar la partida antes de\nentrar. Espera, por favor...
+El personal de aquí es muy amable.\rTe da información sobre el siguiente\nEntrenador al que te enfrentarás.
+¿Nos dicen quién será\nel siguiente Entrenador?\r¡Eso es estupendo!\rSabiendo eso se puede preparar\nuna buena estrategia.
+Memoriza los movimientos que hayan\nusado los Pokémon de tu oponente.\rAsí sabrás qué puedes esperar cuando\nte toque intercambiarlos.
+Aquí es donde se obtienen los Pokémon\nde préstamo, ¿no?\rLa verdad es que es una buena\noportunidad de probar Pokémon\fque nunca has usado.\rPuedes aprender mucho sobre cada\nPokémon mientras vas combatiendo.\r¡No hay otro edificio tan práctico!
+¡Hola! ¿Qué tal?\n¿Entrenas Pokémon?\rPues claro que sí,\nqué pregunta más tonta.\rPero ¿entrenas todo tipo de Pokémon?\nNo, no, no. Eso es improbable.\rEste es un lugar maravilloso,\npuedes luchar aun sin tener nada.\rPor supuesto, solo puedes participar\ncon Pokémon de préstamo.\rNo lo olvides, es mi lugar preferido.\n¡Se llama Fábrica Batalla!
+¿En lugar de los Pokémon que\nhe entrenado con todo mi amor,\ftengo que usar otros que acabo\fde conocer?\rNo sé si podré...\nA lo mejor no nos llevamos bien...\fMe siento un poco incómoda...
+Todos los que vienen al Frente\nde Batalla se lo toman muy en serio.\rTengo que quedarme a continuar la\nronda en el edificio, pero la verdad es\fque me encantaría quitarme el uniforme\fy divertirme con los demás.

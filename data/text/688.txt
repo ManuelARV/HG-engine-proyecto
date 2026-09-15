@@ -1,0 +1,24 @@
+Toni
+A propósito, tú debes de adorar\nlos Pokémon. Se te nota a leguas.\r¡Pero tus conocimientos aún no son\nmás que la punta del iceberg!\r¿Conoces a Bill?\nEs un Gran Pokémaníaco. Lo venero.\rTe enseñaré todo lo que sé acerca\nde él, así que déjame tu número\fde teléfono.{YESNO 0}
+¡Bill es más que asombroso!\rQuiero ser un Gran Pokémaníaco,\ntan bueno como él. Ese es mi sueño.
+Lo vas a lamentar.\nY entonces, ya me dará igual.
+Te enseñaré todo lo que sé acerca\nde Bill, así que déjame tu número\fde teléfono.{YESNO 0}
+
+¿Te gusta hablar así con tus amigos\naunque estén cerca?\rYo hablo por teléfono con mi madre\naun estando en casa.
+Ahora que me acuerdo, conseguí\nun Pokémon raro mediante intercambio\fhace un tiempo. ¿Quieres saber cuál es?\rJe, je, ¡es un secreto!\nYa está, hablamos.
+Ya lo creo, acabé con un {STRVAR_1 0, 11, 0}\nsalvaje.\rNo era tan raro como para capturarlo.\nYa está, hablamos.
+Ya lo creo, vi un Pokémon raro\nhará una hora.\rHa sido el primero que he visto, pero\nno tenía ninguna Poké Ball\fy me quedé sin capturarlo...\r¿Se reiría Bill de mis errores?\nYa está, hablamos.
+¿Lo sabías?\rParece ser que el padre de Bill\nes un Gran Pokémaníaco.\rYa está, hablamos.
+¿Lo sabías?\rAl parecer, el abuelo de Bill\nno es un Gran Pokémaníaco.\rYa está, hablamos.
+¿Lo sabías?\rBill proviene de Ciudad Trigal.\nYa está, hablamos.
+¿Lo sabías?\rBill vive en la Ruta 25, en Kanto.\nYa está, hablamos.
+¿Lo sabías?\rABRA fue el primer Pokémon\nque Bill capturó.\rYa está, hablamos.
+¿Lo sabías?\rLa hermana menor de Bill al parecer\nno sabe guiñar.\rYa está, hablamos.
+¿Lo sabías?\rSe supone que Bill odia la leche y\nno puede probar ni gota.\rYa está, hablamos.
+¿Lo sabías?\rComo es obvio, a Bill no se le da\nbien luchar.\rYa está, hablamos.
+¿Lo sabías?\rParece que a Bill le gusta la chica\nde la Floristería.\rYa está, hablamos.
+¿Lo sabías?\rDicen que la madre de Bill fue\nuna Chica Kimono.\rYa está, hablamos.
+¿Lo sabías?\rDicen que la madre de Bill fue\nuna Chica Kimono.\rYa está, hablamos.
+Parece que tienes tiempo,\nigual que siempre, ¿no?\f¿Te apetece combatir?\rSerá tu ocasión para ver\nmis Pokémon raros.\r¡Merece la pena!\nYa sabes, estoy en {STRVAR_1 4, 3, 0}.
+¿Quieres ver mis Pokémon raros?\nApresúrate y ven a {STRVAR_1 4, 3, 0}.
+¿Querías saber cosas sobre Bill?\rLo siento, estoy muy ocupado.\nTe llamaré cuando tenga tiempo.

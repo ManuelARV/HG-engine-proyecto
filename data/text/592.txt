@@ -1,0 +1,8 @@
+Este es el Centro Comercial\nde Ciudad Trigal.
+El Centro Comercial tiene\nbuenos artículos.\rPero algunos objetos solo se\nconsiguen en el Casino...
+¿Qué hace el Team Rocket\nen el Centro Comercial?\r¿Han venido a comprar decencia?\nPues no sé yo si eso lo venden aquí...
+¡Me encanta ir de compras!
+No me importa si sois el Team Rocket\no el Team Pocket, ¡pero fuera\fde mi camino!\r¡A mí nadie me toca las narices\ncuando estoy comprando!
+Mamá es experta en conseguir gangas.\rSiempre compra cosas a precios\nmás bajos.
+Mamá me ha dicho que ni me acerque\na los señores que van de negro.
+PB Información\rP1 Tienda de Entrenadores\rP2 Artículos de combate\rP3 Botiquín\rP4 Tienda de MT\rP5 Plaza Tranquila

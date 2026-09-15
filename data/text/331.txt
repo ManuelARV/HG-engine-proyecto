@@ -1,0 +1,10 @@
+No creas que...\restoy haciendo...\rnada sospechoso... oso... oso...\rEn lugares solitarios como este...\rsuelen reunirse pandas de maleantes...\rcon ganas de causar problemas...\ra todo el mundo... undo... undo...\rPor eso el hombre furioso...\restá aquí vigilando...\rque no pase nada... ada... ada...\rEn esta Vía Subterránea hay...\rmucho eco... eco... eco...
+No creas que...\restoy haciendo...\rnada sospechoso... oso... oso...\rEn lugares solitarios como este...\rsuelen reunirse pandas de maleantes...\rcon ganas de causar problemas...\ra todo el mundo... undo... undo...\r¡Ay, qué rabia! Me pone muy furioso...\r
+¡Oh!\r¡Eso es un Caramelo Furia!\r¡Dámelo!\n¡Venga, dámelo! {YESNO 0}
+¡{STRVAR_1 3, 0, 0} le ha dado un Caramelo\nFuria al hombre de la Vía Subterránea!\r
+¡Ñam!\r¡Qué rabia! ¡Qué coraje!\r¡Pero qué bueno que está!\r¡Ñam, ñam, ñam!\r¡Mecachis! ¡Qué furioso estoy!\r¡Ñam, ñam, ñam!\rUf... Ya estoy un poco más calmado.\nEstaba delicioso.\fToma esto como agradecimiento.\r
+La Máquina Técnica 64 contiene...\rTic\n     Tac\fTic\f     Tac\fTic\f     Tac\fTic\f     Tac\fTic\f...\f...\r
+{SIZE 0}¡BUUUM!
+En lugares solitarios como este\nsuelen reunirse pandas de maleantes...\rPor eso... el hombre furioso... oso...\restá aquí vigilando... ando... ando...\rEn esta Vía Subterránea hay\nmucho eco... eco... eco...
+¡Egoísta!
+¡Ah! ¡Muchas gracias!\rAhora que me fijo...\nTu Bolsa está llena...\rHaz un poco de sitio y ven\na verme... erme... erme...

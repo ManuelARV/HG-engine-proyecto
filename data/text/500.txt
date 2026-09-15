@@ -1,0 +1,11 @@
+¡Muy buenas!\n¿A qué planta quieres ir? {YESNO 0}
+¡Vuelve siempre que quieras!
+Por supuesto.\nVamos hacia arriba.\r
+Por supuesto.\nVamos hacia abajo.\r
+Ya estamos en esa planta.
+PB Información\nVestíbulo
+P1 Tienda de Entrenadores\nGran variedad de artículos\n
+P2 Tienda de MT\nFortalece tus Pokémon\n
+P3 Regalos\nEl detalle perfecto\n
+P4 Farmacia\nPotencia habilidades de tus Pokémon
+P5 Última planta\nZona de descanso\n

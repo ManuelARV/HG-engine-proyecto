@@ -1,0 +1,28 @@
+¡Hola, {STRVAR_1 3, 0, 0}!\n¡Hemos descubierto\falgo acerca de los Huevos!\rMi ayudante está en la Tienda\nPokémon de Ciudad Malva.\r¿Puedes hablar con él?
+¡Hola! ¿Entrenas Pokémon?\n¿Has ganado al Líder del Gimnasio?{YESNO 0}
+¡Es impresionante!
+¿Ah, no?\nPues eso habrá que estudiarlo.\f¡Sígueme!\r
+Yo soy el profesor.\nSi quieres, puedes estudiar aquí.\r
+Dicen que en la Torre BELLSPROUT\nhay fantasmas.\rY que los movimientos de tipo Normal\nno afectan a los fantasmas.
+¿Entrenas Pokémon?\r¡Si ganas a este Líder de Gimnasio,\nestarás en el camino del éxito!
+¡Pegaso, del Gimnasio Pokémon\nde Ciudad Malva, es magnífico!\rHeredó el Gimnasio de su padre\ny ha hecho un gran trabajo.
+En algunos edificios o cuevas, o\nen lugares donde hay mucha gente,\fno se puede entrar acompañado\fde tu Pokémon.\rPero siempre puedes hacerlo volver\na su Poké Ball.
+Ciudad Malva\nCiudad de aromas evocadores
+Líder del Gimnasio Pokémon\nde Ciudad Malva: Pegaso\rEl gran experto en Pokémon voladores
+Torre BELLSPROUT\rEncuentra tu camino a través\ndel entrenamiento Pokémon
+Escuela Pokémon\rPrimo puede enseñarte\ntodo sobre los Pokémon
+¡Oh! ¡Ese Huevo...!\r
+Ji, ji, ji. Comprendo...\nPrimero pasó del Sr. Pokémon\fal Profesor Elm.\rY luego del Profesor Elm\na vuestras manos.\r¿Estoy en lo cierto?\r
+Ese Huevo es extremadamente\nimportante.\fDebéis cuidarlo con tesón.\r¿Puedo confiar en que lo haréis?\r
+Entonces no me defraudéis.\r
+¡Bayas por Partes!\n¡Bayas por Partes!\r¡Jua! ¡Jua! ¡Cambio Partes por Bayas!\rSi me traes una Parte, te doy\nun set de tres Bayas.\r
+¡Bayas por Partes!\n¡Bayas por Partes!\r¡Jua! ¡Jua! ¡Cambio Partes por Bayas!\rDame una Parte y te obsequiaré\ncon un set de tres Bayas.\r¿Trato hecho?{YESNO 0}
+¿Más Bayas por Partes?{YESNO 0}
+¡Jua! ¡Jua!\n¡Vuelve cuando quieras!\r
+Por una Parte Roja,\nte doy el set de Bayas A.\r
+Por una Parte Azul,\nte doy el set de Bayas B.\r
+Por una Parte Amarilla,\nte doy el set de Bayas C.\r
+Por una Parte Verde,\nte doy el set de Bayas D.\r
+Tienes demasiadas Bayas de este set.\rVuelve después de gastar\nunas cuantas, ¿vale?\r
+Aquí se preocupan mucho\npor el paisaje urbano.\rPor eso cambiaron el color de los\ntejados del Centro Pokémon y la Tienda\fPokémon, para que encajaran\fcon el entorno.
+¿Sabes que se pueden hacer marcas\nen el Mapa del Pokégear?\fY también se pueden tomar notas.\rYo también quiero tener uno,\npero mi mamá no me lo quiere comprar.

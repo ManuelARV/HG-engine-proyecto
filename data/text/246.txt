@@ -1,0 +1,88 @@
+¡Tilín, tilín! ¡Se acabó el tiempo!\n¡El Concurso ha terminado!\r
+¡Tilín, tilín! ¡No te quedan más Poké\nBalls! ¡El Concurso ha terminado!\r
+                                  
+Te quedan {STRVAR_1 51, 0, 0} minutos.\n¿Quieres retirarte?{YESNO 0}
+Hoy es martes, lo cual significa\nque se celebra el Concurso\fde Captura de Bichos.\r¡Las reglas son muy sencillas!\rUsa uno de tus Pokémon y captura\nun Pokémon bicho para ganar.\r¿Te gustaría intentarlo?{YESNO 0}
+Hoy es jueves, lo cual significa\nque se celebra el Concurso\fde Captura de Bichos.\r¡Las reglas son muy sencillas!\rUsa uno de tus Pokémon y captura\nun Pokémon bicho para ganar.\r¿Te gustaría intentarlo?{YESNO 0}
+Hoy es sábado, lo cual significa\nque se celebra el Concurso\fde Captura de Bichos.\r¡Las reglas son muy sencillas!\rUsa uno de tus Pokémon y captura\nun Pokémon bicho para ganar.\r¿Te gustaría intentarlo?{YESNO 0}
+El Concurso de Captura de Bichos se\ncelebra los martes, jueves y sábados.\rNo solo ganarás un premio por\nparticipar. Además, podrás quedarte\fcon el Pokémon bicho que tengas\fal final del concurso.\n
+     
+      
+¡Oh, oh!...\nTienes más de un Pokémon.\rTendrás que usar a {STRVAR_1 1, 0, 0},\nel primer Pokémon de tu equipo.\r¿Te parece bien?{YESNO 0}
+     
+      
+Los Pokémon de {STRVAR_1 3, 0, 0} se quedan\ncon el Ayudante.\rBien, guardaremos los otros Pokémon\nmientras compites.\r
+Aquí tienes las Competi Balls\npara el Concurso.\r{STRVAR_1 3, 0, 0} recibió 20 Competi Balls.\r
+Aquel que consiga el Pokémon bicho\nmás fuerte será el ganador.\rTienes 20 minutos. Si te quedas sin\nCompeti Ball, no tendrás opción.\rPuedes quedarte el último Pokémon\nque captures.\r¡Sal y captura el Pokémon bicho\nmás fuerte que encuentres!\r
+¡Qué mala suerte!\rNo dispones de espacio\npara capturar más Pokémon.
+¿Ah, no? Bueno, esperamos volver\na verte por aquí pronto.
+El Concurso de Captura de Bichos\nha acabado.\rEsperamos volver a veros por aquí\nmuy pronto.
+Algunos Pokémon solo aparecen\nen el parque.
+¿{STRVAR_1 3, 0, 0}?\rAquí tienes el premio\nque te guardábamos.\r
+¡Vaya!... Tu Bolsa está llena.\rGuardaremos tu premio, pero solo hoy.\nHaz sitio en ella y ven a verme.
+¡Te esperamos en el próximo\nConcurso de Captura de Bichos!
+Aún te quedan {STRVAR_1 51, 0, 0} minutos.\n¿Quieres retirarte ya?{YESNO 0}
+     
+      
+Vale. Pues, entonces, vuelve\nafuera y ánimo. ¡Buena suerte!\r
+Vale. Pues, entonces, espera aquí a\nque se anuncien los ganadores.\r
+Entonces, cambia el orden de los\nPokémon de tu equipo y vuelve después.
+Vamos a evaluar vuestros Pokémon.\r... ...\n... ...\r¡Hemos elegido a los ganadores!\nAquí van...\r
+¡En tercer lugar, el {STRVAR_1 0, 1, 0} que\nha atrapado {STRVAR_1 3, 0, 0}!\r
+¡En tercer lugar, el {STRVAR_1 0, 1, 0}\nque ha atrapado\f{STRVAR_1 14, 2, 0} {STRVAR_1 3, 0, 0}!\r
+¡La puntuación fue de\n{STRVAR_1 52, 3, 0} puntos!\r
+¡En segundo lugar, el {STRVAR_1 0, 1, 0} que\nha atrapado {STRVAR_1 3, 0, 0}!\r
+¡En segundo lugar, el {STRVAR_1 0, 1, 0}\nque ha atrapado\f{STRVAR_1 14, 2, 0} {STRVAR_1 3, 0, 0}!\r
+Y, finalmente, el primer puesto de este\nConcurso de Captura de Bichos es...\r¡para el {STRVAR_1 0, 1, 0} que\nha atrapado {STRVAR_1 3, 0, 0}!\r
+Y, finalmente, el primer puesto de este\nConcurso de Captura de Bichos es...\r¡para el {STRVAR_1 0, 1, 0} que ha atrapado\n{STRVAR_1 14, 2, 0} {STRVAR_1 3, 0, 0}!\r
+{STRVAR_1 3, 0, 0} se alza con el primer\npremio... ¡{STRVAR_1 8, 3, 0}!\r
+{STRVAR_1 3, 0, 0} se alza con el segundo\npremio... ¡{STRVAR_1 8, 3, 0}!\r
+{STRVAR_1 3, 0, 0} se alza con el tercer\npremio... ¡{STRVAR_1 8, 3, 0}!\r
+¡Todos los demás reciben\n{STRVAR_1 8, 3, 0} como consolación!\r
+¡Vaya!... Tu Bolsa está llena.\rGuardaremos tu premio, pero solo hoy.\nHaz sitio en ella y ven a verme.\r
+¡Te esperamos en el próximo\nConcurso de Captura de Bichos!\r
+¿Quieres darle un mote al\n{STRVAR_1 0, 1, 0} que has atrapado?{YESNO 0}
+¿{STRVAR_1 3, 0, 0}?\rAquí tienes el premio\nque te guardábamos.\r
+¡Vaya!... Tu Bolsa está llena.\rGuardaremos tu premio, pero solo hoy.\nHaz sitio en ella y ven a verme.\r
+¡Equipo completo!\r{STRVAR_1 1, 5, 0} fue enviado\na una Caja en el PC.\r
+Aquí tienes los Pokémon que\nte estábamos cuidando.\r
+Rafa: ¿Qué te parece? Voy a ganar,\nasí que no me molestes.
+Rafa: Aparte de saber dónde buscar\nlos Pokémon, la suerte también cuenta.
+Rafa: ¿Que has ganado tú?\r¡Que envidia! Me imagino cómo\nme sentiría yo y... buuf. ¡Qué envidia!
+Sam: Mi PARASECT duerme los Pokémon\nusando Espora.
+Sam: Para poder vencer, los Pokémon\ntienen que estar en plena forma.\rEs que si no les queda energía\nno hay nada que hacer.
+Sam: Te envidio. Esta vez\nno lo he conseguido.
+Maura: He estado entrenando Pokémon\nque pueden causar cambios de estado\fpara este Concurso.
+Maura: He oído que es más fácil ganar\nsi se atrapan Pokémon de colores\fmás llamativos... ¿Será verdad?
+Maura: ¡Qué bonito! ¡Pero si hasta\nparece que estás brillando!
+Guille: Ganar o perder me da lo mismo.\nLo que yo quiero son Pokémon raros.
+Guille: Me alegra haber atrapado\nel Pokémon que quería.
+Guille: ¿Has ganado? ¿Con qué Pokémon?\n¡Enséñamelo, enséñamelo!
+Tino: ¡Ssh! ¡Vas a asustar a SCYTHER!\nYa hablaremos más tarde.
+Tino: Pues he podido atrapar el SCYTHER\nde antes, pero he perdido.
+Tino: Bah. Hoy solo he venido\npara ver de qué iba esto.\r¡A la próxima pondré todo mi empeño!
+Benito: Debilita los Pokémon bicho\ny lánzales una Competi Ball.
+Benito: Es más fácil ganar con un\nPokémon de tipo Bicho de nivel alto.\rPero creo que también cuentan\notros factores.
+Benito: El Pokémon que has atrapado...\n¡qué chulo!
+Cindy: ¡Adoro los Pokémon de tipo Bicho!
+Cindy: ¡Adoro los Pokémon de tipo Bicho!\n¿Te lo había dicho ya?
+Cindy: ¡Enhorabuena por tu victoria!\nPor cierto... ¡adoro los Pokémon bicho!
+Kai: Colecciono Pokémon bicho\ndesde que era un niño.\r¡Es imposible que pueda perder!
+Kai: ¡Dicen que alguien ganó\ncon un CATERPIE!
+Kai: El Concurso de Captura...\n¡es de Pokémon bicho, no pájaro!\rImagino que hasta ahí llegarías\nsi has sido capaz de ganar.
+Samuel: ¿Qué? Si tienes tiempo para\nestar de cháchara, también para\fbuscar más Pokémon, ¿no?
+Samuel: Vaya, creí que obtendría\nmás puntos...
+Samuel: ¡Qué lástima! Pero, bueno,\na ver si me sirve de lección.
+Koldo: Soy un gran estudioso de los\nPokémon bicho. Estoy seguro de ganar.
+Koldo: He estudiado mucho, pero hace\nfalta más que eso para ganar.
+Koldo: ¿Me das algún consejo?\n¡Quiero estudiar tu estilo!
+{TRNAME}Rafa
+{TRNAME}Sam
+{TRNAME}Maura
+{TRNAME}Guille
+{TRNAME}Tino
+{TRNAME}Benito
+{TRNAME}Cindy
+{TRNAME}Kai
+{TRNAME}Samuel
+{TRNAME}Koldo

@@ -1,0 +1,15 @@
+¡Estoy alucinado!\rVino un chico de tu edad,\nde pelo largo y mirada penetrante.\r¡Y me obligó a darle\nmis queridos Pokémon!\rTodavía me queda uno,\n¿pero qué hago si vuelve?\rPareces fuerte.\r¿Podrías cuidar de mi Pokémon\ndurante un rato?{YESNO 0}
+¡Oh, gracias!\n¡Cuídalo bien, por favor!\r
+¡{STRVAR_1 3, 0, 0} recibió un Pokémon\ndel coleccionista!
+No puedes llevar más Pokémon.
+¡Oh, no...!\n¿Y qué hago si vuelve?
+¡Hola! ¿Cómo está mi Pokémon?\rCreo que ya pasó el peligro.\n¿Me lo devuelves?{YESNO 0}
+¡Hola! ¿Cómo está mi Pokémon?
+¡Gracias!
+¡Oye! ¡Ese no es mi Pokémon!
+Mi Pokémon te ha tomado cariño.\r¡Vale! ¡Quédatelo, pero prométeme\nque serás amable con él!
+¡Oh, no, no...!\nEs como si me hubieran robado.
+Para los Pokémon, la felicidad\nes estar con quien los quiere.
+¡Anda! Mi Caparazz tiene un objeto.\nSerá mejor que te lo quedes tú.
+¡Anda! Mi Caparazz lleva una Cápsula.\nTe la puedes quedar.\n
+¿Qué? ¿Solo llevas un Pokémon?\n¡Entonces no me lo puedes devolver!

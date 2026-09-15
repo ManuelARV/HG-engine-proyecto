@@ -1,0 +1,35 @@
+Oye, ¿escuchas la radio?\r¿Qué programas te gustan?\r¡Mi favorito es Las contraseñas\nde Buena!\rCuando escucho una contraseña,\nla apunto antes de que se me olvide.\r¡Tengo el Pokégear lleno de garabatos!
+¿A los miembros del Team Rocket\ntambién les gusta escuchar la radio\fen la azotea?
+Si te cansas, prueba las bebidas\nde las máquinas.\rA tus Pokémon les gustarán.
+El Team Rocket...\rSaca una bebida de la máquina\ny tómate un descanso.\fPiensa en los errores que has cometido\fen tu vida y en cómo corregirlos.
+¡Descansa de tantas compras!\nP5 Plaza Tranquila
+Es una Máquina Expendedora.\nNo sé si tomarme algo...
+¡Clan!\rHa caído una lata de {STRVAR_1 8, 0, 0}.\r
+¡Clan!\r¡Qué suerte! ¡Ha caído\notra lata de {STRVAR_1 8, 0, 0}!\r
+No tengo suficiente dinero...
+¡No tengo sed!
+Te doy la bienvenida a la famosa\ntómbola del Centro Comercial Trigal.\fLos premios varían según el día.\r¡Por 300 $ puedes ganar un premio\nestupendo!\r¿Quieres probar suerte?{YESNO 0}
+¡Muy bien, adelante!\r...\n...\r
+¡Bien!\n¡Te ha salido el número {STRVAR_1 50, 0, 0}!\r¡Te ha tocado este fabuloso premio!\r
+               
+Es una pena...
+Vaya...\rTu Bolsa está llena. No te preocupes,\nte devolvemos el dinero.\r
+Vaya...\nNo tienes suficiente dinero.\rVuelve en otra ocasión.
+Vuelve algún día.
+Premios del domingo:\rNº 1: MT02\nNº 2: Lujo Ball\fNº 3: Baya
+Premios del lunes:\rNº 1: MT65\nNº 2: Nido Ball\fNº 3: Baya
+Premios del martes:\rNº 1: MT91\nNº 2: Acopio Ball\fNº 3: Baya
+Premios del miércoles:\rNº 1: MT57\nNº 2: Malla Ball\fNº 3: Baya
+Premios del jueves:\rNº 1: MT60\nNº 2: Veloz Ball\fNº 3: Baya
+Premios del viernes:\rNº 1: MT42\nNº 2: Ocaso Ball\fNº 3: Baya
+Premios del viernes:\rNº 1: MT62\nNº 2: Turno Ball\fNº 3: Baya
+Blanca: ¡Nunca habría esperado\nencontrarte aquí!\r¡Esto tiene que ser cosa del destino!\n¡Seguro!\r¿Quieres que te dé mi número\nde teléfono? ¿Eh? ¿Eh?{YESNO 0}
+¡{STRVAR_1 3, 0, 0} ha registrado a Blanca\nen el Pokégear!
+Blanca: Los sábados a mediodía\nsiempre tengo un rato libre.\rSi tú tampoco tienes nada que hacer\npodrías darme un toque.
+Blanca: Pues sí que eres borde...
+Blanca: ¿Qué pasa? ¿Ahora sí que\nquieres mi número?{YESNO 0}
+Blanca: Oye, ¿por qué no nos\nsacamos una foto juntos?{YESNO 0}
+Blanca: ¡Guay!\nVenga, ponte aquí.\r
+Blanca: ¡Cómo mola esta foto!
+Blanca: Pues vaya...
+Tu Álbum de Fotos está lleno.\rUsa el PC para hacer un poco\nde sitio en tu Álbum.

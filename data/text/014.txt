@@ -1,0 +1,28 @@
+Por favor, ocupa la posición designada\ny comienza el combate.
+Por favor, espera un momento...\nBotón B: salir
+Veamos la Ficha de Entrenador\nde {STRVAR_1 3, 0, 0}...\r¡Es una Ficha normal!
+Veamos la Ficha de Entrenador\nde {STRVAR_1 3, 0, 0}...\r¡Es una Ficha de color cobalto!
+Veamos la Ficha de Entrenador\nde {STRVAR_1 3, 0, 0}...\r¡Es una Ficha de color verde oliva!
+Veamos la Ficha de Entrenador\nde {STRVAR_1 3, 0, 0}...\r¡Es una Ficha de color violeta!
+Veamos la Ficha de Entrenador\nde {STRVAR_1 3, 0, 0}...\r¡Es una Ficha de color gris!
+Veamos la Ficha de Entrenador\nde {STRVAR_1 3, 0, 0}...\r¡Es una Ficha de color negro!
+              
+Finalizará la conexión.\n¿Estás de acuerdo?{YESNO 0}
+  
+   
+Finalizando la conexión.\nEspera un instante.
+Por favor, elige qué Pokémon usarás\nen el combate.\r
+Esperando a que {STRVAR_1 3, 0, 0} elija.
+Se ha cancelado el combate.
+                
+Por favor, elige uno de los Pokémon\nde tu oponente.
+¿Eliges a {STRVAR_1 0, 1, 0}?
+Selecciona los tres Pokémon\ncon los que quieres combatir.\r
+En un combate combi, podrás elegir\nun Pokémon de tu adversario y formar\ftu equipo con otros dos Pokémon más.\rTu rival hará lo mismo y luego os\nenfrentaréis.\r
+SALIR
+DATOS
+VALE
+SALIR
+Veamos la Ficha de Entrenador\nde {STRVAR_1 3, 0, 0}...\r¡Es una Ficha de color diamante!
+Veamos la Ficha de Entrenador\nde {STRVAR_1 3, 0, 0}...\r¡Es una Ficha de color perla!
+Veamos la Ficha de Entrenador\nde {STRVAR_1 3, 0, 0}...\r¡Es una Ficha de color platino!

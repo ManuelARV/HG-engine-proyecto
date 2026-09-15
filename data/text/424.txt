@@ -1,0 +1,403 @@
+Cinta de Campeón
+Cinta Carisma
+Cinta Carisma alto
+Cinta Carisma avanzado
+Cinta Carisma experto
+Cinta Belleza
+Cinta Belleza alto
+Cinta Belleza avanzado
+Cinta Belleza experto
+Cinta Dulzura
+Cinta Dulzura alto
+Cinta Dulzura avanzado
+Cinta Dulzura experto
+Cinta Ingenio
+Cinta Ingenio alto
+Cinta Ingenio avanzado
+Cinta Ingenio experto
+Cinta Dureza
+Cinta Dureza alto
+Cinta Dureza avanzado
+Cinta Dureza experto
+Cinta Ganador
+Cinta Victoria
+Cinta Artista
+Cinta Esfuerzo
+Cinta Mar
+Cinta Tierra
+Cinta Cielo
+Cinta Campo
+Cinta Nacional
+Cinta Planeta
+Cinta Mundo
+Cinta Campeón de Sinnoh
+Cinta Carisma
+Cinta Carisma difícil
+Cinta Carisma superior
+Cinta Carisma experto
+Cinta Belleza
+Cinta Belleza difícil
+Cinta Belleza superior
+Cinta Belleza experto
+Cinta Dulzura
+Cinta Dulzura difícil
+Cinta Dulzura superior
+Cinta Dulzura experto
+Cinta Ingenio
+Cinta Ingenio difícil
+Cinta Ingenio superior
+Cinta Ingenio experto
+Cinta Dureza
+Cinta Dureza difícil
+Cinta Dureza superior
+Cinta Dureza experto
+Cinta Habilidad
+Cinta Gran Habilidad
+Cinta Doble Habilidad
+Cinta Habilidad Múltiple
+Cinta Habilidad Par
+Cinta Habilidad Mundial
+Cinta Alerta
+Cinta Impacto
+Cinta Abatimiento
+Cinta Descuido
+Cinta Relax
+Cinta Cabezada
+Cinta Sonrisa
+Cinta Maravilla
+Cinta Realeza
+Cinta Realeza Maravilla
+Cinta Huella
+Cinta Récord
+Cinta Historia
+Cinta Leyenda
+Cinta Roja
+Cinta Verde
+Cinta Azul
+Cinta Festival
+Cinta Carnaval
+Cinta Clásica
+Cinta Principal
+Cinta obtenida por superar la Liga Pokémon y\nentrar en el Hall de la Fama de otra región
+Concurso Carisma de Hoenn\nGanador nivel normal
+Concurso Carisma de Hoenn\nGanador nivel alto
+Concurso Carisma de Hoenn\nGanador nivel avanzado
+Concurso Carisma de Hoenn\nGanador nivel experto
+Concurso Belleza de Hoenn\nGanador nivel normal
+Concurso Belleza de Hoenn\nGanador nivel alto
+Concurso Belleza de Hoenn\nGanador nivel avanzado
+Concurso Belleza de Hoenn\nGanador nivel experto
+Concurso Dulzura de Hoenn\nGanador nivel normal
+Concurso Dulzura de Hoenn\nGanador nivel alto
+Concurso Dulzura de Hoenn\nGanador nivel avanzado
+Concurso Dulzura de Hoenn\nGanador nivel experto
+Concurso Ingenio de Hoenn\nGanador nivel normal
+Concurso Ingenio de Hoenn\nGanador nivel alto
+Concurso Ingenio de Hoenn\nGanador nivel avanzado
+Concurso Ingenio de Hoenn\nGanador nivel experto
+Concurso Dureza de Hoenn\nGanador nivel normal
+Concurso Dureza de Hoenn\nGanador nivel alto
+Concurso Dureza de Hoenn\nGanador nivel avanzado
+Concurso Dureza de Hoenn\nGanador nivel experto
+Cinta obtenida por superar el desafío\nde la Torre Batalla de Hoenn Nv. 50
+Cinta obtenida por superar el desafío\nde la Torre Batalla de Hoenn Nv. 100
+Cinta obtenida por haber sido elegido\ncomo supermodelo en Hoenn
+Cinta obtenida por ser un excelente\ntrabajador
+Cinta obtenida por vencer al Campeón de\nSinnoh y entrar en el Hall de la Fama
+Súper Concurso Carisma\nGanador nivel normal
+Súper Concurso Carisma\nGanador nivel difícil
+Súper Concurso Carisma\nGanador nivel superior
+Súper Concurso Carisma\nGanador nivel experto
+Súper Concurso Belleza\nGanador nivel normal
+Súper Concurso Belleza\nGanador nivel difícil
+Súper Concurso Belleza\nGanador nivel superior
+Súper Concurso Belleza\nGanador nivel experto
+Súper Concurso Dulzura\nGanador nivel normal
+Súper Concurso Dulzura\nGanador nivel difícil
+Súper Concurso Dulzura\nGanador nivel superior
+Súper Concurso Dulzura\nGanador nivel experto
+Súper Concurso Ingenio\nGanador nivel normal
+Súper Concurso Ingenio\nGanador nivel difícil
+Súper Concurso Ingenio\nGanador nivel superior
+Súper Concurso Ingenio\nGanador nivel experto
+Súper Concurso Dureza\nGanador nivel normal
+Súper Concurso Dureza\nGanador nivel difícil
+Súper Concurso Dureza\nGanador nivel superior
+Súper Concurso Dureza\nGanador nivel experto
+Cinta obtenida por vencer al Amo\nde la Torre en la Torre Batalla
+Cinta obtenida por vencer al Amo\nde la Torre en la Torre Batalla
+Cinta obtenida por superar el\ndesafío doble en la Torre Batalla
+Cinta obtenida por superar el\ndesafío múlt. en la Torre Batalla
+Cinta obtenida por superar el desafío\nmúlt. conexión en la Torre Batalla
+Cinta obtenida por superar el\ndesafío en la Torre Batalla Wi-Fi
+Cinta obtenida por recordar un suceso\nvigorizante que creó energía vital
+Cinta obtenida por recordar un suceso\nexcitante que hizo la vida más interesante
+Cinta obtenida por recordar sentimientos\ntristes que añadieron interés a la vida
+Cinta obtenida por recordar descuidos\nque ayudaron a tomar decisiones vitales
+Cinta obtenida por recordar una anécdota\nrefrescante que añadió chispa a la vida
+Cinta obtenida por recordar un profundo\nsueño que hizo la vida más calmada
+Cinta obtenida por recordar que las\nsonrisas mejoran la calidad de vida
+Cinta extremadamente bonita y\nextravagante
+Cinta increíblemente majestuosa y\ncon aire aristocrático
+Cinta preciosa y majestuosa que es\nde lo más fabulosa y maravillosa
+Cinta concedida a un Pokémon que\ndeja huellas de primera
+Cinta obtenida por establecer\nun récord increíble
+Cinta obtenida por establecer\nun récord histórico
+Cinta obtenida por establecer\nun récord legendario.
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Torneo Regional 2003\nCinta Campeón
+Torneo Nacional 2003\nCinta Campeón
+Copa del Mundo 2003\nCinta Campeón
+Torneo Regional 2003\nCinta finalista
+Torneo Nacional 2003\nCinta finalista
+Copa del Mundo 2003\nCinta finalista
+Torneo Regional 2003\nCinta semifinalista
+Torneo Nacional 2003\nCinta semifinalista
+Copa del Mundo 2003\nCinta semifinalista
+Torneo Regional 2004\nCinta Campeón
+Torneo Nacional 2004\nCinta Campeón
+Copa del Mundo 2004\nCinta Campeón
+Torneo Regional 2004\nCinta finalista
+Torneo Nacional 2004\nCinta finalista
+Copa del Mundo 2004\nCinta finalista
+Torneo Regional 2004\nCinta semifinalista
+Torneo Nacional 2004\nCinta semifinalista
+Copa del Mundo 2004\nCinta semifinalista
+Torneo Regional 2005\nCinta Campeón
+Torneo Nacional 2005\nCinta Campeón
+Copa del Mundo 2005\nCinta Campeón
+Torneo Regional 2005\nCinta finalista
+Torneo Nacional 2005\nCinta finalista
+Copa del Mundo 2005\nCinta finalista
+Torneo Regional 2005\nCinta semifinalista
+Torneo Nacional 2005\nCinta semifinalista
+Copa del Mundo 2005\nCinta semifinalista
+Copa Batalla Pokémon\nCinta Campeón
+Copa Batalla Pokémon\nCinta finalista
+Copa Batalla Pokémon\nCinta semifinalista
+Copa Batalla Pokémon\nCinta de participación
+Liga Pokémon\nCinta Campeón
+Liga Pokémon\nCinta finalista
+Liga Pokémon\nCinta semifinalista
+Liga Pokémon\nCinta de participación
+Copa Avanzada\nCinta Campeón
+Copa Avanzada\nCinta finalista
+Copa Avanzada\nCinta semifinalista
+Copa Avanzada\nCinta de participación
+Torneo Pokémon\nCinta de participación
+Evento Pokémon\nCinta de participación
+Festival Pokémon\nCinta de participación
+Cinta obtenida por superar\ndesafíos difíciles
+Cinta obtenida por superar\ntodos los desafíos difíciles
+Cinta obtenida por lograr\n100 victorias consecutivas
+Cinta obtenida por superar\nla Torre Oscura
+Cinta obtenida por superar\nla Torre Roja
+Cinta obtenida por superar\nla Torre Férrea
+Cinta obtenida por superar\nla Torre Final
+Cinta obtenida por crear\nuna nueva leyenda
+Centro Pokémon Tokio\nCinta conmemorativa
+Centro Pokémon Osaka\nCinta conmemorativa
+Centro Pokémon Nagoya\nCinta conmemorativa
+Nintendo World NY\nCinta conmemorativa
+Cinta vacac. verano
+Cinta vacac. invierno
+Cinta vacac. primavera
+Cinta hoja perenne
+Cinta vacac. especiales
+Cinta esfuerzo
+Cinta amistad
+Cinta energía
+Cinta conmemorativa\npara un Pokémon querido
+Cinta símbolo de amor\nhacia los Pokémon
+Centro Pokémon Sapporo\nCinta conmemorativa
+Centro Pokémon Yokohama\nCinta conmemorativa
+Centro Pokémon Fukuoka\nCinta conmemorativa
+Club de Fans de Pokémon\nCinta especial
+Club de Fans de Pokémon\nCinta Wi-Fi
+Evento Global Wi-Fi\nCinta conmemorativa
+Regalo Global Wi-Fi\nCinta especial
+Regalo mundial simultáneo\nCinta especial
+Inauguración Centro Pokémon\nCinta conmemorativa
+Inauguración Parque Pokémon\nCinta conmemorativa
+Parque Pokémon\nCinta especial
+Concierto Pokémon\nCinta conmemorativa
+Liga Pokémon 2006\nCinta Campeón
+Liga Pokémon 2006\nCinta finalista
+Liga Pokémon 2006\nCinta semifinalista
+Liga Pokémon 2006\nCinta de participación
+Liga Pokémon 2007\nCinta Campeón
+Liga Pokémon 2007\nCinta finalista
+Liga Pokémon 2007\nCinta semifinalista
+Liga Pokémon 2007\nCinta de participación
+Liga Pokémon 2008\nCinta Campeón
+Liga Pokémon 2008\nCinta finalista
+Liga Pokémon 2008\nCinta semifinalista
+Liga Pokémon 2008\nCinta de participación
+Liga Pokémon 2009\nCinta Campeón
+Liga Pokémon 2009\nCinta finalista
+Liga Pokémon 2009\nCinta semifinalista
+Liga Pokémon 2009\nCinta de participación
+Liga Pokémon 2010\nCinta Campeón
+Liga Pokémon 2010\nCinta finalista
+Liga Pokémon 2010\nCinta semifinalista
+Liga Pokémon 2010\nCinta de participación
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso
+Cinta conmemorativa obtenida\nen un lugar misterioso

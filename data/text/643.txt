@@ -1,0 +1,7 @@
+César
+¡Oh, {STRVAR_1 1, 0, 0}!\nNo hace falta el teléfono,\fcon hablar así basta.
+¡Soy César!\n¡{STRVAR_1 1, 0, 0}, qué alegría!\r
+He fabricado Poké Balls\ncon las Bonguri que me dejaste.\r{STRVAR_1 8, 10, 0}: {STRVAR_1 51, 11, 0}\n¡Pásate por mi casa cuando quieras!
+¡Todavía no he terminado!\n¡Espera un día más, por favor!
+Si me traes Bonguri,\nte fabrico Poké Balls.\f¡Pásate cuando quieras por mi casa!
+Dime lo que quieres.\nEstoy sustituyendo a mi abuelo.\r

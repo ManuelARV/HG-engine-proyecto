@@ -1,0 +1,12 @@
+Un montón de personas se han hecho\ncon el Ala Arcoíris y posteriormente\rhan subido a esta torre\npara invocar a HO-OH.\rDesafortunadamente, nadie ha podido\nencontrarse con HO-OH hasta ahora.\rEl Ala Arcoíris es una especie de pase\npara subir a esta torre.\rLo que HO-OH realmente desea es\nun vínculo invisible entre los Pokémon\fy los humanos o, más bien, un humano\fdigno que pueda recuperar el vínculo...\r
+El Pokémon que moraba en esta torre,\nHO-OH, emprendió el vuelo\fhacia los cielos y ya no volverá.\rSolo podría aparecer de nuevo si\nalguien poseedor de un profundo vínculo\fcon los Pokémon subiera portando\falgo en directa conexión con HO-OH\fy lo invocara...\rTal vez...\r
+¿C-c-cómo?\r
+¡La has encontrado! ¡Muy bien!\nAdelante.
+El Ala Arcoíris no es más\nque la credencial necesaria\fpara subir la torre.\rSi no eres una persona digna y\nposeedora de un profundo vínculo\fcon los Pokémon, HO-OH\fno aparecerá ante ti.
+¡Claro, claro!
+Eres una ricura y encima\ntienes potencial.
+Morti: En la Torre Campana los\nEntrenadores comprueban la fortaleza\fde los vínculos con sus Pokémon.\rTal vez tengas cualidades innatas...\r¿Me das tu número de teléfono?\rQuiero ver mejor cómo son tus\nvínculos con tus Pokémon.{YESNO 0}
+¡{STRVAR_1 3, 0, 0} ha registrado\na Morti en el Pokégear!
+Morti: ¿Por qué no me llamas el martes\npor la noche?\rMe gustaría volver a combatir\nsi tienes tiempo.
+Morti: Quería ver mejor cómo son\ntus vínculos con los Pokémon.
+Morti:\n¿Me das tu número de teléfono?{YESNO 0}

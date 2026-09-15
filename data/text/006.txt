@@ -1,0 +1,96 @@
+{STRVAR_1 1, 0, 0}
+{STRVAR_1 1, 0, 0}
+{STRVAR_1 1, 0, 0}
+{STRVAR_1 1, 0, 0}
+{STRVAR_1 1, 0, 0}
+{STRVAR_1 1, 0, 0}
+Elige un Pokémon.
+¿Con qué Pokémon lo usas?
+{STRVAR_1 5, 0, 0}
+{STRVAR_1 8, 0, 0}
+     
+     
+     
+     
+PP
+CAMBIAR
+♂
+♀
+DATOS
+MOVIMIENTOS
+Sin objetos
+{STRVAR_1 1, 0, 0}
+{STRVAR_1 1, 0, 0}
+Nv. 
+{STRVAR_1 52, 0, 0}
+SIG. NIVEL
+{STRVAR_1 55, 0, 0}
+{STRVAR_1 5, 0, 0}
+PS
+{STRVAR_1 52, 0, 0}
+{STRVAR_1 52, 0, 0}
+/
+ATAQUE
+{STRVAR_1 52, 0, 0}
+DEFENSA
+{STRVAR_1 52, 0, 0}
+AT. ESP.
+{STRVAR_1 52, 0, 0}
+DEF. ESP.
+{STRVAR_1 52, 0, 0}
+VELOC.
+{STRVAR_1 52, 0, 0}
+{STRVAR_1 6, 0, 0}
+PP
+{STRVAR_1 51, 0, 0}
+{STRVAR_1 51, 0, 0}
+/
+  
+POTENCIA
+{STRVAR_1 52, 0, 0}
+---
+PRECISIÓN
+{STRVAR_1 52, 0, 0}
+CATEG.
+FÍSICO
+ESTADO
+ESPECIAL
+        
+OLVIDAR
+SALIR
+Los movimientos MO no\nse pueden olvidar así.
+{STRVAR_1 6, 0, 0}
+{STRVAR_1 51, 0, 0}
+{STRVAR_1 51, 0, 0}
+{STRVAR_1 6, 0, 0}
+{STRVAR_1 51, 0, 0}
+{STRVAR_1 51, 0, 0}
+{STRVAR_1 6, 0, 0}
+{STRVAR_1 51, 0, 0}
+{STRVAR_1 51, 0, 0}
+{STRVAR_1 6, 0, 0}
+{STRVAR_1 51, 0, 0}
+{STRVAR_1 51, 0, 0}
+{STRVAR_1 6, 0, 0}
+{STRVAR_1 51, 0, 0}
+{STRVAR_1 51, 0, 0}
+¡{STRVAR_1 1, 0, 0} ya está luchando!
+¡A {STRVAR_1 1, 0, 0} no le quedan\nfuerzas para luchar!
+¡No se puede cambiar a {STRVAR_1 1, 0, 0}!
+¡Los Huevos no pueden luchar!
+¡No puedes cambiar el Pokémon\nde {STRVAR_1 3, 0, 0} por uno tuyo!
+No tendría ningún efecto.
+{STRVAR_1 1, 0, 0} ha recuperado {STRVAR_1 52, 1, 0} PS.
+{STRVAR_1 1, 0, 0} se ha curado\ndel envenenamiento.
+{STRVAR_1 1, 0, 0} se ha curado\nde la parálisis.
+{STRVAR_1 1, 0, 0} ya no tiene quemaduras.
+{STRVAR_1 1, 0, 0} ya no está congelado.
+PP restaurados.
+¡{STRVAR_1 1, 0, 0} ya no está debilitado!
+¡{STRVAR_1 1, 0, 0} recuperó su estado!
+¡{STRVAR_1 1, 0, 0} ya no está confuso!
+{STRVAR_1 1, 0, 0} ya no está enamorado.
+¡{STRVAR_1 1, 0, 0} se despertó!
+El Pokémon {STRVAR_1 1, 0, 0} ya\nha sido seleccionado.
+¿Restaurar qué movimiento?
+¡El efecto de {STRVAR_1 6, 1, 0} impide\nusar el objeto sobre {STRVAR_1 1, 0, 0}!

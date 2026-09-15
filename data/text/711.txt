@@ -1,0 +1,12 @@
+Luis
+Por cierto, soy un Montañero, así que\nsuelo ir a cuevas y montañas.\rApenas me adentro en la gran ciudad.\rTú debes conocer muchas ciudades,\ndame tu número, seguro que hay\ftela de cosas que contarnos.{YESNO 0}
+Cuando me acuerde de algo interesante,\nte llamo.
+Como quieras, dicho lo cual, mejor\nme encierro en las montañas...
+Tanto a ti como a mí nos encanta\nla aventura.\fMejor estar en contacto.{YESNO 0}
+¿Quieres hablar por teléfono a pesar\nde estar cerca?\r¿Tanto te impone mi presencia?
+El otro día, vi como mi {STRVAR_1 0, 10, 0}\ncomía Bayas.\rParecía que estaba disfrutando como\nun jabato, así que decidí probarlas.\r¡No estoy seguro de que la gente\npueda comerlas, pero estaban\fdeliciosas!\r¡Pórtate bien! ¡Hablamos!
+Últimamente, me cruzo a menudo\ncon {STRVAR_1 0, 11, 0} salvajes,\fpero acabo con ellos en un pis pas.\r¡Pórtate bien! ¡Hablamos!
+¡Oh, sí! Estaba luchando contra\nun {STRVAR_1 0, 11, 0} el otro día cuando\fpasó una chica guapísima y me distraje\fcompletamente, entonces se me escapó.\rAprende de mi error.\n¡Concéntrate en tu objetivo!\r¡Pórtate bien! ¡Hablamos!
+Venga. ¡Luchemos!\rEstoy en {STRVAR_1 4, 3, 0}.\n¡Ven hasta aquí si te apetece!
+¡Hola! No te habrás olvidado de\nnuestro combate, ¿verdad?\r¡Es en {STRVAR_1 4, 3, 0}!\n¡Aquí te espero!
+¿Quieres saber por qué me gusta tanto\nla montaña? En parte es porque me\fencantan los Pokémon de la montaña.\rPero ante todo es porque me gusta\nel aire, el ambiente que se respira y\fte envuelve.\rNo puedo comprender lo que el Nadador\nle ve al agua...

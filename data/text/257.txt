@@ -1,0 +1,4 @@
+¡Bienvenidos al S.S. Aqua!\rVeo que tienes un Ticket Barco.\n¡Adelante!\r
+Una travesía diaria es agotadora\nincluso para un barco.\rHoy no hay servicio, pero sale\nun barco a Ciudad Olivo todos\flos miércoles y domingos.
+¡Bienvenidos al S.S. Aqua!\rVeo que tienes un Ticket Barco.\n¡Adelante!
+¿Vienes de Johto?\rQué interesante.\nAllí hay muchos Pokémon fabulosos.

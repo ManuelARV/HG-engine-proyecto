@@ -1,0 +1,17 @@
+¡Muchas gracias por participar!\rEspera mientras se guarda la partida.\nNo apagues la consola.
+¡Vuelve cuando quieras!
+Vamos a devolverle toda la salud\na tu equipo Pokémon.
+La pareja rival número {STRVAR_1 50, 0, 0} te espera.\n¿Continuamos?
+¿Quieres guardar la partida y\nsalir del juego?
+¿Quieres cancelar el desafío\nde la Sala de Combate?
+¿Quieres guardar el último combate\ncomo tu Vídeo de Combate?
+Se ha guardado el último enfrentamiento\nde {STRVAR_1 3, 0, 0} como Vídeo de Combate.\r
+Se ha producido un error.\nEl Vídeo de Combate no se ha guardado.\r
+¿Quieres borrar el Vídeo de Combate\nactual y guardar tu último combate?
+Guardando...\nNo apagues la consola.
+Se ha cancelado este desafío\nde la Sala de Combate.
+Esperando respuesta de tu amigo...
+¡Siete victorias consecutivas!\n¡Enhorabuena!\r¡Como premio a tu talento,\nhas ganado PB!\r
+¡{STRVAR_1 3, 0, 0} ha conseguido {STRVAR_1 51, 1, 0} PB!\r
+Guardando...\nNo apagues la consola.
+Por favor, espera...

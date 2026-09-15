@@ -1,0 +1,22 @@
+Vera
+¡Hola! ¿También te gustan los CLEFAIRY?\nSon encantadores, ¿verdad?\rPresiento que este es el comienzo\nde una hermosa amistad.\r¡Dame tu número de teléfono!\n¡Quiero charlotear sobre CLEFAIRY!{YESNO 0}
+¿A que mi CLEFAIRY es monísimo?\nEs muy cuco y graciosín.
+Auuu... Vaaaale...\rBúscame si quieres hablar acerca\nde CLEFAIRY.
+¡Dame tu número de teléfono!\n¡Quiero charlotear sobre CLEFAIRY!{YESNO 0}
+¡Has venido! ¡Toma!\n¡Un Poké Muñeco!\r
+Oye... ¿Soy una persona con la que\nes difícil hablar? ¿Lo soy? ¿Lo soy?\rSi estás cerca, no hace falta llamar...\nPuedes hablarme directamente...\fQue no te dé vergüenza...
+¡{STRVAR_1 14, 4, 0}! Es horrible.\nMi CLEFAIRY...\r¿Eh? ¿{STRVAR_1 3, 0, 0}?\n¡Huy, lo siento! Tenía prisa y...\fme he confundido de número.\r¡Debo irme! ¡Hasta lueguito!
+¡{STRVAR_1 14, 4, 0}! Es horrible.\nMi CLEFAIRY...\r¿Eh? ¿{STRVAR_1 3, 0, 0}?\n¡Huy, lo siento! Tenía prisa y...\fme he confundido de número.\r¡Debo irme! ¡Hasta lueguito!
+Mi {STRVAR_1 0, 10, 0} es adorable, ¿no crees?\nDuermo con él. Es tierno y cálido.\rEl otro día tuvimos que luchar contra\nun {STRVAR_1 0, 11, 0}...\r¡Mi CLEFAIRY casi se desmaya del susto!\r¿No es horrible?\n¡Odio los {STRVAR_1 0, 11, 0}!\r¡Hasta lueguito!
+Mi {STRVAR_1 0, 10, 0} es adorable, ¿no crees?\nDuermo con él. Es tierno y cálido.\rEl otro día tuvimos que luchar contra\nun {STRVAR_1 0, 11, 0}...\r¡Mi CLEFAIRY estaba muerto de miedo\ny nos fuimos por patas!\rEs tan tierno que dan ganas\nde protegerlo en todo momento.\r¡Odio los {STRVAR_1 0, 11, 0}!\n¡Hasta lueguito!
+Sé que te pilla de sopetón, pero\n¿querrías luchar conmigo?\rTe espero con CLEFAIRY en\n{STRVAR_1 4, 3, 0}.
+¿Qué ocurre? ¿No puedes venir?\rCLEFAIRY se cansó de esperar\ny se quedó sopa.\fNo sé si podré despertarle...\r¡Date prisa en venir a\n{STRVAR_1 4, 3, 0}!
+¡Me encanta poner ropita bonita\na mi CLEFAIRY!
+He comprado un Poké Muñeco muy cuco\nen el Centro Comercial de Ciudad Trigal.\rTe lo doy.\nVen a por él a {STRVAR_1 4, 3, 0}.
+¿Qué ocurre? ¿No puedes venir?\nEl Poké Muñeco es una ricura.\r¡Date prisa en venir\na {STRVAR_1 4, 3, 0}!
+ABUELO
+ABUELA
+MADRE
+PADRE
+HERMANA
+HERMANO

@@ -1,0 +1,16 @@
+Bill: ¡Hola, {STRVAR_1 3, 0, 0}!\nHaznos un favor y acepta este EEVEE.\rEstaba ayudando a alguien a ajustar\nsu Conexión Wi-Fi de Nintendo y\fme lo enviaron sin venir a cuento.\rAlguien tiene que cuidarlo y a mí no\nme gusta salir.\r¿Puedo confiar en ti para jugar\ncon él, {STRVAR_1 3, 0, 0}?{YESNO 0}
+Bill: ¡Sabía que aceptarías!\n¡Vamos! ¡Tú sí que vales!\rBueno, cuento contigo.\n¡Cuídalo bien!\r
+¡{STRVAR_1 3, 0, 0} recibió EEVEE!
+Bill: El Profesor Elm dice que\nEEVEE puede evolucionar a\fsiete formas diferentes.
+No, espera.\nNo puedes llevar más Pokémon.
+Vaya... ¿Y qué hago yo ahora?
+Bill: Hace un tiempo hice un experimento\nde teletransporte.\rLuego lo utilizaron como punto de\npartida para crear la Conexión Wi-Fi\fde Nintendo y la GTS.
+¿Quieres ponerle un mote\nal EEVEE que has recibido?{YESNO 0}
+                         
+Anda, ¿coleccionas Pokémon?\nMi hijo Bill es todo un experto.\rLe han llamado del Centro Pokémon\nde Ciudad Iris.
+Si mi hijo viniera a verme más a menudo,\nme haría muy feliz.
+Mi hermano Bill creó el Sistema\nde Almacenamiento de Pokémon\fen los PC.
+¿Entrenas Pokémon?\rTengo un número de teléfono\nque te será útil.\f¿Lo quieres?{YESNO 0}\n
+¡{STRVAR_1 3, 0, 0} ha registrado a Bill\nen el Pokégear!
+Mi hermano Bill creó el Sistema\nde Almacenamiento de Pokémon\fen los PC.\rPensaba darte su número,\npero si no lo quieres...
+Si llamas a mi hermano Bill, te enseñará\nalgo sobre las Cajas donde guardas\ftus Pokémon.

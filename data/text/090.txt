@@ -1,0 +1,1 @@
+César: ¡Hola, {STRVAR_1 3, 0, 0}!\rEl guardia de arriba huyó\nen cuanto le grité,\fpero entonces me caí en el Pozo.\rAl caer, me golpeé en la espalda\ny ahora no puedo moverme.\rSi estuviera bien, mis Pokémon\nlos habrían machacado...\r¡Vaya! Así no puedo hacer nada.\r¡{STRVAR_1 3, 0, 0}, demuéstrales de lo que\nes capaz un Entrenador Pokémon!

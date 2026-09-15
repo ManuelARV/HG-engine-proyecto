@@ -1,0 +1,23 @@
+Vamos a devolverle toda la salud\na tu equipo Pokémon.
+Ahora vas a enfrentarte a tu rival\nnúmero {STRVAR_1 50, 0, 0}. ¿Todo preparado?
+¿Quieres guardar la partida y\nsalir del juego?
+¿Quieres cancelar el desafío\nde la Sala de Combate?
+Guardando...\nNo apagues la consola.
+                          
+Ahora vas a enfrentarte a tu rival\nnúmero {STRVAR_1 50, 0, 0}. ¿Todo preparado?
+¿Quieres guardar la partida y\nsalir del juego?
+¿Quieres cancelar el desafío\nde la Sala de Combate?
+¿Quieres guardar el último combate\ncomo tu Vídeo de Combate?
+Se ha guardado el último enfrentamiento\nde {STRVAR_1 3, 0, 0} como Vídeo de Combate.\r
+Se ha producido un error.\nNo se ha podido guardar el vídeo.\r
+¿Quieres borrar el Vídeo de Combate\nactual y guardar tu último combate?
+Guardando...\nNo apagues la consola.
+¡Enhorabuena por tu racha de victorias!\rEl As del Frente afirma que lo has\nimpresionado.\rEs consciente de tu habilidad y le\ngustaría desafiarte a un combate.\r¿Lucharás contra el Amo Torre?
+¡Hola!\nMe llamo Jericor.\rRecuerdo haberte visto en\nPueblo Primavera, {STRVAR_1 3, 0, 0}.\rMmm... ¡Eres más joven\nde lo que me imaginaba!\rLos lazos que has forjado con tu equipo\nPokémon y los diversos combates\fcon Entrenadores para llegar hasta\faquí te han hecho más y más fuerte.\r
+Jericor: ¡Vaya, has llegado muy lejos!\rEn calidad de Amo Torre, tendré\nque esforzarme al máximo.\rAsí es como los mejores Entrenadores\nse muestran respeto unos a otros.\r¡Hay que darlo todo y demostrar\nnuestro aprecio por los Pokémon!\r
+¡Muy bien!\rSupongo que muchos grandes\nEntrenadores vendrán a desafiarme,\ftal como has hecho tú.\rLo cierto es que espero con ilusión\nese momento.\rAumentarás tus habilidades día a día,\nasí que sigue luchando con\fEntrenadores de todo el mundo y\fdesarrolla tu potencial al máximo.\r
+¡Muy bien!\n¡Mi corazón se siente inspirado!\rMi joven colega, el mundo y tu futuro\nesconden grandes promesas.\r¡Adelante, ve! ¡Lograrás todo lo que\nte propongas!\r¡Veo que vas a llegar muy lejos!\r
+¡Siete victorias consecutivas!\n¡Enhorabuena!\r¡Como premio a tu talento,\nhas ganado PB!\r
+¡Enhorabuena!\r¡Tu victoria ante el Amo Torre\nha sido muy inspiradora!\r¡Como premio a tu talento,\nhas ganado PB!\r
+¡{STRVAR_1 3, 0, 0} ha conseguido {STRVAR_1 51, 1, 0} PB!\r
+Guardando...\nNo apagues la consola.

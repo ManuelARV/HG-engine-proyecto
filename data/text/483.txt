@@ -1,0 +1,24 @@
+Ciudad Carmín es el puerto más\nimportante de Kanto.\rEn él atracan lujosos\ntransatlánticos de todo el mundo.
+Mi Pokémon está preparando el terreno\ndonde edificar. Pero no tengo dinero\fpara el proyecto...
+MACHOP: ¡Mach, chop, chooop!
+En Kanto hay ocho Gimnasios.\nEse gran edificio es el Gimnasio\fPokémon de Ciudad Carmín,\fliderado por Lt. Surge.
+Los Entrenadores expertos se reúnen\nen Kanto. Los Líderes de Gimnasio\fson muy fuertes.\rNo serán fáciles de vencer.
+¿Has conseguido ya alguna Medalla de\nGimnasio de Kanto?\r¿A que los Entrenadores de Kanto\nson muy fuertes?
+Supongo que pronto habrás conseguido\ntodas las Medallas de Kanto.\rCuando tengas las ocho Medallas,\ndímelo.
+¡Enhorabuena!\nTienes todas las Medallas de Kanto.\rTe recompensaré por tu esfuerzo.\r
+Máx. PP aumenta los PP máximos\nde un movimiento hasta el límite.\rEs bastante poderoso. Si lo utilizas\npara movimientos con pocos PP podrás\fdarle un giro a tu técnica de combate.
+Máx. PP aumenta los PP máximos\nde un movimiento hasta el límite.\rEs bastante poderoso. Si lo utilizas\npara movimientos con pocos PP podrás\fdarle un giro a tu técnica de combate.
+Ciudad Carmín\nEl puerto del ocaso
+Líder del Gimnasio Pokémon de\nCiudad Carmín: Lt. Surge\fEl Rayo Americano
+Club de Fans de Pokémon\n¡Bienvenidos!
+Entrada al Puerto Carmín
+Eusine: ¡Qué rabia!\nPensaba que desde aquí podría tenderle\funa emboscada a SUICUNE.\rPero, si es capaz de correr sobre\nel agua, no tengo ninguna posibilidad...\rAl menos, con tanto perseguir a\nSUICUNE me he familiarizado con sus\fformas de actuar y empiezo a adivinar\fsus movimientos.\rSUICUNE aparecerá en un lugar cercano\nal agua. No cabe la menor duda...\r
+¡Lo siento, {STRVAR_1 3, 0, 0},\npero debo irme ya!\r
+Buenas. Soy Máximo, el Campeón\nde la Liga Pokémon de Hoenn.\r¿Te conozco de algo?...\rNo, deben de ser imaginaciones mías...\nEs que todos los Entrenadores\fa los que me he enfrentado\ftienen la misma mirada...\rSí... Los Entrenadores que\ntanto dolor me han causado...\r
+Máximo: Por cierto, ¿has oído hablar de\nun Pokémon llamado LATIAS?\rTrato de averiguar por qué LATIAS\nabandonó Hoenn, su territorio original,\fy vino hasta Kanto.\r
+Máximo: Por cierto, ¿has oído hablar de\nun Pokémon llamado LATIOS?\rTrato de averiguar por qué LATIOS\nabandonó Hoenn, su territorio original,\fy vino hasta Kanto.\r
+LATIAS posee un estrecho vínculo con\nuna gema conocida como Rocío Bondad.\rEl hecho de que LATIAS haya aparecido\nen la región de Kanto debe de guardar\falguna relación con el Rocío Bondad.\r
+LATIOS posee un estrecho vínculo con\nuna gema conocida como Rocío Bondad.\rEl hecho de que LATIOS haya aparecido\nen la región de Kanto debe de guardar\falguna relación con el Rocío Bondad.\r
+LATIAS es capaz de recorrer\nlargas distancias.\rEs muy difícil seguirle la pista sin un\ndispositivo de seguimiento, pero no\fme dirás que no te come la intriga,\f¿a que sí?\r
+LATIOS es capaz de recorrer\nlargas distancias.\rEs muy difícil seguirle la pista sin un\ndispositivo de seguimiento, pero no\fme dirás que no te come la intriga,\f¿a que sí?\r
+Máximo: Bueno, es posible que volvamos\na encontrarnos en otra ocasión.\r

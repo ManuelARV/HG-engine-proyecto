@@ -1,0 +1,14 @@
+Sansón: ¿Eh?\r
+¡Oh! ¡Tú por fin estás aquí!\nTe llamas {STRVAR_1 3, 0, 0}, ¿verdad?\r¡Enhorabuena por llegar hasta aquí!\r
+Esta es la Sala Amistad.\rSe edificó para alabar eternamente la\namistad entre Pokémon y humanos.\rAquí se ensalza el trabajo en equipo\ny la confianza ciega en el potencial\fy las capacidades de los Pokémon y\fsus Entrenadores.\r
+¡Enhorabuena!\rAquí solo pueden acceder\nlos Pokéatletas genuinos\fque se han ganado la amistad\fde los Pokémon.\r¡{STRVAR_1 3, 0, 0}, tu nombre es sinónimo\nde verdadero Pokéatleta!\r
+Pero esto no es más que\nel comienzo de tu epopeya.\r
+¡Sí! ¡Ya has recibido el pistoletazo\nde salida de tu nuevo comienzo!\rTu misión es apuntar a lo más alto.\rHas de convertirte en un Pokéatleta\nlegendario.\rMira esta estatua.\nTu meta se encuentra ante tus ojos.\r
+Sansón: Esta es la Sala Amistad,\nel lugar donde Pokémon y humanos\fse juraron hermandad sempiterna.\r¡Pero esta no es tu meta!\nEn cada sala hay un Trofeo.\rEres libre de afanarte en hacerte\ncon todos y cada uno de ellos.\r¡Solo tú puedes fijar\ntus propias metas!\rY la clave para hacerlas realidad\nsuperando todo desafío será siempre\fla fuerza de la amistad\fentre tus Pokémon y tú.
+¡Es una estatua tuya!\r
+Es la estatua de tu Pokémon,\ncompañero incombustible\fde aventuras y desafíos.
+Es una estatua del Pokémon Insignia.\n¿Quieres cambiarla?
+Aquí puedes poner la estatua\ndel Pokémon Insignia, aquel\fque ha conseguido cinco insignias.\r¿Quieres colocarla?
+Es una estatua del Pokémon Insignia.\n¿Quieres cambiarla?
+Aquí puedes poner la estatua\ndel Pokémon Insignia, aquel\fque ha conseguido cinco insignias.\r¿Quieres colocarla?
+Es una estatua del Pokémon Insignia.\n¿Quieres cambiarla?

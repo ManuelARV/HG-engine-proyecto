@@ -1,0 +1,32 @@
+Rendimiento
+{CURSOR_X 0}USAR
+{CURSOR_X 0}ATRÁS
+{STRVAR_1 1, 0, 0}
+Nv. {STRVAR_1 52, 0, 0}
+Fortaleza
+Resistencia
+Precisión
+Salto
+Velocidad
+♂
+♀
+Has usado una Bongurchata insípida.
+Has usado una Bongurchata Fortaleza.
+Has usado una Bongurchata Resistencia.
+Has usado una Bongurchata Precisión.
+Has usado una Bongurchata Salto.
+Has usado una Bongurchata Velocidad.
+No ha cambiado nada.\r
+¡Ha subido el Rendimiento Fortaleza!\r
+¡Ha subido el Rendimiento Resistencia!\r
+¡Ha subido el Rendimiento Precisión!\r
+¡Ha subido el Rendimiento Salto!\r
+¡Ha subido el Rendimiento Velocidad!\r
+¡Ha bajado el Rendimiento Fortaleza!\r
+¡Ha bajado el Rendimiento Resistencia!\r
+¡Ha bajado el Rendimiento Precisión!\r
+¡Ha bajado el Rendimiento Salto!\r
+¡Ha bajado el Rendimiento Velocidad!\r
+Before giving juice
+After giving juice
+♢cond{STRVAR_1 51, 0, 0} rev{STRVAR_1 51, 1, 0} add{STRVAR_1 51, 2, 0} base{STRVAR_1 51, 3, 0}\n min{STRVAR_1 51, 4, 0} max{STRVAR_1 51, 5, 0} result{STRVAR_1 51, 6, 0}

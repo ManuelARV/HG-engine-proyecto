@@ -1,0 +1,4 @@
+¿Quieres librar un combate?{YESNO 0}
+¡Hasta la próxima!
+¡Has conseguido\n1 Punto de Batalla!
+Robe

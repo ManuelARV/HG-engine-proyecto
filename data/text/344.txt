@@ -1,0 +1,16 @@
+                                  
+                                              
+                                                                                    
+Director: ¡Mi generador!\nYa está produciendo electricidad\fpara proporcionar una vida más\fcómoda a toda la región de Kanto.
+¡Tendremos que reforzar las medidas\nde seguridad para que esto no vuelva\fa repetirse!
+El generador ya funciona y produce\nmucha electricidad a diario.
+¡El generador ya funciona!
+El Director está contento porque\nel generador ya está arreglado.
+El Magnetotrén podrá volver\na funcionar por fin.
+Colecciono Pokémon.\n¿Tienes un DUGTRIO?\rSi quieres, te lo cambio\npor mi MAGNETON. {YESNO 0}
+¡Qué bien!\n¡Ya tengo un DUGTRIO!\r¡Gracias!
+¿Eh?...\n¿No tienes un DUGTRIO?\fJo, qué lástima...
+¿No quieres cambiarlo?\nJo, qué chasco...
+¡Hola!\n¿Cómo está el MAGNETON\fque te he dado?
+Normas para los empleados:\r1 La electricidad no es infinita.\n2 Ahorrar energía cuando sea posible.\f3 Hablar con los demás.\f4 Evitar las negligencias.\f5 Llevar zapatos con suelas de goma.\f6 El Director es una gran persona.
+Hay que usar la electricidad sabiamente\npara garantizar una vida próspera.\rCentral Energía de Kanto

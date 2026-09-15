@@ -1,0 +1,100 @@
+{COLOR 0}Algodón Blanco{COLOR 0}
+{COLOR 0}Algodón Ámbar{COLOR 0}
+{COLOR 0}Algodón Rosa{COLOR 0}
+{COLOR 0}Algodón Marrón{COLOR 0}
+{COLOR 0}Algodón Negro{COLOR 0}
+{COLOR 0}Algodón Naranja{COLOR 0}
+{COLOR 0}Roca Redonda{COLOR 0}
+{COLOR 0}Roca Luciente{COLOR 0}
+{COLOR 0}Roca Desigual{COLOR 0}
+{COLOR 0}Roca Áspera{COLOR 0}
+{COLOR 0}Roca Negra{COLOR 0}
+{COLOR 0}Minirroca{COLOR 0}
+{COLOR 0}Escama Rosa{COLOR 0}
+{COLOR 0}Escama Azul{COLOR 0}
+{COLOR 0}Escama Verde{COLOR 0}
+{COLOR 0}Escama Morada{COLOR 0}
+{COLOR 0}Escama Grande{COLOR 0}
+{COLOR 0}Escama Pequeña{COLOR 0}
+{COLOR 0}Pluma Azul{COLOR 0}
+{COLOR 0}Pluma Roja{COLOR 0}
+{COLOR 0}Pluma Amarilla{COLOR 0}
+{COLOR 0}Pluma Blanca{COLOR 0}
+{COLOR 0}Bigote Negro{COLOR 0}
+{COLOR 0}Bigote Blanco{COLOR 0}
+{COLOR 0}Barba Negra{COLOR 0}
+{COLOR 0}Barba Blanca{COLOR 0}
+{COLOR 0}Hoja Pequeña{COLOR 0}
+{COLOR 0}Hoja Grande{COLOR 0}
+{COLOR 0}Hoja Fina{COLOR 0}
+{COLOR 0}Muda Garra{COLOR 0}
+{COLOR 0}Muda Cuerno{COLOR 0}
+{COLOR 0}Seta Delgada{COLOR 0}
+{COLOR 0}Seta Gruesa{COLOR 0}
+{COLOR 0}Tocón{COLOR 0}
+{COLOR 0}Gota de Rocío{COLOR 0}
+{COLOR 0}Cristal Nieve{COLOR 0}
+{COLOR 0}Chispas{COLOR 0}
+{COLOR 0}Fuego Trémulo{COLOR 0}
+{COLOR 0}Fuego Místico{COLOR 0}
+{COLOR 0}Determinación{COLOR 0}
+{COLOR 0}Cuchara Rara{COLOR 0}
+{COLOR 0}Humo Denso{COLOR 0}
+{COLOR 0}Extracto Veneno{COLOR 0}
+{COLOR 0}Moneda suerte{COLOR 0}
+{COLOR 0}Cosa macabra{COLOR 0}
+{COLOR 0}Muelle{COLOR 0}
+{COLOR 0}Concha Marina{COLOR 0}
+{COLOR 0}Nota tarareada{COLOR 0}
+{COLOR 0}Brillantina{COLOR 0}
+{COLOR 0}Purpurina{COLOR 0}
+{COLOR 0}Flor Roja{COLOR 0}
+{COLOR 0}Flor Rosa{COLOR 0}
+{COLOR 0}Flor Blanca{COLOR 0}
+{COLOR 0}Flor Azul{COLOR 0}
+{COLOR 0}Flor Naranja{COLOR 0}
+{COLOR 0}Flor Amarilla{COLOR 0}
+{COLOR 0}Gafas Redondas{COLOR 0}
+{COLOR 0}Gafas Negras{COLOR 0}
+{COLOR 0}Gafas Elegantes{COLOR 0}
+{COLOR 0}Caramelo{COLOR 0}
+{COLOR 0}Confeti{COLOR 0}
+{COLOR 0}Parasol{COLOR 0}
+{COLOR 0}Paraguas Viejo{COLOR 0}
+{COLOR 0}Foco{COLOR 0}
+{COLOR 0}Capa{COLOR 0}
+{COLOR 0}Micrófono{COLOR 0}
+{COLOR 0}Tabla de Surf{COLOR 0}
+{COLOR 0}Alfombra{COLOR 0}
+{COLOR 0}Tubería Retro{COLOR 0}
+{COLOR 0}Cama Mullida{COLOR 0}
+{COLOR 0}Bola Espejo{COLOR 0}
+{COLOR 0}Tablón de Fotos{COLOR 0}
+{COLOR 0}Lazo Rosa{COLOR 0}
+{COLOR 0}Lazo Rojo{COLOR 0}
+{COLOR 0}Lazo Azul{COLOR 0}
+{COLOR 0}Lazo Amarillo{COLOR 0}
+{COLOR 0}Lazo Verde{COLOR 0}
+{COLOR 0}Globo Rosa{COLOR 0}
+{COLOR 0}Globos Rojos{COLOR 0}
+{COLOR 0}Globos Azules{COLOR 0}
+{COLOR 0}Globo Amarillo{COLOR 0}
+{COLOR 0}Globos Verdes{COLOR 0}
+{COLOR 0}Lazo{COLOR 0}
+{COLOR 0}Sombrero{COLOR 0}
+{COLOR 0}Velo de Seda{COLOR 0}
+{COLOR 0}Cinta Heroica{COLOR 0}
+{COLOR 0}Bonete profesor{COLOR 0}
+{COLOR 0}Escenario Flor{COLOR 0}
+{COLOR 0}Pedestal de Oro{COLOR 0}
+{COLOR 0}Escen. Cristal{COLOR 0}
+{COLOR 0}Podio{COLOR 0}
+{COLOR 0}Escenario Cubo{COLOR 0}
+{COLOR 0}Máscara TURTWIG{COLOR 0}
+{COLOR 0}Másc. CHIMCHAR{COLOR 0}
+{COLOR 0}Máscara PIPLUP{COLOR 0}
+{COLOR 0}Árbol Grande{COLOR 0}
+{COLOR 0}Bandera{COLOR 0}
+{COLOR 0}Corona{COLOR 0}
+{COLOR 0}Tiara{COLOR 0}
+{COLOR 0}Cometa{COLOR 0}

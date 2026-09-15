@@ -1,0 +1,16 @@
+Nicolasa
+Cuando encuentro Entrenadores fuertes\nme entran ganas de animarlos.\rCuando voy de paseo,\na veces encuentro objetos.\r¡Si encuentro algo, te lo daré!\n¿Me das tu número?\rTe llamaré cuando encuentre algo.
+Te llamaré cuando encuentre algo.
+¿No? Como quieras,\npero yo seguiré animándote.
+¡Si encuentro algo, te lo daré!\n¿Me das tu número?{YESNO 0}
+¡Por fin estás aquí!\nCreo que esto te va a alegrar.\r
+Te chifla el teléfono, ¿verdad? Pero,\nestando tan cerca, ¿qué falta te hace?
+Mi {STRVAR_1 0, 10, 0} y yo estamos cada\nvez más sincronizados.\rLuchamos con un {STRVAR_1 0, 11, 0} salvaje\ny conseguimos tumbarlo.\f¡Ya le estamos pillando el truco!\r¡Adiós! ¡Hablamos en otra ocasión!
+Mi {STRVAR_1 0, 10, 0} y yo estamos cada\nvez más sincronizados.\r¿Sabes?\rTodavía no he conseguido capturar\nun {STRVAR_1 0, 11, 0}.\fEs un poco frustrante...\r¡Adiós! ¡Hablamos en otra ocasión!
+Practica un poco conmigo, ¿vale?\nTe esperaré en {STRVAR_1 4, 3, 0}.\rTe lo tomarás con tranquilidad\nesta vez, ¿verdad?
+¿Cuándo vendrás a luchar conmigo?\nNo lo olvides, ¡{STRVAR_1 4, 3, 0}!
+¿Cuándo vendrás a luchar conmigo?\nNo lo olvides, ¡{STRVAR_1 4, 3, 0}!
+Lo siento. Todavía no he encontrado\nnada útil.\rSi encuentro algo, tuyo es. Prometido.
+Hoy he encontrado algo genial.\n¡Quiero dártelo, por eso te llamaba!\rVendrás, ¿verdad?\nEstoy en {STRVAR_1 4, 3, 0}.
+¡Te espero impacientemente!\n¡Ven deprisa a {STRVAR_1 4, 3, 0}!
+¿Sabes lo del Team Rocket?\rHan tomado la Torre Radio de\nCiudad Trigal.\r¿Estarán bien los rehenes?

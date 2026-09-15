@@ -1,0 +1,36 @@
+¡Soy yo, Primo!\n¡Fantásticos son los Pokémon!\r¡A ti yo te enseñaré a ser mejor!\n¿Quieres saber cómo ganar?{YESNO 0}
+¡Bien! ¡A ti yo te enseñaré!\r¡En combate, el primer Pokémon\nde la lista sale antes! Es decir,\faquel que te acompaña.\r¡Quizá sea más fácil si cambias el orden!\r¿Quieres que te cuente más cosas?{YESNO 0}
+¿Quieres saber cómo criar bien\nlos Pokémon?{YESNO 0}
+¡Bien! ¡A ti yo te enseñaré!\rSi un Pokémon sale al combate, aunque\nbrevemente, gana Puntos de Exp.\r¡Pon primero los Pokémon débiles,\ny cámbialos rápido en el combate!\r¡Así se harán más fuertes!\n¿Quieres que te cuente más cosas?{YESNO 0}
+¿Quieres saber cómo librar un buen\ncombate Pokémon?{YESNO 0}
+¡Bien! ¡A ti yo te enseñaré!\rTodos los Pokémon tienen ventajas y\ndesventajas según el tipo.\rAunque el nivel de tu Pokémon sea\nmás elevado, puedes perder si el tipo\fno es el más adecuado.\rLo mejor es utilizar un Pokémon\nde un tipo que sea eficaz contra\fel de tu adversario.
+¡Oh! ¡Muy inteligente eres!\n¡Nada más quieres saber!\r¡Experto en Pokémon debes de ser!
+Estoy tomando apuntes\nde lo que dice el profesor.\rY debería copiar también\nlo escrito en la pizarra.
+He cambiado mis mejores Pokémon\ncon mi compañero.
+¡El Pokémon que he conseguido va\nequipado con algo!
+Un Pokémon equipado con una Baya\npuede usarla él mismo para recuperarse.\rPero no solo eso. Hay muchos otros\nobjetos que un Pokémon puede usar.\rEs muy difícil apuntarlo todo\nsin dejarse nada...
+¡Los Pokémon tienen una característica\nespecial que se llama Habilidad!\rSe ve que viene determinada\npor la especie...\r¡Muchas de ellas son muy útiles\ndurante un combate!
+En la pizarra hay una explicación sobre\nlos cambios de estado que pueden sufrir\flos Pokémon durante un combate.\r
+¿Qué tema quieres leer?{YESNO 0}
+Si envenenan un Pokémon, perderá PS.\rEl envenenamiento continúa\ntras el combate y al caminar\fseguirá perdiendo PS.\rPara curarlo, usa Antídoto.\r
+La Parálisis baja la Velocidad\ny puede impedir el movimiento.\rPermanece tras el combate,\nasí que usa Antiparaliz.\r
+Si duermen a tu Pokémon, solo podrá\nutilizar los movimientos Ronquido\fo Sonámbulo.\rUn Pokémon dormido no se despierta\ntras el combate.\rDespiértalo con Despertar.\r
+Las quemaduras consumen PS,\nreducen el poder del ataque y\fpermanecen tras el combate.\rUsa Antiquemar como cura.\r
+Si tu Pokémon está congelado,\nno podrá hacer nada.\rSeguirá congelado tras el combate.\rDescongélalo con Antihielo.\r
+Es el cuaderno de este niño...\rCaptura Pokémon usando Poké Balls.\nTu equipo puede tener hasta seis.\r¿Sigues leyendo?{YESNO 0}
+Antes de lanzar la Poké Ball,\ndebes debilitarlo.\rAtrapar un Pokémon quemado\no envenenado es mucho más fácil.\r¿Sigues leyendo?{YESNO 0}
+Algunos ataques causan Confusión.\rUn Pokémon confuso puede atacarse\na sí mismo.\rRetirarlo del combate,\neliminará su Confusión.\r¿Sigues leyendo?{YESNO 0}
+Quienes atrapan Pokémon y los usan\npara luchar son Entrenadores.\rSu objetivo es ir a los Gimnasios\ny vencer a otros Entrenadores.\rLa hoja siguiente está... ¡vacía!\r
+Niño: Eh, eh...\nNo he escrito nada más...
+ENVENENADO
+PARALIZADO
+DORMIDO
+QUEMADO
+CONGELADO
+SALIR
+                                      
+                   
+                     
+                                                                 
+                                                
+                                                                                                      

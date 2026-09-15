@@ -1,0 +1,32 @@
+Lisi
+¿Estás recorriéndote todo el mundo?\r¡Lo mejor es mantener el contacto!\n¿Me das tu número de teléfono?\r¡Quiero enterarme de todo lo que\nvas viendo!{YESNO 0}
+Te telefonearé si oigo algo interesante.
+Eh... ¿No quieres dármelo?
+¿Me das tu número de teléfono?\r¡Quiero enterarme de todo lo que\nvas viendo en tu viaje!{YESNO 0}
+¡No es necesario llamar,\nestás muy cerca!
+Oye, tienes que oír esto.\r¡Mi {STRVAR_1 0, 10, 0} es encantador!\n¡Siempre está pegado a mí!\rY, y...\nderrotamos a un {STRVAR_1 0, 11, 0} salvaje\fde un solo golpe hace un rato.\rPero no nos alegra demasiado,\npobrecillo...\r¡Te llamaré más tarde!
+¡Oye, tienes que oír esto!\r¡Mi {STRVAR_1 0, 10, 0} es encantador!\n¡Siempre está pegado a mí!\rY, y...\nel otro día vimos un {STRVAR_1 0, 11, 0}\frealmente hermoso.\rPero estaba hablando por teléfono\ny se me escapó. ¡Qué rabia!\r¡Venga! ¡Te llamaré más tarde!
+¡Escucha, escucha!\rEstaba oyendo la radio en las\nRuinas Alfa cuando una extraña\femisión cortó el programa.\rMe gustaría saber qué fue. ¡Qué raro!\n¡Venga! ¡Ya te llamaré!
+¡Escucha, escucha!\r¿No te parece que Pegaso del Gimnasio\nde Ciudad Malva es muy mono y simpático?\rPues dicen que su padre, que está fuera\nentrenándose, es mucho más guapo\fy simpático que él.\r¡Ojalá pudiera conocerle!\n¡Venga! ¡Ya te llamaré!
+¡Escucha, escucha!\r¿Conoces a Primo, el profesor que dirige\nla Escuela Pokémon en Ciudad Malva?\rLe vi haciendo piruetas mientras corría.\n¡Tenía pinta de pasárselo bien!\r¡Venga! ¡Ya te llamaré!
+¡Escucha, escucha!\rLas Chicas Kimono de Ciudad\nIris no solo se pasan el día\fpracticando sus bailes.\rDedican sus esfuerzos a invocar al\nPokémon legendario que hace mucho, se\fevaporó de este mundo sin previo aviso.\r¡Qué emocionante!\n¡Venga! ¡Ya te llamaré!\n
+¡Escucha, escucha!\r¿Conoces la Leche Mu-mu?\nLa venden en la Granja Mu-mu.\rSe supone que es buena para la\nsalud y el cutis. Me muero por probarla.\r¡Seguro que está deliciosa!\n¡Venga! ¡Ya te llamaré!
+¡Escucha, escucha!\rHay una Peluquería Pokémon en Ciudad\nTrigal que dirigen dos hermanos.\rEl hermano mayor es bueno pelando,\npero el menor... más bien no.\rLo que pasa es que el menor es más\nbaratuco y a veces le viene la\filuminación y supera a su hermano.\fPero lo dicho, muy a veces.\rCada vez que voy, lo paso mal\ndecidiendo a quién elijo...\r¡Venga! ¡Ya te llamaré!
+¡Escucha, escucha!\r¡Blanca, del Gimnasio de Ciudad Trigal,\ncomenzó a luchar hace poco tiempo!\r¡Pero la Liga Pokémon la eligió de Líder!\fCreo que debe de ser muy buena.\r¡Venga! ¡Ya te llamaré!
+¡Escucha, escucha!\r¿Has participado en el Concurso de\nCaptura de Bichos del Parque Nacional?\rYo sí, una vez, pero todo lo que\npude atrapar fue un CATERPIE.\r¿Y sabes qué? Gané con ese CATERPIE.\n¿No es genial?\r¡Venga! ¡Ya te llamaré!
+¡Escucha, escucha!\r¡El otro día vi un {STRVAR_1 14, 4, 0}\nincreíble!\r¡Yo quiero ser {STRVAR_1 14, 4, 0}!\n¡Venga! ¡Ya te llamaré!
+¡Escucha, escucha!\nMmm... ¡Huy!\r¡Se me ha olvidado lo que te iba a decir!\n¡Venga! ¡Ya te llamaré!
+¡Eh, escucha esto!\rHe probado suerte en la tómbola de la\nLotería Pokémon, en la quinta planta\fdel Centro Comercial de Ciudad Trigal.\rPensaba que podría ganar una MT por\nsolo 300 $. Una ganga, ¿no?\rPero he jugado diez veces y siempre\nme ha tocado el tercer premio: ¡Bayas!\rBueno, tengo que dejarte. ¡Hablamos!\n
+¡Hola! ¿Tienes un momento?\rYo no tengo nada que hacer.\nSi estás libre, ¿combatimos?\rTe espero en {STRVAR_1 4, 3, 0}.\n¡Avísame cuando llegues!
+¡Tengo todo el tiempo del mundo!\r¡Luchemos ahora mismo!\n¡Te espero en {STRVAR_1 4, 3, 0}!
+Hola, Tania. ¿Qué tal? Soy Lisi.\nEstoy bien, ¡pero me aburro mogollón!\r¡Huy!... ¿Tú no eres Tania?\nQué corte, me he confundido... ¡Perdón!
+¡Escucha, escucha!\rMi {STRVAR_1 0, 10, 0}... es... tan bonito...\ny... ríe mucho... impresionante... sí...\rmucho... ¡Aaaaah!\nY es... cariñoso... encantador...\r¡Oh, ya lo creo!\nLe abrazo... durmiendo... eso es...\rbonito... Aaah...\nGuay... es muy monín...\r¡Huy! ¡Mira qué tarde!\n¡He hablado hasta por los codos!\r¡Siento haberte hecho perder el tiempo!\n¡Me encanta hablar!
+Entre. guay
+Modelo
+Rocket
+Maestra
+Nadadora
+Chica Kimono
+Esquiadora
+Mentalista
+Pokéfan

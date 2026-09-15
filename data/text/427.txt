@@ -1,0 +1,11 @@
+¡Tilín, tilín!\r¡Se acabó el tiempo!\nEl Safari ha terminado.\r
+¡Tilín, tilín!\rTe has quedado sin Safari Balls.\nAquí concluye tu Safari.\r
+¡Tilín, tilín!\rYa no tienes espacio para más Pokémon.\n¡Tu Safari se ha terminado!\r
+¿Quieres salir del Juego Safari\nahora mismo?{YESNO 0}
+¿Colocar un bloque?{YESNO 0}
+¡Bloque {STRVAR_1 8, 0, 0} colocado!
+¿Retirar {STRVAR_1 8, 0, 0}?{YESNO 0}
+Bloque {STRVAR_1 8, 0, 0} retirado.
+No puedes colocar más bloques\nen este terreno.
+No te quedan más bloques.
+No tienes más espacio para\ncolocar bloques.

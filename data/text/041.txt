@@ -1,0 +1,10 @@
+                  
+Ha habido un error de conexión.\n\nSi estabas en la Sala Unión, pulsa\nel Botón A para iniciar la conexión\ninalámbrica de Nintendo DS y volver\nallí, o pulsa el Botón B para volver\na la pantalla del título. Si estabas\nen otro lugar, pulsa el Botón A para\nir al último lugar donde guardaste.
+Ha habido un error de conexión.\n({STRVAR_1 54, 0, 0})\nPor favor, apaga la consola DS y\nvuelve a intentarlo.\n\nSi este mensaje sigue apareciendo,\nponte en contacto con el Servicio de\nAtención al Consumidor de Nintendo.
+Ha habido un error de conexión.\n\nVolverás a la pantalla del título.\n\nPor favor, pulsa el Botón A.
+La GTS tiene un volumen de tráfico\ndemasiado elevado o el servicio\nse ha interrumpido. Vuelve a\nintentar conectarte más tarde.\n\nTe has desconectado de la\nConexión Wi-Fi de Nintendo.\nPor favor, pulsa el Botón A.
+Ha habido un error de conexión.\n\nPor favor, apaga la consola DS y\nvuelve a intentarlo.\n\nSi este mensaje sigue apareciendo,\nponte en contacto con el Servicio de\nAtención al Consumidor de Nintendo.
+Ha habido un error de conexión.\n\nTe has desconectado de la\nConexión Wi-Fi de Nintendo.\nVolverás al último lugar\ndonde guardaste.\nPor favor, pulsa el Botón A.
+Ha habido un error de conexión.\n\nTe has desconectado de la\nConexión Wi-Fi de Nintendo.\nVolverás a la pantalla del título.\nPor favor, pulsa el Botón A.
+Ha habido un error de conexión.\n({STRVAR_1 54, 0, 0})\n\nTe has desconectado de la\nConexión Wi-Fi de Nintendo.\nVolverás al último lugar\ndonde guardaste.\nPor favor, pulsa el Botón A.
+Ha habido un error de conexión.\n({STRVAR_1 54, 0, 0})\n\nTe has desconectado de la\nConexión Wi-Fi de Nintendo.\nVolverás a la pantalla del título.\nPor favor, pulsa el Botón A.

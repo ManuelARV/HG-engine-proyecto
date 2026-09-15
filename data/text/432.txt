@@ -1,0 +1,13 @@
+        
+{STRVAR_1 8, 0, 0}
+  
+   
+SIGUIENTE
+SALIR
+¿Quieres deshacerte de\nesta tarjeta?
+  
+   
+¡Tarjeta {STRVAR_1 50, 0, 0}!
+       
+¡Otra vez será!
+Elige la tarjeta {STRVAR_1 50, 0, 0}.{YESNO 0}

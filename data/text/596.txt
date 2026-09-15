@@ -1,0 +1,20 @@
+Te doy la bienvenida.\r¡Oh, tu Pokémon...!\r
+Está muy unido a ti.\nEste movimiento sería perfecto\fpara vosotros.\r
+                     
+¡Es adorable!\nEnséñale unas potentes MT.
+Parece malvado.\n¿Qué te parece esta MT para él?\r
+                     
+Seguro que hay MT que te vendrían\nmuy bien para los combates.
+Regalo misterioso.\rCon un simple bip, recibes un regalo.
+Regalo misterioso\rEn mi Game Boy no funciona...
+Colecciono Pokémon.\r¿Tienes un DROWZEE?\n¿Quieres cambiarlo por mi MACHOP?{YESNO 0}
+¡Sí! ¡Conseguí un DROWZEE!\n¡Gracias!
+¿Qué? Ese no es DROWZEE.\n¡Qué chasco...!
+¿No quieres cambiarlo?\n¡Bah!
+Hola, ¿cómo está mi MACHOP?
+¿Eh? ¿Desde cuando eres tú\ndel Team Rocket?
+Los domingos, una señora\nviene a ver Pokémon.\f¡Incluso regala MT!
+¿Qué se le ha perdido aquí\nal Team Rocket?
+No puedes cambiar el nombre de un\nPokémon que has intercambiado.\rEl nombre refleja los sentimientos\ndel Entrenador original.
+Con esa ropa negra, se van a pensar\nque eres del Team Rocket.\r¿Qué? ¿Que es verdad?
+Personaliza tus Pokémon\nP4 Tienda de MT

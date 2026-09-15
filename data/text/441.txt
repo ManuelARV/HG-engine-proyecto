@@ -1,0 +1,38 @@
+Espera un momento, por favor.
+             
+¡Vamos a restaurar la salud\nde {STRVAR_1 0, 0, 0}!
+¡Ahora toca el combate {STRVAR_1 53, 0, 0}!\n¿Todo listo?
+¿Quieres guardar un vídeo\ndel último combate?
+Se ha guardado el último enfrentamiento\nde {STRVAR_1 3, 0, 0} como Vídeo de Combate.\r
+Se ha producido un error.\nNo se ha podido guardar el vídeo.
+¿Quieres borrar el Vídeo de Combate\nactual y guardar tu último combate?
+Guardando...\nNo apagues la consola.
+Si hace falta un descanso,\npodemos guardar la partida... ¿Y bien?
+¿Va en serio eso de retirarse\nde la Sala Batalla?
+{STRVAR_1 3, 0, 0} se lo está pensando.\nPor favor, espera.
+                    
+{STRVAR_1 3, 0, 0} se ha retirado.
+¡Enhorabuena! ¡Nada menos que diez\nvictorias seguidas en la Sala Batalla!\rMe complace entregarte PB de premio.\r¡Pero hay que compartirlo\ncon {STRVAR_1 0, 0, 0}!\r
+¡{STRVAR_1 3, 0, 0} ha conseguido {STRVAR_1 51, 1, 0} PB!\r
+                                 
+Guardando...\nNo apagues la consola.
+                     
+ADELANTE
+GUARDAR VÍDEO
+DESCANSO
+RETIRADA
+Ahora hay que elegir el tipo de Pokémon.\r
+Así que Pokémon de tipo {STRVAR_1 15, 0, 0}\ny de Rango {STRVAR_1 51, 1, 0}. ¿Está bien así?
+                
+                
+  
+   
+ 
+ 
+La Dama del Salón solicita participar.\n¿Todo listo?
+Un momento, por favor.\rAnte tal racha imparable de victorias,\nnuestro As del Frente ha solicitado\fentrar en la contienda.\rEn realidad, no hay otra opción...\n¡La Dama del Salón así lo desea!\r
+Argenta: La Sala Batalla permite a los\nEntrenadores ver hasta dónde puede\fllegar su Pokémon favorito.\rSupongo que no todo habrá sido un\ncamino de rosas hasta llegar aquí.\rHabrá habido momentos difíciles, pero\nla victoria sin sufrimiento no se\fdisfruta plenamente.\rMe llamo Argenta. Seguro que daré más\nbatalla que los otros Entrenadores.\rVeamos quién se alza con la victoria.\r
+Argenta: ¡Uf!\nMadre mía, qué Pokémon...\fSiento una fuerza inimaginable.\rTanto poder difícilmente se puede\ncontener en una Poké Ball...\rAunque solo yo, la Dama del Salón,\npuedo comprobar si es cierto.\r¿A qué estamos esperando?\r
+Argenta: Los buenos Entrenadores\nluchan con tesón y no alardean\fde su Pokémon favorito.\rAl menos eso es lo que creo.\rTeniendo eso presente, ¡esta batalla\nha sido muy reveladora!\rEstaré aquí en la Sala Batalla en espera\nde una nueva ocasión de enfrentarnos.\r¡Hasta entonces!\r
+Argenta: No se debe olvidar que siempre\nhay algo en lo que se puede destacar.\rEso también vale para los Pokémon.\rEste mensaje debe ser difundido.\nTodo el mundo debería saberlo.\rAhora, tras la derrota, a esta dama\nsolo le queda decir...\r¡Adiós!\r
+Elige el tipo de Pokémon con el que\nquieres disputar el combate.

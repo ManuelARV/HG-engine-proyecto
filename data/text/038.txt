@@ -1,0 +1,7 @@
+Por favor, introduce la clave de amigo.
+Por favor, introduce el número.
+BORRAR
+VALE
+Por favor, introduce tu clave Wii.
+Introduce el código de registro.
+Introduce la contraseña de 4 cifras.

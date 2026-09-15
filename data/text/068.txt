@@ -1,0 +1,15 @@
+Mientras estaba en las ruinas\noía la radio.\rY escuché un programa que no conocía.
+Rosa: ¿Por qué? ¿Por qué ha de\npasarme esto a mí?\r¡MEOWTH, ayúdame!
+Rosa: ¡Oh! ¡Eres mi salvación!\n¿Aceptas esto como agradecimiento?\r
+¡{STRVAR_1 3, 0, 0} ha recibido Polvo Brillo\nde Rosa!
+Rosa: Si un Pokémon lleva esto,\naumentarán las probabilidades\fde fallo de los ataques rivales.
+Vaya, no tienes sitio.
+Rosa: ¡Escucha La hora Pokémon del\nProfesor Oak conmigo!
+MEOWTH: Meow... owth...
+P3 Producción
+P3 Estudio 2
+Nardo: El Team Rocket...\nAquí falta algo...\f¡Claro! ¡La música!\rLa música llena de alegría\nlos corazones de la gente.\r¡Alguien que ame la música nunca\nharía fechorías en la Torre Radio!
+Nardo: ¿Escuchas nuestra música?
+El Ejecutivo Protón es quien ha urdido\ntodo el plan de la Torre Radio.\fEs realmente admirable.\r
+¿Qué?... ¡¿Qué te has creído?!\r¡No pienso permitir que nadie se\ninterponga en los planes de Prot...!\fQuiero decir... ¡del Team Rocket!\r
+¡Protón y el Team Rocket son los únicos\nque significan algo para mí!\r¡Los Pokémon me importan un pimiento!

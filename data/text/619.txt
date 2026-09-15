@@ -1,0 +1,8 @@
+¡Ah! ¿Vas de aventura con tus Pokémon?\r¡Buscar tesoros, eso sí que es\nuna aventura!\r¿Tengo razón o no?{YESNO 0}
+¡Bien! Entiendes el verdadero\nespíritu de la aventura.\r¡Me gusta!\nToma esto.
+                      
+Por aquí hay muchos objetos que\nno se ven tan fácilmente.\rSujeta el Zahorí firmemente y cuando\nel sonido sea más intenso, quiere decir\fque hay un objeto cerca.\rEs más fácil usarlo mientras\nvas caminando.\r¡Ah, sí! Dicen que hay muchos objetos\nen Torre Quemada de Ciudad Iris.
+Bueno... a cada uno le va lo suyo,\nsupongo...
+Historia de Ciudad Iris...\r¿Quieres leerla?{YESNO 0}
+En Ciudad Iris había dos torres.\rCada una acogía a un fuerte Pokémon\nvolador.\rPero una de ellas se quemó.\rY desde entonces no se ha visto a\nninguno de los dos Pokémon.\r¿Sigues leyendo?{YESNO 0}
+En Ciudad Iris también vivían\ntres Pokémon que corrían por toda\fla ciudad.\rDicen que habían nacido del agua,\ndel fuego y del rayo.\rPero como no podían contener\nsu enorme fuerza, huyeron\fen distintas direcciones y\fse ocultaron entre la hierba...\fEso es lo que cuentan.

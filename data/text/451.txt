@@ -1,0 +1,58 @@
+Oak: ¡Oh, {STRVAR_1 3, 0, 0}!\n¡Has recorrido un largo camino\fpara llegar hasta aquí!\rDime, ¿qué piensas de los Entrenadores\nde Kanto? Son bastante fuertes, ¿no?\r
+Oak: ¡Oh, {STRVAR_1 3, 0, 0}!\n¡Has recorrido un largo camino\fpara llegar hasta aquí!\rDime, ¿qué piensas de los Entrenadores\nde Kanto? Son bastante fuertes, ¿no?\r
+                                
+Si pasas por aquí, espero\nque vengas a visitarme.
+¡La verdad es que no dejas\nde sorprenderme!\rHas sobrepasado todas mis\nexpectativas al completar\fla Pokédex Nacional.\rComo investigador, es un privilegio\nel haberte conocido y es algo que\frecordaré durante el resto de mi vida.\r
+¡La verdad es que no dejas\nde sorprenderme!\rHas sobrepasado todas\nmis expectativas al completar\fla Pokédex Nacional.\rComo investigador, es un privilegio\nel haberte conocido y es algo que\frecordaré durante el resto de mi vida.\r
+A ver... esas Medallas...\r¡¿Cómo?!\r¡No solo conseguiste las Medallas de\nJohto, sino que también tienes todas\flas de Kanto!\rEstá claro que no me equivoqué contigo.\n¿Sabes qué, {STRVAR_1 3, 0, 0}?\rLo arreglaré para que puedas\nir al Monte Plateado.\rEl Monte Plateado es una gran montaña,\nhogar de muchos Pokémon salvajes.\rEs demasiado peligroso para\nun Entrenador medio.\rPero contigo podemos hacer\nuna excepción, {STRVAR_1 3, 0, 0}.\rVe a la Recepción de la Liga Pokémon y\npodrás acceder al Monte Plateado\fdesde allí.
+A ver... Esas Medallas...\r¡¿Cómo?!\r¡No solo conseguiste las Medallas de\nJohto, sino que también tienes\ftodas las de Kanto!\rEstá claro que no me equivoqué contigo.\n¿Sabes qué, {STRVAR_1 3, 0, 0}?\rLo arreglaré para que puedas ir\nal Monte Plateado.\rEl Monte Plateado es una gran montaña,\nhogar de muchos Pokémon salvajes.\rEs demasiado peligroso para\nun Entrenador medio.\rPero contigo podemos hacer\nuna excepción, {STRVAR_1 3, 0, 0}.\rVe a la Recepción de la Liga Pokémon y\npodrás acceder al Monte Plateado\fdesde allí.
+Oak: ¿Cómo? ¿No has conseguido\nlas Medallas de Kanto?\rLos Líderes de los Gimnasios de Kanto\nson tan fuertes como los de Johto.\rTe aconsejo que te enfrentes a ellos.\r
+Oak: Ah, ¿estás coleccionando las\nMedallas de Gimnasio de Kanto?\rMe imagino que es duro, pero la\nexperiencia te será de ayuda.\rVen a verme cuando las tengas todas.\nTe tengo preparado un regalo.\r¡Sigue así, {STRVAR_1 3, 0, 0}!\r
+Oak: Ah, ¿estás coleccionando las\nMedallas de Gimnasio de Kanto?\rMe imagino que es duro, pero la\nexperiencia te será de ayuda.\rVen a verme cuando las tengas todas.\nTe tengo preparado un regalo.\r¡Sigue así, {STRVAR_1 3, 0, 0}!\r
+Oak: ¡Ah, {STRVAR_1 3, 0, 0}!\n¿Qué tal?\r
+Oak: ¡Ah, {STRVAR_1 3, 0, 0}!\n¿Qué tal?\r
+Oak: ¿Unos Pokémon legendarios\nen la región de Hoenn?\fDeben de ser KYOGRE y GROUDON.\r
+Oak: Hay unas ruinas conocidas\ncomo la Torre Oculta que probablemente\fguardan relación con la leyenda\fde Hoenn.\rMe extrañaría que hubiera solo uno...\rSegún cuentan, KYOGRE y GROUDON\ncrearon el mar y la tierra, que no\fpueden existir el uno sin el otro.\rY me imagino que otro Pokémon no debe\nde andar lejos de donde se encuentren\fesos dos...\f¡Tiene bastante sentido!\r
+Oak: Si tuviéramos la Esfera Roja,\npodríamos hacer aparecer a GROUDON...\rPero según el Sr. Pokémon, solo un\nEntrenador con el alma resplandeciente\fcomo la plata podrá encontrarlo.\rMmm, {STRVAR_1 3, 0, 0}, no va a ser fácil\nlograrlo tú solo.\rPero si consigues atrapar a GROUDON\nen la Torre Oculta y puedes hacerte\fcon los dos, házmelo saber.\rEntonces te contaré más sobre\nla leyenda de Hoenn.\r
+Oak: Si tuviéramos la Esfera Roja,\npodríamos hacer aparecer a GROUDON...\rPero según el Sr. Pokémon, solo un\nEntrenador con el alma resplandeciente\fcomo la plata podrá encontrarlo.\rMmm, {STRVAR_1 3, 0, 0}, no va a ser fácil\nlograrlo tú sola.\rPero si consigues atrapar a GROUDON\nen la Torre Oculta y puedes hacerte\fcon los dos, házmelo saber.\rEntonces te contaré más sobre\nla leyenda de Hoenn.\r
+Oak: Si tuviéramos la Esfera Azul,\npodríamos hacer aparecer a KYOGRE...\rPero según el Sr. Pokémon, solo un\nEntrenador con el corazón\fresplandeciente como el oro\fpodrá encontrarlo.\rMmm, {STRVAR_1 3, 0, 0}, no va a ser fácil\nlograrlo tú solo.\rPero si consigues atrapar a KYOGRE\nen la Torre Oculta y puedes hacerte\fcon los dos, házmelo saber.\rEntonces te contaré más sobre\nla leyenda de Hoenn.\r
+Oak: Si tuviéramos la Esfera Azul,\npodríamos hacer aparecer a KYOGRE...\rPero según el Sr. Pokémon, solo un\nEntrenador con el corazón\fresplandeciente como el oro\fpodrá encontrarlo.\rMmm, {STRVAR_1 3, 0, 0}, no va a ser fácil\nlograrlo tú sola.\rPero si consigues atrapar a KYOGRE\nen la Torre Oculta y puedes hacerte\fcon los dos, házmelo saber.\rEntonces te contaré más sobre\nla leyenda de Hoenn.\r
+Oak: ¡Ah, {STRVAR_1 3, 0, 0}!\n¡Finalmente has conseguido hacerte\fcon KYOGRE y GROUDON!\r¡Muy bien!\nVoy a confiarte esto.\r
+Oak: ¡Ah, {STRVAR_1 3, 0, 0}!\n¡Finalmente has conseguido hacerte\fcon KYOGRE y GROUDON!\r¡Muy bien!\nVoy a confiarte esto.\r
+Oak: Se parece a la Esfera que te dio\nel Sr. Pokémon, ¿verdad?\rEsta es la Esfera Verde, que pertenece\na RAYQUAZA.\rSegún la leyenda de Hoenn, la tierra y\nel mar se crearon durante\fun enfrentamiento entre KYOGRE y\fGROUDON. A consecuencia de esa lucha,\flos volcanes entraron en erupción y se\flevantaron olas gigantes.\rFue RAYQUAZA, soberano de la\natmósfera, el que restauró el equilibrio\fy puso fin a tal cataclismo.\rVisto que la Torre Oculta guarda una\nconexión tan directa con KYOGRE y\fGROUDON, no me extrañaría que\fpasara algo extraordinario si vuelves\fallí llevando la Esfera Verde contigo.\r
+Oak: Llévate la Esfera Verde a la Torre\nOculta y veamos qué sucede.\r
+Oak: ¡Veo que has capturado\nal imponente RAYQUAZA!\rEl enorme poder de la Esfera Verde\nha servido para invocarlo.\rDesconozco el motivo, pero algunos\nPokémon mantienen fuertes vínculos\fcon algunas esferas o piedras.\rQuizá esos vínculos tengan su origen\nen alguna reminiscencia relativa a la\fformación de la Tierra o a la aparición\fde los Pokémon.\r
+Oak: Hola, {STRVAR_1 3, 0, 0}.\nEl estudio de los Pokémon\fno acaba nunca, pero la satisfacción\fque reporta tampoco.\rPor cierto...\r¡Oh! ¡Esos son...!\r¿Has estado en la Torre Oculta?\n¡Sin duda esos son KYOGRE y GROUDON!\r¡Los Pokémon de la leyenda de Hoenn!\n¡Quién habría dicho que conseguirías\fhacerte con ellos!\f¡Buen trabajo, {STRVAR_1 3, 0, 0}!\r¡Enhorabuena!\nVoy a confiarte esto.\r
+Oak: Hola, {STRVAR_1 3, 0, 0}.\nEl estudio de los Pokémon\fno acaba nunca, pero la satisfacción\fque reporta tampoco.\rPor cierto...\r¡Oh! ¡Esos son...!\r¿Has estado en la Torre Oculta?\n¡Sin duda esos son KYOGRE y GROUDON!\r¡Los Pokémon de la leyenda de Hoenn!\n¡Quién habría dicho que conseguirías\fhacerte con ellos!\f¡Buen trabajo, {STRVAR_1 3, 0, 0}!\r¡Enhorabuena!\nVoy a confiarte esto.\r
+Oak: Aquí tienes.\r
+                               
+Oak: ¿Qué te parece si nos hacemos\nuna foto de recuerdo? {YESNO 0}
+Oak: Muy bien.\n¿Todo listo?\r
+Oak: Sí, señor.\nEsto será un buen recuerdo.
+Oak: ¿Qué pasa?\nQue no te dé vergüenza.
+Tu Álbum de Fotos está lleno.\rUsa el PC para hacer un poco\nde sitio en tu Álbum.
+La hora Pokémon del Profesor Oak\npuede escucharse tanto en Kanto\fcomo en Johto.\r¡El Profesor Oak es genial!
+{STRVAR_1 3, 0, 0}, gracias a tu Pokédex\nla investigación del Profesor\festá progresando bastante.
+¿Eres tú, {STRVAR_1 3, 0, 0}?\rEsto que quede entre nosotros,\npero la emisión de La hora Pokémon\fdel Profesor Oak no es en directo.
+Está lleno de libros con las cubiertas\ndesgastadas de tanto leerlos.
+Hay un e-mail en el PC.\r...\rBuenas, Profesor Oak.\n¿Cómo siguen sus investigaciones?\rYo sigo avanzando poco a poco.\rParece que {STRVAR_1 3, 0, 0} se está\nlabrando una buena reputación\ftambién en Kanto, ¿eh?\rLas noticias han llegado hasta aquí.\n¡Me alegro muchísimo!\fElm de Pueblo Primavera.
+Hay un e-mail en el PC.\r...\rBuenas, Profesor Oak.\n¿Cómo siguen sus investigaciones?\rYo sigo avanzando poco a poco.\rParece que {STRVAR_1 3, 0, 0} se está\nlabrando una buena reputación\ftambién en Kanto, ¿eh?\rLas noticias han llegado hasta aquí.\n¡Me alegro muchísimo!\fElm de Pueblo Primavera.
+Oak: Ah, {STRVAR_1 3, 0, 0}.\nMuy buenas.\fMe he enterado de tus hazañas.\rTu Pokédex debe de estar muy avanzada,\n¿verdad?\rPor eso voy a darte un buen regalo.\r
+Oak: Ah, {STRVAR_1 3, 0, 0}.\nMuy buenas.\fMe he enterado de tus hazañas.\rTu Pokédex debe de estar muy avanzada,\n¿verdad?\rPor eso voy a darte un buen regalo.\r
+Oak: Je, je, je...\nYa debes de saber qué es eso\fque hay tras de mí, ¿no?\r¡Exacto! Son Pokémon.\r
+Oak: Son Pokémon que raramente\nse encuentran en la región de Kanto.\rVoy a darte uno.\nPuedes elegir.
+Bueno, entonces ¿quieres el\nPokémon de tipo Fuego CHARMANDER? {YESNO 0}
+Bueno, entonces ¿quieres el\nPokémon de tipo Agua SQUIRTLE? {YESNO 0}
+Bueno, entonces ¿quieres el\nPokémon de tipo Planta BULBASAUR? {YESNO 0}
+¡Este Pokémon es muy enérgico!\r
+No te precipites.\nPiénsalo bien antes de elegir.
+¡{STRVAR_1 3, 0, 0} ha recibido {STRVAR_1 0, 1, 0}\nde manos del Profesor Oak!
+¿Quieres ponerle un mote\nal {STRVAR_1 0, 1, 0} recibido?{YESNO 0}
+¿Quieres ponerle el mote\n{STRVAR_1 1, 1, 0}?{YESNO 0}
+Vaya... Ya llevas muchos Pokémon\ncontigo.\rVuelve cuando tengas sitio para este.
+Oak: ¡Muy bien!\nAunque te encuentres con Pokémon\fsalvajes podrás combatirlos y llegar\fhasta el próximo pueblo.\rAunque no necesitas que te cuente\ntodo eso a estas alturas, ¿verdad?\f¡Ja, ja, ja!
+Oak: Bueno, ya no hay nada más\nque debas saber por mi parte.\r¡Disfruta de tu viaje\ncon tu nuevo Pokémon!
+Son los Pokémon del Profesor Oak.\nSe supone que {STRVAR_1 3, 1, 0} no\fintentará robarlos...
+Oak: ¡Ah, aquí estás!\n¡Me gustaría regalarte algo!\r
+Oak: Contiene Treparrocas.\rSi le enseñas Treparrocas\na un Pokémon podrás escalar\fescarpadas paredes rocosas.\r¡Estoy seguro de que te servirá para\nhacer nuevos descubrimientos!\r
+Usando Treparrocas podrás escalar\nescarpadas paredes rocosas.\r¡Estoy seguro de que te servirá para\nhacer nuevos descubrimientos!

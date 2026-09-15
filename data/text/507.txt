@@ -1,0 +1,7 @@
+Edificio Azulona\nAscensor directo a la azotea.\r¿Quieres ir a la azotea? {YESNO 0}
+Edificio Azulona\nAscensor directo a la primera planta.\r¿Quieres ir a la primera planta? {YESNO 0}
+Hasta la vista.
+Subimos a la azotea.\r
+Bajamos a la primera planta.\r
+Hemos llegado a la azotea.\r
+Hemos llegado a la primera planta.\r

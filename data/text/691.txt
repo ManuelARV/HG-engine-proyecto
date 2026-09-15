@@ -1,0 +1,41 @@
+Rafi
+¡Nunca había luchado contra alguien\ntan bueno!\r¿Tú salvaste a todos los SLOWPOKE?\nSiendo así... ¡era imposible ganarte!\r¿Te parece bien darme tu número\nde teléfono?\r¡No me gustaría perderme nada de\nlo que hagas a partir de ahora!{YESNO 0}
+¡Guau! ¡Gracias!\rAhora puedo llamarte cuando\nquiera, haya algo interesante o no.\rYa sabes, para charlar.
+Oh, ¡pero si soy inofensivo!\r¡Solo quiero llamar para hablar\nde todo y de nada al mismo tiempo!
+¿Me vas a dar tu número de\nteléfono?{YESNO 0}
+Oye, creo que estás aquí cerca.
+¿{STRVAR_1 3, 0, 0}, te has enterado?\r¡La Torre Radio de Ciudad Trigal\nha sido tomada por el Team Rocket!\rOye... ¿Qué es el Team Rocket?
+¿{STRVAR_1 3, 0, 0}, te has enterado?\r¡La Torre Radio de Ciudad Trigal\nha sido tomada por el Team Rocket!\rOye... ¿Qué es el Team Rocket?
+¡{STRVAR_1 3, 0, 0}, me he enterado de algo!\rDerrotaste a Blanca, ¿no?\n¡Estoy muy orgulloso de ser amigo tuyo!\f¡Hasta pronto!
+¡{STRVAR_1 3, 0, 0}, me he enterado de algo!\rDerrotaste a Blanca, ¿no?\n¡Estoy muy orgulloso de ser amigo tuyo!\f¡Hasta pronto!
+¡Me he enterado, me he enterado!\r¡Derrotaste a Morti del Gimnasio\nde Ciudad Iris!\f¡Eso es increíble! \rLa verdad es que fui a la entrada del\nGimnasio a animarte, ¿lo sabías?\rPero todo el mundo tenía una vela\nen la cabeza. ¡Qué tétrico!\rMe asusté tanto que me fui a casa.\n¡Hasta pronto!
+¡Me he enterado, me he enterado!\r¡Derrotaste a Morti del Gimnasio\nde Ciudad Iris!\f¡Eso es increíble! \rLa verdad es que fui a la entrada del\nGimnasio a animarte, ¿lo sabías?\rPero todo el mundo tenía una vela\nen la cabeza. ¡Qué tétrico!\rMe asusté tanto que me fui a casa.\n¡Hasta pronto!
+¡He oído algo sobre ti!\rSalvaste a ese Pokémon del faro,\n¿verdad?\r¡{STRVAR_1 3, 0, 0}, me gustaría que vinieses\na verme cuando esté en cama resfriado!\r¡Hasta pronto!
+¡He oído algo sobre ti!\rSalvaste a ese Pokémon del faro,\n¿verdad?\r¡{STRVAR_1 3, 0, 0}, me gustaría que vinieses\na verme cuando esté en cama resfriado!\r¡Hasta pronto!
+¡Lo sé, lo sé, lo sé!\r¡Acabaste con el escondite\ndel Team Rocket!\r¡Eres como los héroes de las películas!\nPero... ¿qué era el Team Rocket?\rAh, ¿que no me entero de nada?\nTal vez...
+¡Lo sé, lo sé, lo sé!\r¡Acabaste con el escondite\ndel Team Rocket!\r¡Eres como los héroes de las películas!\nPero... ¿qué era el Team Rocket?\rAh, ¿que no me entero de nada?\nTal vez...
+¡Lo sé, lo sé, lo sé!\r¡Me he enterado de tu heroica\nliberación de la Torre Radio!\rSolo te llamaba para decirte que\neres la repera. ¡Hasta pronto!
+¡Lo sé, lo sé, lo sé!\r¡Me he enterado de tu heroica\nliberación de la Torre Radio!\rSolo te llamaba para decirte que\neres la repera. ¡Hasta pronto!
+¡Lo vi, lo vi!\r¡{STRVAR_1 3, 0, 0}, vi como entrabas\nen la Guarida Dragón!\r¡Seguro que pasaste la prueba!\n¡No hace falta tanta modestia!\r¡Eres infalible! ¡Hasta pronto!
+¡Lo vi, lo vi!\r¡{STRVAR_1 3, 0, 0}, vi como entrabas\nen la Guarida Dragón!\r¡Seguro que pasaste la prueba!\n¡No hace falta tanta modestia!\r¡Eres infalible! ¡Hasta pronto!
+Ayer fui a Pueblo Primavera.\rHabía una señora que se parecía\nmucho a ti, {STRVAR_1 3, 0, 0}.\r¿Qué? ¿Esa señora era tu madre?\n¡Debería haberme presentado!\rSeguro que tu madre está muy\norgullosa de tus hazañas.\r¡Créeme! ¡Hasta pronto!
+Ayer fui a Pueblo Primavera.\rHabía una señora que se parecía\nmucho a ti, {STRVAR_1 3, 0, 0}.\r¿Qué? ¿Esa señora era tu madre?\n¡Debería haberme presentado!\rSeguro que tu madre está muy\norgullosa de tus hazañas.\r¡Créeme! ¡Hasta pronto!
+¡Lo vi, lo vi, lo vi!\r¡Subiste a un barco, {STRVAR_1 3, 0, 0}!\n¡No te puedes imaginar lo bien\rque te queda el mar de fondo!\n¡Siento tener que colgarte ya!\r¡Hasta pronto!
+¡Lo vi, lo vi, lo vi!\r¡Subiste a un barco, {STRVAR_1 3, 0, 0}!\n¡No te puedes imaginar lo bien\rque te queda el mar de fondo!\n¡Siento tener que colgarte ya!\r¡Hasta pronto!
+¡Ya sé, ya sé!\n¡Tienes un Pase para el Magnetotrén!\rCuando te vi partir en el barco,\nme sentí muy triste porque no\fte podría ver en cierto tiempo.\r¡Pero, como tienes ese Pase,\npuedes regresar en un instante!\f¡Qué alivio!\r¿Qué? ¿Que puedes volar de vuelta\nen cualquier momento?\r¿Qué quieres decir con volar?\n¡Ya me contarás!
+¡Ya sé, ya sé!\n¡Tienes un Pase para el Magnetotrén!\rCuando te vi partir en el barco,\nme sentí muy triste porque no\fte podría ver en cierto tiempo.\r¡Pero, como tienes ese Pase,\npuedes regresar en un instante!\f¡Qué alivio!\r¿Qué? ¿Que puedes volar de vuelta\nen cualquier momento?\r¿Qué quieres decir con volar?\n¡Ya me contarás!
+¡Lo vi, lo vi!\r¡Despertaste a SNORLAX!\rTe estaba mirando de lejos,\nasí que no sabría decir lo que\fhiciste exactamente.\r¿Tocaste una Flauta para despertarle?\r¡Guau! ¡Como por arte de magia!\n¡Hasta pronto!
+¡Lo vi, lo vi!\r¡Despertaste a SNORLAX!\rTe estaba mirando de lejos,\nasí que no sabría decir lo que\fhiciste exactamente.\r¿Tocaste una Flauta para despertarle?\r¡Guau! ¡Como por arte de magia!\n¡Hasta pronto!
+¡{STRVAR_1 3, 0, 0}, me he enterado!\r¡Organizaste una buena en Kanto!\n¡Tuvo que ser un espectáculo glorioso!\r¡Cómo molas!\n¡Hasta pronto!
+¡{STRVAR_1 3, 0, 0}, me he enterado!\r¡Organizaste una buena en Kanto!\n¡Tuvo que ser un espectáculo glorioso!\r¡Cómo molas!\n¡Hasta pronto!
+He oído rumores acerca de ti por todas\npartes. ¡Qué envidia, {STRVAR_1 3, 0, 0}!\r¿Cómo puedes ser tan fuerte?\n¡Ahora, a por el campeonato del mundo!\r¡Soy tu fan número uno!\n¿Te importa que te vuelva a llamar?
+He oído rumores acerca de ti por todas\npartes. ¡Qué envidia, {STRVAR_1 3, 0, 0}!\r¿Cómo puedes ser tan fuerte?\n¡Ahora, a por el campeonato del mundo!\r¡Soy tu fan número uno!\n¿Te importa que te vuelva a llamar?
+¡{STRVAR_1 3, 0, 0}!\n¡Espero mucho de ti!
+¡{STRVAR_1 3, 0, 0}!\n¡Espero mucho de ti!
+¡Oír lo de tus aventuras me alegra\nel alma! ¡Te lo aseguro!
+¡Oír lo de tus aventuras me alegra\nel alma! ¡Te lo aseguro!
+Cada vez que recuerdo tus hazañas\nmi alma cobra alas.
+Cada vez que recuerdo tus hazañas\nmi alma cobra alas.
+¡Oír lo de tus aventuras me alegra\nel alma! ¡Te lo aseguro!
+¡Gracias por llamarme!\rYo también estaba a punto de darte\nun toque. ¡Esto es telepatía!
+¿Cómo estás? ¿Qué estás haciendo?\n¿Dónde estás?\r¿Cuántas Medallas has conseguido?\n¿Cuánto dinero has ahorrado?\r¿Cómo está tu madre?\n¿Tienes muchos Pokémon?\r¿Va a hacer sol mañana?\nAaarg... ¡Hay tantas cosas de\flas que quiero hablar!\r¡Esto no lleva a ninguna parte!

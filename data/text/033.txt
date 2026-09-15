@@ -1,0 +1,96 @@
+{STRVAR_1 3, 0, 0}
+{STRVAR_1 3, 0, 0}
+{STRVAR_1 53, 0, 0} PC
+{STRVAR_1 53, 0, 0} PC
+¿Qué Pokémon quieres ver?
+{ALN_CENTER}SALIR
+              
+{STRVAR_1 3, 0, 0} ha salido.
+VER
+NIVEL
+DATOS
+CANCELAR
+Ver de qué Pokémon se trata.
+Cambiar el nivel de un Pokémon.
+Comprobar estadísticas de un Pokémon.
+Volver a la pantalla anterior.
+¿Quieres identificar este Pokémon?\nTe costará {STRVAR_1 51, 0, 0} PC.
+  
+   
+          
+¡Este Pokémon es {STRVAR_1 0, 0, 0}!
+Puedes cambiar el nivel del Pokémon.\n¿Te gustaría hacerlo?
+NIVEL +5
+NIVEL -5
+CANCELAR
+Te costará {STRVAR_1 51, 0, 0} PC.\n¿Te parece bien?
+  
+   
+No tienes suficientes PC...
+No puedes subir más el nivel\nde este Pokémon.
+No puedes bajar más el nivel\nde este Pokémon.
+El Pokémon ha subido cinco niveles.
+El Pokémon ha bajado cinco niveles.
+DATOS
+MOVIMIENTOS
+SUBIR RANGO
+CANCELAR
+Ver estadísticas de este Pokémon.
+Ver movimientos de este Pokémon.
+Puedes subir de rango con PC\ny ver los movimientos.
+No puedes subir más de rango.
+Volver a la pantalla anterior.
+No tienes suficiente rango para\nver los movimientos del Pokémon.
+Puedes comprobar las estadísticas del\nPokémon por {STRVAR_1 51, 0, 0} PC. ¿De acuerdo?
+  
+   
+No tienes suficientes PC...
+Ahora puedes ver las estadísticas\ndel Pokémon.
+Objeto
+{STRVAR_1 8, 0, 0}
+Natural.
+{STRVAR_1 7, 0, 0}
+Habilidad
+{STRVAR_1 5, 0, 0}
+Ataque
+{STRVAR_1 52, 0, 0}
+Defensa
+{STRVAR_1 52, 0, 0}
+At. Esp.
+{STRVAR_1 52, 0, 0}
+Def. Esp.
+{STRVAR_1 52, 0, 0}
+Veloc.
+{STRVAR_1 52, 0, 0}
+♂
+♀
+Nv.
+PS
+/
+{STRVAR_1 1, 0, 0}
+     
+     
+{STRVAR_1 52, 0, 0}
+(?)
+(?)
+(?)
+Al subir de rango podrás\nconsultar los datos de los\nPokémon usando CP.
+(?)/(?)
+{STRVAR_1 52, 0, 0}/{STRVAR_1 52, 1, 0}
+¿Quieres comprobar los movimientos\nde este Pokémon por {STRVAR_1 51, 0, 0} PC?
+  
+   
+No tienes suficientes PC...
+Ahora puedes ver los movimientos\ndel Pokémon.
+{STRVAR_1 6, 0, 0}
+{STRVAR_1 6, 1, 0}
+{STRVAR_1 6, 2, 0}
+{STRVAR_1 6, 3, 0}
+{COLOR 0}{STRVAR_1 51, 4, 0}{COLOR 0}/{COLOR 0}{STRVAR_1 51, 5, 0}{COLOR 0}
+{STRVAR_1 51, 0, 0}
+--
+¿Quieres subir de rango por {STRVAR_1 52, 0, 0} PC?
+  
+   
+          
+{STRVAR_1 3, 5, 0} puede comprar la lista\nde movimientos de los Pokémon rivales.

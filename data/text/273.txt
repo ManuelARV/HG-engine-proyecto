@@ -1,0 +1,118 @@
+KANTO
+JOHTO
+{STRVAR_1 4, 0, 0}
+{STRVAR_1 28, 0, 0}
+Elige destino.
+¿Volar a {STRVAR_1 4, 0, 0}?
+CERRAR
+Vuelo
+SALIR
+                       
+Una aldea tranquila sin ninguna\ncaracterística distintiva.
+Bella ciudad, hogar de extensas\nzonas de naturaleza eterna.
+Ciudad tranquila rodeada\nde montañas escarpadas.
+Hermosa ciudad de bellas flores\ny aguas serpenteantes.
+La nobleza del púrpura\ntiñe esta coqueta aldea.
+Ciudad portuaria teñida por\nel anaranjado sol vespertino.
+Ciudad arcoíris, lugar de reunión\nde humanos y Pokémon.
+Lugar donde lo viejo y lo nuevo\ncomulgan en armonía.
+Localidad del pasado destruida\npor la erupción de un volcán.
+Donde el destino aguarda\na todo Entrenador ambicioso.
+La mayor ciudad de Kanto,\nrutilante y dorada.
+Poblado donde el viento anuncia\nel comienzo de una aventura.
+Localidad bañada por la frangancia\nde las flores y la brisa marina.
+Población donde aún perduran\nlos paisajes de antaño.
+Localidad donde humanos y Pokémon\nviven sin preocupaciones.
+Ciudad costera bendecida\npor los frutos del mar.
+Metrópolis por donde pasan gran\ncantidad de humanos y Pokémon.
+Localidad donde el rugido del\noleaje tiene gran presencia.
+Lugar donde se deja entrever\nla huella de la historia.
+Aldea oculta donde flota\nuna atmósfera singular.
+Enorme lago recipiente\nde agua cristalina.
+Urbe misteriosa sita en terreno\nganado a la montaña.
+Montaña de ladera escarpada\nque parece esconder algo.
+Túnel realizado por DIGLETT para unir\nCiudad Carmín y Ciudad Plateada.
+Montaña con una enigmática fuerza\ndonde caen estrellas.
+Cueva que una vez se vino abajo\npero volvió a abrirse.
+Túnel oscuro que comunica\nPueblo Lavanda con Ciudad Celeste.
+Parque Compi, ubicado en los\nantiguos terrenos de Zona Safari.
+Pequeñas islas localizadas\nen el medio del mar.
+Torre donde se vela por la vida en\narmonía entre humanos y Pokémon.
+Torre a la que, según cuentan,\ndescenderá un Pokémon legendario.
+Senda cubierta de hojas\nsin importar la estación.
+Torre calcinada en un\nmisterioso incendio.
+Hermoso y bello parque que está\nconectado a la Carpa Pokéathlon.
+Torre de emisión de radio construida\nsobre un edificio antiguo.
+Lugar que encierra la clave de una\nhistoria perdida en el tiempo.
+Paso subterráneo bañado por olas y\nsumido en lo profundo de la tierra.
+Pozo al que acuden\nlos SLOWPOKE sedientos.
+Faro que alumbra las aguas gracias\na la energía de AMPHAROS.
+Lugar donde puedes participar\nen cinco tipos de pruebas.
+Espacio donde se reúnen\nEntrenadores llenos de confianza.
+                      
+Bosque donde se puede conseguir\nmadera para hacer carbón.
+                     
+Cueva natural de dimensiones\ngigantescas.
+Cueva helada que comunica la Ruta 44\ncon Ciudad Endrino.
+Cuatro islas cuyo acceso está\nbloqueado por potentes torbellinos.
+Montaña sagrada situada\nentre Johto y Kanto.
+Túnel tenebroso que se extiende\nbajo Johto.
+Ruta donde se preparan los\nEntrenadores para la Liga Pokémon.
+                   
+Cataratas llamadas Tohjo,\nque conectan Kanto y Johto.
+Bosque de abundante naturaleza\nvirgen e infinidad de Pokémon bicho.
+Lugar donde los Pokémon pueden\nponer a prueba su pericia.
+                      
+Zona de fuertes nevadas donde\nconfluyen leyendas arcanas.
+                   
+Lugar donde se genera la energía\nde la región de Kanto.
+Aquí se puede sentir la vida salvaje en\ntodo su esplendor y con seguridad.
+Embarcación que surca los mares\nempujada por propulsores.
+Camino rústico lleno de baches\ny vegetación.
+Camino zigzagueante en la entrada\ndel bosque.
+Sendero formado por los socavones de\nrocas al precipitarse desde el cielo.
+Pendiente moderada que permite solo\nla dirección de bajada.
+Camino al norte de Ciudad Azafrán\ndonde se halla la entrada al Subsuelo.
+Camino al sur de Ciudad Azafrán\ndonde se halla la entrada al Subsuelo.
+Pequeño camino donde se halla\nla entrada bloqueada al Subsuelo.
+Pequeño camino donde se halla\nla entrada bloqueada al Subsuelo.
+Camino laberíntico lleno de baches\ny zonas rocosas.
+Vía para acceder a la Central\nEnergía por los canales.
+Pradera verde donde sopla\nun viento refrescante.
+Famoso muelle de pesca\nconocido como Puente Silencio.
+Camino de adiestramiento donde\naguardan Entrenadores varios.
+Senda junto al mar donde sopla\nuna brisa serena junto a las olas.
+Senda flanqueada por árboles\nque lleva a la costa.
+Punto de partida del Camino de Bicis\nen la zona norte.
+Bajada del Camino de Bicis que permite\ndar un respiro a los pedales.
+Punto de llegada del Camino de Bicis\nen la zona sur.
+Camino marítimo cubierto de rocas tras\nla erupción de Isla Canela.
+Pasillo marino famoso para Nadadores.\nLas Islas Espuma están en su interior.
+Camino marítimo amenazado solo\npor el volcán de la isla.
+Senda hacia la Calle Victoria,\ncada vez más escarpada.
+                    
+Puente idílico que se extiende\npor encima del río.
+Senda forestal que desemboca en\nun mirador orientado hacia el mar.
+Desfiladero con baches que hace\nprever las pruebas que te aguardan.
+Punto de partida de nuevas aventuras\nde Johto a Kanto.
+Desfiladero oculto y retirado\nque conduce al Monte Plateado.
+Punto de partida de un nuevo viaje\ntranquilo y con fragancia a hierba.
+Camino de hierba fresca donde luchan\nlos Entrenadores.
+Desfiladero diminuto pero lleno de\nbaches, circundado por naturaleza.
+Mezcla de civilización y naturaleza\nentre el Magnetotrén y los muelles.
+Al atravesar la cueva, este sendero\ndesemboca en una zona lluviosa.
+Camino rebosante de naturaleza a\npesar de estar junto a la gran ciudad.
+Senda que discurre junto\nal agua cristalina de un lago.
+Trifurcación en la espesura.
+Camino popular para Entrenadores con\ntres árboles con distintos Bonguri.
+Senda forestal que atraviesa una\narboleda hasta la Granja Mu-mu.
+Camino de pendiente poco pronunciada\nacariciado por la brisa.
+Camino que se extiende desde el oeste\nde Ciudad Olivo hasta el mar.
+Paso peligroso donde se cruzan\nde repente grandes torbellinos.
+Camino escarpado en la falda del\nMonte Mortero.
+Camino que lleva al Lago de la Furia.\nCuidado con los peajes exorbitantes.
+Camino bañado por agua y naturaleza\nque calma el espíritu.
+Camino serpenteante junto al río.\nLo llaman Camino Montaña.
+Camino que se extiende de la falda\na la pradera en dirección a la aldea.
+Precipicios tan escarpados que hacen\nestremecerse a los viajeros.
+Desfiladero alpino lleno de aire puro\nque conduce hacia la Zona Safari.

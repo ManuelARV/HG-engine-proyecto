@@ -1,0 +1,14 @@
+Esta es la Sala Cooperación, donde\nse encuentra grabada la historia\fde amistad entre los Pokémon\fy los humanos.
+Aquí solo pueden acceder Pokéatletas\ndestacados que hayan ganado\fen las 5 pruebas de Pokéathlon.
+Justo aquí está la Sala Confianza.\nAdelante.
+El Pokéathlon tiene una historia\nmuy profunda.
+¡Al ganar en las pruebas,\nte dan Insignias!\r¡Hay que alzarse\ncon la victoria en todas!\r
+Las Deportivas y otros Accesorios\nde los Pokéatletas más famosos\fse exponen en el museo.
+¡{STRVAR_1 3, 0, 0} ha consultado\nlos récords de las pruebas!\r
+Es un mural antiquísimo.\rUn humano y tres Pokémon\nescuchan las enseñanzas\fde los cielos.
+Es un pergamino en muy mal estado.\rLeyenda del Pokéathlon\r“El humano y tres Pokémon\ntuvieron que superar diez pruebas\fpara conseguir trasmitir la cura\fde la enfermedad que se había\fextendido por toda la isla...”
+Es un pergamino antiguo.\rEl comienzo del Pokéathlon\nLa historia del humano y los tres\fPokémon, los héroes que llevaron\fa todos los rincones el remedio\fde la enfermedad, permaneció en la\fhistoria gracias a la tradición oral.\r...\rEl tiempo transcurrió y la población\ncomenzó a imitar aquellas pruebas.
+RATTATA: Ra... Ta...
+RATTATA: ¡Ta, ta, rattaaa!
+ZUBAT: ¡Zuba!
+Este es el Palmarés del Pokéathlon...\rAquí se exhiben fotos de muchos\nPokéatletas y Pokémon medallistas.

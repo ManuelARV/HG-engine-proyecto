@@ -1,0 +1,7 @@
+Erika: Hola...\nBonito día, ¿verdad?\rSe está tan bien...\nPodría hasta dormirme...\rMe llamo Erika. Soy la Líder del Gimnasio\nde Ciudad Azulona.\r¿Cómo?...\n¿Vienes de Johto?\f¡Encantada de conocerte!\rSupongo que has venido para\nenfrentarte a mí.\rEsto me servirá de práctica de\narreglos florales y de entrenamiento\fcon mis Pokémon al mismo tiempo.\r¡No me vencerás!\r
+Erika: ¡Eres increíblemente fuerte!\nTendré que darte la Medalla Arcoíris.\r
+¡{STRVAR_1 3, 0, 0} ha recibido\nla Medalla Arcoíris de Erika!
+Erika: Ha sido un combate formidable.\nMe he emocionado.\rVoy a darte algo más.\nLa MT19, Gigadrenado.\rEste movimiento permite absorber la\nmitad del daño causado para restaurar\fPS. Es un ataque bastante agresivo.\r
+Erika: La derrota deja\nmal sabor de boca...\rPero saber que hay Entrenadores\nmás fuertes me anima a mejorar...
+Gimnasio Pokémon de Ciudad Azulona
+Gimnasio Pokémon de Ciudad Azulona\rLíder: Erika\nEntrenadores reconocidos:\f{STRVAR_1 3, 0, 0}

@@ -1,0 +1,22 @@
+Soy el Director del juego.\r¡Ya sé que es difícil completar\nla Pokédex, pero debes esforzarte!\r¡Seguro que puedes hacerlo!
+¡Ah, increíble!\n¡Has completado la Pokédex de Johto!\f¡Buen trabajo! ¡Felicidades!\r¡Mereces un gran reconocimiento!\nDe verdad. Hablo en serio.\r
+¡Ah, increíble!\n¡Has completado todas las páginas\fde la Pokédex!\r¡Felicidades! ¡Eres una persona sin\nigual, con un talento desconocido!\fDe verdad. Hablo en serio.\r¡Mereces el reconocimiento\nde Game Freak!\r
+¿Ha sido muy duro completar la Pokédex?\rPero tu esfuerzo al recorrer todo\nel mapa y el tiempo que has invertido\fhan valido la pena.\rTe lo digo con toda sinceridad.\nHablo en serio.
+Soy el Diseñador gráfico.\nEl que se encarga de dibujarlo todo.
+Soy el Programador.\rTengo el control del mundo del juego\nen la palma de mi mano.
+Soy el Planificador.\nSe me ocurren muchas ideas.\rY he creado hasta el lugar donde\nte encuentras ahora mismo. ¡Ja, ja, ja!
+Soy el Diseñador de sonido.\rMe encargo de componer\nla música del juego.\rSi consigues las ocho Medallas de Kanto\nte recompensaré con un buen regalo.
+Soy el Diseñador de sonido.\rMe encargo de componer\nla música del juego.\r¿Has conseguido todas las Medallas\nde Kanto?\r¡Formidable!\nVoy a darte algo como recompensa.\r
+                     
+La GB era una consola vertical con una\npantalla monocromo en la que se pudo\fjugar a Pokémon por primera vez.\r¡Te estoy hablando de la Game Boy!\nCuando enciendas el Lector GB,\fpodrás escuchar una música\fcargada de nostalgia.\rA medida que vayas cambiando de lugar,\nla música también cambiará.\r¡Puede que no cambie en algunos\nlugares, pero ten paciencia!
+El Lector GB es estupendo. Puedes ir\na un lugar recién descubierto y\fescuchar melodías del pasado.\rEs algo que me fascina de verdad.\r¡Ya lo verás!\n¡Ay! ¡No, la música no se ve!\rMira qué tonterías digo.\rA medida que vayas cambiando de lugar,\nla música también cambiará.\r¡Puede que no cambie en algunos\nlugares, pero ten paciencia!
+Lira: ¡Ah, {STRVAR_1 3, 0, 0}!\r
+Eco: ¡Ah, {STRVAR_1 3, 0, 0}!\r
+Lira: ¡Escucha!\rEse Diseñador de sonido me ha enseñado\nalgo estupendo.\rUn dispositivo de alta tecnología con\nel que se pueden escuchar las melodías\fde Game Boy con un aire retro.\rSi consigues todas las Medallas\nde Kanto, te da uno.\r{STRVAR_1 3, 0, 0}, deberías tratar\nde conseguirlas.\f¡Hasta la vista!\r
+Eco: ¡Escucha!\rEse Diseñador de sonido me ha enseñado\nalgo estupendo.\rUn dispositivo de alta tecnología con\nel que se pueden escuchar las melodías\fde Game Boy con un aire retro.\rSi consigues todas las Medallas\nde Kanto, te da uno.\r{STRVAR_1 3, 0, 0}, deberías tratar\nde conseguirlas.\f¡Hasta la vista!\r
+Sala de desarrollo de Game Freak
+Este ascensor lleva directamente\nde la primera planta a la azotea.
+Es el programa del juego.\n¡No lo toques! ¡Podrías estropearlo!
+¡La mesa está llena de Sellos Pokémon!
+Está lleno de álbumes de fotos y\nde libros de leyendas.
+¿Qué tal?\rSoy el Presidente de la compañía.\rAhora mismo estamos creando\nuna versión nueva de un juego antiguo,\fpero es bastante complicado.\rMuchos fans de la versión antigua se\nsienten muy unidos al juego y no quieren\fque cambien muchas cosas.\rPero no tiene mucho sentido renovar\nalgo y dejarlo igual que antes, ¿no?\rYa llevamos veinte años haciendo\nvideojuegos, ¡pero todavía nos quedan\fun sinfín de cosas nuevas por crear!

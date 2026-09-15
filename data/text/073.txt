@@ -1,0 +1,25 @@
+¡Guau!\r¡Aquí tenemos a una joven promesa\nque ha decidido emprender el camino\fde la arqueología!\r
+¿Cómo? ¿Solo quieres visitar las ruinas?\n¿De verdad?...\fYo ya me había hecho ilusiones.
+¡En el Centro de Investigación\nde las ruinas contamos con una plantilla\fexcelente! Aunque yo no haga\fgran cosa, las investigaciones\favanzan rápidamente.\r¡Si quieres saber algo, no dudes en\npreguntar a alguien del equipo!
+¡Formidable! ¡Gracias a ti hemos\ndesvelado el misterio de los UNOWN!\r¡Gracias, gracias y mil gracias!
+Lo único que sabemos es que\nestas ruinas se construyeron\fhace unos 1500 años...\rPero ¿quién las construyó?\nEso todavía es un misterio.
+¡¿Qué?! ¡¿Has atrapado un UNOWN?!\n¡Eso es fantástico!\rPero... ¿por qué los UNOWN\nestán apareciendo de repente?
+¡Presta atención!\n¡Esto es un hallazgo sin parangón!\rAl resolver el enigma de los grabados\nhas hecho que aparezcan los UNOWN.\rLo que significa que esos grabados\nson la clave para despertar\fa los UNOWN de su letargo.\rPero... ¿con qué propósito fue creada\nesa clave?\r
+¡Presta atención!\n¡Esto es un hallazgo sin parangón!\rAl conectar la radio\ndentro de las ruinas\fse captan unas señales misteriosas.\r¡Esto es una prueba de que los UNOWN\nse comunican entre ellos\fmediante ondas de radio!\r
+¡Presta atención!\n¡Esto es un hallazgo sin parangón!\rHe descubierto que hay casi tantas\nclases de UNOWN como letras\fen el alfabeto.\rHasta el momento he identificado\n26 UNOWN diferentes.\r¿Por qué no intentas atraparlos todos?\r
+¿Te es útil el Bloc UNOWN que te di?\rCuando atrapas un UNOWN\nqueda registrado automáticamente.\r¿A que es práctico?
+¡Presta atención!\n¡Esto es un hallazgo sin parangón!\rAcabo de descubrir que los UNOWN\nsiguen un orden establecido.\fPréstame tu Bloc, por favor.\r
+¡Sí! He clasificado los UNOWN\nen el orden correcto.\rEsto podría ayudarnos a descubrir\nmás cosas.\r
+¿Qué? ¿Has encontrado una sala con\ncaracteres UNOWN grabados en el suelo?\r¡Eso es un hallazgo sin parangón!\n¡Vamos a investigarlo!\r
+¡Presta atención!\n¡Esto es un hallazgo sin parangón!\rHe descubierto otros dos\ncaracteres UNOWN.\rLo que significa...\nque tiene que haber dos UNOWN más\fpor alguna parte...\r
+¡Presta atención!\nHe averiguado más cosas sobre\flos caracteres del suelo.\rParece que antiguamente los UNOWN\nconvivían con una tribu de humanos\fen este lugar.\rLa tribu esculpió las estatuas\nde Pokémon que hay\fen la cámara subterránea.\rLos UNOWN nunca salían al exterior\ndebido a su timidez.\rNuevos pobladores fueron llegando\ny el número de personas se multiplicó,\fhasta que la tribu que convivía\fcon los UNOWN abandonó este lugar...\r¡Gracias a nuestras investigaciones y\na tu colaboración hemos desvelado\ftodos estos misterios!\rPero aún queda mucho por descubrir.\nLa labor del arqueólogo no acaba nunca.\r
+Infórmame de cualquier otro\ndescubrimiento que hagas, ¿vale?
+¡{STRVAR_1 3, 0, 0} ha registrado datos\nen el Bloc UNOWN!
+¡Gracias a nuestras investigaciones y\na tu colaboración hemos desvelado\ftodos estos misterios!\rPero aún queda mucho por descubrir.\nLa labor del arqueólogo no acaba nunca.
+Los grabados en las paredes de las\nruinas son la clave del misterio.\rO al menos eso creo...
+Los Pokémon que has capturado se\nparecen a los grabados que hay\fen las paredes de las ruinas.\rMmm...\rO sea que en las ruinas debería de\nhaber muchas clases diferentes...
+¿Cómo? ¿Que te parece que estoy\nmirando a las musarañas?\rPues, aquí donde me ves, aunque creas\nque siempre estoy sin hacer nada,\f¡yo soy el creador del Bloc UNOWN!
+Estudio de las Ruinas Alfa\n10 años de investigación
+Pokémon misterioso\nNombre: UNOWN\f26 clases descubiertas hasta la fecha
+Informe sobre las Ruinas Alfa\rDedicado al Profesor Silktree,\nfundador del Centro de Investigación\fde las ruinas.
+¡Está lleno de libros viejos!\r“Misterios de civilizaciones antiguas”,\n“Manual de criptografía”,\f“Ruinas olvidadas”...

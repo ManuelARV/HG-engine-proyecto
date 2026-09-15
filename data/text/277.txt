@@ -1,0 +1,33 @@
+   
+
+{STRVAR_1 52, 0, 0}:{STRVAR_1 51, 1, 0}
+(?)
+Participaciones Pokéathlon
+Primer puesto en Pokéathlon
+Último puesto en Pokéathlon
+Puntos extra
+Primero en las pruebas
+Último en las pruebas
+Participaciones en conexión
+Primer puesto en conexión
+Último puesto en conexión
+Tiempo total en Pokéathlon
+1er Puesto Saltaobstáculos
+1er Puesto Atrapabanderas
+1er Puesto Pisacírculos
+1er Puesto Rompelosas
+1er Puesto Atrapadiscos
+1er Puesto Botaluces
+1er Puesto Carrera Relevos
+1er Puesto Fuera del Ring
+1er Puesto Nieve Cruzada
+1er Puesto Metegoles
+Toques a Pokémon
+Sprints
+Saltos
+Placajes
+Cambios
+Puntos perdidos
+Acciones especiales
+Fallos de tus Pokémon
+Salidas del Ring

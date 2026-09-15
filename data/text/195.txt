@@ -1,0 +1,40 @@
+Antes de tomar prestados algunos de\nnuestros Pokémon, se debe dejar en\fconsigna el equipo Pokémon propio.\rHay que pensar muy bien qué Pokémon\nse eligen...\r
+Espera un momento, por favor.
+Adelante, por favor.
+¡Buen combate!\nEs hora de curar a los Pokémon.
+¡Ahora toca el combate {STRVAR_1 53, 0, 0}!\n¿Todo listo?
+¿Es necesario cambiar algún Pokémon\nantes del siguiente combate?
+¿Quieres guardar el último combate\ncomo tu Vídeo de Combate?
+Se ha guardado el último enfrentamiento\nde {STRVAR_1 3, 0, 0} como Vídeo de Combate.\r
+Se ha producido un error.\nNo se ha podido guardar el vídeo.\r
+¿Quieres borrar el Vídeo de Combate\nactual y guardar tu último combate?
+Guardando...\nNo apagues la consola.
+Si hace falta un descanso, podemos\nguardar la partida... ¿Vale?
+¿Es en serio eso de retirarse de\nla Fábrica Batalla?
+{STRVAR_1 3, 0, 0} se lo está pensando.\nPor favor, espera.
+                     
+{STRVAR_1 3, 0, 0} se ha retirado.
+¡Enhorabuena! Siete victorias seguidas\nen la Fábrica Batalla...\rEn reconocimiento por tal hazaña, me\ncomplace entregar PB como premio.\r
+¡{STRVAR_1 3, 0, 0} ha conseguido {STRVAR_1 51, 1, 0} PB!\r
+Ahora devolveremos los Pokémon que se\nnos entregaron al inicio.\r
+Guardando...\nNo apagues la consola.
+                                                
+He estado estudiando un poco\nel próximo enfrentamiento.\r¡Saldrán {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 3, 0}\ny {STRVAR_1 0, 5, 0}!\r
+He estado estudiando un poco\nel próximo enfrentamiento.\r¡Saldrán {STRVAR_1 0, 1, 0} y\n{STRVAR_1 0, 3, 0}!\r
+He estado estudiando un poco\nel próximo enfrentamiento.\r¡Saldrá de inicio un {STRVAR_1 0, 1, 0} que\nusa el movimiento {STRVAR_1 6, 0, 0}!\r
+He estado estudiando un poco\nel próximo enfrentamiento.\r¡Saldrá de inicio un Pokémon que\nusa el movimiento {STRVAR_1 6, 0, 0}!\r
+He estado estudiando un poco\nel próximo enfrentamiento.\r¡Será una dura lucha contra Pokémon\nde tipo {STRVAR_1 15, 0, 0}!\r
+He estado estudiando un poco\nel próximo enfrentamiento.\rParece que puede salir cualquier tipo\nde Pokémon. No puedo concretar más.\r
+He estado estudiando un poco\nel próximo enfrentamiento.\r¡Aparecerán {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0} y\f{STRVAR_1 0, 4, 0}!\r
+He estado estudiando un poco\nel próximo enfrentamiento.\r¡Aparecerán {STRVAR_1 0, 1, 0}\ny {STRVAR_1 0, 2, 0} de salida!\r
+He estado estudiando un poco\nel próximo enfrentamiento.\r¡Saldrán de inicio Pokémon que\ntienen los movimientos {STRVAR_1 6, 0, 0}\fy {STRVAR_1 6, 1, 0}!\r
+He estado estudiando un poco\nel próximo enfrentamiento.\r¡Saldrá de inicio un Pokémon que usa\nel movimiento {STRVAR_1 6, 0, 0}!\r
+ADELANTE
+GUARDAR VÍDEO
+DESCANSO
+RETIRADA
+¡Enhorabuena! Nuestro As del Frente ha\ndecidido unirse a la lucha tras conocer\ftal racha imparable de victorias.\rPor lo tanto, ¡el siguiente combate será\ncontra el Jefe de la Fábrica!\r¿Procedemos?\r
+Espinal: ¡Ziiiiiiiiiiip!\rTranquilidad. No pasa nada...\rEsto no es más que un invento mío que\nanaliza los Pokémon que estás usando.\rMe indica la presencia de {STRVAR_1 0, 0, 0},\n{STRVAR_1 0, 1, 0} y {STRVAR_1 0, 2, 0}\fen las filas rivales.\rTengo que reconocer que es una buena\nalineación. Del uno al cien, le daría un\f{STRVAR_1 51, 3, 0}. ¡Pero esto es solo mi opinión!\rBueno, ¡vamos al tajo!\r
+Espinal: ¡Ziiiiiiiiiiip!\rMe pregunto qué me dirá mi invento\nacerca de los Pokémon rivales.\rVamos a ver qué tenemos aquí...\rAnda, ¡hay un {STRVAR_1 0, 0, 0}, un\n{STRVAR_1 0, 1, 0} y un {STRVAR_1 0, 2, 0}!\rBien, bien... Es un buen equipo.\rSus cualidades están compensadas...\rDel uno al cien, le daría un {STRVAR_1 51, 3, 0}.\n¡Aunque es solo mi opinión personal!\rVenga, ¡vamos al tajo, que esta vez no\npienso perder!\r
+Espinal: Um...\nHe sido derrotado...\rEso no me gusta ni un pelo.\rAun así, creo que he conseguido\nrecopilar una información muy valiosa.\rMe alegra haber librado este combate.\r¿A que es una gozada luchar con\nPokémon de préstamo?\rComo Jefe de la Fábrica, eso pienso.\rLa próxima vez espero enfrentarme a\notros Pokémon.\r
+Espinal: Um...\nHe vuelto a perder... Um...\rEso no me gusta ni un pelo.\rSin embargo, he aprendido mucho de los\nPokémon a los que me he enfrentado.\rSupongo que la vida es así: incluso\nde las derrotas se aprende.\r¡Estaré esperando por aquí a que\nnos echemos la revancha!\r

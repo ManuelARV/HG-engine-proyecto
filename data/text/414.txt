@@ -1,0 +1,33 @@
+La hora Pokémon del Prof. Oak
+Rosa y Oak
+Rosa: ¡Amantes de los Pokémon!\nEmpieza... ¡La hora Pokémon\ndel Profesor Oak!, y yo le acompaño.\nMe llamo Rosa.
+Pokémon, Pokémon,\nes el Canal Pokémon.
+Prof. Oak: Los {STRVAR_1 0, 1, 0}\nviven en {STRVAR_1 4, 0, 0}.
+Rosa: El {STRVAR_1 0, 1, 0},\n{STRVAR_1 28, 2, 0}\n{STRVAR_1 28, 3, 0}
+desde que cruzamos la mirada,
+como si de un sueño se tratara,
+sin razón aparente,
+solo con estar allí,
+lo mires desde donde lo mires,
+con solo caminar juntos,
+con solo decir su nombre,
+con solo cambiar un poco las ideas,
+se parece al tutor de la clase y
+no pude contenerme,
+con tenerlo delante,
+le pinchas con el dedo y
+inesperadamente,
+¡no podía parar de reír!
+conseguí paz de espíritu.
+sabía que tenía futuro.
+supe que había que vigilarlo de cerca.
+me atrapó su encanto.
+sentí que podríamos ser amigos.
+todos se echaron a sus pies.
+no deja de sorprenderme.
+¡me di cuenta de lo poderoso que era!
+supe ver la belleza que encerraba.
+pensé rápidamente, ¡qué chachi!
+me dije: raro, raro.
+lo empecé a admirar con devoción.
+Rosa: ¡Noticias, noticias!\nNos acaban de informar de que se han\navistado gran cantidad de {STRVAR_1 0, 1, 0}\nen {STRVAR_1 4, 0, 0}.\nTodo Entrenador que quiera ver de cerca\nalgún {STRVAR_1 0, 1, 0}, que vaya corriendo\na {STRVAR_1 4, 0, 0}.\nEs todo.

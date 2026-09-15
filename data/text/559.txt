@@ -1,0 +1,27 @@
+                                                                                    
+                                                                                    
+                         
+                                                                                                                                                
+                                                                                                                                                
+                                               
+                          
+                              
+                              
+El creador del Sistema de\nAlmacenamiento de Pokémon\fen los PC es un tal Bill.\rEse PC de ahí está conectado\nal Sistema de Almacenamiento.\fPuedes probarlo.
+Voy a contarte algo que pasó\nhace tres años. Una banda que se hacía\fllamar Team Rocket utilizaba los Pokémon\fpara hacer fechorías...\r¡Pero todos los culpables reciben\nsu castigo tarde o temprano!\r¡Un joven les plantó cara y los derrotó,\ny el Team Rocket se disolvió!
+Los Pokémon son seres inteligentes.\rAlgunos Pokémon que recibas\nmediante un intercambio\fno obedecerán tus órdenes.\rEn concreto, los Pokémon de niveles\nelevados, no te harán caso si no tienes\flas Medallas de ciertos Gimnasios.
+Cástor: ¡Muy buenas!\r¡Soy Cástor, famoso entre los fans\nde Pokémon por mi programa\fen la Poké Tele!\rHoy quiero saber qué piensa\nmi público de mí.\r¿Me cuentas cómo me ven mis fans?{YESNO 0}
+Cástor: ¡¿Cómo?!\n¿Es así como me veis?\rCaramba, uno nunca llega a conocerse\nbien a sí mismo.\rY dime, ¿qué opinas de mi carácter?\r
+Cástor: ¡Ya veo!\r¡Voy a tener que esforzarme más!\nTu opinión es muy valiosa, gracias.\r¡Espero que sigas mi programa!
+¿E-estás diciendo que no tienes\nel más mínimo interés?\r¡Pero eso no puede ser!\rDebe de ser porque estás demasiado\nocupada, ¿no?\rMe haría muy feliz que pudieras\nresponder a mis preguntas cuando\ftengas un poco de tiempo.\r¡Hasta la vista!
+Cástor: ¿Qué?...\rSi conoces esas palabras significa que\nno eres alguien cualquiera. Seguro que\fentrenas Pokémon, ¿verdad?\rEntonces voy a echar mano de\nmis contactos y voy a regalarte\feste Fondo para tus Cajas.\r¡Espero que sigas mi programa!\n
+Cástor: ¿Qué?...\rSi conoces esas palabras significa que\nno eres alguien cualquiera. Seguro que\fentrenas Pokémon, ¿verdad?\rEntonces voy a echar mano de mis\ncontactos y voy a darte este regalo.\r¡Espero que sigas mi programa!\n
+Cástor: ¿Qué?...\rSi conoces esas palabras significa que\nno eres alguien cualquiera. Seguro que\fentrenas Pokémon, ¿verdad?\rEntonces voy a echar mano de mis\ncontactos y voy a darte este Huevo.\r¡Cuídalo bien!\r
+¡{STRVAR_1 3, 0, 0} ha recibido un Huevo\nde {STRVAR_1 0, 1, 0} de Cástor!
+Cástor: ¿Qué?...\rSi conoces esas palabras significa que\nno eres alguien cualquiera. Seguro que\fentrenas Pokémon, ¿verdad?\rEntonces voy a echar mano de mis\ncontactos y voy a darte este Huevo.\r¡Cuídalo bien!\r...\rPero tu equipo está completo.\nNo puedo darte el Huevo por ahora.
+Mmm...\r¿Sabrías decirme qué estilo de\nentrenamiento te gusta más?\r
+¿Cómo definirías tu estilo al\nentrenar Pokémon?{YESNO 0}
+¿{STRVAR_1 14, 0, 0}? ¿Ese es el estilo\nque te gusta?{YESNO 0}
+Muy bien.\nSi te gusta el estilo {STRVAR_1 14, 0, 0},\fes muy probable que los otros\fEntrenadores te vean como tal.\r
+Si alguna vez quieres decirme cuál es\ntu estilo de Entrenador preferido,\fven a verme.
+Entonces... ¿te han tomado alguna vez\npor {STRVAR_1 14, 0, 0}?\rPero a mí me recuerdas\na otro estilo de Entrenador.\rPor cierto...\r¿quieres decirme otra vez cuál es\ntu estilo de Entrenador preferido?\r

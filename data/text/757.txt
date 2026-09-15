@@ -1,0 +1,29 @@
+{COLOR 0}NOVEDADES PLAZA{COLOR 0}
+QUEDA
+GENTE
+ÚLTIMAS NOVEDADES
+                                                                          
+{COLOR 0}{STRVAR_1 3, 1, 0}{COLOR 0} está buscando a alguien para jugar a {COLOR 0}{STRVAR_3 0, 0, 0}{COLOR 0}. Plazas libres: {COLOR 0}{STRVAR_1 50, 2, 0}{COLOR 0}.
+{COLOR 0}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 0}{STRVAR_1 3, 2, 0}{COLOR 0}, {COLOR 0}{STRVAR_1 3, 3, 0}{COLOR 0} y {COLOR 0}{STRVAR_1 3, 4, 0}{COLOR 0} están jugando a {COLOR 0}{STRVAR_3 0, 0, 0}{COLOR 0}.
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0} y {COLOR 0}{STRVAR_1 3, 1, 0}{COLOR 0} están chateando.
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0} le ha dado el juguete táctil {COLOR 0}{STRVAR_3 2, 2, 0}{COLOR 0} a {COLOR 0}{STRVAR_1 3, 1, 0}{COLOR 0}.
+{COLOR 0}{STRVAR_1 3, 1, 0}{COLOR 0} se ha unido a {COLOR 0}{STRVAR_3 0, 0, 0}{COLOR 0}. Plazas libres: {COLOR 0}{STRVAR_1 50, 2, 0}{COLOR 0}.
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}, {COLOR 0}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 0}{STRVAR_1 3, 2, 0} {COLOR 0}y {COLOR 0}{STRVAR_1 3, 3, 0}{COLOR 0} están viendo {COLOR 0}{STRVAR_3 0, 4, 0}{COLOR 0}.
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0}, {COLOR 0}{STRVAR_1 3, 1, 0}{COLOR 0} y {COLOR 0}{STRVAR_1 3, 2, 0}{COLOR 0} están viendo {COLOR 0}{STRVAR_3 0, 3, 0}{COLOR 0}.
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0} y {COLOR 0}{STRVAR_1 3, 1, 0}{COLOR 0} están viendo {COLOR 0}{STRVAR_3 0, 2, 0}{COLOR 0}.
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0} está viendo {COLOR 0}{STRVAR_3 0, 1, 0}{COLOR 0}.
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0} está viendo {COLOR 0}{STRVAR_3 0, 1, 0}{COLOR 0}.
+Queda muy poco para el evento “{COLOR 0}{STRVAR_3 1, 0, 0}{COLOR 0}”.
+Queda muy poco para el evento “{COLOR 0}{STRVAR_3 1, 0, 0}{COLOR 0}”.
+La Plaza Wi-Fi cerrará sus puertas en breve. Esperamos que nos volváis a visitar pronto.
+{COLOR 0}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 0}{STRVAR_1 3, 2, 0}{COLOR 0} y {COLOR 0}{STRVAR_1 3, 3, 0}{COLOR 0} están jugando a {COLOR 0}{STRVAR_3 0, 0, 0}{COLOR 0}.
+{COLOR 0}{STRVAR_1 3, 1, 0}{COLOR 0} y {COLOR 0}{STRVAR_1 3, 2, 0}{COLOR 0} están jugando a {COLOR 0}{STRVAR_3 0, 0, 0}{COLOR 0}.
+Queda muy poco para el evento “{COLOR 0}{STRVAR_3 1, 0, 0}{COLOR 0}”.
+Al parecer, {COLOR 0}una persona muy especial{COLOR 0} acaba de llegar a la Plaza Wi-Fi.
+{COLOR 0}{STRVAR_1 3, 1, 0}{COLOR 0} ha ganado la partida de {COLOR 0}{STRVAR_3 0, 0, 0}{COLOR 0}.
+{COLOR 0}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 0}{STRVAR_1 3, 2, 0}{COLOR 0}, {COLOR 0}{STRVAR_1 3, 3, 0} {COLOR 0}y {COLOR 0}{STRVAR_1 3, 4, 0}{COLOR 0} han explotado diez o más globos en {COLOR 0}{STRVAR_3 0, 0, 0}{COLOR 0}.
+{COLOR 0}{STRVAR_1 3, 1, 0}{COLOR 0} y {COLOR 0}{STRVAR_1 3, 2, 0}{COLOR 0} han ganado la partida de {COLOR 0}{STRVAR_3 0, 0, 0}{COLOR 0}.
+{COLOR 0}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 0}{STRVAR_1 3, 2, 0}{COLOR 0} y {COLOR 0}{STRVAR_1 3, 3, 0}{COLOR 0} han ganado la partida de {COLOR 0}{STRVAR_3 0, 0, 0}{COLOR 0}.
+{COLOR 0}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 0}{STRVAR_1 3, 2, 0}{COLOR 0}, {COLOR 0}{STRVAR_1 3, 3, 0} {COLOR 0}y {COLOR 0}{STRVAR_1 3, 4, 0}{COLOR 0} han ganado la partida de {COLOR 0}{STRVAR_3 0, 0, 0}{COLOR 0}.
+{COLOR 0}{STRVAR_1 3, 1, 0}{COLOR 0} y {COLOR 0}{STRVAR_1 3, 2, 0}{COLOR 0} han explotado diez o más globos en {COLOR 0}{STRVAR_3 0, 0, 0}{COLOR 0}.
+{COLOR 0}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 0}{STRVAR_1 3, 2, 0}{COLOR 0} y {COLOR 0}{STRVAR_1 3, 3, 0}{COLOR 0} han explotado diez o más globos en {COLOR 0}{STRVAR_3 0, 0, 0}{COLOR 0}.

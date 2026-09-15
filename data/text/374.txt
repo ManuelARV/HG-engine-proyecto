@@ -1,0 +1,2 @@
+No puedes cruzar setos.\rPero puedes saltar por encima de ellos\npara atajar.
+Más adelante aparecen muchos\ntipos de Pokémon.\rSi quieres hacerte con todos,\ntendrás que buscar por todas partes.

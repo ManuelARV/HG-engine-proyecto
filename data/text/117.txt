@@ -1,0 +1,65 @@
+Hola, joven.\nVendo hierbas medicinales.\rSon buenas, pero un poco amargas.\nQuizá algún Pokémon no las quiera.\f¡Je, je, je!... {YESNO 0}
+¡Buenas!\n¿Te gustaría ver unas gangas?\rVendo objetos que no encontrarás\nen otras tiendas, pero solo me\fqueda uno de cada. {YESNO 0}
+{STRVAR_1 8, 0, 0} cuesta {STRVAR_1 53, 1, 0} $.\n¿Lo quieres? {YESNO 0}
+Gracias.\r
+Guardas {STRVAR_1 8, 0, 0} en el Bolsillo\n{STRVAR_1 18, 1, 0} de tu Bolsa. {YESNO 0}
+Eso ya lo has comprado.\nNo me quedan más. {YESNO 0}
+¡Oh! No tienes suficiente dinero. {YESNO 0}
+¡Oh! Tu Bolsa está a tope. {YESNO 0}
+Lo siento, hemos cerrado.
+Vuelve en otra ocasión.
+¡Bienvenidos!\n¡Yo dirijo la Peluquería Pokémon!\rSoy el mayor y el más experto de los\ndos hermanos peluqueros.\rPuedo poner guapos a tus Pokémon\npor solo 500 $.\rCon un buen corte de pelo tendrán\nmucho mejor aspecto y además\fte tendrán más cariño.\r¿Quieres que les corte el pelo? {YESNO 0}
+¿A qué Pokémon le corto el pelo?
+¡Vale! ¡Verás lo bien que queda!
+¡Bien! ¡Ya está!
+¿De verdad?\nEs una pena.
+Necesitarás más dinero.
+Solo corto el pelo a un Pokémon por día.\nLo siento, pero ya vale por hoy.
+¡Bienvenidos a la Peluquería Pokémon!\rSoy el menor de los dos hermanos\npeluqueros y mi tarifa es muy asequible.\rPuedo poner guapos a tus Pokémon\npor solo 300 $.\rCon un buen corte de pelo tendrán\nmucho mejor aspecto y además\fte tendrán más cariño.\r¿Qué? ¿Quieres que me encargue\nde ellos? {YESNO 0}
+¿A qué Pokémon le corto el pelo?
+¡Vale! ¡Verás lo bien que queda!
+¡Bien! ¡Ya está!
+¿De verdad?\nEs una pena.
+Necesitarás más dinero.
+Siento que el siguiente\nno va a quedarme tan bien,\fasí que voy a parar por hoy.
+{STRVAR_1 0, 0, 0} parece un poco\nmás contento.
+¡{STRVAR_1 0, 0, 0} parece contento!
+¡{STRVAR_1 0, 0, 0} está encantado!
+Prohibido pasar de este punto
+{STRVAR_1 3, 0, 0} ha introducido\nla Ll. Sótano.\r
+¡Hola! Bienvenidos al estudio\nde fotos de recuerdo.\r¡Este no es un estudio fotográfico\ncualquiera! ¡Si quieres, puedes hacerte\funa foto vestido de miembro\fdel Team Rocket!\r¿Qué? ¿Quieres una foto? {YESNO 0}
+Cuando acabes de cambiarte,\ncolócate delante de la cámara.\r
+¡Allá va!\rPonte serio, con cara de haberte\napoderado del mundo entero.\r
+Ya está.\rPuedes ver la foto en el PC\ncuando quieras.
+¡Si quieres, puedes hacerte una foto\nvestido de miembro del Team Rocket!\r¿Qué? ¿Quieres una foto? {YESNO 0}
+Bueno...\rQuizá sea mejor no sentirse identificado\ncon el Team Rocket.
+Vaya, parece que tu Álbum de Fotos\nestá lleno.\rLo siento, pero tendrás que volver\ncuando hayas hecho un poco de sitio\fen el Álbum con el PC.
+¿Uh?\n¿Tú también te has alistado?\rNo dejan de venir nuevos miembros\npara la misión de la Torre Radio,\fy ya nos hemos quedado\fsin uniformes del Team Rocket.\rNo me preguntes por qué, pero en\nel estudio de fotos tienen uniformes,\fasí que les he birlado unos cuantos.\r¡Nos vienen al pelo!\nPuedes cambiarte aquí.\r
+¡Oye, te queda bastante bien!\rPero no te creas que solo por ir\nde esa guisa vas a aterrorizar\fa los habitantes de la ciudad.
+                                                          
+¡Oh, tus Pokémon son moníiisimos!\r¡Y si los vistes aquí estarán diviiinos\nde la muerte!\rAdemás, podrás colgar una foto suya\nen la otra sala.\rVenga, cielo, ¿los vas a vestir? {YESNO 0}
+Oh, pero qué criatura tan sosa...
+¡Qué ilu! ¡Qué alegría me das!\nManos a la obra, cielo.\r¿Quieres que te explique\ncómo estilizar los Pokémon? {YESNO 0}
+Qué bien. \n¿Qué Pokémon va a ser el afortunado?\r
+Ju, ju, ju.\n¡Seguro que queda divinísimo!\r
+Tan solo tienes que escoger los\nAccesorios que quieras de tu Caja\fCorazón y ponérselos a tu Pokémon.\rCuando acabes,\ncolgaré la foto en la otra sala.\r¡Si intercambias tus datos con amigos,\ntambién podrás conseguir sus fotos!\rClaro que lo mejor es que lo\npruebes y ya me dirás qué tal.{YESNO 0}
+¡Qué divinonidorino!\n¡Vamos a colgar la foto ya mismo!\fVaya... necesitamos un título...\r
+{STRVAR_1 28, 0, 0}\n...\r¡Oh! ¿De dónde sacas la inspiración?\n¡Yo nunca podría expresarlo mejor!\r
+¡Huy, esto no puede ser! ¿No ves que\nte está pidiendo un título a gritos?\r
+Oh, ¿pero cómo me sales así?\nQué poco sentido de la moda.
+Si vuelves a vestir a un Pokémon,\ncambiaremos la foto por otra nueva.\r¿Quieres vestir a algún Pokémon? {YESNO 0}
+Yo también voy a vestirme\npara una foto...\rY el título podría ser... quizá...\n“El paraíso de las doncellas”.
+Huy, pero si todavía no ha salido del\nHuevo. Muy joven para modelitos, ¿no?\r
+He puesto tu foto ahí.\n¡Queda estupenda!
+¡Es un marco para fotos!
+                                                                                             
+Últimamente, algunos miembros del Team\nRocket vestidos de negro han estado\fyendo de aquí para allá a toda prisa...\rMe preguntaba qué era lo que hacían...\n¿Decís que vos los habéis...?\fCiertamente sois muy fuerte.\rHasta podríais hacer venir\nal Pokémon legend...\r
+Oh, no he dicho nada.\rCon vuestro permiso, me retiro.\r
+¡Bienvenidos a la lotería de Accesorios!\n¿Quién sabe lo que puede tocar?\rUna jugada cuesta 100 $.\n¿Quieres probar? {YESNO 0}
+¡Mira todos estos Accesorios y Fondos!\r¡Tus Pokémon van a estar geniales\ncon todo esto!
+¡Vuelve en otra ocasión!
+Ah, no tienes suficiente dinero.
+¡Allá vamos!\r...\n...\f...\f¡Premio!\r
+¿Quieres algún Fondo?\r
+¡Hasta la próxima!
+¡Mala suerte! Qué lástima.\r

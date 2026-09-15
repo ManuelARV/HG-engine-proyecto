@@ -1,0 +1,10 @@
+Hola, ¿qué tal?\rCuentan que dentro de esta cueva\nhay una torre enorme que llega\fhasta el cielo.\rTambién dicen que tenía una forma\nun tanto extraña...\rParece que una mitad se construyó\npor dentro de este precipicio.\rY por lo visto no solo se elevaba hasta\nel cielo, ¡sino que también se hundía en\flo más profundo de la tierra!\rEn otras palabras, conectaba el cielo\ncon la tierra y el mar.\rEso es lo que cuentan de sus ruinas...\nAhora ya no queda mucho en pie...\rSolo la entrada y una sala central\ncubierta de signos extraños...
+Fue construida para venerar los\nPokémon que poseían fuertes vínculos\fcon el cielo, la tierra y el mar...\fO al menos eso creo...
+El hombre enmascarado que puede\ncompararse a la abrumadora fuerza\fde esta impresionante cascada...\r¡Soy Mananti, el Destructor!\n¿Y tú te atreves a dirigirte a mí?\r¡Ah! ¡Te recuerdo! ¡Mostraste un gran\ninterés por las máscaras en el Centro\fComercial de Ciudad Azulona!\r
+Mananti: Había oído que hay una cascada\nespectacular cerca de Ciudad Orquídea.\r¡Ahora que he venido hasta aquí, puedo\ndecir que es abrumadora!\rNi las personas ni los Pokémon\npueden vivir sin agua.\rPero también es cierto que con esa\nfuerza puede causar muchos destrozos.\r
+Mananti: Tú eres de esta región,\n¿me equivoco?\r¡Seguro que llegarás a ser tan fuerte\ncomo esta cascada, capaz de ablandar\fel corazón de las personas!\r¡Nunca tires la toalla, {STRVAR_1 3, 0, 0}!\r
+Aníbal: ¡Guau!\n¿Has venido expresamente hasta aquí\fsolo para visitarme?\fPues esto hay que celebrarlo.\rVamos a hacernos una foto, ¿vale?{YESNO 0}
+Aníbal: Allá va.\n¡No cierres los ojos! ¿Eh?\r
+Aníbal: ¡Ha salido una foto estupenda!\n¡Y tú te llevas un recuerdo fenomenal!
+Aníbal: ¿Después de haber venido\nhasta aquí me dices que no?
+Tu Álbum de Fotos está lleno.\rUsa el PC para hacer un poco\nde sitio en tu Álbum.

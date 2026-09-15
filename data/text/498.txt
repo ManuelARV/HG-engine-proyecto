@@ -1,0 +1,4 @@
+Quiero comprar objetos que aumenten\nlas habilidades de mis Pokémon.\f¡Pero no tengo dinero!
+¿Conoces Más PP?\rEs un objeto extraordinario\nque aumenta los PP máximos\fde un movimiento.\r¡Qué chasco! ¡He venido hasta aquí\nexpresamente para comprarlo y resulta\fque no se vende en las tiendas!\r¡Qué rabia!
+Si usas objetos con tus Pokémon,\nse pondrán contentos.\fAunque hay algunos que no les gustan.
+P4 Farmacia\n¡Potencia la fuerza de tus Pokémon!\n

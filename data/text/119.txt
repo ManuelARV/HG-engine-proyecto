@@ -1,0 +1,2 @@
+{STRVAR_1 3, 0, 0}: ¡Alto ahí!\rNo deberías bajar la guardia\ntan fácilmente.\rQuería encontrarme de nuevo con ese\ntal Lance, pero no lo he visto por aquí.\r¡Bah! Da igual.\rPuedo cambiar el orden\nde mis prioridades,\f¡así que prepárate\fpara ser el siguiente!\r
+{STRVAR_1 3, 0, 0}: No lo entiendo...\r¿Es verdad lo que dijo ese Lance?\r¿Que no cuido bien mis Pokémon?\rAmor... Confianza...\r¿Es eso lo que me falta?\r¿Es eso lo que me impide ganar?\rYo... no lo entiendo.\rPero esto no acaba aquí.\r¡No renunciaré a mi sueño de ser\nel mejor Entrenador Pokémon del mundo!\r

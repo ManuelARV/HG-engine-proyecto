@@ -1,0 +1,12 @@
+¡Tú! ¡Ven aquí!\rAquí cerca hay un sitio molón\nque se llama Zona Safari.\rHay un porrón de Pokémon raros\ny puedes capturar tantos como quieras.\r¿Por qué no te pasas?\n¡Yo también me muero por ir!\r¡Espero que sea pronto!
+¡Tú! ¡Ven aquí!\rAquí cerca hay un sitio molón\nque se llama Zona Safari.\rHay un porrón de Pokémon raros\ny puedes capturar tantos como quieras.\r¿Por qué no te pasas?\rCréeme, está cerquísima.\nSal, anda un poco y lo verás.\rNo lo dejes para después y ve ya.{YESNO 0}
+¡Está cerquísima!\rSube las escaleras, sal\ny llegarás en un periquete.
+Te lo pasarías muy bien...
+¿A que te ha gustado el Safari?\rNo digas nada, ¿a que nunca\nte lo has pasado mejor?\f¡Tu cara habla por sí sola!
+¿Eh? ¿También vas a la Zona Safari?\rPues está cerrada por obras.\nSé paciente.
+Me alegro de que todos\nesperen mucho del Safari.\rLo que pasa es que la señora del\nmostrador tal vez exagere demasiado...\rTodo en su justa medida.\n
+Aníbal: ¡Oh, {STRVAR_1 3, 0, 0}!\n¡Tienes buena cara! ¡Me alegro!\rEres la última persona que esperaba\nencontrarme aquí.\r¡Ya está!\n¡Vas a la Torre Oculta!\rSu origen está en la torre gigantesca\nque rasga el cielo y que aparece\fen la leyenda sobre los Pokémon\fque crearon el mar y la tierra.\rPero se desmoronó hace mucho tiempo.\r
+Aníbal: El camino hasta la Torre Oculta\nes mucho más duro de lo que te puedes\fimaginar.\rNecesitas una MO para cruzar el mar y\ntambién otra llamada Treparrocas.\r
+Aníbal: ¡Vaya, también has vencido\nal Campeón absoluto de Kanto!\rEntonces no te preocupes.\r¡Recorre el camino que tú\nveas más oportuno! ¡Ja, ja, ja!\r
+¡Experimenta el mundo salvaje!\n¡Explora el mundo Pokémon!\r¡La Zona Safari de Baoba\nabrirá muy pronto!
+¡Experimenta el mundo salvaje!\n¡Explora el mundo de los Pokémon!\r¡La Zona Safari de Baoba está abierta!

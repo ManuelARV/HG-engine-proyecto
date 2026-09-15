@@ -1,0 +1,15 @@
+Lt. Surge
+¿Qué? ¡No se te oye!\n¡Esto es un accidente telefónico!\r¡Vuelve a marcar desde otra ubicación!
+¿Hola? ¿Sí?\n¡Estoy electrizantemente bien!\r
+Hay Entrenadores galvánicos\ncon los que todavía tienes que luchar.\f¡Suéltales una buena descarga!
+Yo no doy órdenes los viernes\nhasta las 10 de la mañana.\f¡Dame un toque si tienes tiempo!
+¡Eh, machine!\n¡Vamos a echar la revancha!\r¿Aceptas el reto?{YESNO 0}
+¡Ese espíritu de decisión me gusta,\nrecluta!\rAguardo tu presencia en el Dojo de\nCiudad Azafrán.
+¿No? ¿No? ¿No? ¿No?\nEstás de servicio, me imagino.\fEl servicio es el servicio.
+Ejem... Me produce gran complacencia\nque desees luchar conmigo, pero\fme parece que has de cumplir otro\fcometido en estos momentos.
+¡La batalla del Dojo de Ciudad Azafrán!\n¡El momento de librarla se acerca!\fNo te vayas a olvidar, recluta.
+¡Saludos, recluta!\n¿Cómo están tus heridas de guerra?\r
+Habíamos hecho la solemne promesa de\ncombatir en el Dojo de Ciudad Azafrán.\r¿Se te había olvidado, recluta?\nAguardo tu llegada.
+¿Por qué crees que tengo trampas\ninstaladas en mi Gimnasio de Ciudad\fCarmín? ¿Por qué? Dime.\r¡Justo! Para calibrar la inteligencia de\nlos Entrenadores que vienen a retarme.\rLos combates Pokémon son algo más\nque fortaleza y resistencia.\rLa inteligencia es clave junto\na la fuerza.\rLos Entrenadores más poderosos\nsobresalen en ambas facetas.
+Cuando estaba en el frente, entrené\na muchos soldados.\f¡A muchos, cadete!\rPero tú emanabas perfección incluso\ndesde antes de que nos conociéramos.\r¿Dónde te entrenaste?\n¿Quién fue tu instructor?\fEs increíble. ¡Inverosímil!
+He estudiado el idioma de aquí\ntrabajando en mi Gimnasio.\rHablando con la gente he aprendido\nmuchas palabras y ahora hablo\fcasi mejor que tú.\rY por supuesto, ¡mejor que mis Pokémon!

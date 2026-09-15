@@ -1,0 +1,2 @@
+No se han podido escribir los datos.\n\nPor favor, apaga la consola y vuelve\na insertar la tarjeta DS.
+Error al guardar.\n\nLa memoria de seguridad está\ndañada, pero se puede jugar.\nSin embargo, no se podrá guardar.\n\nPor favor, apaga la consola.

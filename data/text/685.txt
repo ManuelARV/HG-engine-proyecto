@@ -1,0 +1,23 @@
+Javier
+¿Eh? ¿Es eso una Pokédex?\n¿Has conocido al Profesor Oak?\f¿Eh? ¿De verdad? ¡Es genial!\rHe soñado que yo era un investigador\nde Pokémon como el Profesor Oak.\rPor favor, ¿me das tu número de\nteléfono? Vamos a hablar de vez\fen cuando sobre el Profesor Oak.{YESNO 0}
+Estás escuchando La hora Pokémon\ndel Profesor Oak, ¿verdad?
+Me gustaría tener la oportunidad de\nconocer al Profesor Oak en persona.
+Por favor, ¿me das tu número de\nteléfono? Vamos a hablar de vez\fen cuando sobre el Profesor Oak.\r¡Seguro que va a ser divertidísimo!{YESNO 0}
+¿Por qué me llamas si estás aquí cerca?\n¿Tienes adicción al teléfono?
+Hace poco empecé a observar\n{STRVAR_1 0, 10, 0} salvajes.\rHe aprendido toda clase de cosas\ngracias a mis observaciones.\rOjalá llegue a ser un investigador\nPokémon tan famoso como el Profesor\fOak algún día.\r¡Hasta luego!
+¡Oye! Conseguí noquear a un\n{STRVAR_1 0, 11, 0} salvaje hace nada.\rTeniendo en cuenta que estudio Pokémon\ncada día, no me fue difícil tumbarlo.\r¡Hasta luego!
+¡Oye! Estuve a punto de atrapar a\nun {STRVAR_1 0, 11, 0} salvaje, pero\fse me escapó.\rSiempre he querido observar\nun {STRVAR_1 0, 11, 0} de frente.\f¡Fue una lástima!\r¡Hasta luego!
+¿Conoces a Azul?\r¡Es el nieto del Profesor Oak y antiguo\nCampeón de la Liga Pokémon!\f¡Es un Entrenador súper!\r¡Hasta luego!
+El Profesor Oak tiene una nieta que se\nllama Dalia.\rCuando está cerca, hasta el Pokémon\nmás feroz se calma.\r¡Hasta luego!
+Todos hablan del Profesor Elm.\nEra el ayudante del gran Profesor Oak.\r¡Le envidio! ¡Es mi sueño!\n¡Hasta luego!
+El sueño del Profesor Oak es conseguir\ncompletar la Pokédex.\rTe envidio por ser parte\nde ese proyecto...\r¡Hasta luego!
+¿Conoces a César, el artesano\nde Poké Balls?\rÉl y el Profesor Oak se conocen\ndesde hace mucho.\r¡Supongo que las grandes figuras\nse atraen mutuamente!\r¡Hasta luego!
+En la Liga Pokémon se dan cita\nlos Entrenadores que quieren\fser Campeones.\rEl Profesor Oak es el asesor del\nCuartel General de la Liga Pokémon.\rEs un gran hombre.\n¡Hasta luego!
+La hora Pokémon del Profesor Oak\nes un programa muy popular.\r¿Sabías que al principio no quería\npresentar el programa?\rPero la energía y tenacidad de Rosa\nle convencieron.\f¡Hay que agradecérselo!\rPasó lo suyo la pobre...\n¡Hasta luego!
+Hace mucho tiempo, el Profesor Oak\nfue Entrenador.\rPero los Pokémon en sí le parecían\nmás interesantes que el combate.\rPor eso abandonó su entrenamiento\ny se centró en la investigación.\r¡Hasta luego!
+El Profesor Oak tiene una nieta\nque se llama Dalia.\rToma té cada día de tres a cuatro\nde la tarde.\rMe gustaría tomar té con ella y\nacribillarla a preguntas sobre\fel Profesor Oak.\r¡Hasta luego!
+¿Sabes una cosa?\nEl Profesor Oak viajó por todo el mundo\fcuando era joven.\rMientras viajaba, aprendió mucho\nsobre los Pokémon sin ningún esfuerzo.\rLe envidio...\nTambién quisiera viajar y aprender\ftantas cosas como él.\r¡Hasta luego!
+¿Sabes una cosa?\nEl Profesor Oak viajó por todo el mundo\fcuando era joven.\rMientras viajaba, aprendió mucho\nsobre los Pokémon sin ningún esfuerzo.\rLe envidio...\nTambién quisiera viajar y aprender\ftantas cosas como él.\r¡Hasta luego!
+¿Quieres luchar?\nDebo hacerlo de vez en cuando\fpara no perder facultades.\r¡Estaré en {STRVAR_1 4, 3, 0}!
+¿Recuerdas lo de nuestro combate?\rEstoy en {STRVAR_1 4, 3, 0}.\nDate prisa, te espero.
+¡Voy a estudiar mucho para ser\nel ayudante del Profesor Oak algún día!

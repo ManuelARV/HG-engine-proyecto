@@ -1,0 +1,62 @@
+¿Colocar un bloque {STRVAR_1 8, 0, 0}?
+Bloque {STRVAR_1 8, 0, 0} colocado.
+Puedes colocar {STRVAR_1 51, 0, 0} más.
+No puedes colocar más.
+No hay más sitio para colocar bloques.
+No se puede colocar en la tierra.
+No se puede colocar en el agua.
+No puedes colocar más.
+VOLVER
+    
+   
+     
+{STRVAR_1 50, 0, 0}/{STRVAR_1 50, 1, 0}
+{STRVAR_1 8, 0, 0}
+Arbusto
+Geranio
+Rosa
+Árbol
+Tocón
+Rama
+Roca pequeña
+Roca grande
+Roca musgo
+Charco
+Géiser
+Fuente
+Banco
+Valla corta1
+Valla corta2
+Valla larga1
+Valla larga2
+Tablón
+Estatua
+Bandera
+Farola
+Poste a dcha
+Poste a izda
+Papelera
+Arbusto con hierbas.\nLes encanta a los Pokémon\nque viven en el prado.
+Flor de color rojo pasión.\nLes encanta a los Pokémon\nque viven en el prado.
+Flor de color delicado.\nLes encanta a los Pokémon\nque viven en el prado.
+Un árbol pequeñito.\nLes encanta a los Pokémon\nque viven en la arboleda.
+Tocón de un árbol cortado.\nLes encanta a los Pokémon\nque viven en la arboleda.
+Manojo de ramas quebradas.\nLes encanta a los Pokémon\nque viven en la arboleda.
+Pequeña roca redonda.\nLes encanta a los Pokémon\nque viven en la peña.
+Roca grande e irregular.\nLes encanta a los Pokémon\nque viven en la peña.
+Roca cubierta de musgo.\nLes encanta a los Pokémon\nque viven en la peña.
+Agua acumulada sobre el suelo.\nLes encanta a los Pokémon\nque viven en el agua.
+Se puede crear usando Surf.\nLes encanta a los Pokémon\nque viven en el agua.
+Chorro de agua pura y fresca.\nLes encanta a los Pokémon\nque viven en el agua.
+Banco estrecho y alargado.\nPueden verse a espuertas en\nparques y zonas de descanso.
+Valla corta horizontal.\nUniendo unas cuantas se pueden cercar\nestanques y jardines.
+Valla corta vertical.\nUniendo unas cuantas se pueden cercar\nestanques y jardines.
+Valla larga horizontal.\nUniendo unas cuantas se pueden cercar\nestanques y jardines.
+Valla larga vertical.\nUniendo unas cuantas se pueden cercar\nestanques y jardines.
+Tablón de madera.\nFormado por un palo clavado\nen el suelo y una tabla.
+Fiel reproducción tuya en piedra.\n¡Saborea la gloria!
+Bandera con tu efigie.\nAl izarla podrás saborear las mismas\nsensaciones que la realeza.
+Farola luminosa.\nArroja un hermoso haz que baña\nde luz la oscuridad.
+Poste que señala a la derecha.\nNo cabe duda de que quien lo vea\nseguirá sus indicaciones.
+Poste que señala a la izquierda.\nNo cabe duda de que quien lo vea\nseguirá sus indicaciones.
+Cesta para arrojar desperdicios.\nSi tienes algo de basura, tírala aquí\no llévatela para tirarla en casa.

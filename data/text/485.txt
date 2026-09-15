@@ -1,0 +1,15 @@
+Lt. Surge: ¡Eh, tú, joven!\nTengo que reconocerlo:\fno es que sea inteligente desafiarme,\f¡pero requiere agallas!\rCuando se trata de Pokémon de tipo\nEléctrico, ¡soy el número uno!\rNunca he perdido en la batalla.\r¡Te electrocutaré como hice\ncon el enemigo en la guerra!\r
+Lt. Surge: ¡Aaarg!\n¡Eres fuerte!\rVale, joven. ¡Toma la Medalla Trueno!\r
+¡{STRVAR_1 3, 0, 0} ha recibido la\nMedalla Trueno de Lt. Surge!
+Lt. Surge: Esta Medalla Trueno es la\nrecompensa por haberme vencido.\fEspero que la aprecies como es debido.\rPero voy a darte algo más.\n¡Esta extraordinaria MT es para ti!\r
+Lt. Surge: ¡Contiene Onda Voltio,\nun ataque electrizante!\r¡Te permitirá librar batallas\nde alto voltaje!\rSi vas hacia el norte cuando salgas de\naquí, llegarás a la gran Ciudad Azafrán.
+Lt. Surge: ¡Eh, tú!\n¿Con ganas de más acción?\rSi vas hacia el norte cuando salgas de\naquí, llegarás a la gran Ciudad Azafrán.
+¡Hola, futura leyenda!\n¡Estás de suerte!\rLas trampas de este Gimnasio estaban\nestropeadas, pero ya las han reparado.\r¿Qué? ¿Te preguntas por qué eso es\ntener suerte?\rPues porque es una buena forma de\nentrenamiento, ¿no crees?\r¡Prepárate para enfrentarte\na Lt. Surge!
+¡Vaya combate más electrizante!\n¡Me has puesto muy nervioso!
+¡Ras, ras!\n¡Bah! Aquí solo hay basura.
+¡Ras, ras!\n¡Anda! ¡Hay un botón secreto al fondo\fdel cubo de basura!\fPues habrá que pulsarlo... ¡Clic!
+¡Ras, ras!\n¡Bah! Aquí solo hay basura.\r¡Ah! ¡Se ha reactivado\nla barrera eléctrica!
+¡La primera barrera eléctrica\nse ha desactivado!
+¡La segunda barrera eléctrica\nse ha desactivado!\rYa no quedan barreras que impidan\nllegar a donde está el Líder.
+Gimnasio Pokémon de Ciudad Carmín
+Gimnasio Pokémon de Ciudad Carmín\rLíder: Lt. Surge\nEntrenadores reconocidos:\f{STRVAR_1 3, 0, 0}

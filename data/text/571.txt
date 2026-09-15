@@ -1,0 +1,25 @@
+¿Quién eres?\r¿{STRVAR_1 3, 0, 0} dices?\n¿Vienes a que te fabrique Poké Balls?\rLo siento, pero deberás esperar.\n¿Conoces al Team Rocket?\rSi no, no importa.\nYo te contaré quiénes son.\rSe trata de una malvada banda que\nusa Pokémon para el trabajo sucio.\rSe supone que se disolvieron\nhace tres años.\r¡Pero están en el Pozo cortando\ncolas de SLOWPOKE para venderlas!\r¡Así que voy a ir allí a darles\nuna lección!\r¡Resistid, SLOWPOKE!\n¡César os ayudará!
+César: ¡Guau!\n¡Has hecho un trabajo formidable,\f{STRVAR_1 3, 0, 0}!\rComo ya te he dicho antes,\nun chico llamado Rojo\fderrotó al Team Rocket hace tres años.\rPero ahora han vuelto a escena\ny tengo el presentimiento de que\falgo malo va a suceder...\rEn cualquier caso, {STRVAR_1 3, 0, 0},\nme has impresionado.\r¡Será un placer fabricar\nPoké Balls para ti!\rDe momento, puedes quedarte esta\nque tengo aquí.\r
+                       
+César: Fabrico las Poké Balls\na partir de Bonguri.\rRecógelos de los árboles\ny tráemelos.\fLos usaré para hacer las Poké Balls.
+César: ¿Tienes un Bonguri?\n¡Vale! Te haré una Poké Ball.\r
+César: Tardaré un día en fabricar\nuna Poké Ball. Vuelve mañana a por ella.
+César: ¡Oh...!\n¡Qué decepción!
+César: ¡Estoy trabajando! ¡Vete!
+César: ¡{STRVAR_1 3, 0, 0}!\nAcabo de terminar tu Poké Ball.\fAquí tienes.\r
+César: Vaya, tu Bolsa está llena.\rHaz un poco de sitio y ven a buscar\nla Poké Ball.
+César: Ha salido muy bien.\rIntenta capturar Pokémon con ella.
+Los SLOWPOKE ya no están...\n¿Se los ha llevado la gente mala?
+El abuelo se fue.\nEstoy tan sola...
+¡El SLOWPOKE que me regaló mi padre\nha vuelto!\f¡Y su cola vuelve a crecer!
+Papá trabaja en Silph S.A. y\nestudia las Poké Balls.\rTengo que quedarme en casa\ncon el abuelo y SLOWPOKE.
+¡Ya sé!\n¿Quieres el número de teléfono\fdel abuelo?{YESNO 0}
+¡{STRVAR_1 3, 0, 0} ha registrado a César\nen el Pokégear!
+Si quieres saber cosas sobre\nlos Bonguri, llama a mi abuelo.
+¿Qué? ¿Qué pasa?\n¿No quieres llamar al abuelo?
+Quieres llamar a mi abuelo,\n¿verdad?{YESNO 0}
+SLOWPOKE: ¿Slow...?
+Es una foto de tres personas\ncon un paisaje de fondo.\rSon César y el Profesor Oak,\ny en el centro una mujer\fde mirada profunda.
+Es una estatua del guardián\ndel Encinar.
+La radio está encendida. Ponen\nLa hora Pokémon del Profesor Oak.
+¡Están proclamando el regreso\ndel Team Rocket por la radio!

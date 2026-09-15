@@ -1,0 +1,28 @@
+...\rNo sé qué habéis venido a hacer aquí,\npero este no es lugar para mocosos\fcomo vosotros.\r
+Esa mirada...\rLa recuerdo de hace tres años.\rCuando se entrometió en mis asuntos...\nEs la misma mirada...\r...\rVoy a Ciudad Trigal para acudir\na la llamada de mis compañeros.\r¡¿Te atreves a interponerte\nen mi camino?!\r
+...\nAquí la Torre Radio de Ciudad Trigal.\fAquí la Torre Radio de Ciudad Trigal.\fTras tres años de esfuerzo,\festamos aquí para proclamar\f¡el retorno del Team Rocket!\f¡Giovanni!\f¿Puedes oírnos?\f¡Por fin lo hemos conseguido!\f...\r
+Mis antiguos compañeros me necesitan.\r¡La derrota de hace tres años no\nvolverá a repetirse!\r¡El {COLOR 0}Team Rocket{COLOR 0} resurgirá de nuevo\ny seremos los amos del mundo!\r
+Giovanni: ¿P-por qué...?\r¡¿Estos tres últimos años\nhan sido en vano?!\r¿Cómo puede ser que una vez más haya\nechado por tierra todos mis planes?\rLos sueños de grandeza del Team Rocket\nse desvanecen...\r
+...\n¡Escúchanos!\f¿Dónde te has metido, Giovanni?\f¿Puedes oír este mensaje allá\fdonde estés?\f...\r
+Giovanni: Aún eres joven y no sabes\ncómo controlar tu propia fuerza...\rDeberías tenerlo presente...\r
+Eco: ¡Mira!\r¡Es el señor que estaba discutiendo\ncon aquel chico de mirada aviesa!\r
+Lira: ¡Mira!\r¡Es el señor que estaba discutiendo\ncon aquel chico de mirada aviesa!\r
+Eco: ¿Hace tres años?...\n¿Ciudad Trigal?...\r
+Lira: ¿Hace tres años?...\n¿Ciudad Trigal?...\r
+¡¿No será él a quien se referían como\nel jefe Giovanni en la radio?!\r
+¡¿No será él a quien se referían como\nel jefe Giovanni en la radio?!\r
+¡Escucha, {STRVAR_1 3, 0, 0}!\n¡Emiten algo muy raro por la radio!\r¡El Team Rocket ha ocupado\nla Torre Radio de Ciudad Trigal!\r¡Pero tú ya habías resuelto\nesa situación!\r
+¡Escucha, {STRVAR_1 3, 0, 0}!\n¡Emiten algo muy raro por la radio!\r¡El Team Rocket ha ocupado\nla Torre Radio de Ciudad Trigal!\r¡Pero tú ya habías resuelto\nesa situación!\r
+Eco: Los pobres siguen llamando a su\njefe sin saber que nunca acudirá.\r¡Y luego viene cuando llegas tú y les\ndas una buena lección, {STRVAR_1 3, 0, 0}!\r¿Eh?\nPero, {STRVAR_1 3, 0, 0}, si tú estás aquí...\r¿Quién diantre se supone que va a la\nTorre Radio a derrotar al Team Rocket?\r
+Lira: Los pobres siguen llamando a su\njefe sin saber que nunca acudirá.\r¡Y luego viene cuando llegas tú y les\ndas una buena lección, {STRVAR_1 3, 0, 0}!\r¿Eh?\nPero, {STRVAR_1 3, 0, 0}, si tú estás aquí...\r¿Quién diantre se supone que va a la\nTorre Radio a derrotar al Team Rocket?\r
+¡Ya es suficiente!...\n¡Por favor, llévanos de vuelta\fa nuestra época!\r
+¡Ya es suficiente!...\n¡Por favor, llévanos de vuelta\fa nuestra época!\r
+¡El CELEBI herido ha viajado\nen el tiempo!\r¡Os ha transportado a una época\nanterior al comienzo de esta\fasombrosa aventura!\r
+Es una radio rota...
+Es una radio estropeada.\nDebe de ser de Giovanni...
+¡CELEBI!...\r¡Si no se recupera, nunca podremos\nregresar a nuestra época!\r
+¡CELEBI!...\r¡Si no se recupera, nunca podremos\nregresar a nuestra época!\r
+¡Eco ha usado Máx. Revivir con CELEBI!\r
+¡Lira ha usado Máx. Revivir con CELEBI!\r
+¡{COLOR 0}Viaje en el tiempo{COLOR 0}!...\r¡Esta vez llévanos de vuelta\na nuestra época!\r
+¡{COLOR 0}Viaje en el tiempo{COLOR 0}!...\r¡Esta vez llévanos de vuelta\na nuestra época!\r

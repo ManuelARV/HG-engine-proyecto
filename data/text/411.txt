@@ -1,0 +1,6 @@
+Las contraseñas de Buena
+Buena
+¡Radionovelas e información!\n¡Esto es Variedades Pokémon!
+¡El canal de las sonrisas y las lágrimas!\n¡El Canal Variedades!
+Buena: ¡Saludos, queridos radioyentes!\nAquí, Buena,\nvuestra guapísima presentadora.\n¡Vamos a la contraseña de hoy!\n¡{STRVAR_34 18, 0, 0}!\n¡Que no se os olvide!\n¡Os esperamos en la Torre Radio\nde Ciudad Trigal!
+Buena: ¡Saludos, queridos radioyentes!\nAquí, Buena,\nvuestra guapísima presentadora.\n¿Ya tenéis todos la Tarjeta Azul de la\nTorre Radio de Ciudad Trigal?\nYa sabéis que en el programa anunciamos\nsiempre una contraseña, ¿no?\nPues si venís al primer piso de la Torre\na decírmela, conseguiréis puntos\npara la tarjeta.\n¡Acumulad puntos y ganaréis premios!\nAmigos, no dejéis de reunir puntos, ¿eh?

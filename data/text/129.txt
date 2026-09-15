@@ -1,0 +1,34 @@
+¡Espera!\r
+Débora: Siento todo esto.\nToma este regalo en señal de disculpa.\r
+                           
+Esta MT contiene Pulso Dragón.\rSe llama así porque...\n¡Bueno, no tiene importancia!\rEn cualquier caso,\nes un movimiento muy poderoso.\rSi no la quieres,\nno es necesario que la aceptes.\r
+¿Eh?\nNo tienes sitio para esto.\rMe vuelvo al Gimnasio,\nasí que haz hueco y ven a verme allí.\r
+¿Qué ocurre?\nSi quieres ir a la Liga Pokémon,\fpuedes volver a Pueblo Primavera y\fcruzar la Ruta 27 usando Surf.\rPero algo me dice que todavía tienes\ncosas que hacer por aquí, ¿no?\r¡Sé fuerte!\n¡A partir de ahora, no permitas\fque nada te desanime, eh!\rSi te rindieras ahora, me sentaría\nmuy mal haber perdido contra ti.\r
+Santuario Dragón\rErigido en honor de los Pokémon\ndragón de la Guarida Dragón.
+{STRVAR_1 3, 1, 0}: ...\nVaya, {STRVAR_1 3, 0, 0}...\rSí, estoy entrenando aquí.\nDebe parecerte un poco raro...\rPero no me importa.\nDe todas formas, ahora mismo\fmis Pokémon no podrían vencerte.\rIntentarlo ahora no sería sensato y\neso no me ayudaría a convertirme\fen el mejor de todos los Entrenadores.
+{STRVAR_1 3, 1, 0}: ...\rGrrr...\nAprende a no cruzarte en mi camino.
+Débora: Supongo que no tendrás nada\nimportante que hacer a esta hora\fde la mañana, ¿verdad?\r¿Te importa que hablemos un rato?\n¡Y también podríamos intercambiar\fnuestros números de teléfono! {YESNO 0}
+¡{STRVAR_1 3, 0, 0} ha registrado a Débora\nen el Pokégear!
+Débora: Si quieres podemos combatir\nel viernes por la noche.\r¡Has insistido tanto!
+Débora: ...
+Débora: Así que quieres que\nintercambiemos nuestros números\fde teléfono, ¿verdad? {YESNO 0}
+{STRVAR_1 3, 1, 0}: ¿Qué pasa?\n¿Has venido a molestar\fmientras entreno?\r¡Bah! He venido expresamente para\naprender el secreto de cómo ser\fmás fuerte, pero ese viejo no quiere\fenseñarme nada...\rPor eso me estoy entrenando aquí\ncon mis Pokémon...\r
+Lance: ¡Hola, {STRVAR_1 3, 0, 0}!\n¿No estabas en la Guarida del\fTeam Rocket?\r
+Lance: ¡Hola, {STRVAR_1 3, 0, 0}!\n¿No estabas en la Guarida del\fTeam Rocket?\r
+{STRVAR_1 3, 1, 0}: ¡Eh, tú!\n¿Dónde te habías metido?\rEsta vez pienso darte una lección.\n¡Prepárate a luchar!\r
+Lance: No hay por qué enfadarse.\nAquella vez estaba muy ocupado y\ffui un poco brusco contigo.\rPero me encantaría combatir contra ti.\r¡Ya sé!\r¿Qué os parece si hacemos un combate\nde dos contra dos?\r
+{STRVAR_1 3, 1, 0}: ¡Bah!\nClaro, ¿cómo ibas a vencerme tú solo?\r
+Lance: No digas eso.\nUn combate de dos contra dos\fpuede ser de lo más interesante.\r¡Venga, {STRVAR_1 3, 0, 0}!\n¡Tú conmigo!\r
+Lance: No digas eso.\nUn combate de dos contra dos\fpuede ser de lo más interesante.\r¡Venga, {STRVAR_1 3, 0, 0}!\n¡Tú conmigo!\r
+Débora: Vale, ¿entonces tú estarás\nen mi equipo?\r
+{STRVAR_1 3, 1, 0}: ¡Me tomas el pelo!\r¡Ni en sueños formaría equipo con\nalguien con esas pintas!\r
+¡{STRVAR_1 3, 0, 0}!\n¡Tú vienes conmigo!\r¡Juntos le daremos una lección\na Lance!\r
+Lance: Tal como pensaba, los dos\nformáis una combinación excelente...\rEstá bien tratar de seguir tu propio\ncamino para ser el mejor...\rPero la emoción de los combates\nPokémon no consiste solamente en eso.\rBueno, supongo que a estas alturas no\nhace falta que os lo explique para que\flo entendáis, ¿verdad?\rBien, {STRVAR_1 3, 0, 0}.\n¡Hasta la próxima!\r
+Lance: Tal como pensaba, los dos\nformáis una combinación excelente...\rEstá bien tratar de seguir tu propio\ncamino para ser el mejor...\rPero la emoción de los combates\nPokémon no consiste solamente en eso.\rBueno, supongo que a estas alturas no\nhace falta que os lo explique para que\flo entendáis, ¿verdad?\rBien, {STRVAR_1 3, 0, 0}.\n¡Hasta la próxima!\r
+Débora: Bueno, yo también me voy.\rGracias por el buen rato, {STRVAR_1 3, 0, 0}.\rY a ti también, aunque seas tan borde.\r
+{STRVAR_1 3, 1, 0}: {STRVAR_1 3, 0, 0}...\rEsto ha sido una situación especial...\r¡Pero no ha cambiado nada!\r¡No pienso rendirme\nhasta que te derrote!\rVoy a fortalecer mis Pokémon\ny también...\fvoy a fortalecer mi espíritu.\r¡Entonces volveré a\nenfrentarme a ti!...\r
+Débora: ¡Ah, eres tú!\r¿Quieres sacarte una foto\nconmigo? {YESNO 0}
+Débora: ¡Venga, sonríe!\r
+Débora: Ha quedado una foto muy chula.
+Débora: ¿No? Es una lástima.
+Tu Álbum de Fotos está lleno.\rUsa el PC para hacer un poco\nde sitio en tu Álbum.

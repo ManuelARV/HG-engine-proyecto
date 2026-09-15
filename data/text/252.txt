@@ -1,0 +1,14 @@
+{STRVAR_1 1, 0, 0} acaba de entrar.
+¿Quieres dejar de dibujar?
+{STRVAR_1 1, 0, 0} acaba de irse.
+{STRVAR_1 1, 0, 0}, que hacía de líder, se ha\nido. El grupo se disolverá.
+Si el líder se desconecta, se\nacabará la sesión, ¿de acuerdo?
+No hay más miembros.\nEl grupo se disolverá.
+La sesión de dibujo ha finalizado.
+SALIR
+{STRVAR_1 1, 0, 0}
+¡Pon tu firma!
+¿Está bien así?
+¿Quieres repetir tu firma?
+SALIR
+¡Estás en una sesión de dibujo!

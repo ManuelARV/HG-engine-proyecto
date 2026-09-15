@@ -1,0 +1,13 @@
+Por favor, espera...
+{STRVAR_1 1, 0, 0}
+¡{STRVAR_1 1, 1, 0} ha recibido el\nHuevo de {STRVAR_1 1, 2, 0}!
+¡Ha caído en una zona de bonificación!\n¡Has recibido una {STRVAR_1 8, 0, 0}!
+Es una pena, la Bolsa está llena...\nNo puedes aceptar la Baya.
+Esperando comunicación.\nPor favor, espera.
+                                     
+                                    
+                                     
+                                    
+Esperando comunicación.\nPor favor, espera.
+Guardando...\nNo apagues la consola.
+Hay un Huevo que no se puede cambiar.\nSe cancelará el Intercambio Giro.

@@ -1,0 +1,11 @@
+Gorka
+Vamos a seguir criando nuestros\nPokémon para enfrentarnos algún día.\r¿Me das tu número?{YESNO 0}
+¡OK! ¡Hasta pronto!
+¡Veo que no las tienes todas contigo!\nCrees que te venceré, ¿no?
+¿Me das tu número?{YESNO 0}
+¡Te oigo muy claramente! ¡Demasiado!\nTal vez..., ¿estás cerca?
+Mi {STRVAR_1 0, 10, 0} se parece cada vez\nmás a mí. ¡Está muy guapo!\r¿Sabes? Ahora podemos acabar\nfácilmente con {STRVAR_1 0, 11, 0}.\rCreo que voy a pasarme por el Gimnasio\nde Ciudad Trigal para luchar.\r¡Hasta luego!
+Mi {STRVAR_1 0, 10, 0} se parece cada vez\nmás a mí. ¡Está muy guapo!\f¿Sabes?\rPor muy poco no conseguimos acabar\ncon un {STRVAR_1 0, 11, 0}.\rCreo que el nivel de mis Pokémon aún\nno es lo suficientemente alto.\r¡Hasta luego!
+Ahora debes de ser mucho mejor.\r¿Por qué no me enseñas tus\ntécnicas en un combate real?\rTe espero en {STRVAR_1 4, 3, 0}.
+¿Dónde estás?\r¡Quiero luchar ya!\nTe espero en {STRVAR_1 4, 3, 0}.
+¿Hola?\rEstoy en el quinto piso del Centro\nComercial de Ciudad Trigal.\f¡Me lo estoy pasando chachi!

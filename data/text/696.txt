@@ -1,0 +1,13 @@
+Vidal
+Oye, eres realmente fuerte.\nEstoy harto de perder.\r¡Ya sé! ¿Me das tu teléfono?\n¡Tenemos que luchar más veces!{YESNO 0}
+Cuando te llame, ya sabes,\ncombate al canto.
+Nunca está de más tener un amigo que\nuse Pokémon pájaro.\rDeberías reconsiderar tu respuesta.
+¡Quiero luchar contra Entrenadores\nduros de pelar tan a menudo como\fme sea posible!\r¿Me das tu número de teléfono?\n¡Nos veremos en más combates!{YESNO 0}
+¡Eres muy, muy fuerte!\nGracias por venir tan a menudo.\rHe aprendido un montón de ti.\n¡Toma esto en agradecimiento!\r
+Si estás cerca, ¿para qué me llamas?
+Mi {STRVAR_1 0, 10, 0} está cada vez más\nfuerte. ¡Hemos despegado!\r¡Podemos derrotar a {STRVAR_1 0, 11, 0}\nsin problemas!\r¿Sí? ¿Tú también? ¡Estupendo!\r¡Hablamos!
+Mi {STRVAR_1 0, 10, 0} está cada vez más\nfuerte. ¡Hemos despegado!\rPero oye, un {STRVAR_1 0, 11, 0} salvaje\nacaba de escapársenos.\rQuería usar Vuelo y atraparlo,\npero perdí la oportunidad.\f¡Hablamos!
+Ahora estoy en {STRVAR_1 4, 3, 0}.\rYa sabes, donde nos conocimos.\n¿Quieres luchar? Te espero aquí.
+¡Oh, {STRVAR_1 3, 0, 0}! ¡Date prisa!\n¡Estoy en {STRVAR_1 4, 3, 0}!\r¡Usa Vuelo!
+¡Oh, {STRVAR_1 3, 0, 0}! ¡Date prisa!\n¡Estoy en {STRVAR_1 4, 3, 0}!\r¡Usa Vuelo!
+¡Estoy deseando volver\na enfrentarme contigo!

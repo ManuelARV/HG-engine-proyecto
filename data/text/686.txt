@@ -1,0 +1,13 @@
+Gema
+Voy a prepararme al dedillo todas\nlas lecciones Pokémon y luego\fquiero una revancha.\r¿Me das tu teléfono?{YESNO 0}
+¡Chachi!\nCuando quiera hablar, te llamo.
+Siempre es mejor ser positivo,\npero bueno.
+Te han dado ganas de tener\nmi teléfono, ¿a que sí?{YESNO 0}
+Te vi por aquí hace un momento.\nSi estás cerca, no me llames. ¡Ven!
+¡Eh! Me he enterado de que has vuelto\na sacar un cero patatero.\r¿Es que no escuchas lo que te digo?\n¡Así nunca podrás vencer a los Líderes!\r¿Eh? Oh, no eres Adil...\n¡Perdona! ¡Me he equivocado!
+Molan un montón los combates\ncon Pokémon.\rPero es un rollo usar siempre\nel mismo.\rTambién está guay ir acompañado\nde alguno recién capturado.\rTe lo recomiendo.
+El otro día estaba combatiendo contra\nun {STRVAR_1 0, 11, 0} en la Ruta 15 y, antes\fde que pudiera darme cuenta, la gente\fse había congregado a mirar a nuestro\falrededor. ¡Qué vergüenza!\rEstoy acostumbrada a hablar delante de\nmis alumnos, pero no a luchar mientras\fun montón de gente me mira.\r¡Me puse roja como un tomate!
+Te voy a contar un secreto.\rEl otro día traté de capturar\nun {STRVAR_1 0, 11, 0}, pero me descuidé\funa centésima de segundo... No lancé\fla Poké Ball que debía y se escabulló.\rMenos mal que mis alumnos no me vieron,\nque si no... ¡Qué vergüenza!
+Creo que ya es hora de dar por\nfinalizada la preparación.\r¡Vamos a librar otra batalla titánica!\nTe espero en {STRVAR_1 4, 3, 0}.
+¿Te acuerdas en qué quedamos?\r¡Te espero en {STRVAR_1 4, 3, 0}!\n¡Ven ipso facto!
+No sé quiénes son más entrañables,\nlos Pokémon o mis alumnos...\rTal vez no hay mejor imagen que la de\nun niño que recibe su primer Pokémon.\rLlega hasta el fondo del corazón.

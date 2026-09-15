@@ -1,0 +1,7 @@
+¿Conoces al coleccionista de Pokémon\nque vive en la ciudad?\rSiempre está presumiendo de los\nPokémon raros que tiene.
+¡Me dan ganas de enseñarle mis Pokémon\na todo el mundo!\rQuiero que mi amigo de Ciudad Malva\nvea los que he criado...
+¡El Gimnasio Pokémon de esta ciudad\nestá lleno de chusma!\rYo ni me acerco por miedo a que\nme hagan daño.\rVoy a darte un consejo:\nel Líder utiliza Pokémon de tipo Lucha.\rAsí que tú deberías confundirlos\ncon Pokémon de tipo Psíquico,\fpara derrotarlos antes de que puedan\fusar la fuerza bruta.\rY una cosa más...\nel Líder, Aníbal, suele meditar\fbajo una cascada.\rMientras está ahí debajo, no hay forma\nde que pueda oírte, hagas lo que hagas.
+¡{STRVAR_1 3, 0, 0}! ¿Has ganado?\n¡Lo llevas escrito en la cara!
+¿Eh? No me digas que...\n¿solo tienes un Pokémon?\fPues lo llevas mal.\r...\r¡Tengo una idea!\n¡Voy a darte mi TENTACOOL!\rHe capturado un montón y pensaba\nliberarlo de todas formas.\f¡Sin compromiso!\r
+¡{STRVAR_1 3, 0, 0} ha recibido\nun TENTACOOL!
+¿Quieres ponerle un mote\nal TENTACOOL?{YESNO 0}

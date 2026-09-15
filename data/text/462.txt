@@ -1,0 +1,10 @@
+Brock: ¡Guau! No todos los días\nnos desafía alguien de Johto.\rSoy Brock, Líder del Gimnasio\nde Ciudad Plateada y experto\fen Pokémon de tipo Roca.\rMis Pokémon son insensibles a la\nmayoría de ataques físicos.\rTe será muy difícil hacerles daño.\n¡Venga!\r
+Brock: Mi dura defensa no soportó\nlos ataques de tu equipo Pokémon...\rEres más fuerte de lo que pensaba...\rToma. Coge esta Medalla.\r
+¡{STRVAR_1 3, 0, 0} ha recibido la\nMedalla Roca de Brock!
+Brock: ¡Gracias, {STRVAR_1 3, 0, 0}!\n¡Ha sido un gran combate!\rComo agradecimiento, voy a\ndarte el movimiento Avalancha.\rEs un movimiento que en ocasiones\npuede hacer retroceder al rival.\r
+Brock: ¡Gracias, {STRVAR_1 3, 0, 0}!\n¡Ha sido un gran combate!\rComo agradecimiento, voy a\ndarte el movimiento Avalancha.\rEs un movimiento que en ocasiones\npuede hacer retroceder al oponente.\r
+Brock: El mundo es enorme. Hay muchos\nEntrenadores tan fuertes como tú.\rEspera y verás. Yo también me voy\na hacer más fuerte.
+¡Hola, futura leyenda!\n¡Tienes muy buen aspecto!\r¿Vas a enfrentarte a los Líderes\nde Gimnasio de Kanto?\rYa verás como no tienen nada que\nenvidiar a los de Johto.
+¡Sí que eres una futura leyenda!\nEste Gimnasio no te ha costado mucho.\fTu técnica es increíble. En serio.
+Gimnasio de Ciudad Plateada
+Gimnasio de Ciudad Plateada\rLíder: Brock\nEntrenadores reconocidos:\f{STRVAR_1 3, 0, 0}

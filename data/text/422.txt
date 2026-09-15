@@ -1,0 +1,23 @@
+{STRVAR_1 3, 0, 0}
+ID: {STRVAR_1 54, 0, 0}
+Cuando todos estén listos...\nBotón A: confirmar   Botón B: cancelar
+¿Está bien este grupo?
+¿Cancelar la mezcla de récords?
+Se cancelará la mezcla de récords.
+Hay un miembro del grupo que\nya no está disponible.
+No hay miembros.\nSe cancelará la mezcla de récords.
+Por favor, espera.\nBotón B: cancelar
+Un miembro ya no está disponible.\nSe cancelará la mezcla de récords.
+¿Cancelar la mezcla de récords?
+Se cancelará la mezcla de récords.
+Mezclando récords...\n¡No apagues la consola!
+Mezcla de récords completada.\nVolviendo a la Sala Unión.
+Si el líder se desconecta, el grupo\nse disolverá, ¿de acuerdo?
+{STRVAR_1 3, 0, 0} acaba de irse.
+El líder, {STRVAR_1 1, 0, 0}, se desconectó.\nEl grupo se disolverá.
+Buscando amigos para mezclar récords.
+¡Mezclando récords!
+  
+   
+SEGUIR
+SALIR

@@ -1,0 +1,37 @@
+Te damos la bienvenida a la GTS,\no Global Trade Station, es decir,\fla Estación de Intercambio Global.\rA través de la CWF de Nintendo podrás\nintercambiar Pokémon con todo el mundo.\r¿Quieres realizar\nalgún intercambio?{YESNO 0}
+¡Hola!\n¡Te damos la bienvenida a la GTS!\r¿Quieres hacer un intercambio global\nde Pokémon a través de la CWF\fde Nintendo?{YESNO 0}
+En la GTS puedes intercambiar\nPokémon de dos maneras diferentes.\rPuedes ofrecer un Pokémon o\nver el que te ofrecen.\r¿Quieres más información?{YESNO 0}
+Se te pedirá que elijas el Pokémon\nque ofreces para intercambiar.\rEntonces, se te preguntará qué\nPokémon deseas a cambio.\rSi otro jugador ofrece el Pokémon\nque deseas a cambio del que ofreces,\fel intercambio se llevará a cabo.\r¿Quieres más información?{YESNO 0}
+Puedes ver los Pokémon que\nofrecen otros Entrenadores.\rAsimismo, se indicará qué Pokémon\ndesean sus Entrenadores a cambio.\rSi encuentras uno que te guste,\ndebes ofrecer el tipo de Pokémon\fsolicitado a cambio.\r¿Quieres más información?{YESNO 0}
+¿Quieres intercambiar Pokémon?{YESNO 0}
+Vuelve cuando quieras.
+¡Espero que disfrutes de tu visita\na la GTS!\r
+¡Oh, vaya!\rLo siento, pero tu equipo y todas\ntus Cajas de PC están llenos.\rPara usar los servicios de la GTS\ndebes tener espacio en tu equipo\fo en una Caja de PC.
+¡Oh, vaya!\nSolo tienes un Pokémon.\rPara usar los servicios de la GTS\ndebes tener al menos dos.\rVuelve cuando tengas más Pokémon\nen tu equipo.
+Qué pequeño es el mundo, ¿eh?\r¿Cómo? ¿Que esto es solo una\nreproducción en miniatura?\r¿El mundo es muchísimo más grande?\r¡Ahora me entero!
+Dicen que si te comunicas con\nalguien, su ubicación se graba\fen este globo terráqueo gigante.
+Solo tengo que dejar aquí el Pokémon\nque quiero intercambiar.\rQuién sabe, puede que el intercambio se\nrealice mientras echo una cabezadita.
+¡Qué invento! ¡Puedes intercambiar\nPokémon fácilmente con personas\fque están al otro lado del mundo!\r¿No es sensacional?
+Puedes registrar dónde vives en\neste globo terráqueo gigante.\rCuando lo hayas hecho, todo el que\nse comunique contigo podrá ver\ftu lugar de residencia.
+Gracias a la CWF de Nintendo,\n¡hasta yo puedo intercambiar\fPokémon sin problemas!
+¡Esta semana será la definitiva!\r¡Pienso estar entre los cuatro primeros\nde las clasificaciones!\fO al menos eso espero...
+Hay tres plantas en la Terminal Global.\rUsa los paneles teletransportadores\npara ir de una planta a otra.\rLos azules te llevan a los servicios de\nla GTS en la planta baja.\rUsa los paneles verdes para acceder a\nla Sala de Datos de Cajas y Datos del\fAtuendo en la primera planta.\rLos paneles rojos te permiten acceder\na la Galería de Vídeos de Combate.
+Tu preferido es {STRVAR_1 0, 0, 0},\n¿a que sí?{YESNO 0}
+Tu preferido es ese Huevo,\n¿a que sí?{YESNO 0}
+¡Sí, lo he adivinado!\n¡Lo sabía!
+¿Eh? Tu preferido en realidad es\n{STRVAR_1 0, 0, 0}, ¿verdad?
+¿Eh? Tu preferido en realidad es\nese Huevo, ¿verdad?
+Quiero saber qué tipos de Pokémon\nprefiere todo el mundo.
+¡Eh, tú!\r¿Tienes un mensaje que comunicarle\nal mundo? ¡Entonces dímelo, colega!{YESNO 0}
+Eh, tú, ya sé todo lo que necesitaba\nsaber sobre ti.\r¡Si quieres tunear tu mensaje,\nven a verme, colega!
+¡Eh, tú! ¿No se te ocurre\nnada molón que decir?\r¡Si quieres tunear tu mensaje,\nven a verme, colega!
+En la Terminal Global hay varias\nmáquinas que te serán útiles.\rDebes colocar la Cámara Lucha en\nestas máquinas para comunicarte.\rPruébalas sin miedo, te guiarán\ndurante la operación.
+¡Te doy la bienvenida a\nla Terminal Global!\rAquí podrás unirte a la gran comunidad\nde Entrenadores de todo el planeta.\rPodrás ver los récords de\nEntrenadores como tú del mundo entero.\rAdemás, también podrás intercambiar\nPokémon con todos esos Entrenadores.
+¿Conectarse a la CWF de Nintendo\npara ver la Clasificación\fde Entrenadores?{YESNO 0}
+La Clasificación de Entrenadores es un\nsistema para equipos de todo el mundo.\rLos Entrenadores se dividirán en varios\ngrupos y se clasificarán según varias\fcategorías.\rAl unirte, tus logros se enviarán\nautomáticamente a tu equipo.\rEn otras palabras, lo que hagas\ncomo Entrenador puede influir\fen la valoración de tu equipo.\r¡Ojo!\rSi te clasificas en una categoría más de\nuna vez, solo se anotarán los puntos\fde la ocasión anterior.\r
+¿Conectarse a la CWF de Nintendo\ny ver la Clasificación de Vídeos\fde Combate?{YESNO 0}
+La Clasificación de Vídeos de Combate es\nuna galería de vídeos populares.\rEstudiar batallas épicas te podría\nayudar a mejorar tus habilidades.\r
+CONECTAR
+INFORMACIÓN
+CANCELAR
+El panel verde conduce a la Sala de\nDatos de Cajas y Datos del Atuendo\fde la primera planta.\rEl panel rojo te lleva a la Galería de\nVídeos de Combate de la segunda planta.

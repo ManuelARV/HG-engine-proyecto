@@ -1,0 +1,44 @@
+{STRVAR_1 0, 0, 0} ha entrado en el motor.\r{STRVAR_1 0, 0, 0} intenta aprender\n{STRVAR_1 6, 1, 0}.\rPero {STRVAR_1 0, 0, 0} no puede aprender\nmás de cuatro movimientos.\r¿Quieres sustituir uno de esos\nmovimientos por {STRVAR_1 6, 1, 0}?{YESNO 0}
+¿Dejar de aprender\n{STRVAR_1 6, 1, 0}?{YESNO 0}
+{STRVAR_1 0, 0, 0} no aprendió\n{STRVAR_1 6, 1, 0}.\r{STRVAR_1 0, 0, 0} ha salido del motor.
+Se olvidará el movimiento\n{STRVAR_1 6, 1, 0}.\r¿Quieres continuar?{YESNO 0}
+1, {PAUSE 0}2 y{PAUSE 0}... {PAUSE 0}... {PAUSE 0}... ¡puf!
+¡{STRVAR_1 1, 0, 0} olvidó cómo\nutilizar {STRVAR_1 6, 1, 0}!\rY...
+¡{STRVAR_1 1, 0, 0} aprendió\n{STRVAR_1 6, 1, 0}!
+¿Qué ROTOM quieres elegir?\r
+Un Huevo no puede entrar en un motor.
+Ese Pokémon no puede entrar\nen un motor.
+{STRVAR_1 0, 0, 0} ha entrado en el motor.\r
+{STRVAR_1 0, 0, 0} ha salido del motor.\r
+¿Qué ROTOM quieres devolver\na su forma original?{YESNO 0}
+¡Anda! Parece que ROTOM quiere volver\na su forma original.\r¿Quieres retirarlo del motor?{YESNO 0}
+RETIRAR
+SÍ
+NO
+Ese ROTOM no ha entrado\nen ningún motor.
+Aquí había un electrodoméstico.\nEse con el motor de forma extraña.
+SALIR
+Es un microondas.\nTiene un motor de forma extraña.
+Es un microondas.\nTiene un motor de forma extraña.\r¡Anda! Parece que ROTOM quiere\nentrar en el motor.\r¿Le dejas que entre en el motor?{YESNO 0}
+ROTOM renunció a regañadientes a\nentrar en el motor del microondas...
+Es un frigorífico.\nTiene un motor de forma extraña.
+Es un frigorífico.\nTiene un motor de forma extraña.\r¡Anda! Parece que ROTOM quiere\nentrar en el motor.\r¿Le dejas que entre en el motor?{YESNO 0}
+ROTOM renunció a regañadientes a\nentrar en el motor del frigorífico...
+Es una lavadora.\nTiene un motor de forma extraña.
+Es una lavadora.\nTiene un motor de forma extraña.\r¡Anda! Parece que ROTOM quiere\nentrar en el motor.\r¿Le dejas que entre en el motor?{YESNO 0}
+ROTOM renunció a regañadientes a\nentrar en el motor de la lavadora...
+Es un ventilador.\nTiene un motor de forma extraña.
+Es un ventilador.\nTiene un motor de forma extraña.\r¡Anda! Parece que ROTOM quiere\nentrar en el motor.\r¿Le dejas que entre en el motor?{YESNO 0}
+ROTOM renunció a regañadientes a\nentrar en el motor del ventilador...
+Es un cortacésped.\nTiene un motor de forma extraña.
+Es un cortacésped.\nTiene un motor de forma extraña.\r¡Anda! Parece que ROTOM quiere\nentrar en el motor.\r¿Le dejas que entre en el motor?{YESNO 0}
+ROTOM renunció a regañadientes a\nentrar en el motor del cortacésped...
+Aquí hay un misterioso cuaderno.\nEs imposible saber su antigüedad.\r“Obtuve información sobre el Pokémon\nROTOM por pura casualidad.\rROTOM tiene la increíble capacidad de\nintroducirse en motores especiales\fy fusionarse con ellos.\rRecientemente se ha sabido que ROTOM\npuede estar dentro de un motor\fcasi indefinidamente.\rPero saldrá si entra en una\nSala Unión o en un Club Wi-Fi.\rROTOM también saldrá del motor\nsi se le deja en la Guardería.\rPuede que ROTOM también olvide ciertos\nmovimientos al abandonar un motor.\rSerá necesario analizar y observar\ndetenidamente este Pokémon.\rPara asegurarme todo el mérito, debo\nmantener en secreto mis hallazgos.\rAcabarán por reconocerme\ncomo el genio científico Plu...”\rEl resto del cuaderno está en blanco.
+                                                                                   
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                      
+                                              
+                 

@@ -1,0 +1,9 @@
+Capitán, venga, juegue conmigo.\r¡Me aburro como una ostra!\n¡Quiero jugar un poquito más!\r
+¿Eh? Ya que él no tiene ganas,\n¿quieres jugar tú conmigo?\r¡Vamos a jugar al escondite!\nPrimero me escondo yo,\ftú cierra los ojos.\r
+¿Eh? Ya que él no tiene ganas,\n¿quieres jugar tú conmigo?\r¡Vamos a jugar al escondite!\nPrimero me escondo yo,\ftú cierra los ojos.\r
+¿Eh? Ya que él no tiene ganas,\n¿quieres jugar tú conmigo?\r¡Vamos a jugar al escondite!\nPrimero me escondo yo,\ftú cierra los ojos.\r
+Esta niña no me deja en paz.\nNo para de pedirme que juegue con ella.\r¡Ay, ay! ¡No me tires de la oreja!
+Por favor, habla con ella.\rAunque parezca que no estoy haciendo\nnada, un capitán de barco está siempre\fliado con mil tareas.\rLa niña ha salido de su camarote.\nComo no puede bajar del barco, seguro\fque se ha escondido en algún sitio.
+¿Te gusta viajar en el S.S. Aqua?\rParece que prácticamente se desliza\npor encima de las olas.
+¡Cuánto tiempo! ¿Qué tal estás?\n¡El S.S. Aqua sigue como siempre!\r¿Sabes? Cuando fui a Sinnoh\nencontré una cosa muy rara.\rYa que estás tú aquí, te la voy a dar.\r
+Vaya, tu Bolsa está llena.\rPero estoy seguro de que\nquerrías tener {STRVAR_1 8, 1, 0}, ¿eh?...\n

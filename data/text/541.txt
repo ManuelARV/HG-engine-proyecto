@@ -1,0 +1,18 @@
+{STRVAR_1 3, 0, 0}: ¿Te gustan los Pokémon?\r{STRVAR_1 3, 0, 0}: No, yo solo preguntaba.\r{STRVAR_1 3, 0, 0}: ¿Eh? ¡Qué rara eres!\r
+{STRVAR_1 3, 0, 0}: Hola.\nTe gustan los Pokémon, ¿no?\r{STRVAR_1 3, 0, 0}: No, yo no.\nTe estoy preguntando.\r{STRVAR_1 3, 0, 0}: ¿Cómo? ¡Qué rara eres!\r
+Copiona: ¿Cómo? ¿Que no imite?\n¡Pero si es mi afición favorita!\r
+{STRVAR_1 3, 0, 0}: ¡Hola! Me han dicho que\nhas perdido tu Poké Muñeco favorito.\r{STRVAR_1 3, 0, 0}: Si lo encuentro, ¿me\ndarás un Magnetopase para el tren?\r{STRVAR_1 3, 0, 0}: Iré a buscarlo.\nLo perdiste en Ciudad Carmín, ¿no?\r
+{STRVAR_1 3, 0, 0}: ¡Buenas! Me dijeron que\nhas perdido tu Poké Muñeco favorito.\r{STRVAR_1 3, 0, 0}: Si lo encuentro, ¿me\ndarás un pase para el tren?\r{STRVAR_1 3, 0, 0}: Iré a buscarlo.\nLo perdiste en Ciudad Carmín, ¿no?\r
+Copiona: ¿Qué? ¿Que no te diga\nlo que debes hacer?\rEs que estoy muy preocupada...\n¿Y si alguien se lo queda?...\r
+Copiona: ¡Sí!\n¡Ese es mi Poké Muñeco CLEFAIRY!\r¿Ves el descosido que tiene\nen la pata derecha?\r¡Esa es la prueba de que es el mío!\rEstá bien. ¡Aquí tienes el pase\ndel Magnetotrén que te prometí!\r
+                   
+Copiona: Enseñando el Magnetopase\nen la estación, podrás subir\fal Magnetotrén.\rLa empresa de ferrocarriles me\nlo dio cuando derribaron nuestra\fcasa para edificar la estación.
+{STRVAR_1 3, 0, 0}: ¡Hola! Muchas gracias\npor el Magnetopase.\r{STRVAR_1 3, 0, 0}: ¿Qué?...\r{STRVAR_1 3, 0, 0}: ¿Tanto te divierte imitar\ntodo lo que hago?\r
+{STRVAR_1 3, 0, 0}: ¡Gracias por\nel Magnetopase!\r{STRVAR_1 3, 0, 0}: ... ¿Qué pasa?\r{STRVAR_1 3, 0, 0}: ¿Tan chachi es\ncopiar lo que digo y hago?\r
+Copiona: ¿Tu qué crees?\n¡Pues claro, está guachi!\r
+¡Huy, qué peluche más chulo!\r¡Guau! ¡Se ha movido!\n¡Es un BANETTE de verdad!
+BANETTE: Ba... Bane... Bane...
+¡Huy! Un Pokémon con forma\nde florecilla... ¡Es CHERRIM!
+¡Huy! Un Pokémon con forma\nde nariz... ¡Es NOSEPASS!
+¡Es un CLEFAIRY!\nO no...\r¡No! Es un Poké Muñeco CLEFAIRY.
+¡Es un Poké Muñeco CLEFAIRY!\rTiene un pequeño descosido\nen la pata derecha.

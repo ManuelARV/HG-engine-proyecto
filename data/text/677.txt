@@ -1,0 +1,14 @@
+Tina
+Eres fuerte, fuerte, fuerte.\nDebemos luchar en otra ocasión.\rDesafiar a alguien tan capaz como tú,\nme hará mejorar también a mí.\r¿Qué me dices?\n¿Me das tu número de teléfono?{YESNO 0}
+¡Debemos luchar en otra ocasión!
+Qué mal... Si cambias de idea,\ndispara telefónicamente.
+Desafiar a alguien tan capaz como tú,\nme hará mejorar también a mí.\r¿Qué me dices?\n¿Me das tu número de teléfono?{YESNO 0}
+
+¿Eh? Estás cerca, ¿no?\nVen aquí para que hablemos, venga.
+¿Recuerdas mi dulce {STRVAR_1 0, 10, 0}?\n¡Corre veloz como una gacela!\rMontar sobre su lomo cuando se\npone en marcha es muy emocionante.\r¡Adiós!
+¿Has visto un {STRVAR_1 0, 11, 0} alguna vez?\nAcabo de luchar contra uno.\rNo pensaba que fuera tan veloz.\nMe pilló a la contra y me llevé\fun sorpresón.\rAun así le vencí, por supuesto.\n¡Menuda soy yo!\r¡Adiós!
+El otro día vi un {STRVAR_1 0, 11, 0} salvaje.\rEstaba intentando atraparlo cuando me\ndi cuenta de que no tenía Poké Balls.\rComprueba qué objetos tienes y no\nlos echarás de menos cuando más\flos necesites. Aprende de mi error.\r¡Adiós!
+¿Quieres luchar?\n¡Esta vez no podrás conmigo!\rTe esperaré en {STRVAR_1 4, 3, 0}.\nBúscame, ¿vale?
+{STRVAR_1 3, 0, 0}, ¿qué pasa contigo?\r¿Has olvidado nuestro trato?\nTe espero en {STRVAR_1 4, 3, 0}.
+{STRVAR_1 3, 0, 0}, ¿qué pasa contigo?\r¿Has olvidado nuestro trato?\nTe espero en {STRVAR_1 4, 3, 0}.
+Hay que luchar otro día, ¿eh?\nNo te me escaquees.

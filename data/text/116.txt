@@ -1,0 +1,12 @@
+Buuf...\nMe desafiaron a un combate\fen el piso de abajo.\fSon muy duros. Ten mucho cuidado.
+Tú pareces una persona responsable.\n¿Por qué decidiste unirte\fal Team Rocket?
+El Team Rocket no hace más que\ncausarle problemas a todo el mundo.
+Abajo hay algunas tiendas...\rPero también hay Entrenadores.\nMe da miedo bajar ahí.
+Claro...\nEl Túnel Trigal también está abierto\fpara los miembros del Team Rocket.
+Todos los trabajadores del\nTúnel Trigal han huido.\rNadie quiere meterse en líos\ncon el Team Rocket.
+Lira: ¡Ah, {STRVAR_1 3, 0, 0}!\n¡Qué bien que estés aquí!\r
+Lira: Al fondo de este Túnel Trigal\nhay una tienda de moda.\rPuedes vestir tus Pokémon\ncon Accesorios y sacar una foto\fde recuerdo.\rEsto es una Caja Corazón,\npara los Accesorios.\r¿La quieres?\n¡Muy bien! ¡Te la regalo!\r
+Lira: Si consigues algún Accesorio,\npuedes guardarlo aquí.\rBueno, yo ya me voy.\n¡Hasta otra!\r
+Eco: ¡Ah, {STRVAR_1 3, 0, 0}!\n¡Qué bien que estés aquí!\r
+Eco: Al fondo de este Túnel Trigal\nhay una tienda de moda.\rPuedes vestir tus Pokémon\ncon Accesorios y sacar una foto\fde recuerdo.\rEsto es una Caja Corazón,\npara los Accesorios.\r¿La quieres?\n¡Muy bien! ¡Te la regalo!\r
+Eco: Si consigues algún Accesorio,\npuedes guardarlo aquí.\rBueno, yo ya me voy.\n¡Hasta otra!\r

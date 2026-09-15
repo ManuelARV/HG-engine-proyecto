@@ -1,0 +1,15 @@
+Elvis
+¿Quieres mi número de teléfono?{YESNO 0}
+Cuando me pique el gusanillo\ndel combate, te llamo.
+Vaya, yo que pensaba darte cualquier\ncosa que encontrara por aquí...
+¡Quieres mi número de teléfono!{YESNO 0}
+¡Has venido!\rTe daré unas Bayas que han encontrado\nmis Pokémon.\r
+¿Para qué me llamas si estás tan cerca?\nNunca había visto a alguien como tú.
+Mi {STRVAR_1 0, 10, 0} está progresando\nadecuadamente y sin pausa.\r¡Ni un {STRVAR_1 0, 11, 0} podrá ganarle!
+¡Oye, oye!\rHace unos días, por fin encontré\nun {STRVAR_1 0, 11, 0}, pero se me escapó.\r¡Me quedé con las ganas! ¡Vaya chasco\nme llevé! ¡Quería pillarlo a toda costa!
+¿Ya has capturado algún {STRVAR_1 0, 11, 0}?\n¡Por aquí hay cantidad!
+Mis Pokémon son superiores.\n¿Quieres combatir?\rEstoy en {STRVAR_1 4, 3, 0}.\nBúscame cuando llegues.
+¿Dónde estás?\n¿Cerca de {STRVAR_1 4, 3, 0}?\rNo has olvidado nuestro combate,\nsupongo.
+Estaba andando por el bosque\nbuscando Pokémon y adivina qué.\f¡Me corté con una hoja!\rMe salió un poco de sangre,\npero nada grave. Estoy hecho un roble.
+¡Mis Pokémon han encontrado Bayas!\rEstoy en {STRVAR_1 4, 3, 0},\nven a por ellas.
+Quiero darte las Bayas, pero\nsi no vienes a {STRVAR_1 4, 3, 0},\fme parece que va a ser que no.

@@ -1,0 +1,17 @@
+¡Oye, oye!\nUn amigo me escribió hace poco y\fle he contestado, pero no puedo\firme de aquí para mandarle la Carta.\r¿Podrías dársela tú?\nEstá en la Ruta 31.\f¿Me harías ese favor?{YESNO 0}
+¿No? No pasa nada...\nSerá que tienes cosas que hacer...
+¡Hala!\n¡Tienes muchos Pokémon!
+¡Ah, qué bien! ¡Gracias!\r
+¡{STRVAR_1 3, 0, 0} ha recibido un SPEAROW\ncon una Carta!
+Mi amigo está en la Ruta 31.\rCuando te cruces con un chico\ncon ganas de leer una Carta,\fno lo dudes, ¡seguro que es él!
+Mi amigo está en la Ruta 31.\r¡Ah!... ¡Ahora que lo pienso!\nHabía un árbol un tanto raro\fen medio del camino.\fNo sé si ya se podrá pasar...
+¡Gracias por entregarle la Carta!\r¿Qué?... ¿Una expedición en una cueva?\n¡Ah, sí!\fSe puede salir por aquí...\rQuiero darte esto por haber sido\ntan amable conmigo.\r
+¿A que mi amigo estaba durmiendo?\n¡Siempre está medio grogui!
+¡¿Cómooo?!\n¿Que has perdido mi Carta?\fVaya chasco...\fBueno. Ya no hay nada qué hacer...
+Hoy no quiero saber nada más.
+Un extraño árbol bloquea el camino.\nSi le hablas, se mueve.\rDicen que se volvió loco cuando\nalguien lo mojó con una Regadera.
+Me gusta la Nana Pokémon\nque ponen en la radio.
+Hay que ver... que solo haga falta algo\ntan simple para poder escuchar la radio\fen el Pokégear... ¡Qué cosas!\r¿Cómo? ¿Que tu Pokégear todavía\nno recibe las emisiones de radio?\fPues es una pena.\rAhora mismo están haciendo un concurso\nen el vestíbulo de la Torre Radio.\rSi aciertas todas las preguntas,\nganas una Tarjeta Radio.\r¡Yo de ti iría pitando a participar\nantes de que se acabe la promoción!
+Aunque sea una abuela, sé unas\ncuantas cosas sobre tecnología\fmoderna. ¿Quieres que te enseñe\fa usar la radio?{YESNO 0}
+Abre el Pokégear y pulsa\nel botón de la radio.\rEntonces aparecerá la pantalla\npara sintonizar las emisoras.\rEn el centro está el cuadro para\nsintonizar con un cursor que parpadea.\rSi mueves el cursor, podrás\ncambiar de emisora y escuchar\fdistintos programas.\rY para los que les cuesta demasiado\nese sistema, también hay cuatro\fbotones para cambiar de emisora\ffácilmente.
+Vaya, disculpa si te he molestado.

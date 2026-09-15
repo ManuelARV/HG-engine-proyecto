@@ -1,0 +1,15 @@
+Aníbal: ¡Uoooohh!\r¿Dónde está el agua de la cascada\nque se precipita violentamente\fsobre mi cabeza?\r¿Has cerrado la compuerta?\n¿Cómo te atreves a interrumpir\fmi entrenamiento?\r¡Vas a ver lo duro que soy!\nMedito a diario bajo esta cascada.\r¿Qué?\n¿No le ves la relación con los Pokémon?\r...\nQuizá tengas razón...\r...\n...\rEstá bien. ¡Prepárate para luchar!\r
+Uuhh...\n...\r¡Aaaargh!
+¿Qué? Te has quedado sin palabras ¿no?\r¿No le ves la relación con los Pokémon?\n¡Quizá tengas razón!\fEstá bien. ¡Prepárate para luchar!\r
+Aníbal: ¿Qué?\n¿He perdido? ¿Cómo es posible?\r¡Está bien! ¡Te mereces\nla Medalla Tormenta!\r
+¡{STRVAR_1 3, 0, 0} ha recibido\nla Medalla Tormenta de Aníbal!
+Aníbal: La Medalla Tormenta te permite\nusar Vuelo para volver a cualquier\fpueblo o ciudad que ya hayas visitado.\r¡Y toma esto también!\r
+Aníbal: ¡La Máquina Técnica 01 contiene\nPuño Certero!\rSi atacan a tu Pokémon mientras\nlo está usando, fallará.\rPero si completa el movimiento\ncausará un grave daño al oponente.
+Mmm... ¡Tu Bolsa está llena!
+Aníbal: ¡Ja, ja, ja!\n¡He disfrutado mucho!\r¡Pero una derrota es una derrota!\n¡Desde hoy, entrenaré 24 horas al día!
+Está tan concentrado que no oye nada.
+Hay una rueda grande.\n¿Quieres girarla?{YESNO 0}
+¡{STRVAR_1 3, 0, 0} gira la rueda\ncon toda su fuerza!\r
+Ya no gira más.
+Gimnasio Pokémon de Ciudad Orquídea
+Gimnasio Pokémon de Ciudad Orquídea\rLíder: Aníbal\nEntrenadores reconocidos:\f{STRVAR_1 3, 0, 0}

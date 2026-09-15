@@ -1,0 +1,2 @@
+No se han podido leer los datos.\n\nPor favor, apaga la consola y vuelve\na insertar la tarjeta DS.
+No se han podido leer los datos.\n\nPor favor, apaga la consola y vuelve\na insertar el cartucho de GBA.

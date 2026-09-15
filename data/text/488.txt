@@ -1,0 +1,19 @@
+Soy el Presidente del Club de Fans\nde Pokémon.\rHe cuidado a más de 150 Pokémon.\rCuando se trata de Pokémon\ntengo cuerda para rato.\r¿Has venido para saber de mis\nPokémon? {YESNO 0}
+¡Bien!\n¡Pues, escucha!\rMi favorito es...\nYo diría que RAPIDASH...\rPorque... ya sabes... es...\n..tan cariñoso... y...\f¡Guau! ¡Es que me encanta!\fY además... también es...\f¡Bueno, un montón de cosas más!\fEso es lo que opino...\f¡Ah!\rY me gusta abrazarlo...\n¡Es que es como un peluche suavísimo!\fEs el mejor, ¿eh?\fEstupendo...\fprecioso...\fmagnífico...\f¡Anda!\f¡Pero mira qué hora es!\f¡Hablo por los codos!\r¡Quiero darte esto como agradecimiento\npor aguantar mi charla sin rechistar!\r
+                    
+Es un Carameloraro que fortalece\nlos Pokémon.\rPrefiero que mis Pokémon luchen\npara fortalecerse.\r¡Así que toma!
+¡Hey, {STRVAR_1 3, 0, 0}!\r¿Te digo algo sobre mis Pokémon?\r¿No? Oh... Tengo más historias\nque contar...
+¡Hey, {STRVAR_1 3, 0, 0}!\r¿Te digo algo sobre mis Pokémon?\r¿No? Oh... Tengo más historias\nque contar...
+¡Qué pena!...\r¡Vuelve cuando quieras oír\nmás historias!
+¡Tu Bolsa está llena!
+Al Presidente le encanta hablar\ncuando se trata de Pokémon...
+Me encanta cuando levanta los bracitos\ny hace esos gestos tan monos.\r¡Ayyy!\n¡CLEFAIRY es tan adorable!
+Me encantan los CLEFAIRY\npero jamás podría capturar uno.\rPor eso me conformo con este\nPoké Muñeco CLEFAIRY\fque he encontrado.
+Me encantan los CLEFAIRY\npero jamás podría capturar uno.\rPor eso me conformo con este\nPoké Muñeco de CLEFAIRY\fque he encontrado.\r¿Qué? ¿Dices que la niña que perdió\neste Poké Muñeco está triste?\rEntiendo. Devuélveselo a esa niña.\rUn día me haré amigo\nde un CLEFAIRY real.\r¡No te preocupes!\r
+¡{STRVAR_1 3, 0, 0} ha obtenido\nun Poké Muñeco CLEFAIRY!
+¡Ya verás! Voy a hacerme amigo de\nun auténtico CLEFAIRY.
+¡Mira mi precioso BAYLEEF!\n¡Lleva una hoja tan mona!
+¡Es un CLEFAIRY!\n...\rAh, no... Es un Poké Muñeco CLEFAIRY...
+BAYLEEF: ¡Liliif!
+Si un Entrenador alardea de sus\nexperiencias, escúchalo atentamente.
+Si un Entrenador alardea de sí mismo,\nhazlo tú también, ¡pero diez veces más!

@@ -1,0 +1,133 @@
+Te doy la bienvenida a la Torre Batalla.\rSoy la guía de las Salas de Combate\nIndividual y Doble.\r
+¿Te atreves con las Salas\nde Combate?{YESNO 0}
+¡Esperamos volver a verte!
+La Torre Batalla está pensada para\ncombates individuales y dobles.\rEn cuanto entres, el reto continuará\nhasta que pierdas.\rEn el Combate Individual participas\ncon tres Pokémon.\rEn el Combate Doble participas\ncon cuatro Pokémon.\rLos combates se llevan a cabo\nen Salas de Combate, de las que\fhay muchas en la Torre.\rEn cada Sala de Combate\nte esperan siete combates.\rSi consigues vencer en los siete,\nobtendrás Puntos de Batalla (PB).\rSi quieres interrumpir el desafío,\nno olvides guardar antes la partida.\rSi no la guardas, se te descalificará.\r
+¿Qué Sala de Combate prefieres?\n¿Individual o Doble?{YESNO 0}
+                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                  
+                                    
+Selecciona los Pokémon\ncon los que deseas luchar.\r
+Todos los Pokémon deben ser distintos.\r
+Los objetos usados deben ser distintos.\r
+Ahora voy a mostrarte\nla Sala de Combate.
+¡Enhorabuena! ¡Has vencido\nen los siete combates!\r
+¡Enhorabuena!\n¡Has derrotado al Amo Torre!\rEn reconocimiento a tu gran talento,\nrecibirás Puntos de Batalla.\r{STRVAR_1 3, 0, 0} ha obtenido {STRVAR_1 50, 1, 0} PB.\r
+Guardando...\nNo apagues la consola.
+¡Vuelve siempre que quieras!
+¡Te estábamos esperando!\rAntes de entrar en la Sala de Combate,\nse guardará la partida.\rEspera, por favor.
+                      
+         
+¡Vaya!\rNo guardaste a la hora de abandonar\nel desafío la última vez...\rEso quiere decir que, ejem,\nse te ha descalificado...\r
+Te doy la bienvenida a la Torre Batalla.\rSoy la guía de las Salas\nde Combate Múltiple.\r
+¿Aceptas el desafío de la Sala\nde Combate Múltiple?{YESNO 0}
+                          
+Las Salas de Combate Múltiple de la\nTorre Batalla están pensadas para\fcombates múltiples con otra persona.\rDebes formar equipo con otro\nEntrenador y cada uno\fparticipa con dos Pokémon.\rEn el Salón Batalla que hay dentro\nde la torre puedes reunirte\fcon otros Entrenadores.\rAllí encontrarás gente para formar\nequipo en los combates múltiples.\rTambién puedes formar equipo con un\namigo con la comunicación inalámbrica.\rCuando tengas equipo, se te llevará a\nuna Sala de Combate Múltiple.\rEn ella te esperan siete equipos\npara completar el desafío.\rSi consigues vencer en los siete,\nobtendrás Puntos de Batalla (PB).\rSi quieres interrumpir el desafío,\nno olvides guardar antes la partida.\rSi no la guardas, se te descalificará.\rAdemás, si formas equipo con un amigo,\nno podrás interrumpir el desafío.\r
+                                                                                                                                                                                                                                                                   
+                                    
+¿Quieres comunicarte con un amigo\npara formar un equipo?{YESNO 0}
+Un Entrenador debe elegir\n“HACER DE LÍDER”.\rEl otro Entrenador debe elegir\n“UNIRSE”.{YESNO 0}
+                          
+               
+                 
+                     
+Voy a llevarte a tu Sala de\nCombate Múltiple.
+¡Ambos Entrenadores habéis elegido\nel Pokémon {STRVAR_1 0, 0, 0}!\rHabla con la otra persona y\nelegid Pokémon diferentes.\r
+¡Ambos habéis elegido los Pokémon\n{STRVAR_1 0, 0, 0} y {STRVAR_1 0, 1, 0}!\rHabla con la otra persona y\nelegid Pokémon diferentes.\r
+Ahora voy a enseñarte el Salón Batalla.\r
+Te doy la bienvenida a la Torre Batalla.\rSoy la guía de las Salas\nde Combate Wi-Fi.\r
+¿Quieres enfrentarte al desafío de\nla Sala de Combate Wi-Fi?{YESNO 0}
+Las Salas de Combate Wi-Fi de la Torre\nBatalla están pensadas para combates a\ftravés de la Conexión Wi-Fi de Nintendo.\rAllí podrás luchar contra gente\nde todo el mundo.\rEn la Torre Batalla hay numerosas\nSalas de Combate.\rEn cada Sala de Combate te esperan\nsiete Entrenadores.\rSi consigues derrotar a los siete,\nobtendrás Puntos de Batalla.\r¡Si lo haces realmente bien, incluso\npuedes llegar a ser líder de la Sala!\rAdemás, las Salas de Combate Wi-Fi\ncuentan con un sistema de clasificación.\rPara subir en la clasificación, tienes\nque ganar Combates Wi-Fi.\rEn cambio, si pierdes combates,\ndescenderás en la clasificación.\rTu ascenso depende del número de\nvictorias y del nivel de tus rivales.\rSi deseas interrumpir el desafío,\nno olvides guardar la partida.\rSi no lo haces, se te descalificará.\r
+¡Vuelve cuando quieras!
+                                
+                                                                                                                                                                                                                                                                      
+                          
+               
+                 
+                                                       
+                             
+Bueno, voy a llevarte\na tu Sala de Combate.\r¿Todo preparado?{YESNO 0}
+¿Quieres guardar la partida e\ninterrumpir el desafío?{YESNO 0}
+                        
+                               
+                      
+He descargado el historial de líderes de\nla Sala de Combate {STRVAR_1 52, 1, 0} de nivel {STRVAR_1 51, 0, 0}.\rConfírmalo en el monitor de rendimiento\nsituado junto a mí.
+¡Gracias por participar!\r
+¡Enhorabuena!\n¡Has vencido en los siete combates!\r
+¡{STRVAR_1 3, 0, 0}, has conseguido\nel nivel {STRVAR_1 51, 1, 0}!\r
+Guardando...\nNo apagues la consola.
+¿Quieres enviar estos resultados\nmediante la Conexión Wi-Fi\fde Nintendo?{YESNO 0}
+¡Has ganado siete veces seguidas,\npor lo que te damos estos\fPuntos de Batalla!\r{STRVAR_1 3, 0, 0} ha obtenido {STRVAR_1 50, 1, 0} PB.\r
+                          
+Tus resultados se han enviado mediante\nla Conexión Wi-Fi de Nintendo.\r
+Me alegro de volver a verte.\rNo enviamos tus anteriores resultados\nmediante la Conexión Wi-Fi de Nintendo.\r¿Deseas hacerlo ahora?{YESNO 0}
+                                          
+                          
+           
+Lo sentimos profundamente,\npero has bajado al nivel {STRVAR_1 51, 0, 0}...\r
+                                 
+                          
+                           
+Se va a guardar tu récord.\nEspera...
+¡Enhorabuena, has conseguido\nel nivel {STRVAR_1 51, 0, 0}!\r¡Tu equipo de Pokémon ha recibido\nCintas especiales por ganar!
+                                            
+                    
+¡Enhorabuena por conseguir 50\nvictorias consecutivas!\r¡Tu equipo de Pokémon ha obtenido\nCintas especiales!
+El Frente de Batalla es un lugar\nimpresionante.\r¡He oído que hay sitios parecidos\nfuera de Johto!
+¡Hola! Aquí se puede aumentar\nel nivel de tu Poké...\r¡Huy! Todo por la costumbre...\rHoy estoy aquí para pasármelo bien.\nEs mi día libre.
+¿Yo?\nAcabo de empezar en el mundillo de\rla música y aún no tengo mucho trabajo,\npor eso me paso por aquí de vez\fen cuando y echo unos combates.
+Hemos entrenado hasta que\nno podíamos más.\rVamos a conseguir 50 victorias\nseguidas con toda seguridad...\r¿Verdad, PIKACHU?
+PIKACHU:...
+¿Sabes? Desde pequeño este ascensor\ntransparente me vuelve loco.\r¿He conseguido engañarte? ¡Era broma!\rCuando era niño no existían ascensores\ntan elegantes como este.
+¡Je, je, je!\n¡Todos parecen unos debiluchos!\rAunque... mejor no confiarse, que\nluego nos la dan con queso, ¿vale?\rPIKACHU, tú con cautela.\n
+PIKACHU: ¡Pika, pika!
+¡Enhorabuena! ¡Has conseguido 50\nvictorias seguidas!\rLos Pokémon de tu equipo recibirán\nCintas conmemorativas.
+¡Enhorabuena! ¡Has alcanzado el\nnivel {STRVAR_1 50, 0, 0}!\rLos Pokémon de tu equipo\nrecibirán Cintas conmemorativas.
+¡Enhorabuena!\n¡Has derrotado al Amo Torre!\rLos Pokémon de tu equipo recibirán\nCintas conmemorativas.
+¡Enhorabuena!\r¡Para celebrar tu victoria te damos\neste regalo conmemorativo!\r
+¡Se ha añadido la Foto Dorada\na la Cámara Lucha de {STRVAR_1 3, 0, 0}!\r
+¡Se ha añadido la Foto Plateada\na la Cámara Lucha de {STRVAR_1 3, 0, 0}!\r
+¡Enhorabuena! ¡Has conseguido {STRVAR_1 52, 0, 0}\nvictorias seguidas!\r¡Te obsequiamos con este trofeo como\npremio por tu fantástico logro!\r¡Te lo enviamos directamente a tu casa!\r
+Vaya, te has quedado sin espacio\npara objetos decorativos.\rVuelve a por tu premio cuando\nhayas hecho hueco.
+¡Ambos habéis elegido los Pokémon\n{STRVAR_1 0, 0, 0} y {STRVAR_1 0, 1, 0}!\rHabla con la otra persona y\nelegid Pokémon diferentes.
+¡Lo siento!\rNo tienes {STRVAR_1 50, 0, 0} Pokémon disponibles.\rNecesitas {STRVAR_1 50, 0, 0} Pokémon diferentes\npara poder participar.\rAdemás, tienen que llevar diferentes\ntipos de objetos.\rLos Huevos no pueden participar.\rVuelve cuando tengas\ntodo lo necesario.
+¡Lo siento!\rNo tienes {STRVAR_1 50, 0, 0} Pokémon disponibles.\rNecesitas {STRVAR_1 50, 0, 0} Pokémon diferentes\npara poder participar.\rAdemás, tienen que llevar diferentes\ntipos de objetos.\rLos Huevos y {STRVAR_1 0, 1, 0}\nno pueden participar.\rVuelve cuando tengas\ntodo lo necesario.
+¡Lo siento!\rNo tienes {STRVAR_1 50, 0, 0} Pokémon disponibles.\rNecesitas {STRVAR_1 50, 0, 0} Pokémon diferentes\npara poder participar.\rAdemás, tienen que llevar diferentes\ntipos de objetos.\rLos Huevos, {STRVAR_1 0, 1, 0} y\n{STRVAR_1 0, 2, 0} no pueden participar.\rVuelve cuando tengas\ntodo lo necesario.
+¡Lo siento!\rNo tienes {STRVAR_1 50, 0, 0} Pokémon disponibles.\rNecesitas {STRVAR_1 50, 0, 0} Pokémon diferentes\npara poder participar.\rAdemás, tienen que llevar diferentes\ntipos de objetos.\rLos Huevos, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0}\ny {STRVAR_1 0, 3, 0} no pueden participar.\rVuelve cuando tengas\ntodo lo necesario.
+¡Lo siento!\rNo tienes {STRVAR_1 50, 0, 0} Pokémon disponibles.\rNecesitas {STRVAR_1 50, 0, 0} Pokémon diferentes\npara poder participar.\rAdemás, tienen que llevar diferentes\ntipos de objetos.\rLos Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0} y\f{STRVAR_1 0, 4, 0} no pueden participar.\rVuelve cuando tengas\ntodo lo necesario.
+¡Lo siento!\rNo tienes {STRVAR_1 50, 0, 0} Pokémon disponibles.\rNecesitas {STRVAR_1 50, 0, 0} Pokémon diferentes\npara poder participar.\rAdemás, tienen que llevar diferentes\ntipos de objetos.\r¡No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0} ni {STRVAR_1 0, 5, 0}!\rVuelve cuando tengas\ntodo lo necesario.
+¡Lo siento!\rNo tienes {STRVAR_1 50, 0, 0} Pokémon disponibles.\rNecesitas {STRVAR_1 50, 0, 0} Pokémon diferentes\npara poder participar.\rAdemás, tienen que llevar diferentes\ntipos de objetos.\r¡No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0} ni\n{STRVAR_1 0, 6, 0}!\rVuelve cuando tengas\ntodo lo necesario.
+¡Lo siento!\rNo tienes {STRVAR_1 50, 0, 0} Pokémon disponibles.\rNecesitas {STRVAR_1 50, 0, 0} Pokémon diferentes\npara poder participar.\rAdemás, tienen que llevar diferentes\ntipos de objetos.\r¡No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n{STRVAR_1 0, 6, 0} ni {STRVAR_1 0, 7, 0}!\rVuelve cuando tengas\ntodo lo necesario.
+¡Lo siento!\rNo tienes {STRVAR_1 50, 0, 0} Pokémon disponibles.\rNecesitas {STRVAR_1 50, 0, 0} Pokémon diferentes\npara poder participar.\rAdemás, tienen que llevar diferentes\ntipos de objetos.\r¡No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0} ni\f{STRVAR_1 0, 8, 0}!\rVuelve cuando tengas\ntodo lo necesario.
+¡Lo siento!\rNo tienes {STRVAR_1 50, 0, 0} Pokémon disponibles.\rNecesitas {STRVAR_1 50, 0, 0} Pokémon diferentes\npara poder participar.\rAdemás, tienen que llevar diferentes\ntipos de objetos.\r¡No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0} ni {STRVAR_1 0, 9, 0}!\rVuelve cuando tengas\ntodo lo necesario.
+¡Lo siento!\rNo tienes {STRVAR_1 50, 0, 0} Pokémon disponibles.\rNecesitas {STRVAR_1 50, 0, 0} Pokémon diferentes\npara poder participar.\rAdemás, tienen que llevar diferentes\ntipos de objetos.\r¡No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0} ni\n{STRVAR_1 0, 10, 0}!\rVuelve cuando tengas\ntodo lo necesario.
+¡Lo siento!\rNo tienes {STRVAR_1 50, 0, 0} Pokémon disponibles.\rNecesitas {STRVAR_1 50, 0, 0} Pokémon diferentes\npara poder participar.\rAdemás, tienen que llevar diferentes\ntipos de objetos.\r¡No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\n{STRVAR_1 0, 10, 0} ni {STRVAR_1 0, 11, 0}!\rVuelve cuando tengas\ntodo lo necesario.
+¡Lo siento!\rNo tienes {STRVAR_1 50, 0, 0} Pokémon disponibles.\rNecesitas {STRVAR_1 50, 0, 0} Pokémon diferentes\npara poder participar.\rAdemás, tienen que llevar diferentes\ntipos de objetos.\r¡No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\n{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0} ni\f{STRVAR_1 0, 12, 0}!\rVuelve cuando tengas\ntodo lo necesario.
+¡Lo siento!\rNo tienes {STRVAR_1 50, 0, 0} Pokémon disponibles.\rNecesitas {STRVAR_1 50, 0, 0} Pokémon diferentes\npara poder participar.\rAdemás, tienen que llevar diferentes\ntipos de objetos.\r¡No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\n{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\f{STRVAR_1 0, 12, 0} ni {STRVAR_1 0, 13, 0}!\rVuelve cuando tengas\ntodo lo necesario.
+¡Lo siento!\rNo tienes {STRVAR_1 50, 0, 0} Pokémon disponibles.\rNecesitas {STRVAR_1 50, 0, 0} Pokémon diferentes\npara poder participar.\rAdemás, tienen que llevar diferentes\ntipos de objetos.\r¡No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\n{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\r{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0} ni\n{STRVAR_1 0, 14, 0}!\rVuelve cuando tengas\ntodo lo necesario.
+¡Lo siento!\rNo tienes {STRVAR_1 50, 0, 0} Pokémon disponibles.\rNecesitas {STRVAR_1 50, 0, 0} Pokémon diferentes\npara poder participar.\rAdemás, tienen que llevar diferentes\ntipos de objetos.\r¡No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\n{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\r{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0},\n{STRVAR_1 0, 14, 0} ni {STRVAR_1 0, 15, 0}!\rVuelve cuando tengas\ntodo lo necesario.
+¡Lo siento!\rNo tienes {STRVAR_1 50, 0, 0} Pokémon disponibles.\rNecesitas {STRVAR_1 50, 0, 0} Pokémon diferentes\npara poder participar.\rAdemás, tienen que llevar diferentes\ntipos de objetos.\r¡No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\n{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\r{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0},\n{STRVAR_1 0, 14, 0}, {STRVAR_1 0, 15, 0} ni\f{STRVAR_1 0, 16, 0}!\rVuelve cuando tengas\ntodo lo necesario.
+¡Lo siento!\rNo tienes {STRVAR_1 50, 0, 0} Pokémon disponibles.\rNecesitas {STRVAR_1 50, 0, 0} Pokémon diferentes\npara poder participar.\rAdemás, tienen que llevar diferentes\ntipos de objetos.\r¡No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\n{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\r{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0},\n{STRVAR_1 0, 14, 0}, {STRVAR_1 0, 15, 0},\f{STRVAR_1 0, 16, 0} ni {STRVAR_1 0, 17, 0}!\rVuelve cuando tengas\ntodo lo necesario.
+¡Lo siento!\rNo tienes {STRVAR_1 50, 0, 0} Pokémon disponibles.\rNecesitas {STRVAR_1 50, 0, 0} Pokémon diferentes\npara poder participar.\rAdemás, tienen que llevar diferentes\ntipos de objetos.\r¡No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\n{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\r{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0},\n{STRVAR_1 0, 14, 0}, {STRVAR_1 0, 15, 0},\r{STRVAR_1 0, 16, 0}, {STRVAR_1 0, 17, 0} ni\n{STRVAR_1 0, 18, 0}!\rVuelve cuando tengas\ntodo lo necesario.
+¡Gracias por participar!\n¡Vuelve cuando quieras!
+Parece que aún no hay datos...
+La comunicación inalámbrica de\nNintendo DS se iniciará. ¿Seguir?{YESNO 0}
+Esperamos que vuelvas a visitarnos.\r
+Puedes llamarme Juez.\rJe, je, no es mi nombre de verdad,\nclaro, pero todo el mundo me llama así.\rEs porque tengo un poder extraño...\nBueno, un don, más bien.\rPuedo percibir o juzgar el potencial\nde un Pokémon.\rSi quieres, puedo juzgar el potencial\nde tus Pokémon.\r
+Si quieres, puedo juzgar el potencial\nde tus Pokémon.\r
+Ah... No me necesitas para juzgarlo.\nVale, vale, ya lo capto.
+¡¿Que juzgue un Huevo?!\nEso es demasiado hasta para mí.\r
+Ya veo, ya veo...\rEl potencial de este Pokémon\nno está nada mal.\rEse es mi juicio definitivo.\r
+Ya veo, ya veo...\rEl potencial de este Pokémon\nes superior a la media.\rEse es mi juicio definitivo.\r
+Ya veo, ya veo...\rEste Pokémon tiene\nun potencial excelente.\rEse es mi juicio definitivo.\r
+Ya veo, ya veo...\rEste Pokémon tiene un potencial\nextraordinario.\rEse es mi juicio definitivo.\r
+Por cierto, diría que su potencial\nradica en sus PS.\r
+Por cierto, diría que su potencial\nradica en su Ataque.\r
+Por cierto, diría que su potencial\nradica en su Defensa.\r
+Por cierto, diría que su potencial\nradica en su Ataque Especial.\r
+Por cierto, diría que su potencial\nradica en su Defensa Especial.\r
+Por cierto, diría que su potencial\nradica en su Velocidad.\r
+Es bastante bueno en ese aspecto.\nAsí lo juzgo yo, al menos.
+Es bastante bueno en ese aspecto.\nAsí lo juzgo yo, al menos.
+Es fantástico en ese aspecto.\nAsí lo juzgo yo, al menos.
+Es inmejorable en ese aspecto.\nAsí lo juzgo yo, al menos.
+¡A cada Pokémon participante\nse le ha otorgado una Cinta!

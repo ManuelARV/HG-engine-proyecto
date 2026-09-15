@@ -1,0 +1,19 @@
+Lira: ¡{STRVAR_1 3, 0, 0}!\rEl Profesor Elm te andaba buscando.\n¿Ya has ido a verle al Laboratorio?\n
+Eco: ¡{STRVAR_1 3, 0, 0}!\rEl Profesor Elm te andaba buscando.\n¿Ya has ido a verle al Laboratorio?\n
+Lira: Mi MARILL es una ricura...\n¡Pero reconozco que el {STRVAR_1 0, 1, 0}\fque has recibido no tiene nada\fque envidiarle!
+Eco: Mi MARILL es muy chulo...\n¡Pero reconozco que el {STRVAR_1 0, 1, 0}\fque has recibido no tiene nada\fque envidiarle!
+MARILL: ¡Maaarill!
+Lira: Es bastante chocante.\rCuando llevas un Pokémon a tu lado\npuede pasar de todo.\r{STRVAR_1 3, 0, 0}...\rLleva tus Pokémon contigo\na todas partes y ve hablándoles\fde vez en cuando.\r¡Ya verás como descubres un montón\nde cosas nuevas!
+Eco: Es bastante chocante.\rCuando llevas un Pokémon a tu lado\npuede pasar de todo.\r{STRVAR_1 3, 0, 0}...\rLleva a tus Pokémon contigo a todas\npartes y ve hablándoles de vez\fen cuando.\r¡Ya verás como descubres un montón\nde cosas nuevas!
+Lira: ¡Ah, {STRVAR_1 3, 0, 0}!\n¿Cómo están tus Pokémon?\fHáblales de vez en cuando...\r¿Eh?... Ese Pokémon lleva\nuna especie de hoja...\r¡¿No será una Hoja Dorada?!\rDicen que solo pueden encontrarlas\nlos Pokémon que han establecido\ffuertes vínculos con las personas.\rY que si reúnes cinco puedes hacerte\nuna magnífica corona con ellas.\r¡Es fantástico!\n¡Tiene mucho mérito, {STRVAR_1 3, 0, 0}!\rSi encuentras más hojas de estas,\nenséñamelas, ¿vale?
+Eco: ¡Ah, {STRVAR_1 3, 0, 0}!\n¿Cómo están tus Pokémon?\fHáblales de vez en cuando...\r¿Eh?... Ese Pokémon lleva\nuna especie de hoja...\r¡¿No será una Hoja Dorada?!\rDicen que solo pueden encontrarlas\nlos Pokémon que han establecido\ffuertes vínculos con las personas.\rY que si reúnes cinco puedes hacerte\nuna magnífica corona con ellas.\r¡Es fantástico!\n¡Tiene mucho mérito, {STRVAR_1 3, 0, 0}!\rSi encuentras más hojas de estas,\nenséñamelas, ¿vale?
+Lira: ¡Ah, {STRVAR_1 3, 0, 0}!\n¿Cómo están tus Pokémon?\rHáblales de vez en cuando\ny te ganarás su afecto.\r...\r¡Hala! ¿Tienes Hojas Doradas?\rDéjame contar...\n¡Sí, por ahora tienes {STRVAR_1 50, 1, 0}!\f¡Vas muy bien!\r¿Por qué no intentas encontrar {STRVAR_1 50, 2, 0} más?
+Eco: ¡Ah, {STRVAR_1 3, 0, 0}!\n¿Cómo están tus Pokémon?\rHáblales de vez en cuando\ny te ganarás su afecto.\r...\r¡Hala! ¿Tienes Hojas Doradas?\rDéjame contar...\n¡Sí, por ahora tienes {STRVAR_1 50, 1, 0}!\f¡Vas muy bien!\r¿Por qué no intentas encontrar {STRVAR_1 50, 2, 0} más?
+Lira: ¡Ah, {STRVAR_1 3, 0, 0}!\n¿Cómo están tus Pokémon?\rHáblales de vez en cuando\ny te ganarás su afecto.\r...\r¡Hala! ¿Ya has encontrado cinco\nHojas Doradas?\r¡Qué bien! ¡Déjamelas!\nVoy a hacerte una corona con ellas.\rY además...\r¡Te doy esto de recuerdo!\r
+Eco: ¡Ah, {STRVAR_1 3, 0, 0}!\n¿Cómo están tus Pokémon?\rHáblales de vez en cuando\ny te ganarás su afecto.\r...\r¡Hala! ¿Ya has encontrado cinco\nHojas Doradas?\r¡Qué bien! ¡Déjamelas!\nVoy a hacerte una corona con ellas.\rY además...\r¡Te doy esto de recuerdo!\r
+Lira: Sigue ganándote el afecto\nde tus Pokémon, ¿eh?
+Eco: Sigue ganándote el afecto\nde tus Pokémon, ¿eh?
+Lira: ¡Ah, {STRVAR_1 3, 0, 0}!\n¿Cómo están tus Pokémon?\rHáblales de vez en cuando\ny te ganarás su afecto.\r...\rAh, vale.\n¿Vienes a ver el cuadro de honor\fde {STRVAR_1 1, 1, 0}?\r
+Eco: ¡Ah, {STRVAR_1 3, 0, 0}!\n¿Cómo están tus Pokémon?\rHáblales de vez en cuando\ny te ganarás su afecto.\r...\rAh, vale.\n¿Vienes a ver el cuadro de honor\fde {STRVAR_1 1, 1, 0}?\r
+¡Es una consola Wii!\n¡Está de moda hasta en Johto!
+¡No está bien manosear\nel PC de otra persona!

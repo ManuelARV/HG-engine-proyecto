@@ -1,0 +1,15 @@
+Radomir
+¡Ey, dame tu número de teléfono,\nfigura!{YESNO 0}
+¡Llámame de vez en cuando!\n¡Yo también te daré un toque!
+¡Pues vaya...!
+¡Ey, eh! ¡Ahora sí que me vas a dar\ntu teléfono, ¿a que sí?{YESNO 0}
+¡Jua, jua, jua! ¡{STRVAR_1 3, 0, 0}!\nAhora que quieres la Piedra Alba,\fsí que vienes, ¿no?\rVale, toma.\n¡Y ahora esfúmate!\r
+Es muy peligroso llamar mientras vas\npor el Camino de Bicis.\rSi estás cerca, ven hasta aquí.
+¡Mi {STRVAR_1 0, 10, 0} está hecho un mulo!\n¡Es muy fuerte!\rHace nada tumbó un {STRVAR_1 0, 11, 0}\nen dos segundos.\r¿Qué? ¿Que exagero?\n¡Anda y calla! ¡Tú qué sabrás!
+Mi {STRVAR_1 0, 10, 0} está cada día más\ntremendo. Si sigue así, vamos a ir\fa por un {STRVAR_1 0, 11, 0}.
+Hace unos días salió a mi encuentro\nun {STRVAR_1 0, 11, 0}.\rAl tratar de esquivarlo, me pegué\nun tortazo con la Bici.\rMenos mal que acabé solo\ncon un par de rasguños.\rAunque no lo parezca, yo me preocupo\npor los Pokémon salvajes.
+¡Eh! ¡Estoy en {STRVAR_1 4, 3, 0}!\rNo me escondo, así que ven aquí\ncomo un vendaval y combatimos.
+¡Que sepas que estoy en\n{STRVAR_1 4, 3, 0}!\r¡Ven sin nadie más!\rBueno...\n¡Tráete tu equipo Pokémon!\rSi no, no tiene sentido...
+Oye... Siempre andas en compañía\nde Pokémon, ¿no?\fDebe ser chachi.\rYo, que siempre voy en Bici, lo tengo\nmás difícil. Me siento solo.\r¡Me das envidia, pero de la sana!
+¡Oooh! ¡He encontrado algo precioso!\rFui a preguntar qué era y parece\nque se llama Piedra Alba.\rSi la quieres, pásate\npor {STRVAR_1 4, 3, 0}.
+¡Vamos, ven de una vez\na {STRVAR_1 4, 3, 0} si quieres\fla Piedra Alba!

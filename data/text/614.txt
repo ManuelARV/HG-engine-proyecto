@@ -1,0 +1,12 @@
+Morti: Me alegro de que hayas venido.\rAquí en Ciudad Iris, los Pokémon son\nvenerados desde hace mucho tiempo.\rCuentan que un Pokémon legendario\nse aparecerá ante un Entrenador de\fgran valía...\rYo creo en la leyenda y, desde que\nnací, me he entrenado aquí en secreto.\rY gracias a eso puedo ver cosas que\nlos demás no ven...\rPuedo ver cómo seré yo el único que\nhará aparecer al Pokémon legendario.\r¡Lo creo firmemente!\r¡Y tú me ayudarás a seguir\ncon mi entrenamiento!\r¡Lucha con todas tus fuerzas!\r
+Morti: ¡Nunca pensé que perdería\nsi luchaba al cien por cien!\rPero tú posees algo más que fuerza...\nDe acuerdo, te has ganado esta Medalla.\r
+¡{STRVAR_1 3, 0, 0} ha recibido\nla Medalla Niebla de Morti!
+Morti: Con la Medalla Niebla,\nlos Pokémon de hasta nivel 50\fque hayas intercambiado te obedecerán\fsin rechistar.\rY no solo eso. También podrás utilizar\nel movimiento Surf.\rAdemás...\nTambién quiero que tengas esto.\r
+                           
+Morti: Contiene Bola Sombra.\rCausa daños y también puede\nllegar a reducir la Defensa Especial.\rÚsala a tu antojo.
+Morti: Entiendo...\rAsí que las Chicas Kimono se referían\na ti...\r¡Ah! Esto... No me hagas caso,\ndigo tonterías.\rCon tu potencial, no tendrás\nningún problema cruzando el mar.\rSi vas hacia el oeste y luego al sur,\nllegarás a Ciudad Olivo.
+¡Hola, joven promesa!\nLos Entrenadores de este Gimnasio\futilizan Pokémon de tipo Fantasma.\rEsos Pokémon son espectros e\nilusiones, así que, si los atacas por\fla fuerza, no les harás ningún daño.
+¡Guau, {STRVAR_1 3, 0, 0}!\n¡Genial!\r¡Me escondí en el rincón\nmuerto de miedo!
+¿Andas buscando al Líder?\rMorti se ha ido a la Torre Quemada.\nLo siento, pero tendrás que marcharte.\rJo, jo, jo, jo.\r
+Gimnasio Pokémon de Ciudad Iris
+Gimnasio Pokémon de Ciudad Iris\rLíder: Morti\nEntrenadores reconocidos:\f{STRVAR_1 3, 0, 0}

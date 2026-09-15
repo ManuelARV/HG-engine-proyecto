@@ -1,0 +1,4 @@
+Director: ¿Quién? ¿Qué?\n¿Has venido a rescatarme?\f¡Cuánto te lo agradezco!\r¿Qué está pasando en la Torre Radio?\n¿Cómo? ¿Invadida por el Team Rocket?\rEntiendo.\nToma esta Llave Magnética.\r
+                   
+Director: Úsala para abrir la puerta\nde la segunda planta.\r
+Te ruego que me ayudes.\n¡Quién sabe lo que harían\fsi se apoderaran de la emisora!\r¡Podrían hasta controlar a los Pokémon\nusando una señal especial!\rSolo tú puedes ayudarme.\nSalva la Torre Radio...\f¡Y a todos los Pokémon del mundo!

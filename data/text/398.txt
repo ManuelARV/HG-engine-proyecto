@@ -1,0 +1,21 @@
+Mu-mu está enferma.\nLa única solución es darle\fmuchas Bayas Aranja, sus favoritas.\r
+¡Gracias!\nMu-mu se ha recuperado completamente.\rVoy a darte estos Sellos\ncomo agradecimiento.\r
+¡Anda!\nPensaba darte estos Sellos,\fpero veo que no tienes\funa Caja de Sellos...\rBueno, no te preocupes,\nseguro que mi hermana te da una.\r
+¡Ostras!\n¡Pero si ya tienes un montón de Sellos!\r
+Mu-mu se ha recuperado completamente.\r
+Mu-mu está enferma.\nLa única solución es darle\fmuchas Bayas Aranja, sus favoritas.\r
+¡Gracias!\nMu-mu se ha recuperado completamente.\rVoy a darte esta Caja Sellos\ncomo agradecimiento.\r
+Las Poké Balls se pueden personalizar\npegándoles Sellos.\rPrimero selecciona “Cápsula” en el menú\ndel PC. Luego pega los Sellos\fa tu gusto en una Cápsula y reviste\fla Poké Ball que quieras con ella.\rPuedes probar distintas combinaciones.\nMi hermana te dará los Sellos.\r
+Nosotros vendemos la Leche Mu-mu.\nVen a comprarla siempre\fque te apetezca.\r
+MILTANK: Tank...\r
+Por su voz se nota que no está bien...
+MILTANK: ¡Miiiiil!\r
+¡Está rebosante de energía!
+¿Quieres darle una Baya Aranja\na MILTANK?{YESNO 0}
+¡{STRVAR_1 3, 0, 0} le ha dado\nuna Baya Aranja a MILTANK!
+¡MILTANK está un poco mejor!
+¡MILTANK está bastante mejor!
+¡MILTANK se ha recuperado!
+{STRVAR_1 3, 0, 0} no tiene Bayas Aranja.
+{STRVAR_1 3, 0, 0} no le da una Baya Aranja.\rMILTANK parece triste...
+¡Has guardado {STRVAR_1 10, 0, 0}\nen la Caja de Sellos!

@@ -1,0 +1,12 @@
+Ed y Erin
+Ya que estamos, danos tu teléfono.{YESNO 0}
+Ya te llamaremos.
+Muy bien...
+Venga, danos tu teléfono.{YESNO 0}
+¿Eh? ¿Desde dónde nos llamas?\nSi estás cerca, ven aquí.
+¡Soy Erin!\r¿Cómo te va?\n¿Cuidas bien a tu equipo Pokémon?\rA nosotros nos va estupendamente.\nMi {STRVAR_1 0, 10, 0} está que se sale.\rTu equipo también es muy bueno.\nSolo te falta encontrar una buena\fpareja para ti, je, je, je.
+¡Soy Erin!\r¿Cómo te va?\nA nosotros nos va estupendamente.\f¡Tumbamos hasta un {STRVAR_1 0, 11, 0}!\rTu equipo también es muy bueno.\nSolo te falta encontrar una buena\fpareja para ti, je, je, je.
+¡Soy Erin!\r¿Cómo te va?\nMi Pokémon está la mar de... ¡Ah!\r¿Hola? ¡Soy Ed!\n¡Yo también quiero habl...! ¡Eh!\r¡No le hagas ni caso! ¡El otro día,\nse le escapó un {STRVAR_1 0, 11, 0}!\r¡Entre los Pokémon y él, no sé con\nquién quedarme...! ¡Ah!\r¡Hola! ¡Lo que ella quiere decir es...!\rBueno, así no se puede tener\nuna conversación. Ya te llamaré.\f¡Adiós!
+¿Nos volvemos a enfrentar?\nTe esperamos en {STRVAR_1 4, 3, 0}.\r¡No rechaces la invitación!
+¡Eh! ¿Has olvidado en qué quedamos?\rComo estoy con Ed no me aburro,\npero ven ya.\rEstamos en {STRVAR_1 4, 3, 0}.
+¡Soy Erin! ¿Cómo te va?\rEstoy un poco aburrida porque Ed\nha salido. Volverá pronto, creo.\rOye, el otro día te vi con alguien.\nLlevaba un traje púrpura\fy pajarita roja.\r¡Ya está aquí! ¡Adiós!

@@ -1,0 +1,50 @@
+¡Mmm!\r
+¡El fulgor de tus ojos te delata!\n¡Rebosan amistad!\r¡Guau! Me dejas sin palabras.\n¡Ese {STRVAR_1 0, 1, 0} es hercúleo!\rTiene todas las cualidades necesarias\npara participar en el Pokéathlon.\rIntuyo que tu Pokémon y tú profesáis\nuna fuerte coordinación y confianza\fmutua y, además, un brillante futuro\fos aguarda.\r¡Decidido! ¡Seguidme!\r
+Mira. ¡Esta es la Plaza\ndel Pokéathlon!\r
+¡En esta Carpa se celebra\nel mayor acontecimiento deportivo\fpara Pokémon y Entrenadores!\r¡El Pokéathlon!\rLos lazos de amistad entre Pokémon\ny Entrenadores son puestos a prueba\fen trepidantes competiciones\fdeportivas!\r¡Tú también deberías participar!\r
+¡Me has dejado de piedra!\n¡Qué grata sorpresa!\r¡Hacía tiempo que no me encontraba\ncon un Pokéatleta tan portentoso!\rMe alegro de haber tomado la decisión\nde organizar un torneo de Pokéathlon\fen Johto.\rMe llamo Sansón.\nSeguro que nos volvemos a ver.\rSansón: ¡Hasta la vista,\njoven Pokéatleta!\r
+¡El fulgor de tus ojos te delata!\n¡Rebosan amistad!\rTienes todas las cualidades necesarias\npara participar en el Pokéathlon.\rIntuyo que tu Pokémon y tú profesáis\nuna fuerte coordinación y confianza\fmutua y, además, un brillante futuro\fos aguarda.\r¡Decidido! ¡Seguidme!\r
+Vaya...\r
+¡Pokémon corriendo y saltando!\rHay cantidad de pruebas...\n¡No me decido!
+ODDISH: ¡Odd... Odd... issssh!
+Los Pokémon no son solo herramientas\nde lucha, su aspecto es cautivador.
+MEOWTH: Meoooow...
+No me gusta luchar, pero mi forma\nfísica ha mejorado paseando mucho.\rAhora no hay nadie que supere\nmi velocidad.
+¡Ja, ji, juuuu!\rEl entrenamiento diario será\nla semilla de mi éxito en el futuro.\rMi objetivo son mil sprints.\r
+¿Cuál es tu objetivo?\rTener una meta motiva muchísimo\nen la vida, ¿no te parece?\n
+...\r¡Pero bueno!\n¡No puede ser!\rHas conseguido hacer mil sprints,\n¿no?\rYo creía que te iba a ser imposible,\npero gracias a ti, me di cuenta de\fque no lo era y me puse las pilas.\r¡Toma esto!\r
+Soy una ferviente animadora tuya.\rEstoy dispuesta a correr a cualquier\nsitio por ti.\f¡Jamás dejaré de animarte!\n
+PIDGEY: ¡Pidgeyyy!
+¿Sabes lo que es la Bongurchata?\rLa capacidad de los Pokémon mejora\ndependiendo de la dieta que lleven.\rLa Bongurchata se creó especialmente\npara aportar a los Pokémon la energía\fnecesaria para el ejercicio físico.\rTe aconsejo que se la des de beber\na tus Pokémon para que puedan sacar\flo mejor de sí mismos.
+SLOWBRO: ¡Slow!
+Cada Pokémon tiene una personalidad\npropia. Conocerla bien te permite sacar\fel máximo potencial de tu Pokémon y\fconvertirlo en un Pokéatleta de verdad.
+MACHOP: ¡Maa chop chop!
+¡Síii!\r¡Hoy me siento en plena forma!\rAyer tuve un mal día, pero hoy\nvoy a ganar. ¡Seguro!
+SLOWPOKE: ¡Poke!
+FARFETCH’D: ¡Faaar!
+PSYDUCK: ¡Psy!
+¡Saludos llenos de vigor!\n¡Somos la Tienda de Bongurchata!\r¿Le das Bongurchata a tus Pokémon?\rNo dudes en preguntar si tienes\nalguna duda.{YESNO 0}
+¡Saludos llenos de vigor!\n¡Somos la Tienda de Bongurchata!\r¿Eh? Con esa cara... ¡seguro que\nno conoces la Bongurchata!\rAnda, toma esto.\r
+¡{STRVAR_1 3, 0, 0} ha recibido\nuna Batibonguri!
+Has metido la Batibonguri\nen la Caja Bonguri.\r
+Con la Batibonguri se puede hacer\nBongurchata, la bebida que saca\ftodo el potencial de los Pokémon.\rEs muy fácil de preparar.\rSolo hay que meter Bonguri\nen la Batibonguri.\r¡Mete un montón!\n¡Cuantos más mejor!\rLo siguiente es caminar.\nTap, tap, tap...\rCorrer también sirve.\n98, 99 y 100 pasos...\r¡Justo ahora! ¡Abre la tapa y a beber!\n¡Así podrás ganar!\rNosotros también vendemos\nBongurchata. Primero pruébala\fy mira si el efecto te convence.\rNo dudes en preguntar\nsi tienes alguna duda.{YESNO 0}
+La Bongurchata es una bebida para\nmejorar el Rendimiento de los Pokémon.\rA todo Pokémon se le dan unas cosas\nbien y otras no tan bien.\r¡Pero no pasa nada!\rCon la Bongurchata, tus Pokémon\nconseguirán el mejor Rendimiento.\rTodo aquel que ambicione\nla gloria en el Pokéathlon,\fdeberá contar con ella.\rNo dudes en preguntar\nsi tienes alguna duda.{YESNO 0}
+Elige entre una de las Batibonguris\nque hay aquí al lado.\rÉchale un vistazo a la etiqueta\npara saber qué tipo de bebida es.\fCada una tiene un efecto distinto.\rEscoge la Bongurchata apropiada\nsegún la prueba en la que vayas\fa participar.\r¡Es un atajo hasta la cima\nde los Pokéatletas!\r¡No olvides una cosa!\rSi uno de los valores ya está al máximo,\nno conseguirás nada bebiendo.\rSé consciente de la oscilación\nde valores siempre que vayas a darle\fde beber Bongurchata a un Pokémon.\r¿Quieres saber algo más?{YESNO 0}
+¡La bebida que potencia la amistad!\r¡Marchando una de Bongurchata!\n¡Coge la que quieras de los estantes!
+¡Tienes muy buen gusto!\n¡{STRVAR_1 8, 1, 0} de {STRVAR_1 3, 0, 0}!\f¡Precio especial! ¡{STRVAR_1 53, 2, 0} $!{YESNO 0}
+¡Mil gracias!\n¿A cuál se lo quieres dar de beber?\r
+¡La bebida que potencia la amistad!\r¡Vuelve siempre que\nquieras Bongurchata!\r
+¡Qué desilusión!\rCuando te entren ganas de vencer,\nvuelve a pasarte por aquí.\r
+¿Eeeh? ¡Te falta dinero!\r
+¡{STRVAR_1 8, 1, 0} de {STRVAR_1 3, 0, 0}!\n¡Precio especial! ¡{STRVAR_1 53, 2, 0} $!{YESNO 0}
+¡Saludos!\r
+Gusto: {STRVAR_1 52, 3, 0}\nSuavidad: {STRVAR_1 52, 4, 0}\r
+Comentario del dueño: La misteriosa\n{STRVAR_1 8, 1, 0} fue creada por alguien\fprocedente de un lugar de cuyo\fnombre no quiero acordarme.\rTal vez algo suba...\nTal vez algo baje...\rTu suerte pende de un trago.\r
+Comentario del dueño:\n¡El que sabe, sabe!\r¡{STRVAR_1 8, 1, 0} de {STRVAR_1 3, 0, 0},\nPokéatleta principiante!\r¡Un revulsivo!\nPero esa es la clave,\funa {STRVAR_1 8, 1, 0} brillante.\r
+Comentario del dueño:\n¡Todos admiran a quien la creó!\r¡{STRVAR_1 8, 1, 0}, el sustento\nde grandes hazañas!\rUn trago ideal para ti,\nque te está costando superarte.\r
+Comentario del dueño:\n¿Eh? ¿No la conoces?\rSeguro que no quieres ser\nel último mono.\r¡Prueba esto, {STRVAR_1 8, 1, 0} de\n{STRVAR_1 3, 0, 0}! Te hará sentir\fcomo en una nueva era.\r
+Comentario del dueño:\n¡{STRVAR_1 8, 1, 0}! ¡Célebre Pokéatleta\fquien creó esto!\rQuizá no puedas estrecharle\nla mano, pero al menos puedes\fbeber lo mismo.\rLa bebida imprescindible\npara todo Pokéatleta.\r
+Comentario del dueño:\n¡{STRVAR_1 8, 1, 0}! ¡Pokéatleta de\fprimera línea quien creó esto!\rSi no lo compras ahora,\n¿cuándo lo vas a hacer?\rSi no puedes ganar ahora,\n¿cuándo vas a poder?\rUn trago de victoria para alguien\nque no quiere esperar a mañana.\r
+Comentario del dueño:\n¡{STRVAR_1 8, 1, 0}! ¡Pokéatleta\fde leyenda quien creó esto!\r¡Una Bongurchata con todo\nel carácter de {STRVAR_1 3, 0, 0}!\rUn trago por el espinoso\ncamino a la victoria.\rCuando pruebes esto, vuestra\nleyenda dará comienzo.\r
+¡Saca todo el potencial de tu Pokémon!\n¡Dale Bongurchata y a volar!
+Carpa Pokéathlon\r¡Bienvenidos todos los Pokéatletas\ncon confianza en sí mismos!

@@ -1,0 +1,2 @@
+Este ascensor es el que lleva\na la azotea.
+Este ascensor es el que lleva a la\nplanta baja y la segunda planta.

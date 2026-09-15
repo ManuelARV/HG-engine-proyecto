@@ -1,0 +1,10 @@
+Pulsa el Botón A para guardar un Vídeo\nde Combate de este combate.
+¿Quieres guardar el último combate\ncomo tu Vídeo de Combate?
+¿Quieres borrar el Vídeo de Combate\nactual y guardar tu último combate?
+  
+   
+Espera un momento, por favor.
+Se ha guardado el Vídeo de Combate.
+Se ha producido un error.\nNo se ha podido guardar el vídeo.
+Guardando...\nNo apagues la consola.
+Esperando a que tu amigo se decida.\nEspera un momento, por favor.

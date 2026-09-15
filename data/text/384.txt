@@ -1,0 +1,50 @@
+                          
+    
+                                                
+                         
+                     
+                             
+                                  
+             
+                             
+                                    
+               
+                          
+                                          
+           
+                                           
+                   
+                                
+                                              
+Estoy buscando individuos sospechosos.
+Mar: ¡Espera un momento!\n¿Quién eres tú?\r
+               
+Mar: ¡Mi hermana me vengará!\r
+Mar: ¡Mi hermana me vengará!
+Mar: ¿Cómo has descubierto este lugar?\nEs nuestro escondite secreto.
+Mar: ¡Eh, tú!\n¿Qué se te ha perdido por aquí?\r
+                     
+Ilda: ¡No bajes la guardia!\n¡Mi hermana es fuerte!
+Ilda: Por esta vez, podríamos quedar\ncomo amigos, ¿vale?
+Lisa: Seguro que te has portado muy\nbien con mis hermanas, ¿no?\r
+                  
+Lisa: Eres muy fuerte. No pude\nhacer nada.\rToma. Te lo mereces.\r
+                           
+Lisa: Sentimos haberte atacado.\rPensábamos que aquí nadie nos\nencontraría. ¡Nos has sorprendido!
+Ruta 34\nAl sur, Pueblo Azalea
+Pistas para Entrenadores:\rEn la Torre Radio de Ciudad Trigal,\nal norte de aquí, están de promoción.\rPuedes participar en un concurso\nde preguntas para ganar\funa Tarjeta Radio.
+Guardería\n¡Déjanos criar tu Pokémon por ti!
+Lira: ¡Abuelo!\r
+Lira: ¡Qué bien que hayas vuelto!\nEl Pokémon que me diste está muy bien.\rY tú también tienes buen aspecto.\r
+Lira: ¡Ah, {STRVAR_1 3, 0, 0}!\r
+¡Voy a presentaros!\nEste es {STRVAR_1 3, 0, 0}. Es Entrenador\fde Pokémon. Se le da muy bien criarlos,\fpero seguro que no tanto como a ti.\r
+¡Ven conmigo, {STRVAR_1 3, 0, 0}!\r
+Eco: ¡Abuelo!\r
+Eco: ¡Qué bien que hayas vuelto!\nEl Pokémon que me diste está muy bien.\rY tú también tienes buen aspecto.\r
+Eco: ¡Ah, {STRVAR_1 3, 0, 0}!\r
+¡Voy a presentaros!\nEsta es {STRVAR_1 3, 0, 0}. Es Entrenadora\fde Pokémon. Se le da muy bien criarlos,\fpero seguro que no tanto como a ti.\r
+¡Ven conmigo, {STRVAR_1 3, 0, 0}!\r
+¡Ah, por cierto!\n¿Quieres nuestros números de teléfono?\rAsí podremos informarte de cómo están\nlos Pokémon que nos hayas dejado.\r
+¡{STRVAR_1 3, 0, 0} ha registrado\nal Encargado de la Guardería\fen el Pokégear!
+¡{STRVAR_1 3, 0, 0} ha registrado\na la Encargada de la Guardería\fen el Pokégear!
+Si nos dejas algún Pokémon,\npuedes llamarnos de vez en cuando\fpara saber cómo está.\rMi nieto me regaló un Pokégear de esos.\n¡Es un gran invento!\r

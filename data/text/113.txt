@@ -1,0 +1,28 @@
+Lance: ¿Estás bien?\rTus Pokémon están débiles y cansados.\nToma, dales un poco de mi medicina.\r
+Venga, {STRVAR_1 3, 0, 0}, da lo mejor de ti\npor los Pokémon.\r
+Venga, {STRVAR_1 3, 0, 0}, da lo mejor de ti\npor los Pokémon.\r
+Atenea: ¡Alto ahí!
+Atenea: ¡Con críos como tú\nentrometiéndose todo el tiempo\fel orgullo del Team Rocket está\fcontinuamente en juego!\rY ya basta de palabrería.\nVamos a poner fin a esto de una vez.\rPor muy fuerte que seas, no tienes\nninguna posibilidad con nosotros dos\fal mismo tiempo.\rJu, ju, ju, ju.\rLo siento mucho,\n¡pero vete preparando!\r
+Lance: ¡No tan deprisa!\r¿No os parece que un combate de dos\ncontra uno es totalmente injusto?\rEso de jugar sucio es muy propio\ndel Team Rocket.\r¡Os guste o no, yo también tomaré parte\nen este combate!\r
+Atenea: ¿Qué? ¿Tenías un cómplice?\n¿Dónde está tu sentido del honor?\rComo sustituta provisional de Giovanni,\n¡voy a enseñaros lo que pasa\fcuando dos impertinentes como vosotros\fse atreven a plantarle cara\fal Team Rocket!\r
+¡Guau! Eres muy fuerte.\n¡Qué lástima!\rSi te unieras al Team Rocket,\npodrías llegar a ser del Ejecutivo.\r
+Atenea: Qué más da. Ahora que\nel experimento de emisión ha sido\fun éxito, lo que le pase a esta guarida\fnos importa un bledo.\rNuestras miras son mucho más elevadas.\rMuy pronto conocerás lo temible que\npuede llegar a ser el Team Rocket.\rDisfruta ahora que aún puedes.\n¡Ju, ju, ju, ju!\r
+Lance: ¡Fiuu! Hemos derrotado a todos\nestos miembros del Team Rocket.\rPero me preocupa ese joven del pelo\nrojo contra el que luché...\r
+Lo siento, {STRVAR_1 3, 0, 0}. He visto que\nlo estabas haciendo tan bien tú solo\fque me he mantenido al margen.\rAhora todo lo que queda por hacer es\napagar esa extraña señal de radio.\r
+Lo siento, {STRVAR_1 3, 0, 0}. He visto que lo\nestabas haciendo tan bien tú sola\fque me he mantenido al margen.\rAhora todo lo que queda por hacer es\napagar esa extraña señal de radio.\r
+Esa es la máquina...\nPero no veo ningún interruptor.\rDebemos debilitar todos los\nELECTRODE.\rEso detendrá la máquina y no\ntransmitirá más esa extraña señal.\rLo siento por los ELECTRODE, ellos no\nhan hecho nada malo.\r{STRVAR_1 3, 0, 0}, yo me encargo de la\nderecha, ocúpate tú de la izquierda.\r
+Esa es la máquina...\nPero no veo ningún interruptor.\rDebemos debilitar todos los\nELECTRODE.\rEso detendrá la máquina y no\ntransmitirá más esa extraña señal.\rLo siento por los ELECTRODE, ellos no\nhan hecho nada malo.\r{STRVAR_1 3, 0, 0}, yo me encargo de la\nderecha, ocúpate tú de la izquierda.\r
+Lance: Déjame este lado.\r
+Lance: Por fin se ha detenido esa\nextraña señal. Y seguro que el lago\fha vuelto a la normalidad.\rY todo gracias a ti.\nQuiero darte las gracias\fen nombre de los Pokémon.\r¡Ah, sí!\n¡Toma esto!\rMe lo he encontrado por ahí,\npero yo no lo necesito.\r
+¡{STRVAR_1 3, 0, 0} ha obtenido la Máquina\nOculta 05 de Lance!
+Lance: Es Torbellino.\nEnséñasela a un Pokémon\fy podrá cruzar torbellinos.\rPero recuerda que solo podrás usarla\nfuera de los combates con la Medalla\fdel Gimnasio Caoba.\r
+¡{STRVAR_1 3, 0, 0}!\rEl viaje para ser Campeón Pokémon\nes largo y difícil.\rAun así, ¿quieres continuar?\r...\rYa veo. No, tienes razón.\rSi hubieras abandonado tan fácilmente,\nnunca hubieras seguido\fese sueño en primer lugar.\r¡Espero verte de nuevo!\r
+¡{STRVAR_1 3, 0, 0}!\rEl viaje para ser Campeón Pokémon\nes largo y difícil.\rAun así, ¿quieres continuar?\r...\rYa veo. No, tienes razón.\rSi hubieras abandonado tan fácilmente,\nnunca hubieras seguido\fese sueño en primer lugar.\r¡Espero verte de nuevo!\r
+“Emisor de ondas dañinas”\rEsta puerta se abre si reconoce la voz\nde la persona que ha dicho\fla contraseña...
+La puerta está cerrada...\r{STRVAR_1 3, 0, 0} introdujo la contraseña.\r¡Puerta abierta!\r
+El emisor de ondas dañinas está\nfuncionando a la máxima potencia.
+Parece que el emisor de ondas dañinas\nha dejado de funcionar.
+MURKROW: ¡VIVA GIOVANNI!\r
+MURKROW: ¡VIVA GIOVANNI!\r
+MURKROW: ¡VIVA GIOVANNI!\r
+¡El MURKROW ha dicho la contraseña con\nla misma voz que Petrel!\r...\r¡La cerradura con reconocimiento\nde voz se ha abierto!\r

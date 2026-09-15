@@ -1,0 +1,37 @@
+Buena
+¿{STRVAR_1 3, 0, 0}?\rNo seas tímido, si estás aquí cerca,\nhabla conmigo directamente.
+¿{STRVAR_1 3, 0, 0}?\rNo seas tímida, si estás aquí cerca,\nhabla conmigo directamente.
+Hola, soy Buena...\r¡Oh! ¡Buenos días, {STRVAR_1 3, 0, 0}!\nEstoy un poco apagada por la mañana...\r
+Hola, soy Buena...\r¡Oh! ¡Buenos días, {STRVAR_1 3, 0, 0}!\nEstoy un poco apagada por la mañana...\r
+Hola, soy Buena.\n¡{STRVAR_1 3, 0, 0}! ¿Sintonizas mi programa?\r
+Hola, soy Buena.\n¡{STRVAR_1 3, 0, 0}! ¿Sintonizas mi programa?\r
+Hola, soy Buena. ¡{STRVAR_1 3, 0, 0}!\rAcabo de salir de trabajar.\nCómo te lo diría... ¡Estoy exhausta!\r
+Hola, soy Buena. ¡{STRVAR_1 3, 0, 0}!\rAcabo de salir de trabajar.\nCómo te lo diría... ¡Estoy exhausta!\r
+Soy Buena. No puedo contestar\nel teléfono en estos momentos, pero\fsi quieres escuchar mi melodiosa voz,\fpon la radio y sintoniza\fLas contraseñas de Buena.\r¡Hasta pronto!
+Estoy pensando en ir mañana al Casino.\nHace mucho que no me paso por allí.\r¿Sabes? Tengo un truquillo para ganar.\n¡Funciona de maravilla!\r¿Eh? No, no te lo digo. ¡Es un secreto!\n¡Descúbrelo tú!\r¡Hablamos!
+¡Oye!\nEscuchas la radio con el Pokégear, ¿no?\rHe oído que puedes ver mapas también.\rComo tengo un sentido de la orientación\nnefasto, uno me puede venir de perilla.\r¡Gracias por llamarme! ¡Hasta luego!
+¿Hace sol hoy?\rCuando se pasa tanto tiempo como yo\nen la Torre Radio, una pierde la noción\fde todo. Es un poco rollo,\rpara qué nos vamos a engañar.\n¡Vuelve a llamarme cuando quieras!
+¡Hola, {STRVAR_1 3, 0, 0}! ¿Cómo estás?\r¡Aaaargh! ¡No es momento de perder\nel tiempo con saludos!\r¡Tenemos problemas en la Torre Radio!\n¡{STRVAR_1 3, 0, 0}! Cuídate, ¿eh?
+¡Hola, {STRVAR_1 3, 0, 0}! ¿Cómo estás?\r¡Aaarg! ¡No es momento de perder\nel tiempo con saludos!\r¡Tenemos problemas en la Torre Radio!\n¡{STRVAR_1 3, 0, 0}! Cuídate, ¿eh?
+¡{STRVAR_1 3, 0, 0}! ¡Hola, soy Buena!\r¡Me he levantado temprano,\nasí que te he llamado!\r
+¡{STRVAR_1 3, 0, 0}! ¡Hola, soy Buena!\r¡Me he levantado temprano,\nasí que te he llamado!\r
+¡{STRVAR_1 3, 0, 0}! ¡Hola, soy Buena!\n¡Necesito hablar con alguien!\r
+¡{STRVAR_1 3, 0, 0}! ¡Hola, soy Buena!\n¡Necesito hablar con alguien!\r
+¡{STRVAR_1 3, 0, 0}! ¡Hola, soy Buena!\nNo podía dormir, por eso te llamo.\r
+¡{STRVAR_1 3, 0, 0}! ¡Hola, soy Buena!\nNo podía dormir, por eso te llamo.\r
+¡El otro día estuve comiendo\ncon DJ Nardo! ¿No es genial?\rNo solo eso... ¡Dijo que la\nmúsica de mi programa es guay!\r¡Guau! ¡Le gusta!\n¡Casi me da algo al oír sus palabras!\r¡Anda! ¡Tengo que prepararme\npara el programa! ¡Hasta pronto!
+¿Conoces a la recepcionista de la\nTorre Radio? Siempre dice lo mismo,\fpero es la persona más habladora\fde la Torre Radio. Es capaz de estar\fhoras hablando sin parar.\rEn su puesto, se las ve y se las desea\fpara contenerse, pero lo consigue.\rSaber esto da que pensar cada vez\nque la ves. ¡Luego te llamo!
+¿Te ha tocado alguna vez algo\nen la lotería de la planta baja?\rCuantos más Pokémon intercambies\nserá más fácil que te toque.
+¿Sabes? ¡Anoche estaba tan harta\ndel trabajo que me metí entre pecho y\fespalda una tonelada de comida basura!\rRosa y yo estamos compitiendo a ver\nquién pierde más peso, pero a este paso\fno le voy a conseguir ganar.\r¿Eh? ¿Que cuánto peso? ¡Es un secreto!\nPero Rosa pesa... ¡Ahí va, es Rosa!\rUh... Mm... Eh...\n¡Lo siento, se ha equivocado de número!
+Ayer, el Profesor Oak estuvo en el\nestudio para grabar su programa.\rAsí que fui a verle y me presenté.\n¿Sabes qué? ¡Escucha mi programa!\rSoy tan afortunada y tan feliz...\nEs todo un honor para mí.\r¡Luego te llamo!
+¡Cof, cof...! Sniff... He pillado\nun resfriado de tres pares. Pero ante\ftodo soy profesional. Tengo que hablar\fde forma que nadie se dé cuenta en el\ftrabajo. Nos vemos en las ondas.\r¡Hasta la próxima!
+¡Hola! Ganaste la Tarjeta Radio en el\nconcurso de la recepción, ¿verdad?\r¿Sabes qué? ¡Yo preparé las preguntas!\nPara ti estaban chupadas, ¿no?\r¡Bueno, ya hablaremos!
+Estoy eufórica porque cada vez hay\nmás gente que participa en\fLas contraseñas de Buena.\rCuando la palabra clave fue PIKACHU,\nel espectáculo fue abrumador.\rLos Pokéfans estaban descontrolados\ny gritaban: ¡PI-KA-CHU! ¡PI-KA-CHU!\rNo se detenían ante nada.\n¡Los oyentes estaban desconcertados\fcon tanto jaleo!\rHala, ya basta por hoy, que tengo una\nmontaña de trabajo. ¡Ya hablaremos!
+¿Sabes qué? ¡El Director de la Torre\nRadio es un gran fan de la televisión!\rHace nada, en un programa de TV de\ntendencias, decían que los trajes\fnegros estaban de moda. Pues bien,\fahora siempre viste de negro.\rPero lo del Director es un secreto,\nasí que si le ves, ¡no digas nada!\r¡Oh! ¡El Director está al llegar!\n¡Hasta luego!\f¡No te pierdas mi programa!\n
+Dime. ¿Cuándo te relajas más?\rYo, en el mismo estudio, justo después\ndel programa, tomando una taza de té.\rEs tan agradable que hace que\nme amodorre poco a...\r... ... ...\n... ... ... Zzz\rHuy. ¡Me he dormido con solo pensarlo!\n¡Qué vergüenza!\r¡Por favor, olvida que esto ha pasado!\n¡Hasta luego!
+Dime, ¿cuál fue el primer Pokémon\nque atrapaste?\r¿De verdad?\rHe visto muchos Pokémon por aquí,\npero nunca he atrapado ninguno.\rDebería probar.\r¿Sabías que el primer Pokémon que\natrapó Rosa fue un DROWZEE?\rEso no es muy normal.\nPero el DROWZEE de Rosa la hacía\fdormirse en el trabajo, así que\fse lo cambió a un fan por un MEOWTH.\r¡Otro día hablamos más de Pokémon!\n¡Adiós!
+¿Sabes? Nardo habla por teléfono\ndurante horas con el equipo de la radio\fsobre la música Pokémon que pondrán\fcada día de la semana.\rAl final, se les pegó a todos la forma\nde hablar de Nardo, ¡para mondarse!\r¡Un montón de copias de él!\n¡Hablamos otra vez cuando quieras!
+Dentro de poco iré de compras\ncon Rosa. Sería genial que el Centro\fComercial de Ciudad Trigal tuviera\frebajas cuando vayamos.\r¡Tú también te podrías apuntar!\n¡Hablamos!
+¿Sabes qué? Voy de vacaciones a la\nTorre Radio de Pueblo Lavanda\fcon el equipo de la radio.\r¡Nuestras ansiadas vacaciones\nen otra Torre Radio! ¡Qué rollo!\f¡Preferiría ir a la playa!\r¡{STRVAR_1 3, 0, 0}, espero que te lo pases\ndivinamente en tu viaje!\r¡Adiós!
+¿Sabes qué? Voy de vacaciones a la\nTorre Radio de Pueblo Lavanda\fcon el equipo de la radio.\r¡Nuestras ansiadas vacaciones\nen otra Torre Radio! ¡Qué rollo!\f¡Preferiría ir a la playa!\r¡{STRVAR_1 3, 0, 0}, espero que te lo pases\ndivinamente en tu viaje!\r¡Adiós!
+El Profesor Elm te ha mandado a varias\nregiones, ¿no? ¡Qué envidia!\rEn cuanto tenga vacaciones,\nyo también voy a viajar por ahí.\r¡Oh! ¡El programa va a empezar!\n¡Te dejo!

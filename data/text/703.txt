@@ -1,0 +1,13 @@
+Irvin
+Si te transfieren a mi clase\nno seré más que el número dos.\r¡Antes de que eso ocurra, te superaré!\nDame tu teléfono. Quiero entrenar\fmis Pokémon contigo.{YESNO 0}
+Ya te llamaré cuando esté listo para\nla revancha. Tú también llama, ¿eh?
+¿Es que vas a venir a mi escuela?\n¿Quieres dejarme en ridículo?
+Si te pasan a mi clase\nno seré más que el número dos.\r¡Antes de que eso ocurra, te superaré!\nDame tu teléfono. Quiero entrenar\fmis Pokémon contigo.{YESNO 0}
+Gracias por combatir contra mí.\nToma.\r
+¿Eh? ¿Dónde estás? ¿Cerca?\nPues ven hasta aquí.
+Aprendí mucho en el combate que\nlibramos y ahora me paso el tiempo\fentrenando a mi {STRVAR_1 0, 10, 0}.\rHa mejorado bastante, pero estoy\nseguro de que en ese tiempo, tú\ftambién te habrás superado.\rEso significa que...\n¡nunca podré ganarte!
+Aprendí mucho en el combate que\nlibramos y gracias a ello he conseguido\fderrotar a un {STRVAR_1 0, 11, 0}.\r¡Mi Pokémon es mucho más fuerte!\nLa próxima vez, quiero que me enseñes\flas claves para ganar.
+¡Oye, oye, oye, oye!\rHace nada estuve a puntito de capturar\nun {STRVAR_1 0, 11, 0}, pero el muy astuto\fse me fue de las manos\fen el último momento.\rSiempre conviene tener más Poké Balls\nde las necesarias.
+El cuerpo me está pidiendo disputar\nun nuevo combate contigo.\r¿Te sientes igual?\n¡Te espero en {STRVAR_1 4, 3, 0}!
+No te olvides de que habíamos\nacordado echar un combate\fen {STRVAR_1 4, 3, 0}. ¡Ven de una vez!
+¿Sabes por qué estoy siempre\nen pantalón corto?\r¡Porque así ligo más!\rSi tengo alguna herida, me pongo\nuna venda y todos la pueden ver.\r¡Eso surte muuuuy buen efecto!

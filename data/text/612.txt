@@ -1,0 +1,20 @@
+En Ciudad Iris había dos torres:\nuna en el este y otra en el oeste.
+¿Has oído los rumores de que van a\nreconstruir la Torre Quemada?\r¡La ciudad tendrá dos torres de nuevo!\n¡Qué buena noticia!
+¿Eh?\rMe ha parecido oír a alguien gritando\ndesde el Teatro de Danza...\r¿Me lo habré imaginado?
+Las Chicas Kimono acostumbran\na ensayar a todas horas\fen el Teatro de Danza.
+Voy a practicar en el Teatro de Danza.\n¿Vienes conmigo?
+La torre que había aquí...\nera mucho más alta, pero\fun incendio la destruyó.
+Tres Pokémon muy grandes huyeron\nen direcciones diferentes.\f¿Qué estaría pasando?
+Muy pronto empezarán las obras\nde reconstrucción de la torre.
+¡Oh!\nVeo que llevas un buen Pokémon.\rCuando uno lleva un Pokémon a su\nlado se siente mucho mejor, ¿eh?\rPara mí, los Pokémon son un rayo\nde esperanza que guía mi vida.\rY hablando de guiar...\rEl Pokémon que ilumina el Faro\nde Ciudad Olivo se ha puesto enfermo.\rParece que es bastante grave.
+El Pokémon de Faro Olivo se ha curado.\rLos barcos pueden volver a navegar\nseguros de noche.
+Si vas hacia el oeste desde aquí,\nllegarás a Ciudad Olivo.\fEs una bonita ciudad portuaria.\rAunque no tengas un barco,\nsi uno de tus Pokémon sabe Surf\fpuedes hacerte a la mar\fdesde la Ruta 40.\n
+Ciudad Iris\nLa ciudad llena de historia
+Líder del Gimnasio Pokémon\nde Ciudad Iris: Morti\rEl místico adivino del futuro
+Teatro de Danza de Ciudad Iris\nLa danza en su máximo esplendor
+La Torre Quemada ardió\nen un misterioso incendio.\rDesprende un extraño olor.\nSe aconseja no acercarse demasiado.
+Punto de control de la Torre Campana\nProhibido el paso sin credencial
+{SIZE 0}¡Plam!
+{STRVAR_1 3, 1, 0}: ¿Por qué? ¡¿Por qué?!\n¿Por qué nunca consigo ganar?...\rNo se trata de chicas cualesquiera...\r
+{STRVAR_1 3, 1, 0}: ¿Lo has visto,\n{STRVAR_1 3, 0, 0}?\rYo pensaba que sería pan comido\nderrotar a cinco chicas en kimono,\fy me las han hecho pasar canutas.\r...\r¿Tú también has venido\npara enfrentarte a ellas?\rComo has escarmentado al Team Rocket,\npensarás que estas Chicas Kimono\fno tienen nada que hacer contra ti.\rPero la verdad es que son muy fuertes.\n¡Adelante!\r¡Inténtalo!\rYo me voy porque no pienso quedarme\na verte ganar.\r
+Hace mucho tiempo...\ncuando la torre se incendió,\ftres Pokémon cuyo nombre nadie conoce\fmurieron abrasados por las llamas.\rPero un Pokémon de los colores del\narcoíris descendió del cielo y\flos resucitó.\rLos habitantes de la ciudad se sintieron\namenazados por el inmenso poder\fde tales Pokémon y decidieron\fatacarlos. Sin embargo, en lugar de\fcontraatacar, los Pokémon se sintieron\fdefraudados por la actitud de los\fhumanos y abandonaron esta región\fpor el mar...\rSe trata de una leyenda que los Líderes\ndel Gimnasio de Ciudad Iris han ido\ftransmitiendo de unos a otros.\r¿Yo?\rYo también fui Líder del Gimnasio\nhace mucho tiempo.\r¡Je, je, je, je!\n

@@ -1,0 +1,15 @@
+Sabrina
+Vaya, esto tiene que estar\nroto. No se oye nada.\rLlámame desde otro sitio.
+¿Sí? ¿Todo igual?\nPues como yo.\r
+No soy la única. Hay otros Líderes\nde Gimnasio muy buenos.\f¡No dejes que te ganen!
+Los domingos a mediodía estoy\ndisponible. Dame un toque.
+¡Hola! Llamas en el mejor momento.\n¿Combatimos?{YESNO 0}
+¡Sabía que aceptarías!\nTe espero en el Dojo de Ciudad Azafrán.
+Ya sabía que me ibas a decir que no...\n¡Qué decepción!
+¿Seguro que tienes tiempo de luchar\ncontra mí?\rAlgo me dice que ya tienes la agenda\nocupada...
+Te espero en el Dojo de Ciudad Azafrán.\n¡No te despistes!
+Soy Sabrina.\n¿Cómo vas?\r
+Me habías dicho que vendrías a\ncombatir al Dojo de Ciudad Azafrán...\f¿Un despiste?
+Te voy a contar el secreto del\nentrenamiento psíquico.\rLos movimientos de tipo Psíquico\nson para controlar el alma, el corazón.\rCierra los ojos.\nLibérate de pensamientos superfluos.\rAdéntrate en tu yo en letargo,\nen lo más hondo de tu corazón.\rLa clave de un verdadero Psíquico\nno está en mover objetos con la mente,\fsino en controlar tu propio corazón.
+Todavía puedes ser más fuerte.\nLo sé. Lo siento con fuerza.\rHas vencido a gran cantidad\nde Entrenadores. El éxito y\fla gloria son tuyos. Lo veo.\rSolo quería decirte esto.\n¡Nos vemos!
+Los Entrenadores con buen equilibrio de\ntodas sus facultades son los mejores.\rLa fortaleza de espíritu es\nespecialmente importante.\r¿Por qué no te decides a entrenar\ntus poderes psíquicos?\rTal vez hasta puedas superarme.

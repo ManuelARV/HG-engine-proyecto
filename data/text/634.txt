@@ -1,0 +1,15 @@
+DRAGONAIR es genial, pero no lo tengo.\n¿Tienes un DRAGONAIR㊛?\r¿Quieres cambiarlo por mi DODRIO?{YESNO 0}
+¡Guau! ¡Gracias!\n¡Siempre quise un DRAGONAIR!
+¡Ese no es un DRAGONAIR♀!\n¡Cámbiamelo si consigues uno!
+¿No quieres cambiarlo? ¡Vaya!
+¿Cómo está el DODRIO que te regalé?\n¡Tu DRAGONAIR es tan mono!
+¿Eh?\nTu {STRVAR_1 0, 0, 0} parece que...\r
+Ha trabajado muy duro, ¿verdad?\rComo recompensa, entrégale\nesta Cinta Esfuerzo.\r
+{STRVAR_1 3, 1, 0} ha recibido\nla Cinta Esfuerzo.\r
+¡{STRVAR_1 3, 1, 0} le ha puesto la Cinta\nEsfuerzo a {STRVAR_1 0, 0, 0}!
+Tiene que esforzarse más.\rSi lo hace, le daré a tu Pokémon\nalgo muy bonito.
+¡Se nota que te has esforzado!\n¡Pero no es suficiente!\r¡Deberías esforzarte aún más!
+¡Está claro que te has esforzado\nlo tuyo!\r¡Pero no es suficiente!\r¡Deberías esforzarte un poco más!
+¡Veo que te has esforzado mucho!\n¡Pero no es suficiente!\r¡Intenta esforzarte un poquito más!
+¡No hay duda de que te has esforzado\nmuchísimo!\r¡Pero no es suficiente!\n¡Deberías esforzarte solo un pelín más!
+¡Oh! ¡A tu {STRVAR_1 0, 0, 0} le queda\ngenial esa Cinta Esfuerzo!

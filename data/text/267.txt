@@ -1,0 +1,30 @@
+¡Oh, hola!\n¡Por aquí, por favor!\r
+Hola.\nEncantada de conocerte.\rMe llamo Teala, seré tu guía en el\nClub Wi-Fi Pokémon.\rAntes de nada, toma esto.\r
+Este es tu Bloc de amigos.\nEn él podrás registrar a tus amigos.\rUna vez registrados, podrás conectar\ncon ellos a través de la CWF de Nintendo\rpara intercambiar Pokémon, enfrentarte\nen combates, etc.\r¿Hay algo más que quieras saber?{YESNO 0}
+En la planta superior de los Centros\nPokémon encontrarás gente con la que\fhacer intercambios y combatir.\rPodrás registrar a esas personas\nen tu Bloc de amigos.\rAdemás, también puedes registrarlas\nmanualmente introduciendo sus claves\fde amigo en tu Bloc de amigos.\r¿Quieres que te lo repita?{YESNO 0}
+¡Disfruta de la CWF de Nintendo!
+¡Este es el Club Wi-Fi del\nCentro Pokémon!\r¿Puedo ayudarte en algo?{YESNO 0}
+Deja que te explique el funcionamiento\ndel Club Wi-Fi Pokémon.\rPodrás usar la CWF de Nintendo\ndesde el mostrador central.\rLa CWF de Nintendo te permitirá\nrealizar intercambios y enfrentarte a\flos Entrenadores que hayas\fregistrado en tu Bloc de amigos.{YESNO 0}
+¡Este es el Club Wi-Fi del\nCentro Pokémon!\r¿Quieres usar la CWF de Nintendo?{YESNO 0}
+¡Vuelve cuando quieras!
+¿Quieres iniciar la CWF de Nintendo?{YESNO 0}
+¡Entonces por aquí, por favor!\r
+¿Eh?\rLo siento, no hay nadie registrado\nen tu Bloc de amigos.\rNo podrás hacer uso del Club Wi-Fi a\nmenos que tengas amigos registrados.\rYa que estás aquí, ¿te gustaría al\nmenos obtener tu clave de amigo?{YESNO 0}
+¿Eh?\rLo siento, no tienes ningún amigo\nregistrado en tu Bloc de amigos.\rNo podrás hacer uso del Club Wi-Fi a\nmenos que tengas amigos registrados.\rLo que tienes que hacer es ponerte a\nregistrar gente en tu Bloc de amigos y\fluego volver por aquí.
+En cualquier Club Wi-Fi podrás jugar a\ntravés de la Conexión Wi-Fi de Nintendo.\rAquí podrás realizar intercambios y\nenfrentarte a los Entrenadores que\fhayas registrado en tu Bloc de amigos.\rPuedes tomar parte en dos tipos de\ncombate: individual o doble.\rEn cada tipo de combate puedes elegir\nentre tres modalidades: nivel 50,\fnivel 100 y nivel libre.\rEn las modalidades nivel 50 y nivel 100,\nlos Pokémon que participen en los\fcombates tendrán esos niveles de\fmanera temporal.{YESNO 0}
+IR AL CLUB WI-FI
+INFORMACIÓN
+SALIR
+Lo sentimos mucho.\nRegresa cuando no formes parte\fdel Team Rocket.
+Hola. Puedes acceder a la Plaza Wi-Fi\ndel Centro Pokémon desde aquí.\r¿Quieres usar la Conexión Wi-Fi\nde Nintendo?{YESNO 0}
+¿Quieres acceder a la\nConexión Wi-Fi de Nintendo?{YESNO 0}
+Por aquí, por favor.\r
+Esperamos que vuelvas pronto.
+En la Plaza Wi-Fi puedes encontrarte\ncon Entrenadores de todo el mundo.\rAllí podrás chatear y participar en los\njuegos de la plaza.\rAdemás, podrás jugar con juguetes\ntáctiles exclusivos de la Plaza Wi-Fi.\rSin embargo, solo podrás permanecer en\nla Plaza Wi-Fi un tiempo determinado.\rTranscurrido ese tiempo, te\ndesconectarás y saldrás de la plaza.\r¡Esperamos que disfrutes de cada visita\nque hagas a la Plaza Wi-Fi!\r¿Quieres usar la Conexión Wi-Fi\nde Nintendo?{YESNO 0}
+IR A LA PLAZA WI-FI
+INFORMACIÓN
+SALIR
+Lo siento, todavía no puedo atenderte.\nVuelve en otro momento, por favor.
+Lamentamos comunicarte que las\npersonas vestidas de negro pertenecen\fal grupo de malhechores conocido \fcomo el Team Rocket y no pueden\futilizar estas instalaciones.
+Lo sentimos mucho.\rNos ha llegado un mensaje del\nProfesor Elm de Pueblo Primavera.\rEl PICHU Picoreja no está autorizado a\nentrar en estas instalaciones.\rDéjalo en un PC y regresa más tarde.
+Lo sentimos mucho.\rLamentamos las molestias ocasionadas,\npero el Pokémon PICHU Picoreja es una\fvariedad que aún no se ha registrado en\fla base de datos del Centro Pokémon y,\fpor tanto, no puedes pasar.\rDéjalo en un PC y regresa más tarde.

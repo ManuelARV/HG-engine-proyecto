@@ -1,0 +1,4 @@
+Fredo es un veterano que lleva\nentrenando Pokémon desde\fhace 50 años.\rTal como has visto ya, este Gimnasio\nestá recubierto de hielo y hace temblar\fde frío a todo el mundo.\rHay que estar preparados para el frío.\n¡Ah!, por ejemplo...\r¡Teniendo un espíritu\nde combate ardiente!
+¡Fredo es bueno, pero\ntú eres aún mejor!\r¡Ha sido un gran combate que acortó\ndistancias entre generaciones!
+Gimnasio Pokémon de Pueblo Caoba
+Gimnasio Pokémon de Pueblo Caoba\rLíder: Fredo\nEntrenadores reconocidos:\f{STRVAR_1 3, 0, 0}

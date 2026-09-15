@@ -1,0 +1,12 @@
+Bill
+¡Hola, {STRVAR_1 3, 0, 0}!\rEl teléfono es un aparato que\ntransforma la voz en impulsos\feléctricos y la transporta hasta\flugares lejanos, ¿no?\rOjalá se pudiera transportar\nlos Pokémon con el mismo principio.\rEsa fue la idea que originó el Sistema\nde Almacenamiento de Pokémon.\rAunque bueno, no es tan fácil\ncomo el teléfono.
+¡Hola, {STRVAR_1 3, 0, 0}!\rEl teléfono es un aparato que\ntransforma la voz en impulsos\feléctricos y la transporta hasta\flugares lejanos, ¿no?\rOjalá se pudiera transportar\nlos Pokémon con el mismo principio.\rEsa fue la idea que originó el Sistema\nde Almacenamiento de Pokémon.\rAunque bueno, no es tan fácil\ncomo el teléfono.
+¿Quién llama? {STRVAR_1 3, 0, 0}, ¿no?\nUn segundo...\r...\n...\r
+¿Quién llama? {STRVAR_1 3, 0, 0}, ¿no?\nUn segundo...\r...\n...\r
+Estás usando una Caja que recibe\nel nombre de {STRVAR_1 11, 10, 0}.\f¡Qué simple! Cuanto más simple, mejor.\rIncluida {STRVAR_1 11, 10, 0}, puedes\nalmacenar el siguiente número de\fPokémon en tu PC: {STRVAR_1 52, 11, 0}.\r
+Estás usando una Caja que recibe\nel nombre de {STRVAR_1 11, 10, 0}.\r¡Ese nombre mola mogollón!\n¡Me llega a lo más hondo!\rIncluida {STRVAR_1 11, 10, 0}, puedes\nalmacenar el siguiente número de\fPokémon en tu PC: {STRVAR_1 52, 11, 0}.\r
+Así que tu Caja se llama\n{STRVAR_1 11, 10, 0}. ¿Verdad?\r¡Qué creatividad!\rIncluida {STRVAR_1 11, 10, 0}, puedes\nalmacenar el siguiente número de\fPokémon en tu PC: {STRVAR_1 52, 11, 0}.\r
+¡Llámame cuando quieras!
+No queda sitio en el PC.\rNo puedes dejar más Pokémon\nhasta que hagas espacio.\r
+¿Sí? Soy yo, Bill.\r¿Qué? ¿Tienes el PC lleno?\nDebes de tener ya tela de Pokémon.\rEres un Entrenador excepcional.\n¡Me quito el sombrero!\rNo olvides que si no haces espacio\nya no puedes capturar ningún\fPokémon más.
+¿Sí? Soy yo, Bill.\r¿Qué? ¿Tienes el PC lleno?\nDebes de tener ya la caña de Pokémon.\rEres un Entrenador excepcional.\n¡Me quito el sombrero!\rNo olvides que si no haces espacio\nya no puedes capturar ningún\fPokémon más.

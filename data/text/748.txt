@@ -1,0 +1,41 @@
+{STRVAR_1 6, 0, 0}{CURSOR_X 0}{STRVAR_1 51, 1, 0}PB
+{STRVAR_1 6, 0, 0}\n            {STRVAR_1 51, 1, 0}PB
+SIGUIENTE
+SALIR
+¿Te apasionan los combates de Pokémon?\nPues bien, yo, un Tutor de movimientos,\fvoy a serte de gran ayuda!\r¿Quieres que tus Pokémon\naprendan MT con tus PB?{YESNO 0}
+¡Qué mala suerte! ¡No le puedo enseñar\nningún movimiento a ese Pokémon!\r
+¡Qué pena más grande! ¡No tienes\nsuficientes Puntos de Batalla!\r
+¿Prefieres que este {STRVAR_1 0, 0, 0}\nno aprenda este movimiento?\f¿Es eso lo que quieres?{YESNO 0}
+{STRVAR_1 0, 0, 0} quiere aprender\n{STRVAR_1 6, 1, 0}.\rPero {STRVAR_1 0, 0, 0} ya conoce cuatro\nmovimientos.\r¿Quieres sustituir unos de esos\nmovimientos por {STRVAR_1 6, 1, 0}?{YESNO 0}
+{STRVAR_1 6, 2, 0} será olvidado.\n¿Te parece bien?{YESNO 0}
+Vamos, que no quieres que aprenda\n{STRVAR_1 6, 1, 0}, ¿cierto?{YESNO 0}
+{STRVAR_1 0, 0, 0} no ha aprendido\nel movimiento {STRVAR_1 6, 1, 0}.\r
+1{PAUSE 0}, 2{PAUSE 0} y...{PAUSE 0} ...{PAUSE 0} ... ¡pum!
+{STRVAR_1 0, 0, 0} olvidó cómo utilizar\n{STRVAR_1 6, 1, 0}.\rY...\r
+{STRVAR_1 0, 0, 0} aprendió {STRVAR_1 6, 1, 0}.\n¡Fantástico!\r
+¡Hasta la próxima!
+¿Los combates de Pokémon son tu vida?\nPues bien, yo, un Tutor de movimientos,\fvoy a serte de gran ayuda!\r¿Quieres que tus Pokémon\naprendan MT con tus PB?{YESNO 0}
+¡Vaya! ¡Qué mal! ¡No le puedo enseñar\nningún movimiento a ese Pokémon!\r
+¡Vaya! ¡Qué mal! ¡No tienes\nsuficientes Puntos de Batalla!\r
+¿Prefieres que este {STRVAR_1 0, 0, 0}\nno aprenda este movimiento?\f¿Es eso lo que quieres?{YESNO 0}
+{STRVAR_1 0, 0, 0} quiere aprender\n{STRVAR_1 6, 1, 0}.\rPero {STRVAR_1 0, 0, 0} ya conoce cuatro\nmovimientos.\r¿Quieres sustituir uno de esos\nmovimientos por {STRVAR_1 6, 1, 0}?{YESNO 0}
+Este Pokémon va a olvidar el movimiento\n{STRVAR_1 6, 2, 0}.\f¿Quieres continuar?{YESNO 0}
+Así que prefieres que no aprenda\n{STRVAR_1 6, 1, 0}, ¿verdad?{YESNO 0}
+{STRVAR_1 0, 0, 0} no ha aprendido\nel movimiento {STRVAR_1 6, 1, 0}.\r
+1{PAUSE 0}, 2{PAUSE 0} y...{PAUSE 0} ...{PAUSE 0} ... ¡puf!
+{STRVAR_1 0, 0, 0} olvidó cómo utilizar\n{STRVAR_1 6, 1, 0}.\rY...\r
+{STRVAR_1 0, 0, 0} aprendió\n{STRVAR_1 6, 1, 0}. ¡Genial!\r
+¡Nos vemos!
+¿Los combates de Pokémon te cautivan?\rPues bien, yo, un Tutor de movimientos,\n¡voy a serte de gran ayuda!\r¿Quieres que tus Pokémon\naprendan MT con tus PB?{YESNO 0}
+¡Vaya! ¡Qué mal! ¡No le puedo enseñar\nningún movimiento a ese Pokémon!\r
+¡Ay! ¡Qué lástima! ¡No tienes\nsuficientes Puntos de Batalla!\r
+¿Prefieres que este {STRVAR_1 0, 0, 0}\nno aprenda este movimiento?{YESNO 0}
+{STRVAR_1 0, 0, 0} quiere aprender\n{STRVAR_1 6, 1, 0}.\rPero {STRVAR_1 0, 0, 0} ya conoce cuatro\nmovimientos.\r¿Quieres sustituir uno de esos\nmovimientos por {STRVAR_1 6, 1, 0}?{YESNO 0}
+Este Pokémon va a olvidar el movimiento\n{STRVAR_1 6, 2, 0}.\f¿Quieres continuar?{YESNO 0}
+¿Prefieres que no aprenda\n{STRVAR_1 6, 1, 0}?{YESNO 0}
+{STRVAR_1 0, 0, 0} no ha aprendido\nel movimiento {STRVAR_1 6, 1, 0}.\r
+1{PAUSE 0}, 2{PAUSE 0} y...{PAUSE 0} ...{PAUSE 0} ... ¡puf!
+{STRVAR_1 0, 0, 0} olvidó cómo utilizar\n{STRVAR_1 6, 1, 0}.\rY...\r
+{STRVAR_1 0, 0, 0} aprendió {STRVAR_1 6, 1, 0}.\r
+¡Sigue reuniendo Puntos de Batalla y\nven a verme pronto!
+¿Enseñarle movimientos a un Huevo?\nMe da a mí que...

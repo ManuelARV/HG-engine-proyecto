@@ -1,0 +1,45 @@
+LLAMAR
+ORDENAR
+SALIR
+TÍTULO
+ABC
+DIRECCIÓN
+MOVER
+SALIR
+Ahorrar
+No ahorrar
+Valorar Pokédex
+Salir
+VALORAR POKéDEX DE JOHTO
+VALORAR POKéDEX NACIONAL
+SALIR
+VALORAR POKéDEX NACIONAL
+SALIR
+   
+Sí
+No
+Elige el siguiente movimiento
+Elige dónde moverlo
+¿Qué quieres hacer?
+Ordenar por tipo de Entrenador
+Ordenar por orden alfabético
+Ordenar por dirección
+Ordenar libremente
+Salir de Ordenar
+{STRVAR_1 3, 0, 0}
+{STRVAR_1 14, 0, 0}
+...
+... ...
+... ... ...
+¡Pi!
+¡Pi!\n...
+¡Pi!\n... ...
+¡Pi!\n... ... ...
+Ese número no es de esta zona.
+Profesor Pokémon
+Compi de la infancia
+Artesano de Poké Ball
+Guardería
+Famosa de la radio
+Gran Pokémaníaco
+Guarda del Safari

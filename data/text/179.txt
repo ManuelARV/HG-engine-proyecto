@@ -1,0 +1,6 @@
+{STRVAR_1 0, 0, 0} se enviará a\n{STRVAR_1 3, 2, 0}.
+¡Adiós, {STRVAR_1 0, 0, 0}!
+¡{STRVAR_1 3, 2, 0} ha enviado a\n{STRVAR_1 0, 1, 0}!
+¡Cuida bien de {STRVAR_1 0, 1, 0}!
+¡Se ofrecerá a {STRVAR_1 0, 0, 0}!
+¡Se ha retirado a {STRVAR_1 0, 1, 0}!

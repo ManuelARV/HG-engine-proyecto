@@ -1,0 +1,15 @@
+Blanca
+¿Eh? No te oigo bien.\n¿Será cosa del teléfono?\rMuévete un poco y llámame.
+¿Hola? ¿Cómo estás?\n¡Hoy yo reboso energía!\r
+Aparte de mí, hay un montón\nde Líderes muy fuertes.\f¡A por todas!
+Los sábados a mediodía me aburro\ncomo una ostra. ¡Llámame entonces!
+¡No tengo nada que hacer! ¡Oye!\n¿Por qué no luchas conmigo?{YESNO 0}
+¡Así se hace! ¡Ya estoy motivadísima!\r¡Te espero en el Dojo\nde Ciudad Azafrán!
+¿Cómo? ¡Vaya muermo!
+¿De verdad?\n¿Tienes tiempo para echar un combate?\rNo vayas a dejar a nadie tirado\npor mí, ¿eh?
+¡Te espero en el Dojo de Ciudad\nAzafrán! No me dejes tirada, ¿eh?\n
+Soy Blanca, ¿qué tal estás?\r
+No te has olvidado de que teníamos\nque echarnos una luchita en el Dojo\fde Ciudad Azafrán, ¿no?
+¿Has ido a la Granja Mu-mu\nde la Ruta 39?\rMi Miltuca...\nAy, digo, mi MILTANK vive allí.
+Me ha entrado un hambre feroz,\n¿a ti no? ¡No me vayas a regañar!\rA mi edad, tengo que zampar a gusto.\n¡Es lo más normal del mundo!
+El más guapo del Alto Mando...\n¿Bruno?\rSeguro que no soy la única\nque piensa igual. ¡Seguro!\rUn hombre hecho y derecho\ntiene que ser robusto.

@@ -1,0 +1,312 @@
+¡Te damos la bienvenida al Pokéathlon!\nHoy, {STRVAR_4 1, 0, 0}.\r¿Quién se alzará con la victoria?\rPero, antes de comenzar, os presentaré\na nuestros valerosos atletas.\r
+¡{STRVAR_1 1, 1, 0}, {STRVAR_1 1, 2, 0} y\n{STRVAR_1 1, 3, 0} del equipo {STRVAR_1 3, 0, 0}!\r
+Sin más dilación,\n¡que comience el...\r{ALN_CENTER}{SIZE 0}Pokéathlon!\r
+¡Un enorme aplauso a nuestros atletas!\r¿Qué equipo resultará vencedor en\nesta intensa contienda?\r¡He aquí los resultados!\rPero, antes que nada, como\nrecompensa al espíritu deportivo...\r
+¡Los puntos extra distribuidos\na los Pokémon y a los equipos!\r
+¡Equipo {STRVAR_1 3, 0, 0}: {STRVAR_1 52, 1, 0} puntos!\r
+Acto seguido, los premios individuales...\r
+Los puntos adicionales a una actuación\nsin fallos van para...\r
+¡El {STRVAR_1 0, 1, 0}\ndel equipo {STRVAR_1 3, 0, 0}!
+nadie.\r
+¡Y eso es todo!\r
+¿Qué más? ¡Ah, sí!\n¡El rey de los puntos de hoy!\r
+¡El {STRVAR_1 0, 1, 0}\ndel equipo {STRVAR_1 3, 0, 0}!
+¡Y eso es todo!\r
+Y, a continuación,\n¡los premios individuales al esfuerzo!\r
+El premio al mayor número\nde saltos es para...\r
+El premio al mayor número\nde placajes es para...\r
+El premio al mayor número\nde fallos es para...\r
+El premio al mayor número\nde sprints es para...\r
+Y el Pokémon que menos puntos\nha logrado conseguir es...\r
+¡el {STRVAR_1 0, 1, 0}\ndel equipo {STRVAR_1 3, 0, 0}!
+¡Y eso es todo!\r
+Y, en último lugar...\n¡Los puntos de las distintas disciplinas!\r
+Disciplina número {STRVAR_1 50, 0, 0}.
+¿Eh? ¿Qué? ¿Un empate? Bueno,\n¡pues habrá que echarlo a suertes!\rBssss bsssss...\n...\r...\nY bien...\r
+Con {STRVAR_1 52, 0, 0} puntos, la victoria\nva a parar a las manos...\r
+{ALN_CENTER}{SIZE 0}¡DEL EQUIPO {STRVAR_1 3, 0, 0}!\r
+¡El equipo {STRVAR_1 3, 0, 0} ha sido\ngalardonado con una {STRVAR_4 3, 1, 0}!\r
+¡El equipo {STRVAR_1 3, 0, 0} ha sido\ngalardonado con una {STRVAR_4 3, 1, 0}\fy una {STRVAR_4 3, 2, 0}!\r
+¡El equipo {STRVAR_1 3, 0, 0} ha batido\nsu propio récord\fen {STRVAR_4 1, 1, 0}!\r
+¡Una actuación estelar\nen {STRVAR_4 1, 0, 0}!\r
+¡Enhorabuena!\n¡Ha sido una contienda extraordinaria!\r¡De aquí a la cima de los Pokéatletas!\rPokéathlon...\r{ALN_CENTER}{SIZE 0}¡FOREVER!\r
+Con {STRVAR_1 55, 1, 0} participaciones\na sus espaldas...\r¡Ha nacido una estrella en el firmamento\nde los Pokéatletas!\r
+Con {STRVAR_1 55, 1, 0} participaciones\na sus espaldas...\r¡El cometa del firmamento\nde los Pokéatletas!\r
+Con {STRVAR_1 55, 1, 0} participaciones\na sus espaldas...\r¡La supernova del firmamento\nde los Pokéatletas!\r
+Con {STRVAR_1 55, 1, 0} participaciones\na sus espaldas...\r¡El Big Bang del firmamento\nde los Pokéatletas!\r
+¡Brilla en el firmamento de la victoria!\n¡La estrella del Pokéathlon!\r
+¡{STRVAR_1 55, 1, 0} victorias!\n¡Ya empezamos a hablar en serio!\r
+¡{STRVAR_1 55, 1, 0} victorias!\n¡Los laureles del triunfo favorecen!\r
+¡{STRVAR_1 55, 1, 0} victorias!\nSu lema: “Yo soy el Pokéathlon”.\r
+La perseverancia siempre da frutos.\r
+¡{STRVAR_1 55, 1, 0} veces en el último puesto!\n¡No hay que tirar la toalla!\r
+¡{STRVAR_1 55, 1, 0} veces en el último puesto!\n¿Y qué?\r
+¡{STRVAR_1 55, 1, 0} veces en el último puesto!\n¡Nadie ha visto nunca su espalda!\r
+¡Que gane el mejor!\n¡Adelante!\r
+¡{STRVAR_1 55, 1, 0} veces en el primer puesto!\n¿Crees que estarás a su altura?\r
+¡{STRVAR_1 55, 1, 0} veces en el primer puesto!\n¿Alguna victoria más a la vista?\r
+¡{STRVAR_1 55, 1, 0} veces en el primer puesto!\n¿Va a seguir con esa racha?\r
+¡No hay que temer a la derrota!\n¡Hay que competir sin desfallecer!\r
+¡{STRVAR_1 55, 1, 0} veces en el último puesto!\n¡Pero rendirse no tiene sentido!\r
+¡{STRVAR_1 55, 1, 0} veces en el último puesto!\n¡En definitiva, también es un récord!\r
+¡{STRVAR_1 55, 1, 0} veces en el último puesto!\n¡Y es este precisamente su distintivo!\r
+¿Una victoria fruto del talento?\n¿O quizás de la suerte?\r
+Los puntos extra de la ceremonia\nde clausura. Y con esta son {STRVAR_1 55, 1, 0}\flas veces que tienes suerte, ¿no?\r
+Los puntos extra de la ceremonia\nde clausura. ¿{STRVAR_1 55, 1, 0} veces?\fEsto ya es talento, ¿no?\r
+Los puntos extra de la ceremonia\nde clausura. ¿{STRVAR_1 55, 1, 0} veces?\fUna combinación de suerte y talento.\r
+¡Son capaces de mover montañas!\r
+¡Su trabajo en equipo dejará\nuna huella en la historia!\r
+¡Admira su trabajo en equipo y\nsu increíble amistad!\r
+¡Les une una amistad increíble!\r
+¡La victoria sonríe a los audaces!\r
+¡{STRVAR_1 55, 1, 0} fallos!\r¡Parece que es lo único que aumenta\nen este equipo!\r
+¡{STRVAR_1 55, 1, 0} fallos!\r¡Todos los caminos, incluso las\nderrotas, conducen a la victoria!\r
+¡{STRVAR_1 55, 1, 0} fallos!\rLa derrota es el pilar de la victoria...\n¿no?\r
+De salto en salto, siempre arriba...\n¡Hasta la cima de la victoria!\r
+¡Su ascenso hacia la victoria es\nsimplemente imparable!\r
+¡Llegando de un salto hasta un futuro\nque solo alguien así puede vislumbrar!\r
+¡Han nacido para ganar!\r
+¡Es imposible acercarse a la puntuación\nde este equipo!\r
+¡No desperdician ni un solo punto!\n¡Es su atajo hacia la victoria!\r
+¡Un punto es un punto!\n¡Todos cuentan!\r
+¡Los reyes de los puntos!\n¡No hay forma de bajarles de su trono!\r
+¡Muerden! ¡Embisten!\n¡Lo revolucionan todo con sus Placajes!\r
+¡Ya están aquí los ases del Placaje!\n¡Y es que han sido {STRVAR_1 55, 1, 0}!\r
+¡Embistiendo hacia la victoria\ncon un total de {STRVAR_1 55, 1, 0} Placajes!\r
+¡No hay nada que se interponga en su\ncamino con {STRVAR_1 55, 1, 0} Placajes tras ellos!\r
+¿Por qué te caes así?\n¡Porque hay un hoyo!\r
+¡Les encanta caerse!\n¡Parece que nunca es suficiente!\r
+Solo los auténticos Pokéatletas\nse baten en el extremo del ring!\r
+Batirse sin pensar en las\nconsecuencias... ¡Ese es su truco!\r
+¡Atención a esos sprints!\n¡Es imposible seguirles la pista!\r
+¡Carrera hacia la gloria!\n¡Sprint hacia la victoria!\r
+¡Rebasan la velocidad de la luz!\n¡Premio para el que los alcance!\r
+¡Más rápidos que una centella!\r
+La fuerza no lo es todo...\n¡La clave está en la estrategia!\r
+¡He aquí los cerebros!\n¡Nada se resiste a su análisis!\r
+¡No os confiéis o su estrategia hará\nque se giren las tornas!\r
+¡Sabe todo sobre los Pokémon y\nsaca lo mejor de ellos!\r
+No es posible que se sientan solos...\n¡Todos quieren competir con ellos!\r
+Todos quieren competir con ellos...\n¡Esa es la prueba de su potencial!\r
+¡En cada combate aprendemos más de\nlos demás y de nosotros mismos!\r
+¡Un Pokéatleta que lleva a sus amigos y\nPokémon en el corazón!\r
+¡Enfrentándonos a los veteranos es\ncomo nos hacemos más fuertes!\r
+El mundo está lleno de gente fuerte...\n¡hoy aquí para enfrentarse con ellos!\r
+¡No pueden perder!\n¡La victoria estará de su lado!\r
+¡Persiguen sin tregua la forma de\nsuperarse constantemente!\r
+Piensan que perder ayuda a crecer,\ntanto en el deporte como en la vida.\r
+El mundo está lleno de gente fuerte...\n¡Y eso ellos lo saben perfectamente!\r
+Miden sus fuerzas contra los demás...\npero también entre ellos.\r
+Ganar o perder no cuenta. ¡Lo que\ncuenta es enfrentarse a los mejores!\r
+El Pokéatleta vive para competir.\n¡Ponedle un obstáculo y lo superará!\r
+¡Qué gran espectáculo!\n¡Vaya juego de piernas!\r
+¡Capaces de superar las dificultades de\nla vida igual que estos obstáculos!\r
+Desconocen el significado de los\nobstáculos... ¡Vuelan a la victoria!\r
+Nacidos para atrapar banderas...\n¡Son el terror de la playa!\r
+¡Los héroes de Atrapabanderas!\n¡No dejarán ni una!\r
+¡La playa es su terreno!\n¡No oséis desafiarlos!\r
+¡No quedará bandera sin atrapar! ¡La\nvictoria está a la vuelta de la esquina!\r
+¡Empujad, empujad, empujad!\n¡Abríos paso hasta la victoria!\r
+¡Haced sitio! ¡No empujéis!\n¿Creéis que podréis dejarlos fuera?\r
+¿Empujas para competir?\n¡Ellos lo hacen para vivir!\r
+¡Ni los empujones más fuertes\npodrán intimidarlos!\r
+¡PIM! ¡PAM! ¡PUM!\nNinguna losa puede resistírseles.\r
+¡No hay losa que no destruyan!\n¡Nadie las rompe como ellos!\r
+¡Con esa potencia podrían abrir brechas\nen cualquier muro delante de ellos!\r
+Esa montaña de gravilla era una pila\nde losas antes de que las rompieran.\r
+¡Es ver un disco en el aire y su\ncuerpo reacciona automáticamente!\r
+Se llevarán a casa todo: los discos...\ny la victoria.\r
+Los discos son sus estrellas fugaces...\n¡y ya imaginamos cuál es su deseo!\r
+¡Si parece que hasta los discos tiemblan\ncon solo tenerlos cerca!\r
+¿Es un pájaro? ¿Un avión?\nNo, es...\r
+¡Gravedad cero!\n¡El cielo nunca ha estado tan cercano!\r
+¡El Pokéatleta que anticipa las\ncorrientes y llega a lo más alto!\r
+¡Son tierra y cielo a partes iguales!\r
+No hay quien los pare...\n¡Nacieron corriendo!\r
+Pero ¿qué pilas llevan?\n¡No hay forma de que se detengan!\r
+Nunca dejan de correr.\n¿Acaso serán máquinas?\r
+¡La amistad es su carburante!\n¡La victoria es su motor!\r
+¡Una postura impecable!\n¡Los Pokémon se rinden a sus pies!\r
+¡Solo puede quedar uno en el ring!\nHasta ese momento, ¡a darlo todo!\r
+¡Los amos del ring!\nLo son... y querrán seguir siéndolo.\r
+¡El ring os hará descubrir lo que hay\nen lo más profundo de vuestro ser!\r
+La victoria se viste de blanco...\n¡el de la nieve que cubre a los rivales!\r
+¡Cada bola de nieve lanzada es un paso\nmás hacia la victoria!\r
+¡Parecen metralletas!\n¡Huy! ¡Para quién iría esa bola de nieve!\r
+No se sabe de dónde salen tantas...\n¡Parece que se multiplican!\r
+¡Esos balones van derechitos\na las porterías... y a la victoria!\r
+¡Un espléndido trabajo de equipo!\r
+¡Un juego de piernas soberbio!\n¡Un gol más para la victoria!\r
+Solo viven para el balón... pero podría\ndecirse que también viven en el balón.\r
+¡Ahí van puntos de regalo para el\nPokéatleta por su juego limpio!\r
+¡Sonreír pese a haber sido derrotados!\n¡Esa es la filosofía del Pokéathlon!\r
+¡Quieren marcar un gol y lo conseguirán,\nsea en la portería que sea!\r
+¿Qué es un autogol en el fondo?\nAmor hacia su propio equipo, ¿no?\r
+Hacen lo que sea por llamar la atención.\nLa victoria no lo es todo para ellos.\r
+¡Y ya salió la estrella! Si queréis su\nautógrafo, será tras la victoria.\r
+Si queréis admirar cómo vencen, podréis\nser testigos de su victoria enseguida.\r
+¡Es el calor de sus seguidores lo que\nles propulsa hacia la victoria!\r
+
+
+
+      
+{STRVAR_1 50, 0, 0}/6 ronda
+     
+{STRVAR_1 1, 0, 0}
+                           
+{ALN_CENTER}Tiempo total: {STRVAR_1 52, 0, 0},{STRVAR_1 51, 1, 0} s
+{ALN_CENTER}Total banderas: {STRVAR_1 52, 0, 0}
+{ALN_CENTER}Total puntos: {STRVAR_1 52, 0, 0}
+{ALN_CENTER}Total losas: {STRVAR_1 52, 0, 0}
+{ALN_CENTER}Total puntos: {STRVAR_1 52, 0, 0}
+{ALN_CENTER}Total puntos: {STRVAR_1 52, 0, 0}
+{ALN_CENTER}Vueltas completadas: {STRVAR_1 51, 0, 0},{STRVAR_1 50, 1, 0}
+{ALN_CENTER}Total puntos: {STRVAR_1 52, 0, 0}
+{ALN_CENTER}Total bolas: {STRVAR_1 52, 0, 0}
+{ALN_CENTER}Total puntos: {STRVAR_1 52, 0, 0}
+{ALN_CENTER}{SIZE 0}SALTAOBSTÁCULOS
+{ALN_CENTER}{SIZE 0}ATRAPABANDERAS
+{ALN_CENTER}{SIZE 0}PISACÍRCULOS
+{ALN_CENTER}{SIZE 0}ROMPELOSAS
+{ALN_CENTER}{SIZE 0}ATRAPADISCOS
+{ALN_CENTER}{SIZE 0}BOTALUCES
+{ALN_CENTER}{SIZE 0}CARR. RELEVOS
+{ALN_CENTER}{SIZE 0}FUERA DEL RING
+{ALN_CENTER}{SIZE 0}NIEVE CRUZADA
+{ALN_CENTER}{SIZE 0}METEGOLES
+{ALN_CENTER}Mejor marca
+{ALN_CENTER}Tiempo total: {STRVAR_1 52, 0, 0},{STRVAR_1 51, 1, 0} s
+{ALN_CENTER}Total banderas: {STRVAR_1 52, 0, 0}
+{ALN_CENTER}Total puntos: {STRVAR_1 52, 0, 0}
+{ALN_CENTER}Total losas: {STRVAR_1 52, 0, 0}
+{ALN_CENTER}Total puntos: {STRVAR_1 52, 0, 0}
+{ALN_CENTER}Total puntos: {STRVAR_1 52, 0, 0}
+{ALN_CENTER}Vueltas completadas: {STRVAR_1 51, 0, 0},{STRVAR_1 50, 1, 0}
+{ALN_CENTER}Total puntos: {STRVAR_1 52, 0, 0}
+{ALN_CENTER}Total bolas: {STRVAR_1 52, 0, 0}
+{ALN_CENTER}Total puntos: {STRVAR_1 52, 0, 0}
+{ALN_CENTER}Lugar: Carpa Carreras
+{ALN_CENTER}Lugar: Carpa Playa
+{ALN_CENTER}Lugar: Carpa Combate
+{ALN_CENTER}Lugar: Carpa Combate
+{ALN_CENTER}Lugar: Carpa Playa
+{ALN_CENTER}Lugar: Carpa Saltos
+{ALN_CENTER}Lugar: Carpa Tierra
+{ALN_CENTER}Lugar: Carpa Combate
+{ALN_CENTER}Lugar: Carpa Nieve
+{ALN_CENTER}Lugar: Carpa Campo
+{ALN_CENTER}Reglas
+¡Enfila la meta y corre cual flecha!
+¡Corre y hazte con las banderas!
+¡Quédate dentro del círculo!
+¡Destroza todas las losas!
+¡Atrapa los discos al vuelo!
+¡Dale a las luces iluminadas!
+¡Corre cambiando tus Pokémon!
+¡Saca del ring a tu adversario!
+¡A lanzarse bolas!
+¡Métele goles a tu contrincante!
+{ALN_CENTER}Controles
+¡Toca sobre los Pokémon para\nque salten! ¡Controla a los\ntres y supera los obstáculos!
+Saltaobstáculos es una carrera\ncontrarreloj.\nHay que saltar las vallas y llegar\na la meta lo antes posible.\nLa puntuación se calcula sumando\nlos tiempos de tus tres Pokémon.\n\nVelocidad: rapidez al correr.\nSalto: longitud del salto.
+¡Toca los Pokémon para\nque salten las vallas!\n\nControla a los tres Pokémon a\nla vez y llega a la meta antes\nque nadie.
+¡Haz que tus Pokémon\nreboten! Empuja a tus rivales\ny róbales las banderas.
+En Atrapabanderas tus Pokémon\ntienen que hacerse con banderas\nuno después de otro.\nUn Pokémon puede llevar hasta nueve\nbanderas a la vez.\nSi empujan a un adversario por detrás,\nle robarán la bandera.\nVelocidad: rapidez al correr.\nPrecisión: maniobrabilidad del Pokémon.
+Toca tus Pokémon para\nhacer que se deslicen.\nCuanto más les des,\nmás velocidad tendrán.\n\n¡Sé más rápido que nadie\ny atrapa todas las banderas\nque puedas!
+¡Desplaza tus Pokémon!\n¡Haz que se muevan los tres!
+En Pisacírculos tendrás que empujar\na tus adversarios.\nCuando el cronómetro complete una\nvuelta, conseguirás los puntos de los\nPokémon que estén dentro de un círculo.\n\nFortaleza: potencia de los empujones.\nResistencia: aguante frente a la fatiga.
+¡Toca los Pokémon con el\nlápiz táctil y muévelos!\n\n¡Controla a los tres a la vez\ne intenta que se queden\ndentro de los círculos!
+¡Toca las losas para\nromperlas! ¡Sustituye\nlos Pokémon cansados!
+En Rompelosas tendrás que destruir\nlas losas que están apiladas.\nCuando un Pokémon se cansa,\nes necesario sustituirlo.\nLa puntuación se decide por el número\nde losas rotas.\n\nFortaleza: potencia de los golpes.\nResistencia: aguante frente a la fatiga.
+¡Rompe las losas!\n¡Golpéalas sin parar para destruir\nel mayor número de bloques!\n\nSi tocas el botón CAMBIAR,\nsustituirás el Pokémon por\nel siguiente.
+1) ¡Desplaza tus Pokémon!\n    ¡Mueve los tres a la vez!\n2) Toca, salta y atrapa.
+En Atrapadiscos tus tres Pokémon\ntendrán que saltar para capturar\nlos discos que vuelan hacia ellos.\nCuanto más abajo estén en la plataforma,\nmás puntos conseguirán.\n\nSalto: altura de los saltos.\nFortaleza: potencia de los empujones.
+1) ¡Desplaza tus Pokémon y controla\nlos tres a la vez! Da empujones a\ntus contrincantes y atrapa los discos\nen la parte inferior de la pantalla.\n\n2) Toca los Pokémon\npara saltar.\n¡Cuantos más discos,\nmejor será!
+¡Lanza los Pokémon hacia ti\npara soltarlos después y que\nboten como muelles!
+En Botaluces tus Pokémon tienen que\nrebotar para tocar las bolas luminosas.\nCuantas más toquen de un salto,\nmás puntos ganarán.\n\nSalto: altura de los saltos.\nPrecisión: desplazamiento horizontal.
+¡Haz que tus tres Pokémon salten\ntensando el trampolín!\n\n¡Estira la tela en diagonal para\nhacer que salten de lado!
+Toca sobre los Pokémon para\nque hagan un sprint.\n¡Cámbialos cuando se cansen!
+En Carrera de Relevos tus Pokémon\ntendrán que correr largas distancias\nturnándose.\nSustitúyelos cuando se cansen.\nTu puntuación vendrá dada por la\ndistancia recorrida.\n\nResistencia: aguante frente a la fatiga.\nVelocidad: rapidez al correr.
+Toca tus Pokémon para que hagan\nsprints y avancen hacia la derecha.\n\nCuantos más golpecitos les des,\nmás rápido correrán.\n\nSi tocas el botón CAMBIAR,\nsustituirás el Pokémon por\nel siguiente.
+1) Desplaza tus Pokémon.\n2) Desliza para embestir.\n3) Toca para que salten.
+En Fuera del Ring tus Pokémon\nconseguirán puntos expulsando del ring\na sus adversarios a base de empujones.\nVuelve a tu esquina para poder tocar\nel botón CAMBIAR y pasar al siguiente\nPokémon.\n\nResistencia: aguante a los empujones\nFortaleza: potencia de los Placajes.
+1) Desplaza tus Pokémon con el lápiz.\n\n2) Da golpecitos rápidos con el lápiz\npara lanzar Placajes y expulsar\na los rivales fuera del ring.\n\n3) Toca tus Pokémon para\nque salten y rebotarán\nsobre el adversario.
+1) Desliza el lápiz y lanza\nbolas de nieve.\n2) Toca y hazlas más grandes.
+En Nieve Cruzada tendrás que controlar\ntus tres Pokémon a la vez para lanzarles\nbolas de nieve a tus adversarios.\nCada acierto suma un punto.\n\nPrecisión: tino del tiro.\nFortaleza: potencia de las bolas.
+1) Desliza el lápiz sobre tus Pokémon\npara lanzar bolas de nieve.\n\n2) Toca un Pokémon que tenga\nuna bola de nieve para hacerla\nmás grande.\n\n¡Un bola de nieve grande\npuede dejar K.O. al rival!
+1) ¡Desplaza tus Pokémon\ny controla a los tres!\n2) ¡Desliza el lápiz y corre!
+En Metegoles tendrás que marcar\nen las porterías de tus contrincantes.\nLos goles en las porterías de rivales\nsuman puntos, pero en tu portería\nlo que hacen es restar puntos.\n\nPrecisión: longitud del chut.\nFortaleza: potencia del chut.
+1) Controlas los tres Pokémon\na la vez. Utiliza el lápiz táctil\npara que se desplacen.\n\n2) Desliza el lápiz sobre los\nPokémon para que realizen\nsprints y chuten el balón.
+{ALN_CENTER}DISCIPLINA NÚMERO {STRVAR_1 50, 0, 0}
+{ALN_CENTER}INFO
+{ALN_CENTER}REGL
+{ALN_CENTER}CONTR
+{ALN_CENTER}ATRÁS
+{ALN_CENTER}REGLAS
+{ALN_CENTER}CONTROLES
+¡Muy bien! ¡Veamos los resultados\nde la primera disciplina!\r
+¡Qué emoción! ¡Ahí van los resultados\nde la segunda disciplina!\r
+Finalmente, los resultados de la última\ndisciplina... ¡Se palpa la tensión!\r
+¡Muy bien! ¡Veamos los resultados\nde la primera disciplina!\r
+¡Qué emoción! ¡Ahí van los resultados\nde la segunda disciplina!\r
+¡Aún hay más! ¡Aquí van los resultados\nde la tercera disciplina!\r
+Por último, los resultados de la cuarta\ndisciplina... ¡Momentos de tensión!\r
+{SIZE 0}Equipo {STRVAR_1 3, 0, 0}...{SIZE 0}\r¡Enhorabuena por haber\nlogrado el primer puesto!\r
+¡Ha estado muy reñido!\r
+Los resultados de esta disciplina\ndecidirán tu puntuación.\r
+¡Ponte la victoria como meta en la\nsiguiente disciplina y a darlo todo!\r
+¡Y esto no ha hecho más que comenzar!\n¡Preparaos para la siguiente disciplina!\r
+¿Qué nos aguardará en la siguiente\ndisciplina?\r
+¿Estudiando al adversario todavía?\n¡Es hora de usar la artillería pesada!\r
+¡Fin de la primera disciplina! ¡Ahora es\ncuando las cosas se ponen serias!\r
+Finalmente, la última disciplina.\n¿Se cambiarán las tornas?\r
+¡Última disciplina! \n¡Es el momento de echar el resto!\r
+Por fin, la última disciplina.\n¿Quién se alzará con la victoria?\r
+¡La victoria se decide a continuación!\n¡Todo o nada!\r
+¡El público está en trance debido a la\nemoción de esta última disciplina!\r
+¡Muy bien! ¡A continuación anunciaremos\nlos resultados finales!\r
+¿Qué nos revelará este anuncio?\n¡He aquí el resultado final!\r
+¡Enhorabuena a todos!\n¡He aquí los resultados finales!\r
+¿Qué equipo alcanzará la gloria?\n¡He aquí los resultados finales!\r
+¿Quién será coronado con laureles?\n¡Aquí están los resultados finales!\r
+¡Ponte la victoria como meta en la\nsiguiente disciplina y a darlo todo!\r
+¡Y esto no ha hecho más que comenzar!\n¡Preparaos para la siguiente disciplina!\r
+¿Qué nos aguardará\nen la siguiente disciplina?\r
+¿Estudiando al adversario todavía?\n¡Es hora de usar la artillería pesada!\r
+¡Fin de la primera disciplina! ¡Ahora es\ncuando las cosas se ponen serias!\r
+¡Eso fue solo la segunda disciplina!\n¿Qué espectáculo nos aguarda ahora?\r
+¿Os quedan energías? Más vale...\n¡La tercera disciplina va a comenzar!\r
+¡No es posible prever quién ganará!\n¡Que comience la tercera disciplina!\r
+¡El último equipo aún tiene opciones!\n¡Asistamos a la tercera disciplina!\r
+¡El encuentro está en su clímax!\n¡Que comience la tercera disciplina!\r
+Finalmente, la última disciplina.\n¿Se cambiarán las tornas?\r
+¡Última disciplina! \n¡Es el momento de echar el resto!\r
+Por fin, la última disciplina.\n¿Quién se alzará con la victoria?\r
+¡La victoria se decide a continuación!\n¡Todo o nada!\r
+¡El público está en trance debido a la\nemoción de esta última disciplina!\r
+¡Muy bien! ¡A continuación anunciaremos\nlos resultados finales!\r
+¿Qué nos revelará este anuncio?\n¡He aquí el resultado final!\r
+¡Enhorabuena a todos!\n¡He aquí los resultados finales!\r
+¿Qué equipo alcanzará la gloria?\n¡He aquí los resultados finales!\r
+¿Quién será coronado con laureles?\n¡Aquí están los resultados finales!\r
+Tiempo total: {STRVAR_1 52, 0, 0},{STRVAR_1 51, 1, 0} s
+Total banderas: {STRVAR_1 52, 0, 0}
+Total puntos: {STRVAR_1 52, 0, 0}
+Total losas: {STRVAR_1 52, 0, 0}
+Total puntos: {STRVAR_1 52, 0, 0}
+Total puntos: {STRVAR_1 52, 0, 0}
+Vueltas completadas: {STRVAR_1 51, 0, 0},{STRVAR_1 50, 1, 0}
+Total puntos: {STRVAR_1 52, 0, 0}
+Total bolas: {STRVAR_1 52, 0, 0}
+Total puntos: {STRVAR_1 52, 0, 0}
+Losas
+           
+{ALN_CENTER}Resultados
+Puntos
+Vueltas
+{ALN_CENTER}{STRVAR_1 3, 0, 0}
+{ALN_CENTER}+1
+{ALN_CENTER}+2
+{ALN_CENTER}-1
+Espera a que el resto elija...
+{ALN_CENTER}¡ÚLTIMO\n{ALN_CENTER}ESFUERZO!

@@ -1,0 +1,11 @@
+Cuando atrapas un Pokémon, puede\nque sea débil, pero si lo cuidas bien\fse hará fuerte.\rEs importante tratar a todos los\nPokémon con mucho cariño.
+Los Pokémon pueden ir equipados con\nobjetos, pero parece que no saben\fusar los objetos hechos por el hombre\fcomo Poción y Antídoto.
+¡Cuánto tiempo, {STRVAR_1 3, 0, 0}!\nEl Profesor Elm me ha pedido que\fvenga a buscarte.\rDe hecho...\rquiere que te encargues de cuidar\nese Huevo Pokémon.{YESNO 0}
+¡Cuánto tiempo, {STRVAR_1 3, 0, 0}!\rEl Profesor Elm me ha pedido\nque venga a buscarte.\rDe hecho...\rquiere que te encargues de cuidar\nese Huevo Pokémon.{YESNO 0}
+¡{STRVAR_1 3, 0, 0} ha recibido el Huevo\ndel ayudante del Profesor!
+Hace un rato, el Profesor Elm\nha recibido una llamada.\rHa estado un poco hablando\ny de repente ha exclamado:\r“¡En ese caso, solo podemos\nconfiar en {STRVAR_1 3, 0, 0}!”\rEntonces me ha dicho\nque te trajera el Huevo.\rPor eso he venido a buscarte.\rUn Huevo no eclosiona a menos que\nlo lleves junto a otros Pokémon sanos\fdurante un tiempo.\rPor eso ha pensado que tú eras el más\nindicado para cuidar el Huevo.\r¡Buena suerte y gracias por tu ayuda!\r
+Hace un rato, el Profesor Elm\nha recibido una llamada.\rHa estado un poco hablando\ny de repente ha exclamado:\r“¡En ese caso, solo podemos\nconfiar en {STRVAR_1 3, 0, 0}!”\rEntonces me ha dicho\nque te trajera el Huevo.\rPor eso he venido a buscarte.\rUn Huevo no eclosiona a menos que\nlo lleves junto a otros Pokémon sanos\fdurante un tiempo.\rPor eso ha pensado que tú eras\nla más indicada para cuidar el Huevo.\r¡Buena suerte y gracias por tu ayuda!\r
+Tu equipo Pokémon está completo.\nAhora mismo no puedes llevar el Huevo.\fNo te preocupes, te espero aquí.
+¿Qué?\n¡No esperaba que fueras a negarte!\fDebes estar bromeando, ¿no?\rEl Profesor Elm te lo ha pedido\fcomo un favor personal.
+¿Aceptas llevar el Huevo contigo?{YESNO 0}
+¿Aceptas llevar el Huevo contigo?{YESNO 0}

@@ -1,0 +1,10 @@
+Morti: Puede que yo no sea el elegido\ndel Pokémon legendario,\rpero eso no significa\nque no tenga futuro.\rSeguiré entrenando hasta forjar\nmi propio destino.\r¿Qué me dices? \n¿Quieres entrenar conmigo? {YESNO 0}
+¡{STRVAR_1 3, 0, 0} ha registrado a Morti\nen el Pokégear!
+Morti: Si quieres combatir conmigo,\nllámame el martes por la noche.
+Morti: Vaya...\nEs una pena...
+Morti: ¿No te gustaría\nentrenar conmigo? {YESNO 0}
+Morti: ¡Ah! ¡Eres tú!\r¿Te gustaría hacerte una foto\nde recuerdo conmigo? {YESNO 0}
+Morti: ¡Venga! ¡Vamos a ponernos\nlos dos aquí para la foto!\r
+Morti: ¡Sí señor!\n¡Es una foto estupenda!
+Morti: Bueno... Si estás ocupado,\nlo entiendo.
+Tu Álbum de Fotos está lleno.\rDeberías hacer sitio en el Álbum\nde tu PC.

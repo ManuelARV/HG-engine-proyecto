@@ -1,0 +1,14 @@
+Dicen que en la Ruta 36 hay un árbol\nbastante extraño.\rSe ve que cuando lo riegas se pone\na bailotear...\r¡Ah...! ¡Qué mal!\rYo soy florista y tengo regaderas,\npero es bastante arriesgado y\fno puedo encargarle esto a cualquiera.\rYa sé... si vences al Líder del Gimnasio\nde Ciudad Trigal, sabré que puedo\fdejarlo en tus manos.
+Dicen que en la Ruta 36 hay un árbol\nbastante extraño.\rSe ve que cuando lo riegas se pone\na bailotear...\r¡Ah! ¡Eso es la Medalla Planicie!\n¿Has derrotado a Blanca?\rEntonces no tengo de qué preocuparme.\nToma, te presto esta Regadera...\fBueno, mejor... quédatela.\r
+El árbol extraño está en la Ruta 36.\nTen mucho cuidado.
+Lalala, lalalala.\n¡Agua en abundancia!\r
+¿Usas un Plantabayas?\rSolo tienes que plantar la Baya\nque quieras en la tierra.\r¡Y no te olvides de regarla, claro!
+Qu...\n...\f...\f...\f¡Qué ricura!\r¿De dónde has sacado ese Pokémon?\n¡Es una preciosidad!\r
+SHAYMIN, ¿dices?\n¡Es monísimo!\r¡Tengo una idea!\n¡Una flor le vendrá que ni pintada!\r
+La Gracídea le queda de maravilla\na SHAYMIN.\f¡Úsala cuando haga buen tiempo!
+¿Quieres Abono?\nTe lo recomiendo.\rSi se lo echas a las Bayas,\ncrecerán mucho más rápido.\r
+Este {STRVAR_1 8, 0, 0} está hecho de\ntierra de la mejor calidad y...\feso que tú sabes... de Pokémon.\f¡Es muy nutritivo!\r¡Las Bayas te crecerán bien hermosas!
+¡Vuelve cuando quieras!
+Has comprado {STRVAR_1 8, 0, 0}.\r
+Vaya...\nTu Bolsa está llena.
+Esto... Lo siento,\npero no tienes bastante dinero.

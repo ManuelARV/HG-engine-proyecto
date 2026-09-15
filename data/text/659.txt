@@ -1,0 +1,15 @@
+Fredo
+Mmm... Esto no se oye.\nSi quieres contarme algo,\fmarca desde otro lugar.\rEse es mi consejo.
+Aquí Fredo, ¿qué se te ofrece?\n¿Yo? Tan bien como siempre.\r
+Hay otros, otros incluso más\npoderosos que mi persona.\rNo dejes que te venzan.\n¡Entrena y pisotéalos a todos!
+Me levanto muy temprano. Si quieres\ncombatir, prefiero las mañanas.\rPor ejemplo... los lunes por la mañana.\nLlámame y ya veremos.
+¡Tienes el don de la oportunidad!\nHabía acabado de desayunar hace\fun rato y estaba medio aburrido.\f¿Te apetece luchar otra vez?{YESNO 0}
+¡Así me gusta! ¡Franqueza!\rMe tienes en el Dojo de Ciudad Azafrán.\n¡Ven pronto!
+Bueno, qué se le va a hacer.\nLlámame cuando te venga bien.\rPero yo solo puedo los lunes\npor la mañana, ¿eh?
+¿Seguro que puedes combatir contra mí?\rPrimero deberías atender compromisos\nanteriores, ¿no crees?
+Te espero en el Dojo de Ciudad Azafrán.\nYo nunca llego tarde.\fEspero lo mismo de ti.
+Fredo al habla. ¿Cómo estás?\r
+Nos enfrentamos en el Dojo de Ciudad\nAzafrán. ¿A que te acordabas?\fAllí te espero.
+Me ha vencido un Entrenador\nque podría ser mi hijo, es más,\fpodría ser hasta mi nieto.\rA pesar de todo, lo extraño es que\nno me da rabia. Estoy satisfecho.\rMe emociona encontrar Entrenadores\ncon talento. Solo quería llamarte\fpara decirte esto. ¡Hablamos!
+¿Sabes por qué me llaman Fredo?\nEs por mi estilo de lucha.\rEl frío es mi aliado, como los\nárboles que en invierno parecen\fmarchitos pero están poblados\fde brotes. Ese soy yo.\rLa fortaleza ante todo.\nHay libros que hablan sobre este\ftema. Búscalos si tienes curiosidad.
+A propósito, he oído que has frustrado\nlos planes del Team Rocket.\rTus actos son dignos de alguien\nque ha sido capaz de vencerme.\rHasta yo voy a poder aprender algo\nde ti en el futuro. Estoy seguro.

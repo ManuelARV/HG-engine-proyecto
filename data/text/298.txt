@@ -1,0 +1,6 @@
+SALIR
+EN EL EQUIPO
+¿Te parecen bien estos 3?
+¿Te parece bien este Pokémon?
+¿Anulas tu participación?
+¿Qué Pokémon quieres sacar?

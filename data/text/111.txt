@@ -1,0 +1,16 @@
+¿Qué dices?\r¿Que oyes el silbido del viento\ncolándose aquí por alguna parte?\rNo, ese “Fiuuu fiuuu” lo hago yo\nensayando mis silbidos.\rCambiando de tema,\n¿quieres comprar algo? {YESNO 0}
+¿Cómo habéis descubierto\nla escalera secreta?\fCon lo bien camuflada que está...
+¡Je, je, je!\n¡Mi estrategia ha sido un gran éxito!\rLos MAGIKARP no se venden, pero los\nGYARADOS me los quitan de las manos.\n
+¡Uf!...\rLos Pokémon dragón de ese chico\nson demasiado fuertes...
+Lance: DRAGONITE, Hiperrayo.\r
+¡Ya estás aquí, {STRVAR_1 3, 0, 0}!\rTal y como creía, esa extraña señal de\nradio proviene de aquí.\r
+¡Ya estás aquí, {STRVAR_1 3, 0, 0}!\rTal y como creía, esa extraña señal de\nradio proviene de aquí.\r
+Las escaleras están justo aquí.\r
+Lance: {STRVAR_1 3, 0, 0}, debemos\nsepararnos para inspeccionar el lugar.\fIré yo primero.\r
+Lance: {STRVAR_1 3, 0, 0}, debemos\nsepararnos para inspeccionar el lugar.\fIré yo primero.\r
+Fiuuu fiuuu.\r¿Te inquieta ese ruido?\nPues resulta que es el aire silbando\fentre los huecos de mi dentadura.\rCambiando de tema, ¿quieres algo?\r
+La radio está encendida.\rEmiten En busca del Pokémon perdido\nen el Canal Variedades.
+La radio está encendida.\rEmiten un serial en\nel Canal Variedades.
+La radio está encendida.\rEmiten Las contraseñas de Buena\nen el Canal Variedades.
+¡En la radio están proclamando\nel retorno del Team Rocket!...
+¡Se oye un ruido extraño!...

@@ -1,0 +1,7 @@
+Es una estatua de un antiguo Pokémon.
+Mmm...\n¿Y esto? No lo había visto antes...\r¿Qué será lo que significan estos\ncaracteres?...\f...\r
+¡Vamos! ¡Tenemos que volver\nal Centro de Investigación!\r
+Este es el significado\nde esos grabados...\r
+AMIGOS\nCONTEMPLAMOS\fBENDECIMOS\r
+Mmm... ¿Qué podría significar?\nCreo que tendremos que examinar\flas ruinas de nuevo.\r
+¡{STRVAR_1 3, 0, 0} ha registrado datos en\nel Bloc UNOWN!

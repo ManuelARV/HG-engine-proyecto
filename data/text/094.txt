@@ -1,0 +1,13 @@
+Yasmina: Este pequeñín siempre\niluminaba el mar por la noche.\rPero de pronto enfermó...\nLe cuesta respirar.\rDicen que hay una farmacia\nestupenda en Ciudad Orquídea...\rpero está al otro lado del mar...\ny no puedo dejar solo a Amphy...\rQuisiera pedirte un favor.\n¿Podrías ir a buscar la medicina por mí?\rDejaré esta entrada abierta...\r
+Quisiera pedirte un favor.\n¿Podrías ir a buscar la medicina por mí?\r
+Yasmina: ¿Le servirá de algo\na Amphy la medicina? {YESNO 0}
+{STRVAR_1 3, 0, 0} entregó la Poción Secreta\na Yasmina.
+Yasmina: Mmm...\nPor favor, no te ofendas...\rAmphy no aceptaría nada de nadie.\nSolo confía en mí.\r
+Yasmina: ...\rAmphy, ¿cómo te sientes?\r
+Amphy: ¡Amphy! ¡Amphy!\r
+Yasmina: ¡Oh!... ¡Menos mal!...\rEs tan estupendo...\nMuchísimas gracias.\rRegresaré al Gimnasio...\r
+Yasmina: Ya veo...\r
+¡Amphy, aguanta!\r
+Amphy: ¡Am... Am... phyphy...!\r
+Apenas puede respirar...
+Amphy: ¡Amphy! ¡Amphy!

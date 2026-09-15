@@ -1,0 +1,8 @@
+¡Hay una planta de Bonguri!\r
+¡Es un {STRVAR_1 8, 1, 0}!\r
+Pero no tiene Bonguri...
+{STRVAR_1 3, 0, 0} ha obtenido\nun {STRVAR_1 8, 1, 0}.
+{STRVAR_1 3, 0, 0} ha puesto\nel {STRVAR_1 8, 1, 0} en la Caja Bonguri.
+O eso parecía, pero no tiene\ndónde guardar sus Bonguri.\r{STRVAR_1 3, 0, 0} ha dejado\nel {STRVAR_1 8, 1, 0}.
+O eso parecía, pero ¡vaya!\n¡La Caja Bonguri está llena!\r{STRVAR_1 3, 0, 0} ha dejado\nel {STRVAR_1 8, 1, 0}.
+No tienes dónde guardarlo,\nasí que no puedes cogerlo.

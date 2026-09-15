@@ -1,0 +1,11 @@
+¡Oye! ¿Y tú cómo has entrado aquí?\r
+¡Me toca a mí! ¡No puedes huir!\r
+Es una estatua de PERSIAN...\nSus ojos rojos brillan...\rEs como si alguien te estuviera\nobservando...
+Es una estatua de PERSIAN...\nSus ojos rojos brillan...\rNo tienes la impresión de que nadie\nte esté observando...
+Los ojos de la estatua de PERSIAN...\nya no brillan...
+¡Un botón secreto!\rUn piloto parpadea con una\nsugerente luz roja.\f¿Quieres pulsarlo? {YESNO 0}
+¡Un botón secreto!\nUn piloto azul está encendido.\f¿Quieres pulsarlo? {YESNO 0}
+Clic.\r
+El piloto del botón secreto\nse ha apagado.
+¡Se ha desconectado\nel sistema de vigilancia!
+¡Se ha conectado\nel sistema de vigilancia!

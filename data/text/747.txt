@@ -1,0 +1,40 @@
+¿Cuál quieres enseñarle\na {STRVAR_1 1, 0, 0}?
+¿Quieres enseñarle {STRVAR_1 6, 1, 0}?
+¿Prefieres que {STRVAR_1 1, 0, 0} no aprenda\nel nuevo movimiento?
+¡{STRVAR_1 1, 0, 0} aprendió\n{STRVAR_1 6, 1, 0}!\r
+¡{STRVAR_1 1, 0, 0} quiere aprender el\nmovimiento {STRVAR_1 6, 1, 0}!\rPero {STRVAR_1 1, 0, 0} ya conoce\ncuatro movimientos.\r¿Quieres sustituir uno de esos\nmovimientos por {STRVAR_1 6, 1, 0}?
+1, {PAUSE 0}2 y{PAUSE 0}... {PAUSE 0}... {PAUSE 0}... ¡puf!{WAIT 0}{WAIT 0}\r¡{STRVAR_1 1, 0, 0} olvidó cómo utilizar\n{STRVAR_1 6, 1, 0}!\rY...\r
+¡{STRVAR_1 1, 0, 0} aprendió\n{STRVAR_1 6, 1, 0}!{WAIT 0}{WAIT 0}\r
+¿Prefieres que no aprenda\n{STRVAR_1 6, 1, 0}?
+¡{STRVAR_1 1, 0, 0} no aprendió\n{STRVAR_1 6, 1, 0}!\r
+                              
+¿Quieres que olvide\nel movimiento {STRVAR_1 6, 0, 0}?
+¿Qué movimiento quieres\nque {STRVAR_1 1, 0, 0} recuerde?
+¿Recordar el movimiento\n{STRVAR_1 6, 1, 0}?
+¿Dejas de intentar que {STRVAR_1 1, 0, 0}\nrecuerde un movimiento?
+¡{STRVAR_1 1, 0, 0} recordó el movimiento\n{STRVAR_1 6, 1, 0} que había olvidado!\r
+¡{STRVAR_1 1, 0, 0} quiere recordar\nel movimiento {STRVAR_1 6, 1, 0}!\rPero {STRVAR_1 1, 0, 0} ya conoce\ncuatro movimientos.\r¿Quieres sustituir uno de esos\nmovimientos por {STRVAR_1 6, 1, 0}?
+1, {PAUSE 0}2 y{PAUSE 0}... {PAUSE 0}... {PAUSE 0}... {PAUSE 0}¡puf!{WAIT 0}{WAIT 0}\r¡{STRVAR_1 1, 0, 0} olvidó cómo utilizar\n{STRVAR_1 6, 1, 0}!\rY...\r
+¡{STRVAR_1 1, 0, 0} recordó el movimiento\n{STRVAR_1 6, 1, 0}!{WAIT 0}{WAIT 0}\r
+¿Dejar de recordar\nel movimiento {STRVAR_1 6, 1, 0}?
+¡{STRVAR_1 1, 0, 0} no ha recordado\nel movimiento {STRVAR_1 6, 1, 0}!\r
+                              
+¿Quieres que este Pokémon\nolvide el movimiento {STRVAR_1 6, 0, 0}?
+CATEG.
+POTENC.
+PRECIS.
+PP
+      
+        
+       
+{STRVAR_1 52, 0, 0}
+{STRVAR_1 52, 0, 0}
+{STRVAR_1 51, 0, 0}/{STRVAR_1 51, 0, 0}
+   
+---
+VOLVER
+APRENDER
+¿CUÁL QUIERES ENSEÑARLE?
+{STRVAR_1 1, 0, 0}
+Nv. {STRVAR_1 52, 0, 0}
+MOV. APRENDIDOS

@@ -1,0 +1,14 @@
+Jonay
+¡Eh, tú! ¡Vamos a ser amigos!\rA la gente mala no le gustan los\nPokémon, así que estoy convencido\fde que tú eres buena gente.\rNo puedo esperar a hablar contigo\nsobre PIKACHU, SLOWPOKE, TENTACRUEL\fy cualquier otro Pokémon.\r¿Me das tu teléfono?{YESNO 0}
+¡Hurra!\n¡Vamos a hablar sobre los Pokémon!
+A ti en realidad... no te gustan\nlos Pokémon, ¿verdad?
+¡Hablemos sobre los Pokémon!\n¿Me das tu número de teléfono?{YESNO 0}
+¡Te estaba buscando! Mira...\n¿Lo ves? ¡Eso es!\r¡Estoy seguro de que a tus Pokémon\ntambién les gustará mi regalo!\r
+¿Eh? Estás cerca de mí, ¿no?\nLo sabía.\rDe ti emana un aura de cariño a los\nPokémon muy poderosa y la siento\fdesde aquí.\r¡Déjate de historias y ven aquí!\n¡Vamos a tener una Pokécharla!
+Escucha esto: mi {STRVAR_1 0, 10, 0} sonríe\nsi le pellizco el moflete,\fpero solo si lo hago yo.\rDebo de ser especial, muy especial.\r¡Oh, hace poco mi PIKACHU venció a\nun {STRVAR_1 0, 11, 0} salvaje!\f¡Un {STRVAR_1 0, 11, 0} salvaje!\r¿No crees que es impresionante?\n¡Mi PIKACHU es asombroso!\f¡Mi PIKACHU es el mejor!\r¡Hala, ya hablamos!
+Escucha esto: mi {STRVAR_1 0, 11, 0} sonríe\nalegre si le pellizco el moflete,\fpero solo si lo hago yo.\rDebo de ser especial.\rOh, vi un {STRVAR_1 0, 11, 0} salvaje\nhace un tiempo, pero no era muy chulo,\fasí que lo dejé irse.\rLos Pokémon han de ser chulos,\nsi no, no sirven ni de adorno.\r¡Hala, ya hablamos!
+¿Cómo está tu equipo Pokémon?\r¡Tenemos que quedar para presumir\nde nuestros Pokémon!
+Quiero darte una Pepita.\rA mi PIKACHU le encantan.\n¡Seguro que a tus Pokémon también!
+¿Dónde estás?\rTe espero en {STRVAR_1 4, 3, 0}.\nVen a por ello cuando quieras.
+¿Te acuerdas? Hoy es el Concurso de\nCaptura de Bichos. ¿Vas a ir, no?\rCreo que participaré con mi PIKACHU\npara que todos lo admiren.
+El Concurso de Captura de Bichos\nse celebra hoy en el Parque Nacional.\f¿Vas a ir, {STRVAR_1 3, 0, 0}?\rYo estoy que no me decido...\n¡No sé qué hacer!

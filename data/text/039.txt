@@ -1,0 +1,48 @@
+{ALN_CENTER}Giravoltorb Nv. {STRVAR_1 50, 0, 0}
+{ALN_CENTER}¡Consigue Fichas girando los paneles!
+¡...x1¡ ¡...x2! ¡...x3!
+¡Pierdes! ¡Ninguna Ficha!
+{ALN_CENTER}Total de Fichas\n{ALN_CENTER}obtenidas por {STRVAR_1 3, 0, 0}
+{ALN_CENTER}Fichas obtenidas\n{ALN_CENTER}en esta partida
+{ALN_CENTER}Abrir\n{ALN_CENTER}marcas
+{ALN_CENTER}Cerrar\n{ALN_CENTER}marcas
+{ALN_CENTER}Parar
+{ALN_CENTER}Los números debajo y a la derecha\n{ALN_CENTER}de los paneles indican el número de\n{ALN_CENTER}Fichas y de VOLTORB escondidos.
+{ALN_CENTER}Toca sobre “Abrir marcas”\n{ALN_CENTER}para que aparezca la paleta de marcas.\n{ALN_CENTER}Puedes añadir o borrar marcas\n{ALN_CENTER}tocando sobre los paneles.
+{ALN_CENTER}Si descubres paneles en este orden,\n{ALN_CENTER}¡ganas +3x1x2x1x3 = 18 Fichas!\n{ALN_CENTER}A continuación...
+{ALN_CENTER}Selecciona “Parar”\n{ALN_CENTER}para conservar las 18 Fichas.
+{ALN_CENTER}¡Si descubres un VOLTORB,\n{ALN_CENTER}pierdes las Fichas obtenidas!
+Tienes 50 000 Fichas.\nNo puedes obtener más.\r
+¿Quieres jugar a Giravoltorb Nv. {STRVAR_1 50, 0, 0}?
+¿Quieres jugar a Giravoltorb Nv. {STRVAR_1 50, 0, 0}?
+JUGAR
+INSTRUCCIONES
+SALIR
+¿Sobre qué quieres saber?
+CÓMO JUGAR
+¡PISTAS!
+NOTAS
+ATRÁS
+Giravoltorb consiste en girar\npaneles para descubrir los números\fque se esconden detrás.\rTras los paneles puedes encontrar\nnúmeros del 1 al 3 o también VOLTORB.\rEl primer número que descubres indica\nlas Fichas con las que empiezas a jugar.\rEse valor se multiplicará por el\nsiguiente número que descubras,\fy así sucesivamente.\rUn 2 duplica tus Fichas y\nun 3 las triplica.\rPero si descubres un VOLTORB,\nla partida termina y pierdes las Fichas\fque hayas obtenido.\rPuedes abandonar la partida\nseleccionando “Parar”.\rEsto es aconsejable cuando girar otro\npanel es demasiado arriesgado.\rSi descubres todos los 2 y 3,\nganas la partida y podrás jugar\fen el nivel siguiente.\rCuanto mayor sea el nivel de dificultad,\nmás Fichas podrás obtener.\r
+Los números debajo y a la derecha\nde los paneles indican el número de\fFichas totales que se esconden tras\funa fila o una columna.\rCuanto mayores sean esos números,\nmayores serán los valores\ftras los paneles.\rTambién se indica el número total de\nVOLTORB en cada fila y cada columna.\r¡Tenlo en cuenta antes de girar\nlos paneles!\r
+Si quieres marcar los paneles,\nselecciona “Abrir marcas”.\rPuedes añadir marcas con los números\n1, 2 y 3 o con un VOLTORB.\rSi crees que sabes lo que esconde\nun panel, abre las notas y márcalo.\rPara borrar una de tus marcas, vuelve\na tocarla mientras la paleta de marcas\festá activa.\r
+¿Será este el último panel?...
+Veamos qué pasa...
+“{STRVAR_1 50, 0, 0}” ¡Fichas obtenidas: {STRVAR_1 50, 0, 0}!
+“x{STRVAR_1 50, 0, 0}” ¡Fichas obtenidas: {STRVAR_1 53, 1, 0}!
+¡Qué lástima! ¡Te quedas sin Fichas!
+¡Has ganado!\rHas descubierto todos los 2 y 3\nque había tras los paneles y has\fconseguido todas las Fichas.\r¡Enhorabuena!\r
+Si te plantas ahora, el número\nde Fichas restante será {STRVAR_1 53, 0, 0}.\f¿Quieres parar la partida?
+  
+   
+¡No has obtenido ninguna Ficha!\n¿Quieres parar la partida?
+  
+   
+¡{STRVAR_1 3, 1, 0} obtuvo {STRVAR_1 53, 0, 0} Ficha(s)!\r
+¡Pasas al Nv. {STRVAR_1 50, 0, 0}!\r
+¡Enhorabuena!\r¡En este nivel podrás obtener\nun mayor número de Fichas!\r
+Vuelves al Nv. {STRVAR_1 50, 0, 0}.\r
+           
+              
+Tablero n.º {STRVAR_1 51, 0, 0}
+Nivel siguiente: {STRVAR_1 50, 1, 0}

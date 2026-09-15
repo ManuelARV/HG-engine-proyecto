@@ -1,0 +1,14 @@
+¡Escucha!\n¿Entrenas Pokémon?\rCuando vayas por caminos\nde montaña es posible que\fte encuentres rocas redondas.\rPero si sabes el movimiento Fuerza,\npodrás moverlas.\r¡Cualquier Montañero que suba\nal Monte Mortero lo conoce!
+Ñam, ñam, ñam...\n¡Cof, cof...!\r¡Casi me ahogo!\nNo puede ser.\rTengo que comer más despacio.
+Cuando vengo a Ciudad Olivo,\nsiempre visito el Café Olivo.\rTodo lo que hay en el menú me llena de\nenergía. ¡No puedo parar de comer!
+¡El menú del Café Olivo está repleto\nde buena comida para fornidos\fMarineros!
+Yasmina: ¿Qué tal estás?\n¡...!\rAh... No... No te vayas a pensar,\nque me he comido todo lo que había\fen este plato...\rDe verdad...\nEsto es de la persona que estaba aquí\fantes que yo...\r...\r¿Quieres mi número de teléfono?\nPor eso has venido, ¿no?{YESNO 0}
+¡{STRVAR_1 3, 0, 0} ha registrado a Yasmina\nen el Pokégear!
+Yasmina: Ahora podremos hablar\nsiempre que queramos.\rLos miércoles a mediodía tengo\nun rato para combatir.\fLlámame, ¿vale?
+Yasmina: Ah... Pues... Bueno...
+Yasmina: ¿Quieres mi número\nde teléfono?{YESNO 0}
+Yasmina: Tú y yo...\nTenemos mucho en común.\rDeberíamos hacernos una foto\nde recuerdo. ¿Qué te parece?{YESNO 0}
+Yasmina: Vale, prepárate.\r
+Yasmina: Ya está.\nHa salido muy bien.
+Yasmina: Como quieras...
+Tu Álbum de Fotos está lleno.\rUsa el PC para hacer un poco\nde sitio en tu Álbum.

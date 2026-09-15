@@ -1,0 +1,14 @@
+Encargado
+¿Dígame? Sí, dime.\rLos jóvenes últimamente llaman aun\nestando cerca. Yo prefiero verle\fla cara a la persona con quien hablo.
+¿Diga?\n¡Pero si eres tú!\r
+Los Pokémon que estamos cuidando\ntienen un Huevo. ¿De dónde lo sacarían?\r¡A que quieres saber de qué es\nel Huevo!\r¡Ven corriendo a llevártelo!
+Aquí no tenemos ningún Pokémon tuyo.\r
+{STRVAR_1 0, 10, 0} está estupendamente.\r
+Tu {STRVAR_1 0, 10, 0} y tu\n{STRVAR_1 0, 11, 0} están muy bien.\r
+Diría que se llevan estupendamente.\r
+Diría que se llevan bastante bien.\r
+Aunque no parece que\nse compenetren mucho.\r
+Pero, más que juntos, prefieren\njugar con otros Pokémon.\r
+Pásate cuando quieras.
+Hola, soy yo, el encargado\nde la Guardería.\rEstábamos criando tus Pokémon y\n¡vaya sorpresa que nos hemos llevado!\f¡Tus Pokémon tenían un Huevo!\rTodavía no sabemos de dónde\nlo han sacado.\r¡Ven a llevártelo, joven!
+Hola, soy yo, el encargado\nde la Guardería.\rEstábamos criando tus Pokémon y\n¡vaya sorpresa que nos hemos llevado!\r¡Tus Pokémon tenían un Huevo!\n¿A que quieres verlo?\r¡Pues ven a por él!

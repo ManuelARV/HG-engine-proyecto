@@ -1,0 +1,15 @@
+Débora
+¿Qué pasa? ¡Eh! ¡Eh!\nNo se te oye ni se te escucha, monada.\rLlámame desde otro sitio.
+¿Diga? Ah, dime.\nSí, yo estoy guay.\r
+Yo no soy la única. Hay otros\nLíderes de Gimnasio fuertes.\f¡Entrénate y a por ellos!
+Pues... si quieres luchar otra vez\nconmigo, el viernes por la noche\fme va bien. Llámame entonces.\r¡Ni un momento antes ni después!
+Tu llamada me llega en el mejor\nmomento. ¿Luchamos un rato?{YESNO 0}
+¡Ji, ji, ji!\n¡Me alegra que tengas tantas ganas!\rTe espero en el Dojo de Ciudad Azafrán.
+¡Pero qué poca vergüenza...!\n¿Quieres hacerme quedar mal?
+¿Quieres luchar contra mí?\nPues vale, pero... ¿tienes tiempo?\rDeberías ver antes a quien hayas\nquedado en ver primero, ¿no crees?
+Te espero en el Dojo de Ciudad Azafrán.\nNo quiero ser el hazmerreír, ¿eh?\f¡Ven ya!
+Soy Débora. ¿Qué tal estás?\r
+Te espero en el Dojo de Ciudad Azafrán.\nEspero que no se te haya olvidado...\rTe acuerdas, ¿verdad? No puedes\nolvidarte de alguien tan guay como yo.
+El otro día vinieron a hacerme\nuna entrevista los de la radio.\fSabían lo famosa que era.\rLo malo es pensar que en la radio\nla gente no podrá apreciar mi belleza\finconmensurable...\r¿Qué pasa con la tele?\n¿Por qué no me entrevistan?
+Últimamente, todos hablan de lo\nelegante que es mi ropa. Lo comprendo.\rCon este estilo, es normal que la gente\nquiera comentarlo.\rEstoy más guapa que nadie.
+Tú también debes estar bastante liado.\rYo, así, así. Tengo que trabajar en el\nGimnasio, pasarme de vez en cuando\fpor el Santuario del Maestro del clan\fde los Domadragones y tal.\r¿Por qué no intentas hacerte\nDomadragón?

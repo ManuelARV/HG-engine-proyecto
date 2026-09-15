@@ -1,0 +1,15 @@
+Yasmina
+¿Eh? Esto no va...\nSerá... ¿el teléfono?\rPor favor, vuelve a marcar\ndesde otro sitio.
+¿Sí? Oh, ¿qué tal?\nYo estoy guay.\r
+No descuides tu entrenamiento, ¿eh?\nHay otros muchos Entrenadores\fa tu mismo nivel o más.
+Pues... los miércoles a mediodía\ntengo algo de tiempo.\fLlámame, ¿de acuerdo?
+Amphy está muy animado últimamente.\nYo también tengo por fin tiempo libre.\rYa que estamos, ¿combatimos?{YESNO 0}
+Muy bien.\nTe espero en el Dojo de Ciudad Azafrán.
+Vaya...
+¿Qué?\r¿No has quedado ya con alguien?
+Vale, te espero en el Dojo de Ciudad\nAzafrán. Vamos a pasarlo bien, ¿vale?
+Soy Yasmina.\n¡Se te oye con mucha alegría!\r
+¿Te acuerdas de que habíamos quedado?\nEstoy en el Dojo de Ciudad Azafrán...
+¿Has ido últimamente al Faro\nde Ciudad Olivo?\rEstoy tan liada con una cosa y con otra\nque no he podido ir a ver a Amphy.\rPero..., al ver la luz del Faro por la\nnoche me siento aliviada. Pues eso\fsignifica que Amphy está bien...
+Quiero preguntarte una cosilla.\n¿Qué te pareció mi Gimnasio?\r¿El ambiente te pareció normal?\nEs que... el acero es un material\fmuy frío. Quería una atmósfera\falgo más cálida...
+Baoba de la Zona Safari también\nse ha pasado por aquí.\rTiene algo raro, ¿no crees?\n

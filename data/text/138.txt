@@ -1,0 +1,115 @@
+                                                  
+                                                                    
+               
+                     
+               
+              
+                                                 
+                                
+                    
+                           
+                   
+               
+                                                                                                                                               
+                                                                                                                                                   
+                                                                                                                                                                                                                
+                                                                                                                                                                                                              
+                                                                                                                                                                                                                         
+                                                                                                                                                                                                                            
+                                                                                                                                                                                                                   
+                                                        
+                       
+                 
+                                       
+                                                                               
+                                                                                
+                                                                                
+                                                                                              
+                     
+                                 
+                                                                  
+                                          
+                                          
+                                           
+                                           
+                                
+                    
+                           
+                   
+                  
+                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                           
+                                                        
+                       
+                   
+¡Buenas! ¡Te damos la bienvenida\na la Tienda Atleta!\r¿Estás haciendo ejercicio del bueno?\n¡Sudor saltando en todas direcciones!\r¡Respiración agitada!\n¡El comienzo de nuevas amistades!\r¡Espero que te vaya bien en tu\nexperiencia de Pokéatleta!\rPuedes intercambiar los Puntos\nAtleta por objetos.\rLucha, lucha y lucha y acumula\npuntos a mansalva, te lo recomiendo.\rDicho esto, volvemos al principio...\r¡Buenas! ¡Te damos la bienvenida\na la Tienda Atleta!{YESNO 0}\n\n
+¡Buenas! ¡Te damos la bienvenida\na la Tienda Atleta!{YESNO 0}
+Hoy ya hemos cerrado.\rMañana tendremos novedades,\nno dejes de pasarte, ¿eh?
+¡Muchas gracias!
+Los puntos de Pokéathlon,\nsímbolo de amistad con los Pokémon,\flos puedes intercambiar aquí,\fjusto aquí, por premios morrocotudos.\r¡Consigue todos los puntos que puedas\ny ven a hacer trueque aquí!\r¿Se te ofrece algo más?{YESNO 0}
+¡Buenas! Aquí recopilamos\nlos récords de Pokéathlon.\rCompra una Tarjeta de Datos\ny podrás ver tus marcas\fen el monitor de aquí al lado.\rEstán incluidos un montón de tipos de\nrécords, hasta los más vergonzosos...\f¡No olvides echar un vistazo!\r¿Quieres comprar una Tarjeta\nde Datos con tus récords?{YESNO 0}
+¡Buenas! Aquí vendemos\nTarjetas de Datos con información\fde tus récords de Pokéathlon.\r¿Quieres comprar una Tarjeta\nde Datos con tus récords?{YESNO 0}
+¡Ji, ji, ji!\nYo sé más de ti de lo que te imaginas.\fPor ejemplo...\r
+El número de veces que has participado\nen Pokéathlon es...{STRVAR_1 51, 0, 0}.\f¡Ji, ji, ji!\r
+El número de veces que has participado\nen Pokéathlon es...\f¡más de 100 veces!\r
+En Pokéathlon se recopilan muchos tipos\nde datos. ¿No te interesa el asunto?\rPuedes conseguir la Tarjeta de Datos\nde récords a cambio de unos cuantos\fpuntos y luego puedes consultar\flos mismos en el monitor de justo aquí\fal lado. ¡No vaciles en comprar una!\r¿Se te ofrece algo más?{YESNO 0}
+¡Muchas gracias!
+¡Saludos, {STRVAR_1 3, 0, 0}!\n¿Qué tal van tus récords?\rCuando tengas tiempo, échale un vistazo\na tus estadísticas en el monitor.
+Ya no te podemos intercambiar\nningún otro tipo de Tarjeta de Datos.\r¡Pero todavía hay más clases\nde tarjeta! Dentro de un tiempo\fnos llegarán, vuelve a pasarte, ¿vale?\r¡Te esperamos!
+Ya no te podemos intercambiar\nningún otro tipo de Tarjeta de Datos.\r¡Pero todavía hay más clases\nde tarjeta! ¿Eh? ¡Ya las tienes todas!\r¡Eres increíble! ¡Sabía que\nlo conseguirías, {STRVAR_1 3, 0, 0}!\rAhora ya solo tienes que concentrarte\nen superar tus récords.\r¡Muchas gracias por contar\ncon nosotros en todo momento!
+Hay diez tipos de disciplinas.\nMmm...\rTengo que decidir\ncon qué Pokémon participo...
+Hay cinco tipos de pruebas distintos,\nde Velocidad, de Fortaleza,\fde Resistencia, de Salto y de Precisión.\rDeberás elegir el Pokémon más apto\npara cada una de ellas.
+Hay Pokémon a los que se les da mejor\nla Velocidad que cualquier otra prueba.\rPiensa siempre en un equipo equilibrado.
+Aquí delante está el museo\nde récords de Pokéathlon.\r¡Algún día seré un Pokéatleta digno\nde ser inscrito entre los mejores!
+Los puntos de Pokéathlon\nlos puedes intercambiar por premios.\r¡Aunque quedes el último,\npodrás conservar los puntos!
+Saltaobstáculos\r¡Multitud de vallas aguardan\na los Pokémon!\r¡Corre más rápido que nadie,\nsalta las vallas y gana la carrera!
+Atrapabanderas\rLa playa oculta numerosas banderas.\rEncuéntralas, no dejes que te las\nquiten y lleva más que nadie a la meta.
+Pisacírculos\rAquí todo Pokémon ha de\ndemostrar su fortaleza.\r¡Saca a todos los demás\nPokémon de los círculos!
+Rompelosas\rEl objetivo de tu Pokémon:\nderribar una columna de bloques.\r¡Cárgate la montaña de bloques\ncon la fortaleza de tu Pokémon!
+Atrapadiscos\rConsigue los discos de un salto.\r¡Reúne más que nadie!
+Botaluces\r¡El trampolín fantasmal!\rConsigue puntos gracias a los saltos\ny la técnica de tus Pokémon.
+Carrera de Relevos\r¡Corre hasta que se te acabe\nla resistencia!\r¡La llave de la victoria está\nen la cooperación de tres Pokémon!
+Fuera del Ring\r¡Empujones puros y duros!\r¡Supera el límite de tu resistencia\ny permanece en el ring!
+Nieve Cruzada\r¡Batalla de bolas de nieve!\r¡Apunta! ¡Dispara!\n¡La técnica lo es todo!
+Metegoles\r¡Métele un chupinazo al balón!\rAtaca, defiende y mete gol.\n¿Quién ganará?
+Colabora con tu Pokémon,\ndeposita tu confianza en él,\fcree en sus posibilidades.\r¡La amistad te llevará al mañana!\n¡El Pokéathlon está aquí!
+¡La bebida que potencia la amistad!\n¡A tu Pokémon, una buena Bongurchata!
+Blanca: ¡{STRVAR_1 3, 0, 0}!\r¿Has venido por casualidad\na participar en el Pokéathlon?\rComo lo han construido tan cerca de\nCiudad Trigal, yo también he venido\fa la que he tenido ocasión.\r
+¿Eh?\r¿Piensas participar de esa guisa?\nPrimero tienes que prepararte bien.\rA ver...\r¿Tú usas una talla M o S?\nMe parece que la M te irá mejor.\r¡Eso es!\rTe traeré un chándal del Pokéathlon\nde tu talla.\rYa que participas,\nmejor ponerse guapo, ¿no?\rEspera un momento.\r
+¡Te queda como un guante!\r
+¡{STRVAR_1 3, 0, 0} ha recibido un chándal!
+Ya tienes todo listo.\n¡Mira, yo también!\rHuy... ¡Se me han olvidado los Pokémon!\n¡Ahora vuelvo! ¡Nos vemos!\r
+¡Es una máquina expendedora\npara atletas! Puedes comprar\fcon Puntos Atleta.{YESNO 0}
+Te apetece...{YESNO 0}
+¡Clank!\rHa salido lo siguiente: {STRVAR_1 8, 0, 0}.\r
+¡Clank! ¡Qué suerte!\nTambién ha salido esto: {STRVAR_1 8, 0, 0}.\r
+No tienes suficiente dinero.
+No tienes suficientes puntos.
+Venta cancelada.
+Abriendo datos de Pokéathlon...\r
+¿Qué datos deseas ver?{YESNO 0}
+DATOS GENERALES{ALN_CENTER}
+DATOS DE DISCIPLINAS{ALN_CENTER}
+DATOS DE ACTIVIDAD{ALN_CENTER}
+SALIR{ALN_CENTER}
+Accediendo a los datos...
+Accediendo a los datos...
+Accediendo a los datos...
+¡Muchas gracias!
+¡Saludos! ¡Te damos la bienvenida\na la Tienda del Museo!\r
+Tu mirada despide brillo.\n¿Te puedo confíar mi último sueño?{YESNO 0}
+¡Mmm! ¿Se me han empañado los ojos?
+Las Pruebas de Salto siempre han sido\nmi debilidad. Cuando estaba en activo,\fmi récord eran 998 saltos.\rSolo quería hacer dos saltos más, ¡dos!\rPero con mi edad...\nno tuve más remedio que retirarme.\r¿Me harías el favor de saltar\n1000 veces en mi lugar?\r
+Sé que es una marca casi de otro\nuniverso, pero tú que eres joven,\fpodrías conseguirlo, ¡seguro!
+¡Eh, tú, tú! ¡Eres un monstruo!\n¡Has conseguido saltar 1000 veces!\r¡Gracias! ¡Toma, como recompensa!\r
+¡Me has emocionado tanto que ahora\nsoy fan acérrimo tuyo!\rYa estoy viejo, pero no dejaré de\ndedicarte palabras de aliento.
+¡Oye, oye! Por fin has superado\nlos 500 Placajes, ¿no?\r
+¡Je, je! ¡Estás poniendo\ntoda la carne en el asador!\fPero todavía te queda.\rNo hay Pokéatleta que supere\nmis Placajes.
+¡Oye!\n¡Por fin he superado los 1000 Placajes!\r
+¡Oye!\n¡Por fin he superado los 2000 Placajes!\rEste récord no lo supera cualquiera.\r
+¿Cómo? ¿Qué? ¡Imposible! ¡Inaudito!\n¡Has superado mi marca! ¡Nooooooooo!\rEstoy derrotado... Eres el mejor...\nAnda, toma esto.\r
+Uf... Qué alivio... Perder es una faena,\npero al menos ya conozco mi límite.\rEs bueno saber que hay siempre\nalguien mejor que tú.\r¡Ahora tengo un motivo para superarme!\n¡Tenemos que mejorar día a día!\f¡A por todas!

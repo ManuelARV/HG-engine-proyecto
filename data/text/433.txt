@@ -1,0 +1,16 @@
+¡Hola!\r¿Quieres Tarjetas Rasca?\nTres tarjetas cuestan {STRVAR_1 50, 0, 0} PB.\r
+¿Quieres comprar Tarjetas Rasca?{YESNO 0}
+COMPRAR
+INFORMACIÓN
+SALIR
+Vuelve cuando quieras.
+Tres Tarjetas Rasca cuestan {STRVAR_1 50, 0, 0} PB.\nEn ellas hay iconos de Pokémon.\rTienes tres intentos para rascar\nen cada tarjeta.\rSi sacas tres iconos iguales,\n¡ganarás un premio, p. ej., una Baya!\r
+Tres Tarjetas Rasca cuestan {STRVAR_1 50, 2, 0} PB.\n¿Te interesa?{YESNO 0}
+  
+   
+Genial, entonces selecciona\nqué tarjetas quieres comprar.\r
+Tarjetas premiadas: {STRVAR_1 50, 0, 0}.\n¡Enhorabuena!\r
+¡Es una pena! ¡No te queda espacio\npara guardar {STRVAR_1 8, 0, 0}!\r
+¡Has conseguido {STRVAR_1 50, 1, 0} {STRVAR_1 8, 0, 0}!
+Lo siento, no tienes suficientes PB.\nVuelve en otra ocasión.
+¡Hola!\n¿Quieres comprar Tarjetas Rasca?\rTres tarjetas cuestan {STRVAR_1 50, 0, 0} PB.\nEn ellas hay iconos de Pokémon.\rTienes tres intentos para rascar\nen cada tarjeta.\rSi sacas tres iconos iguales,\nganarás un premio, p. ej. una Baya.\rAdemás, el icono de DITTO\nes un comodín.\r¡Suerte con el rasca-rasca!\r

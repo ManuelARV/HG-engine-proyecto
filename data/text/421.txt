@@ -1,0 +1,73 @@
+       
+      
+      
+          
+        
+          
+        
+         
+        
+         
+               
+           
+          
+   
+           
+        
+       
+      
+       
+       
+      
+       
+             
+                           
+                          
+                          
+                              
+                            
+                       
+             
+                   
+                   
+              
+                    
+            
+                   
+      
+                               
+                 
+                
+{ALN_CENTER}BORRAR RÉCORD
+{ALN_CENTER}VOLVER
+{STRVAR_1 50, 0, 0}.
+{STRVAR_1 3, 1, 0}
+Vict. {STRVAR_1 53, 0, 0}
+Vict. {STRVAR_1 50, 0, 0}
+{STRVAR_1 55, 0, 0}
+{STRVAR_1 55, 0, 0}
+Elige el récord que desees borrar y\npulsa el Botón A o el Botón X.
+¿Borrar el récord de {STRVAR_1 3, 0, 0}?
+  
+   
+No puedes borrar tu propio récord.
+{ALN_CENTER}Récords de la Torre Batalla
+{ALN_CENTER}Victorias consec. en combate individual
+{ALN_CENTER}Récords de la Torre Batalla
+{ALN_CENTER}Victorias consecutivas en combate doble
+{ALN_CENTER}Récords de la Torre Batalla
+{ALN_CENTER}Victorias consec. en combate múltiple
+{ALN_CENTER}Récords de la Torre Batalla
+{ALN_CENTER}Victorias consec. en comb. múlt. conec.
+{ALN_CENTER}Récords de la Torre Batalla
+{ALN_CENTER}Victorias consecutivas en combate Wi-Fi
+{ALN_CENTER}Récords de la Torre Batalla
+{ALN_CENTER}Promedio de victorias
+{ALN_CENTER}Récords de la Torre Batalla
+{ALN_CENTER}Pokémon derrotados
+{ALN_CENTER}Récords de la Torre Batalla
+{ALN_CENTER}Pokémon atrapados con Poké Balls
+{ALN_CENTER}Récords de la Torre Batalla
+{ALN_CENTER}Número de Pokémon incubados en Huevos
+{ALN_CENTER}Récords de la Torre Batalla
+{ALN_CENTER}Pokémon encontrados pescando

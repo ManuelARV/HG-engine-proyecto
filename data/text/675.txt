@@ -1,0 +1,13 @@
+Chano
+Dime, ¿me das tu número de teléfono?\rTe llamaré para luchar cuando tenga\nganas.{YESNO 0}
+¡Te llamaré siempre que quiera luchar!
+Oh, bueno, como quieras.\r¡Pero no volveré a perder contra ti!\n¿Entendido?
+¿Me das tu número de teléfono?\r¡No quiero perder contra ti!\nVamos a luchar de nuevo, ¿vale?{YESNO 0}
+He perdido otra vez...\nNo hay manera de vencerte.\r¡Tanta derrota me hace sentir bien!\nToma. Con esto podrás ser aún mejor.\f¡Yo también trataré de superarme!\r
+Estás por aquí cerca, ¿no?\nVen a verme y déjate de llamadas.
+¿Te acuerdas de mi {STRVAR_1 0, 10, 0}?\nEstaba hecho un figura.\rPues bien, mi {STRVAR_1 0, 10, 0} es distinto\na los {STRVAR_1 0, 10, 0}.\rEs el mejor {STRVAR_1 0, 10, 0}\nde todos los {STRVAR_1 0, 10, 0}.\r¿Ves por dónde voy?
+Atrapé un {STRVAR_1 0, 11, 0} salvaje\nel otro día. Estuvo chupado.\rEn fin, ¿qué le vamos a hacer si\nsomos tan fuertes?\r¡Hasta luego!
+El otro día vi un {STRVAR_1 0, 11, 0} salvaje.\rIntenté capturarlo, pero no hubo\nsuerte. Soy un desastre a la hora de\fcazar Pokémon.
+¡Reunámonos para luchar!\n¡Esta vez no lo tendrás tan fácil!\rEstaré en {STRVAR_1 4, 3, 0}.\nAvísame cuando llegues. ¡Hasta luego!
+¿A qué esperas, {STRVAR_1 3, 0, 0}?\n¡Enfrentémonos!\r¡Te espero en {STRVAR_1 4, 3, 0}!
+Estoy estudiando los movimientos de\n{STRVAR_1 0, 10, 0} y pensando estrategias.\rCuando encuentre una buena, ¡luchamos!\n¡Hasta luego!

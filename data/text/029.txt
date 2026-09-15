@@ -1,0 +1,9 @@
+¡{STRVAR_1 0, 0, 0} atrapado!
+¿Quieres cambiar {STRVAR_1 0, 1, 0}\npor {STRVAR_1 0, 0, 0}?
+¡{STRVAR_1 0, 1, 0} fue liberado y\n{STRVAR_1 0, 0, 0} atrapado!
+¡{STRVAR_1 0, 0, 0} fue liberado y\n{STRVAR_1 0, 1, 0} conservado!
+{STRVAR_1 0, 0, 0}
+♂
+♀
+
+     

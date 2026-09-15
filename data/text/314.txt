@@ -1,0 +1,130 @@
+VOLVER
+PUNTOS
+RÉCORDS
+{STRVAR_4 1, 0, 0}
+{STRVAR_4 3, 0, 0}
+Trofeo Cooperación por 420 puntos
+Trofeo Cooperación por 450 puntos
+Puntos extra
+Ptos.: {STRVAR_1 52, 0, 0}
+--- Puntos
+{STRVAR_1 50, 0, 0}:{STRVAR_4 0, 1, 0}
+Trofeos de {STRVAR_1 3, 0, 0}
+Trofeo Cooperación
+Trofeo Confianza
+Trofeo Potencial
+Trofeo Amistad
+Puntos Totales Pokéathlon
+1er. Trofeo Amistad por 3000 puntos
+2º Trofeo Amistad por 3100 puntos
+3er. Trofeo Amistad por 3200 puntos
+4º Trofeo Amistad por 3300 puntos
+5º Trofeo Amistad por 3400 puntos
+6º Trofeo Amistad por 3600 puntos
+7º Trofeo Amistad por 3800 puntos
+8º Trofeo Amistad por 4000 puntos
+9º Trofeo Amistad por 4200 puntos
+10º Trofeo Amistad por 4500 puntos
+¡Obtenidos todos los T. Amistad!
+Total Pruebas: {CURSOR_X 0}{STRVAR_1 53, 0, 0} puntos
+Total Disciplinas: {CURSOR_X 0}{STRVAR_1 53, 0, 0} puntos
+Total Insignias: {CURSOR_X 0}{STRVAR_1 53, 0, 0}
+Total
+Obtenidos
+{ALN_CENTER}“Pokéatleta en ciernes”\n{ALN_CENTER}Más que por sus Trofeos,\n{ALN_CENTER}se le reconoce por su amistad.
+{ALN_CENTER}“Aprendiz Pokéatleta”\n{ALN_CENTER}Más que por sus Trofeos,\n{ALN_CENTER}se le reconoce por su amistad.
+{ALN_CENTER}“Pokéatleta principiante”\n{ALN_CENTER}Más que por sus Trofeos,\n{ALN_CENTER}se le reconoce por su amistad.
+{ALN_CENTER}“Pokéatleta de nivel medio”\n{ALN_CENTER}Más que por sus Trofeos,\n{ALN_CENTER}se le reconoce por su amistad.
+{ALN_CENTER}“Pokéatleta de nivel avanzado”\n{ALN_CENTER}Más que por sus Trofeos,\n{ALN_CENTER}se le reconoce por su amistad.
+{ALN_CENTER}“Pokéatleta de nivel superior”\n{ALN_CENTER}Más que por sus Trofeos,\n{ALN_CENTER}se le reconoce por su amistad.
+{ALN_CENTER}“As Pokéatleta”\n{ALN_CENTER}Más que por sus Trofeos,\n{ALN_CENTER}se le reconoce por su amistad.
+{ALN_CENTER}“Superpokéatleta”\n{ALN_CENTER}Más que por sus Trofeos,\n{ALN_CENTER}se le reconoce por su amistad.
+{ALN_CENTER}“Pokéatleta de prestigio”\n{ALN_CENTER}Más que por sus Trofeos,\n{ALN_CENTER}se le reconoce por su amistad.
+{ALN_CENTER}“Pokéatleta excepcional”\n{ALN_CENTER}Más que por sus Trofeos,\n{ALN_CENTER}se le reconoce por su amistad.
+{ALN_CENTER}“Pokéatleta excelente”\n{ALN_CENTER}Más que por sus Trofeos,\n{ALN_CENTER}se le reconoce por su amistad.
+{ALN_CENTER}“Pokéatleta de élite”\n{ALN_CENTER}Más que por sus Trofeos,\n{ALN_CENTER}se le reconoce por su amistad.
+{ALN_CENTER}“Hiperpokéatleta”\n{ALN_CENTER}Más que por sus Trofeos,\n{ALN_CENTER}se le reconoce por su amistad.
+{ALN_CENTER}“Megapokéatleta”\n{ALN_CENTER}Más que por sus Trofeos,\n{ALN_CENTER}se le reconoce por su amistad.
+{ALN_CENTER}“Pokéatleta invencible”\n{ALN_CENTER}Más que por sus Trofeos,\n{ALN_CENTER}se le reconoce por su amistad.
+{ALN_CENTER}“Pokéatleta veterano”\n{ALN_CENTER}Más que por sus Trofeos,\n{ALN_CENTER}se le reconoce por su amistad.
+{ALN_CENTER}“Experto Pokéatleta”\n{ALN_CENTER}Más que por sus Trofeos,\n{ALN_CENTER}se le reconoce por su amistad.
+{ALN_CENTER}“Genio Pokéatleta”\n{ALN_CENTER}Más que por sus Trofeos,\n{ALN_CENTER}se le reconoce por su amistad.
+{ALN_CENTER}“Rey del Pokéathlon”\n{ALN_CENTER}Más que por sus Trofeos,\n{ALN_CENTER}se le reconoce por su amistad.
+{ALN_CENTER}“Emperador del Pokéathlon”\n{ALN_CENTER}Más que por sus Trofeos,\n{ALN_CENTER}se le reconoce por su amistad.
+{ALN_CENTER}“Maestro del Pokéathlon”\n{ALN_CENTER}Más que por sus Trofeos,\n{ALN_CENTER}se le reconoce por su amistad.
+Participación: {STRVAR_1 56, 0, 0} veces
+Récord disciplina Modo Indiv.
+Récord disciplina Modo Conex.
+           
+   
+   
+   
+   
+{STRVAR_4 0, 0, 0}
+Elige disciplina
+Récord de disciplinas
+Total de los Pokémon en segundos
+Total banderas
+Puntos en los Pisacírculos
+Losas rotas
+Puntos Atrapadiscos
+Puntos Botaluces
+Vueltas completadas
+Puntos Fuera del Ring
+Bolas de nieve certeras
+Puntos Metegoles
+Modo Conex.
+Trof. Potencial por 80 segundos
+Trof. Potencial por 50 banderas
+Trof. Potencial por 60 puntos
+Trof. Potencial por 130 losas
+Trof. Potencial por 70 puntos
+Trof. Potencial por 500 puntos
+Trof. Potencial por 16 vueltas
+Trof. Potencial por 100 puntos
+Trof. Potencial por 55 bolas
+Trof. Potencial por 9 puntos
+{STRVAR_1 52, 0, 0},{STRVAR_1 51, 1, 0} s
+{STRVAR_1 52, 0, 0} band.
+{STRVAR_1 52, 0, 0} puntos
+{STRVAR_1 52, 0, 0} losas
+{STRVAR_1 52, 0, 0} puntos
+{STRVAR_1 52, 0, 0} puntos
+{STRVAR_1 52, 0, 0},{STRVAR_1 50, 1, 0} vue.
+{STRVAR_1 52, 0, 0} puntos
+{STRVAR_1 52, 0, 0} bolas
+{STRVAR_1 52, 0, 0} puntos
+---,-- s
+--- band.
+--- puntos
+--- losas
+--- puntos
+--- puntos
+--- vueltas
+--- puntos
+--- bolas
+--- puntos
+Total
+{STRVAR_1 52, 0, 0}
+Plusmarquista: {STRVAR_1 3, 0, 0}
+¡Arrebátale el primer puesto!
+Conex.
+Indiv.
+     
+Sig. T. Confianza con 1 Pokémon
+Sig. T. Confianza con 2 Pokémon
+Sig. T. Confianza con 5 Pokémon
+Sig. T. Confianza con 10 Pokémon
+Sig. T. Confianza con 25 Pokémon
+Sig. T. Confianza con 50 Pokémon
+Sig. T. Confianza con 75 Pokémon
+Sig. T. Confianza con 100 Pokémon
+Sig. T. Confianza con 150 Pokémon
+Sig. T. Confianza con 200 Pokémon
+¡Obtenidos todos los T. Confianza!
+Insignia de {STRVAR_1 0, 0, 0}
+       
+Pokémon\nInsignia:
+Récord Pokémon
+Insignias Pokémon: {STRVAR_1 52, 0, 0}
+{ALN_CENTER}{STRVAR_1 51, 0, 0}/{STRVAR_1 51, 1, 0}

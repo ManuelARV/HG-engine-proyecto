@@ -1,0 +1,53 @@
+Te doy la bienvenida al Castillo Batalla.\rSoy la guía de las Salas de Combate\nIndividual y Doble.\rTen en cuenta que estos desafíos están\npensados para un solo Entrenador.\r
+¿Qué reto te gustaría afrontar?{YESNO 0}
+En el Castillo Batalla puedes competir\nen combates dobles o individuales.\rSe te otorgarán Puntos del\nCastillo (PC), que debes administrar.\rLos PC se usan para curar Pokémon,\nalquilar objetos, comprar Bayas, etc.\rLos PC se obtienen ganando combates, y\nla cantidad varía según cómo ganes.\rLa meta es ganar todos los combates\nconsecutivos que puedas usando los PC.\rSi ganas siete combates seguidos,\nconseguirás Puntos de Batalla (PB).\rSi quieres interrumpir el desafío,\nno olvides guardar antes la partida.\rSi no la guardas, se te descalificará.\r¡Tenlo en cuenta!\r
+Te doy la bienvenida al Castillo Batalla.\rSoy la guía de las Salas de Combate\nMúltiple.\rTen en cuenta que estos desafíos están\npensados para dos Entrenadores.\r
+¿Aceptas el desafío de los combates\nmúltiples del Castillo Batalla?{YESNO 0}
+Para participar en combates múltiples,\ndebes formar equipo con otra persona.\rRecibiréis Puntos del Castillo (PC) que\ndeberéis administrar.\rLos PC se usan para curar Pokémon,\nalquilar objetos, comprar Bayas, etc.\rLos Entrenadores pueden usar PC no\nsolo en sus Pokémon, sino también\fen los de su compañero de equipo.\rAmbos Entrenadores obtienen PC\nganando combates.\rEl objetivo es ganar todos los combates\nconsecutivos que sea posible usando PC.\rSi ganáis siete combates seguidos,\nobtendréis Puntos de Batalla (PB).\rLos combates múltiples del Castillo\nBatalla no se pueden interrumpir.\r
+¡Vuelve cuando quieras!
+Selecciona los Pokémon que quieres\nque participen.\r
+¡Lo siento!\rNo tienes {STRVAR_1 50, 0, 0} Pokémon válidos.\rNecesitas {STRVAR_1 50, 1, 0} Pokémon diferentes\npara poder participar.\r
+Además, no se puede participar\ncon Huevos.\r
+Los Huevos y {STRVAR_1 0, 1, 0} no pueden\nparticipar.\r
+Los Huevos, {STRVAR_1 0, 1, 0} y\n{STRVAR_1 0, 2, 0} no pueden participar.\r
+Los Huevos, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0}\ny {STRVAR_1 0, 3, 0} no pueden participar.\r
+Los Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0} y\f{STRVAR_1 0, 4, 0} no pueden participar.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0} ni {STRVAR_1 0, 5, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0}\fni {STRVAR_1 0, 6, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0} ni {STRVAR_1 0, 7, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0}\fni {STRVAR_1 0, 8, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0} ni {STRVAR_1 0, 9, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0}\fni {STRVAR_1 0, 10, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\f{STRVAR_1 0, 10, 0} ni {STRVAR_1 0, 11, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\f{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0}\fni {STRVAR_1 0, 12, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\f{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\f{STRVAR_1 0, 12, 0} ni {STRVAR_1 0, 13, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\f{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\f{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0}\fni {STRVAR_1 0, 14, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\f{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\f{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0},\f{STRVAR_1 0, 14, 0} ni {STRVAR_1 0, 15, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\f{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\f{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0},\f{STRVAR_1 0, 14, 0}, {STRVAR_1 0, 15, 0}\fni {STRVAR_1 0, 16, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\f{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\f{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0},\f{STRVAR_1 0, 14, 0}, {STRVAR_1 0, 15, 0},\f{STRVAR_1 0, 16, 0} ni {STRVAR_1 0, 17, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\f{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\f{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0},\f{STRVAR_1 0, 14, 0}, {STRVAR_1 0, 15, 0},\f{STRVAR_1 0, 16, 0}, {STRVAR_1 0, 17, 0}\fni {STRVAR_1 0, 18, 0}.\r
+Vuelve cuando tengas todo lo necesario.\r
+¡Ambos Entrenadores habéis elegido\nel Pokémon {STRVAR_1 0, 0, 0}!\rHabla con la otra persona y\nelegid Pokémon diferentes.\r
+¡Ambos habéis elegido los Pokémon\n{STRVAR_1 0, 0, 0} y {STRVAR_1 0, 1, 0}!\rHabla con la otra persona y\nelegid Pokémon diferentes.\r
+Debes guardar la partida antes\nde entrar. ¿Estás de acuerdo?{YESNO 0}
+¡Por aquí, por favor!
+¡Te hemos echado de menos!\rTienes que guardar la partida antes de\nreanudar tu reto. Espera, por favor...
+¡Vaya!\rHa habido una irregularidad a la\nhora de abandonar el desafío...\rEso quiere decir que, ejem,\nse te ha descalificado...\r
+¡Enhorabuena!\r¡Para celebrar tu victoria te damos\neste regalo conmemorativo!\r
+¡Se ha añadido la Foto Dorada\na la Cámara Lucha de {STRVAR_1 3, 0, 0}!\r
+¡Se ha añadido la Foto Plateada\na la Cámara Lucha de {STRVAR_1 3, 0, 0}!\r
+COMBATE INDIVIDUAL
+COMBATE DOBLE
+ACEPTAR EL DESAFÍO
+INFORMACIÓN
+SALIR
+Un Entrenador debe elegir\n“HACER DE LÍDER”.\rEl otro Entrenador debe elegir\n“UNIRSE”.{YESNO 0}
+La comunicación inalámbrica de\nNintendo DS se iniciará. ¿Seguir?{YESNO 0}
+Tienes que guardar la partida antes de\nentrar. Espera, por favor...
+¡Una cosa!\rSi tus Pokémon ganan sin recibir\ndaño, obtendrás más PC.\r¡Más es más y nunca está de más!\nUn caramelo no amarga la vida a nadie,\f¿no? Pero yo tengo poquísimos PC...
+¡Escucha!\rPuedes obtener más PC si te enfrentas\na oponentes de mayor nivel.\rPero no servirá de nada\nsi no ganas, claro.\rEl que arriesga, puede obtener grandes\nbeneficios, pero no siempre sale todo\fcomo a uno le gustaría...
+Antes de cada combate deberías echar\nun vistazo a los Pokémon de tu enemigo.\rNo escatimes los PC.\rEscucha lo que te voy a decir:\n“Quien no se arriesga, no gana.”\r...\r¡Ay! ¡Me he equivocado de proverbio!\n
+Sr. Kokuran...\rMe conmueve ver sus sacrificios\npor la señorita Catleya.\rQué pedazo de pan...
+Al principio solo pueden usarse los PC\npara restaurar PS.\rPero sí puedes usar los PC para subir\nde rango y, así, incluso restaurar PP.
+¡Si pierdes, te quedas\ncon el contador de PC a cero!\r¡Es trágico, pero esas son\nlas reglas aquí!
+Mi sueño es vivir en un castillo\ny llevar siempre vestidos elegantes.\rNo... No... ¡No es así!\rQuiero vivir en un castillo donde viva\nalguien que lleve siempre vestidos\felegantes.\n

@@ -1,0 +1,182 @@
+Veces en el Hall de la Fama
+ 
+ 
+ 
+                          
+ 
+                         
+ 
+                         
+ 
+                                
+ 
+                        
+ 
+Concursos en los que has\nparticipado en solitario
+Concursos en los que has\nparticipado con amigos
+Concursos que has\nganado en solitario
+Concursos que has\nganado con amigos
+ 
+ 
+ 
+ 
+ 
+Veces que se te ha escapado\nun Pokémon salvaje
+ 
+Bayas plantadas
+Pasos dados
+Combates con Pokémon salvajes
+Combates con Entrenadores fuera\nde la Sala Unión y Frente de Batalla
+Pokémon atrapados
+Pokémon pescados
+Huevos eclosionados
+Pokémon evolucionados
+Premios gordos en el Casino
+Desafíos en la Torre Batalla
+ 
+ 
+ 
+ 
+Intercambios de Pokémon en la GTS
+Victorias a través de la Conexión\nWi-Fi de Nintendo
+ 
+Empates a través de la Conexión\nWi-Fi de Nintendo
+Victorias en la Torre Batalla
+Gasto total en tiendas
+Pokémon que has dejado\nen la Guardería
+Pokémon derrotados
+Pokémon ofrecidos en la GTS
+Pokémon intercambiados\ncon amigos en el Club Wi-Fi
+Veces que has firmado\ntu Ficha de Entrenador
+Pokémon extraídos de Fósiles
+Veces que el Dr. Pisada ha\nexaminado huellas
+Cartas enviadas
+Pokémon capturados con Miel
+Conversaciones mantenidas\nen la Plaza Wi-Fi
+Gemas enterradas
+Veces que has visto la tele
+Motes que has dado a Pokémon
+Honor Balls recibidas
+Objetos encontrados por\nPokémon en la Plaza Amistad
+Pokochos cocinados en solitario
+Pokochos cocinados con amigos
+Fotos del Atuendo realizadas
+Rocas desplazadas con el\nmovimiento oculto Fuerza
+Veces que te has atascado\nen un pantano
+Combates con Líderes de Gimnasios y\ncon tu rival en el Café Revancha
+Instalaciones del Frente\nde Batalla que has probado
+Veces que te has encontrado\ncon los Ases del Frente
+Victorias en la Fábrica Batalla
+Victorias en el Castillo Batalla
+Victorias en la Sala Batalla
+Victorias en la Ruleta Batalla
+Intercambios de Pokémon\nen la Fábrica Batalla
+Puntos del Castillo obtenidos
+Victorias frente a Pokémon de\nrango 10 en la Sala Batalla
+Puntos de Batalla conseguidos\nen la Ruleta Batalla
+Puntos de Batalla conseguidos
+Puntos de Batalla gastados
+Juegos de la Plaza Wi-Fi\nen los que has participado
+Huevos que has intercambiado en\nel Intercambio Giro
+Trozos Estrella intercambiados\nen la Forja Fuego
+                      
+                           
+             
+            
+                            
+                        
+   
+  
+  
+   
+   
+   
+   
+ 
+{STRVAR_1 59, 2, 0}
+
+
+
+{STRVAR_1 59, 2, 0}
+
+{STRVAR_1 59, 2, 0}
+
+{STRVAR_1 59, 2, 0}
+
+{STRVAR_1 59, 2, 0}
+
+{STRVAR_1 59, 2, 0}
+
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+
+
+
+
+
+{STRVAR_1 59, 2, 0}
+
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+
+
+
+
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0} $
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0} PC
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0} PB
+{STRVAR_1 59, 2, 0} PB
+{STRVAR_1 59, 2, 0} PB
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0} PB
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0} PB
+{STRVAR_1 59, 2, 0} PB
+{STRVAR_1 59, 2, 0}
+{STRVAR_1 59, 2, 0}

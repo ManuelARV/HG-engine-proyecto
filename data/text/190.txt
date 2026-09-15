@@ -1,0 +1,9 @@
+Elm: Si tocas la Poké Ball, verás\nqué Pokémon hay dentro.
+Elm: ¿Quieres a {COLOR 0}CHIKORITA{COLOR 0},\nel Pokémon de tipo Planta?
+Elm: ¿Quieres a {COLOR 0}CYNDAQUIL{COLOR 0},\nel Pokémon de tipo Fuego?
+Elm: ¿Quieres a {COLOR 0}TOTODILE{COLOR 0},\nel Pokémon de tipo Agua?
+Dentro de esa Poké Ball está\n{COLOR 0}CHIKORITA{COLOR 0}, el Pokémon de tipo Planta.
+Dentro de esa Poké Ball está\n{COLOR 0}CYNDAQUIL{COLOR 0}, el Pokémon de tipo Fuego.
+Dentro de esa Poké Ball está\n{COLOR 0}TOTODILE{COLOR 0}, el Pokémon de tipo Agua.
+Si es el que quieres... ¡toca la Poké Ball!
+Toca en el botón de la Poké Ball para\nconfirmar o en otro lugar para cancelar.

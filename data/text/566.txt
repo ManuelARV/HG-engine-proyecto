@@ -1,0 +1,4 @@
+¡Hola, valiente!\rEste Gimnasio es un nido de insectos\ngigante construido por Antón.\rAunque todavía es joven,\nya es todo un experto\fde los Pokémon bicho.\r¿No crees que te vendrán bien\nalgunos consejos?\rVeamos...\nA los Pokémon bicho no les va el fuego.\rY los ataques de tipo Volador son\nmuy eficaces.
+¡Eso es! Ha sido un gran encuentro\nentre jóvenes con talento.\rCon gente como tú, ¡el futuro de\nlos Pokémon será maravilloso!
+Gimnasio Pokémon de Pueblo Azalea
+Gimnasio Pokémon de Pueblo Azalea\rLíder: Antón\nEntrenadores reconocidos:\f{STRVAR_1 3, 0, 0}

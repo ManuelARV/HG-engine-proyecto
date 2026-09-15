@@ -1,0 +1,56 @@
+Luna: Encantada de conocerte.\nSoy Luna, por lunes.\r¡Como prueba de nuestra amistad,\ntengo un regalo para ti!\r
+Luna: Es un objeto que aumenta\nel poder de los movimientos\fde tipo Volador.\rDeberías darle este objeto\na un Pokémon pájaro.
+Luna: Mis hermanos y hermanas\nestán por todas partes.\r¡A ver si los encuentras!
+Luna: ¡Ay! ¡Qué pena!\nPero es que hoy no es lunes.
+Marta: Tengo la impresión de que es la\nprimera vez que nos encontramos.\rPermíteme que me presente.\nMe llamo Marta, por martes.\rAcepta este regalo de presentación:\n¡una Cuchara Tor!\r
+Marta: Tiene una forma un tanto\npeculiar, ¿no crees?\rSirve para fortalecer los movimientos\nde tipo Psíquico. Estoy segura de que\fte va a resultar de gran utilidad.
+Marta: ¿Has visto ya a Luna, mi hermana\nmayor? ¿Y a Miguel, mi hermano menor?\rSoy la segunda de siete hermanos.
+Marta: ¡Pero si se ha pasado el martes\nen un santiamén!\r¡Nos vemos el próximo martes!
+Miguel: Yo soy Miguel,\npor lo de miércoles.\rEncantado de conocerte.\nToma un recuerdo.\r
+Miguel: El Cinturón Negro potencia\nlos ataques de lucha.
+Miguel: Si me has encontrado,\nhabrás visto a mis hermanos.\r¿O es que has tenido suerte?
+Miguel: ¡Qué mala suerte!\n¡El miércoles ha pasado!\f¡Hasta la próxima semana!
+Josué: ¿Tú quién eres?\rYo soy Josué, por los jueves.\r¡Toma esto!\r
+Josué: Haz que lo lleve un Pokémon\nde tipo Roca.\r¡Veras como mejoran sus ataques\nde tipo Roca!
+Josué: Yo Josué, por jueves, y soy el\nsegundo varón de siete hermanos.
+Josué: ¿Crees que el miércoles es\nel mejor día de la semana?\f¿No será el jueves?\rBueno, pienses lo que pienses,\n¡nos vemos el jueves que viene!
+Vicki: ¡Yuju! ¡Es viernes! Soy Vicki,\npor viernes. ¡Mucho gusto!\r¡Toma una Flecha Venenosa!\r
+Vicki: Dásela a un Pokémon de tipo\nVeneno.\r¡Oh! ¡Es terrible! ¡Te sorprenderá ver\ncómo mejora los movimientos de\ftipo Veneno!
+Vicki: ¡Ey! ¿Qué día prefieres?\nA mí me gusta el viernes. Sin duda.\r¿No crees que es genial?
+Vicki: ¿No es hoy viernes?\r¡Aaaay! ¡Cómo me gustaría que todos los\ndías fueran viernes!
+Sabino: ... Es sábado...\nSoy Sabino, por sábado...\r¡Toma esto!\r
+Sabino: ...\rArena Fina...\rLos movimientos de tipo Tierra son\nmás potentes... ¡Ya verás!
+Sabino: ...\nNos vemos otro sábado...
+Sabino: Hoy es sábado... ¿no?\n¿No?\rBueno, pues, ¡nos vemos\nel próximo sábado!
+Domingo: Me llamo Domingo, como el\ndía de la semana... ¡y hoy es domingo!\r¡Me han dicho que te dé esto!\r
+Domingo: Eso...  ¡Um...! ¿Qué era?...\n¡Ah! ¡Ahora lo recuerdo!\rDebería llevarlo un Pokémon\nde tipo Eléctrico.\r¡Mi hermana Luna dice que mejora\nlos movimientos eléctricos!
+Domingo: Mis hermanos son Luna, Marta,\nMiguel, Josué, Vicki y Sabino.\r¡Son todos mayores que yo!
+Domingo: ¿Pero hoy no era domingo?\nAh, ¿no? ¡Qué cabeza tengo!
+Luna: Ah, ¡eres tú!\n¡Nos has encontrado a los siete!\rEntonces, ya somos todos amigos, ¿no?\nY, en prueba de esta amistad,\f¡te voy a dar la Cinta Alerta!\r
+Luna: Yo creo que la Cinta Alerta le\nquedará a tu Pokémon divinamente.
+{STRVAR_1 0, 0, 0} ha recibido\nla Cinta Alerta.
+Solo doy una Cinta a la semana.\rSi quieres más, tendrás que venir la\nsemana que viene.
+Marta: Ah, ¡eres tú!\n¡Nos has encontrado a los siete!\rEntonces, ya somos todos amigos, ¿no?\nY, en prueba de esta amistad,\f¡te voy a dar la Cinta Impacto!\r
+Marta: Yo creo que la Cinta Impacto le\nquedará a tu Pokémon divinamente.
+{STRVAR_1 0, 0, 0} ha recibido\nla Cinta Impacto.
+Solo doy una Cinta a la semana.\rSi quieres más, tendrás que venir la\nsemana que viene.
+Miguel: Ah, ¡eres tú!\n¡Nos has encontrado a los siete!\rEntonces, ya somos todos amigos, ¿no?\nY, en prueba de esta amistad,\f¡te voy a dar la Cinta Abatimiento!\r
+Miguel: Yo creo que la Cinta Abatimiento\nle quedará a tu Pokémon divinamente.
+{STRVAR_1 0, 0, 0} ha recibido\nla Cinta Abatimiento.
+Solo doy una Cinta a la semana.\rSi quieres más, tendrás que venir la\nsemana que viene.
+Josué: Ah, ¡eres tú!\n¡Nos has encontrado a los siete!\rEntonces, ya somos todos amigos, ¿no?\nY, en prueba de esta amistad,\f¡te voy a dar la Cinta Descuido!\r
+Josué: Yo creo que la Cinta Descuido\nle quedará a tu Pokémon divinamente.
+{STRVAR_1 0, 0, 0} ha recibido\nla Cinta Descuido.
+Solo doy una Cinta a la semana.\rSi quieres más, tendrás que venir\nla semana que viene.
+Vicki: Ah, ¡eres tú!\n¡Nos has encontrado a los siete!\rEntonces, ya somos todos amigos, ¿no?\nY, en prueba de esta amistad,\f¡te voy a dar la Cinta Relax!\r
+Vicki: Yo creo que la Cinta Relax\nle quedará a tu Pokémon divinamente.
+{STRVAR_1 0, 0, 0} ha recibido\nla Cinta Relax.
+Solo doy una Cinta a la semana.\rSi quieres más, tendrás que venir\nla semana que viene.
+Sabino: Ah, ¡eres tú!\n¡Nos has encontrado a los siete!\rEntonces, ya somos todos amigos, ¿no?\nY, en prueba de esta amistad,\f¡te voy a dar la Cinta Cabezada!\r
+Sabino: Yo creo que la Cinta Cabezada\nle quedará a tu Pokémon divinamente.
+{STRVAR_1 0, 0, 0} ha recibido\nla Cinta Cabezada.
+Solo doy una Cinta a la semana.\rSi quieres más, tendrás que venir\nla semana que viene.
+Domingo: Así que has visto a todas mis\nhermanas y a mis hermanos...\rBien, pues como somos todos amigos,\nte daré esta Cinta Sonrisa.\r
+Domingo: Yo creo que la Cinta Sonrisa\nle quedará a tu Pokémon divinamente.
+{STRVAR_1 0, 0, 0} ha recibido\nla Cinta Sonrisa.
+Solo doy una Cinta a la semana.\rSi quieres más, tendrás que venir\nla semana que viene.

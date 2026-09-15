@@ -1,0 +1,6 @@
+Mt. Moon\rEn medio del monte se encuentra\nla Plaza Mt. Moon
+¡Es la primera vez que veo una piedra\ncomo esta! ¿Y si fuera...\fun meteorito del espacio?
+La Velocidad de cierto Pokémon\naumenta al tocar el meteorito.
+La Defensa de cierto Pokémon\nmejora al tocar el meteorito.
+El Ataque de cierto Pokémon\nmejora al tocar el meteorito.
+Las habilidades de cierto Pokémon\nse equilibran al tocar el meteorito.

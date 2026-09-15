@@ -1,0 +1,16 @@
+Esta es la Sala Confianza, edificada\ncon motivo de la fidelidad entre Pokémon\fy humanos, que está manifiesta\fen nuestra sociedad actual.
+Aquí solo pueden acceder Pokéatletas\ndestacados que hayan ganado\fcinco Insignias con el mismo Pokémon.
+Justo aquí está la Sala Potencial.\nAdelante.
+Solo es posible conseguir\nmuchas Insignias poniendo toda\ftu confianza en tu Pokémon.
+¡Trabajaré duro para que algún día\ntodos puedan ver mis Deportivas aquí!
+En esta Carpa hay muchas pistas.
+¡{STRVAR_1 3, 0, 0} ha visto las Insignias!\r
+En honor de la inquebrantable voluntad\nde aquel que participó persistentemente\fen el Pokéathlon 50 veces.
+¡En el museo está expuesto\ntu chándal firmado!
+En honor de una legendaria hazaña.\n5000 sprints.
+¡Es un modelo exclusivo\nde Deportivas para ti!
+En honor del espíritu de cooperación\ny fortaleza de lazos que permitieron\frealizar 200 relevos.
+¡Es un modelo exclusivo\nde banderas para ti!
+La Insignia Pokéathlon\nes la muestra del esfuerzo\fconjunto de humanos y Pokémon.\rLos Pokémon que consiguen\ncinco Insignias ponen de manifiesto\fel vínculo de confianza que les une\fa su Entrenador y reciben el nombre\fde Pokémon Insignia.\n
+ABRA: Abr... ¡Bra!\nZzz...\fZzz...\r¡Está durmiendo!
+DRATINI: Drati... ¡Ni! ¡Ni! ¡Ni!

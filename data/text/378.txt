@@ -1,0 +1,16 @@
+¡Arg!... ¿Eh?\rHoy he caminado mucho\nbuscando Pokémon.\rMe duelen los pies y tengo sueño...\rSi fuera un Pokémon salvaje,\nsería fácil atraparme...\r¡Zzz!...
+Mmm... Snif...\rMe gustaría leer algo parecido\na una Carta... Aunque solo fuera\fun pedazo de papel con algo escrito...\rZzz...\n¡...!\r
+¿Eh? ¿Qué?...\n¿Qué quieres que haga con ese Pokémon?\fNo lleva ninguna Carta...\rZzz...
+Esta Carta no es para mí...\nZzz...
+¡Oh! ¡Una Carta de un amigo!\r¿Eh?...\nYo no sé mucho de Pokémon.\fTe lo puedes quedar.\r
+¡{STRVAR_1 3, 0, 0} ha entregado el Pokémon\nque lleva la Carta!
+¡{STRVAR_1 3, 0, 0} entregó la Carta!
+A ver, a ver...\r“Gracias por tu Carta.\rMe lo pasé muy bien\nen nuestra aventura.\rAunque los ZUBAT\nno me gustaron nada...”\rTe explico...\nFuimos juntos a explorar\fla Cueva Oscura.\rSe trata de una cueva\nque conduce a otro camino.\rTengo que darte las gracias\npor haber sido tan amable.\r
+La MT44 contiene...\nZzz...\f...\r¡Ah, perdón! Contiene Descanso.\rEs un movimiento que duerme\na los Pokémon y les permite recuperarse\fmientras descansan.
+Mmm...\nQué sueño...
+Eh...\n¡Pero, si me lo das, te quedarás\fsin Pokémon!
+He encontrado un buen Pokémon\nen la Cueva Oscura.\rVoy a criarlo para enfrentarme\na Pegaso.\rEs el Líder del Gimnasio\nde Ciudad Malva.
+Cueva Oscura...\rSi los Pokémon pudieran\niluminarla, la exploraría.
+Ruta 31\nAl oeste, Ciudad Malva
+Cueva Oscura
+¿Eh? ¿Eso es un Huevo Pokémon?\nEs la primera vez que veo uno.\fZzz...

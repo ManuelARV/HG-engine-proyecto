@@ -1,0 +1,5 @@
+¿Qué quieres?\nSoy la portera de este edificio.\rNo es que tenga mucho que vigilar\nporque este lugar es muy tranquilo.\rComo tengo mucho tiempo libre,\nme entretengo con los Pokémon.\rCambiando de tema, en el edificio\nhay dos ascensores.\rNo te confundas.
+MEOWTH: ¡Meow!
+CLEFAIRY: ¡Clef, cleff!
+NIDORAN♀: ¡Nido, nido!
+Este ascensor es el que lleva\na la segunda planta.

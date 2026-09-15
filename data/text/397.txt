@@ -1,0 +1,15 @@
+Mi MILTANK ya no me da leche.\nLa leche de esta Granja es famosa.\rCasi todos quieren probarla.\rSupongo que si le doy muchas Bayas\nAranja me dará mucha leche.
+¿Te gusta la Leche Mu-mu?\rEs mi orgullo y mi alegría.\r¡Dásela a los Pokémon para\nrestaurar sus PS!\rTuya es por solo 500 $.{YESNO 0}
+¡Toma! ¡Bébetela y disfruta!\r
+Lo siento.\n¡Si no hay dinero, no hay trato!
+Vaya, tu Bolsa está llena.
+¿No la quieres?\nVuelve otro día.
+Mejor que me vaya a ordeñar.
+Nuestra leche se distribuye\nhasta en Kanto.\rAsí que si nuestra MILTANK no nos da\nleche, tendremos problemas.
+Has curado a nuestra MILTANK.\nYa vuelve a dar Leche Mu-mu.\rAquí tienes algo que te ayudará.
+                     
+Esto es Don Natural.\rEl tipo del movimiento variará,\nsegún la Baya que lleve tu Pokémon.\rUna vez lo hayas usado la Baya\nse consumirá, así que piénsalo bien\fantes de usarlo.
+¿Eh? Tu Bolsa está llena.
+{ALN_CENTER}Una botella
+{ALN_CENTER}Una docena
+{ALN_CENTER}Nada, gracias.

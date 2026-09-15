@@ -1,0 +1,12 @@
+De camino a Ciudad Orquídea\nhay cuatro islas desiertas.\r¡A los niños que se portan mal\nse los llevan a esas islas!
+Cuando hago travesuras,\npapá siempre se enfada...
+¡Mi hermana me ha dado\nun montón de Sellos!\fVoy a darte unos cuantos.\r
+¡Hala!\nTienes un montón de Sellos.\rPégalos en tus Poké Balls.
+¡Vuelve mañana y te daré más!
+¿Eh?\n¿No tienes una Caja de Sellos?\fY yo que pensaba darte algunos...
+¡Toma!\n¡Te los doy!\r
+Toma otro más.\r
+Y este también.\r
+Pégalos en tus Poké Balls.
+¡Hala! ¡Pero si ya tienes demasiados!
+¡Guardas {STRVAR_1 10, 0, 0}\nen la Caja de Sellos!\r

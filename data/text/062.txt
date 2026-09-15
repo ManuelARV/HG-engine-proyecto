@@ -1,0 +1,90 @@
+Introduce el Pokémon que quieras,\nsolo uno, en el Pokéwalker.\rEs difícil decidir cuál llevarse...
+¿Yo? Aunque no lo parezca,\ntengo un montón de Pokéwalker\fcolgando por todo el cuerpo.\rCuando camino hacen un ruido tremendo.\n
+¡Presta atención, por favor!\r¡Vaya! A ver si dejo de hablar\ncomo si fuera una maestra.\rEres Entrenador Pokémon, ¿no?\rComo estás trabajando tanto,\nhe pensado darte esto.\r
+                     
+Dale a un Pokémon esa Garra Rápida y\na veces atacará primero en el combate.
+Llevar un Pokémon a tu lado está bien,\npero meterlo en el Pokéwalker también\fes divertido.
+A mi madre no le gustan los Pokémon,\npor eso no les deja entrar en casa...\rPero metiéndolos en el Pokéwalker\npuedo estar siempre con ellos.
+Doy Paseos por el parque, pero nunca\nentro en la hierba porque los\rEntrenadores no dejan de proponerme\nluchar contra ellos... Qué agobio...
+PERSIAN: ¡Per... per... persi!\n
+Aaah... Aaah...\rMe he puesto a correr\ncon el Pokéwalker para acumular\fVatios y ahora estoy sin aliento.
+                                                            
+    
+                                                                         
+                                     
+                                
+                                
+                                                  
+          
+                                           
+                             
+     
+                                           
+Plaza del Descanso\nParque Nacional
+Aquí hay un cartel.\rProhibido luchar fuera de la hierba.\nGuarda del Parque Nacional
+Aquí hay un cartel.\rSolo está permitido jugar\ncon Poké Balls en el parque.\rGuarda del Parque Nacional
+                                                                       
+                          
+                                 
+                   
+                          
+                                 
+                                                     
+                                                            
+                                
+                             
+                             
+                                      
+                                                                
+                               
+                          
+                               
+                                                               
+Vuelve a participar en el próximo\nConcurso de Captura de Bichos, ¿vale?
+                                    
+                                         
+Rafa: Es cuestión de suerte\nque salga un Pokémon mejor o peor.
+                                           
+                                              
+Sam: El tamaño del Pokémon\nno es suficiente para ganar.
+                                
+                               
+Maura: Me ha dicho un pajarito que\nlos Pokémon de colores chulos\fpueden ganar más fácilmente.
+                            
+                                             
+Guille: ¡Estoy supersatisfecho porque\nhe encontrado el Pokémon que buscaba!
+                                              
+                                              
+Tino: ¿Sabes? Conseguí capturar\nun SCYTHER, pero no gané...
+                                             
+                                              
+Gorka: Con un nivel más alto\nes más fácil ganar.\fAunque parece que hay otro método...
+                           
+                        
+Cindy: Me encantan los Pokémon bicho.\nAh, ¿ya lo sabías?
+                                            
+                                                     
+Kai: Dicen que alguien ganó una vez\ncon un CATERPIE.
+                                                                                    
+                                       
+Samuel: Mmm... Yo creía\nque conseguiría más puntos.
+                           
+                                                 
+Koldo: Con solo estudiar\nno se puede ganar.
+                                 
+    
+   
+   
+    
+   
+    
+   
+    
+   
+    
+Antón: ¡Buenas, {STRVAR_1 3, 0, 0}!\rMañana es el Concurso de\nCaptura de Bichos.\rYo ya lo he ganado varias veces,\npor eso he dejado de participar.\rTú eres un buen Entrenador,\ndeberías participar.
+Antón: ¡Buenas, {STRVAR_1 3, 0, 0}!\rMañana es el Concurso de\nCaptura de Bichos.\rYo ya lo he ganado varias veces,\npor eso he dejado de participar.\rTú tienes posiblidades de ganar,\ndeberías participar.\rYa que estás aquí,\n¿por qué no nos echamos una foto?{YESNO 0}
+Antón: ¡Genial, vamos!\n¡Pon una sonrisa de oreja a oreja!\r
+Antón: ¡Ya está!\n¡A que estamos guapos!
+Antón: ¿No? Tú mismo...\nNo pasa nada, tranquilo...
+Tu Álbum de Fotos está lleno.\rUsa el PC para hacer un poco\nde sitio en tu Álbum.\n

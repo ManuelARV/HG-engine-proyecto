@@ -1,0 +1,11 @@
+Encargada
+¿Hola? ¿{STRVAR_1 3, 0, 0}?\r¿Para qué me llamas?\nSi estás justo ahí.
+¿Hola? ¿{STRVAR_1 3, 0, 0}?\r¿Para qué me llamas?\nSi estás justo ahí.
+¿Dígame?\nPero si eres {STRVAR_1 3, 0, 0}.\r
+¿Dígame?\nPero si eres {STRVAR_1 3, 0, 0}.\r
+Todo va bien.\r
+Tu {STRVAR_1 0, 10, 0} ha subido de nivel.\nAhora tiene {STRVAR_1 52, 11, 0} más.\r
+Tu {STRVAR_1 0, 12, 0} ha subido de nivel.\nAhora tiene {STRVAR_1 52, 13, 0} más.\r
+Podemos cuidar dos de tus Pokémon.\rSi quieres que nos ocupemos de otro\nmás, tendrás que pasarte otra vez.
+¿Por qué no te pasas a visitar los\nPokémon que te estamos cuidando?
+Si quieres que te criemos algún\nPokémon, pásate por aquí.

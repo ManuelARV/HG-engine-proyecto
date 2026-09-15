@@ -1,0 +1,78 @@
+Hola. Aquí {STRVAR_1 3, 1, 0}.\r¡Buenos días, {STRVAR_1 3, 0, 0}!\r
+Hola. Aquí {STRVAR_1 3, 1, 0}.\r¡Buenos días, {STRVAR_1 3, 0, 0}!\r
+Hola. Soy {STRVAR_1 3, 1, 0}...\r¿Qué tal vas, {STRVAR_1 3, 0, 0}?\r
+Hola. Soy {STRVAR_1 3, 1, 0}...\r¿Qué tal vas, {STRVAR_1 3, 0, 0}?\r
+Hola. Soy {STRVAR_1 3, 1, 0}...\r¡Buenas noches, {STRVAR_1 3, 0, 0}!\r
+Hola. Soy {STRVAR_1 3, 1, 0}...\r¡Buenas noches, {STRVAR_1 3, 0, 0}!\r
+¡{STRVAR_1 3, 0, 0}, buenos días!\rSoy {STRVAR_1 3, 1, 0}, ¿dormitabas?\r
+¡{STRVAR_1 3, 0, 0}, buenos días!\rSoy {STRVAR_1 3, 1, 0}, ¿dormitabas?\r
+¡{STRVAR_1 3, 0, 0}, hola!\rSoy {STRVAR_1 3, 1, 0}, ¿qué tal estás?\r
+¡{STRVAR_1 3, 0, 0}, hola!\rSoy {STRVAR_1 3, 1, 0}, ¿qué tal estás?\r
+¡{STRVAR_1 3, 0, 0}, buenas noches!\rSoy {STRVAR_1 3, 1, 0}, ¿estás despierto?\r
+¡{STRVAR_1 3, 0, 0}, buenas noches!\rSoy {STRVAR_1 3, 1, 0}, ¿estás despierta?\r
+¿Diga? Al habla {STRVAR_1 3, 1, 0}.\r¡Hola, {STRVAR_1 3, 0, 0}! ¡Buenos días!\r
+¿Diga? Al habla {STRVAR_1 3, 1, 0}.\r¡Hola, {STRVAR_1 3, 0, 0}! ¡Buenos días!\r
+¿Diga? Al habla {STRVAR_1 3, 1, 0}.\r¡Hola, {STRVAR_1 3, 0, 0}! ¡Hola!\r
+¿Diga? Al habla {STRVAR_1 3, 1, 0}.\r¡Hola, {STRVAR_1 3, 0, 0}! ¡Hola!\r
+¿Diga? Al habla {STRVAR_1 3, 1, 0}.\r¡Hola, {STRVAR_1 3, 0, 0}! ¡Buenas noches!\r
+¿Diga? Al habla {STRVAR_1 3, 1, 0}.\r¡Hola, {STRVAR_1 3, 0, 0}! ¡Buenas noches!\r
+¡{STRVAR_1 3, 0, 0}, buenos días!\rAquí {STRVAR_1 3, 1, 0}, ¿cómo te va?\r
+¡{STRVAR_1 3, 0, 0}, buenos días!\rAquí {STRVAR_1 3, 1, 0}, ¿cómo te va?\r
+¡{STRVAR_1 3, 0, 0}, hola!\rAquí {STRVAR_1 3, 1, 0}, ¿qué haces?\r
+¡{STRVAR_1 3, 0, 0}, hola!\rAquí {STRVAR_1 3, 1, 0}, ¿qué haces?\r
+¡{STRVAR_1 3, 0, 0}, buenas noches!\r{STRVAR_1 3, 1, 0} al habla, ¿aún despierto?\r
+¡{STRVAR_1 3, 0, 0}, buenas noches!\r{STRVAR_1 3, 1, 0} al habla, ¿aún despierta?\r
+¡Saludos, soy {STRVAR_1 3, 1, 0}!\r¡{STRVAR_1 3, 0, 0}, buenos días!\r
+¡Saludos, soy {STRVAR_1 3, 1, 0}!\r¡{STRVAR_1 3, 0, 0}, buenos días!\r
+¡Saludos, soy {STRVAR_1 3, 1, 0}!\r¡{STRVAR_1 3, 0, 0}, hola!\r
+¡Saludos, soy {STRVAR_1 3, 1, 0}!\r¡{STRVAR_1 3, 0, 0}, hola!\r
+¡Saludos, soy {STRVAR_1 3, 1, 0}!\r¡{STRVAR_1 3, 0, 0}, buenas noches!\r
+¡Saludos, soy {STRVAR_1 3, 1, 0}!\r¡{STRVAR_1 3, 0, 0}, buenas noches!\r
+¡Buenas!\rSoy {STRVAR_1 3, 1, 0}, ¿qué tal?\r
+¡Buenas!\rSoy {STRVAR_1 3, 1, 0}, ¿qué tal?\r
+¡Buenas!\rSoy {STRVAR_1 3, 1, 0}, ¿qué tal?\r
+¡Buenas!\rSoy {STRVAR_1 3, 1, 0}, ¿qué tal?\r
+¡Buenas!\rSoy {STRVAR_1 3, 1, 0}, ¿qué tal?\r
+¡Buenas!\rSoy {STRVAR_1 3, 1, 0}, ¿qué tal?\r
+¿Sí? {STRVAR_1 3, 1, 0} al habla.\rOh, {STRVAR_1 3, 0, 0}. Buenos días.\r
+¿Sí? {STRVAR_1 3, 1, 0} al habla.\rOh, {STRVAR_1 3, 0, 0}. Buenos días.\r
+¿Sí? {STRVAR_1 3, 1, 0} al habla.\rOh, {STRVAR_1 3, 0, 0}. Hola.\r
+¿Sí? {STRVAR_1 3, 1, 0} al habla.\rOh, {STRVAR_1 3, 0, 0}. Hola.\r
+¿Sí? {STRVAR_1 3, 1, 0} al habla.\rOh, {STRVAR_1 3, 0, 0}. Buenas noches.\r
+¿Sí? {STRVAR_1 3, 1, 0} al habla.\rOh, {STRVAR_1 3, 0, 0}. Buenas noches.\r
+Hola, {STRVAR_1 3, 0, 0}. Buenos días.\r{STRVAR_1 3, 1, 0} al habla. ¿Dormías?\r
+Hola, {STRVAR_1 3, 0, 0}. Buenos días.\r{STRVAR_1 3, 1, 0} al habla. ¿Dormías?\r
+Hola, {STRVAR_1 3, 0, 0}.\rAquí {STRVAR_1 3, 1, 0}. ¿Qué tal vas?\r
+Hola, {STRVAR_1 3, 0, 0}.\rAquí {STRVAR_1 3, 1, 0}. ¿Qué tal vas?\r
+Buenas noches, {STRVAR_1 3, 0, 0}.\r{STRVAR_1 3, 1, 0} al habla.\f¿Ya te has despertado?\r
+Buenas noches, {STRVAR_1 3, 0, 0}.\r{STRVAR_1 3, 1, 0} al habla.\f¿Ya te has despertado?\r
+{STRVAR_1 3, 1, 0}, eeeooo...\rBuenos días, amigo.\r
+{STRVAR_1 3, 1, 0}, eeeooo...\rBuenos días, amiga.\r
+{STRVAR_1 3, 1, 0}, eeeooo...\rHola, amigo.\r
+{STRVAR_1 3, 1, 0}, eeeooo...\rHola, amiga.\r
+{STRVAR_1 3, 1, 0}, eeeooo...\rBuenas noches, amigo.\r
+{STRVAR_1 3, 1, 0}, eeeooo...\rBuenas noches, amiga.\r
+¿Cómo vas, chiquilín?\rSoy {STRVAR_1 3, 1, 0}, buenos días.\r
+¿Cómo vas, chiquilina?\rSoy {STRVAR_1 3, 1, 0}, buenos días.\r
+¿Cómo vas, chiquilín?\rSoy {STRVAR_1 3, 1, 0}, buenas.\r
+¿Cómo vas, chiquilina?\rSoy {STRVAR_1 3, 1, 0}, buenas.\r
+¿Cómo vas, chiquilín?\rSoy {STRVAR_1 3, 1, 0}, buenas noches.\r
+¿Cómo vas, chiquilina?\rSoy {STRVAR_1 3, 1, 0}, buenas noches.\r
+¡{STRVAR_1 3, 1, 0} al habla!\nBuenos díaaas.\r
+¡{STRVAR_1 3, 1, 0} al habla!\nBuenos díaaas.\r
+¡{STRVAR_1 3, 1, 0} al habla!\n¡Holaaa!\r
+¡{STRVAR_1 3, 1, 0} al habla!\n¡Holaaa!\r
+¡Al habla {STRVAR_1 3, 1, 0}!\n¡Buenas nocheees!\r
+¡Al habla {STRVAR_1 3, 1, 0}!\n¡Buenas nocheees!\r
+¡Buenos días!\n¡Aquí {STRVAR_1 3, 1, 0}!\r
+¡Buenos días!\n¡Aquí {STRVAR_1 3, 1, 0}!\r
+¡Hola!\n¡Aquí {STRVAR_1 3, 1, 0}!\r
+¡Hola!\n¡Aquí {STRVAR_1 3, 1, 0}!\r
+¡Buenas noches!\n¡{STRVAR_1 3, 1, 0} al habla!\r
+¡Buenas noches!\n¡{STRVAR_1 3, 1, 0} al habla!\r
+¡Buenos días!\rEste es el Servicio de Administración\ndel Sistema de Almacenamiento de\fPokémon.\r
+¡Buenas!\rEste es el Servicio de Administración\ndel Sistema de Almacenamiento de\fPokémon.\r
+¡Buenas noches!\rEste es el Servicio de Administración\ndel Sistema de Almacenamiento de\fPokémon.\r
+Soy {STRVAR_1 3, 1, 0}...\r¡{STRVAR_1 3, 0, 0}! Bonita mañana, ¿verdad?\r
+Soy {STRVAR_1 3, 1, 0}...\r¡{STRVAR_1 3, 0, 0}! Qué buen tiempo, ¿eh?\r
+Soy {STRVAR_1 3, 1, 0}...\r¡{STRVAR_1 3, 0, 0}! Bonita luna, ¿verdad?\r

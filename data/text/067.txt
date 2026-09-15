@@ -1,0 +1,17 @@
+Hemos grabado los gritos de todos\nlos Pokémon descubiertos.\fDebemos de tener unos 200 diferentes.
+Los Pokémon son muy queridos\npor sus Entrenadores.\rEs horrible ver cómo el Team Rocket\ntrata a los Pokémon.
+Emitimos programas las 24 horas del día.\r¡Y yo trabajo sin parar las 24 horas!\n¡Todo por la audiencia!
+Nuestro jefe se ha encerrado\nbajo llave tras esa puerta.\r¡Pero el Director puede abrirla!\n¡Está en el cuarto piso!\r¡Sálvalo, por favor!
+¿Está a salvo el Director?
+¡Gracias! ¡Eres genial!\nToma esto como agradecimiento.\r
+¡{STRVAR_1 3, 0, 0} ha obtenido MT11!
+Contiene Día Soleado.\nMejora los movimientos de tipo Fuego\fdurante un tiempo.
+Vaya... No tienes sitio.
+¡Has estado genial!
+La puerta está cerrada.\nHace falta la Llave Magnética.
+Es la ranura de la Llave Magnética.\r
+¡{STRVAR_1 3, 0, 0} usó la Llave Magnética!\r
+¡Si tuvieras la Llave Magnética\npodrías abrir la puerta!
+Es la ranura de la Llave Magnética.
+P2 Personal
+Música Pokémon con DJ Nardo

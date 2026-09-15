@@ -1,0 +1,6 @@
+Los Pokémon que se intercambian\ncrecen rápido.\rPero, si no tienes la Medalla\nadecuada, podrían desobedecerte.
+Colecciono Pokémon.\r¿Tienes un BELLSPROUT?\r¿Quieres cambiarlo\npor mi ONIX?{YESNO 0}
+¡Sí! ¡Conseguí un BELLSPROUT!\n¡Gracias!
+¿Qué? Ese no es BELLSPROUT.\n¡Qué chasco...!
+¿No quieres cambiarlo? ¡Bah!
+Hola, ¿cómo está mi ONIX?

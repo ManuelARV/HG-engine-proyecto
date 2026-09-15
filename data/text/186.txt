@@ -1,0 +1,17 @@
+¡Bienvenido a Geonet y a su sistema\nde alta tecnología!\r
+¿Qué quieres hacer?
+Aquí puedes registrar tu lugar\nde residencia.\rLa información que proporciones\npodría comunicarse a gente de todo\rel mundo a través de la CWF de Nintendo\no de la comunicación inalámbrica.\r¿Quieres registrar tu lugar\nde residencia?
+Por favor, selecciona el lugar\nen el que vives.
+Por favor, selecciona la zona\nen la que vives.
+Una vez efectuado el registro, no\npodrás modificar esta información.\r¿Es este tu lugar de residencia?
+{STRVAR_1 36, 0, 0}
+{STRVAR_1 37, 0, 0}
+SÍ
+NO
+VER MAPA
+REGISTRAR
+SALIR
+{ALN_CENTER}VER
+Lugar de residencia registrado:\n{STRVAR_1 36, 0, 0}\n{STRVAR_1 37, 1, 0}
+Para ver lugares registrados, coloca\nel cursor y pulsa el Botón X.
+{ALN_CENTER}SALIR

@@ -1,0 +1,18 @@
+Búscate un compañero entre\nlos Entrenadores que hay aquí.\r
+{STRVAR_1 3, 0, 0}, ¿aún no has encontrado\na un compañero para tu equipo?\r¿Prefieres dejar de buscar y\nvolver al mostrador de recepción?{YESNO 0}
+Bien, veo que ya tienes pareja.\rTe conduciré a la Sala de\nCombates Múltiples.\r
+Quinoa: ¿Quieres saber a quién llevo?\rPues, tengo conmigo a {STRVAR_1 0, 0, 0},\nque con su {STRVAR_1 6, 1, 0} es la bomba.\rY luego llevo a {STRVAR_1 0, 2, 0}, que\ncon su {STRVAR_1 6, 3, 0} nunca me falla.\r¿Quieres que formemos equipo?{YESNO 0}
+Quinoa: Oh, ¿seguro?\nVaya...
+Quinoa: Vale, genial.\nEstaré esperándote.\r
+Malta: Yo tengo a {STRVAR_1 0, 0, 0}, que\nes muy bueno con su {STRVAR_1 6, 1, 0},\ry a {STRVAR_1 0, 2, 0}, que suele alardear\nde su {STRVAR_1 6, 3, 0} un montón.\r¿Quieres que formemos equipo?{YESNO 0}
+Malta: Oh...\nVaya...
+Malta: Vale, yo iré delante.\r
+Bulgur: Eh, ¿quieres que formemos\nequipo? Te diré lo que tengo.\rA mi {STRVAR_1 0, 0, 0} no hay quien le gane.\nCon su {STRVAR_1 6, 1, 0} es imparable.\rY luego está mi {STRVAR_1 0, 2, 0}, y su\n{STRVAR_1 6, 3, 0} no tiene igual.\rTe unes a mí, ¿a que sí?{YESNO 0}
+Bulgur: ¿Cómo?\n¡Vaya modales!
+Bulgur: ¡Has elegido bien!\n¡Conmigo cerca, todo irá sobre ruedas!\r
+Sémola: Mi {STRVAR_1 0, 0, 0} utiliza\n{STRVAR_1 6, 1, 0} bastante bien...\rY a mi {STRVAR_1 0, 2, 0} le gusta usar\n{STRVAR_1 6, 3, 0} cantidad.\r¿Qué dices?\n¿Nos unimos?{YESNO 0}
+Sémola: Bueno, como quieras...
+Sémola: Yo iré delante...\r
+Maiza: ¡Hola!\nYo llevo a {STRVAR_1 0, 0, 0}, ¡y no veas\flo bien que se le da {STRVAR_1 6, 1, 0}!\rY el otro es {STRVAR_1 0, 2, 0}, ¡y\nsu {STRVAR_1 6, 3, 0} es increíble!\r¿Qué me dices?\n¿Quieres venir conmigo?{YESNO 0}
+Maiza: Bueno, vale.\n¡Otra vez será!
+Maiza: ¡Vale, te esperaré!\n¡No tardes mucho, {STRVAR_1 3, 0, 0}!\r

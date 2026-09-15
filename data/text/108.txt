@@ -1,0 +1,100 @@
+¡Te doy la bienvenida a la Sala Batalla!\rSoy tu guía para las Salas de Combate\nIndividual y Doble.\rTen en cuenta que estos desafíos están\npensados para un solo Entrenador.\r
+¿Qué reto te gustaría afrontar?{YESNO 0}
+En la Sala Batalla puedes luchar en\ncombates individuales o dobles.\rEn los combates individuales, entras\ncon un Pokémon de al menos Nv. 30.\rEn los combates dobles, debes entrar\ncon dos Pokémon de la misma especie que\fsean al menos de Nv. 30 cada uno.\rSe guarda un registro de las rachas\nde victorias logradas con cada Pokémon.\rAsí, cualquier clase de Pokémon\npuede llegar a ser el número 1.\rCuando entres, se te pedirá\nque elijas el tipo de Pokémon\fal que te quieres enfrentar.\rSi logras ganar diez combates seguidos,\nobtendrás Puntos de Batalla (PB).\rSi quieres interrumpir el desafío,\nno olvides guardar antes la partida.\rSi no la guardas, se te descalificará.\n¡Tenlo en cuenta!\r
+¡Te doy la bienvenida a la Sala Batalla!\rSoy tu guía para las Salas\nde Combate Múltiple.\rTen en cuenta que estos desafíos están\npensados para dos Entrenadores.\r
+¿Aceptas el desafío de los combates\nmúltiples de la Sala Batalla?{YESNO 0}
+Para participar en combates múltiples,\ndebes formar equipo con otra persona.\rUsaréis la misma especie de Pokémon,\nde Nv. 30 al menos.\rCuando entréis, se os pedirá que\nescojáis el tipo de Pokémon al que\fos queréis enfrentar.\rSi lográis ganar diez combates seguidos,\nobtendréis Puntos de Batalla (PB).\rLos combates múltiples de la Sala\nBatalla no se pueden interrumpir.\r
+¡Vuelve cuando quieras!
+¿A qué reto quieres enfrentarte?\n¿Nivel 50 o nivel libre?
+Debes guardar la partida antes\nde entrar. ¿Estás de acuerdo?{YESNO 0}
+¡Por aquí, por favor!
+Esperamos que vuelvas a visitarnos.\r
+¡Te hemos echado de menos!\rTienes que guardar la partida antes de\nreanudar tu reto. Espera, por favor...
+¡Vaya!\rHa habido una irregularidad a la\nhora de abandonar el desafío...\rEso quiere decir que, ejem,\nse te ha descalificado...\r
+¡Enhorabuena!\r¡Para celebrar tu victoria te damos\neste regalo conmemorativo!\r
+¡Se ha añadido la Foto Dorada\na la Cámara Lucha de {STRVAR_1 3, 0, 0}!\r
+¡Se ha añadido la Foto Plateada\na la Cámara Lucha de {STRVAR_1 3, 0, 0}!\r
+COMBATE INDIVIDUAL
+COMBATE DOBLE
+ACEPTAR EL DESAFÍO
+INFORMACIÓN
+SALIR
+Nv. 50
+Nivel libre
+Salir
+¿Quieres criar Pokémon poderosos,\npero no sabes cuál es mejor?\rSi esa es tu situación,\nla Fábrica Batalla es tu lugar.\n
+Sí, tienes toda la razón...\rLa vida es estudio, por eso hace falta\nhasta estudiar todo lo referente\fa los Pokémon y los Entrenadores.\r¡Este es el lugar ideal para eso!
+¡Eeey! ¡Eeey!\rNo tengo ningún Pokémon,\npor eso lo primero es aprender\fa lanzar la Poké Ball.
+¡Abuela! ¡Abuela!\n¡Acabo de intercambiar Accesorios!\f¡Toma, para ti!
+Gracias, chiquilla.\rEsta nietecita es una ricura,\nes fuerte y además cariñosa.\rEs demasiado para una mujer como yo.
+La niña que está junto a esa señora\nes muy poderosa.\fLas apariencias engañan, ¿eh?
+Un Entrenador debe elegir\n“HACER DE LÍDER”.\rEl otro Entrenador debe elegir\n“UNIRSE”.{YESNO 0}
+La comunicación inalámbrica de\nNintendo DS se iniciará. ¿Seguir?{YESNO 0}
+Tienes que guardar la partida antes de\nentrar. Espera, por favor...
+Elige con qué Pokémon\nte gustaría participar.\r
+¡Ya hay guardada una racha de victorias\ncon {STRVAR_1 0, 0, 0}!\r¿Vas a eliminar este registro\ne iniciar un nuevo desafío\fcon {STRVAR_1 0, 1, 0}?{YESNO 0}
+¡Vaya!\r¡No tienes ni un solo Pokémon disponible\nde al menos Nv. 30!\r
+¡Lo siento!\rPara los combates dobles debes tener\ndos Pokémon de la misma especie que\fsean al menos de Nv. 30 cada uno.\r
+Además, no se puede participar\ncon Huevos.\r
+Los Huevos y {STRVAR_1 0, 1, 0}\nno pueden participar.\r
+Los Huevos, {STRVAR_1 0, 1, 0} y\n{STRVAR_1 0, 2, 0} no pueden participar.\r
+Los Huevos, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0}\ny {STRVAR_1 0, 3, 0} no pueden participar.\r
+Los Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0} y\f{STRVAR_1 0, 4, 0} no pueden participar.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0} ni {STRVAR_1 0, 5, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0} ni\f{STRVAR_1 0, 6, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0} ni {STRVAR_1 0, 7, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0} ni\f{STRVAR_1 0, 8, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0} ni {STRVAR_1 0, 9, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0} ni\f{STRVAR_1 0, 10, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\f{STRVAR_1 0, 10, 0} ni {STRVAR_1 0, 11, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\f{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0} ni\f{STRVAR_1 0, 12, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\f{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\f{STRVAR_1 0, 12, 0} ni {STRVAR_1 0, 13, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\f{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\f{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0} ni\f{STRVAR_1 0, 14, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\f{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\f{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0},\f{STRVAR_1 0, 14, 0} ni {STRVAR_1 0, 15, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\f{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\f{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0},\f{STRVAR_1 0, 14, 0}, {STRVAR_1 0, 15, 0} ni\f{STRVAR_1 0, 16, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\f{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\f{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0},\f{STRVAR_1 0, 14, 0}, {STRVAR_1 0, 15, 0},\f{STRVAR_1 0, 16, 0} ni {STRVAR_1 0, 17, 0}.\r
+No se permiten Huevos, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\f{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\f{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\f{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\f{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0},\f{STRVAR_1 0, 14, 0}, {STRVAR_1 0, 15, 0},\f{STRVAR_1 0, 16, 0}, {STRVAR_1 0, 17, 0} ni\f{STRVAR_1 0, 18, 0}.\r
+Vuelve cuando tengas\ntodo lo necesario.\r
+En los combates múltiples de la Sala\nBatalla, ambos debéis participar con\fla misma especie de Pokémon.\rHabla con tu amigo y elegid\nel mismo Pokémon.\r
+DESAFÍO
+Cuando se trata de comida,\n¿te tomas primero lo que te gusta\fo lo dejas para lo último?\rAquí es mejor empezar con lo que no\nle guste al Pokémon. ¿Que por qué?\rPorque el enemigo sube de nivel\na medida que avanzas.
+¡Esa fase opulenta!\rTodo Pokémon puede registrar rachas\nde victorias seguidas por separado.\r¡Sí! Puedes intentar batir un récord\ncon tu Pokémon preferido.\r¿No es genial?
+Slow...\rMi SLOWBRO es una monada, pero aquí\ndonde lo ves ya se ha enfrentado al As.\rEl As se enfrentará a tu Pokémon al\nmismo nivel, para que sea justo.
+SLOWBRO: ¿Slow... bro...?
+¡Ten en cuenta esto!\rSi estás pensando en superar tu récord\ntotal de victorias consecutivas,\fdeberías probar la Sala Batalla\fcon diferentes Pokémon.
+Hay una idea clave que debes\ntener en mente.\rPuedes participar con diferentes\nPokémon de la misma especie\fy acumular victorias.\rAsí puedes tener Pokémon que usen\nmovimientos distintos.\rAsí te sería más fácil ganar contra\ndeterminados tipos de Pokémon.
+¿Ya sabes que HOPPIP es de dos\ntipos, Planta y Volador?\rEso significa que puede aparecer como\nde tipo Planta y de tipo Volador.\r¿Yo? Pues creo que mis atributos\nson alegría y belleza.
+Venga, te voy a contar algo especial.\rEn la Sala Batalla los Pokémon enemigos\najustarán su nivel al de los tuyos.\rAsí puedes comenzar a luchar sin temer\nque sean más fuertes que tú.\rSimplemente, usa el Pokémon\nque prefieras.
+La Sala Batalla mola mucho.\rEso de poder guardar el número de\nvictorias consecutivas engancha.\rAunque también se puede competir\ncon un amigo en desafíos\fcon condiciones idénticas a ver\fquién mantiene más tiempo la racha\fde victorias. ¡Es guay!
+Llevo la cuenta de tu mayor racha de\nvictorias consecutivas en combates\findividuales en la Sala Batalla.\rSolo registro las mejores rachas de\nvictorias de cada Pokémon.
+Cuando tu racha total de victorias\nalcance ciertos niveles, obtendrás PB\fcomo premio.\r{STRVAR_1 3, 0, 0}, actualmente tienes\n{STRVAR_1 55, 1, 0} victorias consecutivas.\r
+Tu racha total de victorias\nha llegado a {STRVAR_1 55, 2, 0}.\fAquí tienes tu premio en PB.\r
+Obtendrás PB si tu récord total de\nvictorias consecutivas es {STRVAR_1 55, 3, 0}.
+¡{STRVAR_1 3, 0, 0} ha conseguido {STRVAR_1 53, 4, 0} PB!
+{STRVAR_1 3, 0, 0}, tu récord total de\nvictorias consecutivas es de {STRVAR_1 55, 1, 0}.\r
+{STRVAR_1 3, 0, 0}, tu récord total de\nvictorias consecutivas es de {STRVAR_1 55, 1, 0}.\r¡Cielos!\n¡Es un récord fantástico!
+Celindo: Últimamente la Sala Batalla\nestá un poco aburridilla.\rNo hay ningún participante deslumbrante\nque se meta al público en el bolsillo.\rAlguien que pueda vencer al As...\n¿Es que nadie es capaz?
+Celindo: A ver si lo adivino...\n¿Vas a entrar en la Sala Batalla?\fVicia un montón, ¿a que sí?\rAdemás, cuanto más ganes, más Pokémon\ndiferentes llegas a ver.
+Celindo: ...\n¡Huy, perdona, me he quedado embobado!\rEs que antes te he visto luchar...\nTienes madera de estrella.\rCreo que no te voy a quitar ojo de\nencima, tienes mucho carisma.
+Celindo: Cada vez que subes a luchar,\nno me pierdo detalle.\rEs muy entretenido mirarte.\rAhora siempre espero el momento\nen que tu Pokémon y tú salgáis\fa escena para luchar.
+Celindo: ¡Eh, hola!\n¿Qué vas a hacer esta vez?\r¿Con qué Pokémon vas a luchar\npor el récord ahora?\rCuando me pongo a pensar en eso, no\nhay manera de que pegue ojo de noche.\r¡Por eso tengo estas ojeras!
+Celindo: ¡Increíble!\n¡Sencillamente impresionante!\f¡No hay palabras para describirte!\rEl amor que muestras por tantos\nPokémon...\f¡No es tarea fácil, eso seguro!
+Celindo: Nunca he visto Pokémon\nque disfruten tanto luchando\fcomo los tuyos.\rPara mí no hay Entrenador mejor que tú.\rLa verdad es que fardo de que te\nconozco ante quien quiera escucharme.\r¡Yo ya decía que ibas a ser una estrella\nmucho antes de que lograras un récord!
+Celindo: ¡Oéee, {STRVAR_1 3, 0, 0}, oéee!\n¡Oéee, {STRVAR_1 3, 0, 0}, oéee!\rEstoy trabajando en unas coreografías\npara animarte durante los combates.\r¡Si quieres verlas, tendrás que ponerte\nmanos a la obra con los récords!
+Celindo: Eres fenomenal.\nTodos esos combates ganados...\fTodos esos momentos de gloria...\r¡Tu estrella brilla con mucha fuerza!\n¡Casi tengo que ponerme gafas de sol!
+Celindo: El amor que muestras\npor los Pokémon en la Sala Batalla\fes tan infinitamente profundo...\rPuedes contar conmigo, Celindo, para\nque sea tu fan número uno de por vida.\r¿A que suena motivador?\n¡Sí, sí, lo veo en tus ojos!
+Serena: No sé qué le pasa a la Sala\nBatalla... Ya no me emociona.\rYa no participa nadie interesante\nque me deslumbre,\ralguien de quien quiera ser fan para\nsiempre... ¿Es que nadie es capaz?
+Serena: Esto... Oye...\rSi no es mucho preguntar...\n¿Vas a entrar en la Sala Batalla?\rEs divertida a la par que fascinante,\n¿eh? Ah, ¿lo sabías?\rCuantas más veces ganes,\nmás Pokémon diferentes aparecen.
+Serena: Esto... Oye...\rNo he podido evitar observarte mientras\nluchabas y me he emocionado y todo.\rEsto... No te importa si te animo a\npartir de ahora, ¿no? Porfi, ¿puedo?
+Serena: Esto... Oye...\rTe animo lo mejor que me sale.\rNo puedo salir a escena contigo, pero\nquiero daros mi apoyo a tus Pokémon\fy a ti por todo vuestro esfuerzo.
+Serena: Esto... Oye...\r¿Sabes con qué especie de Pokémon vas\na intentar batir el récord esta vez?\rCuando me paro a pensarlo, se me olvida\nhasta cómo se respira.\rCuando me pongo así, me cuesta\nhorrores conciliar el sueño.
+Serena: Esto... Oye...\r¡Insuperable! ¡Eres insuperable!\n¡Eres insuperablemente insuperable!\rEl amor que muestras por tantos\nPokémon...\fTiene que ser un esfuerzo increíble.
+Serena: Nunca había visto Pokémon\nque disfruten tanto luchando como\flos tuyos.\rNo he visto nada parecido con ningún\notro Entrenador.\rY... presumo de que te conozco ante\ntodos mis compis, no te importa, ¿no?\r¡Les digo que me gustaría entrenar la\nmitad de bien que tú!
+Serena: ¡Venga, vamos, {STRVAR_1 3, 0, 0}!\n¡Así, Pokémon, así!\r¡Anda! Esto... perdón.\rEstaba trabajando en unos vítores y\nuna coreografía para ti.\rP-perdóname por hacer estas\ntonterías, no me lo tengas en cuenta...
+Serena: Eres mi inspiración.\rToda la gloria que has alcanzado\nluchando en esa luminosa sala...\rSolo con verte siento una felicidad\nindescriptible. ♫
+Serena: El amor que muestras por los\nPokémon en la Sala Batalla es tan\finfinitamente profundo...\rParece increíble, pero adoras todo\ntipo de Pokémon que existe.\r¡Y yo te adoro por tu dedicación y\nentrega!
+Lira: ¿Sabes?\nMe encanta verte luchar.\rGanes o pierdas, siempre\nte veo disfrutar con lo que haces.\f¡Ese espíritu positivo me encanta!
+Eco: ¡La Sala Batalla es un paraíso\npara los amantes de Pokémon!\rSe llegan a ver un montón de Pokémon\ndistintos, es una pasada.\r¡Me emociono siempre un montón!
+Mamá: ¡{STRVAR_1 3, 0, 0}!\nEsto... ¡He venido a verte!\rTodos luchan con pasión, pero es que tú\nbrillas por encima de todos los demás.\rA la vuelta, me pasaré por el Centro\nComercial de Ciudad Trigal para comprar\falgo que te pueda ser útil. ¡Algo habrá!
+Oak: No dejas de asombrarme una vez\ntras otra, ¡cómo entrenas!\rNo es solo que hayas capturado Pokémon\nen cifras que ponen los pelos de punta.\rEso en sí ya sería suficiente, pero es\nque encima has luchado con ellos.\r¡Es todo un orgullo haberte conocido!
+Blanca: Me encantan los eventos\nvistosos y que causan expectación.\rNo, no es que yo quiera causar\nexpectación... bueno... tal vez sí...\rPero lo que más me satisface ver\nes que los Pokémon son el centro\fde atención de todos.

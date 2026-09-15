@@ -1,0 +1,12 @@
+¡Hola! Gracias por comprar en nuestro\nestablecimiento.\r¿A qué planta quieres ir?{YESNO 0}
+¡Vuelve siempre que quieras!
+Cómo no. Subiendo.\r
+Cómo no. Bajando.\r
+Ya estamos en esa planta.
+PB Información y vestíbulo
+P1 Amplio surtido de objetos\nen la Tienda de Entrenadores
+P2 Fuerza y robustez para Pokémon\ncon nuestros Artículos de combate\n
+P3 Remedios para Pokémon en el Botiquín
+P4 Los movimientos que siempre quisiste\nen la Tienda de MT
+P5 Prueba suerte en la tómbola\nde la Plaza Tranquila
+Hay un almacén en el sótano,\npero no es para los clientes.

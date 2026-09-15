@@ -1,0 +1,35 @@
+Este árbol se puede cortar.\n¿Deseas cortarlo?{YESNO 0}
+{STRVAR_1 0, 0, 0} va a usar Corte.\r
+Parece que puedes cortar este árbol.
+Esta roca parece poder partirse.\n¿Quieres usar Golpe Roca?{YESNO 0}
+Es una roca muy dura, pero un\nPokémon podría hacerla añicos.
+{STRVAR_1 0, 0, 0} va a usar Golpe Roca.\r
+¡Has encontrado el objeto\n{STRVAR_1 8, 1, 0} en los escombros!\r
+Es una roca enorme, pero\nun Pokémon podría moverla.\r¿Quieres usar Fuerza?{YESNO 0}
+¡{STRVAR_1 0, 0, 0} ha usado Fuerza!\rGracias a Fuerza, {STRVAR_1 0, 0, 0}\nha podido mover rocas.
+Es una roca enorme, pero\nun Pokémon podría moverla.
+Gracias al movimiento Fuerza,\npuedes desplazar rocas a un lado.
+{STRVAR_1 0, 0, 0} va a usar Fuerza.\r
+Fuerza de {STRVAR_1 0, 0, 0} permite\ndesplazar la roca a un lado.
+¡La roca se ha caído!
+El agua tiene buena pinta...\n¿Quieres hacer Surf?{YESNO 0}
+¡{STRVAR_1 0, 0, 0} va a usar Surf!\r
+No puedes usar Surf\ncuando vas con alguien.
+Una espesa niebla cubre esta zona.\n¿Quieres usar Despejar?{YESNO 0}
+¡{STRVAR_1 0, 0, 0} va a usar Despejar!\r
+Una espesa niebla cubre la zona.\n¿Quieres que un Pokémon la quite?
+Esta pared es muy rocosa...\n¿Quieres usar Treparrocas?{YESNO 0}
+¡{STRVAR_1 0, 0, 0} va a usar Treparrocas!\r
+Esta pared es muy rocosa, pero\nun Pokémon sería capaz de escalarla.
+No puedes usar Treparrocas\nsi vas con alguien.
+Es una gran catarata.\n¿Quieres usar Cascada?{YESNO 0}
+{STRVAR_1 0, 0, 0} va a usar Cascada.\r
+Un muro de agua cae con\nun estruendo ensordecedor...
+¿Quieres usar Teletransp\npara volver a {STRVAR_1 4, 0, 0}?
+¡{STRVAR_1 0, 0, 0} va a usar Destello!\r
+¡Hay un remolino muy grande!\n¿Quieres usar Torbellino?{YESNO 0}
+{STRVAR_1 0, 0, 0} ha usado Torbellino.\r
+El agua gira y se arremolina\nemitiendo un sonido atronador.
+Hay un árbol no demasiado grande.\n¿Quieres usar Cabezazo?{YESNO 0}
+{STRVAR_1 0, 0, 0} ha usado Cabezazo.\r
+Hay un árbol imponente al que\nle puedes asestar un Cabezazo.

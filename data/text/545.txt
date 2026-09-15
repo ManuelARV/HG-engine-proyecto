@@ -1,0 +1,39 @@
+¡Ah, {STRVAR_1 3, 0, 0}!\n¡Aquí estás! Tu amiga Lira ha venido\fhace un rato.\rEstaba buscando a su MARILL.\r¡Ah!, y nuestro vecino, el Profesor Elm,\nte andaba buscando.\fSe ve que quiere pedirte un favor.\rSu Laboratorio está aquí al lado,\nlo sabes, ¿no?\rAntes de que te vayas...\nasegúrate de que no te olvidas\fnada, ¿eh?\rMete todo lo que te haga falta\nen esta Bolsa.\r
+¡Ah, {STRVAR_1 3, 0, 0}!\n¡Aquí estás! Tu amigo Eco ha venido\fhace un rato.\rEstaba buscando a su MARILL.\r¡Ah!, y nuestro vecino, el Profesor Elm,\nte andaba buscando.\fSe ve que quiere pedirte un favor.\rSu Laboratorio está aquí al lado,\nlo sabes, ¿no?\rAntes de que te vayas...\nasegúrate de que no te olvidas\fnada, ¿eh?\rMete todo lo que te haga falta en\nesta Bolsa.\r
+Toma tu Ficha de Entrenador...\r
+En este cuaderno podrás\nguardar tus progresos...\r
+Es algo muy práctico...\r
+Toca la pantalla para usarlo\ny enseguida aprenderás cómo funciona.\r
+¡Venga, que el Profesor Elm\nte está esperando!
+¡Ah, {STRVAR_1 3, 0, 0}!\n¡Qué Pokémon más mono!\r¿Te lo ha dado el Profesor Elm?\r¿Y qué te ha pedido?\n...\r¡Oh, eso no va a ser nada fácil!\nPero si el Profesor confía en ti,\fdeberías aceptar su misión.\r¡Ah, sí!\nCasi se me olvida...\rHan traído el Pokégear\nque llevamos a reparar.\rToma.\r
+¡{STRVAR_1 3, 0, 0} ha recibido el Pokégear!\r
+Pokémon Gear...\no Pokégear, para hacerlo más corto.\rCualquier Entrenador experto\ntiene uno.\r
+Puedes usar el Pokégear para llamar\npor teléfono.\f¿Sabes cómo se hace?{YESNO 0}
+Solo hay que encender el Pokégear\ny tocar el icono del teléfono.\r
+Esto es lo que dicen las instrucciones:\r“Abre el menú del Pokégear\ndesde la pantalla inferior y luego\ftoca el icono del teléfono.”\r
+Los nombres de tus contactos\nse registran automáticamente,\fasí que solo tienes que seleccionar\fel nombre de la persona a quien\fquieras llamar. ¡Es muy fácil!
+¿Qué ocurre?\n¿Ya no te acuerdas de dónde vive\fel Sr. Pokémon?\rSu casa está yendo hacia el norte\ndesde la Ruta 30.\fVe con cuidado, ¿eh?
+...\nTe vas en busca de aventuras, ¿no?\r¡Está bien!\nPuedes contar con todo mi apoyo.\fPero, ¿cómo podría ayudarte?\r¡Ya lo sé!\nCada vez que ganes algo de dinero,\fyo puedo ir guardándotelo.\rEs muy importante ahorrar dinero\npara un viaje tan largo.\r¿Quieres que te guarde el dinero?{YESNO 0}\n
+{STRVAR_1 3, 0, 0}, puedes contar con todo\nmi apoyo durante tu aventura.\rPero, ¿cómo podría ayudarte?\r¡Ya lo sé!\rCada vez que ganes algo de dinero,\nyo puedo ir guardándotelo.\rEs muy importante ahorrar dinero\npara un viaje tan largo.\r¿Quieres que te guarde el dinero?{YESNO 0}\n
+¡Muy bien, yo me encargaré!\r...\nProméteme que tendrás cuidado.\rEstoy convencida de que si tus amigos\nPokémon y tú trabajáis en equipo,\fseréis capaces de cualquier cosa.\r¡Hasta pronto!
+Prométeme que tendrás cuidado.\rEstoy convencida de que si tus amigos\nPokémon y tú trabajáis en equipo,\fseréis capaces de cualquier cosa.\r¡Hasta pronto!
+¡Sé valiente, {STRVAR_1 3, 0, 0}!\n¡Ya sabes que tienes todo mi apoyo!
+¡Hola, hola!\nLo estás haciendo muy bien.\rHe ordenado tu habitación.\r¿Quieres comprobar tus ahorros?{YESNO 0}
+Hazlo lo mejor posible.
+Vaya...\nNo tienes nada ahorrado.
+¡No te preocupes por tu dinero!\n¡Ánimo con tu aventura!
+{STRVAR_1 3, 0, 0}, piénsalo bien\nantes de gastar dinero.
+¿Quieres ahorrar algo de dinero?{YESNO 0}
+Vaya...\nNo te queda nada de dinero.\rNo deberías malgastarlo.\nPero sé que en ese aspecto has salido\fa mí, así que no me preocupa.
+Tienes muchísimo dinero ahorrado.\nDe momento no puedo guardarte más.
+Llevas muchísimo dinero encima.\nNo creo que puedas llevar más.
+TOMAR
+DAR
+¿AHORRAR?
+CANCELAR
+¡Ah, {STRVAR_1 3, 0, 0}!\nEl Profesor Elm ha dicho que tenía\falgo para ti.\r
+El Profesor Elm ha dicho que tenía\nalgo para ti.\f¿Por qué no vas a verlo al Laboratorio?
+Están dando una película en la tele.\nDos hombres buscan un tesoro\fen una cueva.\r¡Bueno, tengo que irme ya!
+Es la especialidad de mamá.\n¡Volcamburguesa al estilo Isla Canela!
+¡El fregadero está reluciente!\nMamá es una maniática de la limpieza.
+La nevera está llena de Agua Fresca\ny Limonada.

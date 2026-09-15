@@ -1,0 +1,12 @@
+Pepín
+No siempre se gana aunque se combata\nen las mismas condiciones\fy con el mismo contrincante.\r¡Tenemos que volver a combatir!\n¡Dame tu número de teléfono!{YESNO 0}
+¡Te llamo cuando esté listo!
+Bueno, tú sabrás. Ya te decidirás.
+¡Tenemos que volver a combatir!\n¡Dame tu número de teléfono!{YESNO 0}
+¿Eh? Oigo tu voz muy cerca.\n¡Estás cerca! ¡Anda, ven aquí!
+Los Montañeros adoran la naturaleza,\npor eso se llevan bien con los Pokémon.\f¡Es verdad!\rLa prueba es mi {STRVAR_1 0, 10, 0},\nque siempre me obedece sin rechistar.
+¡Ven! Ayer vi un {STRVAR_1 0, 11, 0} salvaje.\nEstaba escondido en la espesura.\rMis Pokémon combatieron con valentía.\nSí, en la espesura de la naturaleza.\rFue una sensación...\nNo sé cómo describirlo con palabras...\fPor ejemplo...\r¡Oéeeeeeeeeeeeee!
+El otro día iba paseando por la montaña\ny ¡zas!\r¡Un {STRVAR_1 0, 11, 0} salió a mi encuentro!\nMe pilló desprevenido y se me escapó.\rTodo Montañero ha de estar listo\nconstantemente.\r¡No merezco ser lo que soy!\n¡Qué vergüenza!
+Creo que estoy listo para disputar\nun nuevo combate contra ti.\r¡Adrenalina a tope!\n¿Qué me dices?\rTe espero en {STRVAR_1 4, 3, 0}.\n
+Te espero en {STRVAR_1 4, 3, 0}\nrodeado de naturaleza. ¡A combatir!
+Ahora que lo pienso, me tiro\nla mayoría del año en la montaña.\rAh, ¿la ducha? ¡En la montaña no hay!\nPero me pego baños en los ríos y\fquedo como los chorros del oro.\r¡El otro día me estaba dando un bañito\ninocente y me confundieron con\fun Nadador!

@@ -1,0 +1,19 @@
+Mmm...\n¿Has venido a ver a mi nieto Bill?\rEstá en Johto trabajando de... bueno,\nhace algo con los PC.\fPor eso yo le cuido la casa.\r
+Mi nieto mencionó un Pokémon oscuro\ny redondo al que le crecen hojas\fen la cabeza.\r
+Bill me dijo que hay un Pokémon de tipo\nFuego, que es muy fiel a su Entrenador\fy ladra de forma muy característica.\r
+He oído que hay un Pokémon de ojos\ngrandes y redondos que canta nanas\fcon una voz muy dulce.\r
+¿Conoces ese Pokémon tan popular?\rEl Pokémon de cuerpo amarillo y\nmejillas rojas.\rMe gustaría verlo antes de que\nevolucione.\r
+Mi nieto me dijo que en Johto hay un\nPokémon azul y redondo que usa\fla punta de su cola como flotador.\rY se ve que tiene la panza\nde color blanco.\rVaya... Me gustaría verlo aunque\nfuera solo una vez.\r
+Mi nieto Bill me contó que hay un\nPokémon que tiene la lengua muy larga y\fda lametones. También tiene unas marcas\fen forma de círculo en las rodillas.\r
+Mi nieto mencionó un Pokémon oscuro\ny redondo al que le crecen hojas\fen la cabeza.\r
+¿Conoces un Pokémon de mar que\ntiene una esfera roja en el cuerpo?\rYa sabes, ese que tiene forma\nde estrella.\rDicen que sale por la noche.\nMe encantaría verlo.\r
+He oído hablar de un Pokémon que\ntiene seis colas.\fMe gustaría abrazar un Pokémon así.\r
+¿Conoces ese Pokémon tan popular?\rEl Pokémon de cuerpo amarillo y\nmejillas rojas.\rMe gustaría verlo antes\nde que evolucione.\r
+Si tienes ese Pokémon\n¿me dejas verlo? {YESNO 0}
+¿Me lo dejas ver?\n¡Qué amable eres!\r
+¿No lo tienes? ¡Qué pena!...
+¿Mmm? Ese no es el Pokémon\ndel que me hablaron.
+¡Oh! ¿Eso es un {STRVAR_1 0, 0, 0}?\n¡Es precioso!\rQué bien que me lo hayas enseñado.\nToma esto como agradecimiento.\r
+Vuelve cuando quieras.
+Gracias por mostrarme tantos\nPokémon tan bonitos.\rMe he divertido mucho. Me alegro\nde haber vivido tantos años.
+Hay una máquina cubierta de polvo.\nNadie la usa ahora.

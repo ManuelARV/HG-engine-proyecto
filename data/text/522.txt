@@ -1,0 +1,27 @@
+En la Liga Pokémon, los cuatro\nmiembros del Alto Mando\fte pondrán a prueba.\rDeberás vencerlos a todos.\n¡Si pierdes, volverás a empezar!
+Los Entrenadores que se ponen\nnerviosos una vez están aquí,\fvuelven a casa teletransportados\fpor mi querido ABRA.\rAunque muchos se van volando\nsin ayuda de nadie últimamente.\rMe siento un poco triste así, sin nada\nque hacer, y a ABRA le ocurre lo mismo.
+ABRA: Aabra...
+{STRVAR_1 3, 0, 0}, espera.\r¿Vas a participar ahora\nen la Liga Pokémon?\rYo creo que deberías abandonar la idea,\npues mis Pokémon están muy bien\fentrenados y van a acabar contigo\festa vez.\r¡Enfréntate a mí!\r
+¡{STRVAR_1 3, 0, 0}! ¡Maldición!\nSigo sin ganar...\rTengo que confiar más en mis Pokémon...\rDebe de ser eso.\rPerdona por haberte\nhecho perder el tiempo.\rNo olvides restaurar los PS\nde tus Pokémon si vas a enfrentarte\fal Campeón.\r
+Entrando aquí, se llega\na la sala del Alto Mando.\r¡Sus miembros son muy poderosos!\rUna vez dentro, ya no podrás\necharte atrás.\r¿Te atreves?\f¡Sé valiente y adelante!\r
+Entrando aquí, se llega\na la sala del Alto Mando.\r¡Sus miembros son muy poderosos!\rUna vez dentro, ya no podrás\necharte atrás.\r¿Te atreves?\f¡Sé valiente y adelante!\n
+¿Qué récord deseas ver?{YESNO 0}
+RÉCORD EN GRUPO
+RÉCORD GLOBAL
+SALIR
+¿Qué clase de récord deseas ver?{YESNO 0}
+RÉCORD DE TUS POKéMON
+RÉCORD DE LA TORRE BATALLA
+SALIR
+¿Qué récord deseas ver?{YESNO 0}
+POKéMON\nDERROTADOS
+POKéMON\nATRAPADOS
+HUEVOS\nDE POKéMON
+ENCONTRADOS\nPESCANDO
+COMBATES\nINDIVIDUALES
+COMBATES\nDOBLES
+COMBATES\nMÚLTIPLES
+COMBATES MÚLT.\nCONECTADOS
+SALA DE\nCOMBATE Wi-Fi
+PROMEDIO VICT.\nCONSECUTIVAS
+VOLVER

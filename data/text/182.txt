@@ -1,0 +1,166 @@
+Parece que hay un problema...
+Esperando respuesta de\n{STRVAR_1 3, 1, 0}...
+Esperando a que {STRVAR_1 3, 1, 0} registre\na los miembros. Por favor, espera.
+¿Te sales del grupo?{YESNO 0}
+{STRVAR_1 3, 1, 0} respondió con\nun “vale”.
+{STRVAR_1 3, 1, 0} respondió con un “no”...{PAUSE 0}
+Has dejado el grupo.
+                                
+¡Combate individual!\nEsperando a que tu amigo contacte.
+¡Combate doble!\nEsperando a que tu amigo contacte.
+¡Combate múltiple! Esperando\na que tus amigos contacten.
+¡Combate combi!\nEsperando a que tu amigo contacte.
+¡Combate tope!\nEsperando a que tu amigo contacte.
+¡Intercambio de Zonas Safari!\nEsperando a que tu amigo contacte.
+¡Pokéathlon!\nEsperando a que tu amigo contacte.
+Cuando todos estén listos...\nBotón A: confirmar   Botón B: cancelar
+                              
+Cuando todos estén listos...\nBotón A: confirmar   Botón B: cancelar
+¡Torre Batalla!\nEsperando a que tu amigo contacte.
+¡Nivel 50 de la Fábrica Batalla!\nEsperando a que tu amigo contacte.
+¡Nivel libre de la Fábrica Batalla!\nEsperando a que tu amigo contacte.
+¡Sala Batalla!\nEsperando a que tu amigo contacte.
+¡Castillo Batalla!\nEsperando a que tu amigo contacte.
+¡Ruleta Batalla!\nEsperando a que tu amigo contacte.
+                               
+{STRVAR_1 3, 1, 0} ha contactado contigo.\n¿Quieres un combate individual?{YESNO 0}
+{STRVAR_1 3, 1, 0} ha contactado contigo.\n¿Quieres un combate doble?{YESNO 0}
+{STRVAR_1 3, 1, 0} ha contactado contigo.\n¿Quieres un combate combi?{YESNO 0}
+{STRVAR_1 3, 1, 0} ha contactado contigo.\n¿Quieres un combate tope?{YESNO 0}
+{STRVAR_1 3, 1, 0} contactó contigo.\n¿Quieres intercambiar Zonas Safari?{YESNO 0}
+{STRVAR_1 3, 1, 0} ha contactado contigo.\n¿Permitir a {STRVAR_1 3, 1, 0} unirse?{YESNO 0}
+{STRVAR_1 3, 1, 0} ha contactado contigo.\n¿Puede unirse a tu grupo?{YESNO 0}
+{STRVAR_1 3, 1, 0} contactó contigo.\n¿Sí al desafío Torre Batalla?{YESNO 0}
+{STRVAR_1 3, 1, 0} contactó contigo.\n¿Sí al desafío Fábrica Batalla?{YESNO 0}
+{STRVAR_1 3, 1, 0} ha contactado contigo.\n¿Aceptas desafío Sala Batalla?{YESNO 0}
+{STRVAR_1 3, 1, 0} contactó contigo.\n¿Sí al desafío Castillo Batalla?{YESNO 0}
+{STRVAR_1 3, 1, 0} contactó contigo.\n¿Sí al desafío Ruleta Batalla?{YESNO 0}
+                               
+¿Te parece bien este grupo\npara un combate múltiple?{YESNO 0}
+¿Te parece bien este grupo?{YESNO 0}
+                              
+                       
+¿Te parece bien este grupo\npara participar en el Pokéathlon?{YESNO 0}
+¿Cancelas el combate múltiple\npara este grupo?{YESNO 0}
+            
+                                 
+                         
+¿Cancelas participar en el\nPokéathlon con este grupo?{YESNO 0}
+                                
+Selecciona el combate individual\nal que te quieras unir.{YESNO 0}
+Selecciona el combate doble\nal que te quieras unir.{YESNO 0}
+Selecciona el combate múltiple\nal que te quieras unir.{YESNO 0}
+Selecciona el combate combi\nal que te quieras unir.{YESNO 0}
+Selecciona el combate tope\nal que te quieras unir.{YESNO 0}
+Selecciona con quién quieres\nintercambiar las Zonas Safari.{YESNO 0}
+Selecciona el Pokéathlon en el que\nquieras participar.{YESNO 0}
+                       
+                              
+                       
+Selecciona con quién irás a la\nTorre Batalla.{YESNO 0}
+Selecciona con quién quieres jugar\nen el nivel 50 de la Fábrica Batalla.{YESNO 0}
+Selecciona con quién jugar en el\nnivel libre de la Fábrica Batalla.{YESNO 0}
+Selecciona con quién quieres\njugar en la Sala Batalla.{YESNO 0}
+Selecciona con quién quieres\njugar en el Castillo Batalla.{YESNO 0}
+Selecciona con quién quieres\njugar en la Ruleta Batalla.{YESNO 0}
+Hay un miembro del grupo que\nya no está disponible.\rPor favor, repite el proceso de\nregistro desde el principio.
+                           
+                        
+Se cancelará el Pokéathlon para\neste grupo.
+Se ha respondido “vale”\na {STRVAR_1 3, 1, 0}.
+¡Combate múltiple!\nEsperando al resto de participantes.
+Esperando al resto de participantes.
+                          
+                       
+¡Pokéathlon!\nEsperando a otros participantes.
+{STRVAR_1 3, 0, 0}\nID {STRVAR_1 54, 1, 0}
+{STRVAR_1 51, 0, 0}:{STRVAR_1 3, 1, 0}
+{STRVAR_1 51, 0, 0}:
+ID {STRVAR_1 54, 2, 0}
+{STRVAR_1 3, 0, 0}
+Esperando a\n{STRVAR_1 50, 0, 0} más.
+Jugadores: {STRVAR_1 50, 0, 0}
+
+NORMAL
+FANTASÍA
+PEQUEÑA
+LIGERA
+DOBLE
+NORMAL
+LIGERA
+DOBLE
+DOBLE
+GS
+N.º de Pokémon:
+Nivel Pokémon:
+Total niveles:
+Altura:
+Peso:
+Pokémon evolucionados:
+Pokémon especiales:
+Pokémon iguales:
+Objetos iguales:
+{STRVAR_1 50, 0, 0}
+Máx. {STRVAR_1 52, 0, 0}
+Máx. {STRVAR_1 52, 0, 0}
+Máx. {STRVAR_1 50, 0, 0},{STRVAR_1 50, 1, 0} m
+Mín. {STRVAR_1 50, 0, 0},{STRVAR_1 50, 1, 0} m
+Máx. {STRVAR_1 51, 0, 0} kg
+Mín. {STRVAR_1 51, 0, 0} kg
+Permitido
+No permitido
+Permitido
+No permitido
+Copa {STRVAR_1 26, 0, 0}
+SIN RESTRICCIONES
+2 Permitidos
+Se han seleccionado reglas diferentes.\nDeben elegirse las mismas reglas.
+                              
+                              
+                             
+                             
+                              
+                           
+                           
+                          
+                          
+                           
+                                 
+                                 
+                                
+                                
+                                 
+                             
+                             
+                            
+                            
+                             
+                             
+                             
+                            
+                            
+                             
+¡Pruebas Velocidad y Salto!\nSe buscan participantes.{YESNO 0}
+¡Pruebas Salto y Precisión!\nSe buscan participantes.{YESNO 0}
+¡Pruebas Precisión y Fortaleza!\nSe buscan participantes.{YESNO 0}
+¡Pruebas Fortaleza y Resistencia!\nSe buscan participantes.{YESNO 0}
+¡Pruebas Resistencia y Velocidad!\nSe buscan participantes.{YESNO 0}
+¡Pruebas Maestras!\nSe buscan participantes.{YESNO 0}
+¡Pruebas Velocidad y Salto!\nSelecciona al líder.{YESNO 0}
+¡Pruebas Salto y Precisión!\nSelecciona al líder.{YESNO 0}
+¡Pruebas Precisión y Fortaleza!\nSelecciona al líder.{YESNO 0}
+¡Pruebas Fortaleza y Resistencia!\nSelecciona al líder.{YESNO 0}
+¡Pruebas Resistencia y Velocidad!\nSelecciona al líder.{YESNO 0}
+¡Pruebas Maestras!\nSelecciona al líder.{YESNO 0}
+¡Pruebas Velocidad y Salto!\nTocar pantalla si están listos.{YESNO 0}
+¡Pruebas Salto y Precisión!\nTocar pantalla si están listos.{YESNO 0}
+¡Pruebas Precisión y Fortaleza!\nTocar pantalla si están listos.{YESNO 0}
+¡Pruebas Fortaleza y Resistencia!\nTocar pantalla si están listos.{YESNO 0}
+¡Pruebas Resistencia y Velocidad!\nTocar pantalla si están listos.{YESNO 0}
+¡Pruebas Maestras!\nTocar pantalla si están listos.{YESNO 0}
+¡Pruebas Velocidad y Salto!\nEsperando a otros participantes.
+¡Pruebas Salto y Precisión!\nEsperando a otros participantes.
+¡Pruebas Precisión y Fortaleza!\nEsperando a otros participantes.
+¡Pruebas Fortaleza y Resistencia!\nEsperando a otros participantes.
+¡Pruebas Resistencia y Velocidad!\nEsperando a otros participantes.
+¡Pruebas Maestras!\nEsperando a otros participantes.

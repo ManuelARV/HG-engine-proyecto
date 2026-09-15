@@ -1,0 +1,6 @@
+CLEFAIRY: ¡Cleeef... faaaairy!
+Plaza Mt. Moon\nNo tirar basura
+¡{STRVAR_1 3, 0, 0} ha encontrado\n{STRVAR_1 8, 1, 0}!
+{STRVAR_1 3, 0, 0} ha puesto {STRVAR_1 8, 1, 0}\nen el Bolsillo {STRVAR_1 31, 2, 0}.
+¡Has obtenido {STRVAR_1 8, 0, 0}!\r¡Qué mala suerte!\nLa Bolsa está llena...
+Hoy ya hemos cerrado.

@@ -1,0 +1,33 @@
+No se ha podido acceder a la\nConexión Wi-Fi de Nintendo.\nPara obtener ayuda, consulta el\nmanual de instrucciones de este\nprograma o visita el sitio web\nsupport.nintendo.com.\n\nError: {STRVAR_1 54, 0, 0}
+La Conexión Wi-Fi de Nintendo\ntiene un volumen de tráfico\ndemasiado elevado o el servicio\nse ha interrumpido. Vuelve a\nintentar conectarte más tarde.\nPara obtener ayuda, visita el\nsitio web support.nintendo.com.\nError: {STRVAR_1 54, 0, 0}
+Se ha borrado este ID\nde la CWF de Nintendo\nporque ha permanecido inactivo\ndurante demasiado tiempo.\n\nPara obtener ayuda, visita el\nsitio web support.nintendo.com.\nError: {STRVAR_1 54, 0, 0}
+El servicio de Conexión Wi-Fi de\nNintendo ya no está disponible\npara este programa. Visita\nsupport.nintendo.com para ver\nla lista completa de juegos\nactualmente compatibles con\nla Conexión Wi-Fi de Nintendo.\nError: {STRVAR_1 54, 0, 0}
+El punto de acceso está ocupado.\nNo se puede establecer la\nconexión. Inténtalo más tarde.\n\nPara obtener ayuda, visita el\nsitio web support.nintendo.com.\nError: {STRVAR_1 54, 0, 0}
+No hay ningún punto de acceso\ncerca. Acércate a uno y vuelve\na intentarlo.\n\nPara obtener ayuda, visita el\nsitio web support.nintendo.com.\nError: {STRVAR_1 54, 0, 0}
+No se ha podido encontrar ningún\npunto de acceso compatible cerca.\nComprueba tus ajustes de\nconexión y vuelve a intentarlo.\n\nPara obtener ayuda, visita\nel sitio web support.nintendo.com.\nError: {STRVAR_1 54, 0, 0}
+No se ha podido detectar el\nConector USB Wi-Fi de Nintendo.\nComprueba los ajustes de conexión\nusados en la configuración de la\nCWF de Nintendo.\nPara obtener ayuda, visita el\nsitio web support.nintendo.com.\nError: {STRVAR_1 54, 0, 0}
+No se ha podido acceder a la\nConexión Wi-Fi de Nintendo.\nComprueba tus ajustes de\nconexión. Para obtener ayuda,\nvisita el sitio web\nsupport.nintendo.com.\nError: {STRVAR_1 54, 0, 0}
+No se recibe ninguna señal.\nPuede que el otro jugador se haya\ndesconectado de la Conexión Wi-Fi\nde Nintendo o que ya no figures en\nsu lista de amigos.\nError: {STRVAR_1 54, 0, 0}
+Error de conexión.\nPara obtener ayuda, visita el\nsitio web support.nintendo.com.\nError: {STRVAR_1 54, 0, 0}
+Error de conexión.\n\nPara obtener ayuda, visita el\nsitio web support.nintendo.com.\nError: {STRVAR_1 54, 0, 0}
+Error de descarga.\n\nPara obtener ayuda, visita el\nsitio web support.nintendo.com.\nError: {STRVAR_1 54, 0, 0}
+Error de conexión. Te has\ndesconectado de la Conexión\nWi-Fi de Nintendo.\n\nPara obtener ayuda, visita el\nsitio web support.nintendo.com.
+Error de conexión...
+                                                                        
+Es posible que tu información de\nusuario de la Conexión Wi-Fi de\nNintendo se haya borrado.\nComprueba tus ajustes de\nconexión con la configuración de\nla Conexión Wi-Fi de Nintendo.
+¿Quieres acceder a la Conexión\nWi-Fi de Nintendo?
+La CWF de Nintendo requiere que\nla información de usuario de la CWF\nde Nintendo de la consola coincida\ncon la de la tarjeta DS. ¿Quieres\nguardar la información de usuario\nde la CWF de Nintendo de esta\nconsola en esta tarjeta DS y\nacceder a la CWF de Nintendo?
+La información de usuario\nde la Conexión Wi-Fi de Nintendo\nde esta consola se ha guardado\nen la tarjeta DS.\n\nA partir de ahora, usa esta\nconsola para acceder a la\nConexión Wi-Fi de Nintendo.
+No se ha podido acceder a\nla Conexión Wi-Fi de Nintendo\nporque la información de usuario\nde la Conexión Wi-Fi de Nintendo\nguardada en la consola no coincide\ncon la de la tarjeta DS.
+¿Quieres actualizar la información\nde usuario de la CWF de Nintendo\nguardada en la tarjeta DS?\nSi la actualizas, perderás todos\nlos datos usados hasta ahora\npara acceder a la Conexión Wi-Fi\nde Nintendo.
+¿Seguro que quieres realizar\nla actualización?\n\nAdvertencia:\nLos amigos registrados en tu\nBloc de amigos se borrarán.
+Accediendo a la Conexión Wi-Fi de\nNintendo... Espera unos instantes...
+No puedes acceder a la Conexión\nWi-Fi de Nintendo con este nombre\nde usuario.\n\nCámbialo y vuelve a intentarlo.
+¿Quieres desconectarte de la\nConexión Wi-Fi de Nintendo?
+Saliendo de la Conexión Wi-Fi\nde Nintendo...
+Te has desconectado de la\nConexión Wi-Fi de Nintendo.
+  
+   
+Guardando...\nNo apagues la consola.
+                               
+Ha habido un error de conexión\nen la Plaza Wi-Fi.\nError: {STRVAR_1 54, 0, 0}

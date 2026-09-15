@@ -1,0 +1,15 @@
+Bienvenidos al Hall de Entrenamiento.\rPuedes luchar con muchos Entrenadores\ny sus Pokémon favoritos una vez al día.\r¿Quieres intentarlo?{YESNO 0}
+                                   
+Todo listo.\nYa puedes entrar.\r
+Entendido...\nVuelve cuando quieras.\r
+¿Quieres retirarte? {YESNO 0}
+¡Gracias por participar!\r
+¡Pues, entonces, a por todas!\r
+¡Oh! ¡Hola!\n¡Por aquí, por favor!\r
+Los Entrenadores se reúnen aquí\npara practicar.\rTambién puedes encontrarte\ncon tus amigos si se conectan\fcon el Pokéwalker.\rSolo se puede combatir con cada\nEntrenador una vez al día.\rSi ganas obtendrás Puntos de Batalla.\n¡Ánimo!\r
+Déjame echarle un vistazo\na tu Cámara Lucha.\rEsto va así...\nY esto asá...\fYa está.\rAhora puedes ver cuántos Puntos de\nBatalla llevas en tu Cámara Lucha.\r
+¡Se ha mejorado la Cámara Lucha\nde {STRVAR_1 3, 0, 0}!
+Puedes cambiar tus Puntos de Batalla\npor estupendos regalos en el Frente de\fBatalla de Johto.\r
+Bien. ¿Quieres empezar el\nentrenamiento ya mismo? {YESNO 0}
+¿Quieres combatir? {YESNO 0}
+¡Hasta mañana!

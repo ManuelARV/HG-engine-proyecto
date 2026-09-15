@@ -1,0 +1,15 @@
+Josh
+¡Ha sido un combate electrizante!\rTenemos que seguir en contacto.\nDame tu número.{YESNO 0}
+¡Gracias! ¡Hasta el próximo combate!\n¡Ya te llamaré!
+Puf... Soy un debilucho y no te\nintereso, supongo.
+¡Dame tu número de teléfono!\n¡Por favor, por favor, por favor!{YESNO 0}
+Aquí tienes una Piedra Día.\nQue no te dé corte, es para ti.\r
+¿Eh? Te escucho muy cerca.\n¡No sé para qué me llamas!\rVen hasta aquí.
+Soy el único de peso pluma.\nHay cosas que nunca cambian...\rMi coleguilla {STRVAR_1 0, 10, 0}\nestá hecho una mula.\rEl otro día tumbó a {STRVAR_1 0, 11, 0}\nen cinco segundos.\rBueno, eso es una exageración,\ntardó 5 minutos 37 segundos.
+Mi {STRVAR_1 0, 10, 0} está hecho un roble.\rEstuvo a punto de tumbar a\n{STRVAR_1 0, 11, 0}, pero escapó.\r¿Qué? ¿Dices que eso no es culpa\nde {STRVAR_1 0, 10, 0}, sino mía?\rEn eso tienes razón.
+El otro día estaba dando un paseo\nabsorto, pensando en mis cosas y,\fde pronto, un {STRVAR_1 0, 11, 0} saltó\fdelante de mí. ¡Qué susto!\r¡Me fui echando mixtos!\nAhora que me acuerdo, le había\fprometido a un amigo buscar\fun {STRVAR_1 0, 11, 0}. ¡Qué torpe que soy!
+¿Dónde estás? Yo en {STRVAR_1 4, 3, 0},\ncomo siempre.\rSi tienes un hueco, pasa y combatimos.
+Te espero en {STRVAR_1 4, 3, 0}.\n¡Ven rápido!
+¡Aaachís!\n¡Aaachís!\rMis Pokémon pájaro se pusieron a\nrevolotear sin previo aviso y me\fpusieron la cara llena de plumas y\fpolvo. Por eso empecé a estornudar.\r¡Aaachís!
+Traía algo en la boca.\nMe acerqué y resulta que era nada más\fy nada menos que una Piedra Día.\r¿Qué es una Piedra Día?\nNo tiene sentido que me la quede si no\fsé para qué diantres sirve...\r¡Te la doy!\n¡Ven a por ella a {STRVAR_1 4, 3, 0}!\n
+Quieres la Piedra Día, ¿no?\nPues ven a por ella a\f{STRVAR_1 4, 3, 0}.

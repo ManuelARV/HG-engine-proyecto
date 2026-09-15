@@ -1,0 +1,28 @@
+¿Qué quieres hacer?
+¿Quieres sustituir el terreno?
+¿Adónde quieres moverlo?
+¿Quieres retirar el bloque\nque has colocado?
+VOLVER
+    
+SALIR
+SUSTITUIR
+MOVER
+{STRVAR_1 50, 0, 0}/2
+Número de bloques preferidos\npor los Pokémon del prado
+Número de bloques preferidos\npor los Pokémon de la arboleda
+Número de bloques preferidos\npor los Pokémon de la peña
+Número de bloques preferidos\npor los Pokémon del agua
+Otros bloques
+{STRVAR_1 51, 0, 0}
+Prado
+Parterre
+Sabana
+Peña
+Laguna
+Pantano
+Arboleda
+Lagos
+Albufera
+Páramo
+Montaña
+Desierto

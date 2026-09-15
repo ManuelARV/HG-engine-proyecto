@@ -1,0 +1,23 @@
+¿Has cruzado el mar para llegar\nhasta aquí? ¡Habrá sido duro!\rTodo sería mucho más fácil si tus\nPokémon supieran Vuelo...\r
+Pero no puedes usar Vuelo sin la\nMedalla de esta ciudad. Si vences\fal Líder de este Gimnasio, ven a verme.\fTe daré un bonito regalo.
+¡Es la Medalla del Gimnasio\nde Ciudad Orquídea!\r¡Muy bien, toma esta MO!\r
+                      
+Enseña Vuelo a tus Pokémon.\nEn un instante podrás volar a\fcualquier lugar al que ya hayas ido.
+Después de esta derrota, mi marido\nva a hacer un entrenamiento intensivo.\rLa verdad es que le conviene.\nÚltimamente estaba echando barriga.
+Tu Bolsa está llena.
+¿Quieres el número de teléfono\nde mi marido?\rLuchar contra Entrenadores duros\nes lo único que lo entretiene.{YESNO 0}
+¡{STRVAR_1 3, 0, 0} ha registrado a Aníbal\nen el Pokégear!
+Los miércoles por la noche se toma\nun descanso de su entrenamiento\fbajo la cascada.\rLlámalo entonces.
+Oh, ¿de verdad?\n¿No quieres enfrentarte a mi marido?
+¿Quieres el número de teléfono\nde mi marido?{YESNO 0}
+Si usas Vuelo, podrás volver a\nCiudad Olivo enseguida.
+Al romper las piedras\nque hay al norte del pueblo\fencontrarás diversos objetos.\rPero para eso, tus Pokémon deben\naprender Golpe Roca.
+Aníbal, el Líder del Gimnasio, pelea\ncon sus Pokémon de tipo Lucha.
+Eusine: Hola, {STRVAR_1 3, 0, 0}.\r¿No se trataba de SUICUNE?\rSolo pude fijarme un poco, pero creí\nhaber visto a un SUICUNE corriendo\fsobre las olas.\rSUICUNE es bello y grandioso.\rCorre por los pueblos y caminos\na unas velocidades increíbles.\rEs maravilloso...\nQuiero ver un SUICUNE de cerca...\rEstoy decidido.\r¡Lucharé contra ti para ganarme\nel respeto de SUICUNE!\rVenga, {STRVAR_1 3, 0, 0}.\n¡Luchemos!
+¡Eres formidable, {STRVAR_1 3, 0, 0}!\rCreo que empiezo a entender por qué\nSUICUNE se ha interesado por ti...\rDe todas formas, no pienso dejar de ir\ntras él.\rEs muy probable que tú y yo\nvolvamos a encontrarnos.\r
+De aquí a Ciudad Olivo hay varias islas.\rDicen que ahí vive una criatura\nmítica marina.
+Ciudad Orquídea\nRodeada de agitadas aguas
+Líder del Gimnasio Pokémon\nde Ciudad Orquídea: Aníbal\fSus puños hablan por él
+Farmacia de Ciudad Orquídea\rQuinientos años de experiencia\nnos avalan
+Estudio fotográfico de Ciudad Orquídea\n¡Hazte una foto de recuerdo!
+Entrada a la Zona Safari\r¡La palpitante experiencia de encontrar\nPokémon salvajes en su entorno a solo\funos metros de aquí!

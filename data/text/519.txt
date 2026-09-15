@@ -1,0 +1,22 @@
+¿Quién eres tú?\r¡Me llamo Azul!\n¡Fui Campeón absoluto de Kanto!\rPero Rojo me la jugó y solo pude ser\nCampeón durante un poquito.\r¡Mira, mira!\r
+Azul: Una ciudad entera\ndesapareció con solo una erupción.\rGanar o perder con los Pokémon\nes una cosa, pero basta con que\fla naturaleza dé una pequeña sacudida\fpara que acabemos muy mal parados.\r...\rMejor no comerse mucho la cabeza,\nsoy Entrenador. Cuando me encuentro\fcon alguien poderoso,\fsolo puedo pensar en luchar.\r
+Si estás pensando en enfrentarte a mí,\npásate por el Gimnasio de Ciudad Verde.\r
+Te espero allí.\r
+Si estás dispuesto a enfrentarte a mí,\nmuéstrame cuántas Medallas de\fGimnasio de Kanto has conseguido.\r...\n{STRVAR_1 50, 0, 0}...\rEso no es nada.\nNo es suficiente para luchar contra mí.
+Azul: ¡Impresionante!\r¡Te has enfrentado a Rojo\ny le has vencido!\r¡Genial!\n¡Vamos a sacarnos una foto!{YESNO 0}
+Azul: ¡Estupendo!\r
+Azul: ¡Gracias!\n¡Ha quedado genial!
+Azul: Vaya...
+Tu Álbum de Fotos está lleno.\rUsa el PC para hacer un poco\nde sitio en tu Álbum.\n
+Blaine: ¡No me rendiré hasta que\nel Gimnasio Canela renazca\fde sus cenizas!\r¡Vamos a intercambiar nuestros\nnúmeros de teléfono!{YESNO 0}
+¡{STRVAR_1 3, 0, 0} ha registrado a Blaine\nen el Pokégear!
+Blaine: ¡Mmm! El martes a mediodía\npodría volver a luchar.
+Blaine: Mmm... Eso es una pena.
+Blaine: ¿Me das tu número\nde teléfono?{YESNO 0}
+Blaine: ¡Vaya, eres tú!\n¿Nos sacamos una foto?{YESNO 0}
+Blaine: ¡Venga, ponte a mi lado!\r
+Blaine: ¡No ha quedado mal!
+Blaine: ¡Oooh!
+Tu Álbum de Fotos está lleno.\rUsa el PC para hacer un poco\nde sitio en tu Álbum.\n
+Hay una nota.\rEl Gimnasio de Isla Canela\nse ha trasladado a Islas Espuma.\rBlaine
+Isla Canela\nCiudad del pasado a la deriva

@@ -1,0 +1,6 @@
+César: ¡Muy bien, {STRVAR_1 3, 0, 0}!\nEl Team Rocket ha huido.\rYa estoy mejor de la espalda.\n¡Salgamos de aquí!\r
+Protón: ¿Qué quieres?\nTengo fama de ser el miembro\fmás retorcido del Team Rocket...\r¡Deja de entrometerte en\nnuestros asuntos!\r
+Protón: Sí, el Team Rocket se disolvió\nhace tres años, pero seguimos con\fnuestras actividades en las sombras.\rUn insecto como tú jamás podrá\nser un estorbo para nosotros.\r¡Ya verás lo malos que somos!\n¡Jua, jua, juaaaaaa!\r
+Un SLOWPOKE... pero sin cola...\n¡Anda! Tiene una Carta. ¿La lees?{YESNO 0}
+{STRVAR_1 3, 0, 0} lee la Carta.\rSé buena y cuida de la casa donde\restán el abuelo y SLOWPOKE.\rTe quiere, papá.
+Un SLOWPOKE... pero sin cola...

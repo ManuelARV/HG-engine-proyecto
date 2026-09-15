@@ -1,0 +1,126 @@
+¡Te doy la bienvenida a la Plaza Wi-Fi!\rTodos los que nos visitan reciben un\nJuguete táctil, ¡así que aquí tienes!\r
+{STRVAR_1 3, 0, 0} ha recibido {STRVAR_3 2, 1, 0}.
+Espero que disfrutes de tu visita.\r
+Tu visita a la Plaza Wi-Fi está\na punto de terminar.\rGracias por habernos visitado.\n¡Esperamos verte pronto por aquí!\r
+Por cierto, ¿qué tipo tienes hoy?\n¿Te gustaría definirte con dos tipos?\r
+¿Cuál es tu primer tipo de hoy?
+{STRVAR_1 15, 0, 0}
+Me da igual
+¿Así que eliges el tipo {STRVAR_1 15, 0, 0}?
+                
+¿Cuál es tu segundo tipo de hoy?
+¡Muy bien! ¡Has elegido el tipo {STRVAR_1 15, 0, 0}\ny el tipo {STRVAR_1 15, 1, 0}!\r
+¡Vaya, veo que has elegido\nel tipo {STRVAR_1 15, 0, 0}!\r
+                     
+                                                                 
+¡Te doy la bienvenida a la Plaza Wi-Fi!\rEste es el mostrador de información.\r
+¿Sobre qué quieres que te informe?\r
+                                                                                      
+Hay un globo terráqueo enorme a la\nderecha de la entrada de la Plaza Wi-Fi.\rEn él podrás ver los perfiles\nde los visitantes de la Plaza.\rEstos perfiles indican el lugar de\nresidencia y el momento de la visita.\rPulsa el Botón X para ver\nesa información.\rDe vez en cuando hay globos volando\npor ahí... ¡No te los pierdas!\r
+El panel electrónico de las novedades\nde la Plaza muestra qué está pasando.\rSi no tienes muy claro qué hacer, será\nmejor que les eches un ojo\fa las novedades de la Plaza.\r
+El panel Sello Huella te permite jugar\ncon las huellas de los Pokémon\fde tu equipo.\rPuedes jugar con las huellas\nen el panel blanco o en el negro.\r
+                                                                          
+Esperamos que disfrutes de la Plaza\nWi-Fi mientras dure tu visita.\r
+Los Juguetes táctiles son\nunos juguetes exclusivos\fde la Plaza Wi-Fi.\rPuedes jugar con ellos\nu ofrecérselos a tus amigos.\rAdemás, también podrás mejorar\nlos Juguetes táctiles al participar\fen los juegos de la Plaza.\r¡Esperamos que disfrutes de estos\nJuguetes a tu manera!\r
+{STRVAR_3 0, 0, 0} es uno de los\njuegos de la Plaza.\rEn él pueden participar\nhasta cuatro jugadores.\rJugar es muy sencillo: intenta meter las\nBayas en la boca del SWALOT que gira.\rQuien consiga más puntos obtendrá\nuna mejora para su Juguete táctil.\r
+{STRVAR_3 0, 0, 0} es uno\nde los juegos de la Plaza.\rEn él pueden participar\nhasta cuatro jugadores.\rJugar es muy sencillo: dale vueltas a la\npelota para evitar que MIME JR. caiga.\rQuien mantenga a MIME JR. más tiempo\nsobre la pelota obtendrá una mejora\fpara su Juguete táctil.\r
+{STRVAR_3 0, 0, 0} es uno\nde los juegos de la Plaza.\rEn él pueden participar\nhasta cuatro jugadores.\rJugar es muy sencillo: solo tienes que\ninflar los globos hasta que exploten.\rAl reventar diez globos, todos los\njugadores obtendrán una mejora\fpara sus Juguetes táctiles.\r
+Los focos de la Plaza Wi-Fi se iluminarán\ncuando el tiempo de tu visita\fhaya llegado a la mitad.\rEsperamos que disfrutes del ambiente\nespecial que crean.\r
+Cuando falte poco para que se acabe\nel tiempo de tu visita, se apagarán\flas luces y se verán fuegos artificiales\fpor toda la Plaza Wi-Fi.\rEsperamos que te guste el espectáculo\ny que te deje un buen recuerdo.\r
+Cuando se acabe tu visita, comenzará\nun Desfile al fondo de la Plaza.\rUnas carrozas con forma de Pokémon\ndesfilarán de derecha a izquierda.\rTe puedes subir a una carroza para\nvolver al Centro Pokémon o puedes\fdespedirte de tus amigos.\rTen en cuenta que, cuando te subas a\nuna carroza, no te podrás bajar hasta\rque salgas de la Plaza Wi-Fi y\nte desconectes de la CWF de Nintendo.\r
+Puedes participar en encuestas\nde la Plaza usando la máquina que\fhay junto al mostrador de información.\rSi quieres saber cómo funciona,\npregúntale al chico que hay\fjunto a la máquina.\r
+JUGUETES TÁCTILES
+JUEGOS DE LA PLAZA
+PERFILES VISITANTES
+NOVEDADES PLAZA
+SELLO HUELLA
+ESPECTÁCULOS
+SALIR
+{STRVAR_3 0, 0, 0}
+{STRVAR_3 1, 0, 0}
+ENCUESTA PLAZA
+Dale vueltas a la pelota para evitar\nque MIME JR. se caiga.
+Mete las Bayas en la boca del SWALOT\nque está dando vueltas.
+Usa la bomba de WOBBUFFET y explota\nlos globos con los otros jugadores.
+N.º de ID
+NOMBRE
+LUGAR DE RESIDENCIA
+            
+ACTIVIDADES
+{STRVAR_1 55, 0, 0}
+{STRVAR_1 3, 0, 0}
+{STRVAR_1 36, 0, 0}\n{STRVAR_1 37, 1, 0}
+     
+     
+{STRVAR_3 0, 0, 0}
+(?)
+ESLOGAN DE {STRVAR_1 3, 0, 0}
+  
+ 
+{STRVAR_1 28, 0, 0}
+{STRVAR_1 28, 1, 0}
+{STRVAR_1 28, 2, 0}
+{STRVAR_1 28, 3, 0}
+Botón X: Perfil/Juguete táctil.
+Oropla
+Vas a salir de la Plaza Wi-Fi y volver\nal Centro Pokémon.\r
+NO
+SÍ
+JUGADORES: {STRVAR_1 50, 0, 0}\nPLAZAS LIBRES: {STRVAR_1 50, 1, 0}
+JUEGO EN CURSO...
+Se acabó el tiempo.\nLa Plaza Wi-Fi va a cerrar.
+                             
+{STRVAR_3 0, 0, 0} tiene\nmuchos visitantes.\rPor favor, vuelve más tarde.\r
+Hola, ¡encantado de verte\nen la Plaza Wi-Fi!\r¿Sabes qué te recomiendo hoy?\n¡Que pruebes {STRVAR_3 0, 0, 0}!\rAl ganar en un juego, conseguirás\nuna mejora para tu Juguete táctil.\rSi nunca has probado ningún juego,\n¡adelante, no tengas miedo!\r
+Hola, ¡encantado de verte\nen la Plaza Wi-Fi!\r¿Sabes qué te recomiendo hoy?\n¡Que pruebes los Sellos Huella!\r¡Pon un Sello y descubre qué ocurre\nen cuanto pasan unos segundos!\rSi no lo has probado nunca, adelante,\n¡hay dos paneles para poner Sellos!\r
+Hola, ¡encantado de verte\nen la Plaza Wi-Fi!\r¿Sabes qué es lo que te recomiendo?\n¡Que pruebes a chatear con tus amigos!\r¡Romper el hielo es más sencillo\nde lo que parece!\rAdemás de chatear, puedes compartir\nJuguetes táctiles.\r¡Que no te dé vergüenza y verás\nqué bien te lo pasas!\r
+¡Ojalá te lo pases de maravilla aquí\nhasta que cierre la Plaza Wi-Fi!\r
+Hola, ¡encantado de verte\nen la Plaza Wi-Fi!\r¿Sabes qué te recomiendo hoy?\n¡Que pruebes {STRVAR_3 0, 0, 0}!\rAsí podrás informarte sobre\nlos espectáculos de la Plaza y\fsobre tus amigos, ¡todo en uno!\r
+¡Ahora se está celebrando\nel Desfile Pokémon!\r¡Las carrozas tienen plazas limitadas!\rSi quieres subirte a una carroza,\n¡tendrás que darte prisa!\r
+Hola, ¡encantado de verte\nen la Plaza Wi-Fi!\r¿Sabes qué te recomiendo hoy?\n¡Que hagas una encuesta de la Plaza!\rEs la oportunidad ideal para saber algo\nmás sobre los demás visitantes.\rTienes hasta que enciendan los focos\npara participar en las encuestas.\r¡Hazte oír entre los demás\nEntrenadores!\r
+                            
+Hola, yo me encargo de las encuestas\nde la Plaza.\rPuedes participar en una encuesta\nusando la máquina de aquí al lado.\r¿Quieres saber algo más?\r
+        
+       
+   
+Participa en las encuestas y descubre\ncosas sobre los demás visitantes.\rPuedes participar hasta que\nse enciendan los focos.\rDespués podrás ver dos tipos\nde resultados.\rPrimero se mostrarán los resultados\nde esta Plaza Wi-Fi y luego verás\flos de las encuestas realizadas\fla semana pasada en todas\flas Plazas Wi-Fi.\rNo te olvides de participar en la\nencuesta usando esta máquina.\r
+    
+Gracias por participar en esta encuesta\nde la Plaza.\rPodrás consultar los resultados desde\nque se enciendan los focos hasta que\ftermine el Desfile Pokémon.\r¡No te olvides de pasarte por aquí\notra vez para ver los resultados!\r
+Ya puedes consultar los resultados en\nla máquina. Son bastante interesantes.\r
+                                                 
+                            
+Se acabó el tiempo.\nLa encuesta ha concluido.\r
+¡Encuesta de la Plaza!\r
+¡Encuesta especial de la Plaza!\r
+¿Quieres participar en una encuesta?
+¿Quieres participar en\nuna encuesta especial?
+Enviando tu respuesta...
+Se ha enviado tu respuesta.\r
+Podrás consultar los resultados desde\nque se enciendan los focos hasta que\ftermine el Desfile Pokémon.\r¡No te olvides de pasarte por aquí\notra vez para ver los resultados!\r
+Gracias por participar en una encuesta\nespecial de la Plaza.\rPodrás consultar los resultados desde\nque se enciendan los focos hasta que\ftermine el Desfile Pokémon.\r¡No te olvides de pasarte por aquí\notra vez para ver los resultados!\r
+                                                                              
+                         
+                           
+La pregunta de la encuesta era\nen esta ocasión...\r
+¡Veamos ahora las respuestas\nde los visitantes!\r
+La pregunta de la encuesta especial\nera en esta ocasión...\r
+              
+Aquí están los resultados de la última\nencuesta de la Plaza.\rEstos resultados corresponden solo\na esta Plaza Wi-Fi.\r
+Aquí están los resultados de la última\nencuesta especial de la Plaza.\rEstos resultados corresponden\nsolo a esta Plaza Wi-Fi.\r
+ÚLTIMOS RESULTADOS
+{STRVAR_1 3, 0, 0}
+¿Quieres ver los resultados de la\nencuesta de la semana pasada?
+La semana pasada no hubo encuesta.\r
+La encuesta de la semana pasada fue...\r
+¡Veamos ahora las respuestas\nde los visitantes!\r
+La encuesta especial de la\nsemana pasada fue...\r
+              
+Aquí están los resultados de la\nencuesta de la semana pasada.\rEstos resultados corresponden\na todas las Plazas Wi-Fi.\r
+Aquí están los resultados de la\nencuesta especial de la semana pasada.\rEstos resultados corresponden a todas\nlas Plazas Wi-Fi.\r
+RESULTADOS SEMANA PASADA
+¡Esperamos que todo el mundo participe\nen la próxima encuesta de la Plaza!\r
+                            
+La encuesta ha concluido.\r
+                                       
+{COLOR 0}{STRVAR_1 3, 0, 0}{COLOR 0} ha recibido {STRVAR_3 2, 1, 0}.
+             

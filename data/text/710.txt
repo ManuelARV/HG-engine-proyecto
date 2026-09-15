@@ -1,0 +1,13 @@
+Tobías
+Siempre estoy escupiendo fuego.\nMe encanta. ¿Me das tu número?{YESNO 0}
+¡Hurra!\rSin que sirva de precedente, dejaré de\ncomer fuego si estoy al teléfono.
+Sabía que la gente detesta a los que\nse pasan el día comiendo fuego...
+¡Oh! ¿Quieres comer fuego conmigo?\rAh, vale, entonces...\n¿quieres que cambiemos números?{YESNO 0}
+¡Sin miedo! No vas a quemarte.\n¡Ven aquí!
+Nadie me comprende.\nMuchos piensan que los Comefuegos\rentrenamos a los Pokémon metiéndoles\nmiedo con llamaradas.\r¡Pero nada más lejos de la realidad!\nHacemos entrenamientos normales.\r¿Verdad, {STRVAR_1 0, 10, 0}?\nComer fuego es solo un pasatiempo.
+¡Booooooooooo!\r¡He inventado una nueva forma\nde comer fuego!\rEs una pena que por teléfono\nno lo puedas ver.\rAyer capturé un {STRVAR_1 0, 11, 0}.\nVoy a criarlo lo mejor que pueda.
+¿Te gustan los {STRVAR_1 0, 11, 0}?\nA mí ni fu ni fa. ¿Qué se le va a hacer?
+¡Boooooooooooo!\n¡Hoy estoy a mil! ¡Vamos a combatir!\rTe espero en {STRVAR_1 4, 3, 0}\nmientras me entreno.
+¡Todo listo!\nEstoy en {STRVAR_1 4, 3, 0}.\f¡Ven como un rayo!
+¿Sabes?\nHay distintos tipos de Pokémon.\rCada tipo tiene ventajas e\ninconvenientes, no hay ninguno que\fsea especialmente mejor que otro.\rAunque lo que es yo, pierdo la cabeza\npor cualquier Pokémon de tipo Fuego.\f¡Booooooooooooo!
+Me han chivado que hoy hay Concurso\nde Captura de Bichos, ¿lo sabías?\rA mí apenas me gustan los Pokémon\nde tipo Bicho, pero para que lo sepas,\fse celebra en el Parque Nacional,\fmuy cerca de la Ruta 35.\rPásate si tienes tiempo.

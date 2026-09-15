@@ -1,0 +1,6 @@
+JUGADOR: {STRVAR_1 3, 0, 0}
+Este documento certifica\nque has conseguido el gran\nlogro de encontrar todos\nlos Pokémon de Johto.
+Este documento certifica\nque has completado con\néxito tu Pokédex Nacional.
+GAME FREAK
+{ALN_CENTER}{STRVAR_1 3, 0, 0} y {STRVAR_1 1, 1, 0}
+{ALN_CENTER}Combatir juntos, caminar juntos\n{ALN_CENTER}Forjando lazos indestructibles\n{ALN_CENTER}Sin desfallecer jamás\n{ALN_CENTER}Avanzando unidos hasta el final\n{ALN_CENTER}Es lo que aquí se ha demostrado

@@ -1,0 +1,9 @@
+Cuanto más tiempo pases con los\nPokémon, más te querrán.
+Pueden iluminar las noches oscuras\ny guiarnos por el mar.\rY nos llevan a sus espaldas\na través de las aguas si no tenemos\fbarca en la que navegar.\rLos Pokémon nos hacen la vida\nmás fácil de distintas formas.\r¡No puedo imaginarme cómo sería\nla vida sin ellos!
+¡Cruzando el mar, en Ciudad Orquídea,\nhay una persona que presume de sus\fPokémon raros!
+¡Bien!\n¡Ya está listo!\f¡Se van a quedar con la boca abierta!\r
+¡Anda! ¡Me vienes al pelo!\rJusto ahora estaba decorando mi\nCápsula y me gustaría ver el efecto.\r¿Echamos un combate para que pueda\nprobarla?{YESNO 0}
+Je, je. ¡Perfecto!\n¡Prepárate!\r
+Si tienes Sellos, puedes personalizar\ntus Cápsulas usando el PC.\r¿No es genial?\n¡Anda, pruébalo!\r¡Ah!\n¡Si no usas la Cápsula en una Poké Ball\fno servirá de nada, no lo olvides!
+¿En serio?\rBueno, pues si cambias de opinión\ny quieres ver mi Cápsula, dímelo.
+¿Ya te has decidido a ver mi Cápsula?\rPues vamos a luchar, tengo\nganas de oír tu opinión.{YESNO 0}

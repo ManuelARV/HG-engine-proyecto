@@ -1,0 +1,14 @@
+Sara
+¡Tienes habilidad con los Pokémon!\rLos chicos me dan objetos tras las\nbatallas, pero a veces son demasiados.\rLa próxima vez, puedo darte alguno\nsi quieres. Dame tu número.{YESNO 0}
+¡La próxima vez que alguien me dé\nalgo tras una batalla, te lo doy!\rAh, ¿que eso está feo?
+¿Eh? ¿No quieres nada?\nPero si es gratis...
+Compartiré mis regalos contigo.\nDame tu número de teléfono.{YESNO 0}
+¡Hola! ¿Has venido a por tu regalo?\n¡Esto te alegrará el día!\r
+Oye, cuando las chicas llaman\npor teléfono están guapísimas.\r¿No crees? Estás cerca, lo sé.\nAnda, ven a ver lo guapa que estoy.\n
+¡Mi {STRVAR_1 0, 10, 0} está precioso!\n¡Le he hecho un montón de fotos!\rAcabé con un {STRVAR_1 0, 11, 0} salvaje\nen un segundo.\rDebe de ser porque la última vez\nme diste consejos para combatir.\r¡Adiós!
+¡Mi {STRVAR_1 0, 10, 0} está precioso!\n¡Le he hecho un montón de fotos!\r¿Sabes una cosa?\nSe me ha vuelto a escapar\fun {STRVAR_1 0, 11, 0} salvaje.\r¡Estuvo tan cerca!\nEn serio, un poco más y lo tenía.\r¡Adiós!
+Ahora estoy en {STRVAR_1 4, 3, 0}.\r¡Si estás cerca, podemos luchar!\n¡Te estaré esperando!
+¡Hola! No habrás olvidado tu promesa\nde luchar conmigo, ¿verdad?\r¡Te espero en {STRVAR_1 4, 3, 0}!
+¡Oh! Querías un regalo, ¿verdad?\rTengo uno, pero quiero usarlo.\n¿Puedes esperar un poco más?
+¿Sabes una cosa?\n¡Conseguí un gran regalo!\r¡Como prometí, es tuyo!\nSé que te va a gustar.\f¡Ven a por él!\r¡Te espero en {STRVAR_1 4, 3, 0}!
+¿Hola?\rSi no vienes a por tu regalo pronto,\nse lo daré a otra persona.\r¡Te espero en {STRVAR_1 4, 3, 0}!

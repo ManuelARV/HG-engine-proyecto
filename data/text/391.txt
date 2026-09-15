@@ -1,0 +1,2 @@
+Esta es la entrada a las Ruinas Alfa.\rSon unas ruinas antiquísimas\nconstruidas con muchas piedras.\r¿Quién diantre las construiría?...\n¿Y para qué?
+¿Has visto ese extraño árbol en\nel camino? Supongo que por eso\fvienen cada vez menos visitantes.\n

@@ -1,0 +1,9 @@
+Mmm... Creo que mi nieta está\njugando al escondite...\rPero, bueno, mientras esté en el barco\nno me preocupa.\n
+Oh, hola...\rTodavía no he podido encontrar\na mi nieta.\rSi está en el barco, no hay problema.\rPero es una niña muy traviesa, y me\npreocupa que se meta en líos o esté\fmolestando a alguien...
+¡Hola, abuelo!\rEstaba jugando al escondite\nen el barco con este chico.\r
+¡Hola, abuelo!\rEstaba jugando al escondite\nen el barco con esta chica.\r
+Oh, ya veo... {STRVAR_1 3, 0, 0}, ¿no?\nGracias por entretenerla un rato.\rQuiero darte esto en agradecimiento\npor las molestias que te has tomado.\r
+Oh, ya veo... {STRVAR_1 3, 0, 0}, ¿no?\nGracias por entretenerla un rato.\rQuiero darte esto en agradecimiento\npor las molestias que te has tomado.\r
+El Ferry S.S. Aqua ha llegado\na Ciudad Carmín.
+Estamos viajando por todo el mundo.
+¡Qué bien me lo he pasado!

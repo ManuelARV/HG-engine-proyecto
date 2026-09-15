@@ -1,0 +1,70 @@
+La radio es genial.\r¡Tiene música animada, información\nsobre los Pokémon, noticias\fsorprendentes y seriales emocionantes!\r¡Si además tuviera imágenes\nsería la bomba!\r...\nEspera... ¡Eso es la tele!
+Cuando los Pokémon salvajes escuchan\nuna nana se quedan dormidos, así que,\fsi sintonizas una nana en la radio\fmientras caminas por la hierba alta, es\fpoco probable que te topes con alguno.
+¿Por qué querrían apoderarse\nde la Torre Radio?
+JIGGLYPUFF:\nJiggly...
+¡Aviso!\nProhibido entrar sin autorización.\rAntes no era así, pero el Director está\nalgo raro últimamente...
+Puedes moverte a tus anchas.\nEl Director vuelve a ser el de siempre.
+P1 Ventas
+La hora Pokémon del Profesor Oak.\n¡El mejor programa de la radio!
+P1 Estudio 2
+Buena: ¿Eh? ¿La contraseña de hoy?\nEs AYUDA.
+Buena: ¡Hola! ¡Me llamo Buena!\n¿Conoces el programa de radio\fLas contraseñas de Buena?\rSi puedes decirme la contraseña del\nprograma, ganarás puntos.\r¡Acumula puntos y esa chica de ahí te\nlos cambiará por espléndidos regalos!\r¡Aquí tienes!\n¡Es tu propia tarjeta de puntos!\r
+Buena: ¡Gracias por sintonizar\nnuestro programa!\r
+Buena: ¡Gracias por sintonizar\nnuestro programa, {STRVAR_1 3, 0, 0}!\r
+Buena: ¡Gracias por sintonizar\nnuestro programa, {STRVAR_1 3, 0, 0}!\r
+Buena: ¿Te sabes la contraseña\nde hoy? {YESNO 0}
+Buena: ¡Guau! ¡Gracias!\n¿Cómo decías que te llamabas?\r... {STRVAR_1 3, 0, 0}, ¿eh? ¡Venga,\n{STRVAR_1 3, 0, 0}, únete al programa!\r
+Buena: ¡Guau! ¡Gracias!\n¿Cómo decías que te llamabas?\r... {STRVAR_1 3, 0, 0}, ¿eh? ¡Venga,\n{STRVAR_1 3, 0, 0}, únete al programa!\r
+Buena: ¡Muchas gracias, {STRVAR_1 3, 0, 0}!\r¡No dejes de participar!\r
+Buena: ¡Muchas gracias, {STRVAR_1 3, 0, 0}!\r¡No dejes de participar!\r
+Buena: ¿No? Vuelve a intentarlo cuando\nhayas escuchado el programa, ¿vale?
+Buena: Todos atentos. ¡Vamos allá!\r¡{STRVAR_1 3, 0, 0}, quiero oírte decir\nla contraseña de hoy!\r
+Buena: Todos atentos. ¡Vamos allá!\r¡{STRVAR_1 3, 0, 0}, quiero oírte decir\nla contraseña de hoy!\r
+Buena: ¡Síii! ¡Correcto!\r¡Qué ilusión me hace que hayas\nescuchado el programa!\r¡Has ganado 1 punto!\n¡Felicidades!\r
+Buena: ¡Oooh! ¡Qué lástima!...\nNo es correcto.\r¿No te acuerdas de la contraseña?
+Buena: ¡Oh! ¡Has acumulado 30 puntos\nen tu Tarjeta Azul! ¡Increíble!\r{STRVAR_1 3, 0, 0}, has venido tantas veces\nque te mereces un premio especial.\r¡Voy a darte mi número de teléfono!\r
+Buena: ¡Oh! ¡Has acumulado 30 puntos\nen tu Tarjeta Azul! ¡Increíble!\r{STRVAR_1 3, 0, 0}, has venido tantas veces\nque te mereces un premio especial.\r¡Voy a darte mi número de teléfono!\r
+¡{STRVAR_1 3, 0, 0} ha registrado el número\nde teléfono de Buena!\r
+Buena: ¡Espero tu llamada!\r
+Buena: ¡Sintoniza el programa\nLas contraseñas de Buena!
+Buena: Lo siento... Solo tienes\nuna oportunidad al día.\r¡Vuelve a intentarlo mañana!
+Buena: ¡No tienes sitio para nada más!
+                         
+Buena: ¡No te pierdas\nel programa de mañana!\r
+¡Acumula puntos en tu Tarjeta Azul y\ncámbialos por espléndidos regalos!
+Llevas acumulados {STRVAR_1 51, 0, 0} punto(s)\nen tu Tarjeta Azul.
+¡Enhorabuena!\r¡Por haber acumulado {STRVAR_1 51, 0, 0} punto(s)\nhas ganado {STRVAR_1 8, 1, 0}!\fAquí tienes.\r
+Has acumulado el máximo de puntos\nen tu Tarjeta Azul.\fTe daré otra nueva.\r
+¡Has obtenido otra Tarjeta Azul!
+¡Vuelve a participar en el programa\ncuando quieras!\r
+¡Estaría bien que alguien les diera\nsu merecido a esos energúmenos del\fTeam Rocket, igual que hace tres años!
+CYNDAQUIL
+TOTODILE
+CHIKORITA
+POCIÓN
+ANTÍDOTO
+ANTIPARALIZ
+POKé BALL
+SUPERBALL
+ULTRABALL
+PIKACHU
+RATTATA
+GEODUDE
+HOOTHOOT
+SPINARAK
+DROWZEE
+PUEBLO PRIMAVERA
+CIUDAD CEREZO
+PUEBLO AZALEA
+POKéMON BICHO
+POKéMON PÁJARO
+POKéMON PLANTA
+PLACAJE
+GRUÑIDO
+BOFETÓN LODO
+ATAQUE X
+DEFENSA X
+VELOCIDAD X
+HORA POKéMON
+MÚSICA POKéMON
+CANAL SUERTE

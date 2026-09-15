@@ -1,0 +1,6 @@
+{STRVAR_1 0, 0, 0}
+㊚
+㊛
+Nv.{STRVAR_1 52, 0, 0}
+OBJETO
+{STRVAR_1 8, 0, 0}

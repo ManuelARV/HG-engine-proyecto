@@ -1,0 +1,20 @@
+¡Espera!\n¿Por qué corres?\r
+{STRVAR_1 3, 0, 0}, ¿verdad?\rUn tipo con gafas te buscaba.\rCompruébalo. Te está esperando\nen la Tienda Pokémon.
+{STRVAR_1 3, 0, 0}, ¿verdad?\rUn tipo con gafas te buscaba.\rCompruébalo. Te está esperando\nen la Tienda Pokémon.\r
+¿Has ido al Gimnasio Pokémon?\rAllí puedes probar tus Pokémon y\na ti mismo.\r¡Es un rito para todos\nlos Entrenadores!
+¿Has ido al Gimnasio Pokémon?\rAllí puedes probar a tus Pokémon\ny a ti mismo.\r¡Es un rito para todos\nlos Entrenadores!\r
+Tienes Pokémon muy buenos.\nSeguro que es por haberlos entrenado\fen los alrededores de Ciudad Malva.\rEl entrenamiento en el Gimnasio\nha debido de ser de gran ayuda.\rToma esto como recuerdo de\nCiudad Malva.\rAumenta el poder de los movimientos\nde tipo Planta.\r
+                    
+Tu experiencia en Ciudad Malva\ndebería ayudarte en tu viaje.
+¡Tu Bolsa está llena!
+¡Tu Bolsa está llena!\r
+¡GRRRRRR! ¡TODOS HUYEN CUANDO RUJO!\n¡PERO TÚ HAS VENIDO! ¡ESO ME GUSTA!\r¡TOMA ESTO!\r
+                     
+¡GRRRRRR! ¡ES RUGIDO!\nHASTA LOS POKéMON HUYEN CON UN RUGIDO.
+¡GRRRRRR! ¡TÚ BOLSA ESTÁ LLENA!
+¿Te gustaría tener esta sabrosa y\nnutritiva Colaslowpoke?\r¡Solo te costará 1 000 000 $!\n¡Te gustará!{YESNO 0}
+¡Vaya! Pensaba que los niños de hoy\nen día estaban forrados...
+¿No la quieres?\nPues lárgate.
+Ruta 32\nAl sur, Pueblo Azalea
+Ruinas Alfa\nEntrada este
+Hacia la Cueva Unión

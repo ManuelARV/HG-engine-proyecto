@@ -1,0 +1,3 @@
+Aquí hay algo escrito.\n¿Quieres leerlo? {YESNO 0}
+A mis hermanos y hermanas:\nNos enorgullece ayudar\fa los Entrenadores Pokémon.\rCuando habléis con los Entrenadores,\ndadles algo útil.\rBesos,\nLuna\r¿Sigues leyendo? {YESNO 0}
+Lunes, Luna\nRuta 40\rMartes, Marta\nRuta 29\rMiércoles, Miguel\nLago de la Furia\rJueves, Josué\nRuta 36\rViernes, Vicki\nRuta 32\rSábado, Sabino\nCiudad Endrino\rDomingo, Domingo\nRuta 37

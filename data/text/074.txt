@@ -1,0 +1,4 @@
+¡Bienvenidos a esta cámara!\rAquí restauramos los grabados de\nPokémon que encontramos\fen las excavaciones.\rPrimero giramos con cuidado\nlos fragmentos que están boca abajo\fy luego los recolocamos.\rDe este modo podemos restaurarlos y\ndejarlos como estaban originalmente.
+¡Oh! ¡¿Has restaurado uno\nde los grabados?!\r¡Increíble!\n¡Resulta que eres todo un genio\fde la arqueología!
+                                  
+No ocurre nada...

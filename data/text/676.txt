@@ -1,0 +1,14 @@
+David
+El combate no ha estado mal.\rA veces pesco objetos que la gente\nha tirado por ahí.\rSi quieres te doy lo que pesque,\npero me tienes que dar tu número\fde teléfono. ¿Hace?{YESNO 0}
+Si pesco algo, te aviso.
+Como quieras.\nVuelve si cambias de opinión.
+Si consigo algún objeto\nmientras pesco, es tuyo.\r¿Quieres registrar mi número?{YESNO 0}
+¡Has venido!\n¡Mira la Poké Ball que he pescado!\rEstá cubierta de musgo y no sé de qué\ntipo es. Seguro que tú lo averiguas.\r
+¡Sssssh!\n¡POLIWHIRL se va a escapar!\rAcércate a mí en silencio y\ncuchichéame al oído.
+¡Mi {STRVAR_1 0, 10, 0} está impresionante!\n¡Y soy mejor Pescador gracias a él!\rDerrotamos a un {STRVAR_1 0, 11, 0} salvaje\nel otro día.\r¿Sabes? Me gusta más pescar que\nluchar contra Pokémon salvajes.\r¡Venga, nos vemos!
+¡Mi {STRVAR_1 0, 10, 0} está impresionante!\n¡Y soy mejor Pescador gracias a él!\rAunque el otro día se nos escapó\nun {STRVAR_1 0, 11, 0} salvaje...\r¡Era descomunal! ¡Venga, nos vemos!
+Estoy pescando en {STRVAR_1 4, 3, 0},\npero hoy no pican ni a tiros.\rAyúdame a pasar el rato.\nVen a luchar conmigo un ratito.
+En {STRVAR_1 4, 3, 0} no pican los peces\ncomo antes.\rPásate por aquí y rescátame\nde mi hastío...\n
+No he encontrado nada que\nmerezca la pena, ¡nada!\rPaciencia, joven.
+Un objeto se me enganchó en el anzuelo\ncuando pescaba.\rTe lo doy, pero ven\na {STRVAR_1 4, 3, 0}.
+¿Por qué no vienes a llevarte\nlo que pesqué?\r¿Cómo? ¿No sabes dónde estoy?\nEstoy entre Pueblo Caoba y Ciudad\fEndrino, en {STRVAR_1 4, 3, 0}.

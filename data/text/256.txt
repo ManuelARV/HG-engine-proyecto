@@ -1,0 +1,14 @@
+¡Perfecto! ¡Contigo completamos\nel embarque!\r
+¿Quieres algo?\nEl barco no va a zarpar todavía.
+Si vuelvo sano y salvo y vuelvo\na pisar Ciudad Olivo,\fvamos a vivir juntos, ¿vale?
+Mi novio trabaja en un crucero.\n¡Es un exagerado!\r
+Sabrina: A veces me entran ganas\nde ver barcos.\rY... intercambiar mi número de\nteléfono contigo también puede\fser divertido, ¿me lo das?{YESNO 0}
+¡{STRVAR_1 3, 0, 0} ha registrado\na Sabrina en el Pokégear!
+Sabrina: Si me llamas el domingo\na mediodía, tal vez pueda hacerte\funa promesa muy importante...
+Sabrina: ¿Cómo? Vaya, y yo que creía\nque iba a poder hacerme amiga tuya...
+Sabrina: Ahora quieres mi número\nde teléfono, ¿no?\fTe veo venir...{YESNO 0}
+Sabrina: Hace una brisa estupenda.\n¿Nos echamos una foto?{YESNO 0}
+Sabrina: ¡Voy!\r
+Sabrina: ¡Ha quedado perfecta!
+Sabrina: ¿Qué? Vaya...\nCon lo guapos que habríamos quedado...
+Tu Álbum de Fotos está lleno.\rUsa el PC para hacer un poco\nde sitio en tu Álbum.

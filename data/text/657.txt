@@ -1,0 +1,15 @@
+Brock
+Esto no se oye.\nEstos aparatos modernos...\rLlámame desde otro sitio.
+Brock al aparato. ¿Cómo vas?\nYo estoy como una roca.\r
+Me gustaría medirme contigo pero\ntodavía te quedan Líderes\fa los que enfrentarte, ¿no?
+Los sábados por la noche me va bien.\nLlámame.
+¡Dichosos los oídos! ¡Y justo a tiempo!\nMe empezaba a rascar la panza.\f¡Vamos a echar un combate!{YESNO 0}
+¡Rock and roll! ¡Hay que empezar ya!\n¡Vente al Dojo de Ciudad Azafrán!\rNo te confundas con el Gimnasio de\nCiudad Plateada, ¿eh?
+Esto supone para mí un enorme\nimpacto con una roca enorme.\fOtra vez será...
+Casi me da algo al pensar que\nvoy a poder volver a enfrentarme\fcontigo pero... ¿no has quedado\fpara luchar ya con alguien?\rPrimero combate contra quien tienes\nque luchar y luego ya hablamos.\r¡Llámame entonces!
+Espero tu llegada en el Dojo de Ciudad\nAzafrán. Palabra de Entrenador, ¿eh?\n
+Aquí Brock.\nDime, ¿estás rocamboleante?\r
+Era palabra de Entrenador, ¿no?\rIbas a venir al Dojo de Ciudad\nAzafrán, ¿no?\rMe voy a tener que enfadar\nsi lo has olvidado.
+El otro día hubo un terremoto bastante\nrespetable. La pared de mi Gimnasio\fse vino medio abajo. Pero bueno,\fya sabes cómo es mi Gimnasio...\rNadie se da cuenta aunque haya algún\nque otro desperfecto.
+En este mundo existen distintos\ntipos de Pokémon.\fMis preferidos son los de tipo Roca.\rSon duros en todos los sentidos\nde la palabra, pero una vez que\fte haces amigo suyo, se portan\fgenial. ¿A ti te gustan?
+Cada Gimnasio tiene un diseño y\nunos mecanismos distintos.\r¡Eso mola mucho pero mucho!\rEn la Liga Pokémon, cada Líder recibe\nun Gimnasio, y cada uno imprime toques\fen él según su estilo.\rEl Gimnasio Pokémon de Ciudad Plateada\nes el mejor. ¡Por algo lo diseñé yo!\rLos mecanismos no tienen nada del otro\nmundo pero, ¿a que impacta al entrar?

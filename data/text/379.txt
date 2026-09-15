@@ -1,0 +1,8 @@
+Hola, trotamundos.\n¿Has luchado en algún Gimnasio?
+                                                                                             
+Lira: ¿Qué haces tú aquí, {STRVAR_1 3, 0, 0}?\r¡Qué velocidad!\n¿Cuándo me has adelantado?\r¡Te mereces un buen regalo!\n¡Toma!\r
+Eco: ¿Qué haces tú aquí, {STRVAR_1 3, 0, 0}?\r¡Qué velocidad!\n¿Cuándo me has adelantado?\r¡Te mereces un buen regalo!\n¡Toma!\r
+La Cámara Lucha registra\nlos combates Pokémon.\rBueno, tengo que ir tirando ya.\n¡Esta vez no me adelantarás!\r
+La Cámara Lucha registra\nlos combates Pokémon.\rBueno, tengo que ir tirando ya.\n¡Esta vez no me adelantarás!\r
+¡Vamos, MARILL!\r
+¡Ven conmigo, MARILL!\r

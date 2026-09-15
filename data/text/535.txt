@@ -1,0 +1,19 @@
+¡Ah, menudo problema!\r¡El generador de la Central Energía\nno funciona y no tenemos electricidad!\r¡Así no podemos poner en marcha\nel Magnetotrén!
+¡Qué bien! Alguien ha reparado\nel generador de la Central Energía\fy el Magnetotrén vuelve a funcionar.\rPermíteme que introduzca\ntu Magnetopase en el lector...\r
+Uh... uh...\rLo siento en el alma, pero sin un\nMagnetopase no puedes viajar\fen el Magnetotrén.\r
+Permíteme que introduzca\ntu Magnetopase en el lector...\r
+¡Din Don!\nToma tu Magnetopase, gracias.\rEl tren con destino a Ciudad Trigal\nefectuará su salida en breve.
+Disfruta de un viaje cargado\nde glamour y magnetismo.
+Azafrán, Azafrán,\ncon acento en “frán”.
+Disfruta de un viaje cargado\nde glamour y magnetismo.\r
+El Magnetotrén es un tren de alta\nvelocidad que utiliza energía\felectromagnética para desplazarse.\rPero sin electricidad no es más\nque un montón de chatarra.
+¡Caramba...!\r¡Cuántas veces habré hecho\nel trayecto entre Kanto y Johto!
+Antes de que se construyera la\nestación, ahí había una casa en la que\fvivía una niña a la que llamaban Copiona.
+Hola. ¿Tienes un Magnetopase\npara el tren?\rYo sí. Todos los de Azafrán que\ntoman el Magnetotrén tienen uno.
+Lt. Surge: ¡Oh! ¡No esperaba\nencontrarte por aquí!\rCerca de la estación del Magnetotrén\nse pueden sentir los impulsos\feléctricos por todas partes.\r¡Guau! ¡Tienes un PIKACHU!\n¿Me lo cambiarías por mi\fPIKACHU americano? {YESNO 0}
+Lt. Surge: ¿Me cambias tu PIKACHU\npor mi PIKACHU?
+Lt. Surge: ¡Electrizante!\n¡Vamos a hacer el cambio ya mismo!\r
+Lt. Surge: ¡Chispas!\rQuiero que comprendas mis sentimientos\npor los PIKACHU.\rYa estoy listo.\nTrae tu PIKACHU.
+Lt. Surge: ¡Yeaaah!\n¡Qué contento estoy!\rEspero que nos veamos pronto.\n¡Adiós!\r
+Lt. Surge: ¿Eh?... Va a ser que este\nno es el Pokémon que quiero.\rSolo cambiaré mi PIKACHU\npor otro PIKACHU.\rGracias.\n
+Procura que tu Pokémon no moleste\nal pasajero que viaja a tu lado.\rSi no se porta bien, deberías llevarlo\nen la Poké Ball.\rPor favor, compórtate con educación\ndurante todo el trayecto.

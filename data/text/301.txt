@@ -1,0 +1,47 @@
+¿Transferir Pokémon desde el cartucho\nde GBA Rubí de {STRVAR_1 3, 1, 0}?
+¿Transferir Pokémon desde el cartucho\nde GBA Zafiro de {STRVAR_1 3, 1, 0}?
+¿Transferir Pokémon desde el cartucho\nde GBA Esmeralda de {STRVAR_1 3, 1, 0}?
+¿Transferir Pokémon desde el cartucho\nde GBA Rojo Fuego de {STRVAR_1 3, 1, 0}?
+¿Transferir Pokémon desde el cartucho\nde GBA Verde Hoja de {STRVAR_1 3, 1, 0}?
+No hay seis Pokémon en las cajas.
+Selecciona los seis Pokémon\nque quieres transferir.
+Esta tarjeta DS ya contiene seis\nPokémon transferidos.\rParticipa en el Espectáculo de Captura\ndel Parque Compi.
+¡No puedes transferir un Huevo!
+Este Pokémon conoce un movimiento\noculto. No puede transferirse.
+Los seis Pokémon elegidos\nserán transferidos.
+Los Pokémon no se podrán transferir de\nnuevo al cartucho de GBA, ¿de acuerdo?
+                             
+                             
+                             
+                             
+                                              
+                       
+Guardando datos en Pokémon Rubí y\nPokémon HeartGold...
+Guardando datos en Pokémon Rubí y\nPokémon SoulSilver...
+Guardando datos en Pokémon Zafiro y\nPokémon HeartGold...
+Guardando datos en Pokémon Zafiro y\nPokémon SoulSilver...
+Guardando datos en Pokémon Esmeralda\ny Pokémon HeartGold...
+Guardando datos en Pokémon Esmeralda\ny Pokémon SoulSilver...
+Guardando datos en Pokémon Rojo Fuego\ny Pokémon HeartGold...
+Guardando datos en Pokémon Rojo Fuego\ny Pokémon SoulSilver...
+Guardando datos en Pokémon Verde Hoja\ny Pokémon HeartGold...
+Guardando datos en Pokémon Verde Hoja\ny Pokémon SoulSilver...
+                     
+Se han transferido seis Pokémon a la\ntarjeta DS de Pokémon HeartGold.
+Se han transferido seis Pokémon a la\ntarjeta DS de Pokémon SoulSilver.
+Solo puedes transferir Pokémon de un\nmismo cartucho de GBA una vez al día.\rAún no ha pasado un día entero desde\nla última transferencia de Pokémon.
+Estás usando una Nintendo DS distinta o\nsu reloj interno ha sido alterado.\rSi la configuración de la hora del juego\nha cambiado, no podrás transferir\fPokémon hasta transcurridas 24 horas.\r¿Quieres sincronizar la hora del juego\ncon la de la consola Nintendo DS?
+Se ha ajustado el reloj del juego.\rNo podrás transferir Pokémon hasta que\nhayan transcurrido 24 horas.
+No podrás volver a transferir los\nPokémon al cartucho de GBA.\r¿Quieres transferir Pokémon a la\ntarjeta DS de Pokémon HeartGold?
+No podrás volver a transferir los\nPokémon al cartucho de GBA.\r¿Quieres transferir Pokémon a la\ntarjeta DS de Pokémon SoulSilver?
+Error al guardar...
+Error al leer el cartucho\nde Game Boy Advance.\rEs posible que no haya ninguna partida\nguardada o que la partida esté dañada.
+No puedes transferir a este Pokémon.
+                        
+Cambiando configuración...\nNo apagues la consola.
+  
+   
+Nv.
+Objeto
+     
+                            

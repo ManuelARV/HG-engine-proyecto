@@ -1,0 +1,20 @@
+El Encinar está justo\ndespués de esa entrada.
+{STRVAR_1 3, 0, 0}: Dime una cosa...\r¿Es cierto que el Team Rocket\nha vuelto?\r¿Qué? ¿Los has derrotado? ¡Anda!\n¡No me mientas! ¿Bromeas?\rPues a ver qué tal eres.\r
+{STRVAR_1 3, 0, 0}: Odio a los débiles.\rYa sean Pokémon o Entrenadores.\nDa igual quién o qué.\rSeré fuerte y acabaré\ncon los enclenques.\rEso también va por el Team Rocket.\nSon fuertes cuando están en grupo,\fpero si están solos, son unos cobardes.\r¡Hay que acabar con ellos!\rY tú... ¡estás siempre molestándome!\n¡Fuera de mi vista o tú también pagarás\flas consecuencias!\r
+No, no es nada... \nEs que entrar ahí es muy peligroso,\fpor eso estoy de guardia.\r¿A que soy un buen samaritano?
+¿Sabes algo sobre las Colaslowpoke?\n¡Dicen que son muy sabrosas!\r¿Te interesa saberlo?
+Los SLOWPOKE han desaparecido\ndel pueblo...\rDicen que venden sus colas\nen algún lugar.
+Los SLOWPOKE han vuelto.\nConociéndolos, quizá han estado\fremoloneando en algún lugar.
+¿Fuiste a ver a César para que\nte fabricara algunas Poké Balls?\fMuchas personas lo hacen.
+Ataja por Pueblo Azalea y\nllegarás al Encinar.\rPero estos arbolitos te impiden pasar.\rLos Pokémon del Carbonero pueden\ncortar árboles de tronco fino.
+SLOWPOKE: ...\r... ... ...\r
+(Bostezo)...
+Pueblo Azalea\nGente y Pokémon en armonía
+Casa de César\rTenaz artesano de las Poké Balls\nexperto en Bonguri
+Líder del Gimnasio Pokémon de\nPueblo Azalea: Antón\fSabelotodo de los Pokémon bicho
+Pozo SLOWPOKE\nConocido también como Pozo Lluvia.\rLos nativos creen que el bostezo de\nSLOWPOKE invoca la lluvia.\rHace 400 años, un bostezo de\nSLOWPOKE acabó con una sequía.
+Casa del Carbonero\rLos FARFETCH’D se encargan de\nconseguir el material para el carbón.
+¿Pero tú quién eres?\n¿Es que no sabes quiénes somos?\r¡Tienes el honor de cruzarte\ncon el Team Rocket!\r¡¿Qué?!\n¿Que si no nos habíamos disuelto?\r¡No nos vengas con cuentos!\nDisueltos nosotros... ¡Ja!\fBueno, vale... El Team Rocket se\fdisolvió, pero hemos resurgido para\fhacer realidad los planes supremos\fdel gran Giovanni.\rPero tú no pintas nada en nuestros\nplanes, así que... ¡desaparece!\r
+{SIZE 0}¡Eh!{SIZE 0}\r
+Aquí vive César y, como vale mucho,\nestoy convencido de que será capaz\fde encontrar una solución.
+¡Sabía que podíamos contar con César!

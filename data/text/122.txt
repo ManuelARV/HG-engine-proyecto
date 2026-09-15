@@ -1,0 +1,8 @@
+¿Ves ese objeto que está ahí tirado?\rSe me ha caído a mí,\npero no puedo recogerlo.\r¿Que por qué?\r¡Porque cuando camino sobre el hielo\nse me congelan las plantas de los pies!\r¡Antes he resbalado y me he roto\nlas suelas de los zapatos!
+¿Ves ese objeto que está ahí tirado?\rSe me ha caído a mí,\npero no puedo recogerlo.\r¿Que por qué?\r¡Porque cuando camino sobre el hielo\nse me congelan las plantas de los pies!\r¡Antes he resbalado y me he roto\nlas suelas de los zapatos!\r
+Ese objeto que estaba ahí era\nuna Máquina Oculta, ¿verdad?\rSe me ha caído a mí...\nPero mira, ya que has ido a recogerla\fexpresamente, te la puedes quedar.\rContiene Cascada y sirve\npara remontar cascadas.\r¿Yo?\r¡Yo, antes de ponerme a remontar\ncascadas, tengo que comprarme\funos zapatos nuevos!
+Estáis aquí, {STRVAR_1 3, 0, 0}.\nQué alegría veros...\rMis sandalias se han quedado atrapadas\nen el hielo.\rAtrapada en el hielo, no me muevo\nni un pelo...\rJi, ji, ji.\rDisculpadme, no es momento para rimas.\nSi pudierais ayudarme...\r¿Podríais situaros tras de mí y\ndarme un ligero empujoncito?
+Estáis aquí, {STRVAR_1 3, 0, 0}.\nQué alegría veros...\rMis sandalias se han quedado atrapadas\nen el hielo.\rAtrapada en el hielo, no me muevo\nni un pelo...\rJi, ji, ji.\rDisculpadme, no es momento para rimas.\n¿Podríais situaros tras de mí y\fdarme un ligero empujoncito?{YESNO 0}
+{SIZE 0}¡PUM!{SIZE 0}\r
+Quizá no me he expresado bien.\nDadme un empujón por la espalda,\f¿de acuerdo? {YESNO 0}
+Sois una persona muy cortés.\r¡Muchísimas gracias!\r

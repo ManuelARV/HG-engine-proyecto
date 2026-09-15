@@ -1,0 +1,51 @@
+Soy el Encargado de la Guardería.\rAquí cuidamos de los Pokémon\nde algunos Entrenadores.\rSi quieres que me ocupe de alguno,\nhabla con mi mujer.
+¡Ah, eres tú!\rHemos cuidado de tus Pokémon y ¡vaya\nsorpresa que nos hemos llevado!\r¡Tus Pokémon tenían un Huevo!\rTodavía no sabemos de dónde\nlo han sacado...\r¿Lo quieres?{YESNO 0}
+¡Ah, eres tú! Me alegro de verte.\n{STRVAR_1 0, 0, 0} está estupendamente.
+Muy bien, entonces me lo quedaré yo.\n¡Gracias y adiós!
+No tienes suficiente sitio.\nVuelve cuando tengas espacio.
+El Encargado de la Guardería le ha dado\nel Huevo a {STRVAR_1 3, 0, 0}.
+Cuídalo bien.
+                                                                                
+                              
+¡Ah, eres tú! Tu {STRVAR_1 0, 0, 0} y tu\n{STRVAR_1 0, 1, 0} están muy bien.\r
+Me lo quedo para siempre...\n¿O lo quieres tú?{YESNO 0}
+Cuídalo mucho, ¿eh?\rPero, bueno, encontrarse un Huevo...\n¡Menuda sorpresa!\rOye, pues lo mismo nos encontramos\nalguno más.\r
+¡Muchas gracias por confiármelo!\rPero, bueno, encontrarse un\nHuevo... ¡Menuda sorpresa!\rOye, pues lo mismo nos encontramos\nalguno más.\r
+Mi querido {STRVAR_1 3, 0, 0}...\nSi el Pokémon que está aquí se\fencuentra un Huevo... normalmente\fllamamos a su Entrenador.\r¿Tú querrías que te avisáramos\nsi se diera ese caso?{YESNO 0}
+Mi querida {STRVAR_1 3, 0, 0}...\nSi el Pokémon que está aquí se\fencuentra un Huevo... normalmente\fllamamos a su Entrenador.\r¿Tú querrías que te avisáramos\nsi se diera ese caso?{YESNO 0}
+¡Muy bien!\n¡Deja que yo me ocupe!\rSi quieres que cuidemos de otro\nPokémon, habla con mi mujer.
+Claro, claro. No pasa nada.\rSi quieres que cuidemos de otro\nPokémon, habla con mi mujer.
+Diría que se llevan\nestupendamente.
+Diría que se llevan\nbastante bien.
+Aunque no parece que\nse compenetren mucho.
+Pero, más que juntos, parece que\nprefieren jugar con otros Pokémon.
+Soy la Encargada de la Guardería.\nPodemos ocuparnos de tus Pokémon.\r¿Quieres que cuidemos de alguno?{YESNO 0}
+¿Qué Pokémon quieres que cuidemos?\r
+Estupendo, nos ocuparemos de tu\n{STRVAR_1 0, 0, 0} durante un tiempo.\rRecógelo cuando quieras.\r
+Podemos cuidar dos de tus Pokémon.\n¿Quieres que nos ocupemos de otro?{YESNO 0}
+¡Ah, estás aquí!\nMi marido te estaba buscando.
+Muy bien.\nVuelve cuando quieras.
+No tienes bastante dinero.
+¿Quieres llevarte el otro también?{YESNO 0}
+Muy bien.\nVuelve cuando quieras.
+¡Ah, eres tú! Me alegro de verte.\nHablemos de negocios...\r
+Tu {STRVAR_1 0, 0, 0} ha subido de nivel.\nAhora tiene {STRVAR_1 51, 1, 0} más.\r
+Tu equipo Pokémon está completo.\nHaz un hueco y vuelve a verme.
+Si quieres llevarte tu {STRVAR_1 0, 0, 0},\ntendrás que pagar {STRVAR_1 53, 1, 0} $.{YESNO 0}
+¡Perfecto!\nAquí tienes tu Pokémon.\r
+{STRVAR_1 3, 1, 0} ha recogido a\n{STRVAR_1 0, 0, 0} de la Guardería.\r
+Anda, pero si solo tienes un Pokémon...\rNo puedes quedarte sin ninguno.\nVuelve cuando tengas alguno más.
+¿Quieres recoger un Pokémon?{YESNO 0}
+Si me dejas ese Pokémon,\n¿cómo vas a combatir?\rVuelve en otra ocasión.
+¿Eh?\nA ver, a ver.\rSi me dejas ese Pokémon aquí,\nsolo te quedarás con uno.\rSerá mejor que atrapes alguno más,\nvamos, digo yo.
+Pero vamos a ver...\n¡Esto es solo un Huevo!
+Estupendo, nos ocuparemos de tu\n{STRVAR_1 0, 0, 0} durante un tiempo.\rVuelve más adelante.
+     
+       
+      
+      
+     
+Diría que se llevan\nestupendamente.\r
+Diría que se llevan\nbastante bien.\r
+Aunque no parece que\nse compenetren mucho.\r
+Pero, más que juntos, parece que\nprefieren jugar con otros Pokémon.\r

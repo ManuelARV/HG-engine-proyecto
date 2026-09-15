@@ -1,0 +1,11 @@
+El Lago de la Furia es un cráter\nobra de violentos GYARADOS.\rEl cráter se llenó de agua de lluvia\ny se formó el lago.\rEsta historia la contó por primera\nvez el tatarabuelo de mi abuelo.\rAntes se podían pescar MAGIKARP\nen el lago, pero...\rno entiendo lo que ocurre ahora.
+En el lago pasan cosas raras desde\nque llegaron esos hombres de negro.
+La normalidad ha vuelto al Lago\nde la Furia. Vuelve a haber MAGIKARP.\rQuizá se cumpla mi sueño de ver al\nMAGIKARP más grande del mundo.\r¿Tienes un MAGIKARP? Si tienes uno,\nenséñamelo, por favor.
+¡Ah, tienes un MAGIKARP!\nA ver lo grande que es ese ejemplar.\r
+¡{STRVAR_1 52, 0, 0},{STRVAR_1 50, 1, 0} cm...!\n¡Un MAGIKARP de {STRVAR_1 52, 0, 0},{STRVAR_1 50, 1, 0} cm!\r¡Es formidable!\r¡Me quito el sombrero ante ti!\nToma, para que recuerdes este día.\r
+Lo importante es el récord.\n¡Piensa en él como una bonificación!
+{STRVAR_1 52, 0, 0},{STRVAR_1 50, 1, 0} cm...\r¡Es formidable!,\npero no lo suficiente...\fYa había visto uno así de grande.
+Este MAGIKARP mide {STRVAR_1 52, 0, 0},{STRVAR_1 50, 1, 0} cm.\nPero una vez vi uno de {STRVAR_1 52, 2, 0},{STRVAR_1 50, 3, 0} cm.
+¿Qué? ¡Eso no es un MAGIKARP!
+Me parece que no tienes sitio\npara esto en tu Bolsa...
+¿No tienes ninguno bueno\nque enseñarme?\fQuizá la próxima vez.

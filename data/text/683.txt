@@ -1,0 +1,20 @@
+Vicente
+Estoy haciendo un estudio sobre\nlos Líderes de Gimnasios\fpara la escuela.\rSi hablas con ellos fuera del Gimnasio,\nte dan su número de teléfono.\f¿Por qué no me das tú el tuyo?{YESNO 0}
+Cuando sepa por dónde están los\nLíderes de Gimnasio, te llamo.
+¿Eh? ¿No te interesan los Líderes\nde Gimnasio?
+Quieres saber cosas sobre los\nLíderes de Gimnasio, ¿no?{YESNO 0}
+¡Si estás aquí cerca!\n¡Por teléfono me niego a hablar! ¡Ven!
+Blanca está descansando\nen el quinto piso del Centro\fComercial de Ciudad Trigal.
+Sachiko va a venir a la Calle Victoria\npara llevarle la cena a su padre.
+Pegaso va los lunes a Ciudad Azulona.
+A Misty le pirra la Ruta 25.\rTodas las tardes ve el anochecer\ndesde allí.
+Sabrina, los viernes por la noche,\nestá por el puerto de Ciudad Olivo.\rAparece donde uno menos se lo espera.\n
+¿Te cuento un secreto?\rAunque no lo parezca, Yasmina siempre\nse atiborra en el almuerzo.\rPásate por el Café Olivo y verás.\n¡Seguro que te la encuentras!\n
+Blaine, el Líder del Gimnasio de Isla\nCanela, está preocupado por su ciudad.\rPor eso, todos los martes por la mañana\nestá en el antiguo lugar de su Gimnasio.\rEstá inmerso en su mundo.
+Brock, el Líder del Gimnasio de\nCiudad Plateada, ama las rocas.\rTodos los días a mediodía\nva a la Cueva DIGLETT a dar vueltas.
+Antón va hasta Bosque Verde en Kanto\npara capturar Pokémon bicho todos\flos jueves.
+Fredo es casi un asceta.\rDicen que todos los días a las siete\nde la mañana está solo como la una,\fmirando fijamente el Lago de la Furia.
+Morti siempre está mirando\nla Torre Campana.\rGracias a esa capacidad de obsesionarse\nconsiguió hacerse Líder. Seguro.
+Me he entrenado concienzudamente,\nasí que vamos a combatir de nuevo.\fTe espero en {STRVAR_1 4, 3, 0}.
+¡Oye!\n¡Vamos a luchar en {STRVAR_1 4, 3, 0}!\f¡Ven echando mixtos!
+Cuando tenga información sobre\nlos Líderes de Gimnasio, te llamo.

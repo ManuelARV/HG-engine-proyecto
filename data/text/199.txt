@@ -1,0 +1,10 @@
+¡{STRVAR_1 3, 0, 0} ha obtenido\n{STRVAR_1 8, 1, 0}!
+La Bolsa está llena...
+{STRVAR_1 3, 0, 0} ha puesto {STRVAR_1 8, 1, 0}\nen el Bolsillo {STRVAR_1 8, 2, 0}.
+¡{STRVAR_1 3, 0, 0} ha encontrado\n{STRVAR_1 8, 1, 0}!
+¡Has obtenido {STRVAR_1 8, 0, 0}!\r¡Mala suerte!\nLa Bolsa está llena...
+{STRVAR_1 3, 0, 0} ha puesto\n{STRVAR_1 8, 1, 0} en la Bolsa.
+¡{STRVAR_1 3, 0, 0} ha encontrado\n{STRVAR_1 8, 1, 0} {STRVAR_1 6, 2, 0}!
+¡{STRVAR_1 3, 0, 0} ha obtenido\n{COLOR 0}{STRVAR_1 8, 1, 0}{COLOR 0}!
+¡{STRVAR_1 3, 0, 0} ha obtenido\n{COLOR 0}{STRVAR_1 8, 1, 0}{COLOR 0}!
+{STRVAR_1 3, 0, 0} ha puesto {STRVAR_1 8, 1, 0}\nen el Bolsillo {COLOR 0}{STRVAR_1 31, 2, 0}{COLOR 0}.

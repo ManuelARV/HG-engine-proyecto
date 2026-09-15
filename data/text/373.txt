@@ -1,0 +1,19 @@
+Lira: ¡{STRVAR_1 3, 0, 0}!\rCon las Poké Balls puedes atrapar\nPokémon salvajes.\r¡Ven conmigo!\r
+Eco: ¡{STRVAR_1 3, 0, 0}!\rCon las Poké Balls puedes atrapar\nPokémon salvajes.\r¡Ven conmigo!\r
+Así es como se hace, ¿ves?\r...\n¿Cómo? ¿Que no lo has visto bien?\rVale, te lo enseñaré otra vez.\nAcércate.\r
+Así es como se hace, ¿ves?\rCuanto más debilites al oponente,\nmás fácil te será atraparlo...\f¡y también si lo duermes!\rAhora deberías probar por tu cuenta.\nA ver cómo se te da.\r¡Toma esto y a capturar Pokémon!\r
+Así es como se hace, ¿ves?\rCuanto más debilites al oponente,\nmás fácil te será atraparlo...\f¡y también si lo duermes!\rAhora deberías probar por tu cuenta.\nA ver cómo se te da.\r¡Toma esto y a capturar Pokémon!\r
+                      
+                      
+Lira: ¡Hasta la vista!\r
+Eco: ¡Hasta la vista!\r
+¿Cómo está tu equipo Pokémon?\rSi está débil y no puede luchar,\nno entres en la hierba.
+¿Ves esos setos?\rDa miedo saltarlos.\nPero puedes ir a Pueblo Primavera\fsin pasar por la hierba.
+Quería descansar un poco,\nasí que guardé la partida.
+Estoy esperando los Pokémon\nque aparecen solo por el día.
+Estoy esperando los Pokémon\nque aparecen solo por la noche.
+Estoy esperando los Pokémon\nque aparecen solo por la mañana.
+Ruta 29\nAl oeste, Ciudad Cerezo
+Ruta 29\nAl este, Pueblo Primavera
+Lira: ¡Ah! ¡Aquí estás!\r
+Eco: ¡Ah! ¡Aquí estás!\r

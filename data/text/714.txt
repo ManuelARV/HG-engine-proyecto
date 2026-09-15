@@ -1,0 +1,11 @@
+Ángel
+Me vas a dar tu teléfono... ¿no?{YESNO 0}
+Te llamo cuando quiera volver a luchar.
+Muy bien pero, si quieres combatir,\ndame una voz.
+Ahora sí que quieres mi teléfono,\n¿eh?{YESNO 0}
+¡Te oigo, te oigo!\n¡Tengo las tres rayitas de cobertura!
+¡Siempre estoy con mi {STRVAR_1 0, 10, 0}!\n¡Es tan mono! ¡Me encanta!\rCambiando de tema, he visto\nun {STRVAR_1 0, 11, 0} por primera vez.\rLa verdad, fue fácil vencerlo.\nVolvemos a hablar pronto, ¿vale?
+¡Siempre estoy con mi {STRVAR_1 0, 10, 0}!\n¡Es tan mono! ¡Me encanta!\rUna cosa... ¿tienes algún {STRVAR_1 0, 11, 0}?\nNo consigo atrapar ninguno.\f¿Cuál será su punto débil?\rVolvemos a hablar pronto, ¿vale?
+¡Vamos a combatir!\nEstoy en {STRVAR_1 4, 3, 0}.\fDame una voz cuando me veas.\rEn el Mapa del Pokégear, verás una\nmarca en {STRVAR_1 4, 3, 0}.\r¡Así no olvidarás el lugar!
+¡Vamos a combatir!\nTe espero en {STRVAR_1 4, 3, 0}.\rSi olvidas dónde estoy, échale\nun vistazo al Pokégear.
+Yo voy a cualquier lugar por\nlos Pokémon de tipo Bicho.\rAunque, a decir verdad, siempre estoy\nen la Ruta 35. Cerca de aquí hay\fun estanque, la hierba es abundante y,\fsobre todo, se llega al Parque Nacional\fen justamente 28 pasos.\r¡No hay sitio mejor!

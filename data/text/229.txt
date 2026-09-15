@@ -1,0 +1,6 @@
+Partida dañada. Se cargará la\npartida guardada anteriormente.
+Se ha borrado la partida dañada.
+El último Vídeo de Combate está dañado.\rSe cargará el anterior Vídeo de Combate\nque hayas guardado.
+Se ha borrado un Vídeo de Combate.
+El último récord de la Sala Batalla\nestá dañado.\rSe cargará el anterior récord de la\nSala Batalla que hayas guardado.
+Se ha borrado el récord de la Sala\nBatalla.

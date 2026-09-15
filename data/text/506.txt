@@ -1,0 +1,8 @@
+Ascensor exclusivo de Game Freak.\nElige a qué planta quieres ir. {YESNO 0}
+Hasta la vista.
+Subimos.\r
+Bajamos.\r
+Esta es la planta.
+Hemos llegado a la planta baja.\r
+Hemos llegado a la segunda planta.\r
+Hemos llegado a la azotea.\r

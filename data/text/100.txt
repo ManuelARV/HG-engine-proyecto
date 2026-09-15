@@ -1,0 +1,42 @@
+¡Qué alta es la Torre Batalla!\rMe pregunto cuántas veces más alta\nque yo será...
+¡En el Frente de Batalla te dejan\nformar equipo con un amigo\fen cualquiera de los edificios!\r¿No es genial?\n¡Poder contar con tus amigos\fcuando los necesitas es algo que\fno tiene precio!
+Soy la estrella más famosa de Johto.\rHe venido al Frente de Batalla\npara promocionar mi último disco.\rPero...\r¡Toda esta gente que hay aquí\nsolo piensa en Pokémon!
+Esto... Desde que descubrí\nel Frente de Batalla, esto...\fno puedo relajarme nunca, ¿sabes?\fIncluso cuando voy a pescar, ¿sabes?\fNo tengo paciencia y tiro de la Caña\fenseguida para poder venir aquí,\f¿sabes?
+De los 5 edificios del Frente de Batalla,\nmi favorito es el Castillo Batalla.\rSolo porque ahí es donde está\nCatleya, claro.
+¿Que qué me hace más feliz\nde ser Entrenadora?\r¡Que gracias a los Pokémon tengo\nmontones de nuevos amigos!
+Así como las personas tienen nuevas\nexperiencias a lo largo de su vida,\flos Pokémon también viven valiosas\fexperiencias durante cada combate.\rDetrás de cada experiencia hay siempre\nuna buena historia... Conocerla a ella\ffue la mejor experiencia de mi vida.
+La mejor experiencia de mi vida fue\nconocerlo a él, por supuesto.
+He venido al Frente de Batalla\na trabajar.\rGracias a mi antiguo empleo,\nsé cocinar, limpiar, lavar la ropa y\ftodo lo que haga falta.
+Ser fuerte es ser débil.\nSer débil es ser fuerte.\rEso es algo que me dijeron hace mucho,\npero a día de hoy sigo sin entenderlo.\rEn cualquier caso, creo que encierra\nun significado muy profundo,\fasí que voy a reflexionar sobre ello.
+Cuando veo a toda esta gente que\nrealmente se desvive por sus Pokémon,\fme doy cuenta de lo tonto que he sido\fal querer vivir solo todo este tiempo.\rA partir de ahora trataré de acercarme\nmás a los Pokémon y su mundo.
+Hoy hace 49 años que encontré\nmi primer Pokémon.\r¡Ah!\rApunté la fecha y la hora exacta\nen un cuaderno, pero la página\festá arrancada.\r¿Se la habrá comido algún Pokémon?
+Durante un combate, los Entrenadores\ndepositan toda su confianza en sus\fPokémon.\rLos Pokémon creen firmemente\nen su Entrenador y lo dan todo\fa la hora de luchar.\r¡Parece algo evidente, pero la verdad\nes que es todo un logro!
+Si tienes miedo de perder,\nnunca podrás ganar.\rSin embargo, hacer luchar a los Pokémon\nen un combate que está perdido\fde antemano, no es una muestra\fde valentía.\rLos Entrenadores realmente fuertes,\nsaben hallar el equilibrio entre los dos\fextremos.
+Si quieres vencer a cualquier\nEntrenador, debes tener esto\fmuy presente:\rEl tipo de Pokémon.\rLos movimientos que han aprendido.\rEl objeto que llevan.\rTodo está relacionado\ny nada debería pasarse por alto.
+Hay algunos que se burlan de su\nadversario cuando ganan un combate.\rAlardean de su fuerza y se creen los\nmejores del mundo.\rYo prefiero a los que sienten compasión\npor los adversarios que han vencido.
+¿Conoces a los Ases\ndel Frente de Batalla?\rEn cada uno de los cinco edificios,\nprimero tienes que vencer a todos\flos Entrenadores. Entonces podrás\fenfrentarte a uno mucho más\faventajado conocido como el As.
+Los Pokémon disfrutan combatiendo,\nnos ayudan con nuestro trabajo,\fson nuestros amigos y pueden\fllevarnos a lugares remotos.\rSon unas criaturas\nrealmente asombrosas.\r¡A mí me encantaría ser un Pokémon!
+En la Fábrica Batalla debes ganar\nsin parar con Pokémon prestados.\rEs una oportunidad para poner\na prueba tus conocimientos.\rEn otros lugares ni me lo planteo,\n¡pero hasta yo podría ganar ahí!\n
+En la Sala de Batalla puedes luchar\nen combates de uno contra uno\fcon el Pokémon que quieras\fhasta que se debilite.\rCreo que hasta mi MAGIKARP\npodría ganar.\r¡Guau!\n¡Tengo ganas de ir a por todas!
+La vida está llena de altibajos.\nYo siempre llevo mi flotador\fencima por si las moscas.\rEs algo que he aprendido en\nlos cinco añitos que llevo\fen este mundo.
+¡Te doy la bienvenida al\nServicio de Intercambio!\r¿Quieres cambiar tus Puntos\nde Batalla por algún premio? {YESNO 0}
+Vuelve a visitarnos cuando\nte apetezca.
+El objeto {STRVAR_1 8, 0, 0} cuesta {STRVAR_1 50, 1, 0}\nPuntos de Batalla. ¿Lo quieres? {YESNO 0}
+{STRVAR_1 8, 0, 0} {STRVAR_1 6, 1, 0} cuesta\n{STRVAR_1 51, 2, 0} Puntos de Batalla. ¿Vale? {YESNO 0}
+                      
+Guardas {STRVAR_1 8, 0, 0} en el bolsillo\n{STRVAR_1 18, 1, 0}.\r
+Lo siento, no tienes suficientes\nPuntos de Batalla.\r
+                    
+Lo siento, tu Bolsa está llena...\r
+Elige la clase de Máquina Técnica\nque quieres. {YESNO 0}
+Elige la clase de objeto\nque quieres. {YESNO 0}
+                         
+                                              
+Torre Batalla\n¡Gana y gana sin perder nunca!
+Sala Batalla\nPara que tu Pokémon sea el número 1
+Castillo Batalla\nDirige combates con Puntos del Castillo
+Ruleta Batalla\nDonde la fortuna cuenta más que nunca
+Fábrica Batalla\nGana sin parar con Pokémon de préstamo
+Esta estatua representa un Entrenador\nque acaba de capturar un Pokémon.
+“Presumiendo de captura”...\nEse parece ser el título.
+¡Anda! Una maqueta a escala\ndel Frente de Batalla.

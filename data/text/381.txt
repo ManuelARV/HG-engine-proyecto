@@ -1,0 +1,12 @@
+Este es un buen sitio para pescar.\nCuando ves a toda esa gente pescando,\fte dan ganas de hacer lo mismo, ¿no?\r¿Quieres una de mis Cañas?{YESNO 0}
+                               
+                     
+Para pescar, primero debes\ncolocarte mirando hacia el agua\fy luego usar la Caña.\rConcéntrate y no apartes\nla mirada de la superficie.\rCuando veas el símbolo “!”,\nsabrás que ha picado algún Pokémon.\rEntonces pulsa rápidamente el botón A\npara tirar de la Caña.\rLe cogerás el tranquillo\nen cuanto lo pruebes.\rUsa la Caña en ríos, en el mar\no en cualquier otro lugar donde\fhaya agua.
+¡Vaya! Me has decepcionado...
+Para pescar, primero debes\ncolocarte mirando hacia el agua\fy luego usar la Caña.\rConcéntrate y no apartes\nla mirada de la superficie.\rCuando veas el símbolo “!”,\nsabrás que ha picado algún Pokémon.\rEntonces pulsa rápidamente el botón A\npara tirar de la Caña.\rLe cogerás el tranquillo\nen cuanto lo pruebes.
+¿Cómo equipar mi Pokémon?\rQuizá con un objeto\nque aumente su Ataque...
+¡Bonjour!\n¿Qué tal todo?\f¿Vas recogiendo Bonguri?{YESNO 0}
+Así me gusta.\nAcabas de empezar a recolectar\fBonguri, pero ya se te da muy bien.\rComo estoy de buen humor,\nvoy a darte esto.\r
+¿Qué? ¡Eso no puede ser!\rVoy a enseñarte ahora mismo\nlas delicias del arte de la recolección.\rLo primero, toma esto.\r
+Con una Cebo Ball como esta,\nes mucho más fácil atrapar los Pokémon\fque has pescado con la Caña.\r¿Sabías que se usan Bonguri\npara fabricarlas?\rComo soy tan generoso, te doy dos.\nSi quieres más, tendrás que ir\fhasta Pueblo Azalea.\rAllí encontrarás a alguien\nllamado César, que fabrica Poké Balls\fespeciales a partir de Bonguri.\r¡Los Bonguri son una maravilla!
+Cualquier recolector de Bonguri\nque se precie aspira a tener\flos conocimientos de César.\rSi vas a Pueblo Azalea, tienes\nque ir a verlo. ¡Buena cosecha!

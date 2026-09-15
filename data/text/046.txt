@@ -1,0 +1,173 @@
+Estás en el Coliseo del Club\nComunicación Pokémon.\rAquí puedes combatir con tus amigos.\r
+¿Qué modalidad de combate quieres?{YESNO 0}
+¿Cuántas personas combatiréis?{YESNO 0}
+¿Quieres participar en un\ncombate múltiple para cuatro?{YESNO 0}
+PARTICIPAR EN COMBATE MÚLTIPLE
+SALIR
+Existen cinco modalidades de combate.\rEl combate individual es para dos\nEntrenadores con uno o más Pokémon.\rCada Entrenador puede tener un\nPokémon en combate.\rEl combate doble es para dos\nEntrenadores con dos o más Pokémon.\rCada Entrenador usa dos Pokémon\npara que se enfrenten a un tiempo.\rEl combate combi es para dos\nEntrenadores con tres Pokémon.\rCada Entrenador elige un Pokémon del\nrival, lo combina con su propio equipo y\rluego se enfrenta al otro Entrenador.\rEl combate tope hace que los Pokémon\nde nivel superior a 50 combatan con\fnivel 50.\rEl combate múltiple es para cuatro\nEntrenadores con 3 Pokémon cada uno.\rCada Entrenador puede tener un\nPokémon en combate.\r
+                                                                                                                                                                                                                                                                          
+                                             
+                                    
+Para un combate doble debes\ntener al menos dos Pokémon.
+                           
+                                   
+                                  
+                                   
+                                   
+                          
+                    
+                          
+COPA\n{STRVAR_1 26, 0, 0}
+SIN\nRESTRICCIONES
+   
+VOLVER
+COMBATE DOBLE\nSIN RESTRIC.
+COMPROBAR POKéMON ESPECIALES
+Existen Pokémon especiales que pueden\nparticipar en la Copa GS.\rY {STRVAR_1 3, 0, 0}...\r
+has encontrado a {STRVAR_1 0, 0, 0}.\r
+Por tanto, ¡puedes participar!\r
+parece que no has encontrado ninguno.\r
+Por favor, vuelve pronto.
+                                   
+             
+                  
+                         
+                
+           
+Por favor, decidid quién hará de líder.\rLa otra persona deberá seleccionar\n“UNIRSE”.{YESNO 0}
+                        
+                    
+                                
+                           
+                             
+                                       
+                          
+             
+                             
+                             
+                              
+                             
+                            
+                             
+                                  
+                                 
+                                  
+                                
+              
+                 
+Por favor, decidid quién hará de líder.\rLos demás componentes deberán\nseleccionar “UNIRSE”.{YESNO 0}
+                           
+                                    
+                              
+                                  
+                          
+                            
+                                
+                    
+Los miembros se han reunido.\nPor favor, entra en la sala.
+                                              
+                       
+                 
+             
+Esta es la Sala Unión del Club\nInalámbrico Pokémon.\rAquí podrás interactuar con muchos\nEntrenadores.\r¿Quieres entrar? {YESNO 0}
+Los Entrenadores de la Sala Unión\nserán los jugadores que hayan entrado\fen la sala cuando tú estés en ella.\rPuedes llevar dos Pokémon de nivel\n30 o menos para combates individuales.\rTambién puedes intercambiar tus\nPokémon aquí con otros Entrenadores.\rAdemás, podrás mezclar tus récords\ncon otros jugadores, así como\fdibujar o chatear con ellos.\rTambién podrás buscar amigos tocando\nsobre las palabras que han dicho.\r¿Te gustaría entrar en la sala?{YESNO 0}
+                                  
+                                   
+                                   
+                          
+Espero que disfrutes de\nesta visita a la Sala Unión.\r
+                                                                                                
+                                                                                                                   
+                                  
+                                   
+                                   
+                          
+                                                                   
+                             
+                                  
+                            
+                              
+                        
+                    
+                              
+                           
+                                                                                                
+                                                                                                                                                              
+                                                                                       
+                                                                                           
+                                                             
+                                                                                     
+                                                                                                         
+                                                                 
+                                                               
+                             
+                                                                           
+                          
+                                                                         
+     
+     
+    
+     
+    
+                      
+    
+    
+   
+    
+                                        
+                     
+               
+                                                                                                                                     
+¿Qué reglas quieres que\nse apliquen?{YESNO 0}
+¿Quieres participar en la\nCopa {STRVAR_1 26, 0, 0}?{YESNO 0}
+Necesitas al menos el siguiente número\nde Pokémon que cumplan el reglamento\fde la Copa {STRVAR_1 26, 0, 0}: {STRVAR_1 50, 1, 0}.
+        
+       
+      
+      
+      
+Copa\n{STRVAR_1 26, 0, 0}
+SALIR
+VALE
+REGLAS
+                            
+                          
+                            
+                 
+No es posible formar un equipo de\nPokémon que cumpla el reglamento\fde la Copa {STRVAR_1 26, 0, 0} con un\ftotal máximo de niveles de {STRVAR_1 52, 1, 0}.
+                      
+SIN\nRESTRICCIONES
+La comunicación inalámbrica de\nNintendo DS se iniciará. ¿Seguir?{YESNO 0}
+Para un combate múltiple debes\ntener al menos tres Pokémon.
+Para un combate combi debes\ntener al menos tres Pokémon.
+Tienes al menos un Pokémon que\nno se puede seleccionar.
+                           
+Lo sentimos mucho.\nRegresa cuando no formes parte\fdel Team Rocket.
+No puedes participar con más de dos\nPokémon legendarios en la Copa GS.
+Lamentamos comunicarte que las\npersonas vestidas de negro pertenecen\fal grupo de malhechores conocido \fcomo el Team Rocket y no pueden\futilizar estas instalaciones.
+Lo sentimos mucho.\rNos ha llegado un mensaje del\nProfesor Elm de Pueblo Primavera.\rEl PICHU Picoreja no está autorizado a\nentrar en estas instalaciones.\rDéjalo en un PC y regresa más tarde.
+                                                                     
+¡Hola! Voy a contarte algunas cosas\nsobre la Ficha de Entrenador.\rAl emprender un viaje con tus Pokémon,\ntu Ficha de Entrenador se va\factualizando con diferente información.\rSi tocas la Ficha, podrás ver su\nreverso, donde podrás incluir tu firma.\r¡Y puedes enseñársela a tus amigos\nen la Sala Unión!\rEso sí, si decides crear una nueva\nfirma, la antigua se eliminará.\r¡Presta mucha atención!
+                       
+        
+                                       
+                                  
+                                   
+                                   
+                          
+                                                        
+                               
+                    
+                     
+                               
+                 
+             
+                    
+                                           
+                     
+                                
+                       
+                                              
+                              
+               
+Lo sentimos mucho.\rLamentamos las molestias ocasionadas,\npero el Pokémon PICHU Picoreja es una\fvariedad que aún no se ha registrado en\fla base de datos del Centro Pokémon y,\fpor tanto, no puedes pasar.\rDéjalo en un PC y regresa más tarde.

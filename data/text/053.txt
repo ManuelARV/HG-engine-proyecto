@@ -1,0 +1,26 @@
+Blaine: ¡Uaaah! Las llamas del volcán\nhan devorado mi Gimnasio de Isla Canela.\r¡Aun así, no pienso hundirme!\rComo puedes ver, sigo desempeñando\nmi trabajo de Líder de Gimnasio\fen esta cueva.\rSi me vences te daré una Medalla.\n¡Vamos allá! ¡Uaaah!\r
+Blaine: Increíble.\nMe consumí...\f¡Has ganado la Medalla Volcán!\r
+¡{STRVAR_1 3, 0, 0} ha recibido la Medalla\nVolcán de Blaine!
+Blaine: También voy a darte esto.\nSe llama Sofoco.\rEs un movimiento de gran poder, pero\ntambién comporta algunos riesgos.\r
+Blaine: Esta vez he perdido, pero\nla próxima te ganaré.\rCuando reconstruya mi Gimnasio de\nIsla Canela, tendremos la revancha.
+Blaine: Mis Pokémon de tipo Fuego\nserán más fuertes. ¡Ya lo verás!
+Que el Gimnasio esté en esta cueva\nestimula el espíritu aventurero, ¿eh?\r
+Este revés me servirá de lección\npara progresar en el futuro.
+Este revés me servirá de lección\npara progresar en el futuro.\r
+Ahora mismo estoy recopilando datos\nsobre los combates.\r¿Podrías echarme una mano?\r
+¡Eres más fuerte de lo que esperaba!\n¿Se puede saber quién eres tú?
+¡Eres más fuerte de lo que esperaba!\n¿Se puede saber quién eres tú?\r
+Mmm... ¡Una persona a la que\nhasta yo podría vencer!\r
+Discúlpame. Te había subestimado.
+Discúlpame. Te había subestimado.\r
+La bata blanca es un tesoro para un \ncientífico. Yo la lavo a diario, aunque\fsea para trabajar en esta cueva. \r
+El simple hecho de ponerme esta bata\nme hace sentir mucho más inteligente.
+El simple hecho de ponerme esta bata\nme hace sentir mucho más inteligente.\r
+No pienso abandonar aunque hayamos\nperdido nuestro Gimnasio. ¡Puedo ser\ftan perseverante como Blaine!\r
+¡Ayudaremos a Blaine\na reconstruir el Gimnasio!
+¡Ayudaremos a Blaine\na reconstruir el Gimnasio!\r
+Hemos perdido el Gimnasio de Isla\nCanela y ahora no tenemos a donde ir.\r
+No nos importa reconocer nuestra\nderrota. ¡Eres algo fuera de lo normal!\r¡No creas que somos como esos\ncientíficos que trabajan para\forganizaciones malvadas!
+No nos importa reconocer nuestra\nderrota. ¡Eres algo fuera de lo normal!\r¡No creas que somos como esos\ncientíficos que trabajan para\forganizaciones malvadas!\r
+¡Hola, futura leyenda!\rEntre los escombros de las obras y\ntodos los Entrenadores que\rhay por aquí, no te será fácil llegar\nhasta Blaine.\r¡Pero, si vas derrotando a los\nEntrenadores sin amedrentarte,\fpodrás abrirte camino!
+Un Líder obsesionado en reconstruir\nsu Gimnasio perdido...\rY tú que has venido desde Johto\npara desafiarlo.\r¡Sin duda, un apasionante combate\ndigno de presenciar!

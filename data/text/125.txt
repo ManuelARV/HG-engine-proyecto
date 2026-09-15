@@ -1,0 +1,9 @@
+Tamao: Aquí es donde recibiremos\na LUGIA.\rCuando el ritmo de la danza que\nensayamos cada día se entrelace\fcon las vibraciones de la Campana Oleaje\fque os hemos entregado a vos,\fLUGIA resurgirá una vez más\fdesde la cascada.\r
+Aquí acaba nuestro papel.\nEl resto depende de vos.
+Contemplad a LUGIA.\nUna entidad protectora que ha surcado\flos mares desde tiempos remotos.\rHasta hoy, muchos fueron los que lo\ninvocaron y no obtuvieron respuesta.\rPero solo ahora que la Campana Oleaje\nresuena en armonía en el interior de\f{STRVAR_1 3, 0, 0}, ha acudido a la llamada.\r
+¡Contemplad, oh, este gran momento,\n{STRVAR_1 3, 0, 0}!\rCiertamente...\nLUGIA aguardaba a que alguien\fde vuestra valía se presentara ante él.
+LUGIA: ¡Giaaas!\r
+Os felicito por llegar hasta aquí.\nSi por fortuna veis al Profesor Elm,\fdadle recuerdos de nuestra parte.
+No solo habéis traído a LUGIA ante vos,\nsino que además habéis asimilado\fsu fortaleza.\rEs una loable proeza.\nMe temo que no hay nada más\fque yo os pueda enseñar.\rEspero que sigáis progresando como\nhasta ahora durante vuestro periplo.
+Si ese es vuestro deseo, no tenemos\nnada que objetar.\rAun así, si deseáis reencontraros\ncon LUGIA, regresad a este lugar\fcuando hayáis concluido vuestro viaje.
+Cuando os alejéis de este lugar,\nLUGIA tampoco regresará por un tiempo.\rSerá menester que volváis aquí\ncuando vuestro periplo llegue a su fin.

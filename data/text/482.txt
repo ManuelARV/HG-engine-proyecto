@@ -1,0 +1,12 @@
+¿Qué tal?\rMira por donde quieras\nen esta planta.
+Lo siento, pero solo puedes dar\nuna vuelta por la planta baja.\rDesde que una banda criminal\nasaltó la Torre Radio de Johto,\ftuvimos que incrementar\flas medidas de seguridad.
+En la Torre Radio hay mucha gente\nque trabaja duramente.\rSeguro que están haciendo todo lo\nposible por emitir buenos programas.
+¡Oh, no, no, no!\rNo hemos emitido desde que cerró\nla Central Energía.\rSi no emitimos, de nada servirá\nel esfuerzo realizado por la emisora.\f¡Me arruinaré!
+¡Ah! Así que tú, {STRVAR_1 3, 0, 0},\nresolviste el problema\fde la Central Energía...\rGracias a ti, no perdí mi empleo.\n¡Me has salvado la vida!\rAcepta esto como muestra\nde mi gratitud.\r
+¡Ah! Así que tú, {STRVAR_1 3, 0, 0},\nresolviste el problema\fde la Central Energía...\rGracias a ti, no perdí mi empleo.\n¡Me has salvado la vida!\rAcepta esto como muestra\nde mi gratitud.\r
+{STRVAR_1 3, 0, 0} ha introducido en su\nPokégear la Tarjeta Expansión\fque le dio el Director.\rLa función de radio del Pokégear\nde {STRVAR_1 3, 0, 0} se ha mejorado.
+Con eso podrás sintonizar nuevos\nprogramas de radio.\f¡Ja, ja, ja, ja!
+¡Oye, joven!\r¡Soy el Director de programas\nmusicales!\r¡Vaya! Tu Pokégear no sintoniza mis\nprogramas de música. ¡Qué pena!\rSi consigues una Tarjeta Expansión,\nlos podrás oír. ¡Hazte con una!
+¡Oye, joven!\r¡Soy el Director de programas\nmusicales!\rSoy el encargado de las fantásticas\nmelodías que se emiten aquí.\f¡Atrapa la música de las ondas!
+PB Recepción\nP1 Ventas\fP2 Personal\fP3 Producción\fP4 Despacho del Director
+Anima los Pokémon con la vivaz melodía\nde la Poké Flauta.\rUn programa que solo se emite en Kanto.\fSi buscas más arriba, la escucharás.

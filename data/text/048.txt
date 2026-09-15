@@ -1,0 +1,2 @@
+Dicen que los CLEFAIRY vienen a jugar\naquí cuando se pone el sol.
+Subir la montaña es agotador.\nDescansa en mi tienda. {YESNO 0}

@@ -1,0 +1,15 @@
+Isra
+¡No te hagas ilusiones!\nHoy estaba un poco agarrotado.\rDame tu teléfono para volver\na enfrentarnos.{YESNO 0}
+La próxima vez, seré más fuerte.
+¿Ya está? ¿Me ganas y te vas?\n¡Serás caradura!
+¡No te hagas ilusiones!\nHoy estaba un poco agarrotado.\rDame tu teléfono para volver\na enfrentarnos.{YESNO 0}
+Quieres la Piedra Noche, ¿no?\n¡Aquí está! Llévatela sin reparos.\r
+¡Eeeh! ¿Tanto miedo te doy?\rSé que estás en el Camino de Bicis.\n¡Ven a verme!
+¡Jua, jua, jua!\r¡Mi {STRVAR_1 0, 10, 0} está hecho\nun toro!\rHace poco acabó con un {STRVAR_1 0, 11, 0}\nen un abrir y cerrar de ojos.\f¡Fue impresionante!\r¡Y yo no le tengo miedo a nada!...\nsiempre que el rival sea más débil...
+Mi {STRVAR_1 0, 10, 0} se ha puesto hecho\nun sansón.\rCasi acaba con {STRVAR_1 0, 11, 0},\npero lo dejamos escapar.\r¿Que si se nos escapó?\n¿Por quién me tomas?\r¡Lo de-ja-mos es-ca-par!\n
+El otro día un {STRVAR_1 0, 11, 0} salió\na nuestro encuentro.\f¡Me pegué un tortazo del susto!\rMenos mal que mi Pokémon amortiguó\nla caída y no me hice ni un rasguño.\n
+¡Venga! ¡Estoy preparado\npara el siguiente combate!\rTe espero en {STRVAR_1 4, 3, 0}.\nEsta vez no te dejaré ganar.
+¡Eh! Habíamos quedado en combatir,\n¿no?\r¡Ven ahora mismo a {STRVAR_1 4, 3, 0}!
+Muchos dicen que el Camino de Bicis\nse ha vuelto muy peligroso\fpor nosotros, los Motoristas.\r¡No tienen ni idea!\nNosotros no somos malos, solo queremos\fluchar contra Entrenadores fuertes.\r¡Contra gente como tú!
+Iba paseando cuando ya estaba oscuro\ny me encontré una Piedra Noche.\rMe caes bien, así que te la doy.\nVen a por ella a {STRVAR_1 4, 3, 0}.
+¡Te estoy diciendo que te doy una\nPiedra Noche! ¿Es que no la quieres?\r¡Estoy en {STRVAR_1 4, 3, 0}!\nVen cuando te entren ganas.

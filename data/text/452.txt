@@ -1,0 +1,12 @@
+¡Oye, tú, espera! ¡Ven aquí!\nEscucha lo que te voy a decir.\rAquí donde me ves, en mis tiempos mozos\nyo era un experto atrapando Pokémon.\r¿Me crees? {YESNO 0}
+Muy bien. Sí, yo era algo fuera de\nlo normal. ¡Déjame contártelo!
+¿Qué? ¡Serás insolente!\rSi fuera un poco más joven, te\nenseñaría un par de cosas. ¡Vaya!
+Este Gimnasio no tenía Líder...\nHasta que hace poco un joven de\fPueblo Paleta ocupó el puesto.\rA ver...\nParece que ahora no está.
+¿Qué tal va todo?\n¿Ya pudiste enfrentarte al Líder?
+¡Qué sueño!\nMe habré quedado dormido al sol.\rHe soñado que un DROWZEE se comía\nmi sueño. Es raro, ¿verdad?\r¿Eh?\n¿Qué es esto?\r¿De dónde ha salido esta MT?\n¡Esto es muy misterioso!\fAquí tienes esta MT.\r
+La MT85 contiene Come Sueños...\nZzz...
+Dicen que en el suelo del Bosque\nVerde hay muchos objetos.
+Ciudad Verde\nLa ciudad eternamente verde
+Líder del Gimnasio Pokémon\nde Ciudad Verde...\fEl resto del texto es ilegible...
+¡Bienvenidos a Ciudad Verde,\nla entrada a la Meseta Añil!
+Casa del Entrenador\nClub de los mejores Entrenadores

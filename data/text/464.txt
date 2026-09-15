@@ -1,0 +1,30 @@
+Te doy la bienvenida.\rNo podrás ver algunas de las piezas más\nimportantes porque las hemos prestado\ftemporalmente a otros museos, pero por\fese motivo la entrada es gratuita.\rAdelante, disfruta de tu visita.
+Deja que te explique algo.\r¿Sabías que se pueden regenerar\nPokémon restaurando sus Fósiles?\rSi quieres restaurar algún Fósil,\ndéjalo en mis manos.\r
+Ven a verme cuando quieras\nque restaure un Fósil.
+Bien, voy a ponerme manos a la obra.\nEspera un poco, por favor.
+¡Ya está!\r¡El proceso de regeneración\nha sido un éxito!\rEs un Pokémon llamado {STRVAR_1 0, 0, 0}.\nCuídalo bien.\r
+Vaya, no puedes llevar más Pokémon.\nVuelve cuando haya sitio en tu equipo.
+¿Qué ocurre?\n¿No tienes ningún Fósil?\rSi rompes rocas en las Ruinas Alfa\nseguro que encuentras alguno.
+¿Quieres que restaure\n{STRVAR_1 8, 0, 0}? {YESNO 0}
+¡{STRVAR_1 3, 0, 0} ha obtenido\nun {STRVAR_1 0, 1, 0}!
+¿Quieres ponerle un mote\nal {STRVAR_1 0, 1, 0}? {YESNO 0}
+Cerca de Ciudad Plateada cayeron\nvarios meteoritos.\rPiezas tan asombrosas deberían estar\nen nuestro museo.\rSin embargo, parece que desprenden\nuna energía misteriosa y por eso no\fpueden transportarse...
+Hay dos lugares que me encanta visitar.\nUno son las Ruinas Alfa de Johto.\rEl otro es el museo de Ciudad Plateada.\rEn ambos te inunda la calma.\rY además se respira un aire de\nromanticismo histórico...\r¿No te parece?
+¡Qué golpe de suerte!\r¡Nunca pensé que conseguiría\nver huesos de dragón!
+...\rTodas las luces que brillan en el cielo\nson piedras que todavía desconozco...
+Máximo: Las personas que consagran\nsu vida a seguir un camino son dignas\fde admiración. Pero si lo hacen solo por\fambición no tengo miramientos con ellos.\r
+A ver...\nEso que tienes es...\r
+Es una piedra un tanto extraña...\rHay algo que brilla en su interior...\nEs como si encerrara algún\fextraordinario secreto...\rSería mejor llevársela a un experto\npara que la examine.\r
+¡{STRVAR_1 3, 0, 0} ha donado\nel Misticristal!\r
+Voy a examinarlo.\nEspera un poco.\r
+¡Ya está! Disculpa la espera.\nMe ha llevado un rato pero al final\fhe sacado algo en claro.\rEsto es un cristal dotado de un\nmisterioso poder llamado\f{COLOR 0}Rocío Bondad{COLOR 0}.\r
+El Rocío Bondad es algo que se\nencuentra muy raramente. Si no te\fimporta, me gustaría examinarlo mejor.
+Máximo: Dicen que el Rocío Bondad es el\nalma cristalizada de LATIAS y LATIOS...\rY que tiene el poder de liberar\nel potencial latente de ambos.\rParece ser que sus almas están ligadas\nal Rocío Bondad.\rNo sé cómo ha venido a parar a Kanto\neste Rocío Bondad, pero podría\fservirnos para atraer a alguno\fde los dos.\r
+Es un objeto largo y delgado y\nestá un poco torcido...\f¿Será el Fósil de alguna planta?
+Es un objeto puntiagudo y afilado.\n¿Será de algún Pokémon agresivo?
+Es algo plano y duro.\n¿Será el Fósil de alguna parte para\fproteger el cuerpo?
+¡Hay algo incrustado en la resina\nmarrón! Si pudiéramos extraerlo y\frestaurarlo, quizá podríamos\fregenerar un Pokémon antiquísimo...
+Son un montón de pequeños huesos\ndispuestos de manera que reconstruyen\fla forma de algún Pokémon.
+Hay algo escrito junto a\nesta piedra irregular:\r“Este es un cuerpo extraño que cayó\nen el Mt. Moon. Probablemente\fse trata de una Piedra Lunar.”
+Son un montón de libros grandes y\ngruesos bien ordenados.\r“Bases de la restauración de Fósiles”\n“Manual de arqueología”\f“Pokémon extinguidos”\f“Pokémon y sus ancestros”\f“Entre los humanos y los Pokémon”\f“Estratos antiguos de Kanto”
+En este museo se exhiben principalmente\nFósiles y muestras de seres vivos\fhallados en la región de Kanto.\rContemplen estos vestigios de Pokémon\ny traten de imaginar un mundo primitivo.

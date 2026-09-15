@@ -1,0 +1,20 @@
+Lira: ¡Abuela!\rTe presento a mi amigo {STRVAR_1 3, 0, 0}.\r
+¡Anda! Así que ya te has echado\nun noviete... El que no corre vuela...\r
+Lira: ¡¿Pero qué estás diciendo,\nabuela?!\rEs solo un chico de por aquí...\r
+Vale, vale, ya entiendo.\nBueno, {STRVAR_1 3, 0, 0}, si Lira te\fha traído debe ser porque\fte aprecia mucho.\rVuelve cuando te apetezca.\r
+Lira: ¡Ya vale, abuela!\nTengo que irme ya.\r
+Lira: ¡Ah!...\n¡Se me olvidaba!\r
+Lira: Apúntate mi número de Pokégear.\r
+¡{STRVAR_1 3, 0, 0} ha registrado a Lira\nen el Pokégear!\r
+Lira: ¿Vas hablándoles de vez en\ncuando a los Pokémon que van contigo?\rSus reacciones son distintas según\nlas ciudades o rutas donde estéis.\rYo observo su comportamiento y\nlo voy anotando.\rLlámame un día de estos y te lo enseño.\r
+Lira: ¡Oye, abuela!\rNos pasamos los números de teléfono\nporque los dos somos Entrenadores.\f¡No imagines cosas raras!\r
+Eco: ¡Abuela!\rTe presento a mi amiga {STRVAR_1 3, 0, 0}.\r
+¡Anda! Así que ya te has echado\nuna novieta... El que no corre vuela...\r
+Eco: ¡¿Pero qué estás diciendo,\nabuela?!\rEs solo una chica de por aquí...\r
+Vale, vale, ya entiendo.\nBueno, {STRVAR_1 3, 0, 0}, si Eco te\fha traído debe de ser porque\fte aprecia mucho.\rVuelve cuando te apetezca.\r
+Eco: ¡Ya vale, abuela!\nTengo que irme ya.\r
+Eco: ¡Ah!...\n¡Se me olvidaba!\r
+Eco: Apúntate mi número\nde Pokégear.\r
+¡{STRVAR_1 3, 0, 0} ha registrado a Eco\nen el Pokégear!\r
+Eco: ¿Vas hablándoles de vez en\ncuando a los Pokémon que van contigo?\rSus reacciones son distintas según\nlas ciudades o rutas donde estéis.\rYo observo su comportamiento y\nlo voy anotando.\rLlámame un día de estos y te lo enseño.\r
+Eco: ¡Oye, abuela!\rNos pasamos los números de teléfono\nporque los dos somos Entrenadores.\f¡No imagines cosas raras!\r

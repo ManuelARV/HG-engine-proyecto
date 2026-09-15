@@ -1,0 +1,15 @@
+¡Hola, soy el Sr. Juego!\r¡Cuando alguien se sienta a jugar\na la mesa frente a mí, enseguida me\fveo inmerso en el juego y siento\fun cosquilleo por todo el cuerpo\fque me hace estremecer!\rPuedo ver en tu mirada que tú también\nsabes disfrutar una buena partida.\rSi consigues bastantes Fichas, podrás\ncambiarlas por premios estupendos.\r¿Quieres jugar?{YESNO 0}
+  
+   
+¡Muy bien!\n¡Entonces toma este Monedero!\r
+¡Venga, haz que estremezca\ncon una buena partida!\r
+¡Yo siento la misma expectación que tú\ny un cosquilleo estremecedor solo con\fverte jugar!
+¡Hola, soy el Sr. Juego!\r¡Cuando alguien se sienta a jugar\na la mesa frente a mí, enseguida me\fveo inmerso en el juego y siento\fun cosquilleo por todo el cuerpo\fque hace que me estremezca!\r¡Vamos, no pierdas tiempo!\r¡Hazme temblar de emoción\ncon una buena partida!
+¡Vamos, no pierdas tiempo!\n¡Haz que me estremezca\fcon una buena partida!
+Me encanta ver como la gente prueba\nsuerte en el juego. ¡Es superior a mí!\r¡Como lo oyes!...\rAcumula Fichas y ve a cambiarlas\npor premios al edificio de aquí al lado.
+Lo sé, te han entrado unas ganas locas\nde probar suerte, ¿eh?
+Si no tienes un Monedero,\nno puedes jugar...\r
+Sr. Juego: ¡Eh, atiende!\nHas venido a probar suerte, ¿verdad?\rVen aquí, voy a darte un Monedero.
+Sr. Juego: ¡Venga, haz que me\nestremezca con una buena partida!\r
+Sr. Juego: ¡Eh! No te quedes ahí,\nen el borde de la mesa.\r¡Toma asiento en el centro y deléitame\ncon un buen juego!
+¡Hola, futura leyenda!\n¿Vas a probar suerte?\rYo también voy tras uno de los premios,\nun Pokémon, ¡pero no consigo\fsuficientes Fichas!

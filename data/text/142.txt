@@ -1,0 +1,25 @@
+Esta es la Sala Potencial, edificada\ncon motivo del futuro del Pokéathlon\fy de fortaleza ilimitada que poseen\flos Pokémon y humanos.
+Aquí solo pueden acceder Pokéatletas\ndestacados que hayan conseguido\fun récord en el primer puesto\fen todas las disciplinas.\r¡Trata de conseguirlo, no es fácil!\n¡Ser primero y además batir el récord!
+Justo aquí está la Sala Amistad.\nAdelante.
+El hecho de que hayas llegado\na esta sala es sobrecogedor.\r¡Eres un Pokéatleta de primera línea!\rPero para estar entre los mejores,\naún necesitas esforzarte un poco más.\r¿Te enseño una técnica secreta?{YESNO 0}
+¡Hola, {STRVAR_1 3, 0, 0}!\n¿Quieres saber algo más?{YESNO 0}
+¡Hola, {STRVAR_1 3, 0, 0}!\n¿Quieres saber algo más?{YESNO 0}
+Dime, ¿qué disciplina de qué prueba\nte interesa?{YESNO 0}
+¿Sobre qué disciplina\nnecesitas información?{YESNO 0}
+En Saltaobstáculos, el momento\ndel salto es la clave.\rCuanto más cerca de la valla estés\nal saltar, más acelerarás.\rEl truco está en saltar\nen el último momento.\r
+Atrapabanderas...\rAquí no solo tienes que hacerte\ncon las banderas de la playa.\r¡También puedes arrebatárselas\na tus rivales!\rPara ello, empújalos por detrás\npara aturdirlos y quedarte\fcon su bandera. ¡Ese es el eje principal\fde esta disciplina!\r
+En Pisacírculos lo importante\nes echar fuera a tus contrincantes.\rAh, ¿ya lo sabías?\rPues justo cuando le das una orden\na tu Pokémon, su fuerza de empuje\faumenta. Lo mejor para ganar es\fdar órdenes poco a poco y así podrás\fexpulsar hasta a rivales más fuertes.\r
+En Rompelosas no basta con partirlas.\n¿Te has fijado en que hay algunas\fcon grietas?\rSi das en el lugar justo, se harán\nañicos en un santiamén.\rAdemás, si vas de grieta en grieta,\ntu Pokémon se pondrá a tono y podrá\fsacar toda su fortaleza a relucir.\rAparte, si cuando sustituyes\nun Pokémon haces que dé un salto,\fla sustitución es mucho más veloz.\r
+En Atrapadiscos, cuanto más atrás\natrapes el disco, mejor.\rLos Pokémon pájaro pueden desplazarse\ncuando saltan, así que un equipo de\feste tipo de Pokémon es lo mejor\fpara esta prueba.\r
+Botaluces no consiste en saltar como\nun saltamontes sin pensar en nada.\rHay tres Pokémon en el trampolín, ¿no?\rSi justo cuando va a despegar\nun Pokémon, cae otro en el trampolín,\fno podrá volar con mucho impulso.\rEl truco es hacer saltar a los Pokémon\nde forma coordinada.\r
+En Carrera de Relevos, el cambio\nde Pokémon es esencial.\r¿Has visto cómo sudan\ncuando se cansan?\rEs entonces cuando disminuye\nsu Velocidad, por eso debes procurar\fcambiarlos antes de que eso ocurra.\rAdemás, también puedes realizar\nel cambio con un sprint desde atrás.\rCuando tienes prisa para cambiar,\nesto es lo mejor, ¡sprint por detrás!\f¡No lo olvides!\r
+En Fuera del Ring, el placaje no basta\npara llegar a la cima.\r¿Conoces el placaje volador?\nYo lo llamo así.\rEs cuando saltas un poco y\nte lanzas sobre el rival.\rEsta técnica es lo mejor para acabar\ncon muchos rivales a la vez.\r
+En Nieve Cruzada no es suficiente\nlanzar bolas a lo loco.\r¿Procuras hacer bolas grandes?\nCon ellas, puedes aturdir a tus rivales.\rAdemás, también sirven de escudo\ncontra los proyectiles del oponente.\r
+Metegoles es una disciplina en la que\nlas habilidades del Pokéatleta\fson primordiales.\rLa prueba tiene un ritmo vertiginoso,\npor eso debes dar órdenes precisas\fa tus Pokémon.\r¡La alineación lo es todo!\rUn Pokémon delante de la portería\npara defenderla, otro en el medio\fpara detener cualquier balón y otro\fmás para meterlo en la red.\r¡Esa es mi táctica! ¡Te la recomiendo!\r
+¡La senda para ser el mejor es larga!\n¡Ánimo!
+En honor del deportista que consiguió\n100 victorias en el Pokéathlon,\fleyenda hasta el fin de los tiempos.
+Es un modelo exclusivo de Pokégear\npara ti, para conmemorar tus\f100 victorias en el Pokéathlon.\rEl dorso tiene grabado\nel logotipo del Pokéathlon.\r¡Es un Pokégear muy especial!
+En honor al Pokéatleta que consiguió\nquedar en primer puesto 50 veces\fen todas las disciplinas.\rSu apabullante fortaleza\nes una leyenda terrenal.\n
+Es un modelo exclusivo de Poké Ball\npara ti, para conmemorar que has\fconseguido ser el número 1 cincuenta\fveces en todas las disciplinas.\rTiene grabado lo siguiente:\r¡Sigue en la cima!
+¡{STRVAR_1 3, 0, 0} ha consultado\nlos récords de las disciplinas!\r
+DODRIO: ¡Dodododooooo!

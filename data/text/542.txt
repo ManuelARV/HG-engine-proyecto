@@ -1,0 +1,38 @@
+¡Guau! ¡Tu Pokégear es impresionante!
+¡Espera, {STRVAR_1 3, 0, 0}!
+¡Espera, {STRVAR_1 3, 0, 0}!
+¿Adónde crees que vas?\r
+¡Es peligroso salir sin un Pokémon!\rDe camino hacia la siguiente ciudad\nte encontrarás Pokémon salvajes.
+¡Oh, tu Pokémon es adorable!\n¡Ojalá tuviera yo uno!
+¡Hola, {STRVAR_1 3, 0, 0}!\n¿Te vas otra vez?\rDeberías avisar a tu madre\nde que te vas.
+¡Hola, {STRVAR_1 3, 0, 0}!\n¿Te vas otra vez?\rDeberías avisar a tu madre\nde que te vas.
+Llama a tu madre con el Pokégear\ny cuéntale cómo te va.
+¡Ah, qué Bolsa más chula!
+¡Espera un momento!\r
+¿Y tu Pokégear?\rNo te lo habrás dejado en casa, ¿no?\n¡Pregúntale a tu madre!
+¡Hola, {STRVAR_1 3, 0, 0}!\rDicen que el Profesor Elm\nha descubierto nuevos Pokémon.
+...\rAsí que este es el famoso\nLaboratorio Pokémon de Elm...\r
+¿Qué estás mirando?...\r
+Lira: ¡{STRVAR_1 3, 0, 0}!\r¡Te ha dado un {STRVAR_1 0, 1, 0}!\r¡Qué bien! ¡Es un Pokémon genial!\rSi lo llevas junto a ti, te irá tomando\ncada vez más cariño. Y nunca está\fde más que te gires a hablarle\fde vez en cuando.\r¡Ya sé! ¡Deberías ir a enseñárselo\na tu madre!\r¡Venga!\r
+Eco: ¡{STRVAR_1 3, 0, 0}!\r¡Te ha dado un {STRVAR_1 0, 1, 0}!\r¡Qué bien! ¡Es un Pokémon genial!\rSi lo llevas junto a ti, te irá tomando\ncada vez más cariño. Y nunca está\fde más que te gires a hablarle\fde vez en cuando.\r¡Ya sé! ¡Deberías ir a enseñárselo\na tu madre!\r¡Venga!\r
+Elm: ¡Eh!\r
+¡Casi se me olvida!\n¡Debería darte mi número de teléfono!\r
+¡{STRVAR_1 3, 0, 0} ha registrado el número\nde Elm en el Pokégear!
+Elm: Ya sabes, llámame\nsi necesitas algo.\r
+¡{STRVAR_1 1, 0, 0}! ¿Adónde vas?\r
+¿Dices que el Profesor Elm\nte está esperando en su\fLaboratorio para darte algo?\r
+¿No has oído a tu madre?\nEl Profesor Elm te está esperando.\r
+¿Se ha enfadado tu madre?\r
+Lira: ¿Para que querrán verte esas\nChicas Kimono?...
+Eco: ¿Para que querrán verte esas\nChicas Kimono?...
+Lira: ¡Ah, {STRVAR_1 3, 0, 0}!\r
+Eco: ¡Ah, {STRVAR_1 3, 0, 0}!\r
+{STRVAR_1 3, 0, 0}, no creo que debas ir\npor ahí...\r
+{STRVAR_1 3, 0, 0}, no creo que debas ir\npor ahí...\r
+Lira: Mmm... Ha engordado un poco,\n¿no?
+Eco: Mmm... Ha engordado un poco,\n¿no?
+MARILL: ¡Maaarr!\r
+Pueblo Primavera\nDonde soplan aires nuevos
+Casa de {STRVAR_1 3, 0, 0}
+Laboratorio de Elm
+Casa de Elm

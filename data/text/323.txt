@@ -1,0 +1,4 @@
+¿Tú eres {STRVAR_1 3, 0, 0}?\n¡El Profesor Oak te está esperando\fen el Laboratorio de Pueblo Paleta!\r¡Ah, sí!\r¡Me dijo que te diera esto\ncuando te encontrara!\r
+¿Tú eres {STRVAR_1 3, 0, 0}?\n¡El Profesor Oak te está esperando\fen el Laboratorio de Pueblo Paleta!\r¡Ah, sí!\r¡Me dijo que te diera esto\ncuando te encontrara!\r
+¡La Ceniza Sagrada es un objeto\nestupendo que hace que los Pokémon\fdebilitados se recuperen totalmente!
+Al norte, Ciudad Plateada.\nAl sur, Ciudad Verde.\rParezco un cartel.

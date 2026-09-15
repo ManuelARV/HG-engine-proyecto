@@ -1,0 +1,17 @@
+Tomy
+¡Eres increíble! ¡Me caes bien!\nBusco Pokémon por aquí todos los días.\rCuando salgo al campo, encuentro\ntoda clase de Bayas.\rSi quieres, te doy algunas.\n¿Me das tu número de teléfono?{YESNO 0}
+Oirás de mí tan pronto como encuentre\nalgo que te pueda interesar.
+Como quieras, no dudes en pedirme mi\nnúmero de teléfono en otra ocasión.
+Cuando salgo al campo, encuentro\ntoda clase de Bayas.\rSi quieres, te doy algunas.\n¿Me das tu número de teléfono?{YESNO 0}
+¡Qué bien que hayas venido!\nEsto es lo que he encontrado.\f¡Es para ti!\r
+¡No es necesario usar el teléfono,\nestás muy cerca!
+¿Tus Pokémon están creciendo?\rMis Pokémon lo hacen demasiado rápido\npara mí. ¡Es abrumador!\r{STRVAR_1 0, 10, 0} es el que más rápido\ncrece. Creo que será muy fuerte.\r¡Hasta luego!
+Hace nada dejamos K.O. a un\n{STRVAR_1 0, 11, 0} salvaje de un golpe.\rCayó con demasiada facilidad,\nla verdad es que me siento fatal.\r¡Hasta luego!
+Hace unos días, un {STRVAR_1 0, 11, 0} salvaje\nhuyó de mí en el último segundo.\rYa sé que es un Pokémon común, pero\nme fastidia que se escapase\fcuando casi lo tenía.\r¡Hasta luego!
+¿Te apetece luchar contra mí?\n¡No será como la última vez!\rEstoy en {STRVAR_1 4, 3, 0}.\nHázmelo saber cuando llegues.
+¡Vamos a luchar!\rEstoy en {STRVAR_1 4, 3, 0}.\n¡Por favor, ven tan rápido como puedas!
+¿Eh? ¿Bayas?\rLo siento, no he encontrado ninguna.\nTe llamaré si encuentro alguna.\fYa te llamaré. Tú sé paciente.
+He encontrado varios tipos de Bayas.\nSi quieres, puedo compartirlas contigo.\rTe espero en {STRVAR_1 4, 3, 0}.
+¿Cómo es que no has llegado aún?\rEstoy en {STRVAR_1 4, 3, 0}.\n¡Por favor, ven tan rápido como puedas!
+El Concurso de Captura de Bichos\nse celebra hoy en el Parque Nacional.\f¿Vas a participar, {STRVAR_1 3, 0, 0}?\rYo estoy dudando...
+El Concurso de Captura de Bichos\nse celebra hoy en el Parque Nacional.\f¿Vas a participar, {STRVAR_1 3, 0, 0}?\rYo estoy dudando...

@@ -1,0 +1,37 @@
+¿Quieres jugar a {STRVAR_3 0, 0, 0}?
+JUGAR
+REGLAS
+CANCELAR
+No has podido unirte a los que están\njugando a {STRVAR_3 0, 0, 0}.\r
+La partida ya ha comenzado.\nNo te podrás unir hasta que acabe.\r
+Se ha agotado el tiempo para\nunirse a {STRVAR_3 0, 0, 0}.\r
+Preparando el registro.\nEspera, por favor.\r
+Alguien ha abandonado.\rSe ha cancelado la partida de\n{STRVAR_3 0, 0, 0}.\r
+                         
+Esperando a otros participantes...\nBotón B: Cancelar
+¡La partida empezará enseguida!\nPor favor, espera.
+     
+           
+           
+Comienza en: {STRVAR_1 51, 0, 0} s
+Hay jugadores suficientes.\n¡Que comience la partida!
+Alguien ha tenido que abandonar.\nComenzad otra vez desde el principio.\r
+Se acabó la espera.\n¡Que comience la partida!
+No hay más participantes.\rComienza otra vez desde el principio.\r
+Lo sentimos, pero hay demasiada gente\ny ahora mismo no puedes participar.\r
+Se acabó el tiempo. Se va a cerrar\nel juego {STRVAR_3 0, 0, 0}.\r
+Se ha cerrado {STRVAR_3 0, 0, 0}.\r
+             
+SÍ
+NO
+Has sido la primera persona en unirte\na la partida.\rSi abandonas, el grupo se disolverá.\n¿Quieres continuar?
+SÍ
+NO
+Has abandonado.\r
+El desfile se celebrará más tarde.\nTen paciencia.\r
+Esperando a que pase una carroza...\nBotón B: Cancelar
+Parece que ya no te puedes subir\na la carroza...\r
+El desfile ha terminado.\r
+{STRVAR_3 0, 0, 0}\rIntenta meter las Bayas en la boca\ndel SWALOT que da vueltas.\rObtendrás puntos de bonificación si\nconsigues varios aciertos seguidos.\rObtendrás más puntos cuando gire a\ntoda velocidad.\rTú decides: ¡apunta con precisión o\nlanza las Bayas al azar!\r
+{STRVAR_3 0, 0, 0}\rMueve la pelota para evitar que\nMIME JR. se caiga.\rSi MIME JR. no se cae, se encenderán\nlas luces y comenzarán los aplausos.\rEn caso de que nadie falle, se levantará\nel telón.\r¡Mantén a tu MIME JR. en equilibrio\nsobre la pelota!\r
+{STRVAR_3 0, 0, 0}\rAcciona la bomba desde arriba para\ninflar globos hasta que exploten dentro\fdel límite de tiempo.\rAl accionarla, se pondrá de color\nrojo y tendrá más capacidad.\rLos WYNAUT de alrededor también\npueden ayudarte.\rPon un WYNAUT en línea con la bomba\npara meter más aire, pero ten cuidado:\rsi usas un WYNAUT delgado, empeorarás\nel rendimiento de la bomba.\r

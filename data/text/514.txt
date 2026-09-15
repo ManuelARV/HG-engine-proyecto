@@ -1,0 +1,19 @@
+¡Ji, ji, ji!\rLo siento mucho...\r¡Solo bromeaba!\n¡Yo soy la auténtica!\rSoy Sachiko, del Gimnasio Fucsia.\n¡La única e inimitable!\r
+Sachiko: Vaya... Has vencido\na Koga del Alto Mando, o sea,\fa mi papá y, gracias a ello,\fhas llegado hasta aquí.\rEres muy fuerte, por eso he perdido.\rAnda, toma esto. Es la Medalla Alma.\r
+¡{STRVAR_1 3, 0, 0} ha recibido\nla Medalla Alma de Sachiko!
+Sachiko: ¡Eres muy fuerte!\nAnda, te regalo esto.\r¡Con este movimiento, puedes\nenvenenar a tus rivales!\r
+Sachiko: Voy a esforzarme\npara mejorar mis habilidades.\r¡Quiero llegar a ser mejor\nque mi padre y que tú!
+¡Hola, futura leyenda!\nEcha un vistazo a tu alrededor.\rTodos los Entrenadores\nse parecen a Sachiko.\r¿Cuál será la auténtica?
+¡Qué bien luchas!\n¡Cómo se nota que eres de Johto!
+¡Te he engañado!\n¡Ja, ja, ja!\r
+¿Qué tal mi disfraz?\n¡Todos dicen que lo he clavado!
+¡Ja, ja, ja!\r¡Muy bien!\n¡Yo soy Sachiko!\r
+¡Soy un hombre!\r¿Es que a alguien le importa\nque un chico se disfrace de Sachiko?
+¡Ji, ji, ji! ¡Soy Sachiko,\nla Líder del Gimnasio!...\r¡Ja!\n¡Has picado!\r
+¡Ji, ji, ji!\n¡Es para mondarse!\r
+Me encanta disfrazarme\nde Sachiko. ¡Soy fan de ella!
+¡Soy Sachiko!\r¡Me has descubierto,\neres muy perspicaz!\r¡Luchemos!\r
+¡Te lo has tragado!\r
+Con el disfraz de Sachiko puesto,\n¡hasta me siento más fuerte!
+Gimnasio Pokémon de Ciudad Fucsia
+Gimnasio Pokémon de Ciudad Fucsia\rLíder: Sachiko\nEntrenadores reconocidos:\f{STRVAR_1 3, 0, 0}

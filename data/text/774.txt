@@ -1,0 +1,23 @@
+Elige el núm. de la Sala de Combate.\n(01-{STRVAR_1 51, 0, 0}){YESNO 0}
+Recibiendo datos del Rango {STRVAR_1 51, 1, 0},\nSala {STRVAR_1 52, 0, 0}...
+No puedes competir en esa Sala de\nCombate hasta la próxima actualización.\r
+Se han recibido los datos.\r
+¿Cancelas el desafío?{YESNO 0}
+Elige el Rango de la Sala\nde Combate. (01-10){YESNO 0}
+Elige el núm. de la Sala de Combate.\n(01-{STRVAR_1 51, 0, 0}){YESNO 0}
+Enviando tu historial...
+Se han enviado los datos.\r
+¿Quieres cancelar la descarga?
+Elige el núm. de la Sala de Combate.\n(001-{STRVAR_1 52, 0, 0}){YESNO 0}
+Elige el núm. de la Sala de Combate.\n(001-{STRVAR_1 52, 0, 0}){YESNO 0}
+Conexión Wi-Fi de Nintendo
+La Torre Batalla Wi-Fi está en obras.\rPor favor, vuelve a intentarlo\nmás tarde.\r
+La Torre Batalla Wi-Fi está llena.\rPor favor, vuelve a intentarlo\nmás tarde.\r
+No se ha podido conectar\ncon la Torre Batalla Wi-Fi.\rVolviendo al mostrador de recepción.\r
+Te has desconectado\nde la Torre Batalla Wi-Fi.\rVolviendo al mostrador de recepción.\r
+Ese no es un número válido\npara la Torre Batalla Wi-Fi.\r
+Saliendo de la Conexión Wi-Fi\nde Nintendo...
+Te has desconectado de la\nConexión Wi-Fi de Nintendo.
+{ALN_CENTER}ATRÁS
+{ALN_CENTER}VALE
+{ALN_CENTER}SALIR

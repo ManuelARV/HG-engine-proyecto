@@ -1,0 +1,15 @@
+Blaine
+¡Caramba! ¡No se te oye un churro!\nTal vez sea el teléfono.\r¡Marca desde otro sitio!
+¡Dime! ¿Qué? ¿Cómo?\rNo te preocupes, estoy más sano\nque una manzana.\r
+¿Ya has ido a todos los Gimnasios?\rSeguro que te queda algún Líder\npor machacar.
+Los martes por la tarde estoy tendido\npanza arriba sin hacer nada.\fLlámame y hablamos.
+¡Uoooh! ¡Tú sí que sabes llamar\nen el momento perfecto!\r¿Echamos una lucha encarnizada?{YESNO 0}
+¡Uoooh! ¡Eres mi ídolo!\n¡Muchas gracias, máquina!\rTiro para el Dojo de Ciudad Azafrán.\n¡Allí me tienes!
+¿Que no? ¿Por quéeee?\r¿Es que hay algo más importante\nque luchar con el viejo Blaine?\rMe dejas de una pieza.
+Me alegro de que quieras luchar\ncontra mí pero, ¿no tienes\fque hacer ninguna otra cosa?
+¡Te espero en el Dojo de Ciudad\nAzafrán!\r¡Uooooooooooh!\n
+¡Soy Blaine!\n¿Cómo te encuentras hoy?\r
+¡Tú!\rÍbamos a luchar en el Dojo de Ciudad\nAzafrán. ¿Dónde te has metido, colega?
+Aunque haya perdido mi Gimnasio,\nedificaré uno nuevo día tras día,\fpiedra a piedra y algún día será grande.\r¡Fundar un Gimnasio es la esencia\nde la vida!
+Mi Gimnasio es de la vieja escuela,\nhecho a mano, pero aun así, vienen\fcantidad de Entrenadores.\r¡Vienen de muy lejos!\nEstoy muy agradecido.\f¡Gracias a ti también!
+Las Islas Espuma me encantan.\nEl problema son las tiendas...\rSi hubiera alguna que otra, todo\nsería perfecto y otro gallo cantaría.

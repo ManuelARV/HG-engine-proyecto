@@ -1,0 +1,10 @@
+Sabrina: Sabía que vendrías...\rHace tres años tuve una visión\nde tu llegada.\rTú lo que quieres es mi Medalla.\rNo me gusta luchar, pero mi deber\ncomo Líder es conceder Medallas\fa todo aquel que se las merezca.\rComo eso es lo que quieres,\nte mostraré mis poderes psíquicos.\r
+Sabrina: Tu poder... supera con creces\nlo que esperaba...\rQuizá no se pueda predecir del todo\nlo que nos depara el futuro...\rBien. Te has ganado la Medalla Pantano.\r
+¡{STRVAR_1 3, 0, 0} ha recibido la Medalla\nPantano de Sabrina!
+Sabrina: No he sido capaz\nde predecir tu poder...\rEstá claro que tu fuerza es superior\na mi poder psíquico.\rMereces que te dé\nesta Máquina Técnica.\r
+Sabrina: Contiene Intercambio.\nEs un movimiento que te permite\fintercambiar la habilidad de tu Pokémon\fcon la del adversario.\rTienes un brillante futuro por delante.\r¡Llegarás muy alto y tendrás\nel reconocimiento de todo el mundo!
+Sabrina: Tu amor por tus Pokémon\nsupera mi poder psíquico...\rCreo que, en cierta manera, el poder\ndel amor es un tipo de poder psíquico...
+¡Hola, futura leyenda!\rAlguien tan hábil como tú,\nno necesita que le digan cómo luchar\fcontra Pokémon de tipo Psíquico, ¿no?\r¡Sé que puedo esperar mucho de ti!\n¡Buena suerte!
+¡Otro combate fantástico!
+Gimnasio Pokémon de Ciudad Azafrán
+Gimnasio Pokémon de Ciudad Azafrán\rLíder: Sabrina\nEntrenadores reconocidos:\f{STRVAR_1 3, 0, 0}

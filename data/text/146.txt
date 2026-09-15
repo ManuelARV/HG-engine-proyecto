@@ -1,0 +1,34 @@
+Cintia: Este es el {COLOR 0}Estrado Mistrío{COLOR 0}.\rEste lugar se creó expresamente\npara venerar a ARCEUS.\rAntiguamente, se representaba\nla tremenda fuerza de ARCEUS\fmediante música y danzas.\rDicen que todavía hay personas\nen Johto que conservan esta tradición.\r
+Cintia: Este es el {COLOR 0}Estrado Mistrío{COLOR 0}.\rEste lugar se creó expresamente\npara venerar a ARCEUS.\rAntiguamente, se representaba\nla tremenda fuerza de ARCEUS\fmediante música y danzas.\rDicen que todavía hay personas\nen Johto que conservan esta tradición.
+Cintia: Solo ARCEUS puede ascender\nal {COLOR 0}Estrado Mistrío{COLOR 0}.\rSi es lo que pretendes, deja todos\ntus demás Pokémon en el ordenador\fde la cabaña.
+Cintia: Trae tu ARCEUS.\rSi llevas otro Pokémon, es posible\nque no resista la energía que\fdesprenden las ruinas\fy salgáis despedidos.\r
+Cintia: Ya está aquí el señor\ndel {COLOR 0}Estrado Mistrío{COLOR 0}.\rTal vez la verdadera razón por la que\nhe estado tanto tiempo investigando\fsobre las ruinas y mitos de Sinnoh\fera para guiarte hasta aquí.\r
+Cintia: En el {COLOR 0}Estrado Mistrío{COLOR 0}\nestán representados los Pokémon\fque crearon el mundo.\rEn el centro está el origen\nde todo, ARCEUS.\r
+Cintia: Los textos antiguos dicen que\nARCEUS subió al {COLOR 0}Estrado Mistrío {COLOR 0}y\fentonces se creó el tiempo,\fel espacio... y la antimateria.\fEl mundo entero.\r
+Cintia: Este es el emblema de PALKIA,\nseñor del espacio...\r
+Cintia: Este es el emblema de DIALGA,\nseñor del tiempo.\rY...\r
+Cintia: Este es el de GIRATINA,\nseñor de un mundo opuesto a este,\fcompuesto de antimateria y\fcuyo espacio y tiempo son\fsimétricamente opuestos\fa los nuestros.\r
+Cintia: ARCEUS ha reconocido tu valía\nal entrenar y convivir con los Pokémon.\rLa leyenda cuenta que ARCEUS,\nsemilla del universo, es capaz de hacer\fgala de un poder extremo.\rUn poder, con toda probabilidad, capaz\nde generar vida de la nada...\f¡El poder de la creación!\r
+Cintia: Una vez que escojas uno\nde los tres círculos, ocurrirá algo.\rProcede cuando quieras.
+Cintia: Piénsalo con calma y escoge\nuno de los tres círculos.\rPara ello, camina hasta el centro\ndel elegido.
+Cintia: Tu decisión es DIALGA,\nseñor del tiempo, ¿seguro?
+Cintia: Tu decisión es PALKIA,\nseñor del espacio, ¿seguro?
+Cintia: Tu decisión es GIRATINA, señor\ndel Mundo Distorsión, ¿seguro?
+Cintia: Eso que brilla...\ntal vez sea un... ¡Huevo!\rTal vez hayamos sido testigos\ndel nacimiento de un nuevo Huevo.\r
+Cintia: Los Huevos son cunas de\nlas que nacen nuevas vidas.\rEste planeta es como un Huevo.\rLas vidas que un día nacieron,\nacaban extinguiéndose otro día.\fY estas dan lugar a otras vidas.\rMe parece que ARCEUS ha tratado\nde enseñarnos precisamente eso.\r
+Cintia: ¿Qué ha sido eso?\r
+Cintia: Ha surgido una poderosa fuerza.\r
+Cintia: Era ARCEUS, lo sabía.\rÉl y solo él era el origen de la fuerza\nque he estado percibiendo.\r
+Cintia: Las {COLOR 0}Ruinas de Sinjoh\n{COLOR 0}fueron edificadas ex profeso\fpara venerar a ARCEUS.\rEl santuario llevaba siglos\ncon la entrada bloqueada por el hielo,\faguardando el advenimiento de ARCEUS.\r
+Cintia: El {COLOR 0}Estrado Mistrío{COLOR 0}\rse construyó para que ARCEUS\npudiera liberar todo su potencial.\r
+Cintia: ARCEUS es el origen de todas\nlas cosas. Creó el universo y\fes la fuente de toda vida.\rLa leyenda cuenta que ARCEUS hará\ngala de todo su poder sobre\fel {COLOR 0}Estrado Mistrío{COLOR 0}.\r
+Cintia: Las Ruinas de Sinjoh son un\nsantuario construido para venerar\fa ARCEUS.
+¡La esfera misteriosa\nse ha transformado en un Pokémon!\r
+¡{STRVAR_1 3, 0, 0} ha obtenido\n{STRVAR_1 0, 1, 0}!
+¿Quieres elegir a DIALGA?{YESNO 0}
+¿Quieres elegir a PALKIA?{YESNO 0}
+¿Quieres elegir a GIRATINA?{YESNO 0}
+Aquí no se obtiene ninguna reacción...
+Parece que este espacio solo\npuede ocuparlo un ARCEUS.
+¿Quieres poner un mote\na {STRVAR_1 0, 1, 0}?{YESNO 0}
+Con este ARCEUS ya no pasa nada...

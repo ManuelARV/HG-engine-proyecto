@@ -1,0 +1,16 @@
+Un miembro del Alto Mando era\nel Líder del Gimnasio de Ciudad Fucsia.
+La hija de Koga le sucedió como Líder\ndel Gimnasio cuando él se unió\fal Alto Mando.
+La Zona Safari llevaba un tiempo\ncerrada y ahora me entero de que\fse ha trasladado a Johto.\rDa pena, ya que era\nla mayor atracción de aquí...
+Ciudad Fucsia\nCiudad bulliciosa y próspera
+Líder del Gimnasio Pokémon\nde Ciudad Fucsia: Sachiko\fLa venenosa maestra ninja
+¡Hay una nota pegada!\rYa no trabajamos en la Zona Safari.\rEn su lugar, ahora llevamos\nel Parque Compi.
+Parque Compi\nCasa del guarda
+¡Bayas por Partes!\n¡Bayas por Partes!\r¡Jua! ¡Jua! ¡Cambio Partes por Bayas!\rSi me traes una Parte,\nte doy un set de tres Bayas.\r
+¡Bayas por Partes!\n¡Bayas por Partes!\r¡Jua! ¡Jua! ¡Cambio Partes por Bayas!\rDame una Parte y te obsequiaré\ncon un set de tres Bayas.\r¿Trato hecho?{YESNO 0}
+¿Más Bayas por Partes?{YESNO 0}
+¡Jua! ¡Jua!\n¡Vuelve cuando quieras!\r
+Por una Parte Roja,\nte doy el set de Bayas E.\r
+Por una Parte Azul,\nte doy el set de Bayas F.\r
+Por una Parte Amarilla,\nte doy el set de Bayas G.\r
+Por una Parte Verde,\nte doy el set de Bayas H.\r
+Tienes demasiadas Bayas de este set.\rVuelve después de gastar unas cuantas,\n¿vale?\r

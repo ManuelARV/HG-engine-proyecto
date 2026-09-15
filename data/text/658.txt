@@ -1,0 +1,15 @@
+Antón
+¡Oh! ¡Solo oigo un zumbido!\nBzzz... Bzzz... Bzzz...\rLlámame desde otro sitio.
+¿Diga? Ah, hola.\nYo ando como siempre. Muy bien.\r
+Hay bastantes Líderes más fuertes\nque yo. Estás viajando por todos\flos Gimnasios, ¿no?\r¡Qué atrevimiento tienes! ¡Sigue así!
+Los jueves a mediodía libro.\nSi quieres ver mis Pokémon\fde tipo Bicho, llámame en\fesa franja horaria.
+Justo ahora acababa de colgar\na otro amigo. ¿Combatimos?{YESNO 0}
+¡Hurra!\nTe veo en el Dojo de Ciudad Azafrán.
+Tú eres tú y tus circunstancias.\nContra eso no se puede combatir.
+¿Eh? Vale que quieras luchar\ncontra mí, pero ya te está esperando\falguien, ¿no?\rLo primero es lo primero. Vete ya, anda.
+Estoy en el Dojo de Ciudad Azafrán.\nNo me hagas esperar más y ven.\n
+Soy Antón.\n¿Qué tal?\r
+Espero que un despiste no haya hecho\nque tu cabeza borre de tu memoria\fnuestro combate.\r¡En el Dojo de Ciudad Azafrán ya!
+Cuando era pequeño, fue el boom\nde los Pokémon de tipo Bicho.\rYa de mayor, a mucha gente empieza\na darle igual. ¿A ti te gustan?\rYo no puedo pasar un día sin ellos\ntenga la edad que sea. ¡Son mis amigos!
+¿A que mi Gimnasio tenía trampas\nmuy curiosas?\rTienen pinta de haber costado horrores\nfabricarlas, pero fue pan comido.\rPrimero, colgué una cuerda, luego\nlos Pokémon se encargaron del resto.\n
+Creo que ya te lo había dicho.\nYo investigo Pokémon bicho.\rEs un trabajo enorme porque\nhay un montón distintos.\rSi me pusiera a estudiar todos\nlos tipos de Pokémon que existen\fse me iba la cabeza. Seguro.\rEl Profesor Elm y el Profesor Oak\nson superhombres para mí.

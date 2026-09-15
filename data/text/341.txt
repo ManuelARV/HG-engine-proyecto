@@ -1,0 +1,10 @@
+Lt. Surge: ¡Guau!\n¡Tienes un PIKACHU,\fmi Pokémon favorito!\r¡Excelente!\r¡Voy a darte mi número de teléfono!\nSupongo que lo quieres,\f¿no? {YESNO 0}
+¡{STRVAR_1 3, 0, 0} ha registrado a Lt. Surge\nen el Pokégear!
+Lt. Surge: ¡Llámame el viernes\npor la mañana!\r¡Vamos a librar un combate\nelectrizante!
+Lt. Surge: ¡Oh, no!\n¡Me has decepcionado!
+Lt. Surge: ¡Lo sabía!\nQuerías mi número de teléfono,\f¿eh? {YESNO 0}
+Lt. Surge: ¡Oh! ¡No esperaba\nencontrarte por aquí!\rCerca de una central se pueden\nsentir los impulsos eléctricos\fpor todas partes.\rSi atrapas un PIKACHU en el Bosque\nVerde, tráemelo aquí.
+Un Pokémon muy grande\nte está vigilando...\r
+ZAPDOS: ¡Zaap doos!\r
+Central Energía de Kanto
+Túnel Roca

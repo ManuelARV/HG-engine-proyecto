@@ -1,0 +1,108 @@
+{STRVAR_1 3, 0, 0}
+{STRVAR_1 3, 0, 0}
+{STRVAR_1 53, 0, 0} PC
+{STRVAR_1 53, 0, 0} PC
+{STRVAR_1 53, 0, 0} PC
+Elige el Pokémon.
+{ALN_CENTER}SALIR
+              
+{STRVAR_1 3, 0, 0} ha salido.
+CURAR
+PRÉSTAMO
+   
+  
+CANCELAR
+Restaurar PS o PP.
+Alquilar un objeto o una Baya.
+                      
+                    
+Volver a la pantalla anterior.
+RESTAURAR PS
+RESTAURAR PP
+RESTAURAR TODO
+SUBIR RANGO
+SALIR
+¿Qué quieres usar?
+Podrás recuperar PP si subes de rango.
+Podrás recuperar tanto PS como PP\nsi subes de rango.
+No puedes subir más de rango.
+Volver a la pantalla anterior.
+                            
+  
+   
+No tienes suficientes PC.
+Tu rango es demasiado bajo\npara usar este objeto.
+{STRVAR_1 0, 0, 0} ha recuperado sus PS.
+{STRVAR_1 0, 0, 0} ha recuperado sus PP.
+{STRVAR_1 0, 0, 0} ha recuperado\ntanto sus PS como sus PP.
+No serviría de nada.
+¿Quieres pagar {STRVAR_1 52, 0, 0} PC\npara subir de rango?
+  
+   
+No tienes suficientes PC.
+¡{STRVAR_1 3, 5, 0} puede restaurar PP!
+¡{STRVAR_1 3, 5, 0} puede restaurar\ntanto PS como PP!
+BAYAS
+OBJETOS
+SUBIR RANGO
+CANCELAR
+Puedes alquilarle una Baya al Pokémon.
+Puedes alquilarle un objeto al Pokémon.
+Podrás alquilarle un objeto al Pokémon\nsi subes de rango.
+La oferta de Bayas y objetos se\nampliará conforme subas de rango.
+No puedes subir más de rango.
+Volver a la pantalla anterior.
+Tienes un rango muy bajo para usar PC.
+Te costará {STRVAR_1 51, 0, 0} PC.\n¿De acuerdo?
+  
+   
+          
+¡{STRVAR_1 0, 0, 0} lleva ahora\nel objeto {STRVAR_1 8, 1, 0}!
+¡{STRVAR_1 0, 0, 0} ya lleva\nel objeto {STRVAR_1 8, 1, 0}!
+¿Quieres cambiar ese objeto?
+  
+   
+                         
+  
+   
+          
+¡{STRVAR_1 3, 5, 0} puede alquilar objetos!
+¡{STRVAR_1 3, 5, 0} puede alquilar más\nBayas y más objetos!
+Objeto
+{STRVAR_1 8, 0, 0}
+Natural.
+{STRVAR_1 7, 0, 0}
+Habilidad
+{STRVAR_1 5, 0, 0}
+Ataque
+{STRVAR_1 52, 0, 0}
+Defensa
+{STRVAR_1 52, 0, 0}
+At. Esp.
+{STRVAR_1 52, 0, 0}
+Def. Esp.
+{STRVAR_1 52, 0, 0}
+Veloc.
+{STRVAR_1 52, 0, 0}
+♂
+♀
+Nv.
+PS
+/
+{STRVAR_1 1, 0, 0}
+     
+     
+{STRVAR_1 52, 0, 0}
+{STRVAR_1 52, 0, 0}/{STRVAR_1 52, 1, 0}
+{STRVAR_1 6, 0, 0}
+{STRVAR_1 6, 1, 0}
+{STRVAR_1 6, 2, 0}
+{STRVAR_1 6, 3, 0}
+{COLOR 0}{STRVAR_1 51, 4, 0}{COLOR 0}/{COLOR 0}{STRVAR_1 51, 5, 0}{COLOR 0}
+{STRVAR_1 51, 0, 0}
+--
+{STRVAR_1 50, 0, 0}/{STRVAR_1 50, 1, 0}
+{STRVAR_1 51, 0, 0}PC
+SALIR
+PRÉSTAMO/BAYAS
+PRÉSTAMO/OBJETOS

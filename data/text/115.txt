@@ -1,0 +1,68 @@
+¡Ah! ¿Qué voy a hacer?\n¡Mi jefe se va a poner furioso!\r¡Los FARFETCH’D que cortan árboles\npara obtener carbón han huido\fhacia el bosque!\r¿Podrías atraparlos?\nLos FARFETCH’D tienen un oído muy fino.\rSi pisas una ramita y la oyen crujir,\nse vuelven hacia ti de inmediato.\rSolo podrás atraparlos si te acercas\npor detrás sin que se den cuenta...\f¿Puedes hacerlo?
+¡Guau! ¡Has atrapado un FARFETCH’D!\n¡Muchísimas gracias!\rPero...\nTodavía falta uno más.\r¿Sabes que si pisas una ramita y\nel FARFETCH’D la oye crujir,\fse volverá hacia ti de inmediato?\rLo mejor es que te le acerques\nsigilosamente por detrás.
+¡Guau! ¡Has conseguido atrapar los dos\nFARFETCH’D!\f¡Muchas gracias!\rLos Pokémon de mi jefe no me hacían\ncaso porque no tengo ninguna\fMedalla de Gimnasio.\rMenos mal que tú andabas por aquí.
+FARFETCH’D: ¡Farf!\r
+FARFETCH’D: ¡Farf!
+¡{STRVAR_1 3, 0, 0} ha atrapado\nun FARFETCH’D!\r
+¡Ah! ¡Mis FARFETCH’D!\rAcaso...\n¿Has sido tú quien los ha atrapado?\rSin estos dos para cortar los árboles,\nno podríamos conseguir el carbón.\r¡Muchas gracias!\nNo puedo dejar que te marches\fsin una recompensa...\r¡Ya sé!\n¡Toma esto!\r
+                      
+Es la MO Corte.\n¡Si tienes la Medalla del Gimnasio\fAzalea, los Pokémon que sepan este\fmovimiento podrán cortar arbustos!\r¡Pero ten cuidado!\rUna vez que le hayas enseñado este\nmovimiento a un Pokémon, no podrá\folvidarlo fácilmente.\r¡Piensa bien qué Pokémon quieres\nque lo aprenda!
+               
+¿Quieres que te enseñe mi oficio?\n¡En diez años serás el mejor!
+¿Que qué hago?\rAgitar árboles con Golpe Cabeza.\rEs divertido.\n¡Toma, pruébalo!{YESNO 0}
+¿Quieres enseñarle Golpe Cabeza\na algún Pokémon? {YESNO 0}
+Ya veo... Supongo que hay que\ncuidarse bien la cabeza.
+¿Qué Pokémon quieres que lo aprenda?\r
+Claro... Ni siquiera yo puedo\nenseñarle movimientos\fa un Huevo...\r
+Perdona, pero... no creo que ese\nPokémon pueda aprender Golpe Cabeza.\r
+¡{STRVAR_1 1, 0, 0} quiere aprender\nel movimiento Golpe Cabeza!\rPero {STRVAR_1 1, 0, 0} ya conoce\ncuatro movimientos.\r¿Quieres sustituir uno de esos\nmovimientos por Golpe Cabeza? {YESNO 0}\n
+¿Quieres que se olvide\nel movimiento {STRVAR_1 6, 1, 0}? {YESNO 0}
+¿Prefieres que no aprenda\nGolpe Cabeza? {YESNO 0}
+1, {PAUSE 0}2 y{PAUSE 0}... {PAUSE 0}... {PAUSE 0}... ¡puf!
+1, {PAUSE 0}2 y{PAUSE 0}... {PAUSE 0}... {PAUSE 0}... ¡puf!
+Je, je, je. ¿Qué te parece?\n¡Tu {STRVAR_1 0, 0, 0} se ve\fmucho más fuerte ahora!
+Tu {STRVAR_1 0, 0, 0} ha aprendido\nGolpe Cabeza.\r
+¡{STRVAR_1 1, 0, 0} ha olvidado\ncómo utilizar {STRVAR_1 6, 1, 0}!\rY...
+¡{STRVAR_1 1, 0, 0} ha aprendido\nGolpe Cabeza!
+¡{STRVAR_1 1, 0, 0} ha aprendido\nGolpe Cabeza!
+¡Aviso importante!\rEn el Encinar hay tantos árboles\nque no se ve el cielo. Está muy oscuro.\rCuidado con los objetos que puedan\nhaber caído al suelo.
+Santuario del Encinar...\nDedicado al guardián del bosque...
+Pobre de aquella que vaga perdida\nen lo profundo del peligroso bosque.\r
+¿Qué os inquieta?\n¿Acaso me recordáis de otro lugar?\f¿En Ciudad Malva?\fMe temo que os confundís.\rYa que estáis aquí,\n¿seríais tan amable de indicarme\fcómo salir de este bosque? {YESNO 0}
+Comprendo...\n¿Pero cómo podéis conocer\fel camino si vos todavía\fno habéis salido del bosque?\r
+¿Significa eso que vos también\ndesconocéis el camino?\r
+¿Este pequeño va a mostrarnos\ndónde está la salida?\fSabio Pokémon, ciertamente...\r
+Disculpad que os adelante.\r
+¡FARFETCH’D se ha vuelto hacia aquí!\nHa oído crujir las ramas\fy ahora mira en esta dirección.
+La única forma de atraparlo\nes por detrás.
+¡Lo has atrapado\nsin que se diera cuenta!
+¡Es un PICHU!...\r¡Tiene una oreja dentada!\r
+Parece que quiere acompañarte...\n¡Puedes acogerlo en tu equipo!\r
+¡El PICHU Picoreja se ha\nincorporado a tu equipo!
+Tu equipo está completo.\r
+Tu equipo está completo.\rDeposita un Pokémon en el PC.
+Picoreja: ¡Piipiii chu!\r
+¡{STRVAR_1 3, 0, 0} ha obtenido la Poké Ball!
+¿Quieres ponerle un mote\nal PICHU Picoreja? {YESNO 0}
+Andad con cuidado...\n¡No hagáis travesuras en el Santuario!\fLos espíritus podrían enfadarse y\fllevaros lejos de aquí.\r
+Algunos niños y Pokémon\nhan desaparecido en los alrededores\fdel Santuario.\rDicen que la culpa podría ser de un\nPokémon que posee la habilidad de viajar\fa su antojo a través del tiempo.\fEs todo un misterio...\r
+Vaya, vaya... Este pequeñín...\rNo sé cuánto tiempo habrá pasado\nviviendo en este bosque.\rLa primera vez que lo vi parecía\nmuy triste... pero hoy está\frebosante de alegría.\r
+Claro, ya lo entiendo.\nParece que han trabado\funa buena amistad.\r
+Pero tú ya llevas muchos Pokémon.\nNo te preocupes. Yo me quedo aquí\fcon él hasta que tú vuelvas de dejar a\funo de tu equipo en el Centro Pokémon.
+Los Pokémon se alegran mucho cuando\nvan con sus amigos.\fTrata bien a tus Pokémon.\r
+¡Ahora que lo pienso!\n¡Toma esta Poké Ball como regalo!\rEs de cuando me dedicaba en cuerpo\ny alma a entrenar Pokémon durante\fmis años mozos.\r¿Qué? No te preocupes. Seguro que\ntodavía funciona como el primer día.\r
+¡Ah! El PICHU Picoreja tiene muchas\nganas de entrar en tu Poké Ball.\r
+¿Le has puesto {STRVAR_1 1, 0, 0}?\nPues es un mote muy bonito.\r
+Este pequeñín se ha portado muy bien\nesperándote.\rVe a decirle algo,\nseguro que se alegrará.
+Eco: Oye, {STRVAR_1 3, 0, 0}, ¿conoces\nlos rumores sobre ese Santuario?\rDicen que si haces travesuras ahí,\npodrían llevarte los espíritus.\r
+Lira: Oye, {STRVAR_1 3, 0, 0}, ¿conoces\nlos rumores sobre ese Santuario?\rDicen que si haces travesuras ahí,\npodrían llevarte los espíritus.\r
+Eco: (?)\n¿Qué ha sido eso?\r
+Lira: (?)\n¿Qué ha sido eso?\r
+Eco: La verdad es que los viajes en\nel tiempo son bastante agradables.\r
+Lira: La verdad es que los viajes en\nel tiempo son bastante agradables.\r
+¡Ah, mi MARILL!\r
+¡Ah, mi MARILL!\r
+¡Pensaba que no volveríamos a vernos!\r¡Pero esto significa que ya hemos\nregresado a nuestra época!\r
+¡Pensaba que no volveríamos a vernos!\r¡Pero esto significa que ya hemos\nregresado a nuestra época!\r
+Ha sido una experiencia bastante rara,\npero al menos hemos regresado sanos y\fsalvos a nuestra época. Y además hemos\farruinado los planes del Team Rocket.\fTodo ha salido a pedir de boca, ¿no?\r¡{STRVAR_1 3, 0, 0}, contigo siempre nos\nembarcamos en alguna aventura!\rLa verdad es que estoy que me caigo.\nMe voy a casa a descansar.\r¡Hasta la vista!\r
+Ha sido una experiencia bastante rara,\npero al menos hemos regresado sanos y\fsalvos a nuestra época. Y además hemos\farruinado los planes del Team Rocket.\fTodo ha salido a pedir de boca, ¿no?\r¡{STRVAR_1 3, 0, 0}, contigo siempre nos\nembarcamos en alguna aventura!\fLa verdad es que estoy que me caigo.\rMe voy a casa a descansar.\n¡Hasta la vista!\r

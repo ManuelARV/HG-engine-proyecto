@@ -1,0 +1,4 @@
+T. de Bicis
+¿{STRVAR_1 3, 0, 0}?\rEres un tipo interesante.
+¿{STRVAR_1 3, 0, 0}?\rEres una chica interesante.
+¡Hola, aquí la Tienda de Bicis!\n¡Las ventas de Bicicletas han subido\fcomo la espuma!\rSe lo debemos todo a la publicidad\nque nos has dado montando de aquí\fpara allá en nuestra Bicicleta.\rComo muestra de agradecimiento,\npor favor, quédate con la Bici.\f¡Gracias de nuevo!

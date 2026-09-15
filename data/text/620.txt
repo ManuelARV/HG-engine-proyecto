@@ -1,0 +1,20 @@
+¿Qué tal, joven?\nVeo que no eres de Pueblo Caoba.\r¡Por no ser de aquí, deberías\nprobar el Caramelo Furia!\r¡Puede ser tuyo por solo 300 $!\f¿Quieres uno?{YESNO 0}
+No está bien que te lo diga después de\nhabérmelo comprado...\fpero no era obligatorio que lo hicieras.\rYa ves... En Johto puedes comprarlos\nen el Faro Olivo, en la farmacia\fde Ciudad Orquídea o en muchos\fotros sitios.\rAprovecha para hacer turismo allá\ndonde vayas.
+No está bien que te lo diga después de\nhabérmelo comprado...\fpero no era obligatorio que lo hicieras.\rYa ves... En Johto puedes comprarlos\nen el Faro Olivo, en la farmacia\fde Ciudad Orquídea o en muchos\fotros sitios.\rAprovecha para hacer turismo allá\ndonde vayas.\r
+¿Eh? ¿En serio me compras\nun Caramelo Furia?\r¡Qué bien!\rEl precio es el de siempre: 300 $.\n¿Lo quieres?{YESNO 0}
+¿Eh? ¿Quieres otro Caramelo Furia?\rYo creo que con uno te basta\ny te sobra.
+Me viene a la memoria una persona\nque vino hace tiempo desde Kanto a\fcomprarme un Caramelo Furia.\rPero en esa ocasión se me habían\nterminado. Se puso hecho un basilisco\fy se volvió a casa.\rMe supo bastante mal...
+Me viene a la memoria una persona\nque vino hace tiempo desde Kanto a\fcomprarme un Caramelo Furia.\rPero en esa ocasión se me habían\nterminado. Se puso hecho un basilisco\fy se volvió a casa.\rMe supo bastante mal...\r
+No tienes bastante dinero.
+No tienes bastante dinero.\r
+Oh, de acuerdo...
+Oh, de acuerdo...\r
+                                           
+                                            
+¿Has visto a los hombres de negro?\rDicen que hay unas ondas dañinas\npor este lugar...\rY ellos las hacen desplazarse entre\nPueblo Caoba y el Lago de la Furia.\r¿Qué diantres pretenden con eso?
+¿Vas al lago a ver a los violentos\nGYARADOS?
+Los MAGIKARP han vuelto\nal Lago de la Furia.\rSon buenas noticias\npara los pescadores.
+¡Visita la tienda de la abuela!\rNo es que venda cosas que no\nencuentras en otras partes, pero...\rpara comprarlas en otro sitio,\nmejor se las compras a ella, ¿no?
+Pueblo Caoba\nEl hogar de los Ninja
+Tienda de recuerdos\rNada de lo que sospechar aquí.\nEntren sin desconfiar.
+Líder del Gimnasio Pokémon\nde Pueblo Caoba: Fredo\fEl maestro del crudo invierno

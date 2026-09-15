@@ -1,0 +1,46 @@
+{SIZE 0}¡Buuu, fuera!{SIZE 0}\r
+¡Vaya peñazo de danza!\n¡Ya podríais marcaros una jota\fo cualquier cosa más animada!\r
+Caballero...\nLamento deciros que vuestras\fpeticiones están fuera de lugar.\r
+¿Cómo?\r¿Te atreves a llevarle la contraria\na un espectador?\r
+¿Hace falta que haga una demostración?\n¡Fíjate bien en cómo hay que mover\flas caderas!\f¡Ja, ja, ja, ja!\r
+¿Eh? ¿Y tú qué quieres?\r¡Estoy en plena coreografía!\r
+¡Pero yo no soy un esbirro cualquiera!\r
+¡Ahora que caigo!\rNo debería estar perdiendo\nel tiempo aquí.\rEstamos en medio de una misión\nimportante.\r¡Si me pillan me pasaré el resto de\nmis días pelando patatas!\r¡Mejor me las piro a tiempo!\r
+...
+Disculpadme... Vuestro nombre\nes {STRVAR_1 3, 0, 0}, ¿cierto?\fHa sido un magnífico combate.\rVuestra destreza a la hora de\nentrenar Pokémon con ternura\fy dureza al mismo tiempo es admirable.\rSin duda sois la persona indicada...\r¡Ji, ji, ji! Olvidad esto último...\nEstaba pensando en voz alta...\n
+Cada día sin excepción practicamos\nnuestra danza en este escenario\fde la vida.\rY, de igual modo, ni un solo día eludimos\nel cuidado de nuestros Pokémon para\fque, poco a poco, vayan progresando.\n
+Os doy la bienvenida.\nSoy Tamao. Ya me conocéis,\fpues nos encontramos en Ciudad Malva.\rPara hacer venir a HO-OH, necesitamos\na una persona de corazón noble cuyos\fvínculos con los Pokémon sean lo\fbastante fuertes.\rPor eso le pedimos al Sr. Pokémon que\nle entregara el Huevo Misterioso a quien\freuniera esas condiciones, como prueba\fde su valía.\rY así el Huevo llegó a vuestras manos,\npor mediación del Profesor Elm.\rAunque...\nLa pureza del corazón no basta y puede\fsucumbir a la fuerza de los Pokémon.\rPor ello debemos poner a prueba\nvuestra destreza con los Pokémon.\r¿Damos comienzo a la prueba?{YESNO 0}\n
+Os doy la bienvenida.\nSoy Tamao. Ya me conocéis,\fpues nos encontramos en Ciudad Malva.\rPara hacer venir a LUGIA, necesitamos\na una persona de corazón noble cuyos\fvínculos con los Pokémon sean lo\fbastante fuertes.\rPor eso le pedimos al Sr. Pokémon que\nle entregara el Huevo Misterioso a quien\freuniera esas condiciones, como prueba\fde su valía.\rY así el Huevo llegó a vuestras manos,\npor mediación del Profesor Elm.\rAunque...\nLa pureza del corazón no basta y puede\fsucumbir a la fuerza de los Pokémon.\rPor ello debemos poner a prueba\nvuestra destreza con los Pokémon.\r¿Damos comienzo a la prueba?{YESNO 0}
+Debemos poner a prueba\nvuestra destreza con los Pokémon.\r¿Damos comienzo a la prueba?{YESNO 0}
+De acuerdo... Esperaremos\nhasta que lo creáis oportuno.
+Sois verdaderamente fuerte.\rVos me rescatasteis en el Encinar.\nSoy Umeko. Tiendo a perderme.\rFui testigo de cómo derrotasteis\nal Team Rocket en el Pozo SLOWPOKE\fy ayudasteis a César...\r¡Ahora demostrad vuestra valía una\nvez más en un combate Pokémon!\r
+¡Vuestro progreso es formidable!\rMuchas gracias por defenderme\nde ese danzarín del Team Rocket.\rPero ¿pensáis que no habría podido\nencargarme de él personalmente?\rAunque no lo creáis, tengo algunos\nases escondidos en la manga del kimono.\rMe presento: soy Satsuki.\r¡Mostradme vuestra valía\nen un combate Pokémon!\r
+¡Un combate apasionante!\rVos me ayudasteis a salir del\nhielo dándome un empujoncito.\rSoy Sakura, la que se desliza sobre\nel frío hielo.\rDesde fuera del santuario, oí que\nsuperasteis la prueba en la Cueva\fDragón con todos los honores.\r¡Mostradme una vez más de lo que\nsois capaz en un combate Pokémon!\r
+Yo soy la última.\rOs vi en el Subterráneo de Ciudad Trigal\ny sé que podemos confiar en vos.\rSoy Komomo, la que danza incluso\nbajo tierra.\rMe impresionasteis al arruinar\nlos planes del Team Rocket\fpara apoderarse de la Torre Radio.\rPero ahora me gustaría medir vuestra\nfuerza personalmente.\r¡Demostradme vuestra valía!\r
+Cuando os hayáis preparado, hablad\ncon nuestra hermana Tamao,\fen el centro.
+No me cabe la menor duda.\nAhora sé que sois la persona\findicada para poseer esto.\rAquí tenéis.\r
+¡Hermana!\r¡La sombra de un enorme Pokémon\nplanea sobre la Torre Campana!\r¿Podría ser...?\r
+¡Hermana!\r¡La sombra de un enorme Pokémon\nplanea sobre las Islas Remolino!\r¿Podría ser...?\r
+Tamao: ¡{STRVAR_1 3, 0, 0}!\r¡Nosotras debemos dirigirnos sin\ndemora a la Torre Campana!\r
+Tamao: ¡{STRVAR_1 3, 0, 0}!\r¡Nosotras debemos dirigirnos sin\ndemora a las Islas Remolino!\r
+¿Qué se ha creído ese rufián\ndel Team Rocket?\r¿Cómo se atreve a molestar\na mi Chica Kimono?\rTú entrenas Pokémon, ¿verdad?\n¡Por favor, ayúdala!
+¡Fantástico!\rPese a tu edad, has demostrado que\nno te acobardas fácilmente.\rToma esto como muestra\nde agradecimiento.\r
+                      
+Es Surf, un movimiento que te permite\navanzar por el agua.\r
+Además de ser expertas bailarinas,\nlas Chicas Kimono también dominan\fel arte de los combates Pokémon.\rSin embargo, raramente entablan\nun combate.\rEn el caso de que te retaran,\n¿serías capaz de derrotarlas?
+PSYDUCK: ¡Psy psy!
+Ese anciano siempre va con su PSYDUCK.\nMe gustaría poder enseñar a bailar\fa los Pokémon que saben Surf.\rAsí a lo mejor podrían hacer\nnatación sincronizada.
+Ay, ayyy...\rSi no fuera porque me duele\nla barriga, ¡ya le enseñaría yo\fmodales a ese tipejo!
+¡Es... es mi oportunidad!\r¡Ahora podría conocer\na la Chica Kimono!
+Ay, ayyy...\rSi no fuera porque me duele\nla cadera, ¡ya le enseñaría yo\fmodales a ese tipejo!
+Ay, ayyy...\rSi no fuera porque me duelen\nlas muelas, ¡ya le enseñaría yo\fmodales a ese tipejo!
+Las Chicas Kimono son tan gráciles...\rPero seguro que tienen que soportar\nun entrenamiento muy estricto antes\fde salir a escena.\rSupongo que, si algo te gusta,\naguantas lo que te echen.
+¡Menuda falta de respeto! ¡Los jóvenes\nde hoy son unos maleducados!
+Para ser tan joven, no lo haces mal.
+Según el tríptico del espectáculo,\nusan esta mesa en algún momento\fde la función...
+Gracias por vuestra ayuda.
+Estamos ensayando nuestra danza.
+Gracias por vuestra ayuda.\rNos has demostrado que los mismos\nlazos que unen a los humanos pueden\funir a las personas y los Pokémon...\rUna vez más, gracias por satisfacer\nnuestras espectativas, {STRVAR_1 3, 0, 0}.\rSi hay algo que podamos ofreceros como\nmuestra de gratitud, os lo haremos\fllegar de manos del Sr. Pokémon o\fdel Profesor Elm.
+Estamos ensayando nuestra danza.
+Gracias por vuestra ayuda.
+¡Mostradnos la fuerza de los lazos\nque os unen a vuestros Pokémon!\r

@@ -1,0 +1,25 @@
+Yasmina: Gracias por ayudarnos\nen el faro...\rPero esto es distinto.\nDéjame que me presente como es debido.\rSoy Yasmina, la Líder del Gimnasio.\nLos Pokémon que uso son del tipo...\f¡Tachán!\rAcero.\n¿Sabes algo del tipo Acero?\rSon Pokémon muy duros y fríos\ny con una fuerza abrumadora.\f¿No piensas lo mismo?\r
+Yasmina: Eres mejor que yo,\ntanto en habilidad como en simpatía.\rDe acuerdo con las normas de la Liga,\nte concedo esta Medalla.\r
+¡{STRVAR_1 3, 0, 0} ha recibido\nla Medalla Mineral de Yasmina!
+Yasmina: Con la Medalla Mineral,\nincluso los Pokémon hasta el nivel 70\fque hayas recibido te obedecerán\fsin rechistar.\rY... también voy a darte esto.\r
+                           
+Yasmina: Esa MT contiene Cola Férrea.\rEl Pokémon golpea al oponente con la\ncola endurecida y puede llegar a bajar\fsu Defensa.
+Yasmina: Eh... No sé cómo decirlo,\npero...\rBuena suerte...
+Yasmina: Cuánto tiempo, ¿verdad?\rSupongo que... que estás bien, ¿no?\nEsto...\rNo encuentro las palabras, pero...\nBueno, no importa.
+Yasmina: ¡Ah, esto...!\n¿Quieres intercambiar\fPokémon conmigo?{YESNO 0}
+Yasmina: ¿De verdad?\n¡Muchas gracias!\rCualquier Pokémon me parece bien.\r
+Yasmina: Ah, bueno...\nEs una lástima, pero me aguantaré.
+Yasmina: ¡Muchas gracias!\nLo cuidaré con mucho cariño.
+Yasmina: ¿No... no te dan ganas\nde frotar y pulir el cuerpo de los\fPokémon de tipo Acero?
+¿Quieres intercambiar\na {STRVAR_1 1, 1, 0}?{YESNO 0}
+Yasmina: No es que no quiera el Huevo,\npero...\fCreo que sería mejor un Pokémon.
+Yasmina: Me siento halagada, pero...\nNo puedo aceptar un Pokémon\ftan valioso...
+¿Yasmina, la Líder del Gimnasio?\rEstá en el faro cuidando de un Pokémon\nque no se encuentra bien.\rYasmina es admirable. Todo lo que tiene\nde fuerte lo tiene de generosa.
+Yasmina solo usa Pokémon de tipo Acero.\rSe esconde bajo una fachada de acero\nfrío para no mostrar la verdadera\fternura de su corazón a los\fEntrenadores que la desafían.
+Ha sido increíble.\nEl tipo Acero se las trae, ¿eh?\r¡Un combate que ha hecho\nsaltar chispas!
+Sin duda estás a punto para\neste Gimnasio.\rSé que aún no lo has dado todo,\npero un Gimnasio es algo serio.\r¡Lucha con todas tus fuerzas!
+¡Buen combate! Sigue haciéndolo así\nde bien allá donde vayas.\rY ya sabes Surf, te aconsejo que\nvayas al Lago de la Furia.
+Je, je... Ya hemos visto tu potencial\nen el faro.\rAhora te toca enfrentarte a Yasmina.\n¡Cuenta con mi apoyo!
+Ha sido alucinante...\rCon el nivel que tienes puedes\napuntar bien alto.\r¿Ya has estado en Pueblo Caoba?
+Gimnasio Pokémon de Ciudad Olivo
+Gimnasio Pokémon de Ciudad Olivo\rLíder: Yasmina\nEntrenadores reconocidos:\f{STRVAR_1 3, 0, 0}

@@ -1,0 +1,157 @@
+¡Te doy la bienvenida!\rAquí podrás sacar un Pokémon de\ntu Caja y transferirlo a tu Pokéwalker\fpara poder llevártelo de Paseo.\r
+Elegir un Pokémon para\nsalir de Paseo.
+Recibir un regalo o\nun Pokémon.
+¡Atención!\rSe borrarán todos los datos\ndel Pokéwalker.\rAntes de borrar, verifica la información\ndel Pokéwalker.\rEl Pokémon que esté de Paseo\nregresará, pero se perderán\ftodos los datos del Pokéwalker.\r¿Borrar los datos del Pokéwalker?
+Se borrarán los datos\ndel Pokéwalker.
+Apunta a la tarjeta DS y\nselecciona “CONECTAR”.
+Conectando con el Pokéwalker.\nEspera, por favor.
+En un lugar donde el sonido\ndel Pokéwalker no moleste,\rapunta a la tarjeta DS,\npulsa el botón y espera\fcinco segundos.
+Lleva tu Pokémon de Paseo\ngracias al Pokéwalker.
+¿Quieres leer el número de pasos\ndel Pokéwalker?
+                     
+Elige un Pokémon de una de las Cajas\nde tu PC.\r
+Elige una Ruta para\ndar un Paseo.\r
+Guardando...\nNo apagues la consola.
+                              
+Para utilizar el Pokéwalker necesitas\nal menos cinco espacios libres\fen las Cajas de tu PC.\rRegresa cuando tengas al menos\ncinco espacios libres.\r
+Estableciendo la comunicación entre\nel Pokéwalker y tu Nintendo DS.{PAUSE 0}
+                        
+¡Atención!\rEl Pokémon que ha salido de Paseo puede\nvolver, pero el resto de los Pokémon\falmacenados en el Pokéwalker\fno podrán recuperarse.\r¿Quieres que regrese el Pokémon?
+Regreso del Pokémon\nque estaba de Paseo.
+El Pokémon recibido ha vuelto\na la vida salvaje.{PAUSE 0}
+¿Quieres salir de Paseo\npor la Ruta {STRVAR_34 19, 0, 0}?
+¡Te doy la bienvenida!\rAquí podrás sacar un Pokémon de\ntu Caja y transferirlo al Pokéwalker\fpara poder llevártelo de Paseo.\rVuelve cuando tengas al menos\nun Pokémon en la Caja.\r
+          
+¡{STRVAR_1 1, 1, 0} fue al Pokéwalker!{PAUSE 0}
+Se ha registrado el Pokéwalker en\nesta tarjeta DS.\rDe ahora en adelante, cuando regrese\ntu Pokémon, que sea a esta tarjeta DS.\r¡Sal de Paseo con tu Pokémon\ny pásatelo en grande!\r
+¡Regresa, {STRVAR_1 1, 1, 0}!
+¡{STRVAR_1 1, 1, 0} está aquí ahora! {PAUSE 0}
+             
+¡Regalo recibido!{PAUSE 0}
+                        
+Se han reiniciado los datos del\nPokéwalker.{PAUSE 0}
+¡El Pokémon ha regresado!{PAUSE 0}
+Se ha interrumpido\nla conexión.{PAUSE 0}
+Este Pokéwalker ya está registrado.{PAUSE 0}
+La conexión no ha sido posible.{PAUSE 0}
+Este Pokéwalker aún\nno está registrado.{PAUSE 0}
+Este Pokéwalker ya contiene\nun Pokémon.{PAUSE 0}
+Este no es el Pokéwalker registrado.{PAUSE 0}
+Este no es el Pokéwalker registrado.{PAUSE 0}
+                       
+Se ha interrumpido la conexión\ncon el Pokéwalker.{PAUSE 0}
+Se ha interrumpido la conexión.\nInténtalo de nuevo, por favor.{PAUSE 0}
+Este Pokéwalker no contiene\nningún Pokémon.{PAUSE 0}
+¡{STRVAR_1 1, 1, 0} llegó de su Paseo\npor la Ruta {STRVAR_34 19, 2, 0}!\r
+Has acumulado {STRVAR_1 54, 3, 0} W\ndurante el Paseo.\r
+¡Hasta el próximo Paseo!\r
+¡Que disfrutes el Paseo con tu Pokémon!\r
+...\n¡Hala!\r¡El Pokéwalker está reaccionando\ncon los Vatios acumulados!\rEl Pokéwalker ha descubierto\nuna nueva Ruta.\r
+Has metido los Pokémon capturados\ndurante el Paseo en la Caja.\r
+Has guardado en la Bolsa los objetos\nencontrados durante el Paseo.\r
+¡{STRVAR_1 1, 1, 0} ha dado {STRVAR_1 56, 3, 0} pasos!\n
+¡{STRVAR_1 1, 1, 0} ha caminado mucho\ny ha subido un nivel!\r
+¡Enhorabuena!\r¡El Pokéwalker ha registrado un total\nde 9 999 999 pasos!\r
+A modo de recompensa,\nhas recibido una Baya Arabol.\rHas puesto la recompensa en la Bolsa.\r
+¡Ya puedes recorrer\nla Ruta {STRVAR_34 19, 4, 0}!\r
+Ruta {STRVAR_34 19, 2, 0}
+{STRVAR_1 56, 5, 0} pasos dados
+{STRVAR_1 54, 3, 0} W acumulados
+Total de pasos hasta ahora:
+{STRVAR_1 56, 6, 0}
+Total de Vatios acumulados:
+{STRVAR_1 56, 7, 0} W
+Resultados de este Paseo:
+Regalos recibidos:
+Datos del Pokéwalker:
+Pokémon capturados:
+{STRVAR_1 0, 8, 0}
+{STRVAR_1 0, 9, 0}
+{STRVAR_1 0, 10, 0}
+{STRVAR_1 0, 11, 0}
+Objetos obtenidos:
+{STRVAR_1 8, 9, 0}
+Salir de Paseo
+Recibir un regalo
+Volver del Paseo
+Borrar datos del Pokéwalker
+Guardar y salir de Paseo
+Hacer que el Pokémon regrese
+{ALN_CENTER}Volver
+    
+{STRVAR_1 50, 10, 0}/{STRVAR_1 50, 11, 0}
+Vatios totales
+{STRVAR_1 56, 7, 0} W
+{STRVAR_1 56, 6, 0} p.
+Pasos totales
+Vatios necesarios para encontrar\nla siguiente Ruta: {STRVAR_1 56, 12, 0} W
+¡Queda poco para que la próxima\nRuta esté disponible!
+Puedes elegir entre numerosas Rutas\npara tus Paseos.
+{STRVAR_1 1, 13, 0}\nestá de Paseo.
+             
+Prado Tranquilo
+Bosque Murmullos
+Camino Pedregoso
+Costa Bella
+Urbanización
+Cueva Sombría
+Mar Azul
+Arrabal
+Llano de Hoenn
+Playa Cálida
+Sendero Volcán
+Casa del Árbol
+Cueva del Terror
+Llano de Sinnoh
+Senda Glacial
+Gran Bosque
+Lago Bruma
+Playa Tormenta
+Zona Vacacional
+Cueva Calma
+Ultramar
+Confín del Cielo
+Bosque Amarillo
+Acontecimiento
+De turismo
+Vía Campeón
+Campo Amistad
+--------------
+Un prado tranquilo, ideal\npara un Paseo. Se pueden\nencontrar infinidad de Pokémon.
+Un inmenso bosque virgen.\nEn su interior viven numerosos\nPokémon.
+Montaña escarpada con muchos\nsenderos empinados. Las vistas\ndesde la cima son excepcionales.
+Ruta muy popular a lo largo\nde un precioso mar. Está lleno\nde Pokémon acuáticos.
+Zona residencial en la que se\npueden encontrar muchos\nPokémon al salir de Paseo.
+Oscura caverna en la que poner\na prueba el valor. ¡Abre bien los\nojos y encuentra Pokémon!
+Mar de un azul profundo.\nSe dice que en sus profundidades\nhabitan Pokémon raros.
+Las afueras deshabitadas de\nalguna ciudad. Los Pokémon se\nesconden en las casas vacías.
+Ruta de la lejana región\nde Hoenn donde habitan Pokémon\nimposibles de ver en otro lugar.
+Cálida playa de la lejana región\nde Hoenn donde habitan Pokémon\nimposibles de ver en otro lugar.
+Volcán en continua actividad\ndonde viven singulares Pokémon\nhabituados al calor extremo.
+Ciudad en perfecta armonía con\nla naturaleza. Aquí se pueden\nver Pokémon poco comunes.
+Cueva negra como el carbón. De\nsu interior llegan misteriosos\nruidos. ¿De Pokémon, quizás?
+Ruta de la lejana región\nde Sinnoh. Aquí se pueden\nencontrar Pokémon raros.
+Un paso en falso supone una\ncaída colosal en esta escarpada\nruta de nieve.
+Inmenso bosque virgen con\nmultitud de árboles milenarios\ndonde viven numerosos Pokémon.
+Lago rodeado de una espesa\nniebla en el que reina una\natmósfera de misterio.
+Playa casi abandonada sacudida\npor grandes olas. Aquí habitan\nnumerosos Pokémon raros.
+Complejo turístico exclusivo\nfamoso porque en él se pueden\nencontrar Pokémon muy monos.
+Cueva silenciosa que parece\ncompletamente deshabitada.\n¡Abre bien los ojos!
+Islote en los confines del\nocéano. Pueden verse Pokémon\nnadando en sus claras aguas.
+Sendero montañoso oscuro como\nla noche en el que parece que\nhacemos un viaje al pasado.
+Multitud de PIKACHU viven\nfelices en este bosque.\n¡Encuéntralos!
+Una Ruta tranquila para que la\ndisfrutes y almacenes Vatios\na tu propio ritmo.
+Date un Paseo por las diversas\nRutas para avistar infinidad de\nPokémon. ¡Hazte con todos!
+Imprescindible para los futuros\nCampeones. ¡Aquí verás Pokémon\nmuy seguros de sí mismos!
+Aquí podrás encontrar Pokémon\nque evolucionan según el grado\nde amistad y valiosos objetos.
+                             
+                                            
+{ALN_CENTER}SÍ
+{ALN_CENTER}NO
+{ALN_CENTER}Conservar los pasos
+{ALN_CENTER}Borrar los pasos
+           
+          
+         
+          
+              
