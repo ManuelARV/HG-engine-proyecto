@@ -35,9 +35,9 @@ En tus viajes encontrarás a mucha\ngente y, gracias a ella, irás\ncreciendo ta
 Este mundo está habitado por\ncriaturas llamadas Pokémon.\r
 Los humanos y los Pokémon\nvivimos juntos como amigos.\rA veces jugamos y otras trabajamos\ncodo con codo.\rHay quien combate con sus Pokémon\npara estrechar lazos con ellos.\r¿Que qué hago yo?\rYo me dedico a estudiar los Pokémon\npara conocerlos mejor.\r
 Bueno, ¿qué te parece si ahora\nme cuentas algo sobre ti?\r
-¿Eres un chico o una chica?\rDímelo, por favor.{YESNO 0}
-Bien, así que eres un chico...{YESNO 0}
-Bien, así que eres una chica...{YESNO 0}
+Antes de empezar...\rElige tu personaje.{YESNO 0}
+Genial ¿Continuamos? {YESNO 0}
+Genial ¿Continuamos?{YESNO 0}
 Y dime, ¿cómo te llamas?
 ¿Te llamas {STRVAR_1 3, 0, 0}?{YESNO 0}
 ¿Te llamas {STRVAR_1 3, 0, 0}?{YESNO 0}
